@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>gjs</code><sourcefile>gjs-1.52.3.tar.xz</sourcefile><sourcedir>gjs-1.52.3</sourcedir><configure/><build/><install/><dependances><dependance>gobject-introspection</dependance><dependance>cairo</dependance><dependance>dbus</dependance><dependance>gtk3</dependance><dependance>mozjs-gnome</dependance></dependances><patches/><addons/></package>

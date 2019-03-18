@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>at-spi2-core</code><sourcefile>at-spi2-core-2.28.0.tar.xz</sourcefile><sourcedir>at-spi2-core-2.28.0</sourcedir><configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMgIC4u</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbA==</install><dependances><dependance>glib</dependance><dependance>Xlibs</dependance><dependance>dbus</dependance></dependances><patches/><addons/></package>

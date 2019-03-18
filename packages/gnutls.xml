@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>gnutls</code><sourcefile>gnutls-3.5.19.tar.xz</sourcefile><sourcedir>gnutls-3.5.19</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtZGVmYXVsdC10cnVzdC1zdG9yZS1wa2NzMTE9InBrY3MxMToi</configure><build/><install/><dependances><dependance>nettle</dependance><dependance>make-ca</dependance><dependance>p11-kit</dependance><dependance>libtasn1</dependance><dependance>libunistring</dependance></dependances><patches/><addons/></package>

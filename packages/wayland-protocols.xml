@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>wayland-protocols</code><sourcefile>wayland-protocols-1.15.tar.xz</sourcefile><sourcedir>wayland-protocols-1.15</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg0K</configure><build/><install/><dependances><dependance>wayland</dependance></dependances><patches/><addons/></package>

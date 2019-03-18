@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>xf86-input-evdev</code><sourcefile>xf86-input-evdev-2.10.6.tar.bz2</sourcefile><sourcedir>xf86-input-evdev-2.10.6</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances><dependance>xorg-server</dependance><dependance>libevdev</dependance><dependance>mtdev</dependance></dependances><patches/><addons/></package>

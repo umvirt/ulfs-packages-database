@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>python-six</code><sourcefile/><sourcedir/><configure>Iw==</configure><build>Iw==</build><install>Iw==</install><dependances><dependance>python2-six</dependance><dependance>python3-six</dependance></dependances><patches/><addons/></package>

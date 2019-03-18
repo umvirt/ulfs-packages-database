@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>libmbim</code><sourcefile>libmbim-1.16.2.tar.xz</sourcefile><sourcedir>libmbim-1.16.2</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGljIA==</configure><build/><install/><dependances><dependance>libgudev</dependance></dependances><patches/><addons/></package>

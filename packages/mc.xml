@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>mc</code><sourcefile>mc-4.8.21.tar.xz</sourcefile><sourcedir>mc-4.8.21</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWVuYWJsZS1jaGFyc2V0DQo=</configure><build/><install>bWFrZSBpbnN0YWxsICYmDQpjcCAtdiBkb2Mva2V5YmluZC1taWdyYXRpb24udHh0IC91c3Ivc2hhcmUvbWM=</install><dependances><dependance>glib</dependance><dependance>slang</dependance></dependances><patches/><addons/></package>

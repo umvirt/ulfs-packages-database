@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>libpng</code><sourcefile>libpng-1.6.35.tar.xz</sourcefile><sourcedir>libpng-1.6.35</sourcedir><configure>TElCUz0tbHB0aHJlYWQgLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure><build/><install>bWFrZSBpbnN0YWxsICYmDQpta2RpciAtdiAvdXNyL3NoYXJlL2RvYy9saWJwbmctMS42LjM1ICYmDQpjcCAtdiBSRUFETUUgbGlicG5nLW1hbnVhbC50eHQgL3Vzci9zaGFyZS9kb2MvbGlicG5nLTEuNi4zNQ==</install><dependances/><patches><patch>libpng-1.6.35-apng.patch</patch></patches><addons/></package>

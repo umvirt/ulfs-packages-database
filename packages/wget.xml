@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>wget</code><sourcefile>wget-1.19.5.tar.gz</sourcefile><sourcedir>wget-1.19.5</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICBcDQogICAgICAgICAgICAtLXdpdGgtc3NsPW9wZW5zc2w=</configure><build/><install/><dependances/><patches/><addons/></package>

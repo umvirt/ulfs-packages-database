@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>geocode-glib</code><sourcefile>geocode-glib-3.26.0.tar.xz</sourcefile><sourcedir>geocode-glib-3.26.0</sourcedir><configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAmJg0KY2QgICAgYnVpbGQgICAgICAgICAgICAmJg0KbWVzb24gLS1wcmVmaXggL3VzciAuLiA=</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbA==</install><dependances><dependance>gobject-introspection</dependance><dependance>libsoup</dependance><dependance>gtk-doc</dependance><dependance>json-glib</dependance></dependances><patches/><addons/></package>

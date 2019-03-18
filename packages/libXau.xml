@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>libXau</code><sourcefile>libXau-1.0.8.tar.bz2</sourcefile><sourcedir>libXau-1.0.8</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances><dependance>xorgproto</dependance></dependances><patches/><addons/></package>

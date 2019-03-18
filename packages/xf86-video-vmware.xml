@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>xf86-video-vmware</code><sourcefile>xf86-video-vmware-13.3.0.tar.bz2</sourcefile><sourcedir>xf86-video-vmware-13.3.0</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances><dependance>xorg-server</dependance></dependances><patches/><addons/></package>

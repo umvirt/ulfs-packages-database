@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>p11-kit</code><sourcefile>p11-kit-0.23.13.tar.gz</sourcefile><sourcedir>p11-kit-0.23.13</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS13aXRoLXRydXN0LXBhdGhzPS9ldGMvcGtpL2FuY2hvcnM=</configure><build/><install/><dependances><dependance>make-ca</dependance><dependance>libtasn1</dependance></dependances><patches/><addons/></package>

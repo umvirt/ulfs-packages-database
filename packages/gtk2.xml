@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>gtk2</code><sourcefile>gtk+-2.24.32.tar.xz</sourcefile><sourcedir>gtk+-2.24.32</sourcedir><configure>c2VkIC1lICdzI2wgXChndGstLipcKS5zZ21sIyYgLW8gXDEjJyBcDQogICAgLWkgZG9jcy97ZmFxLHR1dG9yaWFsfS9NYWtlZmlsZS5pbiAgICAgICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGM=</configure><build/><install/><dependances><dependance>atk</dependance><dependance>hicolor-icon-theme</dependance><dependance>gdk-pixbuf</dependance><dependance>pango</dependance></dependances><patches/><addons/></package>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>dbus-glib</code><sourcefile>dbus-glib-0.110.tar.gz</sourcefile><sourcedir>dbus-glib-0.110</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure><build/><install/><dependances><dependance>glib</dependance><dependance>dbus</dependance><dependance>gtk-doc</dependance></dependances><patches/><addons/></package>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>xkeyboard-config</code><sourcefile>xkeyboard-config-2.24.tar.bz2</sourcefile><sourcedir>xkeyboard-config-2.24</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0td2l0aC14a2ItcnVsZXMtc3ltbGluaz14b3Jn</configure><build/><install/><dependances><dependance>Xlibs</dependance></dependances><patches/><addons/></package>

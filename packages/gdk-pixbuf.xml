@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>gdk-pixbuf</code><sourcefile>gdk-pixbuf-2.36.12.tar.xz</sourcefile><sourcedir>gdk-pixbuf-2.36.12</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgteDEx</configure><build/><install/><dependances><dependance>glib</dependance><dependance>Xlibs</dependance><dependance>libpng</dependance><dependance>libjpeg-turbo</dependance><dependance>shared-mime-info</dependance><dependance>tiff</dependance></dependances><patches/><addons/></package>
