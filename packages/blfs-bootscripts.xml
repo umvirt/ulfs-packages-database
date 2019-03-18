@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>blfs-bootscripts</code><sourcefile>blfs-bootscripts-20180105.tar.xz</sourcefile><sourcedir>blfs-bootscripts-20180105</sourcedir><configure>c2xlZXAgMTA=</configure><build>Y2QgLi4NCm12IGJsZnMtYm9vdHNjcmlwdHMtMjAxODAxMDUgL3Vzci9zaGFyZQ0K</build><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>blfs-bootscripts</code>
+  <sourcefile>blfs-bootscripts-20180105.tar.xz</sourcefile>
+  <sourcedir>blfs-bootscripts-20180105</sourcedir>
+  <configure>c2xlZXAgMTA=</configure>
+  <build>Y2QgLi4NCm12IGJsZnMtYm9vdHNjcmlwdHMtMjAxODAxMDUgL3Vzci9zaGFyZQ0K</build>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

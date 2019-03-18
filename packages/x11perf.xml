@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>x11perf</code><sourcefile>x11perf-1.6.0.tar.bz2</sourcefile><sourcedir>x11perf-1.6.0</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>x11perf</code>
+  <sourcefile>x11perf-1.6.0.tar.bz2</sourcefile>
+  <sourcedir>x11perf-1.6.0</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

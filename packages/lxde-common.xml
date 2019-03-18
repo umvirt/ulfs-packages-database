@@ -1,2 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>lxde-common</code><sourcefile>lxde-common-0.99.2.tar.xz</sourcefile><sourcedir>lxde-common-0.99.2</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure><build/><install>bWFrZSBpbnN0YWxsDQp1cGRhdGUtbWltZS1kYXRhYmFzZSAvdXNyL3NoYXJlL21pbWUgJiYNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcWYgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yICYmDQp1cGRhdGUtZGVza3RvcC1kYXRhYmFzZSAtcQ==</install><dependances><dependance><code>hicolor-icon-theme</code><weight>0</weight></dependance><dependance><code>shared-mime-info</code><weight>0</weight></dependance><dependance><code>dbus</code><weight>0</weight></dependance><dependance><code>desktop-file-utils</code><weight>0</weight></dependance><dependance><code>pcmanfm</code><weight>0</weight></dependance><dependance><code>lxpanel</code><weight>0</weight></dependance><dependance><code>lxsession</code><weight>0</weight></dependance><dependance><code>lxde-icon-theme</code><weight>0</weight></dependance><dependance><code>openbox</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>lxde-common</code>
+  <sourcefile>lxde-common-0.99.2.tar.xz</sourcefile>
+  <sourcedir>lxde-common-0.99.2</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQp1cGRhdGUtbWltZS1kYXRhYmFzZSAvdXNyL3NoYXJlL21pbWUgJiYNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcWYgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yICYmDQp1cGRhdGUtZGVza3RvcC1kYXRhYmFzZSAtcQ==</install>
+  <dependances>
+    <dependance>
+      <code>hicolor-icon-theme</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>shared-mime-info</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>desktop-file-utils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pcmanfm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lxpanel</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lxsession</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lxde-icon-theme</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openbox</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xclock</code><sourcefile>xclock-1.0.7.tar.bz2</sourcefile><sourcedir>xclock-1.0.7</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances><dependance><code>Xlibs</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>xclock</code>
+  <sourcefile>xclock-1.0.7.tar.bz2</sourcefile>
+  <sourcedir>xclock-1.0.7</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>Xlibs</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<command><release>0.1</release><name>kernel_build</name><info>QnVpbGQga2VybmVsIGFuZCBtb2R1bGVz</info><commands>bWFrZQ==</commands></command>
+<command>
+  <release>0.1</release>
+  <name>kernel_build</name>
+  <info>QnVpbGQga2VybmVsIGFuZCBtb2R1bGVz</info>
+  <commands>bWFrZQ==</commands>
+</command>

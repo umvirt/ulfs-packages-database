@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>wireless_tools</code><sourcefile>wireless_tools.29.tar.gz</sourcefile><sourcedir>wireless_tools.29</sourcedir><configure>Iw==</configure><build/><install>bWFrZSBQUkVGSVg9L3VzciBJTlNUQUxMX01BTj0vdXNyL3NoYXJlL21hbiBpbnN0YWxs</install><dependances/><patches><patch>wireless_tools-29-fix_iwlist_scanning-1.patch</patch></patches><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>wireless_tools</code>
+  <sourcefile>wireless_tools.29.tar.gz</sourcefile>
+  <sourcedir>wireless_tools.29</sourcedir>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBQUkVGSVg9L3VzciBJTlNUQUxMX01BTj0vdXNyL3NoYXJlL21hbiBpbnN0YWxs</install>
+  <dependances/>
+  <patches>
+    <patch>wireless_tools-29-fix_iwlist_scanning-1.patch</patch>
+  </patches>
+  <addons/>
+</package>

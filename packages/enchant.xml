@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>enchant</code><sourcefile>enchant-2.2.3.tar.gz</sourcefile><sourcedir>enchant-2.2.3</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure><build/><install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0Kcm0gLXJmIC91c3IvaW5jbHVkZS9lbmNoYW50ICAgICAgICAgICAgICAgICAgICAmJg0KbG4gLXNmdiBlbmNoYW50LTIgICAgICAgL3Vzci9pbmNsdWRlL2VuY2hhbnQgICAmJg0KbG4gLXNmdiBlbmNoYW50LTIgICAgICAgL3Vzci9iaW4vZW5jaGFudCAgICAgICAmJg0KbG4gLXNmdiBsaWJlbmNoYW50LTIuc28gL3Vzci9saWIvbGliZW5jaGFudC5zbyAmJg0KbG4gLXNmdiBlbmNoYW50LTIucGMgICAgL3Vzci9saWIvcGtnY29uZmlnL2VuY2hhbnQucGM=</install><dependances><dependance><code>glib</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>enchant</code>
+  <sourcefile>enchant-2.2.3.tar.gz</sourcefile>
+  <sourcedir>enchant-2.2.3</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0Kcm0gLXJmIC91c3IvaW5jbHVkZS9lbmNoYW50ICAgICAgICAgICAgICAgICAgICAmJg0KbG4gLXNmdiBlbmNoYW50LTIgICAgICAgL3Vzci9pbmNsdWRlL2VuY2hhbnQgICAmJg0KbG4gLXNmdiBlbmNoYW50LTIgICAgICAgL3Vzci9iaW4vZW5jaGFudCAgICAgICAmJg0KbG4gLXNmdiBsaWJlbmNoYW50LTIuc28gL3Vzci9saWIvbGliZW5jaGFudC5zbyAmJg0KbG4gLXNmdiBlbmNoYW50LTIucGMgICAgL3Vzci9saWIvcGtnY29uZmlnL2VuY2hhbnQucGM=</install>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

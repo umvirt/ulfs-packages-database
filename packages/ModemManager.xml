@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>ModemManager</code><sourcefile>ModemManager-1.8.0.tar.xz</sourcefile><sourcedir>ModemManager-1.8.0</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbW9yZS13YXJuaW5ncz1ubyAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbWQtam91cm5hbCAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbWQtc3VzcGVuZC1yZXN1bWUgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure><build/><install/><dependances><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>vala</code><weight>0</weight></dependance><dependance><code>libmbim</code><weight>0</weight></dependance><dependance><code>libqmi</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>ModemManager</code>
+  <sourcefile>ModemManager-1.8.0.tar.xz</sourcefile>
+  <sourcedir>ModemManager-1.8.0</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbW9yZS13YXJuaW5ncz1ubyAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbWQtam91cm5hbCAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbWQtc3VzcGVuZC1yZXN1bWUgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libmbim</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libqmi</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

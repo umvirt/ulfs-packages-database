@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>nautilus</code><sourcefile>nautilus-3.28.1.tar.xz</sourcefile><sourcedir>nautilus-3.28.1</sourcedir><configure>c2VkIHMvXCdsaWJtXCcvXCdtXCcvIC1pIG1lc29uLmJ1aWxkICYmDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgIC0tc3lzY29uZmRpcj0vZXRjICBcDQogICAgICAtRHNlbGludXg9ZmFsc2UgICAgXA0KICAgICAgLURwYWNrYWdla2l0PWZhbHNlIFwNCiAgICAgIC4u</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbCAmJg0KZ2xpYi1jb21waWxlLXNjaGVtYXMgL3Vzci9zaGFyZS9nbGliLTIuMC9zY2hlbWFz</install><dependances><dependance><code>gnome-autoar</code><weight>0</weight></dependance><dependance><code>gnome-desktop</code><weight>0</weight></dependance><dependance><code>libnotify</code><weight>0</weight></dependance><dependance><code>tracker</code><weight>0</weight></dependance><dependance><code>gexiv2</code><weight>0</weight></dependance><dependance><code>desktop-file-utils</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>nautilus</code>
+  <sourcefile>nautilus-3.28.1.tar.xz</sourcefile>
+  <sourcedir>nautilus-3.28.1</sourcedir>
+  <configure>c2VkIHMvXCdsaWJtXCcvXCdtXCcvIC1pIG1lc29uLmJ1aWxkICYmDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgIC0tc3lzY29uZmRpcj0vZXRjICBcDQogICAgICAtRHNlbGludXg9ZmFsc2UgICAgXA0KICAgICAgLURwYWNrYWdla2l0PWZhbHNlIFwNCiAgICAgIC4u</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbCAmJg0KZ2xpYi1jb21waWxlLXNjaGVtYXMgL3Vzci9zaGFyZS9nbGliLTIuMC9zY2hlbWFz</install>
+  <dependances>
+    <dependance>
+      <code>gnome-autoar</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gnome-desktop</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnotify</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tracker</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gexiv2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>desktop-file-utils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>icewm</code><sourcefile>icewm-1.4.2.tar.bz2</sourcefile><sourcedir>icewm-1.4.2</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9pY2V3bS0xLjQuMg==</configure><build/><install>bWFrZSBpbnN0YWxsICAgICAgICAgJiYNCnJtIC91c3Ivc2hhcmUveHNlc3Npb25zL2ljZXdtLmRlc2t0b3A=</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>icewm</code>
+  <sourcefile>icewm-1.4.2.tar.bz2</sourcefile>
+  <sourcedir>icewm-1.4.2</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9pY2V3bS0xLjQuMg==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgJiYNCnJtIC91c3Ivc2hhcmUveHNlc3Npb25zL2ljZXdtLmRlc2t0b3A=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

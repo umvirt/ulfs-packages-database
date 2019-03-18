@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<command><release>0.1</release><name>check_environment</name><info>Q2hlY2sgZW52aXJvbm1lbnQgdmFyaWFibGVz</info><commands>ZW52</commands></command>
+<command>
+  <release>0.1</release>
+  <name>check_environment</name>
+  <info>Q2hlY2sgZW52aXJvbm1lbnQgdmFyaWFibGVz</info>
+  <commands>ZW52</commands>
+</command>

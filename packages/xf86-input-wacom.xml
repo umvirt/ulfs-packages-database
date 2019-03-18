@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xf86-input-wacom</code><sourcefile>xf86-input-wacom-0.36.0.tar.bz2</sourcefile><sourcedir>xf86-input-wacom-0.36.0</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0td2l0aC1zeXN0ZW1kLXVuaXQtZGlyPW5v</configure><build/><install/><dependances><dependance><code>xorg-server</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>xf86-input-wacom</code>
+  <sourcefile>xf86-input-wacom-0.36.0.tar.bz2</sourcefile>
+  <sourcedir>xf86-input-wacom-0.36.0</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0td2l0aC1zeXN0ZW1kLXVuaXQtZGlyPW5v</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>xorg-server</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

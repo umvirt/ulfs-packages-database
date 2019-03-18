@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>ruby</code><sourcefile>ruby-2.5.1.tar.xz</sourcefile><sourcedir>ruby-2.5.1</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXNoYXJlZCBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9ydWJ5LTIuNS4x</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>ruby</code>
+  <sourcefile>ruby-2.5.1.tar.xz</sourcefile>
+  <sourcedir>ruby-2.5.1</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXNoYXJlZCBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9ydWJ5LTIuNS4x</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

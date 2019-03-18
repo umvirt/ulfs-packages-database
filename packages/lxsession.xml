@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>lxsession</code><sourcefile>lxsession-0.5.3.tar.xz</sourcefile><sourcedir>lxsession-0.5.3</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtbWFu</configure><build/><install/><dependances><dependance><code>vala</code><weight>0</weight></dependance><dependance><code>dbus-glib</code><weight>0</weight></dependance><dependance><code>polkit</code><weight>0</weight></dependance><dependance><code>libunique</code><weight>0</weight></dependance><dependance><code>lsb-release</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>lxsession</code>
+  <sourcefile>lxsession-0.5.3.tar.xz</sourcefile>
+  <sourcedir>lxsession-0.5.3</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtbWFu</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dbus-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>polkit</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libunique</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lsb-release</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

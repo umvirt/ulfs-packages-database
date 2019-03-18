@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>parted</code><sourcefile>parted-3.2.tar.xz</sourcefile><sourcedir>parted-3.2</sourcedir><configure>c2VkIC1pICcvdXRzbmFtZS5oL2EjaW5jbHVkZSA8c3lzL3N5c21hY3Jvcy5oPicgbGlicGFydGVkL2FyY2gvbGludXguYyAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure><build>bWFrZQ==</build><install>bWFrZSBpbnN0YWxs</install><dependances><dependance><code>lvm</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>parted</code>
+  <sourcefile>parted-3.2.tar.xz</sourcefile>
+  <sourcedir>parted-3.2</sourcedir>
+  <configure>c2VkIC1pICcvdXRzbmFtZS5oL2EjaW5jbHVkZSA8c3lzL3N5c21hY3Jvcy5oPicgbGlicGFydGVkL2FyY2gvbGludXguYyAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
+  <build>bWFrZQ==</build>
+  <install>bWFrZSBpbnN0YWxs</install>
+  <dependances>
+    <dependance>
+      <code>lvm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>cairo</code><sourcefile>cairo-1.14.12.tar.xz</sourcefile><sourcedir>cairo-1.14.12</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXRlZQ==</configure><build/><install/><dependances><dependance><code>glib</code><weight>0</weight></dependance><dependance><code>libpng</code><weight>0</weight></dependance><dependance><code>fontconfig-stage2</code><weight>0</weight></dependance><dependance><code>pixman</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>cairo</code>
+  <sourcefile>cairo-1.14.12.tar.xz</sourcefile>
+  <sourcedir>cairo-1.14.12</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXRlZQ==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fontconfig-stage2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pixman</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libdrm</code><sourcefile>libdrm-2.4.93.tar.bz2</sourcefile><sourcedir>libdrm-2.4.93</sourcedir><configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAtRHVkZXY9dHJ1ZQ0K</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbA==</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libdrm</code>
+  <sourcefile>libdrm-2.4.93.tar.bz2</sourcefile>
+  <sourcedir>libdrm-2.4.93</sourcedir>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAtRHVkZXY9dHJ1ZQ0K</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

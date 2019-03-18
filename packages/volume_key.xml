@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>volume_key</code><sourcefile>volume_key-0.3.11.tar.xz</sourcefile><sourcedir>volume_key-0.3.11</sourcedir><configure/><build/><install/><dependances><dependance><code>glib</code><weight>0</weight></dependance><dependance><code>python2</code><weight>0</weight></dependance><dependance><code>cryptsetup</code><weight>0</weight></dependance><dependance><code>gpgme</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>volume_key</code>
+  <sourcefile>volume_key-0.3.11.tar.xz</sourcefile>
+  <sourcedir>volume_key-0.3.11</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cryptsetup</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gpgme</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

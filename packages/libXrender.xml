@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libXrender</code><sourcefile>libXrender-0.9.10.tar.bz2</sourcefile><sourcedir>libXrender-0.9.10</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libXrender</code>
+  <sourcefile>libXrender-0.9.10.tar.bz2</sourcefile>
+  <sourcedir>libXrender-0.9.10</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xbitmaps</code><sourcefile>xbitmaps-1.1.2.tar.bz2</sourcefile><sourcedir>xbitmaps-1.1.2</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build>Iw==</build><install/><dependances><dependance><code>util-macros</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>xbitmaps</code>
+  <sourcefile>xbitmaps-1.1.2.tar.bz2</sourcefile>
+  <sourcedir>xbitmaps-1.1.2</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build>Iw==</build>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>util-macros</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

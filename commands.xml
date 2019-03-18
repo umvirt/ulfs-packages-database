@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<packages><release>0.1</release><commands><command>check_environment</command><command>kernel_init</command><command>kernel_build</command><command>kernel_install</command><command>install_umvirt_ca_cert</command><command>check_umvirt_ca_cert</command><command>select_console_mouse_device</command><command>modules_dialog_demo</command></commands></packages>
+<packages>
+  <release>0.1</release>
+  <commands>
+    <command>check_environment</command>
+    <command>kernel_init</command>
+    <command>kernel_build</command>
+    <command>kernel_install</command>
+    <command>install_umvirt_ca_cert</command>
+    <command>check_umvirt_ca_cert</command>
+    <command>select_console_mouse_device</command>
+    <command>modules_dialog_demo</command>
+  </commands>
+</packages>

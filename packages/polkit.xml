@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>polkit</code><sourcefile>polkit-0.114.tar.gz</sourcefile><sourcedir>polkit-0.114</sourcedir><configure>Z3JvdXBhZGQgLWZnIDI3IHBvbGtpdGQgJiYNCnVzZXJhZGQgLWMgIlBvbGljeUtpdCBEYWVtb24gT3duZXIiIC1kIC9ldGMvcG9sa2l0LTEgLXUgMjcgXA0KICAgICAgICAtZyBwb2xraXRkIC1zIC9iaW4vZmFsc2UgcG9sa2l0ZA0KDQpzZWQgLWUgJy9KU19SZXBvcnRXYXJuaW5nVVRGOC9zLywvLCAiJXMiLC8nICBcDQogICAgICAgIC1pICBzcmMvcG9sa2l0YmFja2VuZC9wb2xraXRiYWNrZW5kanNhdXRob3JpdHkuY3BwDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMg</configure><build/><install/><dependances><dependance><code>glib</code><weight>0</weight></dependance><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>mozjs-gnome</code><weight>0</weight></dependance><dependance><code>Linux-PAM</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>polkit</code>
+  <sourcefile>polkit-0.114.tar.gz</sourcefile>
+  <sourcedir>polkit-0.114</sourcedir>
+  <configure>Z3JvdXBhZGQgLWZnIDI3IHBvbGtpdGQgJiYNCnVzZXJhZGQgLWMgIlBvbGljeUtpdCBEYWVtb24gT3duZXIiIC1kIC9ldGMvcG9sa2l0LTEgLXUgMjcgXA0KICAgICAgICAtZyBwb2xraXRkIC1zIC9iaW4vZmFsc2UgcG9sa2l0ZA0KDQpzZWQgLWUgJy9KU19SZXBvcnRXYXJuaW5nVVRGOC9zLywvLCAiJXMiLC8nICBcDQogICAgICAgIC1pICBzcmMvcG9sa2l0YmFja2VuZC9wb2xraXRiYWNrZW5kanNhdXRob3JpdHkuY3BwDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMg</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mozjs-gnome</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

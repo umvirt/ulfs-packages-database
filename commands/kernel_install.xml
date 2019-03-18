@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<command><release>0.1</release><name>kernel_install</name><info>SW5zdGFsbCBrZXJuZWwgdG8gc3lzdGVtIGJvb3QgZGlyZWN0b3J5</info><commands>bWFrZSBtb2R1bGVzX2luc3RhbGwNCmNwIC12IGFyY2gveDg2L2Jvb3QvYnpJbWFnZSAvYm9vdC92bWxpbnV6DQpjcCAtdiBTeXN0ZW0ubWFwIC9ib290L1N5c3RlbS5tYXANCmNwIC12IC5jb25maWcgL2Jvb3QvY29uZmln</commands></command>
+<command>
+  <release>0.1</release>
+  <name>kernel_install</name>
+  <info>SW5zdGFsbCBrZXJuZWwgdG8gc3lzdGVtIGJvb3QgZGlyZWN0b3J5</info>
+  <commands>bWFrZSBtb2R1bGVzX2luc3RhbGwNCmNwIC12IGFyY2gveDg2L2Jvb3QvYnpJbWFnZSAvYm9vdC92bWxpbnV6DQpjcCAtdiBTeXN0ZW0ubWFwIC9ib290L1N5c3RlbS5tYXANCmNwIC12IC5jb25maWcgL2Jvb3QvY29uZmln</commands>
+</command>

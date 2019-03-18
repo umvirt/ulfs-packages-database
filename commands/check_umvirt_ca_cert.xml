@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<command><release>0.1</release><name>check_umvirt_ca_cert</name><info>VGVzdCBTU0wgY29ubmVjdGlvbiB2aWEgT3BlblNTTC4=</info><commands>b3BlbnNzbCBzX2NsaWVudCAtY29ubmVjdCB1bXZpcnQuY29tOjQ0Mw==</commands></command>
+<command>
+  <release>0.1</release>
+  <name>check_umvirt_ca_cert</name>
+  <info>VGVzdCBTU0wgY29ubmVjdGlvbiB2aWEgT3BlblNTTC4=</info>
+  <commands>b3BlbnNzbCBzX2NsaWVudCAtY29ubmVjdCB1bXZpcnQuY29tOjQ0Mw==</commands>
+</command>

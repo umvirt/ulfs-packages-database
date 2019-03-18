@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>gnome-bluetooth</code><sourcefile>gnome-bluetooth-3.28.2.tar.xz</sourcefile><sourcedir>gnome-bluetooth-3.28.2</sourcedir><configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4g</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbA==</install><dependances><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>gtk3</code><weight>0</weight></dependance><dependance><code>itstool</code><weight>0</weight></dependance><dependance><code>libcanberra</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>gnome-bluetooth</code>
+  <sourcefile>gnome-bluetooth-3.28.2.tar.xz</sourcefile>
+  <sourcedir>gnome-bluetooth-3.28.2</sourcedir>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4g</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>itstool</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libcanberra</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

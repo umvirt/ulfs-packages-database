@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xtrans</code><sourcefile>xtrans-1.3.5.tar.bz2</sourcefile><sourcedir>xtrans-1.3.5</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>xtrans</code>
+  <sourcefile>xtrans-1.3.5.tar.bz2</sourcefile>
+  <sourcedir>xtrans-1.3.5</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

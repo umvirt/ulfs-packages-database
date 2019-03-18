@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>gexiv2</code><sourcefile>gexiv2-0.10.8.tar.xz</sourcefile><sourcedir>gexiv2-0.10.8</sourcedir><configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4g</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbA==</install><dependances><dependance><code>vala</code><weight>0</weight></dependance><dependance><code>exiv2</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>gexiv2</code>
+  <sourcefile>gexiv2-0.10.8.tar.xz</sourcefile>
+  <sourcedir>gexiv2-0.10.8</sourcedir>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4g</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>exiv2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

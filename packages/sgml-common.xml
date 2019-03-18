@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>sgml-common</code><sourcefile>sgml-common-0.6.3.tgz</sourcefile><sourcedir>sgml-common-0.6.3</sourcedir><configure>YXV0b3JlY29uZiAtZiAtaQ0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure><build/><install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MgaW5zdGFsbCAmJg0KDQppbnN0YWxsLWNhdGFsb2cgLS1hZGQgL2V0Yy9zZ21sL3NnbWwtZW50LmNhdCBcDQogICAgL3Vzci9zaGFyZS9zZ21sL3NnbWwtaXNvLWVudGl0aWVzLTg4NzkuMTk4Ni9jYXRhbG9nICYmDQoNCmluc3RhbGwtY2F0YWxvZyAtLWFkZCAvZXRjL3NnbWwvc2dtbC1kb2Nib29rLmNhdCBcDQogICAgL2V0Yy9zZ21sL3NnbWwtZW50LmNhdA0K</install><dependances/><patches><patch>sgml-common-0.6.3-manpage-1.patch</patch></patches><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>sgml-common</code>
+  <sourcefile>sgml-common-0.6.3.tgz</sourcefile>
+  <sourcedir>sgml-common-0.6.3</sourcedir>
+  <configure>YXV0b3JlY29uZiAtZiAtaQ0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
+  <build/>
+  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MgaW5zdGFsbCAmJg0KDQppbnN0YWxsLWNhdGFsb2cgLS1hZGQgL2V0Yy9zZ21sL3NnbWwtZW50LmNhdCBcDQogICAgL3Vzci9zaGFyZS9zZ21sL3NnbWwtaXNvLWVudGl0aWVzLTg4NzkuMTk4Ni9jYXRhbG9nICYmDQoNCmluc3RhbGwtY2F0YWxvZyAtLWFkZCAvZXRjL3NnbWwvc2dtbC1kb2Nib29rLmNhdCBcDQogICAgL2V0Yy9zZ21sL3NnbWwtZW50LmNhdA0K</install>
+  <dependances/>
+  <patches>
+    <patch>sgml-common-0.6.3-manpage-1.patch</patch>
+  </patches>
+  <addons/>
+</package>

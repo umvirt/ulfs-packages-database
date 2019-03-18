@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>giflib</code><sourcefile>giflib-5.1.4.tar.bz2</sourcefile><sourcedir>giflib-5.1.4</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>giflib</code>
+  <sourcefile>giflib-5.1.4.tar.bz2</sourcefile>
+  <sourcedir>giflib-5.1.4</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

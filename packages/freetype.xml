@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>freetype</code><sourcefile>freetype-2.9.1.tar.bz2</sourcefile><sourcedir>freetype-2.9.1</sourcedir><configure>c2VkIC1yaSAiczouKihBVVhfTU9EVUxFUy4qdmFsaWQpOlwxOiIgbW9kdWxlcy5jZmcgJiYNCg0Kc2VkIC1yICJzOi4qKCMuKlNVQlBJWEVMX1JFTkRFUklORykgLio6XDE6IiBcDQogICAgLWkgaW5jbHVkZS9mcmVldHlwZS9jb25maWcvZnRvcHRpb24uaCAgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1mcmVldHlwZS1jb25maWcgLS1kaXNhYmxlLXN0YXRpYw==</configure><build/><install>bWFrZSBpbnN0YWxsICYmDQpjcCBidWlsZHMvdW5peC9mcmVldHlwZS1jb25maWcgL3Vzci9iaW4=</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>freetype</code>
+  <sourcefile>freetype-2.9.1.tar.bz2</sourcefile>
+  <sourcedir>freetype-2.9.1</sourcedir>
+  <configure>c2VkIC1yaSAiczouKihBVVhfTU9EVUxFUy4qdmFsaWQpOlwxOiIgbW9kdWxlcy5jZmcgJiYNCg0Kc2VkIC1yICJzOi4qKCMuKlNVQlBJWEVMX1JFTkRFUklORykgLio6XDE6IiBcDQogICAgLWkgaW5jbHVkZS9mcmVldHlwZS9jb25maWcvZnRvcHRpb24uaCAgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1mcmVldHlwZS1jb25maWcgLS1kaXNhYmxlLXN0YXRpYw==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQpjcCBidWlsZHMvdW5peC9mcmVldHlwZS1jb25maWcgL3Vzci9iaW4=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

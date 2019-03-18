@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libfm-extra</code><sourcefile>libfm-1.3.0.2.tar.xz</sourcefile><sourcedir>libfm-1.3.0.2</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS13aXRoLWV4dHJhLW9ubHkgXA0KICAgICAgICAgICAgLS13aXRoLWd0az1ubyAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure><build/><install/><dependances><dependance><code>glib</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libfm-extra</code>
+  <sourcefile>libfm-1.3.0.2.tar.xz</sourcefile>
+  <sourcedir>libfm-1.3.0.2</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS13aXRoLWV4dHJhLW9ubHkgXA0KICAgICAgICAgICAgLS13aXRoLWd0az1ubyAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

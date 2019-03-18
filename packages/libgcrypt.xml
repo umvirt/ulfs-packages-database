@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libgcrypt</code><sourcefile>libgcrypt-1.8.3.tar.bz2</sourcefile><sourcedir>libgcrypt-1.8.3</sourcedir><configure/><build/><install/><dependances><dependance><code>libgpg-error</code><weight>0</weight></dependance><dependance><code>pth</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libgcrypt</code>
+  <sourcefile>libgcrypt-1.8.3.tar.bz2</sourcefile>
+  <sourcedir>libgcrypt-1.8.3</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libgpg-error</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pth</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

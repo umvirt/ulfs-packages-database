@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<command><release>0.1</release><name>select_console_mouse_device</name><info>VXBkYXRlIGdwbSBtb3VzZSBkZXZpY2U=</info><commands>aW5zdGFsbCAtdiAtZG03NTUgL2V0Yy9zeXN0ZW1kL3N5c3RlbS9ncG0uc2VydmljZS5kDQplY2hvICJFeGVjU3RhcnQ9L3Vzci9zYmluL2dwbSAtbSAvZGV2L2lucHV0L2V2ZW50MiAtdCBpbXBzMiIgPiAvZXRjL3N5c3RlbWQvc3lzdGVtL2dwbS5zZXJ2aWNlLmQvOTktdXNlci5jb25m</commands></command>
+<command>
+  <release>0.1</release>
+  <name>select_console_mouse_device</name>
+  <info>VXBkYXRlIGdwbSBtb3VzZSBkZXZpY2U=</info>
+  <commands>aW5zdGFsbCAtdiAtZG03NTUgL2V0Yy9zeXN0ZW1kL3N5c3RlbS9ncG0uc2VydmljZS5kDQplY2hvICJFeGVjU3RhcnQ9L3Vzci9zYmluL2dwbSAtbSAvZGV2L2lucHV0L2V2ZW50MiAtdCBpbXBzMiIgPiAvZXRjL3N5c3RlbWQvc3lzdGVtL2dwbS5zZXJ2aWNlLmQvOTktdXNlci5jb25m</commands>
+</command>

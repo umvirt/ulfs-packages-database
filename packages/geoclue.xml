@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>geoclue</code><sourcefile>geoclue-2.4.11.tar.xz</sourcefile><sourcedir>geoclue-2.4.11</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure><build/><install/><dependances><dependance><code>libsoup</code><weight>0</weight></dependance><dependance><code>json-glib</code><weight>0</weight></dependance><dependance><code>ModemManager</code><weight>0</weight></dependance><dependance><code>avahi</code><weight>0</weight></dependance><dependance><code>libnotify</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>geoclue</code>
+  <sourcefile>geoclue-2.4.11.tar.xz</sourcefile>
+  <sourcedir>geoclue-2.4.11</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libsoup</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>json-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ModemManager</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>avahi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnotify</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

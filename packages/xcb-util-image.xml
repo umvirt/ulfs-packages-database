@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xcb-util-image</code><sourcefile>xcb-util-image-0.4.0.tar.bz2</sourcefile><sourcedir>xcb-util-image-0.4.0</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances><dependance><code>xcb-util</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>xcb-util-image</code>
+  <sourcefile>xcb-util-image-0.4.0.tar.bz2</sourcefile>
+  <sourcedir>xcb-util-image-0.4.0</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>xcb-util</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

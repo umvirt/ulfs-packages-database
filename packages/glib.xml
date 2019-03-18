@@ -1,2 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>glib</code><sourcefile>glib-2.56.1.tar.xz</sourcefile><sourcedir>glib-2.56.1</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1wY3JlPXN5c3RlbSBcDQogICAgICAgICAgICAtLXdpdGgtcHl0aG9uPS91c3IvYmluL3B5dGhvbjMg</configure><build/><install/><dependances><dependance><code>pcre</code><weight>0</weight></dependance></dependances><patches><patch>glib-2.56.1-skip_warnings-1.patch</patch></patches><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>glib</code>
+  <sourcefile>glib-2.56.1.tar.xz</sourcefile>
+  <sourcedir>glib-2.56.1</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1wY3JlPXN5c3RlbSBcDQogICAgICAgICAgICAtLXdpdGgtcHl0aG9uPS91c3IvYmluL3B5dGhvbjMg</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>pcre</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>glib-2.56.1-skip_warnings-1.patch</patch>
+  </patches>
+  <addons/>
+</package>

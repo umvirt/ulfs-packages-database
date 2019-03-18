@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>dconf</code><sourcefile>dconf-0.28.0.tar.xz</sourcefile><sourcedir>dconf-0.28.0</sourcedir><configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMgLi4=</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbA==</install><dependances><dependance><code>glib</code><weight>0</weight></dependance><dependance><code>libxml2</code><weight>0</weight></dependance><dependance><code>dbus</code><weight>0</weight></dependance><dependance><code>gtk3</code><weight>0</weight></dependance><dependance><code>libxslt</code><weight>0</weight></dependance><dependance><code>vala</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>dconf</code>
+  <sourcefile>dconf-0.28.0.tar.xz</sourcefile>
+  <sourcedir>dconf-0.28.0</sourcedir>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMgLi4=</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxslt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

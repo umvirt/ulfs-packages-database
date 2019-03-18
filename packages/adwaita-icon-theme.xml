@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>adwaita-icon-theme</code><sourcefile>adwaita-icon-theme-3.26.1.tar.xz</sourcefile><sourcedir>adwaita-icon-theme-3.26.1</sourcedir><configure/><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>adwaita-icon-theme</code>
+  <sourcefile>adwaita-icon-theme-3.26.1.tar.xz</sourcefile>
+  <sourcedir>adwaita-icon-theme-3.26.1</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>tk</code><sourcefile>tk8.6.8-src.tar.gz</sourcefile><sourcedir>tk8.6.8</sourcedir><configure>Y2QgdW5peCAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbiBcDQogICAgICAgICAgICAkKFsgJCh1bmFtZSAtbSkgPSB4ODZfNjQgXSAmJiBlY2hvIC0tZW5hYmxlLTY0Yml0KQ==</configure><build>bWFrZSAmJg0KDQpzZWQgLWUgInNAXlwoVEtfU1JDX0RJUj0nXCkuKkBcMS91c3IvaW5jbHVkZSdAIiBcDQogICAgLWUgIi9US19CL3NAPSdcKC1MXClcPy4qdW5peEA9J1wxL3Vzci9saWJAIiBcDQogICAgLWkgdGtDb25maWcuc2g=</build><install>bWFrZSBpbnN0YWxsICYmDQptYWtlIGluc3RhbGwtcHJpdmF0ZS1oZWFkZXJzICYmDQpsbiAtdiAtc2Ygd2lzaDguNiAvdXNyL2Jpbi93aXNoICYmDQpjaG1vZCAtdiA3NTUgL3Vzci9saWIvbGlidGs4LjYuc28=</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>tk</code>
+  <sourcefile>tk8.6.8-src.tar.gz</sourcefile>
+  <sourcedir>tk8.6.8</sourcedir>
+  <configure>Y2QgdW5peCAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbiBcDQogICAgICAgICAgICAkKFsgJCh1bmFtZSAtbSkgPSB4ODZfNjQgXSAmJiBlY2hvIC0tZW5hYmxlLTY0Yml0KQ==</configure>
+  <build>bWFrZSAmJg0KDQpzZWQgLWUgInNAXlwoVEtfU1JDX0RJUj0nXCkuKkBcMS91c3IvaW5jbHVkZSdAIiBcDQogICAgLWUgIi9US19CL3NAPSdcKC1MXClcPy4qdW5peEA9J1wxL3Vzci9saWJAIiBcDQogICAgLWkgdGtDb25maWcuc2g=</build>
+  <install>bWFrZSBpbnN0YWxsICYmDQptYWtlIGluc3RhbGwtcHJpdmF0ZS1oZWFkZXJzICYmDQpsbiAtdiAtc2Ygd2lzaDguNiAvdXNyL2Jpbi93aXNoICYmDQpjaG1vZCAtdiA3NTUgL3Vzci9saWIvbGlidGs4LjYuc28=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>iso-codes</code><sourcefile>iso-codes-3.79.tar.xz</sourcefile><sourcedir>iso-codes-3.79</sourcedir><configure/><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>iso-codes</code>
+  <sourcefile>iso-codes-3.79.tar.xz</sourcefile>
+  <sourcedir>iso-codes-3.79</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

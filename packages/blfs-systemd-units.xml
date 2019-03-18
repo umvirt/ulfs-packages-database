@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>blfs-systemd-units</code><sourcefile>blfs-systemd-units-20180105.tar.bz2</sourcefile><sourcedir>blfs-systemd-units-20180105</sourcedir><configure>Iw==</configure><build>Iw==</build><install>Y2QgLi4NCm12IGJsZnMtc3lzdGVtZC11bml0cy0yMDE4MDEwNSAvdXNyL3NoYXJlL2JsZnMtc3lzdGVtZC11bml0cw==</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>blfs-systemd-units</code>
+  <sourcefile>blfs-systemd-units-20180105.tar.bz2</sourcefile>
+  <sourcedir>blfs-systemd-units-20180105</sourcedir>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Y2QgLi4NCm12IGJsZnMtc3lzdGVtZC11bml0cy0yMDE4MDEwNSAvdXNyL3NoYXJlL2JsZnMtc3lzdGVtZC11bml0cw==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

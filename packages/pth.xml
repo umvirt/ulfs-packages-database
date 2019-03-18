@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>pth</code><sourcefile>pth-2.0.7.tar.gz</sourcefile><sourcedir>pth-2.0.7</sourcedir><configure>c2VkIC1pICdzIyQoTE9CSlMpOiBNYWtlZmlsZSMkKExPQkpTKTogcHRoX3AuaCBNYWtlZmlsZSMnIE1ha2VmaWxlLmluICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljICAgICAgICBcDQogICAgICAgICAgICAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbg0K</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>pth</code>
+  <sourcefile>pth-2.0.7.tar.gz</sourcefile>
+  <sourcedir>pth-2.0.7</sourcedir>
+  <configure>c2VkIC1pICdzIyQoTE9CSlMpOiBNYWtlZmlsZSMkKExPQkpTKTogcHRoX3AuaCBNYWtlZmlsZSMnIE1ha2VmaWxlLmluICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljICAgICAgICBcDQogICAgICAgICAgICAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbg0K</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

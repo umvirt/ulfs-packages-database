@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libcroco</code><sourcefile>libcroco-0.6.12.tar.xz</sourcefile><sourcedir>libcroco-0.6.12</sourcedir><configure>L2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure><build/><install/><dependances><dependance><code>glib</code><weight>0</weight></dependance><dependance><code>libxml2</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libcroco</code>
+  <sourcefile>libcroco-0.6.12.tar.xz</sourcefile>
+  <sourcedir>libcroco-0.6.12</sourcedir>
+  <configure>L2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

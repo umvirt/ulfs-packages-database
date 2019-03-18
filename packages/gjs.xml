@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>gjs</code><sourcefile>gjs-1.52.3.tar.xz</sourcefile><sourcedir>gjs-1.52.3</sourcedir><configure/><build/><install/><dependances><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>cairo</code><weight>0</weight></dependance><dependance><code>dbus</code><weight>0</weight></dependance><dependance><code>gtk3</code><weight>0</weight></dependance><dependance><code>mozjs-gnome</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>gjs</code>
+  <sourcefile>gjs-1.52.3.tar.xz</sourcefile>
+  <sourcedir>gjs-1.52.3</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cairo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mozjs-gnome</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

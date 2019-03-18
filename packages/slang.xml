@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>slang</code><sourcefile>slang-2.3.2.tar.bz2</sourcefile><sourcedir>slang-2.3.2</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLXdpdGgtcmVhZGxpbmU9Z251IA0K</configure><build>bWFrZSAtajE=</build><install>bWFrZSBpbnN0YWxsX2RvY19kaXI9L3Vzci9zaGFyZS9kb2Mvc2xhbmctMi4zLjIgICBcDQogICAgIFNMU0hfRE9DX0RJUj0vdXNyL3NoYXJlL2RvYy9zbGFuZy0yLjMuMi9zbHNoIFwNCiAgICAgaW5zdGFsbC1hbGwgJiYNCg0KY2htb2QgLXYgNzU1IC91c3IvbGliL2xpYnNsYW5nLnNvLjIuMy4yIFwNCiAgICAgICAgICAgICAvdXNyL2xpYi9zbGFuZy92Mi9tb2R1bGVzLyouc28=</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>slang</code>
+  <sourcefile>slang-2.3.2.tar.bz2</sourcefile>
+  <sourcedir>slang-2.3.2</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLXdpdGgtcmVhZGxpbmU9Z251IA0K</configure>
+  <build>bWFrZSAtajE=</build>
+  <install>bWFrZSBpbnN0YWxsX2RvY19kaXI9L3Vzci9zaGFyZS9kb2Mvc2xhbmctMi4zLjIgICBcDQogICAgIFNMU0hfRE9DX0RJUj0vdXNyL3NoYXJlL2RvYy9zbGFuZy0yLjMuMi9zbHNoIFwNCiAgICAgaW5zdGFsbC1hbGwgJiYNCg0KY2htb2QgLXYgNzU1IC91c3IvbGliL2xpYnNsYW5nLnNvLjIuMy4yIFwNCiAgICAgICAgICAgICAvdXNyL2xpYi9zbGFuZy92Mi9tb2R1bGVzLyouc28=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

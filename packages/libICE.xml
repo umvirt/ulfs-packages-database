@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libICE</code><sourcefile>libICE-1.0.9.tar.bz2</sourcefile><sourcedir>libICE-1.0.9</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIElDRV9MSUJTPS1scHRocmVhZA==</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libICE</code>
+  <sourcefile>libICE-1.0.9.tar.bz2</sourcefile>
+  <sourcedir>libICE-1.0.9</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIElDRV9MSUJTPS1scHRocmVhZA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

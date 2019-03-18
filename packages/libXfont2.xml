@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libXfont2</code><sourcefile>libXfont2-2.0.3.tar.bz2</sourcefile><sourcedir>libXfont2-2.0.3</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0tZGlzYWJsZS1kZXZlbC1kb2Nz</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libXfont2</code>
+  <sourcefile>libXfont2-2.0.3.tar.bz2</sourcefile>
+  <sourcedir>libXfont2-2.0.3</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0tZGlzYWJsZS1kZXZlbC1kb2Nz</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

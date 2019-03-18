@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libepoxy</code><sourcefile>libepoxy-1.5.2.tar.xz</sourcefile><sourcedir>libepoxy-1.5.2</sourcedir><configure/><build/><install/><dependances><dependance><code>mesa</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libepoxy</code>
+  <sourcefile>libepoxy-1.5.2.tar.xz</sourcefile>
+  <sourcedir>libepoxy-1.5.2</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>mesa</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

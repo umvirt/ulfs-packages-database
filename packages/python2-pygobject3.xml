@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>python2-pygobject3</code><sourcefile>pygobject-3.28.3.tar.xz</sourcefile><sourcedir>pygobject-3.28.3</sourcedir><configure>bWtkaXIgcHl0aG9uMiAmJg0KcHVzaGQgcHl0aG9uMiAmJg0KLi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS13aXRoLXB5dGhvbj0vdXNyL2Jpbi9weXRob24=</configure><build>bWFrZSAmJg0KcG9wZA==</build><install>bWFrZSAtQyBweXRob24yIGluc3RhbGw=</install><dependances><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>python2-pycairo</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>python2-pygobject3</code>
+  <sourcefile>pygobject-3.28.3.tar.xz</sourcefile>
+  <sourcedir>pygobject-3.28.3</sourcedir>
+  <configure>bWtkaXIgcHl0aG9uMiAmJg0KcHVzaGQgcHl0aG9uMiAmJg0KLi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS13aXRoLXB5dGhvbj0vdXNyL2Jpbi9weXRob24=</configure>
+  <build>bWFrZSAmJg0KcG9wZA==</build>
+  <install>bWFrZSAtQyBweXRob24yIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python2-pycairo</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

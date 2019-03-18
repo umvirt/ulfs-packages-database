@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libisoburn</code><sourcefile>libisoburn-1.4.8.tar.gz</sourcefile><sourcedir>libisoburn-1.4.8</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtcGtnLWNoZWNrLW1vZHVsZXM=</configure><build/><install/><dependances><dependance><code>libisofs</code><weight>0</weight></dependance><dependance><code>libburn</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libisoburn</code>
+  <sourcefile>libisoburn-1.4.8.tar.gz</sourcefile>
+  <sourcedir>libisoburn-1.4.8</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtcGtnLWNoZWNrLW1vZHVsZXM=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libisofs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libburn</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>fluxbox</code><sourcefile>fluxbox-1.3.7.tar.xz</sourcefile><sourcedir>fluxbox-1.3.7</sourcedir><configure/><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>fluxbox</code>
+  <sourcefile>fluxbox-1.3.7.tar.xz</sourcefile>
+  <sourcedir>fluxbox-1.3.7</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

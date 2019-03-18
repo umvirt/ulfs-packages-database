@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>font-xfree86-type1</code><sourcefile>font-xfree86-type1-1.0.4.tar.bz2</sourcefile><sourcedir>font-xfree86-type1-1.0.4</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>font-xfree86-type1</code>
+  <sourcefile>font-xfree86-type1-1.0.4.tar.bz2</sourcefile>
+  <sourcedir>font-xfree86-type1-1.0.4</sourcedir>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>gpicview</code><sourcefile>gpicview-0.2.5.tar.xz</sourcefile><sourcedir>gpicview-0.2.5</sourcedir><configure/><build/><install>bWFrZSBpbnN0YWxsICYmDQpzZWQgLWkgJ3MvVXRpbGl0eTsvLycgL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvZ3BpY3ZpZXcuZGVza3RvcA==</install><dependances><dependance><code>gtk2</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>gpicview</code>
+  <sourcefile>gpicview-0.2.5.tar.xz</sourcefile>
+  <sourcedir>gpicview-0.2.5</sourcedir>
+  <configure/>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQpzZWQgLWkgJ3MvVXRpbGl0eTsvLycgL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvZ3BpY3ZpZXcuZGVza3RvcA==</install>
+  <dependances>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

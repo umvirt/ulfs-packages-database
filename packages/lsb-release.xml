@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>lsb-release</code><sourcefile>lsb-release-1.4.tar.gz</sourcefile><sourcedir>lsb-release-1.4</sourcedir><configure>c2VkIC1pICJzfG4vYXx1bmF2YWlsYWJsZXwiIGxzYl9yZWxlYXNl</configure><build>Iw==</build><install>Li9oZWxwMm1hbiAtTiAtLWluY2x1ZGUgLi9sc2JfcmVsZWFzZS5leGFtcGxlcyBcDQogICAgICAgICAgICAgIC0tYWx0X3ZlcnNpb25fa2V5PXByb2dyYW1fdmVyc2lvbiAuL2xzYl9yZWxlYXNlID4gbHNiX3JlbGVhc2UuMQ0KDQoNCmluc3RhbGwgLXYgLW0gNjQ0IGxzYl9yZWxlYXNlLjEgL3Vzci9zaGFyZS9tYW4vbWFuMSAmJg0KaW5zdGFsbCAtdiAtbSA3NTUgbHNiX3JlbGVhc2UgICAvdXNyL2Jpbg==</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>lsb-release</code>
+  <sourcefile>lsb-release-1.4.tar.gz</sourcefile>
+  <sourcedir>lsb-release-1.4</sourcedir>
+  <configure>c2VkIC1pICJzfG4vYXx1bmF2YWlsYWJsZXwiIGxzYl9yZWxlYXNl</configure>
+  <build>Iw==</build>
+  <install>Li9oZWxwMm1hbiAtTiAtLWluY2x1ZGUgLi9sc2JfcmVsZWFzZS5leGFtcGxlcyBcDQogICAgICAgICAgICAgIC0tYWx0X3ZlcnNpb25fa2V5PXByb2dyYW1fdmVyc2lvbiAuL2xzYl9yZWxlYXNlID4gbHNiX3JlbGVhc2UuMQ0KDQoNCmluc3RhbGwgLXYgLW0gNjQ0IGxzYl9yZWxlYXNlLjEgL3Vzci9zaGFyZS9tYW4vbWFuMSAmJg0KaW5zdGFsbCAtdiAtbSA3NTUgbHNiX3JlbGVhc2UgICAvdXNyL2Jpbg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

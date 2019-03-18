@@ -1,2 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>Xfonts</code><sourcefile/><sourcedir/><configure>Iw==</configure><build>Iw==</build><install>Iw==</install><dependances><dependance><code>font-util</code><weight>0</weight></dependance><dependance><code>encodings</code><weight>0</weight></dependance><dependance><code>font-alias</code><weight>0</weight></dependance><dependance><code>font-adobe-utopia-type1</code><weight>0</weight></dependance><dependance><code>font-bh-ttf</code><weight>0</weight></dependance><dependance><code>font-bh-type1</code><weight>0</weight></dependance><dependance><code>font-ibm-type1</code><weight>0</weight></dependance><dependance><code>font-misc-ethiopic</code><weight>0</weight></dependance><dependance><code>font-xfree86-type1</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>Xfonts</code>
+  <sourcefile/>
+  <sourcedir/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
+  <dependances>
+    <dependance>
+      <code>font-util</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>encodings</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>font-alias</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>font-adobe-utopia-type1</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>font-bh-ttf</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>font-bh-type1</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>font-ibm-type1</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>font-misc-ethiopic</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>font-xfree86-type1</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

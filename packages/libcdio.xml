@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libcdio</code><sourcefile/><sourcedir/><configure>Iw==</configure><build>Iw==</build><install>Iw==</install><dependances><dependance><code>libcdio-paranoia</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libcdio</code>
+  <sourcefile/>
+  <sourcedir/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
+  <dependances>
+    <dependance>
+      <code>libcdio-paranoia</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

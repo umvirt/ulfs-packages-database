@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xinit</code><sourcefile>xinit-1.4.0.tar.bz2</sourcefile><sourcedir>xinit-1.4.0</sourcedir><configure>c2VkIC1lICcvJHNlcnZlcmFyZ3MgJHZ0YXJnLyBzL3NlcnZlcmFyZ3MvOiAjJi8nIFwNCiAgICAtaSBzdGFydHguY3BwDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcgLS13aXRoLXhpbml0ZGlyPS9ldGMvWDExL2FwcC1kZWZhdWx0cw==</configure><build/><install>bWFrZSBpbnN0YWxsICYmDQpsZGNvbmZpZw==</install><dependances><dependance><code>Xlibs</code><weight>0</weight></dependance><dependance><code>twm</code><weight>0</weight></dependance><dependance><code>xterm</code><weight>0</weight></dependance><dependance><code>xclock</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>xinit</code>
+  <sourcefile>xinit-1.4.0.tar.bz2</sourcefile>
+  <sourcedir>xinit-1.4.0</sourcedir>
+  <configure>c2VkIC1lICcvJHNlcnZlcmFyZ3MgJHZ0YXJnLyBzL3NlcnZlcmFyZ3MvOiAjJi8nIFwNCiAgICAtaSBzdGFydHguY3BwDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcgLS13aXRoLXhpbml0ZGlyPS9ldGMvWDExL2FwcC1kZWZhdWx0cw==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQpsZGNvbmZpZw==</install>
+  <dependances>
+    <dependance>
+      <code>Xlibs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>twm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xterm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xclock</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

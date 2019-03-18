@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>gpm</code><sourcefile>gpm-1.20.7.tar.bz2</sourcefile><sourcedir>gpm-1.20.7</sourcedir><configure>c2VkIC1pIC1lICdzOjxncG0uaD46ImhlYWRlcnMvZ3BtLmgiOicgc3JjL3Byb2cve2Rpc3BsYXktYnV0dG9ucyxkaXNwbGF5LWNvb3JkcyxnZXQtdmVyc2lvbnN9LmMgDQoNCi4vYXV0b2dlbi5zaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMNCg==</configure><build/><install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCg0KaW5zdGFsbC1pbmZvIC0tZGlyLWZpbGU9L3Vzci9zaGFyZS9pbmZvL2RpciAgICAgICAgICAgXA0KICAgICAgICAgICAgIC91c3Ivc2hhcmUvaW5mby9ncG0uaW5mbyAgICAgICAgICAgICAgICAgJiYNCg0KbG4gLXNmdiBsaWJncG0uc28uMi4xLjAgL3Vzci9saWIvbGliZ3BtLnNvICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLW02NDQgY29uZi9ncG0tcm9vdC5jb25mIC9ldGMg</install><dependances/><patches><patch>gpm-1.20.7-glibc_2.26-1.patch</patch></patches><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>gpm</code>
+  <sourcefile>gpm-1.20.7.tar.bz2</sourcefile>
+  <sourcedir>gpm-1.20.7</sourcedir>
+  <configure>c2VkIC1pIC1lICdzOjxncG0uaD46ImhlYWRlcnMvZ3BtLmgiOicgc3JjL3Byb2cve2Rpc3BsYXktYnV0dG9ucyxkaXNwbGF5LWNvb3JkcyxnZXQtdmVyc2lvbnN9LmMgDQoNCi4vYXV0b2dlbi5zaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMNCg==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCg0KaW5zdGFsbC1pbmZvIC0tZGlyLWZpbGU9L3Vzci9zaGFyZS9pbmZvL2RpciAgICAgICAgICAgXA0KICAgICAgICAgICAgIC91c3Ivc2hhcmUvaW5mby9ncG0uaW5mbyAgICAgICAgICAgICAgICAgJiYNCg0KbG4gLXNmdiBsaWJncG0uc28uMi4xLjAgL3Vzci9saWIvbGliZ3BtLnNvICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLW02NDQgY29uZi9ncG0tcm9vdC5jb25mIC9ldGMg</install>
+  <dependances/>
+  <patches>
+    <patch>gpm-1.20.7-glibc_2.26-1.patch</patch>
+  </patches>
+  <addons/>
+</package>

@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>unzip</code><sourcefile>unzip60.tar.gz</sourcefile><sourcedir>unzip60</sourcedir><configure>Iw==</configure><build>bWFrZSAtZiB1bml4L01ha2VmaWxlIGdlbmVyaWM=</build><install>bWFrZSBwcmVmaXg9L3VzciBNQU5ESVI9L3Vzci9zaGFyZS9tYW4vbWFuMSBcDQogLWYgdW5peC9NYWtlZmlsZSBpbnN0YWxs</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>unzip</code>
+  <sourcefile>unzip60.tar.gz</sourcefile>
+  <sourcedir>unzip60</sourcedir>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtZiB1bml4L01ha2VmaWxlIGdlbmVyaWM=</build>
+  <install>bWFrZSBwcmVmaXg9L3VzciBNQU5ESVI9L3Vzci9zaGFyZS9tYW4vbWFuMSBcDQogLWYgdW5peC9NYWtlZmlsZSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

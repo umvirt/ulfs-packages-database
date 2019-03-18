@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>yelp-xsl</code><sourcefile>yelp-xsl-3.28.0.tar.xz</sourcefile><sourcedir>yelp-xsl-3.28.0</sourcedir><configure/><build/><install/><dependances><dependance><code>libxslt</code><weight>0</weight></dependance><dependance><code>itstool</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>yelp-xsl</code>
+  <sourcefile>yelp-xsl-3.28.0.tar.xz</sourcefile>
+  <sourcedir>yelp-xsl-3.28.0</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libxslt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>itstool</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

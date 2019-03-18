@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>lvm</code><sourcefile>LVM2.2.02.177.tgz</sourcefile><sourcedir>LVM2.2.02.177</sourcedir><configure>U0FWRVBBVEg9JFBBVEggICAgICAgICAgICAgICAgICAmJg0KUEFUSD0kUEFUSDovc2JpbjovdXNyL3NiaW4gICAgICAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWV4ZWMtcHJlZml4PSAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1jb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUtYXBwbGliICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1jbWRsaWIgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXBrZ2NvbmZpZyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdWRldl9zeW5jIA==</configure><build>bWFrZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KUEFUSD0kU0FWRVBBVEggICAgICAgICAgICAgICAgICAmJg0KdW5zZXQgU0FWRVBBVEg=</build><install>bWFrZSBpbnN0YWxs</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>lvm</code>
+  <sourcefile>LVM2.2.02.177.tgz</sourcefile>
+  <sourcedir>LVM2.2.02.177</sourcedir>
+  <configure>U0FWRVBBVEg9JFBBVEggICAgICAgICAgICAgICAgICAmJg0KUEFUSD0kUEFUSDovc2JpbjovdXNyL3NiaW4gICAgICAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWV4ZWMtcHJlZml4PSAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1jb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUtYXBwbGliICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1jbWRsaWIgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXBrZ2NvbmZpZyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdWRldl9zeW5jIA==</configure>
+  <build>bWFrZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KUEFUSD0kU0FWRVBBVEggICAgICAgICAgICAgICAgICAmJg0KdW5zZXQgU0FWRVBBVEg=</build>
+  <install>bWFrZSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

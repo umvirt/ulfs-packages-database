@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>fribidi</code><sourcefile>fribidi-1.0.5.tar.bz2</sourcefile><sourcedir>fribidi-1.0.5</sourcedir><configure>bWtkaXIgYnVpbGQgJiYNCmNkIGJ1aWxkICAgICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4=</configure><build>bmluamE=</build><install>bmluamEgaW5zdGFsbA==</install><dependances/><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>fribidi</code>
+  <sourcefile>fribidi-1.0.5.tar.bz2</sourcefile>
+  <sourcedir>fribidi-1.0.5</sourcedir>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkIGJ1aWxkICAgICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4=</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

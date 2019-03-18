@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libblockdev</code><sourcefile>libblockdev-2.19.tar.gz</sourcefile><sourcedir>libblockdev-2.19</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS13aXRoLXB5dGhvbjMgICAgXA0KICAgICAgICAgICAgLS13aXRob3V0LWd0ay1kb2MgXA0KICAgICAgICAgICAgLS13aXRob3V0LW52ZGltbSAgXA0KICAgICAgICAgICAgLS13aXRob3V0LWRtIA==</configure><build/><install/><dependances><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>libbytesize</code><weight>0</weight></dependance><dependance><code>parted</code><weight>0</weight></dependance><dependance><code>volume_key</code><weight>0</weight></dependance><dependance><code>yaml-0.2.1.tar.gz</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libblockdev</code>
+  <sourcefile>libblockdev-2.19.tar.gz</sourcefile>
+  <sourcedir>libblockdev-2.19</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS13aXRoLXB5dGhvbjMgICAgXA0KICAgICAgICAgICAgLS13aXRob3V0LWd0ay1kb2MgXA0KICAgICAgICAgICAgLS13aXRob3V0LW52ZGltbSAgXA0KICAgICAgICAgICAgLS13aXRob3V0LWRtIA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libbytesize</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>parted</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>volume_key</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>yaml-0.2.1.tar.gz</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

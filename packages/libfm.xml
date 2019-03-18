@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libfm</code><sourcefile>libfm-1.3.0.2.tar.xz</sourcefile><sourcedir>libfm-1.3.0.2</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure><build/><install/><dependances><dependance><code>gtk2</code><weight>0</weight></dependance><dependance><code>vala</code><weight>0</weight></dependance><dependance><code>lxmenu-data</code><weight>0</weight></dependance><dependance><code>menu-cache</code><weight>0</weight></dependance><dependance><code>libexif</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>libfm</code>
+  <sourcefile>libfm-1.3.0.2.tar.xz</sourcefile>
+  <sourcedir>libfm-1.3.0.2</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lxmenu-data</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>menu-cache</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libexif</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

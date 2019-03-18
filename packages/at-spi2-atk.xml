@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>at-spi2-atk</code><sourcefile>at-spi2-atk-2.26.2.tar.xz</sourcefile><sourcedir>at-spi2-atk-2.26.2</sourcedir><configure/><build/><install/><dependances><dependance><code>atk</code><weight>0</weight></dependance><dependance><code>at-spi2-core</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
+<package>
+  <release>0.1</release>
+  <code>at-spi2-atk</code>
+  <sourcefile>at-spi2-atk-2.26.2.tar.xz</sourcefile>
+  <sourcedir>at-spi2-atk-2.26.2</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>atk</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>at-spi2-core</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>
