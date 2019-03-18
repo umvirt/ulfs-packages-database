@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>shared-mime-info</code><sourcefile>shared-mime-info-1.10.tar.xz</sourcefile><sourcedir>shared-mime-info-1.10</sourcedir><configure/><build/><install/><dependances><dependance>glib</dependance><dependance>libxml2</dependance></dependances><patches/><addons/></package>
+<package><release>0.1</release><code>shared-mime-info</code><sourcefile>shared-mime-info-1.10.tar.xz</sourcefile><sourcedir>shared-mime-info-1.10</sourcedir><configure/><build/><install/><dependances><dependance><code>glib</code><weight>0</weight></dependance><dependance><code>libxml2</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

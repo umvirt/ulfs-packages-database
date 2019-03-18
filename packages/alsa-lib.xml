@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>alsa-lib</code><sourcefile>alsa-lib-1.1.6.tar.bz2</sourcefile><sourcedir>alsa-lib-1.1.6</sourcedir><configure/><build/><install/><dependances/><patches/><addons/></package>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>python3-pycairo</code><sourcefile>pycairo-1.17.1.tar.gz</sourcefile><sourcedir>pycairo-1.17.1</sourcedir><configure>Iw==</configure><build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build><install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MSAgICYmDQpweXRob24zIHNldHVwLnB5IGluc3RhbGxfcHljYWlyb19oZWFkZXIgJiYNCnB5dGhvbjMgc2V0dXAucHkgaW5zdGFsbF9wa2djb25maWc=</install><dependances><dependance><code>cairo</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

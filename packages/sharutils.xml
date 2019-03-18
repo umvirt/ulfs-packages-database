@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>sharutils</code><sourcefile>sharutils-4.15.2.tar.xz</sourcefile><sourcedir>sharutils-4.15.2</sourcedir><configure>c2VkIC1pICdzL0lPX2Z0cnlsb2NrZmlsZS9JT19FT0ZfU0VFTi8nIGxpYi8qLmMgICAgICAgICYmDQplY2hvICIjZGVmaW5lIF9JT19JTl9CQUNLVVAgMHgxMDAiID4+IGxpYi9zdGRpby1pbXBsLmggJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure><build/><install/><dependances/><patches/><addons/></package>

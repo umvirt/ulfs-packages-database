@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xf86-video-vesa</code><sourcefile>xf86-video-vesa-2.3.3.tar.bz2</sourcefile><sourcedir>xf86-video-vesa-2.3.3</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIA==</configure><build/><install/><dependances><dependance>xorg-server</dependance></dependances><patches/><addons/></package>
+<package><release>0.1</release><code>xf86-video-vesa</code><sourcefile>xf86-video-vesa-2.3.3.tar.bz2</sourcefile><sourcedir>xf86-video-vesa-2.3.3</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIA==</configure><build/><install/><dependances><dependance><code>xorg-server</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>libwnck3</code><sourcefile>libwnck-3.24.1.tar.xz</sourcefile><sourcedir>libwnck-3.24.1</sourcedir><configure/><build/><install/><dependances><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>gtk3</code><weight>0</weight></dependance><dependance><code>startup-notification</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>libpeas</code><sourcefile>libpeas-1.22.0.tar.xz</sourcefile><sourcedir>libpeas-1.22.0</sourcedir><configure/><build/><install/><dependances><dependance><code>gobject-introspection</code><weight>0</weight></dependance><dependance><code>gtk3</code><weight>0</weight></dependance><dependance><code>python-pygobject</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

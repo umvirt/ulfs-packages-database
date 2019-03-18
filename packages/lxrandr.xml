@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>lxrandr</code><sourcefile>lxrandr-0.3.1.tar.xz</sourcefile><sourcedir>lxrandr-0.3.1</sourcedir><configure/><build/><install/><dependances><dependance><code>Xapps</code><weight>0</weight></dependance><dependance><code>gtk2</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

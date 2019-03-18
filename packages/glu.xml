@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>glu</code><sourcefile>glu-9.0.0.tar.bz2</sourcefile><sourcedir>glu-9.0.0</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9JFhPUkdfUFJFRklYIC0tZGlzYWJsZS1zdGF0aWM=</configure><build/><install/><dependances><dependance>mesa</dependance></dependances><patches/><addons/></package>
+<package><release>0.1</release><code>glu</code><sourcefile>glu-9.0.0.tar.bz2</sourcefile><sourcedir>glu-9.0.0</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9JFhPUkdfUFJFRklYIC0tZGlzYWJsZS1zdGF0aWM=</configure><build/><install/><dependances><dependance><code>mesa</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

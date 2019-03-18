@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>procps</code><sourcefile>procps-3.2.8.tar.gz</sourcefile><sourcedir>procps-3.2.8</sourcedir><configure/><build/><install/><dependances/><patches/><addons/></package>

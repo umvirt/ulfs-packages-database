@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>libtasn1</code><sourcefile>libtasn1-4.13.tar.gz</sourcefile><sourcedir>libtasn1-4.13</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure><build/><install/><dependances><dependance>python-six</dependance></dependances><patches/><addons/></package>
+<package><release>0.1</release><code>libtasn1</code><sourcefile>libtasn1-4.13.tar.gz</sourcefile><sourcedir>libtasn1-4.13</sourcedir><configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure><build/><install/><dependances><dependance><code>python-six</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

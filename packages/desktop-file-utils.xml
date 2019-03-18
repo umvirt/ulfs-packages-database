@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>desktop-file-utils</code><sourcefile>desktop-file-utils-0.23.tar.xz</sourcefile><sourcedir>desktop-file-utils-0.23</sourcedir><configure/><build/><install/><dependances><dependance><code>glib</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

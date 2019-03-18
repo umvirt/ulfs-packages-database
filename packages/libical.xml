@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>libical</code><sourcefile>libical-3.0.4.tar.gz</sourcefile><sourcedir>libical-3.0.4</sourcedir><configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgICAgIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgIFwNCiAgICAgIC1EU0hBUkVEX09OTFk9eWVzICAgICAgICAgICAgICAgIFwNCiAgICAgIC4u</configure><build/><install/><dependances><dependance><code>cmake</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

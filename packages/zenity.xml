@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>zenity</code><sourcefile>zenity-3.28.1.tar.xz</sourcefile><sourcedir>zenity-3.28.1</sourcedir><configure/><build/><install/><dependances><dependance><code>gtk3</code><weight>0</weight></dependance><dependance><code>libxslt</code><weight>0</weight></dependance><dependance><code>itstool</code><weight>0</weight></dependance><dependance><code>libnotify</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

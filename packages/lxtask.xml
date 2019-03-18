@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>lxtask</code><sourcefile>lxtask-0.1.8.tar.xz</sourcefile><sourcedir>lxtask-0.1.8</sourcedir><configure/><build/><install/><dependances><dependance><code>gtk2</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

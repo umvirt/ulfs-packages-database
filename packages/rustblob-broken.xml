@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>rustblob-broken</code><sourcefile>rustblob.tar.gz</sourcefile><sourcedir>rustblob</sourcedir><configure>dGFyIC14ZiAuLi9ydXN0LTEuMzMuMC14ODZfNjQtdW5rbm93bi1saW51eC1nbnUudGFyLmd6IC1DIC4NCmNkIHJ1c3QtMS4zMy4wLXg4Nl82NC11bmtub3duLWxpbnV4LWdudQ0K</configure><build>Iw==</build><install>Li9pbnN0YWxsLnNo</install><dependances/><patches/><addons><addon>rust-1.33.0-x86_64-unknown-linux-gnu.tar.gz</addon></addons></package>

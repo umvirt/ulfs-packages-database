@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<command><release>0.1</release><name>kernel_install</name><info>SW5zdGFsbCBrZXJuZWwgdG8gc3lzdGVtIGJvb3QgZGlyZWN0b3J5</info><commands>bWFrZSBtb2R1bGVzX2luc3RhbGwNCmNwIC1pdiBhcmNoL3g4Ni9ib290L2J6SW1hZ2UgL2Jvb3Qvdm1saW51eg0KY3AgLWl2IFN5c3RlbS5tYXAgL2Jvb3QvU3lzdGVtLm1hcA0KY3AgLWl2IC5jb25maWcgL2Jvb3QvY29uZmln</commands></command>
+<command><release>0.1</release><name>kernel_install</name><info>SW5zdGFsbCBrZXJuZWwgdG8gc3lzdGVtIGJvb3QgZGlyZWN0b3J5</info><commands>bWFrZSBtb2R1bGVzX2luc3RhbGwNCmNwIC12IGFyY2gveDg2L2Jvb3QvYnpJbWFnZSAvYm9vdC92bWxpbnV6DQpjcCAtdiBTeXN0ZW0ubWFwIC9ib290L1N5c3RlbS5tYXANCmNwIC12IC5jb25maWcgL2Jvb3QvY29uZmln</commands></command>

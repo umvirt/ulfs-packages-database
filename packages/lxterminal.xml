@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>lxterminal</code><sourcefile>lxterminal-0.3.1.tar.xz</sourcefile><sourcedir>lxterminal-0.3.1</sourcedir><configure>c2VkIC1yaSAnL14gK2luaXQvcy9pbml0L3JldHVybiBpbml0Lycgc3JjL3VuaXhzb2NrZXQuYyAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure><build/><install/><dependances><dependance><code>vte-gtk2</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

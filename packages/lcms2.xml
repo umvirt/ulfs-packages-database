@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>lcms2</code><sourcefile>lcms2-2.9.tar.gz</sourcefile><sourcedir>lcms2-2.9</sourcedir><configure>c2VkIC1pICcvQVhfQVBQRU5EL3MvXi8jLycgY29uZmlndXJlLmFjICYmDQphdXRvcmVjb25mDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure><build/><install/><dependances><dependance><code>libjpeg-turbo</code><weight>0</weight></dependance><dependance><code>tiff</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

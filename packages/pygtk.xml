@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>pygtk</code><sourcefile>pygtk-2.24.0.tar.bz2</sourcefile><sourcedir>pygtk-2.24.0</sourcedir><configure/><build/><install/><dependances><dependance><code>python-pygobject</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

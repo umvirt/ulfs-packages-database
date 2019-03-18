@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package><release>0.1</release><code>python-pycairo</code><sourcefile/><sourcedir/><configure>Iw==</configure><build>Iw==</build><install>Iw==</install><dependances><dependance><code>python2-pycairo</code><weight>0</weight></dependance><dependance><code>python3-pycairo</code><weight>0</weight></dependance></dependances><patches/><addons/></package>

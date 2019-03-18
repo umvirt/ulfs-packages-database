@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package><release>0.1</release><code>xcb-util-wm</code><sourcefile>xcb-util-wm-0.4.1.tar.bz2</sourcefile><sourcedir>xcb-util-wm-0.4.1</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances><dependance>libxcb</dependance></dependances><patches/><addons/></package>
+<package><release>0.1</release><code>xcb-util-wm</code><sourcefile>xcb-util-wm-0.4.1.tar.bz2</sourcefile><sourcedir>xcb-util-wm-0.4.1</sourcedir><configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure><build/><install/><dependances><dependance><code>libxcb</code><weight>0</weight></dependance></dependances><patches/><addons/></package>
