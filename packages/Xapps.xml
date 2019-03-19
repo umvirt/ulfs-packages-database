@@ -9,35 +9,7 @@
   <install>Iw==</install>
   <dependances>
     <dependance>
-      <code>xpr</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xprop</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xrandr</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xrdb</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xrefresh</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xset</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>iceauth</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xsetroot</code>
       <weight>0</weight>
     </dependance>
     <dependance>
@@ -45,15 +17,7 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>xvinfo</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>mkfontdir</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xwd</code>
       <weight>0</weight>
     </dependance>
     <dependance>
@@ -61,15 +25,7 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>xwininfo</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>sessreg</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>xwud</code>
       <weight>0</weight>
     </dependance>
     <dependance>
@@ -154,6 +110,50 @@
     </dependance>
     <dependance>
       <code>xmodmap</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xpr</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xprop</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xrandr</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xrdb</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xrefresh</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xset</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xsetroot</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xvinfo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xwd</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xwininfo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xwud</code>
       <weight>0</weight>
     </dependance>
   </dependances>

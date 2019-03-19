@@ -9,15 +9,15 @@
   <install/>
   <dependances>
     <dependance>
+      <code>freetype-stage2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libpng</code>
       <weight>0</weight>
     </dependance>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>tiff</code>
       <weight>0</weight>
     </dependance>
   </dependances>

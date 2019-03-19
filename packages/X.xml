@@ -33,35 +33,35 @@
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>xcb-util</code>
+      <code>Xlibs</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>xcb-util-image</code>
+      <code>xcb-util</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>xcb-util-keysyms</code>
+      <code>xcb-util-image</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>xcb-util-renderutil</code>
+      <code>xcb-util-keysyms</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>xcb-util-wm</code>
+      <code>xcb-util-renderutil</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>xcb-util-cursor</code>
+      <code>xcb-util-wm</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>mesa</code>
+      <code>xcb-util-cursor</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>Xlibs</code>
+      <code>mesa</code>
       <weight>14</weight>
     </dependance>
     <dependance>

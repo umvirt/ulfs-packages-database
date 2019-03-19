@@ -9,43 +9,11 @@
   <install>Iw==</install>
   <dependances>
     <dependance>
-      <code>libXv</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libXvMC</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libXxf86dga</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libXxf86vm</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libdmx</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libpciaccess</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>libxcb</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>libxkbfile</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>fontconfig</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxshmfence</code>
       <weight>0</weight>
     </dependance>
     <dependance>
@@ -142,6 +110,38 @@
     </dependance>
     <dependance>
       <code>libXtst</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libXv</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libXvMC</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libXxf86dga</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libXxf86vm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libdmx</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpciaccess</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxkbfile</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxshmfence</code>
       <weight>0</weight>
     </dependance>
   </dependances>

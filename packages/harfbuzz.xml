@@ -13,7 +13,7 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>freetype-stage2</code>
+      <code>freetype</code>
       <weight>0</weight>
     </dependance>
     <dependance>

@@ -9,11 +9,11 @@
   <install/>
   <dependances>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>freetype-stage2</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>tiff</code>
+      <code>libjpeg-turbo</code>
       <weight>0</weight>
     </dependance>
   </dependances>

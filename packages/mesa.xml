@@ -21,6 +21,14 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>llvm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Xlibs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>wayland-protocols</code>
       <weight>0</weight>
     </dependance>

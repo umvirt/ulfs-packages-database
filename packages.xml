@@ -149,7 +149,7 @@
     <package>pango</package>
     <package>harfbuzz</package>
     <package>icu</package>
-    <package>freetype-stage3</package>
+    <package>freetype-useless------</package>
     <package>fontconfig-stage2</package>
     <package>cairo</package>
     <package>pixman</package>
