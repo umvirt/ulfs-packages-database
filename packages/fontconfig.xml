@@ -9,7 +9,7 @@
   <install>bWFrZSBpbnN0YWxsDQppbnN0YWxsIC12IC1kbTc1NSBcDQogICAgICAgIC91c3Ivc2hhcmUve21hbi9tYW57MSwzLDV9LGRvYy9mb250Y29uZmlnLTIuMTMuMC9mb250Y29uZmlnLWRldmVsfSAmJg0KaW5zdGFsbCAtdiAtbTY0NCBmYy0qLyouMSAgICAgICAgIC91c3Ivc2hhcmUvbWFuL21hbjEgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jLyouMyAgICAgICAgICAvdXNyL3NoYXJlL21hbi9tYW4zICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy9mb250cy1jb25mLjUgL3Vzci9zaGFyZS9tYW4vbWFuNSAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2MvZm9udGNvbmZpZy1kZXZlbC8qIFwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9mb250Y29uZmlnLTIuMTMuMC9mb250Y29uZmlnLWRldmVsICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy8qLntwZGYsc2dtbCx0eHQsaHRtbH0gXA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2ZvbnRjb25maWctMi4xMy4wDQoNCg==</install>
   <dependances>
     <dependance>
-      <code>freetype-stage2</code>
+      <code>freetype</code>
       <weight>0</weight>
     </dependance>
   </dependances>

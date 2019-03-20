@@ -9,7 +9,7 @@
   <install/>
   <dependances>
     <dependance>
-      <code>freetype-useless------</code>
+      <code>freetype-stage2</code>
       <weight>0</weight>
     </dependance>
   </dependances>

@@ -9,7 +9,7 @@
   <install>bmluamEgaW5zdGFsbA==</install>
   <dependances>
     <dependance>
-      <code>fontconfig</code>
+      <code>fontconfig-stage2</code>
       <weight>0</weight>
     </dependance>
     <dependance>
