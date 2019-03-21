@@ -362,5 +362,8 @@
     <package>vte-gtk2</package>
     <package>X</package>
     <package>Xdrivers</package>
+    <package>lxde</package>
+    <package>gtksourceview</package>
+    <package>gedit</package>
   </packages>
 </packages>

@@ -16,6 +16,10 @@
       <code>slang</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>gpm</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

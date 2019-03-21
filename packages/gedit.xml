@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>gdk-pixbuf</code>
-  <sourcefile>gdk-pixbuf-2.36.12.tar.xz</sourcefile>
-  <sourcedir>gdk-pixbuf-2.36.12</sourcedir>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgteDEx</configure>
+  <code>gedit</code>
+  <sourcefile>gedit-3.22.1.tar.xz</sourcefile>
+  <sourcedir>gedit-3.22.1</sourcedir>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3BlbGw=</configure>
   <build/>
   <install/>
   <dependances>
     <dependance>
-      <code>glib</code>
+      <code>gsettings-desktop-schemas</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>freetype-stage2</code>
+      <code>libsoup</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>Xlibs</code>
+      <code>iso-codes</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>python-pygobject</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>libpeas</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>shared-mime-info</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>tiff</code>
+      <code>gtksourceview</code>
       <weight>0</weight>
     </dependance>
   </dependances>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gtksourceview</code>
+  <sourcefile>gtksourceview-3.24.8.tar.xz</sourcefile>
+  <sourcedir>gtksourceview-3.24.8</sourcedir>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

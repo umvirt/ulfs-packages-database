@@ -5,8 +5,8 @@
   <sourcefile>libunique-1.1.6.tar.bz2</sourcefile>
   <sourcedir>libunique-1.1.6</sourcedir>
   <configure>YXV0b3JlY29uZiAtZmkgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRidXMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
-  <build/>
-  <install/>
+  <build>bWFrZSAtajE=</build>
+  <install>bWFrZSAtajEgaW5zdGFsbA==</install>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
