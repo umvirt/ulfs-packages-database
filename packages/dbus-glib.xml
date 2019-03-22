@@ -5,11 +5,15 @@
   <sourcefile>dbus-glib-0.110.tar.gz</sourcefile>
   <sourcedir>dbus-glib-0.110</sourcedir>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
-  <build>bWFrZSAtajE=</build>
-  <install>bWFrZSAtajEgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <dependances>
     <dependance>
       <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python-six</code>
       <weight>0</weight>
     </dependance>
     <dependance>
