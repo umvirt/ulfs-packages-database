@@ -4,6 +4,7 @@
   <code>gnome-bluetooth</code>
   <sourcefile>gnome-bluetooth-3.28.2.tar.xz</sourcefile>
   <sourcedir>gnome-bluetooth-3.28.2</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4g</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

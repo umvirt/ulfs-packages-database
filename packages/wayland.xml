@@ -4,6 +4,7 @@
   <code>wayland</code>
   <sourcefile>wayland-1.15.0.tar.xz</sourcefile>
   <sourcedir>wayland-1.15.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1kb2N1bWVudGF0aW9u</configure>
   <build/>
   <install/>

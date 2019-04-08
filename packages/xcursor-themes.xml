@@ -4,6 +4,7 @@
   <code>xcursor-themes</code>
   <sourcefile>xcursor-themes-1.0.5.tar.bz2</sourcefile>
   <sourcedir>xcursor-themes-1.0.5</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libtheora</code>
+  <sourcefile>libtheora-1.1.1.tar.xz</sourcefile>
+  <sourcedir>libtheora-1.1.1</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzL3BuZ19cKHNpemVvZlwpL1wxL2cnIGV4YW1wbGVzL3BuZzJ0aGVvcmEuYyAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libogg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libvorbis</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

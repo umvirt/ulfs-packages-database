@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>acpid</code>
+  <sourcefile>acpid-2.0.30.tar.xz</sourcefile>
+  <sourcedir>acpid-2.0.30</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9hY3BpZC0yLjAuMzA=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICYmDQppbnN0YWxsIC12IC1tNzU1IC1kIC9ldGMvYWNwaS9ldmVudHMgJiYNCmNwIC1yIHNhbXBsZXMgL3Vzci9zaGFyZS9kb2MvYWNwaWQtMi4wLjMwDQoNCmNhdCA+IC9ldGMvYWNwaS9ldmVudHMvbGlkIDw8ICJFT0YiDQpldmVudD1idXR0b24vbGlkDQphY3Rpb249L2V0Yy9hY3BpL2xpZC5zaA0KRU9GDQoNCmNhdCA+IC9ldGMvYWNwaS9saWQuc2ggPDwgIkVPRiINCiMhL2Jpbi9zaA0KL2Jpbi9ncmVwIC1xIG9wZW4gL3Byb2MvYWNwaS9idXR0b24vbGlkL0xJRC9zdGF0ZSAmJiBleGl0IDANCi91c3Ivc2Jpbi9wbS1zdXNwZW5kDQpFT0YNCmNobW9kICt4IC9ldGMvYWNwaS9saWQuc2gNCg0KY2QgL3Vzci9zaGFyZS9ibGZzLXN5c3RlbWQtdW5pdHMNCm1ha2UgaW5zdGFsbC1hY3BpZA0KDQo=</install>
+  <dependances>
+    <dependance>
+      <code>blfs-systemd-units</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

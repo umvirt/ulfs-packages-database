@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>wxHexEditor</code>
+  <sourcefile>wxHexEditor-v0.24-src.tar.xz</sourcefile>
+  <sourcedir>wxHexEditor</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

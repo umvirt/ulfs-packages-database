@@ -4,6 +4,7 @@
   <code>iso-codes</code>
   <sourcefile>iso-codes-3.79.tar.xz</sourcefile>
   <sourcedir>iso-codes-3.79</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

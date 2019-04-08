@@ -4,6 +4,7 @@
   <code>lxinput</code>
   <sourcefile>lxinput-0.3.5.tar.xz</sourcefile>
   <sourcedir>lxinput-0.3.5</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

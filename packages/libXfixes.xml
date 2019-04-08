@@ -4,6 +4,7 @@
   <code>libXfixes</code>
   <sourcefile>libXfixes-5.0.3.tar.bz2</sourcefile>
   <sourcedir>libXfixes-5.0.3</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

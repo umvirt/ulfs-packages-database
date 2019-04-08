@@ -4,6 +4,7 @@
   <code>pygobject</code>
   <sourcefile>pygobject-2.28.7.tar.xz</sourcefile>
   <sourcedir>pygobject-2.28.7</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtaW50cm9zcGVjdGlvbg==</configure>
   <build/>
   <install/>

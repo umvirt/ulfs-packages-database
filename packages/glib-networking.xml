@@ -4,6 +4,7 @@
   <code>glib-networking</code>
   <sourcefile>glib-networking-2.56.1.tar.xz</sourcefile>
   <sourcedir>glib-networking-2.56.1</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgICAgICAgICAgICBcDQogICAgICAtRGxpYnByb3h5X3N1cHBvcnQ9ZmFsc2UgXA0KICAgICAgLURjYV9jZXJ0aWZpY2F0ZXNfcGF0aD0vZXRjL3NzbC9jYS1idW5kbGUuY3J0IC4u</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

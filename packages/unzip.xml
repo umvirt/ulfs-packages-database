@@ -4,6 +4,7 @@
   <code>unzip</code>
   <sourcefile>unzip60.tar.gz</sourcefile>
   <sourcedir>unzip60</sourcedir>
+  <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZSAtZiB1bml4L01ha2VmaWxlIGdlbmVyaWM=</build>
   <install>bWFrZSBwcmVmaXg9L3VzciBNQU5ESVI9L3Vzci9zaGFyZS9tYW4vbWFuMSBcDQogLWYgdW5peC9NYWtlZmlsZSBpbnN0YWxs</install>

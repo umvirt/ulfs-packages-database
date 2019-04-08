@@ -4,6 +4,7 @@
   <code>vala</code>
   <sourcefile>vala-0.40.8.tar.xz</sourcefile>
   <sourcedir>vala-0.40.8</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

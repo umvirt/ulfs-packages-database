@@ -4,6 +4,7 @@
   <code>libgusb</code>
   <sourcefile>libgusb-0.3.0.tar.xz</sourcefile>
   <sourcedir>libgusb-0.3.0</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLURkb2NzPWZhbHNlIC4uIA==</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

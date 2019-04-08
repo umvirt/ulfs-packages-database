@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>extundelete</code>
+  <sourcefile>extundelete-0.2.4.tar.bz2</sourcefile>
+  <sourcedir>extundelete-0.2.4</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

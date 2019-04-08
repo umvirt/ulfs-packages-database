@@ -4,6 +4,7 @@
   <code>hicolor-icon-theme</code>
   <sourcefile>hicolor-icon-theme-0.17.tar.xz</sourcefile>
   <sourcedir>hicolor-icon-theme-0.17</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

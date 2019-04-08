@@ -4,6 +4,7 @@
   <code>xf86-input-vmmouse</code>
   <sourcefile>xf86-input-vmmouse-13.1.0.tar.bz2</sourcefile>
   <sourcedir>xf86-input-vmmouse-13.1.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRob3V0LWhhbC1mZGktZGlyICAgICAgXA0KICAgICAgICAgICAgLS13aXRob3V0LWhhbC1jYWxsb3V0cy1kaXIgXA0KICAgICAgICAgICAgLS13aXRoLXVkZXYtcnVsZXMtZGlyPS9saWIvdWRldi9ydWxlcy5k</configure>
   <build/>
   <install/>

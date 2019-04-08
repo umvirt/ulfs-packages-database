@@ -4,6 +4,7 @@
   <code>libnotify</code>
   <sourcefile>libnotify-0.7.7.tar.xz</sourcefile>
   <sourcedir>libnotify-0.7.7</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>

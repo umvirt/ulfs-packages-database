@@ -4,6 +4,7 @@
   <code>libXv</code>
   <sourcefile>libXv-1.0.11.tar.bz2</sourcefile>
   <sourcedir>libXv-1.0.11</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

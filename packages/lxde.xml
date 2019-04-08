@@ -4,10 +4,15 @@
   <code>lxde</code>
   <sourcefile/>
   <sourcedir/>
+  <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>
   <install>Iw==</install>
   <dependances>
+    <dependance>
+      <code>X</code>
+      <weight>-1</weight>
+    </dependance>
     <dependance>
       <code>lxmenu-data</code>
       <weight>0</weight>

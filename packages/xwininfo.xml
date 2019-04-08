@@ -4,6 +4,7 @@
   <code>xwininfo</code>
   <sourcefile>xwininfo-1.1.4.tar.bz2</sourcefile>
   <sourcedir>xwininfo-1.1.4</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

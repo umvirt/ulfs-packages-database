@@ -4,6 +4,7 @@
   <code>upower</code>
   <sourcefile>upower-0.99.7.tar.xz</sourcefile>
   <sourcedir>upower-0.99.7</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgXA0KICAgICAgICAgICAgLS1lbmFibGUtZGVwcmVjYXRlZCAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAg</configure>
   <build/>
   <install/>

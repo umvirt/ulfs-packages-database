@@ -4,6 +4,7 @@
   <code>xkbutils</code>
   <sourcefile>xkbutils-1.0.4.tar.bz2</sourcefile>
   <sourcedir>xkbutils-1.0.4</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

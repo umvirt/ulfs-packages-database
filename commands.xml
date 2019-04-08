@@ -10,5 +10,8 @@
     <command>check_umvirt_ca_cert</command>
     <command>select_console_mouse_device</command>
     <command>modules_dialog_demo</command>
+    <command>reset_etc_profile</command>
+    <command>add_java64</command>
+    <command>buildrust</command>
   </commands>
 </packages>

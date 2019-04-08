@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>VeraCrypt</code>
+  <sourcefile>VeraCrypt_1.23_Source.tar.bz2</sourcefile>
+  <sourcedir>VeraCrypt</sourcedir>
+  <unpack>bWtkaXIgVmVyYUNyeXB0DQp0YXIgLXhmIFZlcmFDcnlwdF8xLjIzX1NvdXJjZS50YXIuYnoyICAtQyBWZXJhQ3J5cHQ=</unpack>
+  <configure>Y2Qgc3Jj</configure>
+  <build>bWFrZQ==</build>
+  <install>aW5zdGFsbCAtdiAtbTc1NSBNYWluL3ZlcmFjcnlwdCAvdXNyL2Jpbg==</install>
+  <dependances>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fuse3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fuse2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

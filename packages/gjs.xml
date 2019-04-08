@@ -4,6 +4,7 @@
   <code>gjs</code>
   <sourcefile>gjs-1.52.3.tar.xz</sourcefile>
   <sourcedir>gjs-1.52.3</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

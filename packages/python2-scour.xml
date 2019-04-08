@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python2-scour</code>
+  <sourcefile>scour-0.37.tar.gz</sourcefile>
+  <sourcedir>scour-0.37</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uIHNldHVwLnB5IGJ1aWxk</build>
+  <install>cHl0aG9uIHNldHVwLnB5IGluc3RhbGwgLS1vcHRpbWl6ZT0x</install>
+  <dependances>
+    <dependance>
+      <code>python-six</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

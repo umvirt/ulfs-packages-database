@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libvdpau-va-gl</code>
+  <sourcefile>libvdpau-va-gl-0.4.0.tar.gz</sourcefile>
+  <sourcedir>libvdpau-va-gl-0.4.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9JFhPUkdfUFJFRklYIC4u</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmVjaG8gImV4cG9ydCBWRFBBVV9EUklWRVI9dmFfZ2wiID4+IC9ldGMvcHJvZmlsZS5kL3hvcmcuc2g=</install>
+  <dependances>
+    <dependance>
+      <code>mesa</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libva</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libvdpau</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ffmpeg</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

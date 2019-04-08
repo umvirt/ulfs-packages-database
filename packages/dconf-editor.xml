@@ -4,6 +4,7 @@
   <code>dconf-editor</code>
   <sourcefile>dconf-0.28.0.tar.xz</sourcefile>
   <sourcedir>dconf-0.28.0</sourcedir>
+  <unpack/>
   <configure>dGFyIC14ZiAuLi9kY29uZi1lZGl0b3ItMy4yOC4wLnRhci54eiAmJg0KY2QgZGNvbmYtZWRpdG9yLTMuMjguMCAgICAgICAgICAgICAgICAmJg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAuLg==</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

@@ -4,6 +4,7 @@
   <code>geoclue</code>
   <sourcefile>geoclue-2.4.11.tar.xz</sourcefile>
   <sourcedir>geoclue-2.4.11</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>xcb-util-renderutil</code>
   <sourcefile>xcb-util-renderutil-0.3.9.tar.bz2</sourcefile>
   <sourcedir>xcb-util-renderutil-0.3.9</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

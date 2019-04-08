@@ -4,6 +4,7 @@
   <code>xdpyinfo</code>
   <sourcefile>xdpyinfo-1.3.2.tar.bz2</sourcefile>
   <sourcedir>xdpyinfo-1.3.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

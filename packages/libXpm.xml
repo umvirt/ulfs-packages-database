@@ -4,6 +4,7 @@
   <code>libXpm</code>
   <sourcefile>libXpm-3.5.12.tar.bz2</sourcefile>
   <sourcedir>libXpm-3.5.12</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

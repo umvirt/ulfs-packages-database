@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libvdpau</code>
+  <sourcefile>libvdpau-1.1.1.tar.bz2</sourcefile>
+  <sourcedir>libvdpau-1.1.1</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnZkcGF1LTEuMS4xIA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>Xlibs</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

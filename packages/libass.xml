@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libass</code>
+  <sourcefile>libass-0.14.0.tar.xz</sourcefile>
+  <sourcedir>libass-0.14.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>freetype-stage2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fribidi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>harfbuzz</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fontconfig-stage2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nasm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

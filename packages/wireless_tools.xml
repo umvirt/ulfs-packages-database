@@ -4,12 +4,16 @@
   <code>wireless_tools</code>
   <sourcefile>wireless_tools.29.tar.gz</sourcefile>
   <sourcedir>wireless_tools.29</sourcedir>
+  <unpack/>
   <configure>Iw==</configure>
   <build/>
   <install>bWFrZSBQUkVGSVg9L3VzciBJTlNUQUxMX01BTj0vdXNyL3NoYXJlL21hbiBpbnN0YWxs</install>
   <dependances/>
   <patches>
-    <patch>wireless_tools-29-fix_iwlist_scanning-1.patch</patch>
+    <patch>
+      <filename>wireless_tools-29-fix_iwlist_scanning-1.patch</filename>
+      <mode/>
+    </patch>
   </patches>
   <addons/>
 </package>

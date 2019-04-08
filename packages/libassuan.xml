@@ -4,6 +4,7 @@
   <code>libassuan</code>
   <sourcefile>libassuan-2.5.1.tar.bz2</sourcefile>
   <sourcedir>libassuan-2.5.1</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

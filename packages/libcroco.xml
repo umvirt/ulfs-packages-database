@@ -4,6 +4,7 @@
   <code>libcroco</code>
   <sourcefile>libcroco-0.6.12.tar.xz</sourcefile>
   <sourcedir>libcroco-0.6.12</sourcedir>
+  <unpack/>
   <configure>L2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
   <build/>
   <install/>

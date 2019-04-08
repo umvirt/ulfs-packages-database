@@ -4,6 +4,7 @@
   <code>xev</code>
   <sourcefile>xev-1.2.2.tar.bz2</sourcefile>
   <sourcedir>xev-1.2.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

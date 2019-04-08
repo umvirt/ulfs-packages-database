@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>mypaint-brushes</code>
+  <sourcefile>mypaint-brushes-v1.3.0.tar.gz</sourcefile>
+  <sourcedir>mypaint-brushes-1.3.0</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>mypaint-brushes-1.3.0-automake_1.16-1.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+</package>

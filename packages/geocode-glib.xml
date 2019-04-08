@@ -4,6 +4,7 @@
   <code>geocode-glib</code>
   <sourcefile>geocode-glib-3.26.0.tar.xz</sourcefile>
   <sourcedir>geocode-glib-3.26.0</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAmJg0KY2QgICAgYnVpbGQgICAgICAgICAgICAmJg0KbWVzb24gLS1wcmVmaXggL3VzciAuLiA=</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

@@ -4,6 +4,7 @@
   <code>libXau</code>
   <sourcefile>libXau-1.0.8.tar.bz2</sourcefile>
   <sourcedir>libXau-1.0.8</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

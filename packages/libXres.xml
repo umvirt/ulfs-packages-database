@@ -4,6 +4,7 @@
   <code>libXres</code>
   <sourcefile>libXres-1.2.0.tar.bz2</sourcefile>
   <sourcedir>libXres-1.2.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

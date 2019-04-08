@@ -4,6 +4,7 @@
   <code>xf86-input-wacom</code>
   <sourcefile>xf86-input-wacom-0.36.0.tar.bz2</sourcefile>
   <sourcedir>xf86-input-wacom-0.36.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0td2l0aC1zeXN0ZW1kLXVuaXQtZGlyPW5v</configure>
   <build/>
   <install/>

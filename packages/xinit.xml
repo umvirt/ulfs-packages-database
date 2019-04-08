@@ -4,6 +4,7 @@
   <code>xinit</code>
   <sourcefile>xinit-1.4.0.tar.bz2</sourcefile>
   <sourcedir>xinit-1.4.0</sourcedir>
+  <unpack/>
   <configure>c2VkIC1lICcvJHNlcnZlcmFyZ3MgJHZ0YXJnLyBzL3NlcnZlcmFyZ3MvOiAjJi8nIFwNCiAgICAtaSBzdGFydHguY3BwDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcgLS13aXRoLXhpbml0ZGlyPS9ldGMvWDExL2FwcC1kZWZhdWx0cw==</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQpsZGNvbmZpZw==</install>

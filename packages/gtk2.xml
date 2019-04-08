@@ -4,6 +4,7 @@
   <code>gtk2</code>
   <sourcefile>gtk+-2.24.32.tar.xz</sourcefile>
   <sourcedir>gtk+-2.24.32</sourcedir>
+  <unpack/>
   <configure>c2VkIC1lICdzI2wgXChndGstLipcKS5zZ21sIyYgLW8gXDEjJyBcDQogICAgLWkgZG9jcy97ZmFxLHR1dG9yaWFsfS9NYWtlZmlsZS5pbiAgICAgICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGM=</configure>
   <build/>
   <install/>

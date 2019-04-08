@@ -4,6 +4,7 @@
   <code>nautilus</code>
   <sourcefile>nautilus-3.28.1.tar.xz</sourcefile>
   <sourcedir>nautilus-3.28.1</sourcedir>
+  <unpack/>
   <configure>c2VkIHMvXCdsaWJtXCcvXCdtXCcvIC1pIG1lc29uLmJ1aWxkICYmDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgIC0tc3lzY29uZmRpcj0vZXRjICBcDQogICAgICAtRHNlbGludXg9ZmFsc2UgICAgXA0KICAgICAgLURwYWNrYWdla2l0PWZhbHNlIFwNCiAgICAgIC4u</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbCAmJg0KZ2xpYi1jb21waWxlLXNjaGVtYXMgL3Vzci9zaGFyZS9nbGliLTIuMC9zY2hlbWFz</install>

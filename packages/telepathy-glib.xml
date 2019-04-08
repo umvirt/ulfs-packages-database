@@ -4,6 +4,7 @@
   <code>telepathy-glib</code>
   <sourcefile>telepathy-glib-0.24.1.tar.gz</sourcefile>
   <sourcedir>telepathy-glib-0.24.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWVuYWJsZS12YWxhLWJpbmRpbmdzIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWM=</configure>
   <build/>
   <install/>

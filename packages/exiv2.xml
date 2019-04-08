@@ -4,6 +4,7 @@
   <code>exiv2</code>
   <sourcefile>exiv2-0.26-trunk.tar.gz</sourcefile>
   <sourcedir>exiv2-trunk</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdmlkZW8gICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtd2VicmVhZHkgXA0KICAgICAgICAgICAgLS13aXRob3V0LXNzaCAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQpjaG1vZCAtdiA3NTUgL3Vzci9saWIvbGliZXhpdjIuc28=</install>

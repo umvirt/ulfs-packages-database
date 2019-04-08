@@ -4,6 +4,7 @@
   <code>atk</code>
   <sourcefile>atk-2.29.2.tar.xz</sourcefile>
   <sourcedir>atk-2.29.2</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3I=</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

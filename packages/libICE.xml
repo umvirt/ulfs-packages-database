@@ -4,6 +4,7 @@
   <code>libICE</code>
   <sourcefile>libICE-1.0.9.tar.bz2</sourcefile>
   <sourcedir>libICE-1.0.9</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIElDRV9MSUJTPS1scHRocmVhZA==</configure>
   <build/>
   <install/>

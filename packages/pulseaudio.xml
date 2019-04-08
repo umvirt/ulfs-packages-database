@@ -4,6 +4,7 @@
   <code>pulseaudio</code>
   <sourcefile>pulseaudio-12.2.tar.xz</sourcefile>
   <sourcedir>pulseaudio-12.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWJsdWV6NCAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWJsdWV6NSAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXJwYXRoIA==</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQpybSAtZnYgL2V0Yy9kYnVzLTEvc3lzdGVtLmQvcHVsc2VhdWRpby1zeXN0ZW0uY29uZg==</install>

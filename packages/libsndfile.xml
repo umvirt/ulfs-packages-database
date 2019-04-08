@@ -4,6 +4,7 @@
   <code>libsndfile</code>
   <sourcefile>libsndfile-1.0.28.tar.gz</sourcefile>
   <sourcedir>libsndfile-1.0.28</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnNuZGZpbGUtMS4wLjI4</configure>
   <build/>
   <install/>

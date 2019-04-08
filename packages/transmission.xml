@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>transmission</code>
+  <sourcefile>transmission-2.94.tar.xz</sourcefile>
+  <sourcedir>transmission-2.94</sourcedir>
+  <unpack/>
+  <configure/>
+  <build>bWFrZSANCg0KcHVzaGQgcXQgICAgICAgICYmDQogIHFtYWtlIHF0ci5wcm8gJiYNCiAgbWFrZSAgICAgICAgICAmJg0KcG9wZA0KDQptYWtlIGluc3RhbGw=</build>
+  <install>bWFrZSBJTlNUQUxMX1JPT1Q9L3VzciAtQyBxdCBpbnN0YWxsICYmDQoNCmluc3RhbGwgLW02NDQgcXQvdHJhbnNtaXNzaW9uLXF0LmRlc2t0b3AgL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvdHJhbnNtaXNzaW9uLXF0LmRlc2t0b3AgJiYNCmluc3RhbGwgLW02NDQgcXQvaWNvbnMvdHJhbnNtaXNzaW9uLnBuZyAgL3Vzci9zaGFyZS9waXhtYXBzL3RyYW5zbWlzc2lvbi1xdC5wbmc=</install>
+  <dependances>
+    <dependance>
+      <code>curl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libevent</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

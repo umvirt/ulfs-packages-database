@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>pciutils</code>
+  <sourcefile>pciutils-3.6.2.tar.xz</sourcefile>
+  <sourcedir>pciutils-3.6.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBQUkVGSVg9L3VzciAgICAgICAgICAgICAgICBcDQogICAgIFNIQVJFRElSPS91c3Ivc2hhcmUvaHdkYXRhIFwNCiAgICAgU0hBUkVEPXllcw==</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciAgICAgICAgICAgICAgICBcDQogICAgIFNIQVJFRElSPS91c3Ivc2hhcmUvaHdkYXRhIFwNCiAgICAgU0hBUkVEPXllcyAgICAgICAgICAgICAgICAgXA0KICAgICBpbnN0YWxsIGluc3RhbGwtbGliICAgICAgICAmJg0KDQpjaG1vZCAtdiA3NTUgL3Vzci9saWIvbGlicGNpLnNv</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

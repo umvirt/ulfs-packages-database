@@ -4,6 +4,7 @@
   <code>libXi</code>
   <sourcefile>libXi-1.7.9.tar.bz2</sourcefile>
   <sourcedir>libXi-1.7.9</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

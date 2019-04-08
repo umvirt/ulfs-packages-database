@@ -4,6 +4,7 @@
   <code>xclock</code>
   <sourcefile>xclock-1.0.7.tar.bz2</sourcefile>
   <sourcedir>xclock-1.0.7</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

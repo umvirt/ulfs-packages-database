@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>xdelta3</code>
+  <sourcefile>xdelta3-3.0.11.tar.gz</sourcefile>
+  <sourcedir>xdelta3-3.0.11</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

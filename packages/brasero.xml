@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>brasero</code>
+  <sourcefile>brasero-3.12.2.tar.xz</sourcefile>
+  <sourcedir>brasero-3.12.2</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1jb21waWxlLXdhcm5pbmdzPW5vIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWN4eC13YXJuaW5ncz1ubw==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

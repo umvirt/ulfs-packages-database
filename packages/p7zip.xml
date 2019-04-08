@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>p7zip</code>
+  <sourcefile>p7zip_16.02_src_all.tar.bz2</sourcefile>
+  <sourcedir>p7zip_16.02</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBhbGwz</build>
+  <install>bWFrZSBERVNUX0hPTUU9L3VzciBcDQogICAgIERFU1RfTUFOPS91c3Ivc2hhcmUvbWFuIFwNCiAgICAgREVTVF9TSEFSRV9ET0M9L3Vzci9zaGFyZS9kb2MvcDd6aXAtMTYuMDIgaW5zdGFsbA==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

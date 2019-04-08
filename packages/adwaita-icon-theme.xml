@@ -4,6 +4,7 @@
   <code>adwaita-icon-theme</code>
   <sourcefile>adwaita-icon-theme-3.26.1.tar.xz</sourcefile>
   <sourcedir>adwaita-icon-theme-3.26.1</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

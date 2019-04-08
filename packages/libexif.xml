@@ -6,6 +6,7 @@
 </sourcefile>
   <sourcedir>libexif-0.6.21&#13;
 </sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtZG9jLWRpcj0vdXNyL3NoYXJlL2RvYy9saWJleGlmLTAuNi4yMSBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>

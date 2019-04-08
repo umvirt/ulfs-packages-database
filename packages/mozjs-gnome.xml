@@ -4,6 +4,7 @@
   <code>mozjs-gnome</code>
   <sourcefile>mozjs-52.2.1gnome1.tar.gz</sourcefile>
   <sourcedir>mozjs-52.2.1gnome1</sourcedir>
+  <unpack/>
   <configure>Y2QganMvc3JjICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWludGwtYXBpICAgICBcDQogICAgICAgICAgICAtLXdpdGgtc3lzdGVtLXpsaWIgIFwNCiAgICAgICAgICAgIC0td2l0aC1zeXN0ZW0tbnNwciAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbS1pY3UgICBcDQogICAgICAgICAgICAtLWVuYWJsZS10aHJlYWRzYWZlIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXJlYWRsaW5l</configure>
   <build/>
   <install/>

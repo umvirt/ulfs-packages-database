@@ -4,6 +4,7 @@
   <code>xf86-input-evdev</code>
   <sourcefile>xf86-input-evdev-2.10.6.tar.bz2</sourcefile>
   <sourcedir>xf86-input-evdev-2.10.6</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

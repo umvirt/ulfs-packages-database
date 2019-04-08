@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gtkmm</code>
+  <sourcefile>gtkmm-2.24.5.tar.xz</sourcefile>
+  <sourcedir>gtkmm-2.24.5</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICcvXmxpYmRvY2RpciA9LyBzLyQoYm9va19uYW1lKS9ndGttbS0yLjI0LjUvJyBcDQogICAgLWkgZG9jcy9NYWtlZmlsZS5pbg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>atkmm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pangomm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

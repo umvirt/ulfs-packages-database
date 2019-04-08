@@ -4,6 +4,7 @@
   <code>libwnck3</code>
   <sourcefile>libwnck-3.24.1.tar.xz</sourcefile>
   <sourcedir>libwnck-3.24.1</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>xterm</code>
   <sourcefile>xterm-335.tgz</sourcefile>
   <sourcedir>xterm-335</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pICcvdjAve247cy9uZXc6L25ldzprYj1ePzovfScgdGVybWNhcCAmJg0KcHJpbnRmICdcdGticz1cXDE3NyxcbicgPj4gdGVybWluZm8gJiYNCg0KVEVSTUlORk89L3Vzci9zaGFyZS90ZXJtaW5mbyBcDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcgICAgIFwNCiAgICAtLXdpdGgtYXBwLWRlZmF1bHRzPS9ldGMvWDExL2FwcC1kZWZhdWx0cw==</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICAgICYmDQptYWtlIGluc3RhbGwtdGkgJiYNCg0KbWtkaXIgLXB2IC91c3Ivc2hhcmUvYXBwbGljYXRpb25zICYmDQpjcCAtdiAqLmRlc2t0b3AgL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMv</install>

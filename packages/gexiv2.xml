@@ -4,6 +4,7 @@
   <code>gexiv2</code>
   <sourcefile>gexiv2-0.10.8.tar.xz</sourcefile>
   <sourcedir>gexiv2-0.10.8</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4g</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

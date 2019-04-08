@@ -4,6 +4,7 @@
   <code>libxklavier</code>
   <sourcefile>libxklavier-5.4.tar.bz2</sourcefile>
   <sourcedir>libxklavier-5.4</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>

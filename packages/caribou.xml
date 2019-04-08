@@ -4,6 +4,7 @@
   <code>caribou</code>
   <sourcefile>caribou-0.4.21.tar.xz</sourcefile>
   <sourcedir>caribou-0.4.21</sourcedir>
+  <unpack/>
   <configure>UFlUSE9OPXB5dGhvbjMgLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtZ3RrMi1tb2R1bGUgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
   <build/>
   <install/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>freeglut</code>
+  <sourcefile>freeglut-3.0.0.tar.gz</sourcefile>
+  <sourcedir>freeglut-3.0.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCkNNQUtFX0xJQlJBUllfUEFUSD0kWE9SR19QUkVGSVgvbGliICAgICBcDQpDTUFLRV9JTkNMVURFX1BBVEg9JFhPUkdfUFJFRklYL2luY2x1ZGUgXA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICBcDQogICAgICAtREZSRUVHTFVUX0JVSUxEX0RFTU9TPU9GRiAgICAgICAgXA0KICAgICAgLURGUkVFR0xVVF9CVUlMRF9TVEFUSUNfTElCUz1PRkYgIFwNCiAgICAgIC4u</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>mesa</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glu</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

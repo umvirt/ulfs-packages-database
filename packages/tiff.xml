@@ -4,6 +4,7 @@
   <code>tiff</code>
   <sourcefile>tiff-4.0.9.tar.gz</sourcefile>
   <sourcedir>tiff-4.0.9</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgLXAgbGlidGlmZi1idWlsZCAmJg0KY2QgICAgICAgbGlidGlmZi1idWlsZCAmJg0KDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfRE9DRElSPS91c3Ivc2hhcmUvZG9jL2xpYnRpZmYtNC4wLjkgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC1HIE5pbmphIC4u</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>xmlto</code>
+  <sourcefile>xmlto-0.0.28.tar.bz2</sourcefile>
+  <sourcedir>xmlto-0.0.28</sourcedir>
+  <unpack/>
+  <configure>TElOS1M9Ii91c3IvYmluL2xpbmtzIiBcDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libxslt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>docbook-xml</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>docbook-xsl</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

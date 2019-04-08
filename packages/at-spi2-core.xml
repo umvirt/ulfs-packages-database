@@ -4,6 +4,7 @@
   <code>at-spi2-core</code>
   <sourcefile>at-spi2-core-2.28.0.tar.xz</sourcefile>
   <sourcedir>at-spi2-core-2.28.0</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMgIC4u</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

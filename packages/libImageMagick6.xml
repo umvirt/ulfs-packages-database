@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libImageMagick6</code>
+  <sourcefile>ImageMagick-6.9.10-10.tar.xz</sourcefile>
+  <sourcedir>ImageMagick-6.9.10-10</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZmkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUtaGRyaSAgICAgXA0KICAgICAgICAgICAgLS13aXRoLW1vZHVsZXMgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
+  <build/>
+  <install>bWFrZSBET0NVTUVOVEFUSU9OX1BBVEg9L3Vzci9zaGFyZS9kb2MvaW1hZ2VtYWdpY2stNi45LjEwIGluc3RhbGwtbGlicy1vbmx5</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>ImageMagick-6.9.10-10-libs_only-1.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+</package>

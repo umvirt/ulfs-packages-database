@@ -4,6 +4,7 @@
   <code>libXft</code>
   <sourcefile>libXft-2.3.2.tar.bz2</sourcefile>
   <sourcedir>libXft-2.3.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>libdaemon</code>
   <sourcefile>libdaemon-0.14.tar.gz</sourcefile>
   <sourcedir>libdaemon-0.14</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>xf86-video-vesa</code>
   <sourcefile>xf86-video-vesa-2.3.3.tar.bz2</sourcefile>
   <sourcedir>xf86-video-vesa-2.3.3</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIA==</configure>
   <build/>
   <install/>

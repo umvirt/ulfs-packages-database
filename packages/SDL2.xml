@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>SDL2</code>
+  <sourcefile>SDL2-2.0.8.tar.gz</sourcefile>
+  <sourcedir>SDL2-2.0.8</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAmJg0Kcm0gLXYgL3Vzci9saWIvbGliU0RMMiouYQ==</install>
+  <dependances>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

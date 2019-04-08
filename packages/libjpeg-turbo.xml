@@ -4,6 +4,7 @@
   <code>libjpeg-turbo</code>
   <sourcefile>libjpeg-turbo-2.0.0.tar.gz</sourcefile>
   <sourcedir>libjpeg-turbo-2.0.0</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UkVMRUFTRSAgXA0KICAgICAgLURFTkFCTEVfU1RBVElDPUZBTFNFICAgICAgIFwNCiAgICAgIC1EQ01BS0VfSU5TVEFMTF9ET0NESVI9L3Vzci9zaGFyZS9kb2MvbGlianBlZy10dXJiby0yLjAuMCBcDQogICAgICAtRENNQUtFX0lOU1RBTExfREVGQVVMVF9MSUJESVI9bGliICBcDQogICAgICAuLiA=</configure>
   <build/>
   <install>cm0gLWYgL3Vzci9saWIvbGlianBlZy5zbyoNCm1ha2UgaW5zdGFsbA==</install>

@@ -4,6 +4,7 @@
   <code>libepoxy</code>
   <sourcefile>libepoxy-1.5.2.tar.xz</sourcefile>
   <sourcedir>libepoxy-1.5.2</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

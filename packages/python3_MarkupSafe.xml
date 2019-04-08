@@ -4,6 +4,7 @@
   <code>python3_MarkupSafe</code>
   <sourcefile>MarkupSafe-1.0.tar.gz</sourcefile>
   <sourcedir>MarkupSafe-1.0</sourcedir>
+  <unpack/>
   <configure>Iw==</configure>
   <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
   <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ==</install>

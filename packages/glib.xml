@@ -4,6 +4,7 @@
   <code>glib</code>
   <sourcefile>glib-2.56.1.tar.xz</sourcefile>
   <sourcedir>glib-2.56.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1wY3JlPXN5c3RlbSBcDQogICAgICAgICAgICAtLXdpdGgtcHl0aG9uPS91c3IvYmluL3B5dGhvbjMg</configure>
   <build/>
   <install/>
@@ -14,7 +15,10 @@
     </dependance>
   </dependances>
   <patches>
-    <patch>glib-2.56.1-skip_warnings-1.patch</patch>
+    <patch>
+      <filename>glib-2.56.1-skip_warnings-1.patch</filename>
+      <mode/>
+    </patch>
   </patches>
   <addons/>
 </package>

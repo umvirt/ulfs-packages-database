@@ -4,6 +4,7 @@
   <code>libunistring</code>
   <sourcefile>libunistring-0.9.10.tar.xz</sourcefile>
   <sourcedir>libunistring-0.9.10</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnVuaXN0cmluZy0wLjkuMTA=</configure>
   <build/>
   <install/>

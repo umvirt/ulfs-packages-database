@@ -4,6 +4,7 @@
   <code>libxcb</code>
   <sourcefile>libxcb-1.13.tar.bz2</sourcefile>
   <sourcedir>libxcb-1.13</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pICJzL3B0aHJlYWQtc3R1YnMvLyIgY29uZmlndXJlICYmDQoNCi4vY29uZmlndXJlICRYT1JHX0NPTkZJRyAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aG91dC1kb3h5Z2VuIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPScke2RhdGFkaXJ9Jy9kb2MvbGlieGNiLTEuMTM=</configure>
   <build/>
   <install/>

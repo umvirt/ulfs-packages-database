@@ -4,6 +4,7 @@
   <code>gnome-online-accounts</code>
   <sourcefile>gnome-online-accounts-3.28.0.tar.xz</sourcefile>
   <sourcedir>gnome-online-accounts-3.28.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>python3-pycairo</code>
   <sourcefile>pycairo-1.17.1.tar.gz</sourcefile>
   <sourcedir>pycairo-1.17.1</sourcedir>
+  <unpack/>
   <configure>Iw==</configure>
   <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
   <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MSAgICYmDQpweXRob24zIHNldHVwLnB5IGluc3RhbGxfcHljYWlyb19oZWFkZXIgJiYNCnB5dGhvbjMgc2V0dXAucHkgaW5zdGFsbF9wa2djb25maWc=</install>

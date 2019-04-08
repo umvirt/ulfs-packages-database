@@ -4,6 +4,7 @@
   <code>clutter-gtk</code>
   <sourcefile>clutter-gtk-1.8.4.tar.xz</sourcefile>
   <sourcedir>clutter-gtk-1.8.4</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>python2</code>
   <sourcefile>Python-2.7.15.tar.xz</sourcefile>
   <sourcedir>Python-2.7.15</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zeXN0ZW0tZXhwYXQgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbS1mZmkgICBcDQogICAgICAgICAgICAtLXdpdGgtZW5zdXJlcGlwPXllcyBcDQogICAgICAgICAgICAtLWVuYWJsZS11bmljb2RlPXVjczQ=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQpjaG1vZCAtdiA3NTUgL3Vzci9saWIvbGlicHl0aG9uMi43LnNvLjEuMA==</install>

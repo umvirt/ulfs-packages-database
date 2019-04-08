@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gegl</code>
+  <sourcefile>gegl-0.4.8.tar.bz2</sourcefile>
+  <sourcedir>gegl-0.4.8</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>json-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>babl</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

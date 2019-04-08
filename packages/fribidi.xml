@@ -4,6 +4,7 @@
   <code>fribidi</code>
   <sourcefile>fribidi-1.0.5.tar.bz2</sourcefile>
   <sourcedir>fribidi-1.0.5</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkIGJ1aWxkICAgICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4=</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gparted</code>
+  <sourcefile>gparted-0.32.0.tar.gz</sourcefile>
+  <sourcedir>gparted-0.32.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtZG9jICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWM=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>parted</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtkmm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

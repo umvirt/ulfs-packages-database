@@ -4,6 +4,7 @@
   <code>gtk-doc</code>
   <sourcefile>gtk-doc-1.28.tar.xz</sourcefile>
   <sourcedir>gtk-doc-1.28</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

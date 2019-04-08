@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>hexchat</code>
+  <sourcefile>hexchat-2.14.1.tar.xz</sourcefile>
+  <sourcedir>hexchat-2.14.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLUR3aXRoLWxpYnByb3h5PWZhbHNlIC1Ed2l0aC1sdWE9bHVhIC4u</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnotify</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libcanberra</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lua</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

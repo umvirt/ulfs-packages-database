@@ -4,6 +4,7 @@
   <code>volume_key</code>
   <sourcefile>volume_key-0.3.11.tar.xz</sourcefile>
   <sourcedir>volume_key-0.3.11</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>
@@ -14,6 +15,10 @@
     </dependance>
     <dependance>
       <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nss</code>
       <weight>0</weight>
     </dependance>
     <dependance>

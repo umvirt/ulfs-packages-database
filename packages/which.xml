@@ -4,6 +4,7 @@
   <code>which</code>
   <sourcefile>which-2.21.tar.gz</sourcefile>
   <sourcedir>which-2.21</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

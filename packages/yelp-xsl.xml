@@ -4,6 +4,7 @@
   <code>yelp-xsl</code>
   <sourcefile>yelp-xsl-3.28.0.tar.xz</sourcefile>
   <sourcedir>yelp-xsl-3.28.0</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

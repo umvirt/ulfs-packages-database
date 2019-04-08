@@ -4,6 +4,7 @@
   <code>gdk-pixbuf</code>
   <sourcefile>gdk-pixbuf-2.36.12.tar.xz</sourcefile>
   <sourcedir>gdk-pixbuf-2.36.12</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgteDEx</configure>
   <build/>
   <install/>

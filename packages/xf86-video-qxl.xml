@@ -4,6 +4,7 @@
   <code>xf86-video-qxl</code>
   <sourcefile>xf86-video-qxl-0.1.5.tar.gz</sourcefile>
   <sourcedir>xf86-video-qxl-0.1.5</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIA==</configure>
   <build/>
   <install/>

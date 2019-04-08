@@ -4,6 +4,7 @@
   <code>itstool</code>
   <sourcefile>itstool-2.0.4.tar.bz2</sourcefile>
   <sourcedir>itstool-2.0.4</sourcedir>
+  <unpack/>
   <configure>UFlUSE9OPS91c3IvYmluL3B5dGhvbjMgLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciA=</configure>
   <build/>
   <install/>
@@ -14,7 +15,10 @@
     </dependance>
   </dependances>
   <patches>
-    <patch>itstool-2.0.4-segfault-1.patch</patch>
+    <patch>
+      <filename>itstool-2.0.4-segfault-1.patch</filename>
+      <mode/>
+    </patch>
   </patches>
   <addons/>
 </package>

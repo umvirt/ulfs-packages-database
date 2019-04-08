@@ -4,6 +4,7 @@
   <code>luit</code>
   <sourcefile>luit-1.1.1.tar.bz2</sourcefile>
   <sourcedir>luit-1.1.1</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pIC1lICIvRF9YT1BFTi9zLzUvNi8iIGNvbmZpZ3VyZQ0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

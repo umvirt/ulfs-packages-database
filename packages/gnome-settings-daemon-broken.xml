@@ -4,6 +4,7 @@
   <code>gnome-settings-daemon-broken</code>
   <sourcefile>gnome-settings-daemon-3.28.1.tar.xz</sourcefile>
   <sourcedir>gnome-settings-daemon-3.28.1</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMgLi4=</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

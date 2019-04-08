@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>testdisk</code>
+  <sourcefile>testdisk-7.0.tar.bz2</sourcefile>
+  <sourcedir>testdisk-7.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

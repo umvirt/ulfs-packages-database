@@ -4,6 +4,7 @@
   <code>twm</code>
   <sourcefile>twm-1.0.10.tar.bz2</sourcefile>
   <sourcedir>twm-1.0.10</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pIC1lICcvXnJjZGlyID0vcyxeXChyY2RpciA9IFwpLiosXDEvZXRjL1gxMS9hcHAtZGVmYXVsdHMsJyBzcmMvTWFrZWZpbGUuaW4gJiYNCi4vY29uZmlndXJlICRYT1JHX0NPTkZJRw==</configure>
   <build/>
   <install/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libboost</code>
+  <sourcefile>boost_1_68_0.tar.bz2</sourcefile>
+  <sourcedir>boost_1_68_0</sourcedir>
+  <unpack/>
+  <configure>Li9ib290c3RyYXAuc2ggLS1wcmVmaXg9L3Vzcg==</configure>
+  <build>Li9iMiBzdGFnZSB0aHJlYWRpbmc9bXVsdGkgbGluaz1zaGFyZWQ=</build>
+  <install>Li9iMiBpbnN0YWxsIHRocmVhZGluZz1tdWx0aSBsaW5rPXNoYXJlZCAgICAgICAgICAgICAgICAgJiYNCmxuIC1zdmYgZGV0YWlsL3NoYTEuaHBwIC91c3IvaW5jbHVkZS9ib29zdC91dWlkL3NoYTEuaHBw</install>
+  <dependances>
+    <dependance>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>which</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>icu</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

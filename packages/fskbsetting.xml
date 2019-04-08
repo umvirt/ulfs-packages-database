@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>fskbsetting</code>
+  <sourcefile>fskbsetting-0.3.5.tar.gz</sourcefile>
+  <sourcedir>fskbsetting-0.3.5</sourcedir>
+  <unpack/>
+  <configure>Y3AgLXYgL3Vzci9iaW4vc2h0b29sIC4NCmNwIC12IC91c3Ivc2hhcmUvbGlidG9vbC9idWlsZC1hdXgvY29uZmlnLnN1YiAuDQpjcCAtdiAvdXNyL3NoYXJlL2xpYnRvb2wvYnVpbGQtYXV4L2NvbmZpZy5ndWVzcyAuDQpjcCAtdiAvdXNyL3NoYXJlL2xpYnRvb2wvYnVpbGQtYXV4L2RlcGNvbXAgLg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>shtool</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-XML-Parser</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

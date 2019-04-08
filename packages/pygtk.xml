@@ -4,6 +4,7 @@
   <code>pygtk</code>
   <sourcefile>pygtk-2.24.0.tar.bz2</sourcefile>
   <sourcedir>pygtk-2.24.0</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

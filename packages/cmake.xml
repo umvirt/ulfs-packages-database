@@ -4,6 +4,7 @@
   <code>cmake</code>
   <sourcefile>cmake-3.12.1.tar.gz</sourcefile>
   <sourcedir>cmake-3.12.1</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pICcvImxpYjY0Ii9zLzY0Ly8nIE1vZHVsZXMvR05VSW5zdGFsbERpcnMuY21ha2UgJiYNCg0KLi9ib290c3RyYXAgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXN0ZW0tbGlicyAgICAgICAgXA0KICAgICAgICAgICAgLS1tYW5kaXI9L3NoYXJlL21hbiAgXA0KICAgICAgICAgICAgLS1uby1zeXN0ZW0tanNvbmNwcCAgXA0KICAgICAgICAgICAgLS1uby1zeXN0ZW0tbGlicmhhc2ggXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3NoYXJlL2RvYy9jbWFrZS0zLjEyLjENCg==</configure>
   <build/>
   <install/>

@@ -149,7 +149,7 @@
     <package>pango</package>
     <package>harfbuzz</package>
     <package>icu</package>
-    <package>freetype-useless------</package>
+    <package>git</package>
     <package>fontconfig-stage2</package>
     <package>cairo</package>
     <package>pixman</package>
@@ -365,5 +365,119 @@
     <package>lxde</package>
     <package>gtksourceview</package>
     <package>gedit</package>
+    <package>pluma</package>
+    <package>gnome-screenshot</package>
+    <package>mate-desktop</package>
+    <package>perl-XML-Simple</package>
+    <package>icon-naming-utils</package>
+    <package>gnome-icon-theme</package>
+    <package>gnome-icon-theme-extras</package>
+    <package>gnome-icon-theme-symbolic</package>
+    <package>mate-icon-theme</package>
+    <package>font-bitstream-type1</package>
+    <package>font-cronyx-cyrillic</package>
+    <package>font-arabic-misc</package>
+    <package>font-misc-cyrillic</package>
+    <package>font-dejavu-ttf</package>
+    <package>bdftopcf</package>
+    <package>fskbsetting</package>
+    <package>shtool</package>
+    <package>wxWidgets</package>
+    <package>mate-calc</package>
+    <package>perl-XML-Parser</package>
+    <package>qt5</package>
+    <package>qtwebengine</package>
+    <package>go-toolchain</package>
+    <package>go</package>
+    <package>libreoffice</package>
+    <package>perl-Sub-Identify</package>
+    <package>perl-Archive-Zip</package>
+    <package>cupsd</package>
+    <package>xmlto</package>
+    <package>xdg-utils</package>
+    <package>ghostscript</package>
+    <package>mupdf</package>
+    <package>freeglut</package>
+    <package>openjpeg</package>
+    <package>poppler-base</package>
+    <package>poppler-data</package>
+    <package>poppler</package>
+    <package>qpdf</package>
+    <package>cups-filters</package>
+    <package>openjdk</package>
+    <package>apache-maven</package>
+    <package>libsigcpp</package>
+    <package>glibmm</package>
+    <package>atkmm</package>
+    <package>cairomm</package>
+    <package>pangomm</package>
+    <package>gtkmm</package>
+    <package>gparted</package>
+    <package>lua</package>
+    <package>hexchat</package>
+    <package>libevent</package>
+    <package>transmission</package>
+    <package>babl</package>
+    <package>gegl</package>
+    <package>libmypaint</package>
+    <package>python2-libxml2</package>
+    <package>mypaint-brushes</package>
+    <package>gimp</package>
+    <package>pciutils</package>
+    <package>usbutils</package>
+    <package>libboost</package>
+    <package>libatomic_ops</package>
+    <package>gc</package>
+    <package>gsl</package>
+    <package>libImageMagick6</package>
+    <package>potrace</package>
+    <package>python2-lxml</package>
+    <package>python3-lxml</package>
+    <package>python-lxml</package>
+    <package>inkscape</package>
+    <package>python2-scour</package>
+    <package>p7zip</package>
+    <package>acpid</package>
+    <package>liburcu</package>
+    <package>multipath-tools</package>
+    <package>libaio</package>
+    <package>convmv</package>
+    <package>leafpad</package>
+    <package>wxHexEditor</package>
+    <package>meld</package>
+    <package>xdelta3</package>
+    <package>SDL2</package>
+    <package>qemu</package>
+    <package>dvd-rw-tools</package>
+    <package>brasero</package>
+    <package>unrar</package>
+    <package>lzip</package>
+    <package>extundelete</package>
+    <package>ddrescue</package>
+    <package>testdisk</package>
+    <package>dia</package>
+    <package>VeraCrypt</package>
+    <package>fuse3</package>
+    <package>fuse2</package>
+    <package>ntfs-3g</package>
+    <package>mdadm</package>
+    <package>dosfstools</package>
+    <package>a52dec</package>
+    <package>nasm</package>
+    <package>libass</package>
+    <package>fdk-aac</package>
+    <package>lame</package>
+    <package>libtheora</package>
+    <package>libvpx</package>
+    <package>opus</package>
+    <package>x264</package>
+    <package>x265</package>
+    <package>libva</package>
+    <package>libvdpau</package>
+    <package>ffmpeg</package>
+    <package>libmad</package>
+    <package>vlc</package>
+    <package>libvdpau-va-gl</package>
+    <package>MPlayer</package>
   </packages>
 </packages>

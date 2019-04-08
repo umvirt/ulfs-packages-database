@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>bdftopcf</code>
+  <sourcefile>bdftopcf-1.1.tar.gz</sourcefile>
+  <sourcedir>bdftopcf-1.1</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUc=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -4,6 +4,7 @@
   <code>xauth</code>
   <sourcefile>xauth-1.0.10.tar.bz2</sourcefile>
   <sourcedir>xauth-1.0.10</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

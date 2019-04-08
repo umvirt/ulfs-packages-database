@@ -4,6 +4,7 @@
   <code>alsa-lib</code>
   <sourcefile>alsa-lib-1.1.6.tar.bz2</sourcefile>
   <sourcedir>alsa-lib-1.1.6</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

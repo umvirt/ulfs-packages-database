@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>poppler-data</code>
+  <sourcefile>poppler-data-0.4.9.tar.gz</sourcefile>
+  <sourcedir>poppler-data-0.4.9</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWFrZSBwcmVmaXg9L3VzciBpbnN0YWxs</install>
+  <dependances>
+    <dependance>
+      <code>poppler-base</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

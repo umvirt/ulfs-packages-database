@@ -4,6 +4,7 @@
   <code>harfbuzz</code>
   <sourcefile>harfbuzz-1.8.8.tar.bz2</sourcefile>
   <sourcedir>harfbuzz-1.8.8</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtZ29iamVjdA==</configure>
   <build/>
   <install/>

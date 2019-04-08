@@ -4,6 +4,7 @@
   <code>zenity</code>
   <sourcefile>zenity-3.28.1.tar.xz</sourcefile>
   <sourcedir>zenity-3.28.1</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

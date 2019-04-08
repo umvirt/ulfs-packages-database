@@ -4,6 +4,7 @@
   <code>xsetroot</code>
   <sourcefile>xsetroot-1.1.2.tar.bz2</sourcefile>
   <sourcedir>xsetroot-1.1.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

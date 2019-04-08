@@ -4,6 +4,7 @@
   <code>newt</code>
   <sourcefile>newt-0.52.20.tar.gz</sourcefile>
   <sourcedir>newt-0.52.20</sourcedir>
+  <unpack/>
   <configure>c2VkIC1lICdzL15MSUJORVdUID0vIyYvJyBcDQogICAgLWUgJy9pbnN0YWxsIC1tIDY0NCAkKExJQk5FV1QpLyBzL14vIy8nIFwNCiAgICAtZSAncy8kKExJQk5FV1QpLyQoTElCTkVXVFNPTkFNRSkvZycgXA0KICAgIC1pIE1ha2VmaWxlLmluICAgICAgICAgICAgICAgICAgICAgICAgICAgDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtZ3BtLXN1cHBvcnQ=</configure>
   <build/>
   <install/>

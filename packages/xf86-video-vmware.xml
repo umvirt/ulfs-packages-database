@@ -4,6 +4,7 @@
   <code>xf86-video-vmware</code>
   <sourcefile>xf86-video-vmware-13.3.0.tar.bz2</sourcefile>
   <sourcedir>xf86-video-vmware-13.3.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

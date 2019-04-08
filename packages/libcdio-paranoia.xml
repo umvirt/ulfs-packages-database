@@ -4,6 +4,7 @@
   <code>libcdio-paranoia</code>
   <sourcefile>libcdio-2.0.0.tar.gz</sourcefile>
   <sourcedir>libcdio-2.0.0</sourcedir>
+  <unpack/>
   <configure>dGFyIC14ZiAuLi9saWJjZGlvLXBhcmFub2lhLTEwLjIrMC45NCsyLnRhci5neiAmJg0KY2QgbGliY2Rpby1wYXJhbm9pYS0xMC4yKzAuOTQrMiAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
   <build/>
   <install/>

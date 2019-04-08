@@ -4,6 +4,7 @@
   <code>grilo</code>
   <sourcefile>grilo-0.3.6.tar.xz</sourcefile>
   <sourcedir>grilo-0.3.6</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1saWJkaXI9L3Vzci9saWIgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
   <build/>
   <install/>

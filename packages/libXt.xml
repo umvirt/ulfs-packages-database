@@ -4,6 +4,7 @@
   <code>libXt</code>
   <sourcefile>libXt-1.1.5.tar.bz2</sourcefile>
   <sourcedir>libXt-1.1.5</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIFwNCiAgICAgICAgICAgICAgICAgIC0td2l0aC1hcHBkZWZhdWx0ZGlyPS9ldGMvWDExL2FwcC1kZWZhdWx0cw==</configure>
   <build/>
   <install/>

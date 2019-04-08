@@ -4,6 +4,7 @@
   <code>links</code>
   <sourcefile>links-2.16.tar.bz2</sourcefile>
   <sourcedir>links-2.16</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbg==</configure>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>lxpanel</code>
   <sourcefile>lxpanel-0.9.3.tar.xz</sourcefile>
   <sourcedir>lxpanel-0.9.3</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

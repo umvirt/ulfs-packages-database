@@ -4,6 +4,7 @@
   <code>rest</code>
   <sourcefile>rest-0.8.1.tar.xz</sourcefile>
   <sourcedir>rest-0.8.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgLS13aXRoLWNhLWNlcnRpZmljYXRlcz0vZXRjL3NzbC9jYS1idW5kbGUuY3J0</configure>
   <build/>
   <install/>

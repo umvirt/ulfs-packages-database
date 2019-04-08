@@ -4,6 +4,7 @@
   <code>gvfs</code>
   <sourcefile>gvfs-1.36.2.tar.xz</sourcefile>
   <sourcedir>gvfs-1.36.2</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgIC1EZnVzZT1mYWxzZSAgICAgIFwNCiAgICAgIC1EZ3Bob3RvMj1mYWxzZSAgIFwNCiAgICAgIC1EYWZjPWZhbHNlICAgICAgIFwNCiAgICAgIC1EYmx1cmF5PWZhbHNlICAgIFwNCiAgICAgIC1EbmZzPWZhbHNlICAgICAgIFwNCiAgICAgIC1EbXRwPWZhbHNlICAgICAgIFwNCiAgICAgIC1Ec21iPWZhbHNlICAgICAgIFwNCiAgICAgIC1EZG5zc2Q9ZmFsc2UgICAgIFwNCiAgICAgIC1EZ29hPWZhbHNlICAgICAgIFwNCiAgICAgIC1EZ29vZ2xlPWZhbHNlICAgIC4u</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

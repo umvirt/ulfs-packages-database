@@ -4,6 +4,7 @@
   <code>gnome-backgrounds</code>
   <sourcefile>gnome-backgrounds-3.28.0.tar.xz</sourcefile>
   <sourcedir>gnome-backgrounds-3.28.0</sourcedir>
+  <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgLi4g</configure>
   <build>bmluamE=</build>
   <install>bmluamEgaW5zdGFsbA==</install>

@@ -4,6 +4,7 @@
   <code>libgee</code>
   <sourcefile>libgee-0.20.1.tar.xz</sourcefile>
   <sourcedir>libgee-0.20.1</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

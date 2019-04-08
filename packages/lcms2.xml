@@ -4,6 +4,7 @@
   <code>lcms2</code>
   <sourcefile>lcms2-2.9.tar.gz</sourcefile>
   <sourcedir>lcms2-2.9</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pICcvQVhfQVBQRU5EL3MvXi8jLycgY29uZmlndXJlLmFjICYmDQphdXRvcmVjb25mDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
   <build/>
   <install/>

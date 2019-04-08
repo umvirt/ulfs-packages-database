@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>MPlayer</code>
+  <sourcefile>MPlayer-1.3.0.tar.xz</sourcefile>
+  <sourcedir>MPlayer-1.3.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tY29uZmRpcj0vZXRjL21wbGF5ZXIgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1keW5hbWljLXBsdWdpbnMgXA0KICAgICAgICAgICAgLS1lbmFibGUtbWVudSAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWd1aSAgICAgICAgICAgICA=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAmJg0KbG4gLXN2ZiAuLi9pY29ucy9oaWNvbG9yLzQ4eDQ4L2FwcHMvbXBsYXllci5wbmcgXA0KICAgICAgICAvdXNyL3NoYXJlL3BpeG1hcHMvbXBsYXllci5wbmcNCg0KaW5zdGFsbCAtdiAtbTY0NCBldGMvY29kZWNzLmNvbmYgL2V0Yy9tcGxheWVyDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2U=</install>
+  <dependances>
+    <dependance>
+      <code>yasm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libvdpau-va-gl</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>MPlayer-1.3.0-x264_fix-1.patch</filename>
+      <mode>0</mode>
+    </patch>
+  </patches>
+  <addons/>
+</package>

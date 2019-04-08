@@ -4,6 +4,7 @@
   <code>vte</code>
   <sourcefile>vte-0.52.2.tar.xz</sourcefile>
   <sourcedir>vte-0.52.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtaW50cm9zcGVjdGlvbg==</configure>
   <build/>
   <install/>

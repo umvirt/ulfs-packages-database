@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>unrar</code>
+  <sourcefile>unrarsrc-5.6.5.tar.gz</sourcefile>
+  <sourcedir>unrar</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtZiBtYWtlZmlsZQ==</build>
+  <install>aW5zdGFsbCAtdiAtbTc1NSB1bnJhciAvdXNyL2Jpbg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

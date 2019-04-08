@@ -4,6 +4,7 @@
   <code>libXrandr</code>
   <sourcefile>libXrandr-1.5.1.tar.bz2</sourcefile>
   <sourcedir>libXrandr-1.5.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

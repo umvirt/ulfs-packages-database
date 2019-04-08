@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>convmv</code>
+  <sourcefile>convmv-2.05.tar.gz</sourcefile>
+  <sourcedir>convmv-2.05</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzL3VzclwvbG9jYWwvdXNyL2cnIE1ha2VmaWxl</configure>
+  <build>Iw==</build>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

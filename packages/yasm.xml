@@ -4,6 +4,7 @@
   <code>yasm</code>
   <sourcefile>yasm-1.3.0.tar.gz</sourcefile>
   <sourcedir>yasm-1.3.0</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pICdzIykgeXRhc20uKiMpIycgTWFrZWZpbGUuaW4gJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure>
   <build/>
   <install/>

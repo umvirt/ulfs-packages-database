@@ -4,9 +4,10 @@
   <code>procps</code>
   <sourcefile>procps-3.2.8.tar.gz</sourcefile>
   <sourcedir>procps-3.2.8</sourcedir>
-  <configure/>
-  <build/>
-  <install/>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBsaWI2ND1saWIgbTY0PQ==</build>
+  <install>bWFrZSBERVNURElSPSR7Q0xGU30gbGliNjQ9bGliIG02ND0gbGRjb25maWc9IFwNCiAgICBpbnN0YWxsPSJpbnN0YWxsIC1EIiBpbnN0YWxs</install>
   <dependances/>
   <patches/>
   <addons/>

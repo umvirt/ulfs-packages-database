@@ -4,6 +4,7 @@
   <code>libunique</code>
   <sourcefile>libunique-1.1.6.tar.bz2</sourcefile>
   <sourcedir>libunique-1.1.6</sourcedir>
+  <unpack/>
   <configure>YXV0b3JlY29uZiAtZmkgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRidXMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw==</configure>
   <build>bWFrZSAtajE=</build>
   <install>bWFrZSAtajEgaW5zdGFsbA==</install>
@@ -18,7 +19,10 @@
     </dependance>
   </dependances>
   <patches>
-    <patch>libunique-1.1.6-upstream_fixes-1.patch</patch>
+    <patch>
+      <filename>libunique-1.1.6-upstream_fixes-1.patch</filename>
+      <mode/>
+    </patch>
   </patches>
   <addons/>
 </package>

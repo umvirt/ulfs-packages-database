@@ -4,6 +4,7 @@
   <code>gtk3</code>
   <sourcefile>gtk+-3.22.30.tar.xz</sourcefile>
   <sourcedir>gtk+-3.22.30</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWJyb2Fkd2F5LWJhY2tlbmQgXA0KICAgICAgICAgICAgLS1lbmFibGUteDExLWJhY2tlbmQgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS13YXlsYW5kLWJhY2tlbmQ=</configure>
   <build/>
   <install/>

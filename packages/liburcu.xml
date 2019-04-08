@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>liburcu</code>
+  <sourcefile>userspace-rcu-0.10.tar.bz2</sourcefile>
+  <sourcedir>userspace-rcu-0.10.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQpsZGNvbmZpZw==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

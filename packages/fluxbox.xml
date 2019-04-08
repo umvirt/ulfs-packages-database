@@ -4,6 +4,7 @@
   <code>fluxbox</code>
   <sourcefile>fluxbox-1.3.7.tar.xz</sourcefile>
   <sourcedir>fluxbox-1.3.7</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

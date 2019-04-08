@@ -4,6 +4,7 @@
   <code>menu-cache</code>
   <sourcefile>menu-cache-1.1.0.tar.xz</sourcefile>
   <sourcedir>menu-cache-1.1.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>

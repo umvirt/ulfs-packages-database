@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>ntfs-3g</code>
+  <sourcefile>ntfs-3g_ntfsprogs-2017.3.23.tgz</sourcefile>
+  <sourcedir>ntfs-3g_ntfsprogs-2017.3.23</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWZ1c2U9aW50ZXJuYWwg</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQpsbiAtc3YgLi4vYmluL250ZnMtM2cgL3NiaW4vbW91bnQubnRmcyAmJg0KbG4gLXN2IG50ZnMtM2cuOCAvdXNyL3NoYXJlL21hbi9tYW44L21vdW50Lm50ZnMuOA0KDQo=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

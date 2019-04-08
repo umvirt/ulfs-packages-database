@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>mdadm</code>
+  <sourcefile>mdadm-4.0.tar.xz</sourcefile>
+  <sourcedir>mdadm-4.0</sourcedir>
+  <unpack/>
+  <configure>c2VkICdzQC1XZXJyb3JAQCcgLWkgTWFrZWZpbGU=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

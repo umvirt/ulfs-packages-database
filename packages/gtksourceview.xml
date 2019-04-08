@@ -4,6 +4,7 @@
   <code>gtksourceview</code>
   <sourcefile>gtksourceview-3.24.8.tar.xz</sourcefile>
   <sourcedir>gtksourceview-3.24.8</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

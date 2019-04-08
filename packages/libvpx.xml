@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libvpx</code>
+  <sourcefile>libvpx-1.7.0.tar.gz</sourcefile>
+  <sourcedir>libvpx-1.7.0</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzL2NwIC1wL2NwLycgYnVpbGQvbWFrZS9NYWtlZmlsZSAmJg0KDQpta2RpciBsaWJ2cHgtYnVpbGQgICAgICAgICAgICAmJg0KY2QgICAgbGlidnB4LWJ1aWxkICAgICAgICAgICAgJiYNCg0KLi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgIC0tZW5hYmxlLXNoYXJlZCAgXA0KICAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWM=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>which</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>yasm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

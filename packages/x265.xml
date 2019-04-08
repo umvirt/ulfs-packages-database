@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>x265</code>
+  <sourcefile>x265_2.8.tar.gz</sourcefile>
+  <sourcedir>x265_2.8</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4uL3NvdXJjZQ==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQpybSAtdmYgL3Vzci9saWIvbGlieDI2NS5hIA==</install>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nasm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

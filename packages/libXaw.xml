@@ -4,6 +4,7 @@
   <code>libXaw</code>
   <sourcefile>libXaw-1.0.13.tar.bz2</sourcefile>
   <sourcedir>libXaw-1.0.13</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

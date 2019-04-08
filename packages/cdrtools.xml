@@ -4,6 +4,7 @@
   <code>cdrtools</code>
   <sourcefile>cdrtools-3.02a09.tar.bz2</sourcefile>
   <sourcedir>cdrtools-3.02</sourcedir>
+  <unpack/>
   <configure>c2xlZXAgMQ==</configure>
   <build>ZXhwb3J0IEdNQUtFX05PV0FSTj10cnVlICYmDQptYWtlIC1qMSBJTlNfQkFTRT0vdXNyIERFRklOU1VTUj1yb290IERFRklOU0dSUD1yb290</build>
   <install>ZXhwb3J0IEdNQUtFX05PV0FSTj10cnVlICYmDQptYWtlIElOU19CQVNFPS91c3IgREVGSU5TVVNSPXJvb3QgREVGSU5TR1JQPXJvb3QgaW5zdGFsbCAmJg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy9jZHJ0b29scy0zLjAyYTA5ICYmDQppbnN0YWxsIC12IC1tNjQ0IFJFQURNRSogQUJPVVQgZG9jLyoucHMgXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9jZHJ0b29scy0zLjAyYTA5</install>

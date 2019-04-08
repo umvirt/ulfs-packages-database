@@ -4,6 +4,7 @@
   <code>xkbcomp</code>
   <sourcefile>xkbcomp-1.4.2.tar.bz2</sourcefile>
   <sourcedir>xkbcomp-1.4.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

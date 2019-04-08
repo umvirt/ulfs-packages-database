@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gc</code>
+  <sourcefile>gc-7.6.4.tar.gz</sourcefile>
+  <sourcedir>gc-7.6.4</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWNwbHVzcGx1cyBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZ2MtNy42LjQ=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy9nYy5tYW4gL3Vzci9zaGFyZS9tYW4vbWFuMy9nY19tYWxsb2MuMw==</install>
+  <dependances>
+    <dependance>
+      <code>libatomic_ops</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

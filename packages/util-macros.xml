@@ -4,6 +4,7 @@
   <code>util-macros</code>
   <sourcefile>util-macros-1.19.2.tar.bz2</sourcefile>
   <sourcedir>util-macros-1.19.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

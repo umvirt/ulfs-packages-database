@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>lame</code>
+  <sourcefile>lame-3.100.tar.gz</sourcefile>
+  <sourcedir>lame-3.100</sourcedir>
+  <unpack/>
+  <configure>Y2FzZSAkKHVuYW1lIC1tKSBpbg0KICAgaT84Nikgc2VkIC1pIC1lICdzLzx4bW1pbnRyaW4uaC8mLm5vdXNlLycgY29uZmlndXJlIDs7DQplc2FjDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1lbmFibGUtbXAzcnRwIC0tZGlzYWJsZS1zdGF0aWM=</configure>
+  <build/>
+  <install>bWFrZSBwa2dodG1sZGlyPS91c3Ivc2hhcmUvZG9jL2xhbWUtMy4xMDAgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>libsndfile</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nasm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

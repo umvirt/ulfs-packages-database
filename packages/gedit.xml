@@ -4,6 +4,7 @@
   <code>gedit</code>
   <sourcefile>gedit-3.22.1.tar.xz</sourcefile>
   <sourcedir>gedit-3.22.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3BlbGw=</configure>
   <build/>
   <install/>

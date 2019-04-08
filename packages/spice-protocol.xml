@@ -4,6 +4,7 @@
   <code>spice-protocol</code>
   <sourcefile>spice-protocol-0.12.15.tar.bz2</sourcefile>
   <sourcedir>spice-protocol-0.12.15</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

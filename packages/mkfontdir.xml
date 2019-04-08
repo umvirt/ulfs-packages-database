@@ -4,6 +4,7 @@
   <code>mkfontdir</code>
   <sourcefile>mkfontdir-1.0.7.tar.bz2</sourcefile>
   <sourcedir>mkfontdir-1.0.7</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

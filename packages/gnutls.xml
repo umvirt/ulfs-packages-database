@@ -4,6 +4,7 @@
   <code>gnutls</code>
   <sourcefile>gnutls-3.5.19.tar.xz</sourcefile>
   <sourcedir>gnutls-3.5.19</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtZGVmYXVsdC10cnVzdC1zdG9yZS1wa2NzMTE9InBrY3MxMToi</configure>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>libgcrypt</code>
   <sourcefile>libgcrypt-1.8.3.tar.bz2</sourcefile>
   <sourcedir>libgcrypt-1.8.3</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

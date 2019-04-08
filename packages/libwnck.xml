@@ -4,6 +4,7 @@
   <code>libwnck</code>
   <sourcefile>libwnck-2.30.7.tar.xz</sourcefile>
   <sourcedir>libwnck-2.30.7</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tcHJvZ3JhbS1zdWZmaXg9LTEgDQo=</configure>
   <build>bWFrZSBHRVRURVhUX1BBQ0tBR0U9bGlid25jay0x</build>
   <install>bWFrZSBHRVRURVhUX1BBQ0tBR0U9bGlid25jay0xIGluc3RhbGw=</install>

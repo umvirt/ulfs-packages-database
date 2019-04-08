@@ -4,6 +4,7 @@
   <code>lxtask</code>
   <sourcefile>lxtask-0.1.8.tar.xz</sourcefile>
   <sourcedir>lxtask-0.1.8</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

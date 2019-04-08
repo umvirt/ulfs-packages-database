@@ -4,6 +4,7 @@
   <code>curl</code>
   <sourcefile>curl-7.61.0.tar.xz</sourcefile>
   <sourcedir>curl-7.61.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS10aHJlYWRlZC1yZXNvbHZlciAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWNhLXBhdGg9L2V0Yy9zc2wvY2VydHM=</configure>
   <build/>
   <install/>

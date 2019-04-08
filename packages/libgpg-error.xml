@@ -4,6 +4,7 @@
   <code>libgpg-error</code>
   <sourcefile>libgpg-error-1.32.tar.bz2</sourcefile>
   <sourcedir>libgpg-error-1.32</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

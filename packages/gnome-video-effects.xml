@@ -4,6 +4,7 @@
   <code>gnome-video-effects</code>
   <sourcefile>gnome-video-effects-0.4.3.tar.xz</sourcefile>
   <sourcedir>gnome-video-effects-0.4.3</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

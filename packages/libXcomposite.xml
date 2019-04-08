@@ -4,6 +4,7 @@
   <code>libXcomposite</code>
   <sourcefile>libXcomposite-0.4.4.tar.bz2</sourcefile>
   <sourcedir>libXcomposite-0.4.4</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

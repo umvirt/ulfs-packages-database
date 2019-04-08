@@ -4,6 +4,7 @@
   <code>desktop-file-utils</code>
   <sourcefile>desktop-file-utils-0.23.tar.xz</sourcefile>
   <sourcedir>desktop-file-utils-0.23</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

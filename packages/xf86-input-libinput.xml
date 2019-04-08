@@ -4,6 +4,7 @@
   <code>xf86-input-libinput</code>
   <sourcefile>xf86-input-libinput-0.28.0.tar.bz2</sourcefile>
   <sourcedir>xf86-input-libinput-0.28.0</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

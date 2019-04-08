@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gnome-icon-theme-extras</code>
+  <sourcefile>gnome-icon-theme-extras-3.12.0.tar.xz</sourcefile>
+  <sourcedir>gnome-icon-theme-extras-3.12.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gnome-icon-theme</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

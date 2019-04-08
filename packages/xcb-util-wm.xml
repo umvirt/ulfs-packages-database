@@ -4,6 +4,7 @@
   <code>xcb-util-wm</code>
   <sourcefile>xcb-util-wm-0.4.1.tar.bz2</sourcefile>
   <sourcedir>xcb-util-wm-0.4.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>ghostscript</code>
+  <sourcefile>ghostscript-9.23.tar.gz</sourcefile>
+  <sourcedir>ghostscript-9.23</sourcedir>
+  <unpack/>
+  <configure>cm0gLXJmIGZyZWV0eXBlIGxjbXMyIGpwZWcgbGlicG5nDQoNCnJtIC1yZiB6bGliIA0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtY29tcGlsZS1pbml0cyBcDQogICAgICAgICAgICAtLWVuYWJsZS1keW5hbWljICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtc3lzdGVtLWxpYnRpZmYg</configure>
+  <build>bWFrZSANCm1ha2Ugc28NCg==</build>
+  <install>bWFrZSBpbnN0YWxsDQptYWtlIHNvaW5zdGFsbCAmJg0KaW5zdGFsbCAtdiAtbTY0NCBiYXNlLyouaCAvdXNyL2luY2x1ZGUvZ2hvc3RzY3JpcHQgJiYNCmxuIC12IC1zIGdob3N0c2NyaXB0IC91c3IvaW5jbHVkZS9wcw0KDQpsbiAtc2Z2biAuLi9naG9zdHNjcmlwdC85LjIzL2RvYyAvdXNyL3NoYXJlL2RvYy9naG9zdHNjcmlwdC05LjIzICAmJg0Kc3VkbyBjcCAtYSBleGFtcGxlcy8gL3Vzci9zaGFyZS9naG9zdHNjcmlwdC85LjIzLw0KDQp0YXIgLXh2ZiAuLi9naG9zdHNjcmlwdC1mb250cy1zdGQtOC4xMS50YXIuZ3ogLUMgL3Vzci9zaGFyZS9naG9zdHNjcmlwdCAtLW5vLXNhbWUtb3duZXIgJiYNCnRhciAteHZmIC4uL2dudS1ncy1mb250cy1vdGhlci02LjAudGFyLmd6ICAgICAtQyAvdXNyL3NoYXJlL2dob3N0c2NyaXB0IC0tbm8tc2FtZS1vd25lciAmJg0KZmMtY2FjaGUgLXYgL3Vzci9zaGFyZS9naG9zdHNjcmlwdC9mb250cy8=</install>
+  <dependances>
+    <dependance>
+      <code>freetype-stage2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fontconfig</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tiff</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lcms2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cupsd</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>ghostscript-fonts-std-8.11.tar.gz</addon>
+    <addon>gnu-gs-fonts-other-6.0.tar.gz</addon>
+  </addons>
+</package>

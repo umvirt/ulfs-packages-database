@@ -4,6 +4,7 @@
   <code>libxslt</code>
   <sourcefile>libxslt-1.1.32.tar.gz</sourcefile>
   <sourcedir>libxslt-1.1.32</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pIHMvMzAwMC81MDAwLyBsaWJ4c2x0L3RyYW5zZm9ybS5jIGRvYy94c2x0cHJvYy57MSx4bWx9ICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
   <build/>
   <install/>

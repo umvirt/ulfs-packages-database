@@ -4,6 +4,7 @@
   <code>lxde-common</code>
   <sourcefile>lxde-common-0.99.2.tar.xz</sourcefile>
   <sourcedir>lxde-common-0.99.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQp1cGRhdGUtbWltZS1kYXRhYmFzZSAvdXNyL3NoYXJlL21pbWUgJiYNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcWYgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yICYmDQp1cGRhdGUtZGVza3RvcC1kYXRhYmFzZSAtcQ==</install>

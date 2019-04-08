@@ -4,6 +4,7 @@
   <code>vte-gtk2</code>
   <sourcefile>vte-0.28.2.tar.xz</sourcefile>
   <sourcedir>vte-0.28.2</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWxpYmV4ZWNkaXI9L3Vzci9saWIvdnRlIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWM=</configure>
   <build/>
   <install/>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>potrace</code>
+  <sourcefile>potrace-1.15.tar.gz</sourcefile>
+  <sourcedir>potrace-1.15</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9wb3RyYWNlLTEuMTUgXA0KICAgICAgICAgICAgLS1lbmFibGUtYTQgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLW1ldHJpYyAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtbGlicG90cmFjZSA=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>llvm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

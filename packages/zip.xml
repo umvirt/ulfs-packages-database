@@ -4,6 +4,7 @@
   <code>zip</code>
   <sourcefile>zip30.tar.gz</sourcefile>
   <sourcedir>zip30</sourcedir>
+  <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZSAtZiB1bml4L01ha2VmaWxlIGdlbmVyaWNfZ2Nj</build>
   <install>bWFrZSBwcmVmaXg9L3VzciBNQU5ESVI9L3Vzci9zaGFyZS9tYW4vbWFuMSAtZiB1bml4L01ha2VmaWxlIGluc3RhbGw=</install>

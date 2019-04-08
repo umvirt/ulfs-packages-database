@@ -4,6 +4,7 @@
   <code>libxml2</code>
   <sourcefile>libxml2-2.9.8.tar.gz</sourcefile>
   <sourcedir>libxml2-2.9.8</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pICcvX1B5VmVyaWZ5X2ZkLywrMWQnIHB5dGhvbi90eXBlcy5jDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyBcDQogICAgICAgICAgICAtLXdpdGgtaGlzdG9yeSAgIFwNCiAgICAgICAgICAgIC0td2l0aC1weXRob249L3Vzci9iaW4vcHl0aG9uMw0K</configure>
   <build/>
   <install/>
@@ -14,7 +15,10 @@
     </dependance>
   </dependances>
   <patches>
-    <patch>libxml2-2.9.8-python3_hack-1.patch</patch>
+    <patch>
+      <filename>libxml2-2.9.8-python3_hack-1.patch</filename>
+      <mode/>
+    </patch>
   </patches>
   <addons/>
 </package>

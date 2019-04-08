@@ -4,6 +4,7 @@
   <code>libpeas</code>
   <sourcefile>libpeas-1.22.0.tar.xz</sourcefile>
   <sourcedir>libpeas-1.22.0</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

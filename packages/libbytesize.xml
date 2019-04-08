@@ -4,6 +4,7 @@
   <code>libbytesize</code>
   <sourcefile>libbytesize-1.4.tar.gz</sourcefile>
   <sourcedir>libbytesize-1.4</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

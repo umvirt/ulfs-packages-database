@@ -4,6 +4,7 @@
   <code>wget</code>
   <sourcefile>wget-1.19.5.tar.gz</sourcefile>
   <sourcedir>wget-1.19.5</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICBcDQogICAgICAgICAgICAtLXdpdGgtc3NsPW9wZW5zc2w=</configure>
   <build/>
   <install/>

@@ -4,6 +4,7 @@
   <code>libXdamage</code>
   <sourcefile>libXdamage-1.1.4.tar.bz2</sourcefile>
   <sourcedir>libXdamage-1.1.4</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

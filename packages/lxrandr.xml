@@ -4,6 +4,7 @@
   <code>lxrandr</code>
   <sourcefile>lxrandr-0.3.1.tar.xz</sourcefile>
   <sourcedir>lxrandr-0.3.1</sourcedir>
+  <unpack/>
   <configure/>
   <build/>
   <install/>

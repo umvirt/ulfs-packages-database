@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>pluma</code>
+  <sourcefile>pluma-1.22.0.tar.xz</sourcefile>
+  <sourcedir>pluma-1.22.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3BlbGw=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>enchant</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpeas</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtksourceview</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mate-desktop</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

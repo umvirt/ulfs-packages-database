@@ -4,6 +4,7 @@
   <code>graphviz</code>
   <sourcefile>graphviz-2.40.1.tar.gz</sourcefile>
   <sourcedir>graphviz-2.40.1</sourcedir>
+  <unpack/>
   <configure>c2VkIC1pICcvTElCUE9TVEZJWD0iNjQiL3MvNjQvLycgY29uZmlndXJlLmFjICYmDQoNCmF1dG9yZWNvbmYgICAgICAgICAgICAgICAgJiYNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>
   <install/>

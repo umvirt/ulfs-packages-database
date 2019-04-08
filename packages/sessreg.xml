@@ -4,6 +4,7 @@
   <code>sessreg</code>
   <sourcefile>sessreg-1.1.1.tar.bz2</sourcefile>
   <sourcedir>sessreg-1.1.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python-lxml</code>
+  <sourcefile/>
+  <sourcedir/>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
+  <dependances>
+    <dependance>
+      <code>python2-lxml</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-lxml</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

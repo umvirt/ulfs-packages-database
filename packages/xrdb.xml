@@ -4,6 +4,7 @@
   <code>xrdb</code>
   <sourcefile>xrdb-1.1.1.tar.bz2</sourcefile>
   <sourcedir>xrdb-1.1.1</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
   <install/>

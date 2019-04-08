@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>git</code>
+  <sourcefile>git-2.18.0.tar.xz</sourcefile>
+  <sourcedir>git-2.18.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtZ2l0Y29uZmlnPS9ldGMvZ2l0Y29uZmln</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>harfbuzz</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

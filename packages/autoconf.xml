@@ -4,12 +4,16 @@
   <code>autoconf</code>
   <sourcefile>autoconf-2.13.tar.gz</sourcefile>
   <sourcedir>autoconf-2.13</sourcedir>
+  <unpack/>
   <configure>bXYgLXYgYXV0b2NvbmYudGV4aSBhdXRvY29uZjIxMy50ZXhpICAgICAgICAgICAgICAgICAgICAgICYmDQpybSAtdiBhdXRvY29uZi5pbmZvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1wcm9ncmFtLXN1ZmZpeD0yLjEzIA==</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KaW5zdGFsbCAtdiAtbTY0NCBhdXRvY29uZjIxMy5pbmZvIC91c3Ivc2hhcmUvaW5mbyAmJg0KaW5zdGFsbC1pbmZvIC0taW5mby1kaXI9L3Vzci9zaGFyZS9pbmZvIGF1dG9jb25mMjEzLmluZm8=</install>
   <dependances/>
   <patches>
-    <patch>autoconf-2.13-consolidated_fixes-1.patch</patch>
+    <patch>
+      <filename>autoconf-2.13-consolidated_fixes-1.patch</filename>
+      <mode/>
+    </patch>
   </patches>
   <addons/>
 </package>

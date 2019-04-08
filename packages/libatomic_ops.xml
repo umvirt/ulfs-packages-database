@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libatomic_ops</code>
+  <sourcefile>libatomic_ops-7.6.6.tar.gz</sourcefile>
+  <sourcedir>libatomic_ops-7.6.6</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGliYXRvbWljX29wcy03LjYuNg==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

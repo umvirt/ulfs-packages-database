@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>icon-naming-utils</code>
+  <sourcefile>icon-naming-utils-0.8.90.tar.bz2</sourcefile>
+  <sourcedir>icon-naming-utils-0.8.90</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>perl-XML-Simple</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

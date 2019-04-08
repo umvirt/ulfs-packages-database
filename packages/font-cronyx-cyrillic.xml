@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>font-cronyx-cyrillic</code>
+  <sourcefile>font-cronyx-cyrillic-1.0.3.tar.bz2</sourcefile>
+  <sourcedir>font-cronyx-cyrillic-1.0.3</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>bdftopcf</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

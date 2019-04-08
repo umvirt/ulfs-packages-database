@@ -4,6 +4,7 @@
   <code>lxmenu-data</code>
   <sourcefile>lxmenu-data-0.1.5.tar.xz</sourcefile>
   <sourcedir>lxmenu-data-0.1.5</sourcedir>
+  <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>
   <install/>

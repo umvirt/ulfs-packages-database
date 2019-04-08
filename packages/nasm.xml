@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>nasm</code>
+  <sourcefile>nasm-2.13.03.tar.xz</sourcefile>
+  <sourcedir>nasm-2.13.03</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICcvc2VnX2luaXQvZCcgICAgICAgICAgICAgICAgICAgICAgXA0KICAgIC1lICdzL3B1cmVfZnVuYyBzZWdfYWxsb2Mvc2VnX2FsbG9jLycgXA0KICAgIC1pIGluY2x1ZGUvbmFzbWxpYi5oDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>
