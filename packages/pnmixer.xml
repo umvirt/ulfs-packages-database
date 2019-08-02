@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>pnmixer</code>
+  <sourcefile>pnmixer-0.5.1.tar.gz</sourcefile>
+  <sourcedir>pnmixer-0.5.1</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoIC0tcHJlZml4PS91c3Ig</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>alsa-utils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

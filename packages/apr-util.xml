@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>apr-util</code>
+  <sourcefile>apr-util-1.6.1.tar.bz2</sourcefile>
+  <sourcedir>apr-util-1.6.1</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtYXByPS91c3IgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1nZGJtPS91c3IgICAgXA0KICAgICAgICAgICAgLS13aXRoLW9wZW5zc2w9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtY3J5cHRv</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>apr</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>googletest</code>
+  <sourcefile>googletest-release-1.8.1.tar.gz</sourcefile>
+  <sourcedir>googletest-release-1.8.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KLi4=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

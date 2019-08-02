@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>scons</code>
+  <sourcefile>scons-3.0.0.tar.gz</sourcefile>
+  <sourcedir>scons-3.0.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>cHl0aG9uIHNldHVwLnB5IGluc3RhbGwgLS1wcmVmaXg9L3VzciAgXA0KICAgICAgICAgICAgICAgICAgICAgICAgLS1zdGFuZGFyZC1saWIgXA0KICAgICAgICAgICAgICAgICAgICAgICAgLS1vcHRpbWl6ZT0xICAgXA0KICAgICAgICAgICAgICAgICAgICAgICAgLS1pbnN0YWxsLWRhdGE9L3Vzci9zaGFyZQ==</install>
+  <dependances>
+    <dependance>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>jack2</code>
+  <sourcefile>jack2-1.9.12.tar.gz</sourcefile>
+  <sourcedir>jack2-1.9.12</sourcedir>
+  <unpack/>
+  <configure>Li93YWYgY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <build>Li93YWYgYnVpbGQ=</build>
+  <install>Li93YWYgaW5zdGFsbA==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>spice-vdagent</code>
+  <sourcefile>spice-vdagent-0.17.0.tar.bz2</sourcefile>
+  <sourcedir>spice-vdagent-0.17.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQotLXdpdGgtaW5pdC1zY3JpcHQ9c3lzdGVtZCBcDQotLXN5c2NvbmZkaXI9L2V0YyBcDQotLXdpdGgtc2Vzc2lvbi1pbmZvPXN5c3RlbWQgDQoNCg==</configure>
+  <build/>
+  <install>ZWNobyAiU1BJQ0VfVkRBR0VOVERfRVhUUkFfQVJHUz1cIi1YXCIiID4gL2V0Yy9zeXNjb25maWcvc3BpY2UtdmRhZ2VudGQNCg0KbWFrZSBpbnN0YWxsDQpjcCAtdiBkYXRhL3NwaWNlLXZkYWdlbnQuZGVza3RvcCBldGMveGRnL2F1dG9zdGFydA0KY3AgLXYgZGF0YS9zcGljZS12ZGFnZW50ZC5zZXJ2aWNlIC9ldGMvc3lzdGVtZC9zeXN0ZW0gDQpjcCAtdiBkYXRhL3NwaWNlLXZkYWdlbnRkLnRhcmdldCAvZXRjL3N5c3RlbWQvc3lzdGVtDQoNCnN5c3RlbWN0bCBlbmFibGUgc3BpY2UtdmRhZ2VudGQ=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

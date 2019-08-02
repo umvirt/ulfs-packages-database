@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>netsurf</code>
+  <sourcefile>netsurf-all-3.9.tar.gz</sourcefile>
+  <sourcedir>netsurf-all-3.9</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZQ==</build>
+  <install>aW5zdGFsbCBuZXRzdXJmL25zZ3RrIC91c3IvYmlu</install>
+  <dependances>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-HTML-Parser</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

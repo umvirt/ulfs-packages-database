@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gtk-recordmydesktop</code>
+  <sourcefile>gtk-recordmydesktop-0.3.8.tar.gz</sourcefile>
+  <sourcedir>gtk-recordmydesktop-0.3.8</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pygtk</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>recordmydesktop</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

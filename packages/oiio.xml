@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>oiio</code>
+  <sourcefile>oiio-Release-2.0.7.tar.gz</sourcefile>
+  <sourcedir>oiio-Release-2.0.7</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgZXh0DQp0YXIgLXhmIC4uL29paW8tcHliaW5kMTEudGFyLmd6IC1DIGV4dA0KdGFyIC14ZiAuLi9vaWlvLXJvYmluLW1hcC50YXIuZ3ogLUMgZXh0DQoNCm1rZGlyIGJ1aWxkDQpjZCBidWlsZA0KDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons>
+    <addon>oiio-pybind11.tar.gz</addon>
+    <addon>oiio-robin-map.tar.gz</addon>
+  </addons>
+</package>

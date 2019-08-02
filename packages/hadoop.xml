@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>hadoop</code>
+  <sourcefile>hadoop-3.2.0-src.tar.gz</sourcefile>
+  <sourcedir>hadoop-3.2.0-src</sourcedir>
+  <unpack/>
+  <configure>bXZuIHBhY2thZ2UgLVBkaXN0IC1Qc3JjIC1EdGFyIC1Ec2tpcFRlc3Rz</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

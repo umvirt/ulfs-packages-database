@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>med</code>
+  <sourcefile>med-4.0.0.tar.gz</sourcefile>
+  <sourcedir>med-4.0.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgDQpjZCAgICAgICBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCi4u</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

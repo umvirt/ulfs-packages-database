@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>ilmbase</code>
+  <sourcefile>ilmbase-2.3.0.tar.gz</sourcefile>
+  <sourcedir>ilmbase-2.3.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

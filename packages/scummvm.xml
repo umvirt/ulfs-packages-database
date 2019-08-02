@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>scummvm</code>
+  <sourcefile>scummvm-2.0.0.tar.xz</sourcefile>
+  <sourcedir>scummvm-2.0.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>curl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libtheora</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libmad</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>flac</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vorbis-tools</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

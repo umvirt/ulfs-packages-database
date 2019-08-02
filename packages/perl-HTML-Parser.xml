@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-HTML-Parser</code>
+  <sourcefile>HTML-Parser-3.72.tar.gz</sourcefile>
+  <sourcedir>HTML-Parser-3.72</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>perl-HTML-Tagset</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

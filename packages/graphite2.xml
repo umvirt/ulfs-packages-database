@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>graphite2</code>
+  <sourcefile>graphite2-1.3.12.tgz</sourcefile>
+  <sourcedir>graphite2-1.3.12</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICcvY21wdGVzdC9kJyB0ZXN0cy9DTWFrZUxpc3RzLnR4dA0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

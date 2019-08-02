@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>alsa-utils</code>
+  <sourcefile>alsa-utils-1.1.6.tar.bz2</sourcefile>
+  <sourcedir>alsa-utils-1.1.6</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1kaXNhYmxlLWFsc2Fjb25mIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1iYXQgICBcDQogICAgICAgICAgICAtLWRpc2FibGUteG1sdG8gXA0KICAgICAgICAgICAgLS13aXRoLWN1cnNlcz1uY3Vyc2VzdyA=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

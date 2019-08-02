@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>vorbis-tools</code>
+  <sourcefile>vorbis-tools-1.4.0.tar.gz</sourcefile>
+  <sourcedir>vorbis-tools-1.4.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWVuYWJsZS12Y3V0IFwNCiAgICAgICAgICAgIC0td2l0aG91dC1jdXJs</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libvorbis</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libao</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

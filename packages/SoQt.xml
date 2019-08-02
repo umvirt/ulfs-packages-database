@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>SoQt</code>
+  <sourcefile>soqt-c04d36135eba.tar.gz</sourcefile>
+  <sourcedir>soqt-c04d36135eba</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgc29xdF9idWlsZA0KY2Qgc29xdF9idWlsZA0KDQpDb2luX0RJUj0vdXNyIGNtYWtlICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4g</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cyrus-sasl</code>
+  <sourcefile>cyrus-sasl-2.1.26.tar.gz</sourcefile>
+  <sourcedir>cyrus-sasl-2.1.26</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZmkgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtYXV0aC1zYXNsZGIgXA0KICAgICAgICAgICAgLS13aXRoLWRicGF0aD0vdmFyL2xpYi9zYXNsL3Nhc2xkYjIgXA0KICAgICAgICAgICAgLS13aXRoLXNhc2xhdXRoZD0vdmFyL3J1bi9zYXNsYXV0aGQ=</configure>
+  <build>bWFrZSAtajE=</build>
+  <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1kbTc1NSAvdXNyL3NoYXJlL2RvYy9jeXJ1cy1zYXNsLTIuMS4yNiAmJg0KaW5zdGFsbCAtdiAtbTY0NCAgZG9jL3sqLntodG1sLHR4dCxmaWd9LE9ORVdTLFRPRE99IFwNCiAgICBzYXNsYXV0aGQvTERBUF9TQVNMQVVUSEQgL3Vzci9zaGFyZS9kb2MvY3lydXMtc2FzbC0yLjEuMjYgJiYNCmluc3RhbGwgLXYgLWRtNzAwIC92YXIvbGliL3Nhc2w=</install>
+  <dependances>
+    <dependance>
+      <code>berkeleydb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>cyrus-sasl-2.1.26-fixes-3.patch</filename>
+      <mode/>
+    </patch>
+    <patch>
+      <filename>cyrus-sasl-2.1.26-openssl-1.1.0-1.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+</package>

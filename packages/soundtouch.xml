@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>soundtouch</code>
+  <sourcefile>soundtouch-1.7.1.tar.gz</sourcefile>
+  <sourcedir>soundtouch</sourcedir>
+  <unpack/>
+  <configure>Li9ib290c3RyYXANCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

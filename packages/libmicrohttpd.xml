@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libmicrohttpd</code>
+  <sourcefile>libmicrohttpd-0.9.60.tar.gz</sourcefile>
+  <sourcedir>libmicrohttpd-0.9.60</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

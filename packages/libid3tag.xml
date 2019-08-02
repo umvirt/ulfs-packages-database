@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libid3tag</code>
+  <sourcefile>libid3tag-0.15.1b.tar.gz</sourcefile>
+  <sourcedir>libid3tag-0.15.1b</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1zaGFyZWQ=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+IC91c3IvbGliL3BrZ2NvbmZpZy9pZDN0YWcucGMgPDwgIkVPRiINCnByZWZpeD0vdXNyDQpleGVjX3ByZWZpeD0ke3ByZWZpeH0NCmxpYmRpcj0ke2V4ZWNfcHJlZml4fS9saWINCmluY2x1ZGVkaXI9JHtwcmVmaXh9L2luY2x1ZGUNCg0KTmFtZTogaWQzdGFnDQpEZXNjcmlwdGlvbjogSUQzIHRhZyByZWFkaW5nIGxpYnJhcnkNClJlcXVpcmVzOg0KVmVyc2lvbjogMC4xNS4xYg0KTGliczogLUwke2xpYmRpcn0gLWxpZDN0YWcgLWx6DQpDZmxhZ3M6IC1JJHtpbmNsdWRlZGlyfQ0KRU9GDQoNCnBrZy1jb25maWcNCg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

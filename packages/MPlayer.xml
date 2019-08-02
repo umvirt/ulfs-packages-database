@@ -7,7 +7,7 @@
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tY29uZmRpcj0vZXRjL21wbGF5ZXIgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1keW5hbWljLXBsdWdpbnMgXA0KICAgICAgICAgICAgLS1lbmFibGUtbWVudSAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWd1aSAgICAgICAgICAgICA=</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsICAmJg0KbG4gLXN2ZiAuLi9pY29ucy9oaWNvbG9yLzQ4eDQ4L2FwcHMvbXBsYXllci5wbmcgXA0KICAgICAgICAvdXNyL3NoYXJlL3BpeG1hcHMvbXBsYXllci5wbmcNCg0KaW5zdGFsbCAtdiAtbTY0NCBldGMvY29kZWNzLmNvbmYgL2V0Yy9tcGxheWVyDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2U=</install>
+  <install>bWFrZSBpbnN0YWxsICAmJg0KbG4gLXN2ZiAuLi9pY29ucy9oaWNvbG9yLzQ4eDQ4L2FwcHMvbXBsYXllci5wbmcgXA0KICAgICAgICAvdXNyL3NoYXJlL3BpeG1hcHMvbXBsYXllci5wbmcNCg0KaW5zdGFsbCAtdiAtbTY0NCBldGMvY29kZWNzLmNvbmYgL2V0Yy9tcGxheWVyDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UNCg0KI3NraW4NCnRhciAteHZmICAuLi9DbGVhcmxvb2tzLTIuMC50YXIuYnoyIFwNCiAgICAtQyAgICAvdXNyL3NoYXJlL21wbGF5ZXIvc2tpbnMgJiYNCmxuICAtc2Z2biBDbGVhcmxvb2tzIC91c3Ivc2hhcmUvbXBsYXllci9za2lucy9kZWZhdWx0</install>
   <dependances>
     <dependance>
       <code>yasm</code>
@@ -36,5 +36,7 @@
       <mode>0</mode>
     </patch>
   </patches>
-  <addons/>
+  <addons>
+    <addon>Clearlooks-2.0.tar.bz2</addon>
+  </addons>
 </package>

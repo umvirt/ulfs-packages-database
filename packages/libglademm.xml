@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libglademm</code>
+  <sourcefile>libglademm-2.6.7.tar.bz2</sourcefile>
+  <sourcedir>libglademm-2.6.7</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

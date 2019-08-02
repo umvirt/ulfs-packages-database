@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>FreeCAD</code>
+  <sourcefile>FreeCAD-0.18.tar.gz</sourcefile>
+  <sourcedir>FreeCAD-0.18</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQotREJVSUxEX1FUNT1PTiAuLg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libboost</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>coin3d</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SoQt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xerces-c</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>opencascade</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>VTK</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

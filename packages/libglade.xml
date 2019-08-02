@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>vte-gtk2</code>
-  <sourcefile>vte-0.28.2.tar.xz</sourcefile>
-  <sourcedir>vte-0.28.2</sourcedir>
+  <code>libglade</code>
+  <sourcefile>libglade-2.6.4.tar.bz2</sourcefile>
+  <sourcedir>libglade-2.6.4</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWxpYmV4ZWNkaXI9L3Vzci9saWIvdnRlIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWM=</configure>
+  <configure>c2VkIC1pICcvREdfRElTQUJMRV9ERVBSRUNBVEVEL2QnIGdsYWRlL01ha2VmaWxlLmluICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
   <build/>
   <install/>
   <dependances>
     <dependance>
-      <code>glib</code>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxml2</code>
       <weight>0</weight>
     </dependance>
     <dependance>
@@ -18,11 +22,7 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>X</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gtkmm</code>
+      <code>gtk-doc</code>
       <weight>0</weight>
     </dependance>
   </dependances>

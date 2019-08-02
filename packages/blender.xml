@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>blender</code>
+  <sourcefile>blender-2.79b.tar.gz</sourcefile>
+  <sourcedir>blender-2.79b</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQotRENNQUtFX1NLSVBfUlBBVEg9T04gXA0KLURDTUFLRV9WRVJCT1NFX01BS0VGSUxFPU9OIFwNCi1EV0lUSF9QWVRIT05fSU5TVEFMTD1PRkYgXA0KLURQWVRIT05fVkVSU0lPTj0zIFwNCi1EUFlUSE9OX0lOQ0xVREVfRElSPS91c3IvaW5jbHVkZS9weXRob24zLjdtIFwNCi1EUFlUSE9OX0xJQlJBUlk9L3Vzci9saWIvcHl0aG9uMy43bSBcDQogLi4NCg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>mesa</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>oiio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glew</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>blender2.79-gcc8.patch</filename>
+      <mode/>
+    </patch>
+    <patch>
+      <filename>blender2.79-oiio.patch</filename>
+      <mode/>
+    </patch>
+    <patch>
+      <filename>blender2.79-python3.7.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+</package>

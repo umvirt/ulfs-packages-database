@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>roaraudio</code>
+  <sourcefile>roaraudio-1.0beta12.tar.gz</sourcefile>
+  <sourcedir>roaraudio-1.0beta12</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

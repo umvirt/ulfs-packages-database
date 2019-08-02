@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>apr</code>
+  <sourcefile>apr-1.6.3.tar.bz2</sourcefile>
+  <sourcedir>apr-1.6.3</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0td2l0aC1pbnN0YWxsYnVpbGRkaXI9L3Vzci9zaGFyZS9hcHItMS9idWlsZA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

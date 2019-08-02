@@ -13,5 +13,6 @@
     <command>reset_etc_profile</command>
     <command>add_java64</command>
     <command>buildrust</command>
+    <command>audacity_install</command>
   </commands>
 </packages>

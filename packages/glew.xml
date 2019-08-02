@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>glew</code>
+  <sourcefile>glew-2.1.0.tgz</sourcefile>
+  <sourcedir>glew-2.1.0</sourcedir>
+  <unpack/>
+  <configure>Y2QgYnVpbGQNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCi4vY21ha2U=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>stopwatch</code>
+  <sourcefile>stopwatch-3.4.tar.gz</sourcefile>
+  <sourcedir>stopwatch-3.4</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>c2VkIC1pICJzL1wvZGVwb3RcL3BhdGhcL3dpc2gvXC91c3JcL2Jpblwvd2lzaC8iIHN0b3B3YXRjaA==</build>
+  <install>aW5zdGFsbCBzdG9wd2F0Y2ggL3Vzci9iaW4NCg==</install>
+  <dependances>
+    <dependance>
+      <code>tcl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tk</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

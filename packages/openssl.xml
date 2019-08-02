@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>openssl</code>
+  <sourcefile>openssl-1.1.1b.tar.gz</sourcefile>
+  <sourcedir>openssl-1.1.1b</sourcedir>
+  <unpack/>
+  <configure>aWYgWyAkKHVuYW1lIC1tKSA9IGk2ODYgXTsgdGhlbg0KICAgVEFSR0VUPWxpbnV4LXg4Ng0KZWxzZQ0KICAgVEFSR0VUPWxpbnV4LXg4Nl82NA0KZmkNCg0KbWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQouLi9Db25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgICAgIC0tb3BlbnNzbGRpcj0vZXRjL3NzbCBcDQogICAgICAgICAtLWxpYmRpcj1saWIgICAgICAgICAgXA0KICAgICAgICAgc2hhcmVkICAgICAgICAgICAgICAgIFwNCiAgICAgICAgIHpsaWItZHluYW1pYyBcDQogICAgICAgICAkVEFSR0VUDQo=</configure>
+  <build/>
+  <install>c2VkIC1pICcvSU5TVEFMTF9MSUJTL3MvbGliY3J5cHRvLmEgbGlic3NsLmEvLycgTWFrZWZpbGUNCm1ha2UgTUFOU1VGRklYPXNzbCBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

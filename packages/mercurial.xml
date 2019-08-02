@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>mercurial</code>
+  <sourcefile>mercurial-4.7.tar.gz</sourcefile>
+  <sourcedir>mercurial-4.7</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBidWlsZA==</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBpbnN0YWxsLWJpbg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

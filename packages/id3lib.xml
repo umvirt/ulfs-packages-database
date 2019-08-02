@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>id3lib</code>
+  <sourcefile>id3lib-3.8.3.tar.gz</sourcefile>
+  <sourcedir>id3lib-3.8.3</sourcedir>
+  <unpack/>
+  <configure>bGlidG9vbGl6ZSAtZmMgICAgICAgICAgICAgICAgJiYNCmFjbG9jYWwgICAgICAgICAgICAgICAgICAgICAgICYmDQphdXRvY29uZiAgICAgICAgICAgICAgICAgICAgICAmJg0KYXV0b21ha2UgLS1hZGQtbWlzc2luZyAtLWNvcHkgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAmJg0KY3AgZG9jL21hbi8qIC91c3Ivc2hhcmUvbWFuL21hbjEgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy9pZDNsaWItMy44LjMgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jLyoue2dpZixqcGcscG5nLGljbyxjc3MsdHh0LHBocCxodG1sfSBcDQogICAgICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2lkM2xpYi0zLjguMw==</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>id3lib-3.8.3-consolidated_patches-1.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+</package>

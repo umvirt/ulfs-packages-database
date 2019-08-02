@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cdparanoia</code>
+  <sourcefile>cdparanoia-III-10.2.src.tgz</sourcefile>
+  <sourcedir>cdparanoia-III-10.2</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbiAmJg0K</configure>
+  <build>bWFrZSAtajE=</build>
+  <install>bWFrZSBpbnN0YWxsICYmDQpjaG1vZCAtdiA3NTUgL3Vzci9saWIvbGliY2RkYV8qLnNvLjAuMTAuMg==</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>cdparanoia-III-10.2-gcc_fixes-1.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+</package>

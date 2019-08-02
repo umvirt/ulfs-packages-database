@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>coin3d</code>
+  <sourcefile>coin-hg-30674a94a67f.tar.gz</sourcefile>
+  <sourcedir>coin-hg-30674a94a67f</sourcedir>
+  <unpack/>
+  <configure>Y21ha2UgLUhjb2luIC1CY29pbl9idWlsZCAtRyAiVW5peCBNYWtlZmlsZXMiIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3Vzci8gLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UNCg0KY2QgY29pbl9idWlsZA0KDQo=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNkIGNwYWNrLmQNCmNwYWNrIC0tY29uZmlnIGRlYmlhbi5jbWFrZQ0KY3BhY2sgLS1jb25maWcgZmVkb3JhLmNtYWtl</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

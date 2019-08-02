@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>xscreensaver</code>
+  <sourcefile>xscreensaver-5.40.tar.gz</sourcefile>
+  <sourcedir>xscreensaver-5.40</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQpjYXQgPiAvZXRjL3BhbS5kL3hzY3JlZW5zYXZlciA8PCAiRU9GIg0KIyBCZWdpbiAvZXRjL3BhbS5kL3hzY3JlZW5zYXZlcg0KDQphdXRoICAgIGluY2x1ZGUgc3lzdGVtLWF1dGgNCmFjY291bnQgaW5jbHVkZSBzeXN0ZW0tYWNjb3VudA0KDQojIEVuZCAvZXRjL3BhbS5kL3hzY3JlZW5zYXZlcg0KRU9G</install>
+  <dependances>
+    <dependance>
+      <code>Xapps</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libglade</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

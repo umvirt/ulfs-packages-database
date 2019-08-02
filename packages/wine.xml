@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>wine</code>
+  <sourcefile>wine-4.0.1.tar.xz</sourcefile>
+  <sourcedir>wine-4.0.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gstreamer</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lcms2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cupsd</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openldap-client</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

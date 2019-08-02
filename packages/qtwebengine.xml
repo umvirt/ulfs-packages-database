@@ -7,7 +7,7 @@
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCnFtYWtlIC4uICA=</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsDQpmaW5kICRRVDVESVIvIC1uYW1lIFwqLnBybCBcDQogICAtZXhlYyBzZWQgLWkgLWUgJy9eUU1BS0VfUFJMX0JVSUxEX0RJUi9kJyB7fSBcOw==</install>
+  <install>UVQ1RElSPS9vcHQvcXQ1DQptYWtlIGluc3RhbGwNCmZpbmQgJFFUNURJUi8gLW5hbWUgXCoucHJsIFwNCiAgIC1leGVjIHNlZCAtaSAtZSAnL15RTUFLRV9QUkxfQlVJTERfRElSL2QnIHt9IFw7</install>
   <dependances>
     <dependance>
       <code>nss</code>

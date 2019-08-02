@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>unixODBC</code>
+  <sourcefile>unixODBC-2.3.7.tar.gz</sourcefile>
+  <sourcedir>unixODBC-2.3.7</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0Yy91bml4T0RCQw==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQoNCmZpbmQgZG9jIC1uYW1lICJNYWtlZmlsZSoiIC1kZWxldGUgICAgICAgICAgICAgICAgJiYNCmNobW9kIDY0NCBkb2Mve2xzdCxQcm9ncmFtbWVyTWFudWFsL1R1dG9yaWFsfS8qICAgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy91bml4T0RCQy0yLjMuNyAmJg0KY3AgICAgICAtdiAtUiBkb2MvKiAvdXNyL3NoYXJlL2RvYy91bml4T0RCQy0yLjMuNw==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>
