@@ -26,7 +26,7 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>yaml-0.2.1.tar.gz</code>
+      <code>yaml</code>
       <weight>0</weight>
     </dependance>
   </dependances>
