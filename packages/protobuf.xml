@@ -2,8 +2,8 @@
 <package>
   <release>0.1</release>
   <code>protobuf</code>
-  <sourcefile>protobuf-2.5.0.tar.gz</sourcefile>
-  <sourcedir>protobuf-2.5.0</sourcedir>
+  <sourcefile>protobuf-3.7.1.tar.gz</sourcefile>
+  <sourcedir>protobuf-3.7.1</sourcedir>
   <unpack/>
   <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
   <build/>
