@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>asciidoc</code>
+  <sourcefile>asciidoc-8.6.10.tar.gz</sourcefile>
+  <sourcedir>asciidoc-8.6.10</sourcedir>
+  <unpack/>
+  <configure>YXV0b2NvbmYNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGM=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

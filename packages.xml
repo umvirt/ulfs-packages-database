@@ -296,7 +296,7 @@
     <package>libassuan</package>
     <package>gpgme</package>
     <package>volume_key</package>
-    <package>yaml-0.2.1.tar.gz</package>
+    <package>yaml</package>
     <package>libblockdev</package>
     <package>udisks</package>
     <package>polkit</package>
@@ -554,5 +554,22 @@
     <package>perl-HTML-Tagset</package>
     <package>perl-HTML-Parser</package>
     <package>netsurf</package>
+    <package>protobuf-c</package>
+    <package>libbsd</package>
+    <package>libnet</package>
+    <package>libnl</package>
+    <package>asciidoc</package>
+    <package>criu</package>
+    <package>lxc</package>
+    <package>libksba</package>
+    <package>npth</package>
+    <package>pinentry</package>
+    <package>gnupg</package>
+    <package>gkrellm</package>
+    <package>libmnl</package>
+    <package>libnftnl</package>
+    <package>nftables</package>
+    <package>iptables</package>
+    <package>dnsmasq</package>
   </packages>
 </packages>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gkrellm</code>
+  <sourcefile>gkrellm-2.3.11.tar.bz2</sourcefile>
+  <sourcedir>gkrellm-2.3.11</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>REVTVERJUj0vdXNyIG1ha2U=</build>
+  <install>REVTVERJUj0vdXNyIG1ha2UgaW5zdGFsbA==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

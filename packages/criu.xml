@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>criu</code>
+  <sourcefile>criu-3.12.tar.bz2</sourcefile>
+  <sourcedir>criu-3.12</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIE1ha2VmaWxlLmluc3RhbGwNCg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>xmlto</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>protobuf</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>protobuf-c</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libbsd</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnet</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>asciidoc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>lxc</code>
+  <sourcefile>lxc-3.2.1.tar.gz</sourcefile>
+  <sourcedir>lxc-lxc-3.2.1</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWMgXA0KLS1zeXNjb25mZGlyPS9ldGMgLS1sb2NhbHN0YXRlZGlyPS92YXI=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gnupg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>iptables</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dnsmasq</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

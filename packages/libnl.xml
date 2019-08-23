@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libnl</code>
+  <sourcefile>libnl-3.4.0.tar.gz </sourcefile>
+  <sourcedir>libnl-3.4.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyA=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

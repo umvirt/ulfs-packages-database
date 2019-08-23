@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libmnl</code>
+  <sourcefile>libmnl-1.0.4.tar.bz2</sourcefile>
+  <sourcedir>libmnl-1.0.4</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>npth</code>
+  <sourcefile>npth-1.6.tar.bz2</sourcefile>
+  <sourcedir>npth-1.6</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>
