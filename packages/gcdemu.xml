@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gcdemu</code>
+  <sourcefile>gcdemu-3.2.1.tar.bz2</sourcefile>
+  <sourcedir>gcdemu-3.2.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAuLg0K</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>cdemu-daemon</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cdemu-client</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

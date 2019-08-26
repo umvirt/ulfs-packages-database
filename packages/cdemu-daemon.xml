@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cdemu-daemon</code>
+  <sourcefile>cdemu-daemon-3.2.2.tar.bz2</sourcefile>
+  <sourcedir>cdemu-daemon-3.2.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRFNZU1RFTV9CVVNfU0VSVklDRT0xIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlIC4uDQo=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libao</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vhba-module</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libmirage</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>

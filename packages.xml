@@ -571,5 +571,11 @@
     <package>nftables</package>
     <package>iptables</package>
     <package>dnsmasq</package>
+    <package>vhba-module</package>
+    <package>libmirage</package>
+    <package>image-analyzer</package>
+    <package>cdemu-daemon</package>
+    <package>cdemu-client</package>
+    <package>gcdemu</package>
   </packages>
 </packages>

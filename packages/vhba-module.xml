@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>vhba-module</code>
+  <sourcefile>vhba-module-20190410.tar.bz2</sourcefile>
+  <sourcedir>vhba-module-20190410</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

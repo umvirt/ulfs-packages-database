@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libmirage</code>
+  <sourcefile>libmirage-3.2.2.tar.bz2</sourcefile>
+  <sourcedir>libmirage-3.2.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAuLg0K</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libsndfile</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+</package>
