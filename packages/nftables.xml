@@ -5,7 +5,7 @@
   <sourcefile>nftables-0.9.2.tar.bz2</sourcefile>
   <sourcedir>nftables-0.9.2</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>
   <install/>
   <dependances/>
