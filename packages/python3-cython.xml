@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python3-cython</code>
+  <sourcefile>Cython-0.29.13.tar.gz</sourcefile>
+  <sourcedir>Cython-0.29.13</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+</package>

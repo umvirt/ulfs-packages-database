@@ -579,5 +579,7 @@
     <package>gcdemu</package>
     <package>smartmontools</package>
     <package>xdotool</package>
+    <package>python3-numpy</package>
+    <package>python3-cython</package>
   </packages>
 </packages>
