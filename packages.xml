@@ -577,5 +577,7 @@
     <package>cdemu-daemon</package>
     <package>cdemu-client</package>
     <package>gcdemu</package>
+    <package>smartmontools</package>
+    <package>xdotool</package>
   </packages>
 </packages>
