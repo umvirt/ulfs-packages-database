@@ -150,4 +150,5 @@
     <addon>libreoffice-translations-6.1.0.3.tar.xz</addon>
     <addon>libreoffice-extratars-6.1.0.3.tar</addon>
   </addons>
+  <nestings/>
 </package>

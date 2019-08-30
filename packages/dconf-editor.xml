@@ -18,4 +18,5 @@
   <addons>
     <addon>dconf-editor-3.28.0.tar.xz</addon>
   </addons>
+  <nestings/>
 </package>

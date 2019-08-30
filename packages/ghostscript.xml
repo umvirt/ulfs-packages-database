@@ -43,4 +43,5 @@
     <addon>ghostscript-fonts-std-8.11.tar.gz</addon>
     <addon>gnu-gs-fonts-other-6.0.tar.gz</addon>
   </addons>
+  <nestings/>
 </package>

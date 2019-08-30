@@ -15,4 +15,5 @@
     <addon>maven2-ant-1.10.4.tar.gz</addon>
     <addon>maven-ant-tasks-2.1.3.jar</addon>
   </addons>
+  <nestings/>
 </package>

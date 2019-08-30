@@ -581,5 +581,6 @@
     <package>xdotool</package>
     <package>python3-numpy</package>
     <package>python3-cython</package>
+    <package>postgresql-server</package>
   </packages>
 </packages>

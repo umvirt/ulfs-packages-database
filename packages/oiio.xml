@@ -14,4 +14,5 @@
     <addon>oiio-pybind11.tar.gz</addon>
     <addon>oiio-robin-map.tar.gz</addon>
   </addons>
+  <nestings/>
 </package>

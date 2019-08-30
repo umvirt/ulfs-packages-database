@@ -14,4 +14,5 @@
     <addon>apache-maven-3.5.4-bin.tar.gz</addon>
     <addon>maven2-maven3.6.1.tar.gz</addon>
   </addons>
+  <nestings/>
 </package>

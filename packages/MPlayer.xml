@@ -39,4 +39,5 @@
   <addons>
     <addon>Clearlooks-2.0.tar.bz2</addon>
   </addons>
+  <nestings/>
 </package>
