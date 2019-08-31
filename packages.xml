@@ -582,5 +582,6 @@
     <package>python3-numpy</package>
     <package>python3-cython</package>
     <package>postgresql-server</package>
+    <package>mariadb-client</package>
   </packages>
 </packages>
