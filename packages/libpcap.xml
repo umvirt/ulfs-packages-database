@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libpcap</code>
+  <sourcefile>libpcap-1.9.0.tar.gz</sourcefile>
+  <sourcedir>libpcap-1.9.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>c2VkIC1pICcvSU5TVEFMTF9EQVRBLipsaWJwY2FwLmFcfFJBTkxJQi4qbGlicGNhcC5hLyBzL14vIy8nIE1ha2VmaWxlDQoNCm1ha2UgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>bluez</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnl</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>libpcap-1.9.0-enable_bluetooth-1.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+</package>

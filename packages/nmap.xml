@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>nmap</code>
+  <sourcefile>nmap-7.70.tar.bz2</sourcefile>
+  <sourcedir>nmap-7.70</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtbGlibHVhPWluY2x1ZGVk</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>pcre</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>liblinear</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpcap</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>whois</code>
+  <sourcefile>whois-5.2.20.tar.gz</sourcefile>
+  <sourcedir>whois-5.2.20</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBwcmVmaXg9L3VzciBpbnN0YWxsLXdob2lzDQptYWtlIHByZWZpeD0vdXNyIGluc3RhbGwtbWtwYXNzd2QNCm1ha2UgcHJlZml4PS91c3IgaW5zdGFsbC1wb3M=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

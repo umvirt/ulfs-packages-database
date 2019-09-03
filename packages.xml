@@ -583,5 +583,18 @@
     <package>python3-cython</package>
     <package>postgresql-server</package>
     <package>mariadb-client</package>
+    <package>bind-utils</package>
+    <package>php</package>
+    <package>httpd</package>
+    <package>traceroute</package>
+    <package>whois</package>
+    <package>liblinear</package>
+    <package>libpcap</package>
+    <package>nmap</package>
+    <package>wireshark</package>
+    <package>alsa-oss</package>
+    <package>tcpdump</package>
+    <package>fceux</package>
+    <package>spectemu</package>
   </packages>
 </packages>

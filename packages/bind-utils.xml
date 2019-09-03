@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>bind-utils</code>
+  <sourcefile>bind-9.13.2.tar.gz</sourcefile>
+  <sourcedir>bind-9.13.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build>bWFrZSAtQyBsaWIvZG5zICAgICYmDQptYWtlIC1DIGxpYi9pc2MgICAgJiYNCm1ha2UgLUMgbGliL2JpbmQ5ICAmJg0KbWFrZSAtQyBsaWIvaXNjY2ZnICYmDQptYWtlIC1DIGxpYi9pcnMgICAgJiYNCm1ha2UgLUMgYmluL2RpZw==</build>
+  <install>bWFrZSAtQyBiaW4vZGlnIGluc3RhbGw=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

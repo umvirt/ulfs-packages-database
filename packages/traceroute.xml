@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>traceroute</code>
+  <sourcefile>traceroute-2.1.0.tar.gz</sourcefile>
+  <sourcedir>traceroute-2.1.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBwcmVmaXg9L3VzciBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm12IC91c3IvYmluL3RyYWNlcm91dGUgL2JpbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQpsbiAtc3YgLWYgdHJhY2Vyb3V0ZSAvYmluL3RyYWNlcm91dGU2ICAgICAgICAgICAgICAgICAgICAmJg0KbG4gLXN2IC1mIHRyYWNlcm91dGUuOCAvdXNyL3NoYXJlL21hbi9tYW44L3RyYWNlcm91dGU2LjggJiYNCnJtIC1mdiAvdXNyL3NoYXJlL21hbi9tYW4xL3RyYWNlcm91dGUuMQ==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

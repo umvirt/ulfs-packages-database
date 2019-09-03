@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>liblinear</code>
+  <sourcefile>liblinear-220.tar.gz</sourcefile>
+  <sourcedir>liblinear-220</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBsaWINCg==</build>
+  <install>aW5zdGFsbCAtdm02NDQgbGluZWFyLmggL3Vzci9pbmNsdWRlICYmDQppbnN0YWxsIC12bTc1NSBsaWJsaW5lYXIuc28uMyAvdXNyL2xpYiAmJg0KbG4gLXNmdiBsaWJsaW5lYXIuc28uMyAvdXNyL2xpYi9saWJsaW5lYXIuc28=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
