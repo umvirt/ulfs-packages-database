@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>acpica</code>
+  <sourcefile>acpica-unix2-20190816.tar.gz</sourcefile>
+  <sourcedir>acpica-unix2-20190816</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

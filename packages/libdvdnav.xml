@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libdvdnav</code>
+  <sourcefile>libdvdnav-6.0.0.tar.bz2</sourcefile>
+  <sourcedir>libdvdnav-6.0.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYmR2ZG5hdi02LjAuMA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libdvdread</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

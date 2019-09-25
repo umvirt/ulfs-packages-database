@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>dosbox</code>
-  <sourcefile>dosbox-0.74-3.tar.gz</sourcefile>
-  <sourcedir>dosbox-0.74-3</sourcedir>
+  <code>virtualbox</code>
+  <sourcefile>VirtualBox-5.2.32.tar.bz2</sourcefile>
+  <sourcedir>VirtualBox-5.2.32</sourcedir>
   <unpack/>
-  <configure/>
-  <build/>
-  <install/>
+  <configure>Li9jb25maWd1cmUNCnNvdXJjZSBlbnYuc2g=</configure>
+  <build>a21r</build>
+  <install>Iw==</install>
   <dependances>
     <dependance>
-      <code>glu</code>
+      <code>libxml2</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>X</code>
+      <code>lvm</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>acpica</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>SDL</code>
+      <code>libidl</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>SDL_net</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>SDL2_net</code>
+      <code>makeself</code>
       <weight>0</weight>
     </dependance>
   </dependances>

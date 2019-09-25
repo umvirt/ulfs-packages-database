@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>tcpser</code>
+  <sourcefile>tcpser-1.0rc12.tar.gz</sourcefile>
+  <sourcedir>tcpser</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>aW5zdGFsbCAtdiAtbTc1NSB0Y3BzZXIgL3Vzci9iaW4=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

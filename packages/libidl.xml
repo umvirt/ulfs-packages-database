@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libidl</code>
+  <sourcefile>libIDL-0.8.14.tar.bz2</sourcefile>
+  <sourcedir>libIDL-0.8.14</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings>
+    <nesting>glib</nesting>
+  </nestings>
+</package>

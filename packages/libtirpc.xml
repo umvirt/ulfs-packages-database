@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libtirpc</code>
+  <sourcefile>libtirpc-1.0.3.tar.bz2</sourcefile>
+  <sourcedir>libtirpc-1.0.3</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWdzc2FwaQ==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQptdiAtdiAvdXNyL2xpYi9saWJ0aXJwYy5zby4qIC9saWIgJiYNCmxuIC1zZnYgLi4vLi4vbGliL2xpYnRpcnBjLnNvLjMuMC4wIC91c3IvbGliL2xpYnRpcnBjLnNvDQoNCg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

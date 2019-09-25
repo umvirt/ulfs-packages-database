@@ -1,36 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>dosbox</code>
-  <sourcefile>dosbox-0.74-3.tar.gz</sourcefile>
-  <sourcedir>dosbox-0.74-3</sourcedir>
+  <code>fltk</code>
+  <sourcefile>fltk-1.3.4-source.tar.gz</sourcefile>
+  <sourcedir>fltk-1.3.4</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>c2VkIC1pIC1lICcvY2F0Li9kJyBkb2N1bWVudGF0aW9uL01ha2VmaWxlICAgICAgICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVk</configure>
   <build/>
   <install/>
   <dependances>
     <dependance>
-      <code>glu</code>
+      <code>Xlibs</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>X</code>
+      <code>libpng</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>hicolor-icon-theme</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>SDL</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>SDL_net</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>SDL2_net</code>
+      <code>libjpeg-turbo</code>
       <weight>0</weight>
     </dependance>
   </dependances>

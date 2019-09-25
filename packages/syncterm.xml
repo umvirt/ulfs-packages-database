@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>syncterm</code>
+  <sourcefile>syncterm-1.0.tgz</sourcefile>
+  <sourcedir>syncterm-1.0</sourcedir>
+  <unpack/>
+  <configure>Y2Qgc3JjL3N5bmN0ZXJt</configure>
+  <build>bWFrZSBSRUxFQVNFPTEgUFJFRklYPS91c3I=</build>
+  <install>bWFrZSBpbnN0YWxsIFJFTEVBU0U9MSBQUkVGSVg9L3Vzcg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

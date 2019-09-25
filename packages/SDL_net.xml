@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>SDL_net</code>
+  <sourcefile>SDL_net-1.2.8.tar.gz</sourcefile>
+  <sourcedir>SDL_net-1.2.8</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>SDL</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

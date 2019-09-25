@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>rpcsvc-proto</code>
+  <sourcefile>rpcsvc-proto-1.4.tar.gz</sourcefile>
+  <sourcedir>rpcsvc-proto-1.4</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZmkgICAgICAgICAgICAgICAgJiYNCi4vY29uZmlndXJlIC0tc3lzY29uZmRpcj0vZXRj</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

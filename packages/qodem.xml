@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>qodem</code>
+  <sourcefile>qodem-1.0.0.tar.gz</sourcefile>
+  <sourcedir>qodem-1.0.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>SDL</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>terminus-font</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

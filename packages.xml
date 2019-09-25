@@ -596,5 +596,42 @@
     <package>tcpdump</package>
     <package>fceux</package>
     <package>spectemu</package>
+    <package>pv</package>
+    <package>qodem</package>
+    <package>terminus-font</package>
+    <package>xfontsel</package>
+    <package>vttest</package>
+    <package>tcpser</package>
+    <package>SDL_net</package>
+    <package>SDL2_net</package>
+    <package>syncterm</package>
+    <package>knockd</package>
+    <package>ImageMagick7</package>
+    <package>fltk</package>
+    <package>tigervnc-server</package>
+    <package>sane-backends</package>
+    <package>sane-frontends</package>
+    <package>opencv</package>
+    <package>v4l-utils</package>
+    <package>libdvdread</package>
+    <package>libdvdnav</package>
+    <package>xine-lib</package>
+    <package>python3-matplotlib</package>
+    <package>python3-cycler</package>
+    <package>python3-dateutil</package>
+    <package>python3-kiwi</package>
+    <package>python3-setuptools_scm</package>
+    <package>python3-pyparsing</package>
+    <package>bind</package>
+    <package>libcap-pam</package>
+    <package>libtirpc</package>
+    <package>dovecot</package>
+    <package>rpcsvc-proto</package>
+    <package>libnsl</package>
+    <package>exim</package>
+    <package>virtualbox</package>
+    <package>acpica</package>
+    <package>libidl</package>
+    <package>makeself</package>
   </packages>
 </packages>

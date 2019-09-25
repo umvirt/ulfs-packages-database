@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>makeself</code>
+  <sourcefile>makeself-2.4.0.tar.gz</sourcefile>
+  <sourcedir>makeself-release-2.4.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>aW5zdGFsbCAtdiAtbTc1NSBtYWtlc2VsZi5zaCAvdXNyL2Jpbg0KbG4gLXMgL3Vzci9iaW4vbWFrZXNlbGYuc2ggL3Vzci9iaW4vbWFrZXNlbGY=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libnsl</code>
+  <sourcefile>libnsl-1.2.0.tar.gz</sourcefile>
+  <sourcedir>libnsl-1.2.0</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZmkgICAgICAgICAgICAgICAgJiYNCi4vY29uZmlndXJlIC0tc3lzY29uZmRpcj0vZXRj</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgJiYNCm12IC91c3IvbGliL2xpYm5zbC5zby4yKiAvbGliICYmDQpsbiAtc2Z2IC4uLy4uL2xpYi9saWJuc2wuc28uMi4wLjAgL3Vzci9saWIvbGlibnNsLnNv</install>
+  <dependances>
+    <dependance>
+      <code>libtirpc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>rpcsvc-proto</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

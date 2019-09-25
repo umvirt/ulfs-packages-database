@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python3-setuptools_scm</code>
+  <sourcefile>setuptools_scm-3.3.3.tar.gz</sourcefile>
+  <sourcedir>setuptools_scm-3.3.3</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBjbGVhbiAmJg0KcHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

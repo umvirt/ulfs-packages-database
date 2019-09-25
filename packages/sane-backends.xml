@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>sane-backends</code>
+  <sourcefile>sane-backends-1.0.27.tar.gz</sourcefile>
+  <sourcedir>sane-backends-1.0.27</sourcedir>
+  <unpack/>
+  <configure>Z3JvdXBhZGQgLWcgNzAgc2Nhbm5lcg0KdXNlcm1vZCAtYSAtRyBzY2FubmVyICQod2hvYW1pKQ0Kc3UgJCh3aG9hbWkpDQppZA0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICBcDQogICAgICAgICAgICAtLWxvY2Fsc3RhdGVkaXI9L3ZhciBcDQogICAgICAgICAgICAtLXdpdGgtZ3JvdXA9c2Nhbm5lcg0KDQoNCg0K</configure>
+  <build>bWFrZQ==</build>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KaW5zdGFsbCAtbSA2NDQgLXYgdG9vbHMvdWRldi9saWJzYW5lLnJ1bGVzICAgICAgICAgICBcDQogICAgICAgICAgICAgICAgICAvZXRjL3VkZXYvcnVsZXMuZC82NS1zY2FubmVyLnJ1bGVzICYmDQpjaGdycCAtdiBzY2FubmVyICAvdmFyL2xvY2svc2FuZQ==</install>
+  <dependances>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tiff</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cupsd</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>v4l-utils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
