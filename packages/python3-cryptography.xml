@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python3-cryptography</code>
+  <sourcefile>cryptography-2.8.tar.gz</sourcefile>
+  <sourcedir>cryptography-2.8</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ==</install>
+  <dependances>
+    <dependance>
+      <code>python3-cffi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pycparser</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

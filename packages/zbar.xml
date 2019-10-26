@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>zbar</code>
+  <sourcefile>zbar-0.23.tar.gz</sourcefile>
+  <sourcedir>zbar-0.23</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtdmZpDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>qrencode</code>
+  <sourcefile>qrencode-4.0.2.tar.gz</sourcefile>
+  <sourcedir>qrencode-4.0.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

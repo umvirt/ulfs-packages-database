@@ -633,5 +633,30 @@
     <package>acpica</package>
     <package>libidl</package>
     <package>makeself</package>
+    <package>libvirt</package>
+    <package>virt-manager</package>
+    <package>python3-libvirt</package>
+    <package>libvirt-glib</package>
+    <package>libosinfo</package>
+    <package>python3-requests</package>
+    <package>python3-certifi</package>
+    <package>python3-urllib3</package>
+    <package>python3-idna</package>
+    <package>python3-chardet</package>
+    <package>yajl2</package>
+    <package>spice-server</package>
+    <package>orc</package>
+    <package>valgrind</package>
+    <package>usbredir</package>
+    <package>gtk-vnc</package>
+    <package>qrencode</package>
+    <package>sshpass</package>
+    <package>zbar</package>
+    <package>ansible</package>
+    <package>python3-jinja2</package>
+    <package>python3-PyYAML</package>
+    <package>python3-cryptography</package>
+    <package>python3-cffi</package>
+    <package>python3-pycparser</package>
   </packages>
 </packages>

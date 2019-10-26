@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>valgrind</code>
+  <sourcefile>valgrind-3.13.0.tar.bz2</sourcefile>
+  <sourcedir>valgrind-3.13.0</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICcxOTA0cy80LzUvJyBjb3JlZ3JpbmQvbV9zeXN3cmFwL3N5c3dyYXAtbGludXguYw0KDQpzZWQgLWkgJ3N8L2RvYy92YWxncmluZHx8JyBkb2NzL01ha2VmaWxlLmluICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

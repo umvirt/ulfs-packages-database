@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>orc</code>
+  <sourcefile>orc-0.4.28.tar.xz</sourcefile>
+  <sourcedir>orc-0.4.28</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAuLg==</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA0KDQpjcCAtdiBvcmMtMC40LnBjIC91c3Ivc2hhcmUvcGtnY29uZmlnDQpjcCAtdiBvcmMvbGlib3JjLTAuNC5zby4wLjI4LjAgL3Vzci9saWINCg0KcHVzaGQgL3Vzci9saWINCmxuIC1zIGxpYm9yYy0wLjQuc28uMC4yOC4wIGxpYm9yYy0wLjQuc28uMA0KbG4gLXMgbGlib3JjLTAuNC5zby4wLjI4LjAgbGlib3JjLTAuNC5zbw0KcG9wZA0K</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
