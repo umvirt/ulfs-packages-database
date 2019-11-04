@@ -659,5 +659,6 @@
     <package>python3-cffi</package>
     <package>python3-pycparser</package>
     <package>python3</package>
+    <package>mariadb-server</package>
   </packages>
 </packages>
