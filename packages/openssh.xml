@@ -10,7 +10,7 @@
   <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNzU1ICAgIGNvbnRyaWIvc3NoLWNvcHktaWQgL3Vzci9iaW4gICAgICYmDQoNCmluc3RhbGwgLXYgLW02NDQgICAgY29udHJpYi9zc2gtY29weS1pZC4xIFwNCiAgICAgICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9tYW4vbWFuMSAgICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLW03NTUgLWQgL3Vzci9zaGFyZS9kb2Mvb3BlbnNzaC03LjdwMSAgICAgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgSU5TVEFMTCBMSUNFTkNFIE9WRVJWSUVXIFJFQURNRSogXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9vcGVuc3NoLTcuN3Ax</install>
   <dependances>
     <dependance>
-      <code>blfs-bootscripts</code>
+      <code>blfs-systemd-units</code>
       <weight>0</weight>
     </dependance>
   </dependances>
