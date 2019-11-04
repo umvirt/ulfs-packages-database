@@ -8,7 +8,36 @@
   <configure>Z3JvdXBhZGQgLWcgNDEgcG9zdGdyZXMgJiYNCnVzZXJhZGQgLWMgIlBvc3RncmVTUUwgU2VydmVyIiAtZyBwb3N0Z3JlcyAtZCAvc3J2L3Bnc3FsL2RhdGEgXA0KICAgICAgICAtdSA0MSBwb3N0Z3Jlcw0KDQpzZWQgLWkgJy9ERUZBVUxUX1BHU09DS0VUX0RJUi9zQC90bXBAL3J1bi9wb3N0Z3Jlc3FsQCcgc3JjL2luY2x1ZGUvcGdfY29uZmlnX21hbnVhbC5oICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdGhyZWFkLXNhZmV0eSBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9wb3N0Z3Jlc3FsLTEwLjUNCg0KDQo=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQoNCmluc3RhbGwgLXYgLWRtNzAwIC9zcnYvcGdzcWwvZGF0YSAmJg0KaW5zdGFsbCAtdiAtZG03NTUgL3J1bi9wb3N0Z3Jlc3FsICYmDQpjaG93biAtUnYgcG9zdGdyZXM6cG9zdGdyZXMgL3Nydi9wZ3NxbCAvcnVuL3Bvc3RncmVzcWwNCg0Kc3UgLSBwb3N0Z3JlcyAtYyAnL3Vzci9iaW4vaW5pdGRiIC1EIC9zcnYvcGdzcWwvZGF0YSc=</install>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tcl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>blfs-systemd-units</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxslt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openldap-client</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings>

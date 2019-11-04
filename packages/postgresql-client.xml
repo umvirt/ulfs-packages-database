@@ -8,7 +8,32 @@
   <configure>c2VkIC1pICcvREVGQVVMVF9QR1NPQ0tFVF9ESVIvc0AvdG1wQC9ydW4vcG9zdGdyZXNxbEAnIHNyYy9pbmNsdWRlL3BnX2NvbmZpZ19tYW51YWwuaCAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXRocmVhZC1zYWZldHkgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvcG9zdGdyZXNxbC0xMC41</configure>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tcl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxslt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openldap-client</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
