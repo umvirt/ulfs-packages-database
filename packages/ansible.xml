@@ -25,6 +25,10 @@
       <code>python3-cryptography</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>python3</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
