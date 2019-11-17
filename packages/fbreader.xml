@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>fbreader</code>
+  <sourcefile>fbreader-sources-0.99.4.tgz</sourcefile>
+  <sourcedir>fbreader-0.99.4</sourcedir>
+  <unpack/>
+  <configure>ZWNobyAiVEFSR0VUX1NUQVRVUz1yZWxlYXNlIiA+PiBtYWtlZmlsZXMvdGFyZ2V0Lm1r</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

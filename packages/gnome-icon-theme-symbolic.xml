@@ -13,6 +13,18 @@
       <code>gnome-icon-theme</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>inkscape</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>librsvg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>icontool</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

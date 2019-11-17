@@ -8,7 +8,12 @@
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLWxvY2Fsc3RhdGVkaXI9L3ZhciA=</configure>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>libsoup</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

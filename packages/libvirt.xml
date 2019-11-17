@@ -10,6 +10,18 @@
   <install/>
   <dependances>
     <dependance>
+      <code>lvm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libtirpc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>yajl2</code>
       <weight>0</weight>
     </dependance>

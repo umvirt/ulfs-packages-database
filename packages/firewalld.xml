@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>spice-server</code>
-  <sourcefile>spice-0.14.1.tar.bz2 </sourcefile>
-  <sourcedir>spice-0.14.1</sourcedir>
+  <code>firewalld</code>
+  <sourcefile>firewalld-0.7.1.tar.gz</sourcefile>
+  <sourcedir>firewalld-0.7.1</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLWxvY2Fsc3RhdGVkaXI9L3ZhciA=</configure>
+  <configure/>
   <build/>
   <install/>
   <dependances>
     <dependance>
-      <code>spice-protocol</code>
+      <code>iptables</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>opus</code>
+      <code>ebtables</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>orc</code>
+      <code>ipset</code>
       <weight>0</weight>
     </dependance>
   </dependances>

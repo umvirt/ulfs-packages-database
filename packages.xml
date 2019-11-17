@@ -660,5 +660,15 @@
     <package>python3-pycparser</package>
     <package>python3</package>
     <package>mariadb-server</package>
+    <package>libunibreak</package>
+    <package>fbreader</package>
+    <package>firewalld</package>
+    <package>ebtables</package>
+    <package>ipset</package>
+    <package>dmidecode</package>
+    <package>gperf</package>
+    <package>midori</package>
+    <package>librsvg</package>
+    <package>icontool</package>
   </packages>
 </packages>

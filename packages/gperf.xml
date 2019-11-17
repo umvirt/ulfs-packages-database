@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>gperf</code>
+  <sourcefile>gperf-3.1.tar.gz</sourcefile>
+  <sourcedir>gperf-3.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

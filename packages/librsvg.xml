@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>pluma</code>
-  <sourcefile>pluma-1.22.0.tar.xz</sourcefile>
-  <sourcedir>pluma-1.22.0</sourcedir>
+  <code>librsvg</code>
+  <sourcefile>librsvg-2.40.16.tar.xz</sourcefile>
+  <sourcedir>librsvg-2.40.16</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3BlbGw=</configure>
+  <configure>c2VkIC1pICIvc2VlbXMgdG8gYmUgbW92ZWQvcy9eLyMvIiBsdG1haW4uc2ggJiYNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdmFsYSAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>
   <dependances>
     <dependance>
-      <code>enchant</code>
+      <code>gdk-pixbuf</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>libpeas</code>
+      <code>pango</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>gtksourceview</code>
+      <code>gtk3</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>mate-desktop</code>
+      <code>vala</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>gnome-icon-theme-symbolic</code>
+      <code>libcroco</code>
       <weight>0</weight>
     </dependance>
   </dependances>

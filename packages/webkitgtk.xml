@@ -66,6 +66,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>geoclue</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>enchant</code>
       <weight>0</weight>
     </dependance>

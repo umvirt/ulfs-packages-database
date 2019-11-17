@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>ipset</code>
+  <sourcefile>ipset-7.4.tar.bz2</sourcefile>
+  <sourcedir>ipset-7.4</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

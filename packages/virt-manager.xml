@@ -5,9 +5,9 @@
   <sourcefile>virt-manager-2.2.1.tar.gz</sourcefile>
   <sourcedir>virt-manager-2.2.1</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLWxvY2Fsc3RhdGVkaXI9L3ZhciANCg==</configure>
-  <build/>
-  <install/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ==</install>
   <dependances>
     <dependance>
       <code>vte</code>

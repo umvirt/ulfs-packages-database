@@ -33,6 +33,10 @@
       <code>gtksourceview</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>gnome-icon-theme-symbolic</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
