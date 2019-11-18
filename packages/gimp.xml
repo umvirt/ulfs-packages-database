@@ -2,10 +2,10 @@
 <package>
   <release>0.1</release>
   <code>gimp</code>
-  <sourcefile>gimp-2.8.22.tar.bz2</sourcefile>
-  <sourcedir>gimp-2.8.22</sourcedir>
+  <sourcefile>gimp-2.10.14.tar.bz2</sourcefile>
+  <sourcedir>gimp-2.10.14</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvZ2VnbC9zLzIvNC8nIGNvbmZpZ3VyZSAmJg0Kc2VkIC1pICc3MCw3NSBkJyBhcHAvY29yZS9naW1wcGFyYW1zcGVjcy1kdXBsaWNhdGUuYw0KDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGM=</configure>
+  <configure>I3NlZCAtaSAnL2dlZ2wvcy8yLzQvJyBjb25maWd1cmUgJiYNCiNzZWQgLWkgJzcwLDc1IGQnIGFwcC9jb3JlL2dpbXBwYXJhbXNwZWNzLWR1cGxpY2F0ZS5jDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>
   <install/>
   <dependances>
@@ -83,6 +83,10 @@
     </dependance>
     <dependance>
       <code>python2-libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mypaint-brushes</code>
       <weight>0</weight>
     </dependance>
   </dependances>

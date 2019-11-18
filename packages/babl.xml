@@ -2,13 +2,18 @@
 <package>
   <release>0.1</release>
   <code>babl</code>
-  <sourcefile>babl-0.1.56.tar.bz2</sourcefile>
-  <sourcedir>babl-0.1.56</sourcedir>
+  <sourcefile>babl-0.1.72.tar.xz</sourcefile>
+  <sourcedir>babl-0.1.72</sourcedir>
   <unpack/>
-  <configure/>
-  <build/>
-  <install/>
-  <dependances/>
+  <configure>bWVzb24gLS1wcmVmaXg9L3VzciBidWlsZA0KY2QgICAgYnVpbGQ=</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>meson</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

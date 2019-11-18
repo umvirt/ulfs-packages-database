@@ -2,12 +2,12 @@
 <package>
   <release>0.1</release>
   <code>gegl</code>
-  <sourcefile>gegl-0.4.8.tar.bz2</sourcefile>
-  <sourcedir>gegl-0.4.8</sourcedir>
+  <sourcefile>gegl-0.4.18.tar.xz</sourcefile>
+  <sourcedir>gegl-0.4.18</sourcedir>
   <unpack/>
-  <configure/>
-  <build/>
-  <install/>
+  <configure>Iy4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS13aXRob3V0LWxpYnY0bCAtLXdpdGhvdXQtbGlicnN2ZyAtLWRpc2FibGUtZ2xpYnRlc3QgLS1kaXNhYmxlLWRvY3MgDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQptZXNvbiAtLXByZWZpeD0vdXNy</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
   <dependances>
     <dependance>
       <code>json-glib</code>

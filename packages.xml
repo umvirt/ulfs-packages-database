@@ -670,5 +670,6 @@
     <package>midori</package>
     <package>librsvg</package>
     <package>icontool</package>
+    <package>meson</package>
   </packages>
 </packages>
