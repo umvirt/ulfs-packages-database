@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>mate-desktop</code>
-  <sourcefile>mate-desktop-1.22.0.tar.xz</sourcefile>
-  <sourcedir>mate-desktop-1.22.0</sourcedir>
+  <code>caja-dropbox</code>
+  <sourcefile>caja-dropbox-1.22.0.tar.xz</sourcefile>
+  <sourcedir>caja-dropbox-1.22.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <dependances>
     <dependance>
-      <code>iso-codes</code>
+      <code>caja</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>dconf</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>librsvg</code>
+      <code>python3-docutils</code>
       <weight>0</weight>
     </dependance>
   </dependances>

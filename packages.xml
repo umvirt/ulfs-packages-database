@@ -671,5 +671,41 @@
     <package>librsvg</package>
     <package>icontool</package>
     <package>meson</package>
+    <package>mate-backgrounds</package>
+    <package>mate-common</package>
+    <package>mate-control-center</package>
+    <package>mate-menus</package>
+    <package>libmarco</package>
+    <package>mate-settings-daemon</package>
+    <package>libmatekbd</package>
+    <package>mate-media</package>
+    <package>libmatemixer</package>
+    <package>mate-applets</package>
+    <package>mate-panel</package>
+    <package>libmateweather</package>
+    <package>mate-indicator-applet</package>
+    <package>mate-netbook</package>
+    <package>libfakekey</package>
+    <package>mate-notification-daemon</package>
+    <package>mate-polkit</package>
+    <package>mate-power-manager</package>
+    <package>mate-screensaver</package>
+    <package>mate-sensors-applet</package>
+    <package>mate-session-manager</package>
+    <package>mate-system-monitor</package>
+    <package>mate-terminal</package>
+    <package>mate-user-guide</package>
+    <package>mate-utils</package>
+    <package>mozo</package>
+    <package>atril</package>
+    <package>caja</package>
+    <package>python-caja</package>
+    <package>djvulibre</package>
+    <package>libspectre</package>
+    <package>caja-dropbox</package>
+    <package>python3-docutils</package>
+    <package>caja-extensions</package>
+    <package>engrampa</package>
+    <package>eom</package>
   </packages>
 </packages>

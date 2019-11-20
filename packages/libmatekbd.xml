@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libmatekbd</code>
+  <sourcefile>libmatekbd-1.22.0.tar.xz</sourcefile>
+  <sourcedir>libmatekbd-1.22.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libxklavier</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
