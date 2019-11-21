@@ -671,6 +671,7 @@
     <package>librsvg</package>
     <package>icontool</package>
     <package>meson</package>
+    <package>qt4</package>
     <package>mate-backgrounds</package>
     <package>mate-common</package>
     <package>mate-control-center</package>
@@ -707,5 +708,13 @@
     <package>caja-extensions</package>
     <package>engrampa</package>
     <package>eom</package>
+    <package>gnome-keyring-sharp1</package>
+    <package>PyQt5</package>
+    <package>PyQt-builder</package>
+    <package>chrpath</package>
+    <package>python3-sip</package>
+    <package>python2-enum34</package>
+    <package>python2-sip</package>
+    <package>mate-themes</package>
   </packages>
 </packages>

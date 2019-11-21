@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>mate-themes</code>
+  <sourcefile>mate-themes-3.22.19.tar.xz</sourcefile>
+  <sourcedir>mate-themes-3.22.19</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

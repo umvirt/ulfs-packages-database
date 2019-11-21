@@ -5,7 +5,7 @@
   <sourcefile>firewalld-0.7.1.tar.gz</sourcefile>
   <sourcedir>firewalld-0.7.1</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>
   <install/>
   <dependances>
