@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libstemmer</code>
+  <sourcefile>libstemmer-0+svn585.tar.gz</sourcefile>
+  <sourcedir>snowball-0+svn585</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>aW5zdGFsbCAtdiAtbTY0NCBpbmNsdWRlL2xpYnN0ZW1tZXIuaCAvdXNyL2luY2x1ZGUNCmluc3RhbGwgLXYgLW02NDQgbGlic3RlbW1lciouYSAvdXNyL2xpYi8NCmluc3RhbGwgLXYgLW02NDQgbGlic3RlbW1lciouc28uKiAvdXNyL2xpYi8NCmluc3RhbGwgLXYgLW02NDQgc3RlbXdvcmRzIC91c3IvYmluDQo=</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>libstemmer-shared-library.diff</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+</package>

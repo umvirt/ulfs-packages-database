@@ -716,5 +716,25 @@
     <package>python2-enum34</package>
     <package>python2-sip</package>
     <package>mate-themes</package>
+    <package>gnome-games</package>
+    <package>libmanette</package>
+    <package>retro-gtk</package>
+    <package>gnome-mahjongg</package>
+    <package>gnome-sudoku</package>
+    <package>qqwing</package>
+    <package>gnome-mines</package>
+    <package>libgames-support</package>
+    <package>libgnome-games-support</package>
+    <package>five-or-more</package>
+    <package>quadrapassel</package>
+    <package>appstream</package>
+    <package>lmdb</package>
+    <package>libstemmer</package>
+    <package>gsound</package>
+    <package>swell-foop</package>
+    <package>gnome-nibbles</package>
+    <package>gnome-chess</package>
+    <package>gnuchess</package>
+    <package>GAMES-GNOME</package>
   </packages>
 </packages>

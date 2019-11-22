@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>retro-gtk</code>
+  <sourcefile>retro-gtk-0.18.0.tar.bz2</sourcefile>
+  <sourcedir>retro-gtk-0.18.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiAtLXByZWZpeD0vdXNy</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

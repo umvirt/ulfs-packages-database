@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>five-or-more</code>
+  <sourcefile>five-or-more-3.32.0.tar.xz</sourcefile>
+  <sourcedir>five-or-more-3.32.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiAtLXByZWZpeD0vdXNy</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgee</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>librsvg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgnome-games-support</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>lmdb</code>
+  <sourcefile>LMDB_0.9.22.tar.gz</sourcefile>
+  <sourcedir>lmdb-LMDB_0.9.22</sourcedir>
+  <unpack/>
+  <configure>Y2QgbGlicmFyaWVzL2xpYmxtZGI=</configure>
+  <build/>
+  <install>c2VkIC1pICdzfCBsaWJsbWRiLmF8fCcgTWFrZWZpbGUNCm1ha2UgcHJlZml4PS91c3IgaW5zdGFsbA0K</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

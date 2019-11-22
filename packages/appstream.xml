@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>appstream</code>
+  <sourcefile>AppStream-0.12.9.tar.xz</sourcefile>
+  <sourcedir>AppStream-0.12.9</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiAtLXByZWZpeD0vdXNy</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>lmdb</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libstemmer</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

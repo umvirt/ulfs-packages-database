@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libmanette</code>
+  <sourcefile>libmanette-0.2.3.tar.bz2</sourcefile>
+  <sourcedir>libmanette-0.2.3</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIC0tcHJlZml4PS91c3I=</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

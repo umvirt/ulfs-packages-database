@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libgnome-games-support</code>
+  <sourcefile>libgnome-games-support-1.4.4.tar.xz</sourcefile>
+  <sourcedir>libgnome-games-support-1.4.4</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgee</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgames-support</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
