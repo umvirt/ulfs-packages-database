@@ -21,6 +21,10 @@
       <code>nss</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>openjpeg</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
