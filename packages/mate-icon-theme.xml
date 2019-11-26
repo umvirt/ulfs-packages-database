@@ -8,7 +8,16 @@
   <configure/>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>mate-desktop</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gnome-icon-theme-symbolic</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

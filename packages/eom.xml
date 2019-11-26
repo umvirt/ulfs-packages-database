@@ -8,7 +8,20 @@
   <configure/>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpeas</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>librsvg</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

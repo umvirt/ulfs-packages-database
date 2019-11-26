@@ -18,6 +18,14 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>desktop-file-utils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>librsvg</code>
       <weight>0</weight>
     </dependance>

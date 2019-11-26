@@ -13,6 +13,10 @@
       <code>zenity</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>libcanberra</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

@@ -26,6 +26,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libjpeg-turbo</code>
       <weight>0</weight>
     </dependance>

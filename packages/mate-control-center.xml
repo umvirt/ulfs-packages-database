@@ -10,7 +10,23 @@
   <install/>
   <dependances>
     <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dbus-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>desktop-file-utils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>mate-menus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libmarco</code>
       <weight>0</weight>
     </dependance>
     <dependance>

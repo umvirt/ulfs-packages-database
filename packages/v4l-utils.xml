@@ -22,10 +22,6 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>qt5</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>SDL2</code>
       <weight>0</weight>
     </dependance>

@@ -736,5 +736,6 @@
     <package>gnome-chess</package>
     <package>gnuchess</package>
     <package>GAMES-GNOME</package>
+    <package>MATE</package>
   </packages>
 </packages>

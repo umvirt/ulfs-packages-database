@@ -14,10 +14,6 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>inkscape</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>librsvg</code>
       <weight>0</weight>
     </dependance>

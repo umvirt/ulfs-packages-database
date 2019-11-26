@@ -10,6 +10,10 @@
   <install/>
   <dependances>
     <dependance>
+      <code>gtksourceview</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>mate-panel</code>
       <weight>0</weight>
     </dependance>

@@ -10,6 +10,14 @@
   <install/>
   <dependances>
     <dependance>
+      <code>libsecret</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>poppler</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>caja</code>
       <weight>0</weight>
     </dependance>

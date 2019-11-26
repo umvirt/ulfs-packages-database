@@ -8,7 +8,16 @@
   <configure/>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>python-pygobject</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mate-menus</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
