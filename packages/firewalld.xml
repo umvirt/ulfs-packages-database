@@ -21,6 +21,10 @@
       <code>ipset</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>python-slip</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

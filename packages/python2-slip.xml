@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python2-slip</code>
+  <sourcefile>python-slip-0.6.5.tar.bz2</sourcefile>
+  <sourcedir>python-slip-0.6.5</sourcedir>
+  <unpack>c2VkICdzL0BWRVJTSU9OQC8wLjYuNS8nIHNldHVwLnB5LmluID4gc2V0dXAucHkgJiYNCnB5dGhvbjIgc2V0dXAucHkgYnVpbGQ=</unpack>
+  <configure>cHl0aG9uMiBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>python2-dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python2-decorator</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

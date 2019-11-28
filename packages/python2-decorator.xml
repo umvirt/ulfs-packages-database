@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python2-decorator</code>
+  <sourcefile>decorator-4.4.1.tar.gz</sourcefile>
+  <sourcedir>decorator-4.4.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uIHNldHVwLnB5IGJ1aWxkDQo=</build>
+  <install>cHl0aG9uIHNldHVwLnB5IGluc3RhbGwgLS1vcHRpbWl6ZT0x</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

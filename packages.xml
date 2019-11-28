@@ -737,5 +737,14 @@
     <package>gnuchess</package>
     <package>GAMES-GNOME</package>
     <package>MATE</package>
+    <package>python3-dbus</package>
+    <package>python2-dbus</package>
+    <package>python-dbus</package>
+    <package>python3-decorator</package>
+    <package>python2-decorator</package>
+    <package>python-decorator</package>
+    <package>python3-slip</package>
+    <package>python2-slip</package>
+    <package>python-slip</package>
   </packages>
 </packages>
