@@ -746,5 +746,6 @@
     <package>python3-slip</package>
     <package>python2-slip</package>
     <package>python-slip</package>
+    <package>rsync</package>
   </packages>
 </packages>
