@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>nftables</code>
-  <sourcefile>nftables-0.9.0.tar.bz2</sourcefile>
-  <sourcedir>nftables-0.9.0</sourcedir>
+  <code>spice-gtk</code>
+  <sourcefile>spice-gtk-0.36.tar.bz2</sourcefile>
+  <sourcedir>spice-gtk-0.36</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLWRpc2FibGUtbWFuLWRvYw==</configure>
+  <configure/>
   <build/>
   <install/>
   <dependances>
     <dependance>
-      <code>asciidoc</code>
+      <code>spice-protocol</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>docbook2x</code>
+      <code>X</code>
       <weight>0</weight>
     </dependance>
   </dependances>

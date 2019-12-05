@@ -747,5 +747,14 @@
     <package>python2-slip</package>
     <package>python-slip</package>
     <package>rsync</package>
+    <package>beep</package>
+    <package>tlog</package>
+    <package>docbook2x</package>
+    <package>perl-XML-SAX</package>
+    <package>perl-XML-SAX-Base</package>
+    <package>perl-XML-NamespaceSupport</package>
+    <package>bridge-utils</package>
+    <package>spice-gtk</package>
+    <package>virt-viewer</package>
   </packages>
 </packages>

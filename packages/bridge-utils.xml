@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>bridge-utils</code>
+  <sourcefile>bridge-utils-1.6.tar.xz</sourcefile>
+  <sourcedir>bridge-utils-1.6</sourcedir>
+  <unpack/>
+  <configure>YXV0b2NvbmYgICAgICAgICAgICAgICAgICANCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

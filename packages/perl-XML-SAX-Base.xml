@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-XML-SAX-Base</code>
+  <sourcefile>XML-SAX-Base-1.09.tar.gz</sourcefile>
+  <sourcedir>XML-SAX-Base-1.09</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

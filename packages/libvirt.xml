@@ -14,7 +14,15 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>qemu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libnl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lxc</code>
       <weight>0</weight>
     </dependance>
     <dependance>
@@ -23,6 +31,14 @@
     </dependance>
     <dependance>
       <code>yajl2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>firewalld</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>bridge-utils</code>
       <weight>0</weight>
     </dependance>
   </dependances>

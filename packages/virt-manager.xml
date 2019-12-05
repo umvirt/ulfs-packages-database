@@ -33,6 +33,14 @@
       <code>python3-requests</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>gtk-vnc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>spice-gtk</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
