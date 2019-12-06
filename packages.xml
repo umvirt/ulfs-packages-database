@@ -756,5 +756,6 @@
     <package>bridge-utils</package>
     <package>spice-gtk</package>
     <package>virt-viewer</package>
+    <package>mesa-demos</package>
   </packages>
 </packages>

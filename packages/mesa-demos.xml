@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>mesa-demos</code>
+  <sourcefile>mesa-demos-8.4.0.tar.bz2</sourcefile>
+  <sourcedir>mesa-demos-8.4.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>mesa</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>freeglut</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glew</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
