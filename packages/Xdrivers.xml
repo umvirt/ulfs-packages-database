@@ -41,6 +41,10 @@
       <code>xf86-video-vmware</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>xf86-video-vboxvideo</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

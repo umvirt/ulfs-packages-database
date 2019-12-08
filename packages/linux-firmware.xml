@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>linux-firmware</code>
+  <sourcefile>linux-firmware-20191022.tar.gz</sourcefile>
+  <sourcedir>linux-firmware-20191022</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWtkaXIgLXYgL2xpYi9maXJtd2FyZQ0KY3AgLXJ2ZiAqIC9saWIvZmlybXdhcmUv</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

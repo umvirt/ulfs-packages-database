@@ -757,5 +757,11 @@
     <package>spice-gtk</package>
     <package>virt-viewer</package>
     <package>mesa-demos</package>
+    <package>xf86-video-amdgpu</package>
+    <package>xf86-video-ati</package>
+    <package>xf86-video-nouveau</package>
+    <package>xf86-video-vboxvideo</package>
+    <package>linux-firmware</package>
+    <package>xf86-video-intel</package>
   </packages>
 </packages>

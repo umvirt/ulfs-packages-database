@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>xf86-video-amdgpu</code>
+  <sourcefile>xf86-video-amdgpu-19.0.1.tar.bz2</sourcefile>
+  <sourcedir>xf86-video-amdgpu-19.0.1</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>xorg-server</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>linux-firmware</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

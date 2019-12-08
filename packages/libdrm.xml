@@ -2,8 +2,8 @@
 <package>
   <release>0.1</release>
   <code>libdrm</code>
-  <sourcefile>libdrm-2.4.93.tar.bz2</sourcefile>
-  <sourcedir>libdrm-2.4.93</sourcedir>
+  <sourcefile>libdrm-2.4.99.tar.bz2</sourcefile>
+  <sourcedir>libdrm-2.4.99</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAtRHVkZXY9dHJ1ZQ0K</configure>
   <build>bmluamE=</build>
