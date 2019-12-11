@@ -763,5 +763,12 @@
     <package>xf86-video-vboxvideo</package>
     <package>linux-firmware</package>
     <package>xf86-video-intel</package>
+    <package>obs-studio</package>
+    <package>jansson</package>
+    <package>speex</package>
+    <package>speexdsp</package>
+    <package>luajit</package>
+    <package>mbedtls</package>
+    <package>swig</package>
   </packages>
 </packages>

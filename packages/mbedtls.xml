@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>mbedtls</code>
+  <sourcefile>mbedtls-2.16.3-apache.tgz</sourcefile>
+  <sourcedir>mbedtls-2.16.3</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYgY2QgYnVpbGQNCmNtYWtlIC1EVVNFX1NIQVJFRF9NQkVEVExTX0xJQlJBUlk9T24gXA0KLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
