@@ -17,6 +17,10 @@
       <code>upower</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>libgnome-keyring</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

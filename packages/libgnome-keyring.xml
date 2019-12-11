@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>gnome-keyring-sharp1</code>
-  <sourcefile>gnome-keyring-sharp-1.0.0.tar.gz</sourcefile>
-  <sourcedir>gnome-keyring-sharp-1.0.0</sourcedir>
+  <code>libgnome-keyring</code>
+  <sourcefile>libgnome-keyring-3.12.0.tar.xz</sourcefile>
+  <sourcedir>libgnome-keyring-3.12.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

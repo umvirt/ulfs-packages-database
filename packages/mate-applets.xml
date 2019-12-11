@@ -10,6 +10,10 @@
   <install/>
   <dependances>
     <dependance>
+      <code>upower</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>gtksourceview</code>
       <weight>0</weight>
     </dependance>

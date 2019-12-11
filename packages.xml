@@ -708,7 +708,7 @@
     <package>caja-extensions</package>
     <package>engrampa</package>
     <package>eom</package>
-    <package>gnome-keyring-sharp1</package>
+    <package>libgnome-keyring</package>
     <package>PyQt5</package>
     <package>PyQt-builder</package>
     <package>chrpath</package>
