@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>tor</code>
+  <sourcefile>tor-0.4.2.5.tar.gz</sourcefile>
+  <sourcedir>tor-0.4.2.5</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLXdpdGgtdG9yLXVzZXI9dG9yIC0td2l0aC10b3ItZ3JvdXA9dG9yIC0tbG9jYWxzdGF0ZWRpcj0vdmFyIC0tZW5hYmxlLXN5c3RlbWQ=</configure>
+  <build/>
+  <install>I2FkZCBncm91cA0KZ3JvdXBhZGQgLWZnIDEzNSB0b3IgJiYNCg0KI2FkZCB1c2VyDQp1c2VyYWRkIC1jICJUb3IgRGFlbW9uIE93bmVyIiAtZCAvdmFyL3J1bi90b3IgLXUgMTM1IFwNCiAgICAgICAgLWcgdG9yIC1zIC9iaW4vZmFsc2UgdG9yDQoNCiNpbnN0YWxsIGZpbGVzDQptYWtlIGluc3RhbGwNCg0KI2luc3RhbGwgc2VydmljZQ0KY2F0ID4gL3Vzci9saWIvc3lzdGVtZC9zeXN0ZW0vdG9yLnNlcnZpY2UgPDwgIkVPRiINCltVbml0XQ0KRGVzY3JpcHRpb249QW5vbnltaXppbmcgT3ZlcmxheSBOZXR3b3JrDQpBZnRlcj1uZXR3b3JrLnRhcmdldA0KDQpbU2VydmljZV0NClR5cGU9c2ltcGxlDQpVc2VyPXRvcg0KRXhlY1N0YXJ0PS91c3IvYmluL3Rvcg0KRXhlY1JlbG9hZD0vYmluL2tpbGwgLUhVUCAkTUFJTlBJRA0KS2lsbFNpZ25hbD1TSUdJTlQNClJ1bnRpbWVEaXJlY3Rvcnk9dG9yDQpbSW5zdGFsbF0NCldhbnRlZEJ5PW11bHRpLXVzZXIudGFyZ2V0DQoNCkVPRg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

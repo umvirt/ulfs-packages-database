@@ -770,5 +770,7 @@
     <package>luajit</package>
     <package>mbedtls</package>
     <package>swig</package>
+    <package>tor</package>
+    <package>polipo</package>
   </packages>
 </packages>
