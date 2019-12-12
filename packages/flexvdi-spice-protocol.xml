@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>flexvdi-spice-protocol</code>
+  <sourcefile>flexvdi-spice-protocol-72c160f1e745bdfeb59f449fa4e701981630d330.tar.xz</sourcefile>
+  <sourcedir>flexvdi-spice-protocol-72c160f1e745bdfeb59f449fa4e701981630d330</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoIA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

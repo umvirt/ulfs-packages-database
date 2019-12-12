@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>flexvdi-vdagent</code>
+  <sourcefile>flexvdi-vdagent-c96401be6de35ec4dca5359d04dc0bc6dc9340bf.tar.xz</sourcefile>
+  <sourcedir>flexvdi-vdagent-c96401be6de35ec4dca5359d04dc0bc6dc9340bf</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCi0tc3lzY29uZmRpcj0vZXRjIFwNCi0td2l0aC1pbml0LXNjcmlwdD1zeXN0ZW1kIFwNCi0tc3lzY29uZmRpcj0vZXRjIFwNCi0tbG9jYWxzdGF0ZWRpcj0vdmFyIFwNCi0td2l0aC1zZXNzaW9uLWluZm89c3lzdGVtZCANCg==</configure>
+  <build/>
+  <install>ZWNobyAiU1BJQ0VfVkRBR0VOVERfRVhUUkFfQVJHUz1cIi1YXCIiID4gL2V0Yy9zeXNjb25maWcvc3BpY2UtdmRhZ2VudGQNCg0KbWFrZSBpbnN0YWxsDQpjcCAtdiBkYXRhL3NwaWNlLXZkYWdlbnQuZGVza3RvcCBldGMveGRnL2F1dG9zdGFydA0KY3AgLXYgZGF0YS9zcGljZS12ZGFnZW50ZC5zZXJ2aWNlIC9ldGMvc3lzdGVtZC9zeXN0ZW0gDQpjcCAtdiBkYXRhL3NwaWNlLXZkYWdlbnRkLnRhcmdldCAvZXRjL3N5c3RlbWQvc3lzdGVtDQoNCnN5c3RlbWN0bCBlbmFibGUgc3BpY2UtdmRhZ2VudGQ=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
