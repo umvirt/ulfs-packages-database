@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>squid</code>
+  <sourcefile>squid-4.9.tar.xz</sourcefile>
+  <sourcedir>squid-4.9</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLWxvY2Fsc3RhdGVkaXI9L3Zhcg==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCiNidWdmaXg6IGVycm9yIHdpdGggYWNjZXNzIGxvZw0KYWNjZXNzX2xvZyBub25lDQoNCmNhdCA+PiAvZXRjL3NxdWlkLmNvbmYgPDwgIkVPRiINCiNidWdmaXg6IGVycm9yIHdpdGggYWNjZXNzIGxvZw0KYWNjZXNzX2xvZyBub25lDQoNCkVPRg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

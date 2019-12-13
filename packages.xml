@@ -777,5 +777,6 @@
     <package>flexvdi-spice</package>
     <package>python2-pyparsing</package>
     <package>flexvdi-spice-gtk</package>
+    <package>squid</package>
   </packages>
 </packages>
