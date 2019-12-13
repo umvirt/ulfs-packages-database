@@ -8,7 +8,16 @@
   <configure>Y2Qgc3VicHJvamVjdHMvc3BpY2UtY29tbW9uLw0KLi9hdXRvZ2VuLnNoDQpjZCAuLi8uLg0KDQouL2F1dG9nZW4uc2gNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMgLS1sb2NhbHN0YXRlZGlyPS92YXIg</configure>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>flexvdi-spice-protocol</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python2-pyparsing</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
