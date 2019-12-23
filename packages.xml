@@ -778,5 +778,8 @@
     <package>python2-pyparsing</package>
     <package>flexvdi-spice-gtk</package>
     <package>squid</package>
+    <package>pigz</package>
+    <package>parallel</package>
+    <package>fcron</package>
   </packages>
 </packages>

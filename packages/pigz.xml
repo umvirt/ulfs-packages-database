@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>pigz</code>
+  <sourcefile>pigz-2.4.tar.gz</sourcefile>
+  <sourcedir>pigz-2.4</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZQ==</build>
+  <install>aW5zdGFsbCAtdiAtbTc1NSBwaWd6IC91c3IvYmluDQppbnN0YWxsIC12IC1tNzU1IHVucGlneiAvdXNyL2Jpbg0K</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
