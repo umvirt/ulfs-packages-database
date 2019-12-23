@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>dhcpcd</code>
+  <sourcefile>dhcpcd-7.0.7.tar.xz</sourcefile>
+  <sourcedir>dhcpcd-7.0.7</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1saWJleGVjZGlyPS9saWIvZGhjcGNkIFwNCiAgICAgICAgICAgIC0tZGJkaXI9L3Zhci9saWIvZGhjcGNk</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>llvm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

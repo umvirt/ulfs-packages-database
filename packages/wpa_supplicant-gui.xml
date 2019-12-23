@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>wpa_supplicant-gui</code>
+  <sourcefile>wpa_supplicant-2.6.tar.gz</sourcefile>
+  <sourcedir>wpa_supplicant-2.6</sourcedir>
+  <unpack/>
+  <configure>Y2Qgd3BhX3N1cHBsaWNhbnQvd3BhX2d1aS1xdDQNCnFtYWtlIHdwYV9ndWkucHJv</configure>
+  <build/>
+  <install>aW5zdGFsbCAtdiAtbTc1NSB3cGFfZ3VpIC91c3IvYmluLyAmJg0KaW5zdGFsbCAtdiAtbTY0NCB3cGFfZ3VpLmRlc2t0b3AgL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvICYmDQppbnN0YWxsIC12IC1tNjQ0IGljb25zL3dwYV9ndWkuc3ZnIC91c3Ivc2hhcmUvcGl4bWFwcy8=</install>
+  <dependances>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wpa_supplicant</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

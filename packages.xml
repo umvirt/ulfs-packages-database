@@ -781,5 +781,11 @@
     <package>pigz</package>
     <package>parallel</package>
     <package>fcron</package>
+    <package>wpa_supplicant</package>
+    <package>wpa_supplicant-gui</package>
+    <package>NetworkManager</package>
+    <package>libndp</package>
+    <package>dhcpcd</package>
+    <package>network-manager-applet</package>
   </packages>
 </packages>
