@@ -16,5 +16,7 @@
   </dependances>
   <patches/>
   <addons/>
-  <nestings/>
+  <nestings>
+    <nesting>spice-gtk</nesting>
+  </nestings>
 </package>

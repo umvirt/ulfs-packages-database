@@ -11,5 +11,7 @@
   <dependances/>
   <patches/>
   <addons/>
-  <nestings/>
+  <nestings>
+    <nesting>spice-protocol</nesting>
+  </nestings>
 </package>

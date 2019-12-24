@@ -20,5 +20,7 @@
   </dependances>
   <patches/>
   <addons/>
-  <nestings/>
+  <nestings>
+    <nesting>spice-server</nesting>
+  </nestings>
 </package>
