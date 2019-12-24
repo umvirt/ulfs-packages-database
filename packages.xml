@@ -787,5 +787,6 @@
     <package>libndp</package>
     <package>dhcpcd</package>
     <package>network-manager-applet</package>
+    <package>cpufrequtils</package>
   </packages>
 </packages>

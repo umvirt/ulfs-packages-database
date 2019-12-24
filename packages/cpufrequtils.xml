@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cpufrequtils</code>
+  <sourcefile>cpufrequtils-008.tar.xz</sourcefile>
+  <sourcedir>cpufrequtils-008</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
