@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cifs-utils-pam</code>
+  <sourcefile>cifs-utils-6.8.tar.bz2</sourcefile>
+  <sourcedir>cifs-utils-6.8</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtcGFtZGlyPS9saWIvc2VjdXJpdHk=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>samba</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>talloc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>keyutils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

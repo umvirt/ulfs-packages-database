@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>keyutils</code>
+  <sourcefile>keyutils-1.5.10.tar.bz2</sourcefile>
+  <sourcedir>keyutils-1.5.10</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZQ==</build>
+  <install>bWFrZSBOT19BUkxJQj0xIGluc3RhbGw=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

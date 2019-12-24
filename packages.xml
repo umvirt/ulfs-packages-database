@@ -788,5 +788,16 @@
     <package>dhcpcd</package>
     <package>network-manager-applet</package>
     <package>cpufrequtils</package>
+    <package>rpcbind</package>
+    <package>libnfsidmap</package>
+    <package>nfs-utils</package>
+    <package>samba</package>
+    <package>python2-pycrypto</package>
+    <package>python3-pycrypto</package>
+    <package>python-pycrypto</package>
+    <package>talloc</package>
+    <package>cifs-utils</package>
+    <package>keyutils</package>
+    <package>cifs-utils-pam</package>
   </packages>
 </packages>

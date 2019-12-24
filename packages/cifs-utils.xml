@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cifs-utils</code>
+  <sourcefile>cifs-utils-6.8.tar.bz2</sourcefile>
+  <sourcedir>cifs-utils-6.8</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRpc2FibGUtcGFt</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>samba</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>talloc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
