@@ -799,5 +799,11 @@
     <package>cifs-utils</package>
     <package>keyutils</package>
     <package>cifs-utils-pam</package>
+    <package>erlang</package>
+    <package>ejabberd</package>
+    <package>psi</package>
+    <package>qca</package>
+    <package>nextcloud-client</package>
+    <package>qtkeychain</package>
   </packages>
 </packages>

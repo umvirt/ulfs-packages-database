@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>nextcloud-client</code>
+  <sourcefile>nextcloud-desktop-2.6.2.tar.gz</sourcefile>
+  <sourcedir>desktop-2.6.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC4uIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAtRE5PX1NISUJCT0xFVEg9MQ==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+PiAvZXRjL2xkLnNvLmNvbmYgPDwgRU9GDQojIEJlZ2luIFF0IGFkZGl0aW9uDQoNCi9vcHQvbmV4dGNsb3VkL2xpYjY0DQoNCiMgRW5kIFF0IGFkZGl0aW9uDQpFT0YNCg0KbGRjb25maWcNCg0KY2F0ID4gL2V0Yy9wcm9maWxlLmQvbmV4dGNsb3VkLnNoIDw8ICJFT0YiDQojIEJlZ2luIC9ldGMvcHJvZmlsZS5kL25leHRjbG91ZC5zaA0KDQpORVhUQ0xPVURESVI9L29wdC9uZXh0Y2xvdWQNCg0KcGF0aGFwcGVuZCBcJE5FWFRDTE9VRERJUi9iaW4gICAgICAgICAgIFBBVEgNCg0KIyBFbmQgL2V0Yy9wcm9maWxlLmQvbmV4dGNsb3VkLnNoDQpFT0YNCg0KLiAvZXRjL3Byb2ZpbGU=</install>
+  <dependances>
+    <dependance>
+      <code>qtwebengine</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qtkeychain</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>

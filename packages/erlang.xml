@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>erlang</code>
+  <sourcefile>otp_src_22.1.tar.gz</sourcefile>
+  <sourcedir>otp_src_22.1</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS13aXRob3V0LWphdmFjIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+</package>
