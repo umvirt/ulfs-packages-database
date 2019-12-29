@@ -2,8 +2,8 @@
 <package>
   <release>0.1</release>
   <code>qtwebengine</code>
-  <sourcefile>qtwebengine-everywhere-src-5.11.1.tar.xz</sourcefile>
-  <sourcedir>qtwebengine-everywhere-src-5.11.1</sourcedir>
+  <sourcefile>qtwebengine-everywhere-src-5.13.2.tar.xz</sourcefile>
+  <sourcedir>qtwebengine-everywhere-src-5.13.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCnFtYWtlIC4uICA=</configure>
   <build/>
