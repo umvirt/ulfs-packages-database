@@ -805,5 +805,7 @@
     <package>qca</package>
     <package>nextcloud-client</package>
     <package>qtkeychain</package>
+    <package>extra-cmake-modules</package>
+    <package>otter-browser</package>
   </packages>
 </packages>
