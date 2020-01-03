@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>FreeCAD</code>
+  <description>RXh0ZW5zaWJsZSBPcGVuIFNvdXJjZSBDQXggcHJvZ3JhbQ==</description>
   <sourcefile>FreeCAD-0.18.tar.gz</sourcefile>
   <sourcedir>FreeCAD-0.18</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libdvdnav</code>
+  <description>ICBsaWJkdmRuYXYgaXMgYSBsaWJyYXJ5IHRoYXQgYWxsb3dzIGVhc3kgdXNlIG9mIHNvcGhpc3RpY2F0ZWQgRFZEIG5hdmlnYXRpb24gZmVhdHVyZXMgc3VjaCBhcyBEVkQgbWVudXMsIG11bHRpYW5nbGUgcGxheWJhY2sgYW5kIGV2ZW4gaW50ZXJhY3RpdmUgRFZEIGdhbWVzLiA=</description>
   <sourcefile>libdvdnav-6.0.0.tar.bz2</sourcefile>
   <sourcedir>libdvdnav-6.0.0</sourcedir>
   <unpack/>

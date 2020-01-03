@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libunistring</code>
+  <description>IGxpYnVuaXN0cmluZyBpcyBhIGxpYnJhcnkgdGhhdCBwcm92aWRlcyBmdW5jdGlvbnMgZm9yIG1hbmlwdWxhdGluZyBVbmljb2RlIHN0cmluZ3MgYW5kIGZvciBtYW5pcHVsYXRpbmcgQyBzdHJpbmdzIGFjY29yZGluZyB0byB0aGUgVW5pY29kZSBzdGFuZGFyZC4=</description>
   <sourcefile>libunistring-0.9.10.tar.xz</sourcefile>
   <sourcedir>libunistring-0.9.10</sourcedir>
   <unpack/>

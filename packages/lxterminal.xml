@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxterminal</code>
+  <description>VGhlIExYVGVybWluYWwgcGFja2FnZSBjb250YWlucyBhIFZURS1iYXNlZCB0ZXJtaW5hbCBlbXVsYXRvciBmb3IgTFhERSB3aXRoIHN1cHBvcnQgZm9yIG11bHRpcGxlIHRhYnMuIA==</description>
   <sourcefile>lxterminal-0.3.1.tar.xz</sourcefile>
   <sourcedir>lxterminal-0.3.1</sourcedir>
   <unpack/>

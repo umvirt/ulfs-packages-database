@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libsndfile</code>
+  <description>TGlic25kZmlsZSBpcyBhIGxpYnJhcnkgb2YgQyByb3V0aW5lcyBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBmaWxlcyBjb250YWluaW5nIHNhbXBsZWQgYXVkaW8gZGF0YS4g</description>
   <sourcefile>libsndfile-1.0.28.tar.gz</sourcefile>
   <sourcedir>libsndfile-1.0.28</sourcedir>
   <unpack/>

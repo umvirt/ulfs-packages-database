@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>blfs-systemd-units</code>
+  <description>VGhlIEJMRlMgU3lzdGVtZCBVbml0cyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBzeXN0ZW1kIHVuaXQgZmlsZXMgdGhhdCBhcmUgdXNlZCB0aHJvdWdob3V0IHRoZSBCTEZTIGJvb2suIA==</description>
   <sourcefile>blfs-systemd-units-20180105.tar.bz2</sourcefile>
   <sourcedir>blfs-systemd-units-20180105</sourcedir>
   <unpack/>

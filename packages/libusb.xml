@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libusb</code>
+  <description>ICBUaGUgbGlidXNiIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHVzZWQgYnkgc29tZSBhcHBsaWNhdGlvbnMgZm9yIFVTQiBkZXZpY2UgYWNjZXNzLiA=</description>
   <sourcefile>libusb-1.0.22.tar.bz2</sourcefile>
   <sourcedir>libusb-1.0.22</sourcedir>
   <unpack/>

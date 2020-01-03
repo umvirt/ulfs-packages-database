@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>openjdk</code>
+  <description>IE9wZW5KREsgaXMgYW4gb3Blbi1zb3VyY2UgaW1wbGVtZW50YXRpb24gb2YgT3JhY2xlJ3MgSmF2YSBTdGFuZGFyZCBFZGl0aW9uIHBsYXRmb3JtLiBPcGVuSkRLIGlzIHVzZWZ1bCBmb3IgZGV2ZWxvcGluZyBKYXZhIHByb2dyYW1zLCBhbmQgcHJvdmlkZXMgYSBjb21wbGV0ZSBydW50aW1lIGVudmlyb25tZW50IHRvIHJ1biBKYXZhIHByb2dyYW1zLg==</description>
   <sourcefile>openjdk-11-1ddf9a99e4ad.tar.bz2</sourcefile>
   <sourcedir>jdk11-1ddf9a99e4ad</sourcedir>
   <unpack/>

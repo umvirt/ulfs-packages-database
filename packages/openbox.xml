@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>openbox</code>
+  <description>T3BlbmJveCBpcyBhIGhpZ2hseSBjb25maWd1cmFibGUgZGVza3RvcCB3aW5kb3cgbWFuYWdlciB3aXRoIGV4dGVuc2l2ZSBzdGFuZGFyZHMgc3VwcG9ydC4gSXQgYWxsb3dzIHlvdSB0byBjb250cm9sIGFsbW9zdCBldmVyeSBhc3BlY3Qgb2YgaG93IHlvdSBpbnRlcmFjdCB3aXRoIHlvdXIgZGVza3RvcC4g</description>
   <sourcefile>openbox-3.6.1.tar.gz</sourcefile>
   <sourcedir>openbox-3.6.1</sourcedir>
   <unpack/>

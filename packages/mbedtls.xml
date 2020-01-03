@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mbedtls</code>
+  <description>TGlnaHR3ZWlnaHQgY3J5cHRvIGFuZCBTU0wvVExTIGxpYnJhcnku</description>
   <sourcefile>mbedtls-2.16.3-apache.tgz</sourcefile>
   <sourcedir>mbedtls-2.16.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>slang</code>
+  <description>Uy1MYW5nIChzbGFuZykgaXMgYW4gaW50ZXJwcmV0ZWQgbGFuZ3VhZ2UgdGhhdCBtYXkgYmUgZW1iZWRkZWQgaW50byBhbiBhcHBsaWNhdGlvbiB0byBtYWtlIHRoZSBhcHBsaWNhdGlvbiBleHRlbnNpYmxlLiBJdCBwcm92aWRlcyBmYWNpbGl0aWVzIHJlcXVpcmVkIGJ5IGludGVyYWN0aXZlIGFwcGxpY2F0aW9ucyBzdWNoIGFzIGRpc3BsYXkvc2NyZWVuIG1hbmFnZW1lbnQsIGtleWJvYXJkIGlucHV0IGFuZCBrZXltYXBzLiA=</description>
   <sourcefile>slang-2.3.2.tar.bz2</sourcefile>
   <sourcedir>slang-2.3.2</sourcedir>
   <unpack/>

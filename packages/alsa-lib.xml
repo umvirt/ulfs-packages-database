@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>alsa-lib</code>
+  <description>VGhlIEFMU0EgTGlicmFyeSBwYWNrYWdlIGNvbnRhaW5zIHRoZSBBTFNBIGxpYnJhcnkgdXNlZCBieSBwcm9ncmFtcyAoaW5jbHVkaW5nIEFMU0EgVXRpbGl0aWVzKSByZXF1aXJpbmcgYWNjZXNzIHRvIHRoZSBBTFNBIHNvdW5kIGludGVyZmFjZS4g</description>
   <sourcefile>alsa-lib-1.1.6.tar.bz2</sourcefile>
   <sourcedir>alsa-lib-1.1.6</sourcedir>
   <unpack/>

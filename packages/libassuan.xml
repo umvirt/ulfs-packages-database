@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libassuan</code>
+  <description>IFRoZSBsaWJhc3N1YW4gcGFja2FnZSBjb250YWlucyBhbiBpbnRlciBwcm9jZXNzIGNvbW11bmljYXRpb24gbGlicmFyeSB1c2VkIGJ5IHNvbWUgb2YgdGhlIG90aGVyIEdudVBHIHJlbGF0ZWQgcGFja2FnZXMuIGxpYmFzc3VhbidzIHByaW1hcnkgdXNlIGlzIHRvIGFsbG93IGEgY2xpZW50IHRvIGludGVyYWN0IHdpdGggYSBub24tcGVyc2lzdGVudCBzZXJ2ZXIuIGxpYmFzc3VhbiBpcyBub3QsIGhvd2V2ZXIsIGxpbWl0ZWQgdG8gdXNlIHdpdGggR251UEcgc2VydmVycyBhbmQgY2xpZW50cy4gSXQgd2FzIGRlc2lnbmVkIHRvIGJlIGZsZXhpYmxlIGVub3VnaCB0byBtZWV0IHRoZSBkZW1hbmRzIG9mIG1hbnkgdHJhbnNhY3Rpb24gYmFzZWQgZW52aXJvbm1lbnRzIHdpdGggbm9uLXBlcnNpc3RlbnQgc2VydmVycy4g</description>
   <sourcefile>libassuan-2.5.1.tar.bz2</sourcefile>
   <sourcedir>libassuan-2.5.1</sourcedir>
   <unpack/>

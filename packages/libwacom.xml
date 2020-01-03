@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libwacom</code>
+  <description>ICBUaGUgbGlid2Fjb20gcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCB0byBpZGVudGlmeSB3YWNvbSB0YWJsZXRzIGFuZCB0aGVpciBtb2RlbC1zcGVjaWZpYyBmZWF0dXJlcy4g</description>
   <sourcefile>libwacom-0.29.tar.bz2</sourcefile>
   <sourcedir>libwacom-0.29</sourcedir>
   <unpack/>

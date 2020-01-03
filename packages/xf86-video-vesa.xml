@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-video-vesa</code>
+  <description>VGhlIFhvcmcgVkVTQSBkcml2ZXI=</description>
   <sourcefile>xf86-video-vesa-2.3.3.tar.bz2</sourcefile>
   <sourcedir>xf86-video-vesa-2.3.3</sourcedir>
   <unpack/>

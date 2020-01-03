@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>yaml</code>
+  <description>ICBUaGUgWUFNTCBwYWNrYWdlIGNvbnRhaW5zIGEgQyBsaWJyYXJ5IGZvciBwYXJzaW5nIGFuZCBlbWl0dGluZyBZQU1MIChZQU1MIEFpbid0IE1hcmt1cCBMYW5ndWFnZSkuIA==</description>
   <sourcefile>yaml-0.2.1.tar.gz</sourcefile>
   <sourcedir>yaml-0.2.1</sourcedir>
   <unpack/>

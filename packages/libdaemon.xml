@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libdaemon</code>
+  <description>IFRoZSBsaWJkYWVtb24gcGFja2FnZSBpcyBhIGxpZ2h0d2VpZ2h0IEMgbGlicmFyeSB0aGF0IGVhc2VzIHRoZSB3cml0aW5nIG9mIFVOSVggZGFlbW9ucy4g</description>
   <sourcefile>libdaemon-0.14.tar.gz</sourcefile>
   <sourcedir>libdaemon-0.14</sourcedir>
   <unpack/>

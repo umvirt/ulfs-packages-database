@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>soundtouch</code>
+  <description>IFRoZSBTb3VuZFRvdWNoIHBhY2thZ2UgY29udGFpbnMgYW4gb3Blbi1zb3VyY2UgYXVkaW8gcHJvY2Vzc2luZyBsaWJyYXJ5IHRoYXQgYWxsb3dzIGNoYW5naW5nIHRoZSBzb3VuZCB0ZW1wbywgcGl0Y2ggYW5kIHBsYXliYWNrIHJhdGUgcGFyYW1ldGVycyBpbmRlcGVuZGVudGx5IGZyb20gZWFjaCBvdGhlci4=</description>
   <sourcefile>soundtouch-1.7.1.tar.gz</sourcefile>
   <sourcedir>soundtouch</sourcedir>
   <unpack/>

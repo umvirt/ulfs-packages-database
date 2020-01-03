@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pv</code>
+  <description>U2hlbGwgcGlwZWxpbmUgZWxlbWVudCB0byBtZXRlciBkYXRhIHBhc3NpbmcgdGhyb3VnaA==</description>
   <sourcefile>pv-1.6.6.tar.bz2</sourcefile>
   <sourcedir>pv-1.6.6</sourcedir>
   <unpack/>

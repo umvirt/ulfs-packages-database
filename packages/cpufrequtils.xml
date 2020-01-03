@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cpufrequtils</code>
+  <description>IHV0aWxpdGllcyB0byBkZWFsIHdpdGggdGhlIGNwdWZyZXEgTGludXgga2VybmVsIGZlYXR1cmUu</description>
   <sourcefile>cpufrequtils-008.tar.xz</sourcefile>
   <sourcedir>cpufrequtils-008</sourcedir>
   <unpack/>

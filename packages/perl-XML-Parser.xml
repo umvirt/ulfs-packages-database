@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>perl-XML-Parser</code>
+  <description>WE1MOjpQYXJzZXIgLSBBIHBlcmwgbW9kdWxlIGZvciBwYXJzaW5nIFhNTCBkb2N1bWVudHM=</description>
   <sourcefile>XML-Parser-2.41.tar.gz</sourcefile>
   <sourcedir>XML-Parser-2.41</sourcedir>
   <unpack/>

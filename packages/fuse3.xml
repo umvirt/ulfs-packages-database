@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fuse3</code>
+  <description>RlVTRSAoRmlsZXN5c3RlbSBpbiBVc2Vyc3BhY2UpIGlzIGEgc2ltcGxlIGludGVyZmFjZSBmb3IgdXNlcnNwYWNlIHByb2dyYW1zIHRvIGV4cG9ydCBhIHZpcnR1YWwgZmlsZXN5c3RlbSB0byB0aGUgTGludXgga2VybmVsLiBGdXNlIGFsc28gYWltcyB0byBwcm92aWRlIGEgc2VjdXJlIG1ldGhvZCBmb3Igbm9uIHByaXZpbGVnZWQgdXNlcnMgdG8gY3JlYXRlIGFuZCBtb3VudCB0aGVpciBvd24gZmlsZXN5c3RlbSBpbXBsZW1lbnRhdGlvbnMuIA==</description>
   <sourcefile>fuse-3.2.5.tar.xz</sourcefile>
   <sourcedir>fuse-3.2.5</sourcedir>
   <unpack/>

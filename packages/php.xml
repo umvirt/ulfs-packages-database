@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>php</code>
+  <description>UEhQIGlzIHRoZSBQSFAgSHlwZXJ0ZXh0IFByZXByb2Nlc3Nvci4gUHJpbWFyaWx5IHVzZWQgaW4gZHluYW1pYyB3ZWIgc2l0ZXMsIGl0IGFsbG93cyBmb3IgcHJvZ3JhbW1pbmcgY29kZSB0byBiZSBkaXJlY3RseSBlbWJlZGRlZCBpbnRvIHRoZSBIVE1MIG1hcmt1cC4gSXQgaXMgYWxzbyB1c2VmdWwgYXMgYSBnZW5lcmFsIHB1cnBvc2Ugc2NyaXB0aW5nIGxhbmd1YWdlLiA=</description>
   <sourcefile>php-7.2.22.tar.bz2</sourcefile>
   <sourcedir>php-7.2.22</sourcedir>
   <unpack/>

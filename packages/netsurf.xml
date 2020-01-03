@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>netsurf</code>
+  <description>U21hbGwgV2ViLWJyb3dzZXI=</description>
   <sourcefile>netsurf-all-3.9.tar.gz</sourcefile>
   <sourcedir>netsurf-all-3.9</sourcedir>
   <unpack/>

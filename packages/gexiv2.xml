@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gexiv2</code>
+  <description>Z2V4aXYyIGlzIGEgR09iamVjdC1iYXNlZCB3cmFwcGVyIGFyb3VuZCB0aGUgRXhpdjIgbGlicmFyeS4g</description>
   <sourcefile>gexiv2-0.10.8.tar.xz</sourcefile>
   <sourcedir>gexiv2-0.10.8</sourcedir>
   <unpack/>

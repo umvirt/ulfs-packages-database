@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>knockd</code>
+  <description>UG9ydCBrbm9ja2VyIGNsaWVudCAmIHNlcnZlcg==</description>
   <sourcefile>knock-0.7.tar.gz</sourcefile>
   <sourcedir>knock-0.7</sourcedir>
   <unpack/>

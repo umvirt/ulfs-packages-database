@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>multipath-tools</code>
+  <description>UGFydGl0aW9uIG1vdW50IG9uIGJsb2NrZGV2aWNlcy4gS3BhcnR4IHRvb2wu</description>
   <sourcefile>multipath-tools-0.8.0.tar.gz</sourcefile>
   <sourcedir>multipath-tools-0.8.0</sourcedir>
   <unpack/>

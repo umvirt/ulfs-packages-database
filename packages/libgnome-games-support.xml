@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgnome-games-support</code>
+  <description>Q29kZSBzaGFyZWQgYmV0d2VlbiBHTk9NRSBnYW1lcy4=</description>
   <sourcefile>libgnome-games-support-1.4.4.tar.xz</sourcefile>
   <sourcedir>libgnome-games-support-1.4.4</sourcedir>
   <unpack/>

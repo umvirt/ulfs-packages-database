@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cups-filters</code>
+  <description>IFRoZSBDVVBTIEZpbHRlcnMgcGFja2FnZSBjb250YWlucyBiYWNrZW5kcywgZmlsdGVycyBhbmQgb3RoZXIgc29mdHdhcmUgdGhhdCB3YXMgb25jZSBwYXJ0IG9mIHRoZSBjb3JlIENVUFMgZGlzdHJpYnV0aW9uIGJ1dCBpcyBubyBsb25nZXIgbWFpbnRhaW5lZCBieSBBcHBsZSBJbmMu</description>
   <sourcefile>cups-filters-1.21.1.tar.xz</sourcefile>
   <sourcedir>cups-filters-1.21.1</sourcedir>
   <unpack/>

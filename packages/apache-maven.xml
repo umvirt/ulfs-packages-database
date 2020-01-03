@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>apache-maven</code>
+  <description>IEFwYWNoZS1NYXZlbiBpcyBhIHRvb2wgdGhhdCBjYW4gYmUgdXNlZCBmb3IgYnVpbGRpbmcgYW5kIG1hbmFnaW5nIGFueSBKYXZhLWJhc2VkIHByb2plY3QuIEJhc2VkIG9uIHRoZSBjb25jZXB0IG9mIGEgcHJvamVjdCBvYmplY3QgbW9kZWwgKFBPTSksIEFwYWNoZS1NYXZlbiBjYW4gbWFuYWdlIGEgcHJvamVjdCdzIGJ1aWxkLCByZXBvcnRpbmcgYW5kIGRvY3VtZW50YXRpb24gZnJvbSBhIGNlbnRyYWwgcGllY2Ugb2YgaW5mb3JtYXRpb24u</description>
   <sourcefile>apache-maven-3.6.1-src.tar.gz</sourcefile>
   <sourcedir>apache-maven-3.6.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>scummvm</code>
+  <description>ZW5naW5lIGZvciBzZXZlcmFsIGdyYXBoaWNhbCBhZHZlbnR1cmUgZ2FtZXM=</description>
   <sourcefile>scummvm-2.0.0.tar.xz</sourcefile>
   <sourcedir>scummvm-2.0.0</sourcedir>
   <unpack/>

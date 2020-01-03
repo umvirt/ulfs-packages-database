@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python2-libxml2</code>
+  <description>VGhlc2UgUHl0aG9uIG1vZHVsZSBwcm92aWRlIHRoZSBQeXRob24yIGJpbmRpbmdzIGZvciBsaWJ4bWwy</description>
   <sourcefile>libxml2-2.9.8.tar.gz</sourcefile>
   <sourcedir>libxml2-2.9.8</sourcedir>
   <unpack/>

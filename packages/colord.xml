@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>colord</code>
+  <description>Q29sb3JkIGlzIGEgc3lzdGVtIHNlcnZpY2UgdGhhdCBtYWtlcyBpdCBlYXN5IHRvIG1hbmFnZSwgaW5zdGFsbCwgYW5kIGdlbmVyYXRlIGNvbG9yIHByb2ZpbGVzLiBJdCBpcyB1c2VkIG1haW5seSBieSBHTk9NRSBDb2xvciBNYW5hZ2VyIGZvciBzeXN0ZW0gaW50ZWdyYXRpb24gYW5kIHVzZSB3aGVuIG5vIHVzZXJzIGFyZSBsb2dnZWQgaW4uIA==</description>
   <sourcefile>colord-1.4.3.tar.xz</sourcefile>
   <sourcedir>colord-1.4.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lcms2</code>
+  <description>ICBUaGUgTGl0dGxlIENNUyBsaWJyYXJ5IGlzIHVzZWQgYnkgb3RoZXIgcHJvZ3JhbXMgdG8gcHJvdmlkZSBjb2xvciBtYW5hZ2VtZW50IGZhY2lsaXRpZXMuIA==</description>
   <sourcefile>lcms2-2.9.tar.gz</sourcefile>
   <sourcedir>lcms2-2.9</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pciutils</code>
+  <description>VGhlIFBDSSBVdGlscyBwYWNrYWdlIGNvbnRhaW5zIGEgc2V0IG9mIHByb2dyYW1zIGZvciBsaXN0aW5nIFBDSSBkZXZpY2VzLCBpbnNwZWN0aW5nIHRoZWlyIHN0YXR1cyBhbmQgc2V0dGluZyB0aGVpciBjb25maWd1cmF0aW9uIHJlZ2lzdGVycy4g</description>
   <sourcefile>pciutils-3.6.2.tar.xz</sourcefile>
   <sourcedir>pciutils-3.6.2</sourcedir>
   <unpack/>

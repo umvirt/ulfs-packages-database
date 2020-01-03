@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgpg-error</code>
+  <description>ICBUaGUgbGliZ3BnLWVycm9yIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHRoYXQgZGVmaW5lcyBjb21tb24gZXJyb3IgdmFsdWVzIGZvciBhbGwgR251UEcgY29tcG9uZW50cy4g</description>
   <sourcefile>libgpg-error-1.32.tar.bz2</sourcefile>
   <sourcedir>libgpg-error-1.32</sourcedir>
   <unpack/>

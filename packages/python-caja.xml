@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python-caja</code>
+  <description>Q2FqYSBiaW5kaW5ncyBmb3IgcHl0aG9u</description>
   <sourcefile>python-caja-1.22.0.tar.xz</sourcefile>
   <sourcedir>python-caja-1.22.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>usbutils</code>
+  <description>IFRoZSBVU0IgVXRpbHMgcGFja2FnZSBjb250YWlucyB1dGlsaXRpZXMgdXNlZCB0byBkaXNwbGF5IGluZm9ybWF0aW9uIGFib3V0IFVTQiBidXNlcyBpbiB0aGUgc3lzdGVtIGFuZCB0aGUgZGV2aWNlcyBjb25uZWN0ZWQgdG8gdGhlbS4=</description>
   <sourcefile>usbutils-010.tar.xz</sourcefile>
   <sourcedir>usbutils-010</sourcedir>
   <unpack/>

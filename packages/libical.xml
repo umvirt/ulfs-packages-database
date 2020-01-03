@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libical</code>
+  <description>VGhlIGxpYmljYWwgcGFja2FnZSBjb250YWlucyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgaUNhbGVuZGFyIHByb3RvY29scyBhbmQgZGF0YSBmb3JtYXRzLiA=</description>
   <sourcefile>libical-3.0.4.tar.gz</sourcefile>
   <sourcedir>libical-3.0.4</sourcedir>
   <unpack/>

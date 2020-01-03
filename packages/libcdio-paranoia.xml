@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libcdio-paranoia</code>
+  <description>VGhlIGxpYmNkaW8tY2RwYXJhbm9pYSBsaWJyYXJ5IHJlYWRzIGF1ZGlvIGZyb20gdGhlIENELVJPTSBkaXJlY3RseSBhcyBkYXRhLCB3aXRoIG5vIGFuYWxvZyBzdGVwIGJldHdlZW4sIGFuZCB3cml0ZXMgdGhlIGRhdGEgdG8gYSBmaWxlIG9yIHBpcGUgYXMgLndhdiwgLmFpZmMgb3IgYXMgcmF3IDE2IGJpdCBsaW5lYXIgUENNLiA=</description>
   <sourcefile>libcdio-2.0.0.tar.gz</sourcefile>
   <sourcedir>libcdio-2.0.0</sourcedir>
   <unpack/>

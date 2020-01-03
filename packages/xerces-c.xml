@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xerces-c</code>
+  <description>WGVyY2VzLUMrKyBpcyBhIHZhbGlkYXRpbmcgWE1MIHBhcnNlciB3cml0dGVuIGluIGEgcG9ydGFibGUgc3Vic2V0IG9mIEMrKy4=</description>
   <sourcefile>xerces-c-3.2.2.tar.gz</sourcefile>
   <sourcedir>xerces-c-3.2.2</sourcedir>
   <unpack/>

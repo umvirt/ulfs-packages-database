@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>sshpass</code>
+  <description>Tm9uLWludGVyYWN0aXZlIHNzaCBwYXNzd29yZCBhdXRoZW50aWNhdGlvbg==</description>
   <sourcefile>sshpass-1.06.tar.gz</sourcefile>
   <sourcedir>sshpass-1.06</sourcedir>
   <unpack/>

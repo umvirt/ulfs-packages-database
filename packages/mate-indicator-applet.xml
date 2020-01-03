@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-indicator-applet</code>
+  <description>TUFURSBwYW5lbCBpbmRpY2F0b3IgYXBwbGV0</description>
   <sourcefile>mate-indicator-applet-1.22.0.tar.xz </sourcefile>
   <sourcedir>mate-indicator-applet-1.22.0</sourcedir>
   <unpack/>

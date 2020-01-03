@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dmidecode</code>
+  <description>U01CSU9TL0RNSSB0YWJsZSBkZWNvZGVy</description>
   <sourcefile>dmidecode-3.2.tar.xz</sourcefile>
   <sourcedir>dmidecode-3.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmirage</code>
+  <description>bGliTWlyYWdlIGlzIGEgQ0QtUk9NIGltYWdlIGFjY2VzcyBsaWJyYXJ5LiBJdCBpcyB3cml0dGVuIGluIEMgYW5kIGJhc2VkIG9uIEdMaWIuIEl0J3MgYWltIGlzIHRvIHByb3ZpZGUgdW5pZm9ybSBhY2Nlc3MgdG8gdGhlIGRhdGEgc3RvcmVkIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
   <sourcefile>libmirage-3.2.2.tar.bz2</sourcefile>
   <sourcedir>libmirage-3.2.2</sourcedir>
   <unpack/>

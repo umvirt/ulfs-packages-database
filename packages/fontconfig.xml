@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fontconfig</code>
+  <description>IFRoZSBGb250Y29uZmlnIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IGFuZCBzdXBwb3J0IHByb2dyYW1zIHVzZWQgZm9yIGNvbmZpZ3VyaW5nIGFuZCBjdXN0b21pemluZyBmb250IGFjY2Vzcy4=</description>
   <sourcefile>fontconfig-2.13.0.tar.bz2</sourcefile>
   <sourcedir>fontconfig-2.13.0</sourcedir>
   <unpack/>

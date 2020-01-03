@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>upower</code>
+  <description>VGhlIFVQb3dlciBwYWNrYWdlIHByb3ZpZGVzIGFuIGludGVyZmFjZSB0byBlbnVtZXJhdGluZyBwb3dlciBkZXZpY2VzLCBsaXN0ZW5pbmcgdG8gZGV2aWNlIGV2ZW50cyBhbmQgcXVlcnlpbmcgaGlzdG9yeSBhbmQgc3RhdGlzdGljcy4gQW55IGFwcGxpY2F0aW9uIG9yIHNlcnZpY2Ugb24gdGhlIHN5c3RlbSBjYW4gYWNjZXNzIHRoZSBvcmcuZnJlZWRlc2t0b3AuVVBvd2VyIHNlcnZpY2UgdmlhIHRoZSBzeXN0ZW0gbWVzc2FnZSBidXMuIA==</description>
   <sourcefile>upower-0.99.7.tar.xz</sourcefile>
   <sourcedir>upower-0.99.7</sourcedir>
   <unpack/>

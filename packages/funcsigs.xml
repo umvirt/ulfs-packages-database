@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>funcsigs</code>
+  <description>ZnVuY3NpZ3MgaXMgYSBpcyBhIGJhY2twb3J0IG9mIHRoZSBQRVAgMzYyIGZ1bmN0aW9uIHNpZ25hdHVyZSBmZWF0dXJlcyBmcm9tIFB5dGhvbiAzLjMncyBpbnNwZWN0IG1vZHVsZSBmb3IgUHl0aG9uIDIueC4g</description>
   <sourcefile>funcsigs-1.0.2.tar.gz</sourcefile>
   <sourcedir>funcsigs-1.0.2</sourcedir>
   <unpack/>

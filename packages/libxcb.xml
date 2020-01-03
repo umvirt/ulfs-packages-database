@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libxcb</code>
+  <description>VGhlIGxpYnhjYiBwYWNrYWdlIHByb3ZpZGVzIGFuIGludGVyZmFjZSB0byB0aGUgWCBXaW5kb3cgU3lzdGVtIHByb3RvY29sLCB3aGljaCByZXBsYWNlcyB0aGUgY3VycmVudCBYbGliIGludGVyZmFjZS4gWGxpYiBjYW4gYWxzbyB1c2UgWENCIGFzIGEgdHJhbnNwb3J0IGxheWVyLCBhbGxvd2luZyBzb2Z0d2FyZSB0byBtYWtlIHJlcXVlc3RzIGFuZCByZWNlaXZlIHJlc3BvbnNlcyB3aXRoIGJvdGguIA==</description>
   <sourcefile>libxcb-1.13.tar.bz2</sourcefile>
   <sourcedir>libxcb-1.13</sourcedir>
   <unpack/>

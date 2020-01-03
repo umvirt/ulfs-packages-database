@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>opencascade</code>
+  <description>T3BlbiBDQVNDQURFIFRlY2hub2xvZ3kgKE9DQ1QpIGlzIGEgc29mdHdhcmUgZGV2ZWxvcG1lbnQga2l0IChTREspIGludGVuZGVkIGZvciBkZXZlbG9wbWVudCBvZiBhcHBsaWNhdGlvbnMgZGVhbGluZyB3aXRoIDNEIENBRCBkYXRhIG9yIHJlcXVpcmluZyBpbmR1c3RyaWFsIDNEIGNhcGFiaWxpdGllcy4gSXQgaW5jbHVkZXMgYSBzZXQgb2YgQysrIGNsYXNzIGxpYnJhcmllcyBwcm92aWRpbmcgc2VydmljZXMgZm9yIDNEIHN1cmZhY2UgYW5kIHNvbGlkIG1vZGVsaW5nLCBDQUQgZGF0YSBleGNoYW5nZSwgYW5kIHZpc3VhbGl6YXRpb24u</description>
   <sourcefile>opencascade-7.3.0.tgz</sourcefile>
   <sourcedir>opencascade-7.3.0</sourcedir>
   <unpack/>

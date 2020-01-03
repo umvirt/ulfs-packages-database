@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-icon-theme-extras</code>
+  <description>VGhlIEdOT01FIEljb24gVGhlbWUgRXh0cmFzIHBhY2thZ2UgY29udGFpbnMgZXh0cmEgaWNvbnMgZm9yIHRoZSBHTk9NRSBEZXNrdG9wLiA=</description>
   <sourcefile>gnome-icon-theme-extras-3.12.0.tar.xz</sourcefile>
   <sourcedir>gnome-icon-theme-extras-3.12.0</sourcedir>
   <unpack/>

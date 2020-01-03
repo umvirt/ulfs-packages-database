@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>hunspell</code>
+  <description>c3BlbGwgY2hlY2tlciBhbmQgbW9ycGhvbG9naWNhbCBhbmFseXplcg==</description>
   <sourcefile>hunspell-1.7.0.tar.gz</sourcefile>
   <sourcedir>hunspell-1.7.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>bridge-utils</code>
+  <description>VGhlIGJyaWRnZS11dGlscyBwYWNrYWdlIGNvbnRhaW5zIGEgdXRpbGl0eSBuZWVkZWQgdG8gY3JlYXRlIGFuZCBtYW5hZ2UgYnJpZGdlIGRldmljZXMuIA==</description>
   <sourcefile>bridge-utils-1.6.tar.xz</sourcefile>
   <sourcedir>bridge-utils-1.6</sourcedir>
   <unpack/>

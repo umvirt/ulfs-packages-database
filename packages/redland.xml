@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>redland</code>
+  <description>UmVkbGFuZCBpcyBhIHNldCBvZiBmcmVlIHNvZnR3YXJlIEMgbGlicmFyaWVzIHRoYXQgcHJvdmlkZSBzdXBwb3J0IGZvciB0aGUgUmVzb3VyY2UgRGVzY3JpcHRpb24gRnJhbWV3b3JrIChSREYpLiA=</description>
   <sourcefile>redland-1.0.17.tar.gz</sourcefile>
   <sourcedir>redland-1.0.17</sourcedir>
   <unpack/>

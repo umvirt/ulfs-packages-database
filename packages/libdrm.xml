@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libdrm</code>
+  <description>bGliZHJtIHByb3ZpZGVzIGEgdXNlciBzcGFjZSBsaWJyYXJ5IGZvciBhY2Nlc3NpbmcgdGhlIERSTSwgZGlyZWN0IHJlbmRlcmluZyBtYW5hZ2VyLCBvbiBvcGVyYXRpbmcgc3lzdGVtcyB0aGF0IHN1cHBvcnQgdGhlIGlvY3RsIGludGVyZmFjZS4gbGliZHJtIGlzIGEgbG93LWxldmVsIGxpYnJhcnksIHR5cGljYWxseSB1c2VkIGJ5IGdyYXBoaWNzIGRyaXZlcnMgc3VjaCBhcyB0aGUgTWVzYSBEUkkgZHJpdmVycywgdGhlIFggZHJpdmVycywgbGlidmEgYW5kIHNpbWlsYXIgcHJvamVjdHMuIA==</description>
   <sourcefile>libdrm-2.4.99.tar.bz2</sourcefile>
   <sourcedir>libdrm-2.4.99</sourcedir>
   <unpack/>

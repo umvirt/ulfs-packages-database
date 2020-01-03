@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>unzip</code>
+  <description>ICBUaGUgVW5aaXAgcGFja2FnZSBjb250YWlucyBaSVAgZXh0cmFjdGlvbiB1dGlsaXRpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGV4dHJhY3RpbmcgZmlsZXMgZnJvbSBaSVAgYXJjaGl2ZXMuIFpJUCBhcmNoaXZlcyBhcmUgY3JlYXRlZCB3aXRoIFBLWklQIG9yIEluZm8tWklQIHV0aWxpdGllcywgcHJpbWFyaWx5IGluIGEgRE9TIGVudmlyb25tZW50LiA=</description>
   <sourcefile>unzip60.tar.gz</sourcefile>
   <sourcedir>unzip60</sourcedir>
   <unpack/>

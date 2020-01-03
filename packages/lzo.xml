@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lzo</code>
+  <description>TFpPIGlzIGEgZGF0YSBjb21wcmVzc2lvbiBsaWJyYXJ5IHdoaWNoIGlzIHN1aXRhYmxlIGZvciBkYXRhIGRlY29tcHJlc3Npb24gYW5kIGNvbXByZXNzaW9uIGluIHJlYWwtdGltZS4gVGhpcyBtZWFucyBpdCBmYXZvcnMgc3BlZWQgb3ZlciBjb21wcmVzc2lvbiByYXRpby4g</description>
   <sourcefile>lzo-2.10.tar.gz</sourcefile>
   <sourcedir>lzo-2.10</sourcedir>
   <unpack/>

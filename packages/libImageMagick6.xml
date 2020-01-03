@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libImageMagick6</code>
+  <description>IEltYWdlTWFnaWNrIHVuZGVyd2VudCBtYW55IGNoYW5nZXMgaW4gaXRzIGxpYnJhcmllcyBiZXR3ZWVuIHZlcnNpb25zIDYgYW5kIDcuIE1vc3QgcGFja2FnZXMgaW4gQkxGUyB3aGljaCB1c2UgSW1hZ2VNYWdpY2sgY2FuIHVzZSB2ZXJzaW9uIDcsIGJ1dCBmb3IgdGhlIG90aGVycyB0aGlzIHBhZ2Ugd2lsbCBpbnN0YWxsIG9ubHkgdGhlIGxpYnJhcmllcywgaGVhZGVycyBhbmQgZ2VuZXJhbCBkb2N1bWVudGF0aW9uIChub3QgcHJvZ3JhbXMsIG1hbnBhZ2VzLCBwZXJsIG1vZHVsZXMpLCBhbmQgaXQgd2lsbCByZW5hbWUgdGhlIHVudmVyc2lvbmVkIHBrZ2NvbmZpZyBmaWxlcyBzbyB0aGF0IHRoZXkgZG8gbm90IG92ZXJ3cml0ZSB0aGUgc2FtZS1uYW1lZCBmaWxlcyBmcm9tIHZlcnNpb24gNy4=</description>
   <sourcefile>ImageMagick-6.9.10-10.tar.xz</sourcefile>
   <sourcedir>ImageMagick-6.9.10-10</sourcedir>
   <unpack/>

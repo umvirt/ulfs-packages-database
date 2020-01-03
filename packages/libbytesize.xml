@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libbytesize</code>
+  <description>VGhlIGxpYmJ5dGVzaXplIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IGZhY2lsaXRhdGVzIHRoZSBjb21tb24gb3BlcmF0aW9ucyB3aXRoIHNpemVzIGluIGJ5dGVzLiA=</description>
   <sourcefile>libbytesize-1.4.tar.gz</sourcefile>
   <sourcedir>libbytesize-1.4</sourcedir>
   <unpack/>

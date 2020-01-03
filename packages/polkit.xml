@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>polkit</code>
+  <description>UG9sa2l0IGlzIGEgdG9vbGtpdCBmb3IgZGVmaW5pbmcgYW5kIGhhbmRsaW5nIGF1dGhvcml6YXRpb25zLiBJdCBpcyB1c2VkIGZvciBhbGxvd2luZyB1bnByaXZpbGVnZWQgcHJvY2Vzc2VzIHRvIGNvbW11bmljYXRlIHdpdGggcHJpdmlsZWdlZCBwcm9jZXNzZXMuIA==</description>
   <sourcefile>polkit-0.114.tar.gz</sourcefile>
   <sourcedir>polkit-0.114</sourcedir>
   <unpack/>

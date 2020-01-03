@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>oiio</code>
+  <description>T3BlbkltYWdlSU8gaXMgYSBsaWJyYXJ5IGZvciByZWFkaW5nIGFuZCB3cml0aW5nIGltYWdlcywgYW5kIGEgYnVuY2ggb2YgcmVsYXRlZCBjbGFzc2VzLCB1dGlsaXRpZXMsIGFuZCBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>oiio-Release-2.0.7.tar.gz</sourcefile>
   <sourcedir>oiio-Release-2.0.7</sourcedir>
   <unpack/>

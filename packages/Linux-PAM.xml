@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>Linux-PAM</code>
+  <description>VGhlIExpbnV4IFBBTSBwYWNrYWdlIGNvbnRhaW5zIFBsdWdnYWJsZSBBdXRoZW50aWNhdGlvbiBNb2R1bGVzIHVzZWQgdG8gZW5hYmxlIHRoZSBsb2NhbCBzeXN0ZW0gYWRtaW5pc3RyYXRvciB0byBjaG9vc2UgaG93IGFwcGxpY2F0aW9ucyBhdXRoZW50aWNhdGUgdXNlcnMuIA==</description>
   <sourcefile>Linux-PAM-1.3.0.tar.bz2</sourcefile>
   <sourcedir>Linux-PAM-1.3.0</sourcedir>
   <unpack/>

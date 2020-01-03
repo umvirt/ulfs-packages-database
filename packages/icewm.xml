@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>icewm</code>
+  <description>SWNlV00gaXMgYSB3aW5kb3cgbWFuYWdlciB3aXRoIHRoZSBnb2FscyBvZiBzcGVlZCwgc2ltcGxpY2l0eSwgYW5kIG5vdCBnZXR0aW5nIGluIHRoZSB1c2VyJ3Mgd2F5LiA=</description>
   <sourcefile>icewm-1.4.2.tar.bz2</sourcefile>
   <sourcedir>icewm-1.4.2</sourcedir>
   <unpack/>

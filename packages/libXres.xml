@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXres</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXres-1.2.0.tar.bz2</sourcefile>
   <sourcedir>libXres-1.2.0</sourcedir>
   <unpack/>

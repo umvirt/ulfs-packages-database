@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-six</code>
+  <description>U2l4IGlzIGEgUHl0aG9uIDIgYW5kIDMgY29tcGF0aWJpbGl0eSBsaWJyYXJ5LiA=</description>
   <sourcefile>six-1.11.0.tar.gz</sourcefile>
   <sourcedir>six-1.11.0</sourcedir>
   <unpack/>

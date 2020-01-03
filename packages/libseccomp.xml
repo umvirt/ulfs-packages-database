@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libseccomp</code>
+  <description>VGhlIGxpYnNlY2NvbXAgcGFja2FnZSBwcm92aWRlcyBhbiBlYXN5IHRvIHVzZSBhbmQgcGxhdGZvcm0gaW5kZXBlbmRlbnQgaW50ZXJmYWNlIHRvIHRoZSBMaW51eCBrZXJuZWwncyBzeXNjYWxsIGZpbHRlcmluZyBtZWNoYW5pc20uIA==</description>
   <sourcefile>libseccomp-2.3.3.tar.gz</sourcefile>
   <sourcedir>libseccomp-2.3.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-idna</code>
+  <description>SW50ZXJuYXRpb25hbGl6ZWQgRG9tYWluIE5hbWVzIGluIEFwcGxpY2F0aW9ucyAoSUROQSk=</description>
   <sourcefile>idna-2.8.tar.gz</sourcefile>
   <sourcedir>idna-2.8</sourcedir>
   <unpack/>

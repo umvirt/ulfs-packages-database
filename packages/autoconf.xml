@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>autoconf</code>
+  <description>ICBBdXRvY29uZjIuMTMgaXMgYW4gb2xkIHZlcnNpb24gb2YgQXV0b2NvbmYgLiBUaGlzIG9sZCB2ZXJzaW9uIGFjY2VwdHMgc3dpdGNoZXMgd2hpY2ggYXJlIG5vdCB2YWxpZCBpbiBtb3JlIHJlY2VudCB2ZXJzaW9ucy4gTm93IHRoYXQgZmlyZWZveCBoYXMgc3RhcnRlZCB0byB1c2UgcHl0aG9uMiBmb3IgY29uZmlndXJpbmcsIHRoaXMgb2xkIHZlcnNpb24gaXMgcmVxdWlyZWQgZXZlbiBpZiBjb25maWd1cmUgZmlsZXMgaGF2ZSBub3QgYmVlbiBjaGFuZ2VkLiA=</description>
   <sourcefile>autoconf-2.13.tar.gz</sourcefile>
   <sourcedir>autoconf-2.13</sourcedir>
   <unpack/>

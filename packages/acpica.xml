@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>acpica</code>
+  <description>IEFDUElDQSB0b29scyBmb3IgdGhlIGRldmVsb3BtZW50IGFuZCBkZWJ1ZyBvZiBBQ1BJIHRhYmxlcw==</description>
   <sourcefile>acpica-unix2-20190816.tar.gz</sourcefile>
   <sourcedir>acpica-unix2-20190816</sourcedir>
   <unpack/>

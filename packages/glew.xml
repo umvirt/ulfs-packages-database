@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>glew</code>
+  <description>T3BlbkdMIEV4dGVuc2lvbiBXcmFuZ2xlciAtIHV0aWxpdGllcw==</description>
   <sourcefile>glew-2.1.0.tgz</sourcefile>
   <sourcedir>glew-2.1.0</sourcedir>
   <unpack/>

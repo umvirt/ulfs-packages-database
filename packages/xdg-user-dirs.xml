@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xdg-user-dirs</code>
+  <description>WGRnLXVzZXItZGlycyBpcyBhIHRvb2wgdG8gaGVscCBtYW5hZ2Ug4oCcd2VsbCBrbm93buKAnSB1c2VyIGRpcmVjdG9yaWVzIGxpa2UgdGhlIGRlc2t0b3AgZm9sZGVyIGFuZCB0aGUgbXVzaWMgZm9sZGVyLiBJdCBhbHNvIGhhbmRsZXMgbG9jYWxpemF0aW9uIChpLmUuIHRyYW5zbGF0aW9uKSBvZiB0aGUgZmlsZW5hbWVzLiA=</description>
   <sourcefile>xdg-user-dirs-0.17.tar.gz</sourcefile>
   <sourcedir>xdg-user-dirs-0.17</sourcedir>
   <unpack/>

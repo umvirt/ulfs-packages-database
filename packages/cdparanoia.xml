@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cdparanoia</code>
+  <description>IFRoZSBDRFBhcmFub2lhIHBhY2thZ2UgY29udGFpbnMgYSBDRCBhdWRpbyBleHRyYWN0aW9uIHRvb2wuIFRoaXMgaXMgdXNlZnVsIGZvciBleHRyYWN0aW5nIC53YXYgZmlsZXMgZnJvbSBhdWRpbyBDRHMuIEEgQ0REQSBjYXBhYmxlIENEUk9NIGRyaXZlIGlzIG5lZWRlZC4gUHJhY3RpY2FsbHkgYWxsIGRyaXZlcyBzdXBwb3J0ZWQgYnkgTGludXggY2FuIGJlIHVzZWQuIA==</description>
   <sourcefile>cdparanoia-III-10.2.src.tgz</sourcefile>
   <sourcedir>cdparanoia-III-10.2</sourcedir>
   <unpack/>

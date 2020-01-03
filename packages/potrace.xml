@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>potrace</code>
+  <description>UG90cmFjZeKEoiBpcyBhIHRvb2wgZm9yIHRyYW5zZm9ybWluZyBhIGJpdG1hcCAoUEJNLCBQR00sIFBQTSwgb3IgQk1QIGZvcm1hdCkgaW50byBvbmUgb2Ygc2V2ZXJhbCB2ZWN0b3IgZmlsZSBmb3JtYXRzLiA=</description>
   <sourcefile>potrace-1.15.tar.gz</sourcefile>
   <sourcedir>potrace-1.15</sourcedir>
   <unpack/>

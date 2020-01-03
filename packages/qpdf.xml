@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>qpdf</code>
+  <description>IFRoZSBRcGRmIHBhY2thZ2UgY29udGFpbnMgY29tbWFuZC1saW5lIHByb2dyYW1zIGFuZCBsaWJyYXJ5IHRoYXQgZG8gc3RydWN0dXJhbCwgY29udGVudC1wcmVzZXJ2aW5nIHRyYW5zZm9ybWF0aW9ucyBvbiBQREYgZmlsZXMuIA==</description>
   <sourcefile>qpdf-8.2.1.tar.gz</sourcefile>
   <sourcedir>qpdf-8.2.1</sourcedir>
   <unpack/>

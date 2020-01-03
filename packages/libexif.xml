@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libexif</code>
+  <description>VGhlIGxpYmV4aWYgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHBhcnNpbmcsIGVkaXRpbmcsIGFuZCBzYXZpbmcgRVhJRiBkYXRhLiBNb3N0IGRpZ2l0YWwgY2FtZXJhcyBwcm9kdWNlIEVYSUYgZmlsZXMsIHdoaWNoIGFyZSBKUEVHIGZpbGVzIHdpdGggZXh0cmEgdGFncyB0aGF0IGNvbnRhaW4gaW5mb3JtYXRpb24gYWJvdXQgdGhlIGltYWdlLiBBbGwgRVhJRiB0YWdzIGRlc2NyaWJlZCBpbiBFWElGIHN0YW5kYXJkIDIuMSBhcmUgc3VwcG9ydGVkLiA=</description>
   <sourcefile>libexif-0.6.21.tar.bz2&#13;
 </sourcefile>
   <sourcedir>libexif-0.6.21&#13;

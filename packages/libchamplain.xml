@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libchamplain</code>
+  <description>ICBUaGUgbGliY2hhbXBsYWluIGlzIGEgQ2x1dHRlciBiYXNlZCB3aWRnZXQgdXNlZCB0byBkaXNwbGF5IHJpY2gsIGV5ZS1jYW5keSBhbmQgaW50ZXJhY3RpdmUgbWFwcy4g</description>
   <sourcefile>libchamplain-0.12.16.tar.xz</sourcefile>
   <sourcedir>libchamplain-0.12.16</sourcedir>
   <unpack/>

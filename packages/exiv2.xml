@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>exiv2</code>
+  <description>RXhpdjIgaXMgYSBDKysgbGlicmFyeSBhbmQgYSBjb21tYW5kIGxpbmUgdXRpbGl0eSBmb3IgbWFuYWdpbmcgaW1hZ2UgYW5kIHZpZGVvIG1ldGFkYXRhLiA=</description>
   <sourcefile>exiv2-0.26-trunk.tar.gz</sourcefile>
   <sourcedir>exiv2-trunk</sourcedir>
   <unpack/>

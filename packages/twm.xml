@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>twm</code>
+  <description>VGhlIHR3bSBwYWNrYWdlIGNvbnRhaW5zIGEgdmVyeSBtaW5pbWFsIHdpbmRvdyBtYW5hZ2VyLiA=</description>
   <sourcefile>twm-1.0.10.tar.bz2</sourcefile>
   <sourcedir>twm-1.0.10</sourcedir>
   <unpack/>

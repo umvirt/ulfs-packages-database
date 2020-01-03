@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXpm</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXpm-3.5.12.tar.bz2</sourcefile>
   <sourcedir>libXpm-3.5.12</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXau</code>
+  <description>VGhlIGxpYlhhdSBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSBpbXBsZW1lbnRpbmcgdGhlIFgxMSBBdXRob3JpemF0aW9uIFByb3RvY29sLiBUaGlzIGlzIHVzZWZ1bCBmb3IgcmVzdHJpY3RpbmcgY2xpZW50IGFjY2VzcyB0byB0aGUgZGlzcGxheS4=</description>
   <sourcefile>libXau-1.0.8.tar.bz2</sourcefile>
   <sourcedir>libXau-1.0.8</sourcedir>
   <unpack/>

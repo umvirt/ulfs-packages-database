@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xmr-stak</code>
+  <description>TW9uZXJvIENQVSBtaW5lcg==</description>
   <sourcefile>xmr-stak-1.0.1-rx.tar.gz</sourcefile>
   <sourcedir>xmr-stak-1.0.1-rx</sourcedir>
   <unpack/>

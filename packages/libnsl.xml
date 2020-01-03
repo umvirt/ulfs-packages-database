@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libnsl</code>
+  <description>VGhlIGxpYm5zbCBwYWNrYWdlIGNvbnRhaW5zIHRoZSBwdWJsaWMgY2xpZW50IGludGVyZmFjZSBmb3IgTklTKFlQKSBhbmQgTklTKy4gSXQgcmVwbGFjZXMgdGhlIE5JUyBsaWJyYXJ5IHRoYXQgdXNlZCB0byBiZSBpbiBnbGliYy4g</description>
   <sourcefile>libnsl-1.2.0.tar.gz</sourcefile>
   <sourcedir>libnsl-1.2.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>iso-codes</code>
+  <description>VGhlIElTTyBDb2RlcyBwYWNrYWdlIGNvbnRhaW5zIGEgbGlzdCBvZiBjb3VudHJ5LCBsYW5ndWFnZSBhbmQgY3VycmVuY3kgbmFtZXMgYW5kIGl0IGlzIHVzZWQgYXMgYSBjZW50cmFsIGRhdGFiYXNlIGZvciBhY2Nlc3NpbmcgdGhpcyBkYXRhLiA=</description>
   <sourcefile>iso-codes-3.79.tar.xz</sourcefile>
   <sourcedir>iso-codes-3.79</sourcedir>
   <unpack/>

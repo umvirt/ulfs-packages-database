@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>brasero</code>
+  <description>QnJhc2VybyBpcyBhbiBhcHBsaWNhdGlvbiB1c2VkIHRvIGJ1cm4gQ0QvRFZEIG9uIHRoZSBHTk9NRSBEZXNrdG9wLiBJdCBpcyBkZXNpZ25lZCB0byBiZSBhcyBzaW1wbGUgYXMgcG9zc2libGUgYW5kIGhhcyBzb21lIHVuaXF1ZSBmZWF0dXJlcyB0aGF0IGVuYWJsZSB1c2VycyB0byBjcmVhdGUgdGhlaXIgZGlzY3MgZWFzaWx5IGFuZCBxdWlja2x5LiA=</description>
   <sourcefile>brasero-3.12.2.tar.xz</sourcefile>
   <sourcedir>brasero-3.12.2</sourcedir>
   <unpack/>

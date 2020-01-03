@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fribidi</code>
+  <description>IFRoZSBGcmlCaWRpIHBhY2thZ2UgaXMgYW4gaW1wbGVtZW50YXRpb24gb2YgdGhlIFVuaWNvZGUgQmlkaXJlY3Rpb25hbCBBbGdvcml0aG0gKEJJREkpLiBUaGlzIGlzIHVzZWZ1bCBmb3Igc3VwcG9ydGluZyBBcmFiaWMgYW5kIEhlYnJldyBhbHBoYWJldHMgaW4gb3RoZXIgcGFja2FnZXMu</description>
   <sourcefile>fribidi-1.0.5.tar.bz2</sourcefile>
   <sourcedir>fribidi-1.0.5</sourcedir>
   <unpack/>

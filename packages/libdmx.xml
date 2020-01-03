@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libdmx</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libdmx-1.1.4.tar.bz2</sourcefile>
   <sourcedir>libdmx-1.1.4</sourcedir>
   <unpack/>

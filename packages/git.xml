@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>git</code>
+  <description>R2l0IGlzIGEgZnJlZSBhbmQgb3BlbiBzb3VyY2UsIGRpc3RyaWJ1dGVkIHZlcnNpb24gY29udHJvbCBzeXN0ZW0gZGVzaWduZWQgdG8gaGFuZGxlIGV2ZXJ5dGhpbmcgZnJvbSBzbWFsbCB0byB2ZXJ5IGxhcmdlIHByb2plY3RzIHdpdGggc3BlZWQgYW5kIGVmZmljaWVuY3ku</description>
   <sourcefile>git-2.18.0.tar.xz</sourcefile>
   <sourcedir>git-2.18.0</sourcedir>
   <unpack/>

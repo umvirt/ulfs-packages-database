@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>qrencode</code>
+  <description>UVIgZW5jb2Rlcg==</description>
   <sourcefile>qrencode-4.0.2.tar.gz</sourcefile>
   <sourcedir>qrencode-4.0.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-desktop</code>
+  <description>VGhlIEdOT01FIERlc2t0b3AgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCBwcm92aWRlcyBhbiBBUEkgc2hhcmVkIGJ5IHNldmVyYWwgYXBwbGljYXRpb25zIG9uIHRoZSBHTk9NRSBEZXNrdG9wLiA=</description>
   <sourcefile>gnome-desktop-3.28.2.tar.xz</sourcefile>
   <sourcedir>gnome-desktop-3.28.2</sourcedir>
   <unpack/>

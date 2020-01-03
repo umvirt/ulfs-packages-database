@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xrdb</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xrdb-1.1.1.tar.bz2</sourcefile>
   <sourcedir>xrdb-1.1.1</sourcedir>
   <unpack/>

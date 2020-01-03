@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgweather</code>
+  <description>VGhlIGxpYmd3ZWF0aGVyIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHVzZWQgdG8gYWNjZXNzIHdlYXRoZXIgaW5mb3JtYXRpb24gZnJvbSBvbmxpbmUgc2VydmljZXMgZm9yIG51bWVyb3VzIGxvY2F0aW9ucy4g</description>
   <sourcefile>libgweather-3.28.2.tar.xz</sourcefile>
   <sourcedir>libgweather-3.28.2</sourcedir>
   <unpack/>

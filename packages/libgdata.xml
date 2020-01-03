@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgdata</code>
+  <description>IFRoZSBsaWJnZGF0YSBwYWNrYWdlIGlzIGEgR0xpYi1iYXNlZCBsaWJyYXJ5IGZvciBhY2Nlc3Npbmcgb25saW5lIHNlcnZpY2UgQVBJcyB1c2luZyB0aGUgR0RhdGEgcHJvdG9jb2wsIG1vc3Qgbm90YWJseSwgR29vZ2xlJ3Mgc2VydmljZXMuIEl0IHByb3ZpZGVzIEFQSXMgdG8gYWNjZXNzIHRoZSBjb21tb24gR29vZ2xlIHNlcnZpY2VzIGFuZCBoYXMgZnVsbCBhc3luY2hyb25vdXMgc3VwcG9ydC4g</description>
   <sourcefile>libgdata-0.17.9.tar.xz</sourcefile>
   <sourcedir>libgdata-0.17.9</sourcedir>
   <unpack/>

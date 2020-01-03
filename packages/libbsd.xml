@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libbsd</code>
+  <description>dXRpbGl0eSBmdW5jdGlvbnMgZnJvbSBCU0Qgc3lzdGVtcw==</description>
   <sourcefile>libbsd-0.10.0.tar.xz</sourcefile>
   <sourcedir>libbsd-0.10.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libisoburn</code>
+  <description>ICBsaWJpc29idXJuIGlzIGEgZnJvbnRlbmQgZm9yIGxpYnJhcmllcyBsaWJidXJuIGFuZCBsaWJpc29mcyB3aGljaCBlbmFibGVzIGNyZWF0aW9uIGFuZCBleHBhbnNpb24gb2YgSVNPLTk2NjAgZmlsZXN5c3RlbXMgb24gYWxsIENEL0RWRC9CRCBtZWRpYSBzdXBwb3J0ZWQgYnkgbGliYnVybi4gVGhpcyBpbmNsdWRlcyBtZWRpYSBsaWtlIERWRCtSVywgd2hpY2ggZG8gbm90IHN1cHBvcnQgbXVsdGktc2Vzc2lvbiBtYW5hZ2VtZW50IG9uIG1lZGlhIGxldmVsIGFuZCBldmVuIHBsYWluIGRpc2sgZmlsZXMgb3IgYmxvY2sgZGV2aWNlcy4g</description>
   <sourcefile>libisoburn-1.4.8.tar.gz</sourcefile>
   <sourcedir>libisoburn-1.4.8</sourcedir>
   <unpack/>

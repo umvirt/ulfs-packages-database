@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gobject-introspection</code>
+  <description>ICBUaGUgR09iamVjdCBJbnRyb3NwZWN0aW9uIGlzIHVzZWQgdG8gZGVzY3JpYmUgdGhlIHByb2dyYW0gQVBJcyBhbmQgY29sbGVjdCB0aGVtIGluIGEgdW5pZm9ybSwgbWFjaGluZSByZWFkYWJsZSBmb3JtYXQuIA==</description>
   <sourcefile>gobject-introspection-1.56.1.tar.xz</sourcefile>
   <sourcedir>gobject-introspection-1.56.1</sourcedir>
   <unpack/>

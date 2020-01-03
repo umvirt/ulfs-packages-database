@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>tor</code>
+  <description>VG9yIGlzIGZyZWUgYW5kIG9wZW4tc291cmNlIHNvZnR3YXJlIGZvciBlbmFibGluZyBhbm9ueW1vdXMgY29tbXVuaWNhdGlvbi4gVGhlIG5hbWUgaXMgZGVyaXZlZCBmcm9tIGFuIGFjcm9ueW0gZm9yIHRoZSBvcmlnaW5hbCBzb2Z0d2FyZSBwcm9qZWN0IG5hbWUgIlRoZSBPbmlvbiBSb3V0ZXIiLg==</description>
   <sourcefile>tor-0.4.2.5.tar.gz</sourcefile>
   <sourcedir>tor-0.4.2.5</sourcedir>
   <unpack/>

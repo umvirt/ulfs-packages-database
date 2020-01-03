@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnuchess</code>
+  <description>R05VIENoZXNzIGlzIGEgZnJlZSBzb2Z0d2FyZSBjaGVzcyBlbmdpbmUgd2hpY2ggcGxheXMgYSBmdWxsIGdhbWUgb2YgY2hlc3MgYWdhaW5zdCBhIGh1bWFuIGJlaW5nIG9yIG90aGVyIGNvbXB1dGVyIHByb2dyYW0uIA==</description>
   <sourcefile>gnuchess-6.2.5.tar.gz</sourcefile>
   <sourcedir>gnuchess-6.2.5</sourcedir>
   <unpack/>

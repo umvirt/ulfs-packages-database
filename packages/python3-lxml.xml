@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-lxml</code>
+  <description>bHhtbCBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgZm9yIGxpYnhzbHQgYW5kIGxpYnhtbDIu</description>
   <sourcefile>lxml-4.2.4.tar.gz</sourcefile>
   <sourcedir>lxml-4.2.4</sourcedir>
   <unpack/>

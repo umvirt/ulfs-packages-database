@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xsetroot</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xsetroot-1.1.2.tar.bz2</sourcefile>
   <sourcedir>xsetroot-1.1.2</sourcedir>
   <unpack/>

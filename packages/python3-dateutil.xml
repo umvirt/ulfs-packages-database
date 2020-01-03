@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-dateutil</code>
+  <description>SW1wbGVtZW50YXRpb24gdG8gUHQtYnIgb2YgcHl0aG9uIGxpYiBweXRob24tZGF0ZXV0aWw=</description>
   <sourcefile>python-dateutil-2.8.0.tar.gz</sourcefile>
   <sourcedir>python-dateutil-2.8.0</sourcedir>
   <unpack/>

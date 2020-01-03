@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>perl-HTML-Parser</code>
+  <description>SFRNTDo6UGFyc2VyIC0gSFRNTCBwYXJzZXIgY2xhc3M=</description>
   <sourcefile>HTML-Parser-3.72.tar.gz</sourcefile>
   <sourcedir>HTML-Parser-3.72</sourcedir>
   <unpack/>

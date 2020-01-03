@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libarchive</code>
+  <description>ICBUaGUgbGliYXJjaGl2ZSBsaWJyYXJ5IHByb3ZpZGVzIGEgc2luZ2xlIGludGVyZmFjZSBmb3IgcmVhZGluZy93cml0aW5nIHZhcmlvdXMgY29tcHJlc3Npb24gZm9ybWF0cy4g</description>
   <sourcefile>libarchive-3.3.2.tar.gz</sourcefile>
   <sourcedir>libarchive-3.3.2</sourcedir>
   <unpack/>

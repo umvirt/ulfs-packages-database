@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xbitmaps</code>
+  <description>VGhlIHhiaXRtYXBzIHBhY2thZ2UgY29udGFpbnMgYml0bWFwIGltYWdlcyB1c2VkIGJ5IG11bHRpcGxlIGFwcGxpY2F0aW9ucyBidWlsdCBpbiBYb3JnIGNoYXB0ZXIuIA==</description>
   <sourcefile>xbitmaps-1.1.2.tar.bz2</sourcefile>
   <sourcedir>xbitmaps-1.1.2</sourcedir>
   <unpack/>

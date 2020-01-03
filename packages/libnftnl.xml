@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libnftnl</code>
+  <description>TmV0ZmlsdGVyIG5mdGFibGVzIHVzZXJzcGFjZSBBUEkgbGlicmFyeQ==</description>
   <sourcefile>libnftnl-1.1.4.tar.bz2</sourcefile>
   <sourcedir>libnftnl-1.1.4</sourcedir>
   <unpack/>

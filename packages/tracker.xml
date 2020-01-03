@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>tracker</code>
+  <description>ICBUcmFja2VyIGlzIHRoZSBmaWxlIGluZGV4aW5nIGFuZCBzZWFyY2ggcHJvdmlkZXIgdXNlZCBpbiB0aGUgR05PTUUgZGVza3RvcCBlbnZpcm9ubWVudC4g</description>
   <sourcefile>tracker-2.0.4.tar.xz</sourcefile>
   <sourcedir>tracker-2.0.4</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>traceroute</code>
+  <description>VGhlIFRyYWNlcm91dGUgcGFja2FnZSBjb250YWlucyBhIHByb2dyYW0gd2hpY2ggaXMgdXNlZCB0byBkaXNwbGF5IHRoZSBuZXR3b3JrIHJvdXRlIHRoYXQgcGFja2V0cyB0YWtlIHRvIHJlYWNoIGEgc3BlY2lmaWVkIGhvc3QuIFRoaXMgaXMgYSBzdGFuZGFyZCBuZXR3b3JrIHRyb3VibGVzaG9vdGluZyB0b29sLiBJZiB5b3UgZmluZCB5b3Vyc2VsZiB1bmFibGUgdG8gY29ubmVjdCB0byBhbm90aGVyIHN5c3RlbSwgdHJhY2Vyb3V0ZSBjYW4gaGVscCBwaW5wb2ludCB0aGUgcHJvYmxlbS4g</description>
   <sourcefile>traceroute-2.1.0.tar.gz</sourcefile>
   <sourcedir>traceroute-2.1.0</sourcedir>
   <unpack/>

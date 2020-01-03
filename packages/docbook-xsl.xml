@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>docbook-xsl</code>
+  <description>VGhlIERvY0Jvb2sgWFNMIFN0eWxlc2hlZXRzIHBhY2thZ2UgY29udGFpbnMgWFNMIHN0eWxlc2hlZXRzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBwZXJmb3JtaW5nIHRyYW5zZm9ybWF0aW9ucyBvbiBYTUwgRG9jQm9vayBmaWxlcy4g</description>
   <sourcefile>docbook-xsl-1.79.2.tar.bz2</sourcefile>
   <sourcedir>docbook-xsl-1.79.2</sourcedir>
   <unpack/>

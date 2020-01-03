@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>convmv</code>
+  <description>Y29udm12IGlzIG1lYW50IHRvIGhlbHAgY29udmVydCBhIHNpbmdsZSBmaWxlbmFtZSwgYSBkaXJlY3RvcnkgdHJlZSBhbmQgdGhlIGNvbnRhaW5lZCBmaWxlcyBvciBhIHdob2xlIGZpbGVzeXN0ZW0gaW50byBhIGRpZmZlcmVudCBlbmNvZGluZy4=</description>
   <sourcefile>convmv-2.05.tar.gz</sourcefile>
   <sourcedir>convmv-2.05</sourcedir>
   <unpack/>

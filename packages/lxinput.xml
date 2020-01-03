@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxinput</code>
+  <description>VGhlIExYSW5wdXQgcGFja2FnZSBjb250YWlucyBhIHNtYWxsIHByb2dyYW0gdXNlZCB0byBjb25maWd1cmUga2V5Ym9hcmQgYW5kIG1vdXNlIGZvciBMWERFLiA=</description>
   <sourcefile>lxinput-0.3.5.tar.xz</sourcefile>
   <sourcedir>lxinput-0.3.5</sourcedir>
   <unpack/>

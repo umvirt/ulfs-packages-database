@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-slip</code>
+  <description>Q29udmVuaWVuY2UsIGV4dGVuc2lvbiBhbmQgd29ya2Fyb3VuZCBjb2RlIGZvciBQeXRob24gYW5kIHNvbWUgUHl0aG9uIG1vZHVsZXM=</description>
   <sourcefile>python-slip-0.6.5.tar.bz2</sourcefile>
   <sourcedir>python-slip-0.6.5</sourcedir>
   <unpack/>

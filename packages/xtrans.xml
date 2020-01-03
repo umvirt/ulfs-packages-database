@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xtrans</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>xtrans-1.3.5.tar.bz2</sourcefile>
   <sourcedir>xtrans-1.3.5</sourcedir>
   <unpack/>

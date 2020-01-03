@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python2-scour</code>
+  <description>U2NvdXIgaXMgYW4gU1ZHIChTY2FsYWJsZSBWZWN0b3IgR3JhcGhpY3MpIG9wdGltaXplci9jbGVhbmVyIHRoYXQgcmVkdWNlcyB0aGVpciBzaXplIGJ5IG9wdGltaXppbmcgc3RydWN0dXJlIGFuZCByZW1vdmluZyB1bm5lY2Vzc2FyeSBkYXRhLiA=</description>
   <sourcefile>scour-0.37.tar.gz</sourcefile>
   <sourcedir>scour-0.37</sourcedir>
   <unpack/>

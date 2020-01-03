@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-cffi</code>
+  <description>Rm9yZWlnbiBGdW5jdGlvbiBJbnRlcmZhY2UgZm9yIFB5dGhvbiBjYWxsaW5nIEMgY29kZS4=</description>
   <sourcefile>cffi-1.13.1.tar.gz</sourcefile>
   <sourcedir>cffi-1.13.1</sourcedir>
   <unpack/>

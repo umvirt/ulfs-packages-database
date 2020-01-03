@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libdvdread</code>
+  <description>bGliZHZkcmVhZCBpcyBhIGxpYnJhcnkgd2hpY2ggcHJvdmlkZXMgYSBzaW1wbGUgZm91bmRhdGlvbiBmb3IgcmVhZGluZyBEVkRzLiA=</description>
   <sourcefile>libdvdread-6.0.0.tar.bz2</sourcefile>
   <sourcedir>libdvdread-6.0.0</sourcedir>
   <unpack/>

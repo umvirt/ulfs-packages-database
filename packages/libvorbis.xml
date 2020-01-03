@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libvorbis</code>
+  <description>ICBUaGUgbGlidm9yYmlzIHBhY2thZ2UgY29udGFpbnMgYSBnZW5lcmFsIHB1cnBvc2UgYXVkaW8gYW5kIG11c2ljIGVuY29kaW5nIGZvcm1hdC4gVGhpcyBpcyB1c2VmdWwgZm9yIGNyZWF0aW5nIChlbmNvZGluZykgYW5kIHBsYXlpbmcgKGRlY29kaW5nKSBzb3VuZCBpbiBhbiBvcGVuIChwYXRlbnQgZnJlZSkgZm9ybWF0LiA=</description>
   <sourcefile>libvorbis-1.3.6.tar.xz</sourcefile>
   <sourcedir>libvorbis-1.3.6</sourcedir>
   <unpack/>

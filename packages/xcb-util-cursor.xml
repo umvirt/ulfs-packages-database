@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcb-util-cursor</code>
+  <description>VGhlIHhjYi11dGlsLWN1cnNvciBwYWNrYWdlIHByb3ZpZGVzIGEgbW9kdWxlIHRoYXQgaW1wbGVtZW50cyB0aGUgWENCIGN1cnNvciBsaWJyYXJ5LiBJdCBpcyBhIHRoZSBYQ0IgcmVwbGFjZW1lbnQgZm9yIGxpYlhjdXJzb3IuIA==</description>
   <sourcefile>xcb-util-cursor-0.1.3.tar.bz2</sourcefile>
   <sourcedir>xcb-util-cursor-0.1.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>perl-XML-Simple</code>
+  <description>VGhlIFhNTDo6U2ltcGxlIG1vZHVsZSBpcyBhIFBlcmwgZXh0ZW5zaW9uIHRoYXQgcHJvdmlkZXMgYW4gZWFzeSBBUEkgdG8gcmVhZCBhbmQgd3JpdGUgWE1MIChlc3BlY2lhbGx5IGNvbmZpZyBmaWxlcykuIFQ=</description>
   <sourcefile>XML-Simple-2.25.tar.gz</sourcefile>
   <sourcedir>XML-Simple-2.25</sourcedir>
   <unpack/>

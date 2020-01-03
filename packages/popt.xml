@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>popt</code>
+  <description>IFRoZSBwb3B0IHBhY2thZ2UgY29udGFpbnMgdGhlIHBvcHQgbGlicmFyaWVzIHdoaWNoIGFyZSB1c2VkIGJ5IHNvbWUgcHJvZ3JhbXMgdG8gcGFyc2UgY29tbWFuZC1saW5lIG9wdGlvbnMuIA==</description>
   <sourcefile>popt-1.16.tar.gz</sourcefile>
   <sourcedir>popt-1.16</sourcedir>
   <unpack/>

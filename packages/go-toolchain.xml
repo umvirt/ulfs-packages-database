@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>go-toolchain</code>
+  <description>T2xkIHZlcnNpb24gb2YgR28gbGFuZ3VhZ2UgY29tcGlsbGVyIHdoaWNoIGNhbiBidWlsdCBieSBHQ0M=</description>
   <sourcefile>go1.4-bootstrap-20171003.tar.gz</sourcefile>
   <sourcedir>go-tool</sourcedir>
   <unpack>dGFyIC14ZiBnbzEuNC1ib290c3RyYXAtMjAxNzEwMDMudGFyLmd6DQptdiBnbyBnby10b29s</unpack>

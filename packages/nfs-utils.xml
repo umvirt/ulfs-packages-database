@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nfs-utils</code>
+  <description>IFRoZSBORlMgVXRpbGl0aWVzIHBhY2thZ2UgY29udGFpbnMgdGhlIHVzZXJzcGFjZSBzZXJ2ZXIgYW5kIGNsaWVudCB0b29scyBuZWNlc3NhcnkgdG8gdXNlIHRoZSBrZXJuZWwncyBORlMgYWJpbGl0aWVzLiBORlMgaXMgYSBwcm90b2NvbCB0aGF0IGFsbG93cyBzaGFyaW5nIGZpbGUgc3lzdGVtcyBvdmVyIHRoZSBuZXR3b3JrLg==</description>
   <sourcefile>nfs-utils-2.3.2.tar.xz</sourcefile>
   <sourcedir>nfs-utils-2.3.2</sourcedir>
   <unpack/>

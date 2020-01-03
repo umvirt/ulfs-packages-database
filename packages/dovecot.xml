@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dovecot</code>
+  <description>RG92ZWNvdCBpcyBhbiBJbnRlcm5ldCBNZXNzYWdlIEFjY2VzcyBQcm90b2NvbCAoSU1BUCkgYW5kIFBvc3QgT2ZmaWNlIFByb3RvY29sIChQT1ApIHNlcnZlciwgd3JpdHRlbiBwcmltYXJpbHkgd2l0aCBzZWN1cml0eSBpbiBtaW5kLiBEb3ZlY290IGFpbXMgdG8gYmUgbGlnaHR3ZWlnaHQsIGZhc3QgYW5kIGVhc3kgdG8gc2V0IHVwIGFzIHdlbGwgYXMgaGlnaGx5IGNvbmZpZ3VyYWJsZSBhbmQgZWFzaWx5IGV4dGVuc2libGUgd2l0aCBwbHVnaW5zLiA=</description>
   <sourcefile>dovecot-2.3.2.1.tar.gz</sourcefile>
   <sourcedir>dovecot-2.3.2.1</sourcedir>
   <unpack/>

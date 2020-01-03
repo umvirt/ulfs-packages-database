@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>MPlayer</code>
+  <description>ICBNUGxheWVyIGlzIGEgcG93ZXJmdWwgYXVkaW8vdmlkZW8gcGxheWVyIGNvbnRyb2xsZWQgdmlhIHRoZSBjb21tYW5kIGxpbmUgb3IgYSBncmFwaGljYWwgaW50ZXJmYWNlIHRoYXQgaXMgYWJsZSB0byBwbGF5IGFsbW9zdCBldmVyeSBwb3B1bGFyIGF1ZGlvIGFuZCB2aWRlbyBmaWxlIGZvcm1hdC4gV2l0aCBzdXBwb3J0ZWQgdmlkZW8gaGFyZHdhcmUgYW5kIGFkZGl0aW9uYWwgZHJpdmVycywgTVBsYXllciBjYW4gcGxheSB2aWRlbyBmaWxlcyB3aXRob3V0IGFuIFggV2luZG93IFN5c3RlbSBpbnN0YWxsZWQuIA==</description>
   <sourcefile>MPlayer-1.3.0.tar.xz</sourcefile>
   <sourcedir>MPlayer-1.3.0</sourcedir>
   <unpack/>

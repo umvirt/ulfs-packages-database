@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xkbevd</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xkbevd-1.1.4.tar.bz2</sourcefile>
   <sourcedir>xkbevd-1.1.4</sourcedir>
   <unpack/>

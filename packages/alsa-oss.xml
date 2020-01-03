@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>alsa-oss</code>
+  <description>QUxTQSB3cmFwcGVyIGZvciBPU1MgYXBwbGljYXRpb25z</description>
   <sourcefile>alsa-oss-1.1.8.tar.bz2</sourcefile>
   <sourcedir>alsa-oss-1.1.8</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mc</code>
+  <description>TUMgKE1pZG5pZ2h0IENvbW1hbmRlcikgaXMgYSB0ZXh0LW1vZGUgZnVsbC1zY3JlZW4gZmlsZSBtYW5hZ2VyIGFuZCB2aXN1YWwgc2hlbGwuIEl0IHByb3ZpZGVzIGEgY2xlYXIsIHVzZXItZnJpZW5kbHksIGFuZCBzb21ld2hhdCBwcm90ZWN0ZWQgaW50ZXJmYWNlIHRvIGEgVW5peCBzeXN0ZW0gd2hpbGUgbWFraW5nIG1hbnkgZnJlcXVlbnQgZmlsZSBvcGVyYXRpb25zIG1vcmUgZWZmaWNpZW50IGFuZCBwcmVzZXJ2aW5nIHRoZSBmdWxsIHBvd2VyIG9mIHRoZSBjb21tYW5kIHByb21wdC4g</description>
   <sourcefile>mc-4.8.21.tar.xz</sourcefile>
   <sourcedir>mc-4.8.21</sourcedir>
   <unpack/>

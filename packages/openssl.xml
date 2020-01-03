@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>openssl</code>
+  <description>VGhlIE9wZW5TU0wtMS4wLjJwIHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHJlbGF0aW5nIHRvIGNyeXB0b2dyYXBoeS4gVGhlc2UgYXJlIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIGNyeXB0b2dyYXBoaWMgZnVuY3Rpb25zIHRvIG90aGVyIHBhY2thZ2VzLCBzdWNoIGFzIGVtYWlsIGFwcGxpY2F0aW9ucyBhbmQgd2ViIGJyb3dzZXJzIChmb3IgYWNjZXNzaW5nIEhUVFBTIHNpdGVzKS4gVGhpcyBwYWNrYWdlIHByb3ZpZGVzIG9ubHkgdGhlIGxpYnJhcmllcyBhbmQgaGVhZGVycyBmb3IgcGFja2FnZXMgdGhhdCBoYXZlIG5vdCB5ZXQgYmVlbiBwb3J0ZWQgdG8gb3BlbnNzbC0xLjEueCBvciBsYXRlci4g</description>
   <sourcefile>openssl-1.1.1b.tar.gz</sourcefile>
   <sourcedir>openssl-1.1.1b</sourcedir>
   <unpack/>

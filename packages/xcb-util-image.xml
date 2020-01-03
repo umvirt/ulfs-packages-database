@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcb-util-image</code>
+  <description>VGhlIHhjYi11dGlsLWltYWdlIHBhY2thZ2UgcHJvdmlkZXMgYWRkaXRpb25hbCBleHRlbnNpb25zIHRvIHRoZSBYQ0IgbGlicmFyeS4g</description>
   <sourcefile>xcb-util-image-0.4.0.tar.bz2</sourcefile>
   <sourcedir>xcb-util-image-0.4.0</sourcedir>
   <unpack/>

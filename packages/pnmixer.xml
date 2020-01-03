@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pnmixer</code>
+  <description>IFRoZSBQbm1peGVyIHBhY2thZ2UgcHJvdmlkZXMgYSBsaWdodHdlaWdodCB2b2x1bWUgY29udHJvbCB3aXRoIGEgdHJheSBpY29uLiA=</description>
   <sourcefile>pnmixer-0.5.1.tar.gz</sourcefile>
   <sourcedir>pnmixer-0.5.1</sourcedir>
   <unpack/>

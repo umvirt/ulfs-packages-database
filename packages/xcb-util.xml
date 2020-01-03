@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcb-util</code>
+  <description>VGhlIHhjYi11dGlsIHBhY2thZ2UgcHJvdmlkZXMgYWRkaXRpb25hbCBleHRlbnNpb25zIHRvIHRoZSBYQ0IgbGlicmFyeSwgbWFueSB0aGF0IHdlcmUgcHJldmlvdXNseSBmb3VuZCBpbiBYbGliLCBidXQgYXJlIG5vdCBwYXJ0IG9mIGNvcmUgWCBwcm90b2NvbC4g</description>
   <sourcefile>xcb-util-0.4.0.tar.bz2</sourcefile>
   <sourcedir>xcb-util-0.4.0</sourcedir>
   <unpack/>

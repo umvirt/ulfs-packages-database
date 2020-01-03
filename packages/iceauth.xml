@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>iceauth</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>iceauth-1.0.8.tar.bz2</sourcefile>
   <sourcedir>iceauth-1.0.8</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xkeyboard-config</code>
+  <description>VGhlIFhLZXlib2FyZENvbmZpZyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBrZXlib2FyZCBjb25maWd1cmF0aW9uIGRhdGFiYXNlIGZvciB0aGUgWCBXaW5kb3cgU3lzdGVtLiA=</description>
   <sourcefile>xkeyboard-config-2.24.tar.bz2</sourcefile>
   <sourcedir>xkeyboard-config-2.24</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>npth</code>
+  <description>VGhlIE5QdGggcGFja2FnZSBjb250YWlucyBhIHZlcnkgcG9ydGFibGUgUE9TSVgvQU5TSS1DIGJhc2VkIGxpYnJhcnkgZm9yIFVuaXggcGxhdGZvcm1zIHdoaWNoIHByb3ZpZGVzIG5vbi1wcmVlbXB0aXZlIHByaW9yaXR5LWJhc2VkIHNjaGVkdWxpbmcgZm9yIG11bHRpcGxlIHRocmVhZHMgb2YgZXhlY3V0aW9uIChtdWx0aXRocmVhZGluZykgaW5zaWRlIGV2ZW50LWRyaXZlbiBhcHBsaWNhdGlvbnMuIEFsbCB0aHJlYWRzIHJ1biBpbiB0aGUgc2FtZSBhZGRyZXNzIHNwYWNlIG9mIHRoZSBzZXJ2ZXIgYXBwbGljYXRpb24sIGJ1dCBlYWNoIHRocmVhZCBoYXMgaXRzIG93biBpbmRpdmlkdWFsIHByb2dyYW0tY291bnRlciwgcnVuLXRpbWUgc3RhY2ssIHNpZ25hbCBtYXNrIGFuZCBlcnJubyB2YXJpYWJsZS4g</description>
   <sourcefile>npth-1.6.tar.bz2</sourcefile>
   <sourcedir>npth-1.6</sourcedir>
   <unpack/>

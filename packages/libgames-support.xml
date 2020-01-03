@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgames-support</code>
+  <description>SW50ZXJuYWwgc3VwcG9ydCBsaWJyYXJ5IGZvciBHTk9NRSBnYW1lcw==</description>
   <sourcefile>libgames-support-1.0.2.tar.xz</sourcefile>
   <sourcedir>libgames-support-1.0.2</sourcedir>
   <unpack/>

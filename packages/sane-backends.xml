@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>sane-backends</code>
+  <description>U0FORSBpcyBzaG9ydCBmb3IgU2Nhbm5lciBBY2Nlc3MgTm93IEVhc3kuICBUaGUgYmFjayBlbmRzIGFyZSBkcml2ZXJzIGZvciB0aGUgc3VwcG9ydGVkIHNjYW5uZXJzIGFuZCBjYW1lcmFzLg==</description>
   <sourcefile>sane-backends-1.0.27.tar.gz</sourcefile>
   <sourcedir>sane-backends-1.0.27</sourcedir>
   <unpack/>

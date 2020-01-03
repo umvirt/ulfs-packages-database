@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wpa_supplicant-gui</code>
+  <description>R1VJIGZvciB3cGFfc3VwcGxpY2FudA==</description>
   <sourcefile>wpa_supplicant-2.6.tar.gz</sourcefile>
   <sourcedir>wpa_supplicant-2.6</sourcedir>
   <unpack/>

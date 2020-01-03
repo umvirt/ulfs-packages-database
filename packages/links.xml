@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>links</code>
+  <description>TGlua3MgaXMgYSB0ZXh0IGFuZCBncmFwaGljcyBtb2RlIFdXVyBicm93c2VyLiBJdCBpbmNsdWRlcyBzdXBwb3J0IGZvciByZW5kZXJpbmcgdGFibGVzIGFuZCBmcmFtZXMsIGZlYXR1cmVzIGJhY2tncm91bmQgZG93bmxvYWRzLCBjYW4gZGlzcGxheSBjb2xvcnMgYW5kIGhhcyBtYW55IG90aGVyIGZlYXR1cmVzLiA=</description>
   <sourcefile>links-2.16.tar.bz2</sourcefile>
   <sourcedir>links-2.16</sourcedir>
   <unpack/>

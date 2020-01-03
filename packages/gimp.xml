@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gimp</code>
+  <description>VGhlIEdpbXAgcGFja2FnZSBjb250YWlucyB0aGUgR05VIEltYWdlIE1hbmlwdWxhdGlvbiBQcm9ncmFtIHdoaWNoIGlzIHVzZWZ1bCBmb3IgcGhvdG8gcmV0b3VjaGluZywgaW1hZ2UgY29tcG9zaXRpb24gYW5kIGltYWdlIGF1dGhvcmluZy4g</description>
   <sourcefile>gimp-2.10.14.tar.bz2</sourcefile>
   <sourcedir>gimp-2.10.14</sourcedir>
   <unpack/>

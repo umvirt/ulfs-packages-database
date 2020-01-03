@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-media</code>
+  <description>TUFURSBtZWRpYSB1dGlsaXRpZXM=</description>
   <sourcefile>mate-media-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-media-1.22.0</sourcedir>
   <unpack/>

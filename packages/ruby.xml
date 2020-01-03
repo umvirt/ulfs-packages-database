@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ruby</code>
+  <description>VGhlIFJ1YnkgcGFja2FnZSBjb250YWlucyB0aGUgUnVieSBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4gVGhpcyBpcyB1c2VmdWwgZm9yIG9iamVjdC1vcmllbnRlZCBzY3JpcHRpbmcuIA==</description>
   <sourcefile>ruby-2.5.1.tar.xz</sourcefile>
   <sourcedir>ruby-2.5.1</sourcedir>
   <unpack/>

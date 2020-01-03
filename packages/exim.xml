@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>exim</code>
+  <description>IFRoZSBFeGltIHBhY2thZ2UgY29udGFpbnMgYSBNYWlsIFRyYW5zcG9ydCBBZ2VudCB3cml0dGVuIGJ5IHRoZSBVbml2ZXJzaXR5IG9mIENhbWJyaWRnZSwgcmVsZWFzZWQgdW5kZXIgdGhlIEdOVSBQdWJsaWMgTGljZW5zZS4g</description>
   <sourcefile>exim-4.92.2.tar.xz</sourcefile>
   <sourcedir>exim-4.92.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>jack2</code>
+  <description>SkFDSzIgQXVkaW8gQ29ubmVjdGlvbiBLaXQ=</description>
   <sourcefile>jack2-1.9.12.tar.gz</sourcefile>
   <sourcedir>jack2-1.9.12</sourcedir>
   <unpack/>

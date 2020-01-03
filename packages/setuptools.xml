@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>setuptools</code>
+  <description>RWFzaWx5IGRvd25sb2FkLCBidWlsZCwgaW5zdGFsbCwgdXBncmFkZSwgYW5kIHVuaW5zdGFsbCBQeXRob24gcGFja2FnZXMu</description>
   <sourcefile>setuptools-27.2.0.tar.gz</sourcefile>
   <sourcedir>setuptools-27.2.0</sourcedir>
   <unpack/>

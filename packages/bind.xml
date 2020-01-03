@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>bind</code>
+  <description>VGhlIEJJTkQgcGFja2FnZSBwcm92aWRlcyBhIEROUyBzZXJ2ZXIgYW5kIGNsaWVudCB1dGlsaXRpZXMu</description>
   <sourcefile>bind-9.13.2.tar.gz</sourcefile>
   <sourcedir>bind-9.13.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wine</code>
+  <description>TWljcm9zb2Z0IFdpbmRvd3MgQ29tcGF0aWJpbGl0eSBMYXllcg==</description>
   <sourcefile>wine-4.0.1.tar.xz</sourcefile>
   <sourcedir>wine-4.0.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libsigcpp</code>
+  <description>IFRoZSBsaWJzaWdjKysgcGFja2FnZSBpbXBsZW1lbnRzIGEgdHlwZXNhZmUgY2FsbGJhY2sgc3lzdGVtIGZvciBzdGFuZGFyZCBDKysuIA==</description>
   <sourcefile>libsigc++-2.10.0.tar.xz</sourcefile>
   <sourcedir>libsigc++-2.10.0</sourcedir>
   <unpack/>

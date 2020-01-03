@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libnet</code>
+  <description>QSBwb3J0YWJsZSBmcmFtZXdvcmsgZm9yIGxvdy1sZXZlbCBuZXR3b3JrIHBhY2tldCBjb25zdHJ1Y3Rpb24=</description>
   <sourcefile>libnet-1.2.tar.gz</sourcefile>
   <sourcedir>libnet-libnet-1.2</sourcedir>
   <unpack/>

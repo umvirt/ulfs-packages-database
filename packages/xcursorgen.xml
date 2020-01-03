@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcursorgen</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xcursorgen-1.0.6.tar.bz2</sourcefile>
   <sourcedir>xcursorgen-1.0.6</sourcedir>
   <unpack/>

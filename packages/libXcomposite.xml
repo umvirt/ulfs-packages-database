@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXcomposite</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXcomposite-0.4.4.tar.bz2</sourcefile>
   <sourcedir>libXcomposite-0.4.4</sourcedir>
   <unpack/>

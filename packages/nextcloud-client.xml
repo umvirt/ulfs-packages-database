@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nextcloud-client</code>
+  <description>TmV4dGNsb3VkIGRlc2t0b3AgY2xpZW50</description>
   <sourcefile>nextcloud-desktop-2.6.2.tar.gz</sourcefile>
   <sourcedir>desktop-2.6.2</sourcedir>
   <unpack/>

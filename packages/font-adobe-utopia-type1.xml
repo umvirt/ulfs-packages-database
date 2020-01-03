@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>font-adobe-utopia-type1</code>
+  <description>WG9yZyBGb250</description>
   <sourcefile>font-adobe-utopia-type1-1.0.4.tar.bz2</sourcefile>
   <sourcedir>font-adobe-utopia-type1-1.0.4</sourcedir>
   <unpack/>

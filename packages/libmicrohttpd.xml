@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmicrohttpd</code>
+  <description>CWxpYnJhcnkgZW1iZWRkaW5nIEhUVFAgc2VydmVyIGZ1bmN0aW9uYWxpdHk=</description>
   <sourcefile>libmicrohttpd-0.9.60.tar.gz</sourcefile>
   <sourcedir>libmicrohttpd-0.9.60</sourcedir>
   <unpack/>

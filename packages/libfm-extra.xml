@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libfm-extra</code>
+  <description>IFRoZSBsaWJmbS1leHRyYSBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSBhbmQgb3RoZXIgZmlsZXMgcmVxdWlyZWQgYnkgbWVudS1jYWNoZS1nZW4gbGliZXhlYyBvZiBtZW51LWNhY2hlLTEuMS4wLiA=</description>
   <sourcefile>libfm-1.3.0.2.tar.xz</sourcefile>
   <sourcedir>libfm-1.3.0.2</sourcedir>
   <unpack/>

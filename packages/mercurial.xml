@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mercurial</code>
+  <description>ICBNZXJjdXJpYWwgaXMgYSBkaXN0cmlidXRlZCBzb3VyY2UgY29udHJvbCBtYW5hZ2VtZW50IHRvb2wgc2ltaWxhciB0byBHaXQgYW5kIEJhemFhci4gTWVyY3VyaWFsIGlzIHdyaXR0ZW4gaW4gUHl0aG9uIGFuZCBpcyB1c2VkIGJ5IHByb2plY3RzIHN1Y2ggYXMgTW96aWxsYSBhbmQgVmltLiA=</description>
   <sourcefile>mercurial-4.7.tar.gz</sourcefile>
   <sourcedir>mercurial-4.7</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libwebp</code>
+  <description>VGhlIGxpYndlYnAgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHN1cHBvcnQgcHJvZ3JhbXMgdG8gZW5jb2RlIGFuZCBkZWNvZGUgaW1hZ2VzIGluIFdlYlAgZm9ybWF0LiA=</description>
   <sourcefile>libwebp-1.0.0.tar.gz</sourcefile>
   <sourcedir>libwebp-1.0.0</sourcedir>
   <unpack/>

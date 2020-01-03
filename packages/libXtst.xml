@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXtst</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXtst-1.2.3.tar.bz2</sourcefile>
   <sourcedir>libXtst-1.2.3</sourcedir>
   <unpack/>

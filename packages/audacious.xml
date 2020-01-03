@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>audacious</code>
+  <description>QXVkYWNpb3VzIGlzIGFuIGF1ZGlvIHBsYXllci4gRnVsbCBwYWNrYWdlLg==</description>
   <sourcefile>audacious-plugins-3.10.tar.bz2</sourcefile>
   <sourcedir>audacious-plugins-3.10</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dconf-editor</code>
+  <description>IFRoZSBEQ29uZi1FZGl0b3IsIGFzIHRoZSBuYW1lIHN1Z2dlc3RzLCBpcyBhIGdyYXBoaWNhbCBlZGl0b3IgZm9yIHRoZSBEQ29uZiBkYXRhYmFzZS4gSW5zdGFsbGF0aW9uIGlzIG9wdGlvbmFsLCBiZWNhdXNlIGdzZXR0aW5ncyBmcm9tIEdMaWItMi41Ni4xIHByb3ZpZGVzIHNpbWlsYXIgZnVuY3Rpb25hbGl0eSBvbiB0aGUgY29tbWFuZGxpbmUu</description>
   <sourcefile>dconf-0.28.0.tar.xz</sourcefile>
   <sourcedir>dconf-0.28.0</sourcedir>
   <unpack/>

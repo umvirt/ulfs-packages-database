@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libcdio-base</code>
+  <description>VGhlIGxpYmNkaW8gaXMgYSBsaWJyYXJ5IGZvciBDRC1ST00gYW5kIENEIGltYWdlIGFjY2Vzcy4g</description>
   <sourcefile>libcdio-2.0.0.tar.gz</sourcefile>
   <sourcedir>libcdio-2.0.0</sourcedir>
   <unpack/>

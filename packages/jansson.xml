@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>jansson</code>
+  <description>QyBsaWJyYXJ5IGZvciBlbmNvZGluZywgZGVjb2RpbmcgYW5kIG1hbmlwdWxhdGluZyBKU09OIGRhdGE=</description>
   <sourcefile>jansson-2.12.tar.bz2</sourcefile>
   <sourcedir>jansson-2.12</sourcedir>
   <unpack/>

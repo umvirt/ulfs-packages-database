@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>sharutils</code>
+  <description>VGhlIFNoYXJ1dGlscyBwYWNrYWdlIGNvbnRhaW5zIHV0aWxpdGllcyB0aGF0IGNhbiBjcmVhdGUgJ3NoZWxsJyBhcmNoaXZlcy4=</description>
   <sourcefile>sharutils-4.15.2.tar.xz</sourcefile>
   <sourcedir>sharutils-4.15.2</sourcedir>
   <unpack/>

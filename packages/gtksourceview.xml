@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gtksourceview</code>
+  <description>VGhlIEd0a1NvdXJjZVZpZXcgcGFja2FnZSBjb250YWlucyBsaWJyYXJpZXMgdXNlZCBmb3IgZXh0ZW5kaW5nIHRoZSBHVEsrIHRleHQgZnVuY3Rpb25zIHRvIGluY2x1ZGUgc3ludGF4IGhpZ2hsaWdodGluZy4g</description>
   <sourcefile>gtksourceview-3.24.8.tar.xz</sourcefile>
   <sourcedir>gtksourceview-3.24.8</sourcedir>
   <unpack/>

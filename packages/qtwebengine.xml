@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>qtwebengine</code>
+  <description>UXRXZWJFbmdpbmUgaW50ZWdyYXRlcyBjaHJvbWl1bSJzIHdlYiBjYXBhYmlsaXRpZXMgaW50byBRdC4gSXQgc2hpcHMgd2l0aCBpdHMgb3duIGNvcHkgb2YgbmluamEgd2hpY2ggaXQgdXNlcyBmb3IgdGhlIGJ1aWxkIGlmIGl0IGNhbm5vdCBmaW5kIGEgc3lzdGVtIGNvcHksIGFuZCB2YXJpb3VzIGNvcGllcyBvZiBsaWJyYXJpZXMgZnJvbSBmZm1wZWcsIGljdSwgbGlidnB4LCBhbmQgemxpYiAoaW5jbHVkaW5nIGxpYm1pbml6aXApIHdoaWNoIGhhdmUgYmVlbiBmb3JrZWQgYnkgdGhlIGNocm9taXVtIGRldmVsb3BlcnMuIA==</description>
   <sourcefile>qtwebengine-everywhere-src-5.13.2.tar.xz</sourcefile>
   <sourcedir>qtwebengine-everywhere-src-5.13.2</sourcedir>
   <unpack/>

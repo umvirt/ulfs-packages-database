@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>audacity</code>
+  <description>QXVkYWNpdHkgaXMgYSBmcmVlLCBlYXN5LXRvLXVzZSwgbXVsdGktdHJhY2sgYXVkaW8gZWRpdG9yIGFuZCByZWNvcmRlciBmb3IgV2luZG93cywgTWFjIE9TIFgsIEdOVS9MaW51eCBhbmQgb3RoZXIgb3BlcmF0aW5nIHN5c3RlbXMu</description>
   <sourcefile>audacity-minsrc-2.3.1.tar.xz</sourcefile>
   <sourcedir>audacity-minsrc-2.3.1</sourcedir>
   <unpack/>

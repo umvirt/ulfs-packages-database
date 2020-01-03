@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mupdf</code>
+  <description>TXVQREYgaXMgYSBsaWdodHdlaWdodCBQREYgYW5kIFhQUyB2aWV3ZXIuIA==</description>
   <sourcefile>mupdf-1.13.0-source.tar.gz</sourcefile>
   <sourcedir>mupdf-1.13.0-source</sourcedir>
   <unpack/>

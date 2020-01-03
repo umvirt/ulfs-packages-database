@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fceux</code>
+  <description>TkVTIGVtdWxhdG9yIChkaXJ0eSk=</description>
   <sourcefile>fceux-2.2.3.src.tar.gz</sourcefile>
   <sourcedir>fceux-2.2.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wayland</code>
+  <description>V2F5bGFuZCBpcyBhIHByb2plY3QgdG8gZGVmaW5lIGEgcHJvdG9jb2wgZm9yIGEgY29tcG9zaXRvciB0byB0YWxrIHRvIGl0cyBjbGllbnRzIGFzIHdlbGwgYXMgYSBsaWJyYXJ5IGltcGxlbWVudGF0aW9uIG9mIHRoZSBwcm90b2NvbC4g</description>
   <sourcefile>wayland-1.15.0.tar.xz</sourcefile>
   <sourcedir>wayland-1.15.0</sourcedir>
   <unpack/>

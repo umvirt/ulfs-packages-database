@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fcron</code>
+  <description>VGhlIEZjcm9uIHBhY2thZ2UgY29udGFpbnMgYSBwZXJpb2RpY2FsIGNvbW1hbmQgc2NoZWR1bGVyIHdoaWNoIGFpbXMgYXQgcmVwbGFjaW5nIFZpeGllIENyb24uIA==</description>
   <sourcefile>fcron-3.2.1.src.tar.gz</sourcefile>
   <sourcedir>fcron-3.2.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>inkscape</code>
+  <description>SW5rc2NhcGUgaXMgYSB3aGF0IHlvdSBzZWUgaXMgd2hhdCB5b3UgZ2V0IFNjYWxhYmxlIFZlY3RvciBHcmFwaGljcyBlZGl0b3IuIEl0IGlzIHVzZWZ1bCBmb3IgY3JlYXRpbmcsIHZpZXdpbmcgYW5kIGNoYW5naW5nIFNWRyBpbWFnZXMuIA==</description>
   <sourcefile>inkscape-0.92.3.tar.bz2</sourcefile>
   <sourcedir>inkscape-0.92.3</sourcedir>
   <unpack/>

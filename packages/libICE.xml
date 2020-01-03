@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libICE</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libICE-1.0.9.tar.bz2</sourcefile>
   <sourcedir>libICE-1.0.9</sourcedir>
   <unpack/>

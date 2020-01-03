@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>apr-util</code>
+  <description>VGhlIEFwYWNoZSBQb3J0YWJsZSBSdW50aW1lIFV0aWxpdHkgTGlicmFyeSBwcm92aWRlcyBhIHByZWRpY3RhYmxlIGFuZCBjb25zaXN0ZW50IGludGVyZmFjZSB0byB1bmRlcmx5aW5nIGNsaWVudCBsaWJyYXJ5IGludGVyZmFjZXMuIFRoaXMgYXBwbGljYXRpb24gcHJvZ3JhbW1pbmcgaW50ZXJmYWNlIGFzc3VyZXMgcHJlZGljdGFibGUgaWYgbm90IGlkZW50aWNhbCBiZWhhdmlvdXIgcmVnYXJkbGVzcyBvZiB3aGljaCBsaWJyYXJpZXMgYXJlIGF2YWlsYWJsZSBvbiBhIGdpdmVuIHBsYXRmb3JtLiA=</description>
   <sourcefile>apr-util-1.6.1.tar.bz2</sourcefile>
   <sourcedir>apr-util-1.6.1</sourcedir>
   <unpack/>

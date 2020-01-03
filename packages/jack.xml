@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>jack</code>
+  <description>SkFDSyBBdWRpbyBDb25uZWN0aW9uIEtpdCA=</description>
   <sourcefile>jack-audio-connection-kit-0.125.0.tar.gz</sourcefile>
   <sourcedir>jack-audio-connection-kit-0.125.0</sourcedir>
   <unpack/>

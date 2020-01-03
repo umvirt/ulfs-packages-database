@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cryptsetup</code>
+  <description>Y3J5cHRzZXR1cCBpcyB1c2VkIHRvIHNldCB1cCB0cmFuc3BhcmVudCBlbmNyeXB0aW9uIG9mIGJsb2NrIGRldmljZXMgdXNpbmcgdGhlIGtlcm5lbCBjcnlwdG8gQVBJLiA=</description>
   <sourcefile>cryptsetup-2.0.4.tar.xz</sourcefile>
   <sourcedir>cryptsetup-2.0.4</sourcedir>
   <unpack/>

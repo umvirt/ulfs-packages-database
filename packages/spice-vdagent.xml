@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>spice-vdagent</code>
+  <description>U1BJQ0UgcHJvdG9jb2wgZ3Vlc3QgYWRkaXRpb25z</description>
   <sourcefile>spice-vdagent-0.17.0.tar.bz2</sourcefile>
   <sourcedir>spice-vdagent-0.17.0</sourcedir>
   <unpack/>

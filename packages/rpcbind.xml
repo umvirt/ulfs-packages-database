@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>rpcbind</code>
+  <description>VGhlIHJwY2JpbmQgcHJvZ3JhbSBpcyBhIHJlcGxhY2VtZW50IGZvciBwb3J0bWFwLiBJdCBpcyByZXF1aXJlZCBmb3IgaW1wb3J0IG9yIGV4cG9ydCBvZiBOZXR3b3JrIEZpbGUgU3lzdGVtIChORlMpIHNoYXJlZCBkaXJlY3Rvcmllcy4g</description>
   <sourcefile>rpcbind-0.2.4.tar.bz2</sourcefile>
   <sourcedir>rpcbind-0.2.4</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gtk2</code>
+  <description>VGhlIEdUSysgMiBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBjcmVhdGluZyBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzIGZvciBhcHBsaWNhdGlvbnMuIA==</description>
   <sourcefile>gtk+-2.24.32.tar.xz</sourcefile>
   <sourcedir>gtk+-2.24.32</sourcedir>
   <unpack/>

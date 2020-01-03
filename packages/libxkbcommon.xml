@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libxkbcommon</code>
+  <description>bGlieGtiY29tbW9uIGlzIGEga2V5bWFwIGNvbXBpbGVyIGFuZCBzdXBwb3J0IGxpYnJhcnkgd2hpY2ggcHJvY2Vzc2VzIGEgcmVkdWNlZCBzdWJzZXQgb2Yga2V5bWFwcyBhcyBkZWZpbmVkIGJ5IHRoZSBYS0Igc3BlY2lmaWNhdGlvbi4g</description>
   <sourcefile>libxkbcommon-0.8.2.tar.xz</sourcefile>
   <sourcedir>libxkbcommon-0.8.2</sourcedir>
   <unpack/>

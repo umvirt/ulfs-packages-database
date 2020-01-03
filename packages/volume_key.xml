@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>volume_key</code>
+  <description>IFRoZSB2b2x1bWVfa2V5IHBhY2thZ2UgcHJvdmlkZXMgYSBsaWJyYXJ5IGZvciBtYW5pcHVsYXRpbmcgc3RvcmFnZSB2b2x1bWUgZW5jcnlwdGlvbiBrZXlzIGFuZCBzdG9yaW5nIHRoZW0gc2VwYXJhdGVseSBmcm9tIHZvbHVtZXMgdG8gaGFuZGxlIGZvcmdvdHRlbiBwYXNzcGhyYXNlcy4g</description>
   <sourcefile>volume_key-0.3.11.tar.xz</sourcefile>
   <sourcedir>volume_key-0.3.11</sourcedir>
   <unpack/>

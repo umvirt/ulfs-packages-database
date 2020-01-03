@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-sensors-applet</code>
+  <description>TWF0ZSBzZW5zb3JzIGFwcGxldA==</description>
   <sourcefile>mate-sensors-applet-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-sensors-applet-1.22.0</sourcedir>
   <unpack/>

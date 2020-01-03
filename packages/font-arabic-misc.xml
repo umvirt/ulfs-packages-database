@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>font-arabic-misc</code>
+  <description>QXJhYmljIEZvbnRz</description>
   <sourcefile>font-arabic-misc-1.0.3.tar.bz2</sourcefile>
   <sourcedir>font-arabic-misc-1.0.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>VTK</code>
+  <description>VGhlIFZpc3VhbGl6YXRpb24gVG9vbGtpdCAoVlRLKSBpcyBhbiBvcGVuLXNvdXJjZSwgZnJlZWx5IGF2YWlsYWJsZSBzb2Z0d2FyZSBzeXN0ZW0gZm9yIDNEIGNvbXB1dGVyIGdyYXBoaWNzLCBtb2RlbGluZywgaW1hZ2UgcHJvY2Vzc2luZywgdm9sdW1lIHJlbmRlcmluZywgc2NpZW50aWZpYyB2aXN1YWxpemF0aW9uLCBhbmQgMkQgcGxvdHRpbmcuIA==</description>
   <sourcefile>VTK-8.2.0.tar.gz</sourcefile>
   <sourcedir>VTK-8.2.0</sourcedir>
   <unpack/>

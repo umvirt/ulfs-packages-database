@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libvdpau</code>
+  <description>IFZEUEFVIChWaWRlbyBEZWNvZGUgYW5kIFByZXNlbnRhdGlvbiBBUEkgZm9yIFVuaXgpIGlzIGFuIG9wZW4gc291cmNlIGxpYnJhcnkgKGxpYnZkcGF1KSBhbmQgQVBJIG9yaWdpbmFsbHkgZGVzaWduZWQgYnkgTnZpZGlhIGZvciBpdHMgR2VGb3JjZSA4IHNlcmllcyBhbmQgbGF0ZXIgR1BVIGhhcmR3YXJlIHRhcmdldGVkIGF0IHRoZSBYIFdpbmRvdyBTeXN0ZW0gVGhpcyBWRFBBVSBBUEkgYWxsb3dzIHZpZGVvIHByb2dyYW1zIHRvIG9mZmxvYWQgcG9ydGlvbnMgb2YgdGhlIHZpZGVvIGRlY29kaW5nIHByb2Nlc3MgYW5kIHZpZGVvIHBvc3QtcHJvY2Vzc2luZyB0byB0aGUgR1BVIHZpZGVvLWhhcmR3YXJlLg==</description>
   <sourcefile>libvdpau-1.1.1.tar.bz2</sourcefile>
   <sourcedir>libvdpau-1.1.1</sourcedir>
   <unpack/>

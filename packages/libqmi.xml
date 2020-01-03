@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libqmi</code>
+  <description>VGhlIGxpYnFtaSBwYWNrYWdlIGNvbnRhaW5zIGEgR0xpYi1iYXNlZCBsaWJyYXJ5IGZvciB0YWxraW5nIHRvIFdXQU4gbW9kZW1zIGFuZCBkZXZpY2VzIHdoaWNoIHNwZWFrIHRoZSBRdWFsY29tbSBNU00gSW50ZXJmYWNlIChRTUkpIHByb3RvY29sLiA=</description>
   <sourcefile>libqmi-1.20.2.tar.xz</sourcefile>
   <sourcedir>libqmi-1.20.2</sourcedir>
   <unpack/>

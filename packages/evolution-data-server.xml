@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>evolution-data-server</code>
+  <description>ICBFdm9sdXRpb24gRGF0YSBTZXJ2ZXIgcGFja2FnZSBwcm92aWRlcyBhIHVuaWZpZWQgYmFja2VuZCBmb3IgcHJvZ3JhbXMgdGhhdCB3b3JrIHdpdGggY29udGFjdHMsIHRhc2tzLCBhbmQgY2FsZW5kYXIgaW5mb3JtYXRpb24uIEl0IHdhcyBvcmlnaW5hbGx5IGRldmVsb3BlZCBmb3IgRXZvbHV0aW9uIChoZW5jZSB0aGUgbmFtZSksIGJ1dCBpcyBub3cgdXNlZCBieSBvdGhlciBwYWNrYWdlcyBhcyB3ZWxsLiA=</description>
   <sourcefile>evolution-data-server-3.28.5.tar.xz</sourcefile>
   <sourcedir>evolution-data-server-3.28.5</sourcedir>
   <unpack/>

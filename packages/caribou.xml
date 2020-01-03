@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>caribou</code>
+  <description>Q2FyaWJvdSBpcyBhbiBpbnB1dCBhc3Npc3RpdmUgdGVjaG5vbG9neSBpbnRlbmRlZCBmb3Igc3dpdGNoIGFuZCBwb2ludGVyIHVzZXJzLiA=</description>
   <sourcefile>caribou-0.4.21.tar.xz</sourcefile>
   <sourcedir>caribou-0.4.21</sourcedir>
   <unpack/>

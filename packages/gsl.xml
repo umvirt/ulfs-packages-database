@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gsl</code>
+  <description>IFRoZSBHTlUgU2NpZW50aWZpYyBMaWJyYXJ5IChHU0wpIGlzIGEgbnVtZXJpY2FsIGxpYnJhcnkgZm9yIEMgYW5kIEMrKyBwcm9ncmFtbWVycy4gSXQgcHJvdmlkZXMgYSB3aWRlIHJhbmdlIG9mIG1hdGhlbWF0aWNhbCByb3V0aW5lcyBzdWNoIGFzIHJhbmRvbSBudW1iZXIgZ2VuZXJhdG9ycywgc3BlY2lhbCBmdW5jdGlvbnMgYW5kIGxlYXN0LXNxdWFyZXMgZml0dGluZy4=</description>
   <sourcefile>gsl-2.5.tar.gz</sourcefile>
   <sourcedir>gsl-2.5</sourcedir>
   <unpack/>

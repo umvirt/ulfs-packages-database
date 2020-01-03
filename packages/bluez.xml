@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>bluez</code>
+  <description>VGhlIEJsdWVaIHBhY2thZ2UgY29udGFpbnMgdGhlIEJsdWV0b290aCBwcm90b2NvbCBzdGFjayBmb3IgTGludXguIA==</description>
   <sourcefile>bluez-5.50.tar.xz</sourcefile>
   <sourcedir>bluez-5.50</sourcedir>
   <unpack/>

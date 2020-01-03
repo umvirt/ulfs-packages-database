@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libxklavier</code>
+  <description>VGhlIGxpYnhrbGF2aWVyIHBhY2thZ2UgY29udGFpbnMgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIFgga2V5Ym9hcmQuIA==</description>
   <sourcefile>libxklavier-5.4.tar.bz2</sourcefile>
   <sourcedir>libxklavier-5.4</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>newt</code>
+  <description>TmV3dCBpcyBhIHByb2dyYW1taW5nIGxpYnJhcnkgZm9yIGNvbG9yIHRleHQgbW9kZSwgd2lkZ2V0IGJhc2VkIHVzZXIgaW50ZXJmYWNlcy4gSXQgY2FuIGJlIHVzZWQgdG8gYWRkIHN0YWNrZWQgd2luZG93cywgZW50cnkgd2lkZ2V0cywgY2hlY2tib3hlcywgcmFkaW8gYnV0dG9ucywgbGFiZWxzLCBwbGFpbiB0ZXh0IGZpZWxkcywgc2Nyb2xsYmFycywgZXRjLiwgdG8gdGV4dCBtb2RlIHVzZXIgaW50ZXJmYWNlcy4gTmV3dCBpcyBiYXNlZCBvbiB0aGUgUy1MYW5nIGxpYnJhcnkuIA==</description>
   <sourcefile>newt-0.52.20.tar.gz</sourcefile>
   <sourcedir>newt-0.52.20</sourcedir>
   <unpack/>

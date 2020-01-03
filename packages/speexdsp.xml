@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>speexdsp</code>
+  <description>VGhlIFNwZWV4IGV4dGVuZGVkIHJ1bnRpbWUgbGlicmFyeS4=</description>
   <sourcefile>speexdsp-1.2.0.tar.gz</sourcefile>
   <sourcedir>speexdsp-1.2.0</sourcedir>
   <unpack/>

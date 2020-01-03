@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mtdev</code>
+  <description>VGhlIG10ZGV2IHBhY2thZ2UgY29udGFpbnMgTXVsdGl0b3VjaCBQcm90b2NvbCBUcmFuc2xhdGlvbiBMaWJyYXJ5IHdoaWNoIGlzIHVzZWQgdG8gdHJhbnNmb3JtIGFsbCB2YXJpYW50cyBvZiBrZXJuZWwgTVQgKE11bHRpdG91Y2gpIGV2ZW50cyB0byB0aGUgc2xvdHRlZCB0eXBlIEIgcHJvdG9jb2wuIA==</description>
   <sourcefile>mtdev-1.1.5.tar.bz2</sourcefile>
   <sourcedir>mtdev-1.1.5</sourcedir>
   <unpack/>

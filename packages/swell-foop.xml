@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>swell-foop</code>
+  <description>U3dlbGwgRm9vcCBpcyBhIHB1enpsZSBnYW1lLCBwcmV2aW91c2x5IGtub3duIGFzIFNhbWUgR05PTUUu</description>
   <sourcefile>swell-foop-3.34.1.tar.xz</sourcefile>
   <sourcedir>swell-foop-3.34.1</sourcedir>
   <unpack/>

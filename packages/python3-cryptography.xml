@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-cryptography</code>
+  <description>Y3J5cHRvZ3JhcGh5IGlzIGEgcGFja2FnZSB3aGljaCBwcm92aWRlcyBjcnlwdG9ncmFwaGljIHJlY2lwZXMgYW5kIHByaW1pdGl2ZXMgdG8gUHl0aG9uIGRldmVsb3BlcnMuIE91ciBnb2FsIGlzIGZvciBpdCB0byBiZSB5b3VyIOKAnGNyeXB0b2dyYXBoaWMgc3RhbmRhcmQgbGlicmFyeeKAnS4g</description>
   <sourcefile>cryptography-2.8.tar.gz</sourcefile>
   <sourcedir>cryptography-2.8</sourcedir>
   <unpack/>

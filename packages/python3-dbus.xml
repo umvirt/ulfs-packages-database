@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-dbus</code>
+  <description>ZGJ1cy1weXRob24gaXMgdGhlIG9yaWdpbmFsIFB5dGhvbiBiaW5kaW5nIGZvciBkYnVzLCB0aGUgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBELUJ1cyBwcm90b2NvbC4=</description>
   <sourcefile>dbus-python-1.2.8.tar.gz</sourcefile>
   <sourcedir>dbus-python-1.2.8</sourcedir>
   <unpack/>

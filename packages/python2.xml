@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python2</code>
+  <description>ICBUaGUgUHl0aG9uIDIgcGFja2FnZSBjb250YWlucyB0aGUgUHl0aG9uIGRldmVsb3BtZW50IGVudmlyb25tZW50LiBJdCBpcyB1c2VmdWwgZm9yIG9iamVjdC1vcmllbnRlZCBwcm9ncmFtbWluZywgd3JpdGluZyBzY3JpcHRzLCBwcm90b3R5cGluZyBsYXJnZSBwcm9ncmFtcyBvciBkZXZlbG9waW5nIGVudGlyZSBhcHBsaWNhdGlvbnMuIFRoaXMgdmVyc2lvbiBpcyBmb3IgYmFja3dhcmQgY29tcGF0aWJpbGl0eSB3aXRoIG90aGVyIGRlcGVuZGVudCBwYWNrYWdlcy4g</description>
   <sourcefile>Python-2.7.15.tar.xz</sourcefile>
   <sourcedir>Python-2.7.15</sourcedir>
   <unpack/>

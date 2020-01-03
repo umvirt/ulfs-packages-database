@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dnsmasq</code>
+  <description>U21hbGwgY2FjaGluZyBETlMgcHJveHkgYW5kIERIQ1AvVEZUUCBzZXJ2ZXI=</description>
   <sourcefile>dnsmasq-2.80.tar.xz</sourcefile>
   <sourcedir>dnsmasq-2.80</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>util-macros</code>
+  <description>VGhlIHV0aWwtbWFjcm9zIHBhY2thZ2UgY29udGFpbnMgdGhlIG00IG1hY3JvcyB1c2VkIGJ5IGFsbCBvZiB0aGUgWG9yZyBwYWNrYWdlcy4g</description>
   <sourcefile>util-macros-1.19.2.tar.bz2</sourcefile>
   <sourcedir>util-macros-1.19.2</sourcedir>
   <unpack/>

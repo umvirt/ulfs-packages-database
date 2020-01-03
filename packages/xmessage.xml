@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xmessage</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xmessage-1.0.5.tar.bz2</sourcefile>
   <sourcedir>xmessage-1.0.5</sourcedir>
   <unpack/>

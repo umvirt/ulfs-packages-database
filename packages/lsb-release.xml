@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lsb-release</code>
+  <description>VGhlIGxzYl9yZWxlYXNlIHNjcmlwdCBnaXZlcyBpbmZvcm1hdGlvbiBhYm91dCB0aGUgTGludXggU3RhbmRhcmRzIEJhc2UgKExTQikgc3RhdHVzIG9mIHRoZSBkaXN0cmlidXRpb24uIA==</description>
   <sourcefile>lsb-release-1.4.tar.gz</sourcefile>
   <sourcedir>lsb-release-1.4</sourcedir>
   <unpack/>

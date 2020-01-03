@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXcursor</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXcursor-1.1.15.tar.bz2</sourcefile>
   <sourcedir>libXcursor-1.1.15</sourcedir>
   <unpack/>

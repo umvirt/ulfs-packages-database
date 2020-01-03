@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-video-vboxvideo</code>
+  <description>VmlydHVhbEJveCBYb3JnIGRyaXZlcg==</description>
   <sourcefile>xf86-video-vboxvideo-1.0.0.tar.bz2</sourcefile>
   <sourcedir>xf86-video-vboxvideo-1.0.0</sourcedir>
   <unpack/>

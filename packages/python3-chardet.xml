@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-chardet</code>
+  <description>VW5pdmVyc2FsIGVuY29kaW5nIGRldGVjdG9yIGZvciBQeXRob24=</description>
   <sourcefile>chardet-3.0.4.tar.gz</sourcefile>
   <sourcedir>chardet-3.0.4</sourcedir>
   <unpack/>

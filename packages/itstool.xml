@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>itstool</code>
+  <description>SXRzdG9vbCBleHRyYWN0cyBtZXNzYWdlcyBmcm9tIFhNTCBmaWxlcyBhbmQgb3V0cHV0cyBQTyB0ZW1wbGF0ZSBmaWxlcywgdGhlbiBtZXJnZXMgdHJhbnNsYXRpb25zIGZyb20gTU8gZmlsZXMgdG8gY3JlYXRlIHRyYW5zbGF0ZWQgWE1MIGZpbGVzLiBJdCBkZXRlcm1pbmVzIHdoYXQgdG8gdHJhbnNsYXRlIGFuZCBob3cgdG8gY2h1bmsgaXQgaW50byBtZXNzYWdlcyB1c2luZyB0aGUgVzNDIEludGVybmF0aW9uYWxpemF0aW9uIFRhZyBTZXQgKElUUyku</description>
   <sourcefile>itstool-2.0.4.tar.bz2</sourcefile>
   <sourcedir>itstool-2.0.4</sourcedir>
   <unpack/>

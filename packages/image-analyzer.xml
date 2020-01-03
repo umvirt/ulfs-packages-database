@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>image-analyzer</code>
+  <description>SW1hZ2UgQW5hbHl6ZXIgaXMgYSBzaW1wbGUgR3RrKyBhcHBsaWNhdGlvbiB0aGF0IGRpc3BsYXlzIHRyZWUgc3RydWN0dXJlIG9mIGRpc2MgaW1hZ2UgY3JlYXRlZCBieSBsaWJNaXJhZ2Uu</description>
   <sourcefile>image-analyzer-3.2.2.tar.bz2</sourcefile>
   <sourcedir>image-analyzer-3.2.2</sourcedir>
   <unpack/>

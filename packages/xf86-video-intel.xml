@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-video-intel</code>
+  <description>SW50ZWwgR1BVIFhvcmcgZHJpdmVy</description>
   <sourcefile>xf86-video-intel-20190723.tar.xz</sourcefile>
   <sourcedir>xf86-video-intel-20190723</sourcedir>
   <unpack/>

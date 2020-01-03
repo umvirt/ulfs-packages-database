@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmateweather</code>
+  <description>bWF0ZXdlYXRoZXIgZGlzcGxheXMgdGhlIGN1cnJlbnQgdGVtcGVyYXR1cmUgYW5kIHdlYXRoZXIgY29uZGl0aW9ucyBpbiBudW1lcmljIGFuZCBpY29uaWZpZWQgZm9ybSBpbnNpZGUgdGhlIGFwcGxldC4=</description>
   <sourcefile>libmateweather-1.22.0.tar.xz</sourcefile>
   <sourcedir>libmateweather-1.22.0</sourcedir>
   <unpack/>

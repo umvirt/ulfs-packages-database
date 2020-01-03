@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fskbsetting</code>
+  <description>ZnNrYnNldHRpbmcgLSBHVUkgRnJvbnQtZW5kIGZvciBzZXR4a2JtYXAgY29tbWFuZCB0byBzd2l0Y2ggbGF5b3V0cw==</description>
   <sourcefile>fskbsetting-0.3.5.tar.gz</sourcefile>
   <sourcedir>fskbsetting-0.3.5</sourcedir>
   <unpack/>

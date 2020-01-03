@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xkbutils</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xkbutils-1.0.4.tar.bz2</sourcefile>
   <sourcedir>xkbutils-1.0.4</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-input-libinput</code>
+  <description>VGhlIFguT3JnIExpYmlucHV0IERyaXZlciBpcyBhIHRoaW4gd3JhcHBlciBhcm91bmQgbGliaW5wdXQgYW5kIGFsbG93cyBmb3IgbGliaW5wdXQgdG8gYmUgdXNlZCBmb3IgaW5wdXQgZGV2aWNlcyBpbiBYLiBUaGlzIGRyaXZlciBjYW4gYmUgdXNlZCBhcyBhcyBkcm9wLWluIHJlcGxhY2VtZW50IGZvciBldmRldiBhbmQgc3luYXB0aWNzLiA=</description>
   <sourcefile>xf86-input-libinput-0.28.0.tar.bz2</sourcefile>
   <sourcedir>xf86-input-libinput-0.28.0</sourcedir>
   <unpack/>

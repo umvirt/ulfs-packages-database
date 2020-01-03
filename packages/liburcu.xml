@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>liburcu</code>
+  <description>bGlidXJjdSBpcyBhIHVzZXJzcGFjZSBSQ1UgKHJlYWQtY29weS11cGRhdGUpIGxpYnJhcnkuIFRoaXMgZGF0YSBzeW5jaHJvbml6YXRpb24gbGlicmFyeSBwcm92aWRlcyByZWFkLXNpZGUgYWNjZXNzIHdoaWNoIHNjYWxlcyBsaW5lYXJseSB3aXRoIHRoZSBudW1iZXIgb2YgY29yZXMuIA==</description>
   <sourcefile>userspace-rcu-0.10.tar.bz2</sourcefile>
   <sourcedir>userspace-rcu-0.10.2</sourcedir>
   <unpack/>

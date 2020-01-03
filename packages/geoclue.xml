@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>geoclue</code>
+  <description>R2VvQ2x1ZSBpcyBhIG1vZHVsYXIgZ2VvaW5mb3JtYXRpb24gc2VydmljZSBidWlsdCBvbiB0b3Agb2YgdGhlIEQtQnVzIG1lc3NhZ2luZyBzeXN0ZW0uIFRoZSBnb2FsIG9mIHRoZSBHZW9DbHVlIHByb2plY3QgaXMgdG8gbWFrZSBjcmVhdGluZyBsb2NhdGlvbi1hd2FyZSBhcHBsaWNhdGlvbnMgYXMgc2ltcGxlIGFzIHBvc3NpYg==</description>
   <sourcefile>geoclue-2.4.11.tar.xz</sourcefile>
   <sourcedir>geoclue-2.4.11</sourcedir>
   <unpack/>

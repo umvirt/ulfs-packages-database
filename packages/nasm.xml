@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nasm</code>
+  <description>TkFTTSAoTmV0d2lkZSBBc3NlbWJsZXIpIGlzIGFuIDgweDg2IGFzc2VtYmxlciBkZXNpZ25lZCBmb3IgcG9ydGFiaWxpdHkgYW5kIG1vZHVsYXJpdHkuIEl0IGluY2x1ZGVzIGEgZGlzYXNzZW1ibGVyIGFzIHdlbGwuIA==</description>
   <sourcefile>nasm-2.13.03.tar.xz</sourcefile>
   <sourcedir>nasm-2.13.03</sourcedir>
   <unpack/>

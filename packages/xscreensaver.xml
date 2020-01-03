@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xscreensaver</code>
+  <description>VGhlIFhTY3JlZW5TYXZlciBpcyBhIG1vZHVsYXIgc2NyZWVuIHNhdmVyIGFuZCBsb2NrZXIgZm9yIHRoZSBYIFdpbmRvdyBTeXN0ZW0u</description>
   <sourcefile>xscreensaver-5.40.tar.gz</sourcefile>
   <sourcedir>xscreensaver-5.40</sourcedir>
   <unpack/>

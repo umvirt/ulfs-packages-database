@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>freeglut</code>
+  <description>RnJlZWdsdXQgaXMgaW50ZW5kZWQgdG8gYmUgYSAxMDAlIGNvbXBhdGlibGUsIGNvbXBsZXRlbHkgb3BlbnNvdXJjZWQgY2xvbmUgb2YgdGhlIEdMVVQgbGlicmFyeS4gR0xVVCBpcyBhIHdpbmRvdyBzeXN0ZW0gaW5kZXBlbmRlbnQgdG9vbGtpdCBmb3Igd3JpdGluZyBPcGVuR0wgcHJvZ3JhbXMsIGltcGxlbWVudGluZyBhIHNpbXBsZSB3aW5kb3dpbmcgQVBJLCB3aGljaCBtYWtlcyBsZWFybmluZyBhYm91dCBhbmQgZXhwbG9yaW5nIE9wZW5HTCBwcm9ncmFtbWluZyB2ZXJ5IGVhc3kuIA==</description>
   <sourcefile>freeglut-3.0.0.tar.gz</sourcefile>
   <sourcedir>freeglut-3.0.0</sourcedir>
   <unpack/>

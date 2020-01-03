@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXxf86dga</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXxf86dga-1.1.4.tar.bz2</sourcefile>
   <sourcedir>libXxf86dga-1.1.4</sourcedir>
   <unpack/>

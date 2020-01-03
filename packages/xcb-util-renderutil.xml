@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcb-util-renderutil</code>
+  <description>IFRoZSB4Y2ItdXRpbC1yZW5kZXJ1dGlsIHBhY2thZ2UgcHJvdmlkZXMgYWRkaXRpb25hbCBleHRlbnNpb25zIHRvIHRoZSBYQ0IgbGlicmFyeS4g</description>
   <sourcefile>xcb-util-renderutil-0.3.9.tar.bz2</sourcefile>
   <sourcedir>xcb-util-renderutil-0.3.9</sourcedir>
   <unpack/>

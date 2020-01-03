@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>docbook2x</code>
+  <description>Q29udmVydHMgRG9jQm9vay9YTUwgZG9jdW1lbnRzIGludG8gbWFuIHBhZ2VzIGFuZCBUZVhpbmZvLg==</description>
   <sourcefile>docbook2X-0.8.8.tar.gz</sourcefile>
   <sourcedir>docbook2X-0.8.8</sourcedir>
   <unpack/>

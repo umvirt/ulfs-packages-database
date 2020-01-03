@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fdk-aac</code>
+  <description>ZmRrLWFhYyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBGcmF1bmhvZmVyIEZESyBBQUMgbGlicmFyeSwgd2hpY2ggaXMgcHVycG9ydGVkIHRvIGJlIGEgaGlnaCBxdWFsaXR5IEFkdmFuY2VkIEF1ZGlvIENvZGluZyBpbXBsZW1lbnRhdGlvbi4g</description>
   <sourcefile>fdk-aac-0.1.6.tar.gz</sourcefile>
   <sourcedir>fdk-aac-0.1.6</sourcedir>
   <unpack/>

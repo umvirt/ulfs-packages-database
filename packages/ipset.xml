@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ipset</code>
+  <description>YWRtaW5pc3RyYXRpb24gdG9vbCBmb3Iga2VybmVsIElQIHNldHMg</description>
   <sourcefile>ipset-7.4.tar.bz2</sourcefile>
   <sourcedir>ipset-7.4</sourcedir>
   <unpack/>

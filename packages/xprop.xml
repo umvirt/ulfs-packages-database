@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xprop</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xprop-1.2.3.tar.bz2</sourcefile>
   <sourcedir>xprop-1.2.3</sourcedir>
   <unpack/>

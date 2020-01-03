@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-libvirt</code>
+  <description>VGhlIGxpYnZpcnQgdmlydHVhbGl6YXRpb24gQVBJIHB5dGhvbiBiaW5kaW5nLg==</description>
   <sourcefile>libvirt-python-5.7.0.tar.gz</sourcefile>
   <sourcedir>libvirt-python-5.7.0</sourcedir>
   <unpack/>

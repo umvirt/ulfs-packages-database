@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>p7zip</code>
+  <description>cDd6aXAgaXMgdGhlIFVuaXggY29tbWFuZC1saW5lIHBvcnQgb2YgNy1aaXAsIGEgZmlsZSBhcmNoaXZlciB0aGF0IGFyY2hpdmVzIHdpdGggaGlnaCBjb21wcmVzc2lvbiByYXRpb3MuIEl0IGhhbmRsZXMgN3osIFpJUCwgR1pJUCwgQlpJUDIsIFhaLCBUQVIsIEFQTSwgQVJKLCBDQUIsIENITSwgQ1BJTywgQ3JhbUZTLCBERUIsIERNRywgRkFULCBIRlMsIElTTywgTFpILCBMWk1BLCBMWk1BMiwgTUJSLCBNU0ksIE1TTFosIE5TSVMsIE5URlMsIFJBUiBSUE0sIFNxdWFzaEZTLCBVREYsIFZIRCwgV0lNLCBYQVIgYW5kIFogZm9ybWF0cy4g</description>
   <sourcefile>p7zip_16.02_src_all.tar.bz2</sourcefile>
   <sourcedir>p7zip_16.02</sourcedir>
   <unpack/>

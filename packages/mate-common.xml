@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-common</code>
+  <description>TWF0ZSBjb21tb24gbGlicmFyaWVz</description>
   <sourcefile>mate-common-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-common-1.22.0</sourcedir>
   <unpack/>

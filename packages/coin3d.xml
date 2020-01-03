@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>coin3d</code>
+  <description>Q29pbjNEIGlzIGEgZnJlZSBhbmQgb3Blbi1zb3VyY2UgaW1wbGVtZW50YXRpb24gKGxpYnJhcnkpIG9mIHRoZSBPcGVuIEludmVudG9yIEFQSS4=</description>
   <sourcefile>coin-hg-30674a94a67f.tar.gz</sourcefile>
   <sourcedir>coin-hg-30674a94a67f</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>glib-networking</code>
+  <description>VGhlIEdMaWIgTmV0d29ya2luZyBwYWNrYWdlIGNvbnRhaW5zIE5ldHdvcmsgcmVsYXRlZCBnaW8gbW9kdWxlcyBmb3IgR0xpYi4g</description>
   <sourcefile>glib-networking-2.56.1.tar.xz</sourcefile>
   <sourcedir>glib-networking-2.56.1</sourcedir>
   <unpack/>

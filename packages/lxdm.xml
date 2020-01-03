@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxdm</code>
+  <description>ICBUaGUgTFhETSBpcyBhIGxpZ2h0d2VpZ2h0IERpc3BsYXkgTWFuYWdlciBmb3IgdGhlIExYREUgZGVza3RvcC4gSXQgY2FuIGFsc28gYmUgdXNlZCBhcyBhbiBhbHRlcm5hdGl2ZSB0byBvdGhlciBEaXNwbGF5IE1hbmFnZXJzIHN1Y2ggYXMgR05PTUUncyBHRE0gb3IgTGlnaHRETS4g</description>
   <sourcefile>lxdm-0.5.3.tar.xz</sourcefile>
   <sourcedir>lxdm-0.5.3</sourcedir>
   <unpack/>

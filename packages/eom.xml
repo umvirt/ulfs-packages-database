@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>eom</code>
+  <description>ZW9tIG9yIHRoZSBFeWUgb2YgTUFURSBpcyBhIHNpbXBsZSBncmFwaGljcyB2aWV3ZXIgZm9yIHRoZSBNQVRFIGRlc2t0b3Agd2hpY2ggdXNlcyB0aGUgZ2RrLXBpeGJ1ZiBsaWJyYXJ5LiA=</description>
   <sourcefile>eom-1.22.0.tar.xz</sourcefile>
   <sourcedir>eom-1.22.0</sourcedir>
   <unpack/>

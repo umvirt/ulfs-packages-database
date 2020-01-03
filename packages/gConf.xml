@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gConf</code>
+  <description>VGhlIEdDb25mIHBhY2thZ2UgY29udGFpbnMgYSBjb25maWd1cmF0aW9uIGRhdGFiYXNlIHN5c3RlbSB1c2VkIGJ5IG1hbnkgR05PTUUgYXBwbGljYXRpb25zLiA=</description>
   <sourcefile>GConf-3.2.6.tar.xz</sourcefile>
   <sourcedir>GConf-3.2.6</sourcedir>
   <unpack/>

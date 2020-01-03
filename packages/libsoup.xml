@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libsoup</code>
+  <description>IFRoZSBsaWJzb3VwIGlzIGEgSFRUUCBjbGllbnQvc2VydmVyIGxpYnJhcnkgZm9yIEdOT01FLiBJdCB1c2VzIEdPYmplY3QgYW5kIHRoZSBHTGliIG1haW4gbG9vcCB0byBpbnRlZ3JhdGUgd2l0aCBHTk9NRSBhcHBsaWNhdGlvbnMgYW5kIGl0IGFsc28gaGFzIGFuIGFzeW5jaHJvbm91cyBBUEkgZm9yIHVzZSBpbiB0aHJlYWRlZCBhcHBsaWNhdGlvbnMuIA==</description>
   <sourcefile>libsoup-2.62.3.tar.xz</sourcefile>
   <sourcedir>libsoup-2.62.3</sourcedir>
   <unpack/>

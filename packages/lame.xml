@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lame</code>
+  <description>VGhlIExBTUUgcGFja2FnZSBjb250YWlucyBhbiBNUDMgZW5jb2RlciBhbmQgb3B0aW9uYWxseSwgYW4gTVAzIGZyYW1lIGFuYWx5emVyLiBUaGlzIGlzIHVzZWZ1bCBmb3IgY3JlYXRpbmcgYW5kIGFuYWx5emluZyBjb21wcmVzc2VkIGF1ZGlvIGZpbGVzLiA=</description>
   <sourcefile>lame-3.100.tar.gz</sourcefile>
   <sourcedir>lame-3.100</sourcedir>
   <unpack/>

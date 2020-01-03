@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xine-lib</code>
+  <description>IFRoZSBYaW5lIExpYnJhcmllcyBwYWNrYWdlIGNvbnRhaW5zIHhpbmUgbGlicmFyaWVzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBpbnRlcmZhY2luZyB3aXRoIGV4dGVybmFsIHBsdWctaW5zIHRoYXQgYWxsb3cgdGhlIGZsb3cgb2YgaW5mb3JtYXRpb24gZnJvbSB0aGUgc291cmNlIHRvIHRoZSBhdWRpbyBhbmQgdmlkZW8gaGFyZHdhcmUu</description>
   <sourcefile>xine-lib-1.2.9.tar.xz</sourcefile>
   <sourcedir>xine-lib-1.2.9</sourcedir>
   <unpack/>

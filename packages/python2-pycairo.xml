@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python2-pycairo</code>
+  <description>IFB5Q2Fpcm8gcHJvdmlkZXMgUHl0aG9uIGJpbmRpbmdzIHRvIENhaXJvLiA=</description>
   <sourcefile>pycairo-1.17.1.tar.gz</sourcefile>
   <sourcedir>pycairo-1.17.1</sourcedir>
   <unpack/>

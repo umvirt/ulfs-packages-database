@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pcre2</code>
+  <description>IFRoZSBQQ1JFMiBwYWNrYWdlIGNvbnRhaW5zIGEgbmV3IGdlbmVyYXRpb24gb2YgdGhlIFBlcmwgQ29tcGF0aWJsZSBSZWd1bGFyIEV4cHJlc3Npb24gbGlicmFyaWVzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBpbXBsZW1lbnRpbmcgcmVndWxhciBleHByZXNzaW9uIHBhdHRlcm4gbWF0Y2hpbmcgdXNpbmcgdGhlIHNhbWUgc3ludGF4IGFuZCBzZW1hbnRpY3MgYXMgUGVybC4g</description>
   <sourcefile>pcre2-10.31.tar.bz2</sourcefile>
   <sourcedir>pcre2-10.31</sourcedir>
   <unpack/>

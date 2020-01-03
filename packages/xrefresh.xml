@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xrefresh</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xrefresh-1.0.6.tar.bz2</sourcefile>
   <sourcedir>xrefresh-1.0.6</sourcedir>
   <unpack/>

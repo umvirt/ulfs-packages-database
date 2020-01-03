@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>acpid</code>
+  <description>VGhlIGFjcGlkIChBZHZhbmNlZCBDb25maWd1cmF0aW9uIGFuZCBQb3dlciBJbnRlcmZhY2UgZXZlbnQgZGFlbW9uKSBpcyBhIGNvbXBsZXRlbHkgZmxleGlibGUsIHRvdGFsbHkgZXh0ZW5zaWJsZSBkYWVtb24gZm9yIGRlbGl2ZXJpbmcgQUNQSSBldmVudHMuIEl0IGxpc3RlbnMgb24gbmV0bGluayBpbnRlcmZhY2UgYW5kIHdoZW4gYW4gZXZlbnQgb2NjdXJzLCBleGVjdXRlcyBwcm9ncmFtcyB0byBoYW5kbGUgdGhlIGV2ZW50LiBUaGUgcHJvZ3JhbXMgaXQgZXhlY3V0ZXMgYXJlIGNvbmZpZ3VyZWQgdGhyb3VnaCBhIHNldCBvZiBjb25maWd1cmF0aW9uIGZpbGVzLCB3aGljaCBjYW4gYmUgZHJvcHBlZCBpbnRvIHBsYWNlIGJ5IHBhY2thZ2VzIG9yIGJ5IHRoZSB1c2VyLiA=</description>
   <sourcefile>acpid-2.0.30.tar.xz</sourcefile>
   <sourcedir>acpid-2.0.30</sourcedir>
   <unpack/>

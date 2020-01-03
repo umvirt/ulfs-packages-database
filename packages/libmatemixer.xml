@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmatemixer</code>
+  <description>TWl4ZXIgbGlicmFyeSBmb3IgTUFURSBEZXNrdG9w</description>
   <sourcefile>libmatemixer-1.22.0.tar.xz</sourcefile>
   <sourcedir>libmatemixer-1.22.0</sourcedir>
   <unpack/>

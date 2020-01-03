@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>openexr</code>
+  <description>Y29tbWFuZC1saW5lIHRvb2xzIGZvciB0aGUgT3BlbkVYUiBpbWFnZSBmb3JtYXQ=</description>
   <sourcefile>openexr-2.3.0.tar.gz</sourcefile>
   <sourcedir>openexr-2.3.0</sourcedir>
   <unpack/>

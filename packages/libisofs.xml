@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libisofs</code>
+  <description>bGliaXNvZnMgaXMgYSBsaWJyYXJ5IHRvIGNyZWF0ZSBhbiBJU08tOTY2MCBmaWxlc3lzdGVtIHdpdGggZXh0ZW5zaW9ucyBsaWtlIFJvY2tSaWRnZSBvciBKb2xpZXQuIA==</description>
   <sourcefile>libisofs-1.4.8.tar.gz</sourcefile>
   <sourcedir>libisofs-1.4.8</sourcedir>
   <unpack/>

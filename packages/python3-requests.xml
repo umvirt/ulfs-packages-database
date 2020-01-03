@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-requests</code>
+  <description>UmVxdWVzdHMgaXMgdGhlIG9ubHkgTm9uLUdNTyBIVFRQIGxpYnJhcnkgZm9yIFB5dGhvbiwgc2FmZSBmb3IgaHVtYW4gY29uc3VtcHRpb24u</description>
   <sourcefile>requests-2.22.0.tar.gz</sourcefile>
   <sourcedir>requests-2.22.0</sourcedir>
   <unpack/>

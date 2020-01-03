@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mariadb-client</code>
+  <description>TWFyaWFEQiBpcyBhIGNvbW11bml0eS1kZXZlbG9wZWQgZm9yayBhbmQgYSBkcm9wLWluIHJlcGxhY2VtZW50IGZvciB0aGUgTXlTUUwgcmVsYXRpb25hbCBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbS4g</description>
   <sourcefile>mariadb-10.4.7.tar.gz</sourcefile>
   <sourcedir>mariadb-10.4.7</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>at-spi2-core</code>
+  <description>VGhlIEF0LVNwaTIgQ29yZSBwYWNrYWdlIGlzIGEgcGFydCBvZiB0aGUgR05PTUUgQWNjZXNzaWJpbGl0eSBQcm9qZWN0LiBJdCBwcm92aWRlcyBhIFNlcnZpY2UgUHJvdmlkZXIgSW50ZXJmYWNlIGZvciB0aGUgQXNzaXN0aXZlIFRlY2hub2xvZ2llcyBhdmFpbGFibGUgb24gdGhlIEdOT01FIHBsYXRmb3JtIGFuZCBhIGxpYnJhcnkgYWdhaW5zdCB3aGljaCBhcHBsaWNhdGlvbnMgY2FuIGJlIGxpbmtlZC4g</description>
   <sourcefile>at-spi2-core-2.28.0.tar.xz</sourcefile>
   <sourcedir>at-spi2-core-2.28.0</sourcedir>
   <unpack/>

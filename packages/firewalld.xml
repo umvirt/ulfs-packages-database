@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>firewalld</code>
+  <description>ZHluYW1pY2FsbHkgbWFuYWdlZCBmaXJld2FsbCB3aXRoIHN1cHBvcnQgZm9yIG5ldHdvcmsgem9uZXM=</description>
   <sourcefile>firewalld-0.7.1.tar.gz</sourcefile>
   <sourcedir>firewalld-0.7.1</sourcedir>
   <unpack/>

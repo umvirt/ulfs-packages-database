@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libidl</code>
+  <description>bGlicmFyeSBmb3IgcGFyc2luZyBDT1JCQSBJREwgZmlsZXMg</description>
   <sourcefile>libIDL-0.8.14.tar.bz2</sourcefile>
   <sourcedir>libIDL-0.8.14</sourcedir>
   <unpack/>

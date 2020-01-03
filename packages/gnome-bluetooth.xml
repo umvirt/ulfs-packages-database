@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-bluetooth</code>
+  <description>VGhlIEdOT01FIEJsdWV0b290aCBwYWNrYWdlIGNvbnRhaW5zIHRvb2xzIGZvciBtYW5hZ2luZyBhbmQgbWFuaXB1bGF0aW5nIEJsdWV0b290aCBkZXZpY2VzIHVzaW5nIHRoZSBHTk9NRSBEZXNrdG9wLiA=</description>
   <sourcefile>gnome-bluetooth-3.28.2.tar.xz</sourcefile>
   <sourcedir>gnome-bluetooth-3.28.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libnotify</code>
+  <description>IFRoZSBsaWJub3RpZnkgbGlicmFyeSBpcyB1c2VkIHRvIHNlbmQgZGVza3RvcCBub3RpZmljYXRpb25zIHRvIGEgbm90aWZpY2F0aW9uIGRhZW1vbiwgYXMgZGVmaW5lZCBpbiB0aGUgRGVza3RvcCBOb3RpZmljYXRpb25zIHNwZWMuIFRoZXNlIG5vdGlmaWNhdGlvbnMgY2FuIGJlIHVzZWQgdG8gaW5mb3JtIHRoZSB1c2VyIGFib3V0IGFuIGV2ZW50IG9yIGRpc3BsYXkgc29tZSBmb3JtIG9mIGluZm9ybWF0aW9uIHdpdGhvdXQgZ2V0dGluZyBpbiB0aGUgdXNlcidzIHdheS4g</description>
   <sourcefile>libnotify-0.7.7.tar.xz</sourcefile>
   <sourcedir>libnotify-0.7.7</sourcedir>
   <unpack/>

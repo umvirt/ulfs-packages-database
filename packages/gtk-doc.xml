@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gtk-doc</code>
+  <description>IFRoZSBHVEstRG9jIHBhY2thZ2UgY29udGFpbnMgYSBjb2RlIGRvY3VtZW50ZXIuIFRoaXMgaXMgdXNlZnVsIGZvciBleHRyYWN0aW5nIHNwZWNpYWxseSBmb3JtYXR0ZWQgY29tbWVudHMgZnJvbSB0aGUgY29kZSB0byBjcmVhdGUgQVBJIGRvY3VtZW50YXRpb24uIA==</description>
   <sourcefile>gtk-doc-1.28.tar.xz</sourcefile>
   <sourcedir>gtk-doc-1.28</sourcedir>
   <unpack/>

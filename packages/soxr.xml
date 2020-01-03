@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>soxr</code>
+  <description>VGhlIFNvWCBSZXNhbXBsZXIgbGlicmFyeSBgbGlic294cicgcGVyZm9ybXMgb25lLWRpbWVuc2lvbmFsIHNhbXBsZS1yYXRlIGNvbnZlcnNpb27igJRpdCBtYXkgYmUgdXNlZCwgZm9yIGV4YW1wbGUsIHRvIHJlc2FtcGxlIFBDTS1lbmNvZGVkIGF1ZGlvLg==</description>
   <sourcefile>soxr-0.1.3-Source.tar.xz</sourcefile>
   <sourcedir>soxr-0.1.3-Source</sourcedir>
   <unpack/>

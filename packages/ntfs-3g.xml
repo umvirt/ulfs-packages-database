@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ntfs-3g</code>
+  <description>VGhlIE50ZnMtM2cgcGFja2FnZSBjb250YWlucyBhIHN0YWJsZSwgcmVhZC13cml0ZSBvcGVuIHNvdXJjZSBkcml2ZXIgZm9yIE5URlMgcGFydGl0aW9ucy4gTlRGUyBwYXJ0aXRpb25zIGFyZSB1c2VkIGJ5IG1vc3QgTWljcm9zb2Z0IG9wZXJhdGluZyBzeXN0ZW1zLiBOdGZzLTNnIGFsbG93cyB5b3UgdG8gbW91bnQgTlRGUyBwYXJ0aXRpb25zIGluIHJlYWQtd3JpdGUgbW9kZSBmcm9tIHlvdXIgTGludXggc3lzdGVtLiBJdCB1c2VzIHRoZSBGVVNFIGtlcm5lbCBtb2R1bGUgdG8gYmUgYWJsZSB0byBpbXBsZW1lbnQgTlRGUyBzdXBwb3J0IGluIHVzZXIgc3BhY2UuIFRoZSBwYWNrYWdlIGFsc28gY29udGFpbnMgdmFyaW91cyB1dGlsaXRpZXMgdXNlZnVsIGZvciBtYW5pcHVsYXRpbmcgTlRGUyBwYXJ0aXRpb25zLiA=</description>
   <sourcefile>ntfs-3g_ntfsprogs-2017.3.23.tgz</sourcefile>
   <sourcedir>ntfs-3g_ntfsprogs-2017.3.23</sourcedir>
   <unpack/>

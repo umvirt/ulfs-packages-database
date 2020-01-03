@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xkill</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xkill-1.0.5.tar.bz2</sourcefile>
   <sourcedir>xkill-1.0.5</sourcedir>
   <unpack/>

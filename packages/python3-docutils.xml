@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-docutils</code>
+  <description>RG9jdXRpbHMgaXMgYSBtb2R1bGFyIHN5c3RlbSBmb3IgcHJvY2Vzc2luZyBkb2N1bWVudGF0aW9uIGludG8gdXNlZnVsIGZvcm1hdHMsIHN1Y2ggYXMgSFRNTCwgWE1MLCBhbmQgTGFUZVguIEZvciBpbnB1dCBEb2N1dGlscyBzdXBwb3J0cyByZVN0cnVjdHVyZWRUZXh0LCBhbiBlYXN5LXRvLXJlYWQsIHdoYXQteW91LXNlZS1pcy13aGF0LXlvdS1nZXQgcGxhaW50ZXh0IG1hcmt1cCBzeW50YXgu</description>
   <sourcefile>docutils-0.15.2.tar.gz</sourcefile>
   <sourcedir>docutils-0.15.2</sourcedir>
   <unpack/>

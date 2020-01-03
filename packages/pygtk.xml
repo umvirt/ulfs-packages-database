@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pygtk</code>
+  <description>UHlHVEsgbGV0cyB5b3UgdG8gZWFzaWx5IGNyZWF0ZSBwcm9ncmFtcyB3aXRoIGEgZ3JhcGhpY2FsIHVzZXIgaW50ZXJmYWNlIHVzaW5nIHRoZSBQeXRob24gcHJvZ3JhbW1pbmcgbGFuZ3VhZ2UuIA==</description>
   <sourcefile>pygtk-2.24.0.tar.bz2</sourcefile>
   <sourcedir>pygtk-2.24.0</sourcedir>
   <unpack/>

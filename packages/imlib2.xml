@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>imlib2</code>
+  <description>aW1saWIyIGlzIGEgZ3JhcGhpY3MgbGlicmFyeSBmb3IgZmFzdCBmaWxlIGxvYWRpbmcsIHNhdmluZywgcmVuZGVyaW5nIGFuZCBtYW5pcHVsYXRpb24uIA==</description>
   <sourcefile>imlib2-1.5.1.tar.bz2</sourcefile>
   <sourcedir>imlib2-1.5.1</sourcedir>
   <unpack/>

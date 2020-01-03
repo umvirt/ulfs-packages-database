@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>font-ibm-type1</code>
+  <description>WG9yZyBGb250</description>
   <sourcefile>font-ibm-type1-1.0.3.tar.bz2</sourcefile>
   <sourcedir>font-ibm-type1-1.0.3</sourcedir>
   <unpack/>

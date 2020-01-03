@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pcre</code>
+  <description>IFRoZSBQQ1JFIHBhY2thZ2UgY29udGFpbnMgUGVybCBDb21wYXRpYmxlIFJlZ3VsYXIgRXhwcmVzc2lvbiBsaWJyYXJpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGltcGxlbWVudGluZyByZWd1bGFyIGV4cHJlc3Npb24gcGF0dGVybiBtYXRjaGluZyB1c2luZyB0aGUgc2FtZSBzeW50YXggYW5kIHNlbWFudGljcyBhcyBQZXJsIDUuIA==</description>
   <sourcefile>pcre-8.42.tar.bz2</sourcefile>
   <sourcedir>pcre-8.42</sourcedir>
   <unpack/>

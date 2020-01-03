@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>poppler-data</code>
+  <description>IFRoZSBQb3BwbGVyIHBhY2thZ2UgY29udGFpbnMgYSBQREYgcmVuZGVyaW5nIGxpYnJhcnkgYW5kIGNvbW1hbmQgbGluZSB0b29scyB1c2VkIHRvIG1hbmlwdWxhdGUgUERGIGZpbGVzLiBUaGlzIGlzIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIFBERiByZW5kZXJpbmcgZnVuY3Rpb25hbGl0eSBhcyBhIHNoYXJlZCBsaWJyYXJ5Lg==</description>
   <sourcefile>poppler-data-0.4.9.tar.gz</sourcefile>
   <sourcedir>poppler-data-0.4.9</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3_MarkupSafe</code>
+  <description>TWFya3VwU2FmZSBpcyBhIFB5dGhvbiBtb2R1bGUgdGhhdCBpbXBsZW1lbnRzIGEgWE1ML0hUTUwvWEhUTUwgTWFya3VwIHNhZmUgc3RyaW5nLg==</description>
   <sourcefile>MarkupSafe-1.0.tar.gz</sourcefile>
   <sourcedir>MarkupSafe-1.0</sourcedir>
   <unpack/>

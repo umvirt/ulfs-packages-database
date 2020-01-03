@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libwnck</code>
+  <description>IFRoZSBsaWJ3bmNrIHBhY2thZ2UgY29udGFpbnMgdGhlIFdpbmRvdyBOYXZpZ2F0b3IgQ29uc3RydWN0aW9uIEtpdC4g</description>
   <sourcefile>libwnck-2.30.7.tar.xz</sourcefile>
   <sourcedir>libwnck-2.30.7</sourcedir>
   <unpack/>

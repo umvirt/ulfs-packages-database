@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>clucene</code>
+  <description>ICBDTHVjZW5lIGlzIGEgQysrIHZlcnNpb24gb2YgTHVjZW5lLCBhIGhpZ2ggcGVyZm9ybWFuY2UgdGV4dCBzZWFyY2ggZW5naW5lLiA=</description>
   <sourcefile>clucene-core-2.3.3.4.tar.gz</sourcefile>
   <sourcedir>clucene-core-2.3.3.4</sourcedir>
   <unpack/>

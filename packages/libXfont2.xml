@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXfont2</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXfont2-2.0.3.tar.bz2</sourcefile>
   <sourcedir>libXfont2-2.0.3</sourcedir>
   <unpack/>

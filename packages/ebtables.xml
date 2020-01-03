@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ebtables</code>
+  <description>RXRoZXJuZXQgYnJpZGdlIGZyYW1lIHRhYmxlIGFkbWluaXN0cmF0aW9u</description>
   <sourcefile>ebtables-v2.0.10-4.tar.gz</sourcefile>
   <sourcedir>ebtables-v2.0.10-4</sourcedir>
   <unpack/>

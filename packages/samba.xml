@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>samba</code>
+  <description>VGhlIFNhbWJhIHBhY2thZ2UgcHJvdmlkZXMgZmlsZSBhbmQgcHJpbnQgc2VydmljZXMgdG8gU01CL0NJRlMgY2xpZW50cyBhbmQgV2luZG93cyBuZXR3b3JraW5nIHRvIExpbnV4IGNsaWVudHMuIFNhbWJhIGNhbiBhbHNvIGJlIGNvbmZpZ3VyZWQgYXMgYSBXaW5kb3dzIERvbWFpbiBDb250cm9sbGVyIHJlcGxhY2VtZW50LCBhIGZpbGUvcHJpbnQgc2VydmVyIGFjdGluZyBhcyBhIG1lbWJlciBvZiBhIFdpbmRvd3MgQWN0aXZlIERpcmVjdG9yeSBkb21haW4gYW5kIGEgTmV0QklPUyAocmZjMTAwMS8xMDAyKSBuYW1lc2VydmVyICh3aGljaCBhbW9uZyBvdGhlciB0aGluZ3MgcHJvdmlkZXMgTEFOIGJyb3dzaW5nIHN1cHBvcnQpLiA=</description>
   <sourcefile>samba-4.8.4.tar.gz</sourcefile>
   <sourcedir>samba-4.8.4</sourcedir>
   <unpack/>

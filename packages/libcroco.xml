@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libcroco</code>
+  <description>ICBUaGUgbGliY3JvY28gcGFja2FnZSBjb250YWlucyBhIHN0YW5kYWxvbmUgQ1NTMiBwYXJzaW5nIGFuZCBtYW5pcHVsYXRpb24gbGlicmFyeS4g</description>
   <sourcefile>libcroco-0.6.12.tar.xz</sourcefile>
   <sourcedir>libcroco-0.6.12</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libxml2</code>
+  <description>VGhlIGxpYnhtbDIgcGFja2FnZSBjb250YWlucyBsaWJyYXJpZXMgYW5kIHV0aWxpdGllcyB1c2VkIGZvciBwYXJzaW5nIFhNTCBmaWxlcy4g</description>
   <sourcefile>libxml2-2.9.8.tar.gz</sourcefile>
   <sourcedir>libxml2-2.9.8</sourcedir>
   <unpack/>

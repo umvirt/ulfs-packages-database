@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libglade</code>
+  <description>VGhlIGxpYmdsYWRlIHBhY2thZ2UgY29udGFpbnMgbGliZ2xhZGUgbGlicmFyaWVzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBsb2FkaW5nIEdsYWRlIGludGVyZmFjZSBmaWxlcyBpbiBhIHByb2dyYW0gYXQgcnVudGltZS4g</description>
   <sourcefile>libglade-2.6.4.tar.bz2</sourcefile>
   <sourcedir>libglade-2.6.4</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>smproxy</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>smproxy-1.0.6.tar.bz2</sourcefile>
   <sourcedir>smproxy-1.0.6</sourcedir>
   <unpack/>

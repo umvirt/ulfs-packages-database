@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>caja-dropbox</code>
+  <description>RHJvcGJveCBpbnRlZ3JhdGlvbiBmb3IgQ2FqYQ==</description>
   <sourcefile>caja-dropbox-1.22.0.tar.xz</sourcefile>
   <sourcedir>caja-dropbox-1.22.0</sourcedir>
   <unpack/>

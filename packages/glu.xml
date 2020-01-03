@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>glu</code>
+  <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBNZXNhIE9wZW5HTCBVdGlsaXR5IGxpYnJhcnkuIA==</description>
   <sourcefile>glu-9.0.0.tar.bz2</sourcefile>
   <sourcedir>glu-9.0.0</sourcedir>
   <unpack/>

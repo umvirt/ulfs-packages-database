@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>openldap-client</code>
+  <description>IFRoZSBPcGVuTERBUCBwYWNrYWdlIHByb3ZpZGVzIGFuIG9wZW4gc291cmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBMaWdodHdlaWdodCBEaXJlY3RvcnkgQWNjZXNzIFByb3RvY29sLiAgQ2xpZW50IHBhY2thZ2Uu</description>
   <sourcefile>openldap-2.4.46.tgz</sourcefile>
   <sourcedir>openldap-2.4.46</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgcrypt</code>
+  <description>VGhlIGxpYmdjcnlwdCBwYWNrYWdlIGNvbnRhaW5zIGEgZ2VuZXJhbCBwdXJwb3NlIGNyeXB0byBsaWJyYXJ5IGJhc2VkIG9uIHRoZSBjb2RlIHVzZWQgaW4gR251UEcuIFRoZSBsaWJyYXJ5IHByb3ZpZGVzIGEgaGlnaCBsZXZlbCBpbnRlcmZhY2UgdG8gY3J5cHRvZ3JhcGhpYyBidWlsZGluZyBibG9ja3MgdXNpbmcgYW4gZXh0ZW5kYWJsZSBhbmQgZmxleGlibGUgQVBJLiA=</description>
   <sourcefile>libgcrypt-1.8.3.tar.bz2</sourcefile>
   <sourcedir>libgcrypt-1.8.3</sourcedir>
   <unpack/>

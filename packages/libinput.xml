@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libinput</code>
+  <description>bGliaW5wdXQgaXMgYSBsaWJyYXJ5IHRoYXQgaGFuZGxlcyBpbnB1dCBkZXZpY2VzIGZvciBkaXNwbGF5IHNlcnZlcnMgYW5kIG90aGVyIGFwcGxpY2F0aW9ucyB0aGF0IG5lZWQgdG8gZGlyZWN0bHkgZGVhbCB3aXRoIGlucHV0IGRldmljZXMuIA==</description>
   <sourcefile>libinput-1.11.3.tar.xz</sourcefile>
   <sourcedir>libinput-1.11.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-session-manager</code>
+  <description>TWF0ZSBzZXNzaW9uIG1hbmFnZXI=</description>
   <sourcefile>mate-session-manager-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-session-manager-1.22.0</sourcedir>
   <unpack/>

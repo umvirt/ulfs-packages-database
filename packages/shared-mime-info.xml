@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>shared-mime-info</code>
+  <description>VGhlIFNoYXJlZCBNaW1lIEluZm8gcGFja2FnZSBjb250YWlucyBhIE1JTUUgZGF0YWJhc2UuIFRoaXMgYWxsb3dzIGNlbnRyYWwgdXBkYXRlcyBvZiBNSU1FIGluZm9ybWF0aW9uIGZvciBhbGwgc3VwcG9ydGluZyBhcHBsaWNhdGlvbnMuIA==</description>
   <sourcefile>shared-mime-info-1.10.tar.xz</sourcefile>
   <sourcedir>shared-mime-info-1.10</sourcedir>
   <unpack/>

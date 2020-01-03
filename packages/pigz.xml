@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pigz</code>
+  <description>IFBhcmFsbGVsIEltcGxlbWVudGF0aW9uIG9mIEdaaXA=</description>
   <sourcefile>pigz-2.4.tar.gz</sourcefile>
   <sourcedir>pigz-2.4</sourcedir>
   <unpack/>

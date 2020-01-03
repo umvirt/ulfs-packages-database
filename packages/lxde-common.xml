@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxde-common</code>
+  <description>VGhlIExYREUgQ29tbW9uIHBhY2thZ2UgcHJvdmlkZXMgYSBzZXQgb2YgZGVmYXVsdCBjb25maWd1cmF0aW9uIGZvciBMWERFLiA=</description>
   <sourcefile>lxde-common-0.99.2.tar.xz</sourcefile>
   <sourcedir>lxde-common-0.99.2</sourcedir>
   <unpack/>

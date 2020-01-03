@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libnl</code>
+  <description>IFRoZSBsaWJubCBzdWl0ZSBpcyBhIGNvbGxlY3Rpb24gb2YgbGlicmFyaWVzIHByb3ZpZGluZyBBUElzIHRvIG5ldGxpbmsgcHJvdG9jb2wgYmFzZWQgTGludXgga2VybmVsIGludGVyZmFjZXMu</description>
   <sourcefile>libnl-3.4.0.tar.gz </sourcefile>
   <sourcedir>libnl-3.4.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libao</code>
+  <description>TGludXgga2VybmVsIEFJTyBhY2Nlc3MgbGlicmFyeQ==</description>
   <sourcefile>libao-1.2.0.tar.gz</sourcefile>
   <sourcedir>libao-1.2.0</sourcedir>
   <unpack/>

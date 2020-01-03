@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>neon</code>
+  <description>bmVvbiBpcyBhbiBIVFRQIGFuZCBXZWJEQVYgY2xpZW50IGxpYnJhcnksIHdpdGggYSBDIGludGVyZmFjZS4g</description>
   <sourcefile>neon-0.30.2.tar.gz</sourcefile>
   <sourcedir>neon-0.30.2</sourcedir>
   <unpack/>

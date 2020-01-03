@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-setuptools_scm</code>
+  <description>c2V0dXB0b29sc19zY20gaGFuZGxlcyBtYW5hZ2luZyB5b3VyIFB5dGhvbiBwYWNrYWdlIHZlcnNpb25zIGluIFNDTSBtZXRhZGF0YSBpbnN0ZWFkIG9mIGRlY2xhcmluZyB0aGVtIGFzIHRoZSB2ZXJzaW9uIGFyZ3VtZW50IG9yIGluIGEgU0NNIG1hbmFnZWQgZmlsZS4=</description>
   <sourcefile>setuptools_scm-3.3.3.tar.gz</sourcefile>
   <sourcedir>setuptools_scm-3.3.3</sourcedir>
   <unpack/>

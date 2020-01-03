@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>font-bitstream-type1</code>
+  <description>Qml0c3RyZWFtIEZvbnRz</description>
   <sourcefile>font-bitstream-type1-1.0.3.tar.bz2</sourcefile>
   <sourcedir>font-bitstream-type1-1.0.3</sourcedir>
   <unpack/>

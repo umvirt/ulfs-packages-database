@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cairo</code>
+  <description>Q2Fpcm8gaXMgYSAyRCBncmFwaGljcyBsaWJyYXJ5IHdpdGggc3VwcG9ydCBmb3IgbXVsdGlwbGUgb3V0cHV0IGRldmljZXMuIEN1cnJlbnRseSBzdXBwb3J0ZWQgb3V0cHV0IHRhcmdldHMgaW5jbHVkZSB0aGUgWCBXaW5kb3cgU3lzdGVtLCB3aW4zMiwgaW1hZ2UgYnVmZmVycywgUG9zdFNjcmlwdCwgUERGIGFuZCBTVkcu</description>
   <sourcefile>cairo-1.14.12.tar.xz</sourcefile>
   <sourcedir>cairo-1.14.12</sourcedir>
   <unpack/>

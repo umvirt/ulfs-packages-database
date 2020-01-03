@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXvMC</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXvMC-1.0.10.tar.bz2</sourcefile>
   <sourcedir>libXvMC-1.0.10</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxmenu-data</code>
+  <description>IFRoZSBMWE1lbnUgRGF0YSBwYWNrYWdlIHByb3ZpZGVzIGZpbGVzIHJlcXVpcmVkIHRvIGJ1aWxkIGZyZWVkZXNrdG9wLm9yZyBtZW51IHNwZWMtY29tcGxpYW50IGRlc2t0b3AgbWVudXMgZm9yIExYREUuIA==</description>
   <sourcefile>lxmenu-data-0.1.5.tar.xz</sourcefile>
   <sourcedir>lxmenu-data-0.1.5</sourcedir>
   <unpack/>

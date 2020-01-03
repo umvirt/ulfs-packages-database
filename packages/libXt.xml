@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXt</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXt-1.1.5.tar.bz2</sourcefile>
   <sourcedir>libXt-1.1.5</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>yajl2</code>
+  <description>WWV0IEFub3RoZXIgSlNPTiBMaWJyYXJ5</description>
   <sourcefile>yajl-2.1.0.tar.gz</sourcefile>
   <sourcedir>lloyd-yajl-66cb08c</sourcedir>
   <unpack/>

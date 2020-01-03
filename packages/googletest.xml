@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>googletest</code>
+  <description>IEdvb2dsZXRlc3QgLSBHb29nbGUgVGVzdGluZyBhbmQgTW9ja2luZyBGcmFtZXdvcmsg</description>
   <sourcefile>googletest-release-1.8.1.tar.gz</sourcefile>
   <sourcedir>googletest-release-1.8.1</sourcedir>
   <unpack/>

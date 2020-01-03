@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>hexchat</code>
+  <description>IEhleENoYXQgaXMgYW4gSVJDIGNoYXQgcHJvZ3JhbS4gSXQgYWxsb3dzIHlvdSB0byBqb2luIG11bHRpcGxlIElSQyBjaGFubmVscyAoY2hhdCByb29tcykgYXQgdGhlIHNhbWUgdGltZSwgdGFsayBwdWJsaWNseSwgaGF2ZSBwcml2YXRlIG9uZS1vbi1vbmUgY29udmVyc2F0aW9ucywgZXRjLiBGaWxlIHRyYW5zZmVycyBhcmUgYWxzbyBwb3NzaWJsZS4=</description>
   <sourcefile>hexchat-2.14.1.tar.xz</sourcefile>
   <sourcedir>hexchat-2.14.1</sourcedir>
   <unpack/>

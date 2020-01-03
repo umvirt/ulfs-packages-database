@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>opus</code>
+  <description>T3B1cyBpcyBhIGxvc3N5IGF1ZGlvIGNvbXByZXNzaW9uIGZvcm1hdCBkZXZlbG9wZWQgYnkgdGhlIEludGVybmV0IEVuZ2luZWVyaW5nIFRhc2sgRm9yY2UgKElFVEYpIHRoYXQgaXMgcGFydGljdWxhcmx5IHN1aXRhYmxlIGZvciBpbnRlcmFjdGl2ZSBzcGVlY2ggYW5kIGF1ZGlvIHRyYW5zbWlzc2lvbiBvdmVyIHRoZSBJbnRlcm5ldC4gVGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBPcHVzIGRldmVsb3BtZW50IGxpYnJhcnkgYW5kIGhlYWRlcnMuIA==</description>
   <sourcefile>opus-1.2.1.tar.gz</sourcefile>
   <sourcedir>opus-1.2.1</sourcedir>
   <unpack/>

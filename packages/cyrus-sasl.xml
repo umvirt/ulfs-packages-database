@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cyrus-sasl</code>
+  <description>VGhlIEN5cnVzIFNBU0wgcGFja2FnZSBjb250YWlucyBhIFNpbXBsZSBBdXRoZW50aWNhdGlvbiBhbmQgU2VjdXJpdHkgTGF5ZXIsIGEgbWV0aG9kIGZvciBhZGRpbmcgYXV0aGVudGljYXRpb24gc3VwcG9ydCB0byBjb25uZWN0aW9uLWJhc2VkIHByb3RvY29scy4gVG8gdXNlIFNBU0wsIGEgcHJvdG9jb2wgaW5jbHVkZXMgYSBjb21tYW5kIGZvciBpZGVudGlmeWluZyBhbmQgYXV0aGVudGljYXRpbmcgYSB1c2VyIHRvIGEgc2VydmVyIGFuZCBmb3Igb3B0aW9uYWxseSBuZWdvdGlhdGluZyBwcm90ZWN0aW9uIG9mIHN1YnNlcXVlbnQgcHJvdG9jb2wgaW50ZXJhY3Rpb25zLiBJZiBpdHMgdXNlIGlzIG5lZ290aWF0ZWQsIGEgc2VjdXJpdHkgbGF5ZXIgaXMgaW5zZXJ0ZWQgYmV0d2VlbiB0aGUgcHJvdG9jb2wgYW5kIHRoZSBjb25uZWN0aW9uLiA=</description>
   <sourcefile>cyrus-sasl-2.1.26.tar.gz</sourcefile>
   <sourcedir>cyrus-sasl-2.1.26</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>harfbuzz</code>
+  <description>VGhlIEhhcmZCdXp6IHBhY2thZ2UgY29udGFpbnMgYW4gT3BlblR5cGUgdGV4dCBzaGFwaW5nIGVuZ2luZS4=</description>
   <sourcefile>harfbuzz-1.8.8.tar.bz2</sourcefile>
   <sourcedir>harfbuzz-1.8.8</sourcedir>
   <unpack/>

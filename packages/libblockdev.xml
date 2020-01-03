@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libblockdev</code>
+  <description>bGliYmxvY2tkZXYgaXMgYSBDIGxpYnJhcnkgc3VwcG9ydGluZyBHT2JqZWN0IEludHJvc3BlY3Rpb24gZm9yIG1hbmlwdWxhdGlvbiBvZiBibG9jayBkZXZpY2VzLiBJdCBoYXMgYSBwbHVnaW4tYmFzZWQgYXJjaGl0ZWN0dXJlIHdoZXJlIGVhY2ggdGVjaG5vbG9neSAobGlrZSBMVk0sIEJ0cmZzLCBNRCBSQUlELCBTd2FwLC4uLikgaXMgaW1wbGVtZW50ZWQgaW4gYSBzZXBhcmF0ZSBwbHVnaW4sIHBvc3NpYmx5IHdpdGggbXVsdGlwbGUgaW1wbGVtZW50YXRpb25zIChlLmcuIHVzaW5nIExWTSBDTEkgb3IgdGhlIG5ldyBMVk0gREJ1cyBBUEkpLiA=</description>
   <sourcefile>libblockdev-2.19.tar.gz</sourcefile>
   <sourcedir>libblockdev-2.19</sourcedir>
   <unpack/>

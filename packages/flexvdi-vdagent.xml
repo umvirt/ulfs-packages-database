@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>flexvdi-vdagent</code>
+  <description>RmxleFZESSBzcGljZS12ZGFnZW50IHBhY2thZ2UgcmVwbGFjZW1lbnQu</description>
   <sourcefile>flexvdi-vdagent-c96401be6de35ec4dca5359d04dc0bc6dc9340bf.tar.xz</sourcefile>
   <sourcedir>flexvdi-vdagent-c96401be6de35ec4dca5359d04dc0bc6dc9340bf</sourcedir>
   <unpack/>

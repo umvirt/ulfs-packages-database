@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxrandr</code>
+  <description>IFRoZSBMWFJhbmRSIHBhY2thZ2UgY29udGFpbnMgYSBtb25pdG9yIGNvbmZpZ3VyYXRpb24gdG9vbCBmb3IgTFhERS4g</description>
   <sourcefile>lxrandr-0.3.1.tar.xz</sourcefile>
   <sourcedir>lxrandr-0.3.1</sourcedir>
   <unpack/>

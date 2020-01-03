@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>yasm</code>
+  <description>WWFzbSBpcyBhIGNvbXBsZXRlIHJld3JpdGUgb2YgdGhlIE5BU00tMi4xMy4wMyBhc3NlbWJsZXIuIEl0IHN1cHBvcnRzIHRoZSB4ODYgYW5kIEFNRDY0IGluc3RydWN0aW9uIHNldHMsIGFjY2VwdHMgTkFTTSBhbmQgR0FTIGFzc2VtYmxlciBzeW50YXhlcyBhbmQgb3V0cHV0cyBiaW5hcnksIEVMRjMyIGFuZCBFTEY2NCBvYmplY3QgZm9ybWF0cy4g</description>
   <sourcefile>yasm-1.3.0.tar.gz</sourcefile>
   <sourcedir>yasm-1.3.0</sourcedir>
   <unpack/>

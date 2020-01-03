@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>qca</code>
+  <description>UWNhIGFpbXMgdG8gcHJvdmlkZSBhIHN0cmFpZ2h0Zm9yd2FyZCBhbmQgY3Jvc3MtcGxhdGZvcm0gY3J5cHRvIEFQSSwgdXNpbmcgUXQgZGF0YXR5cGVzIGFuZCBjb252ZW50aW9ucy4gUWNhIHNlcGFyYXRlcyB0aGUgQVBJIGZyb20gdGhlIGltcGxlbWVudGF0aW9uLCB1c2luZyBwbHVnaW5zIGtub3duIGFzIFByb3ZpZGVycy4g</description>
   <sourcefile>qca-2.2.1.tar.xz</sourcefile>
   <sourcedir>qca-2.2.1</sourcedir>
   <unpack/>

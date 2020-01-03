@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>font-misc-ethiopic</code>
+  <description>WG9yZyBGb250</description>
   <sourcefile>font-misc-ethiopic-1.0.3.tar.bz2</sourcefile>
   <sourcedir>font-misc-ethiopic-1.0.3</sourcedir>
   <unpack/>

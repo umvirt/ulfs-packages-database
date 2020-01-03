@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gedit</code>
+  <description>IFRoZSBHZWRpdCBwYWNrYWdlIGNvbnRhaW5zIGEgbGlnaHR3ZWlnaHQgVVRGLTggdGV4dCBlZGl0b3IgZm9yIHRoZSBHTk9NRSBEZXNrdG9wLiA=</description>
   <sourcefile>gedit-3.22.1.tar.xz</sourcefile>
   <sourcedir>gedit-3.22.1</sourcedir>
   <unpack/>

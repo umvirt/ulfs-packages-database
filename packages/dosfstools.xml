@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dosfstools</code>
+  <description>VGhlIGRvc2ZzdG9vbHMgcGFja2FnZSBjb250YWlucyB2YXJpb3VzIHV0aWxpdGllcyBmb3IgdXNlIHdpdGggdGhlIEZBVCBmYW1pbHkgb2YgZmlsZSBzeXN0ZW1zLiA=</description>
   <sourcefile>dosfstools-4.1.tar.xz</sourcefile>
   <sourcedir>dosfstools-4.1</sourcedir>
   <unpack/>

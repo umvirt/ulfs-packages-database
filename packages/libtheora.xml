@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libtheora</code>
+  <description>ICBsaWJ0aGVvcmEgaXMgYSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIFRoZW9yYSB2aWRlbyBjb21wcmVzc2lvbiBmb3JtYXQgYmVpbmcgZGV2ZWxvcGVkIGJ5IHRoZSBYaXBoLk9yZyBGb3VuZGF0aW9uLiA=</description>
   <sourcefile>libtheora-1.1.1.tar.xz</sourcefile>
   <sourcedir>libtheora-1.1.1</sourcedir>
   <unpack/>

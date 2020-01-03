@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>five-or-more</code>
+  <description>Q29sb3IgbGluZXMgZ2FtZQ==</description>
   <sourcefile>five-or-more-3.32.0.tar.xz</sourcefile>
   <sourcedir>five-or-more-3.32.0</sourcedir>
   <unpack/>

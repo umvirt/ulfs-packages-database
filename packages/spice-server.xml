@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>spice-server</code>
+  <description>U1BJQ0UgcHJvdG9jb2wgc2VydmVy</description>
   <sourcefile>spice-0.14.1.tar.bz2 </sourcefile>
   <sourcedir>spice-0.14.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>virt-viewer</code>
+  <description>SW1wcm92ZWQgR1RLIFNQSUNFIGNsaWVudA==</description>
   <sourcefile>virt-viewer-8.0.tar.gz</sourcefile>
   <sourcedir>virt-viewer-8.0</sourcedir>
   <unpack/>

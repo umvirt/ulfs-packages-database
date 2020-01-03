@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xhost</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xhost-1.0.7.tar.bz2</sourcefile>
   <sourcedir>xhost-1.0.7</sourcedir>
   <unpack/>

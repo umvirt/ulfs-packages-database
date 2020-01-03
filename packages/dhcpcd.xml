@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dhcpcd</code>
+  <description>ZGhjcGNkIGlzIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBESENQIGNsaWVudCBzcGVjaWZpZWQgaW4gUkZDMjEzMS4gQSBESENQIGNsaWVudCBpcyB1c2VmdWwgZm9yIGNvbm5lY3RpbmcgeW91ciBjb21wdXRlciB0byBhIG5ldHdvcmsgd2hpY2ggdXNlcyBESENQIHRvIGFzc2lnbiBuZXR3b3JrIGFkZHJlc3Nlcy4gZGhjcGNkIHN0cml2ZXMgdG8gYmUgYSBmdWxseSBmZWF0dXJlZCwgeWV0IHZlcnkgbGlnaHR3ZWlnaHQgREhDUCBjbGllbnQuIA==</description>
   <sourcefile>dhcpcd-7.0.7.tar.xz</sourcefile>
   <sourcedir>dhcpcd-7.0.7</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXmu</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXmu-1.1.2.tar.bz2</sourcefile>
   <sourcedir>libXmu-1.1.2</sourcedir>
   <unpack/>

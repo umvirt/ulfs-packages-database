@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mypaint-brushes</code>
+  <description>VGhlIG15cGFpbnQtYnJ1c2hlcyBwYWNrYWdlIGNvbnRhaW5zIGJydXNoZXMgdXNlZCBieSBwYWNrYWdlcyB3aGljaCB1c2UgbGlibXlwYWludC4g</description>
   <sourcefile>mypaint-brushes-v1.3.0.tar.gz</sourcefile>
   <sourcedir>mypaint-brushes-1.3.0</sourcedir>
   <unpack/>

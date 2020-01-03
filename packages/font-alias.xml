@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>font-alias</code>
+  <description>WG9yZyBGb250</description>
   <sourcefile>font-alias-1.0.3.tar.bz2</sourcefile>
   <sourcedir>font-alias-1.0.3</sourcedir>
   <unpack/>

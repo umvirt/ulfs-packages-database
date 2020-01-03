@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gjs</code>
+  <description>R2pzIGlzIGEgc2V0IG9mIEphdmFzY3JpcHQgYmluZGluZ3MgZm9yIEdOT01FLiA=</description>
   <sourcefile>gjs-1.52.3.tar.xz</sourcefile>
   <sourcedir>gjs-1.52.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libnfsidmap</code>
+  <description>IFRoZSBsaWJuZnNpZG1hcCBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0byBoZWxwIG1hcHBpbmcgaWQncywgbWFpbmx5IGZvciBORlN2NC4g</description>
   <sourcefile>libnfsidmap-0.26.tar.bz2</sourcefile>
   <sourcedir>libnfsidmap-0.26</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-kiwi</code>
+  <description>S2l3aSBpcyBhbiBlZmZpY2llbnQgQysrIGltcGxlbWVudGF0aW9uIG9mIHRoZSBDYXNzb3dhcnkgY29uc3RyYWludCBzb2x2aW5nIGFsZ29yaXRobS4gS2l3aSBpcyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgYWxnb3JpdGhtIGJhc2VkIG9uIHRoZSBzZW1pbmFsIENhc3Nvd2FyeSBwYXBlci4=</description>
   <sourcefile>kiwi-1.1.0.tar.gz</sourcefile>
   <sourcedir>kiwi-1.1.0</sourcedir>
   <unpack/>

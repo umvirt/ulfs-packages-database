@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>djvulibre</code>
+  <description>VXRpbGl0aWVzIGZvciB0aGUgRGpWdSBpbWFnZSBmb3JtYXQ=</description>
   <sourcefile>djvulibre-3.5.27.tar.gz</sourcefile>
   <sourcedir>djvulibre-3.5.27</sourcedir>
   <unpack/>

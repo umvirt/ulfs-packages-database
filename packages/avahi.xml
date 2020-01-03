@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>avahi</code>
+  <description>IFRoZSBBdmFoaSBwYWNrYWdlIGlzIGEgc3lzdGVtIHdoaWNoIGZhY2lsaXRhdGVzIHNlcnZpY2UgZGlzY292ZXJ5IG9uIGEgbG9jYWwgbmV0d29yay4g</description>
   <sourcefile>avahi-0.7.tar.gz</sourcefile>
   <sourcedir>avahi-0.7</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libuv</code>
+  <description>VGhlIGxpYnV2IHBhY2thZ2UgaXMgYSBtdWx0aS1wbGF0Zm9ybSBzdXBwb3J0IGxpYnJhcnkgd2l0aCBhIGZvY3VzIG9uIGFzeW5jaHJvbm91cyBJL08uIA==</description>
   <sourcefile>libuv-v1.22.0.tar.gz</sourcefile>
   <sourcedir>libuv-v1.22.0</sourcedir>
   <unpack/>

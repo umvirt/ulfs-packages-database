@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cupsd</code>
+  <description>VGhlIENvbW1vbiBVbml4IFByaW50aW5nIFN5c3RlbSAoQ1VQUykgaXMgYSBwcmludCBzcG9vbGVyIGFuZCBhc3NvY2lhdGVkIHV0aWxpdGllcy4gSXQgaXMgYmFzZWQgb24gdGhlICJJbnRlcm5ldCBQcmludGluZyBQcm90b2NvbCIgYW5kIHByb3ZpZGVzIHByaW50aW5nIHNlcnZpY2VzIHRvIG1vc3QgUG9zdFNjcmlwdCBhbmQgcmFzdGVyIHByaW50ZXJzLiA=</description>
   <sourcefile>cups-2.2.8-source.tar.gz</sourcefile>
   <sourcedir>cups-2.2.8</sourcedir>
   <unpack/>

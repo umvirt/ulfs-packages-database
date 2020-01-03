@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libX11</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libX11-1.6.6.tar.bz2</sourcefile>
   <sourcedir>libX11-1.6.6</sourcedir>
   <unpack/>

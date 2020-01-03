@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>NetworkManager</code>
+  <description>TmV0d29ya01hbmFnZXIgaXMgYSBzZXQgb2YgY28tb3BlcmF0aXZlIHRvb2xzIHRoYXQgbWFrZSBuZXR3b3JraW5nIHNpbXBsZSBhbmQgc3RyYWlnaHRmb3J3YXJkLiBXaGV0aGVyIFdpRmksIHdpcmVkLCAzRywgb3IgQmx1ZXRvb3RoLCBOZXR3b3JrTWFuYWdlciBhbGxvd3MgeW91IHRvIHF1aWNrbHkgbW92ZSBmcm9tIG9uZSBuZXR3b3JrIHRvIGFub3RoZXI6IE9uY2UgYSBuZXR3b3JrIGhhcyBiZWVuIGNvbmZpZ3VyZWQgYW5kIGpvaW5lZCBvbmNlLCBpdCBjYW4gYmUgZGV0ZWN0ZWQgYW5kIHJlLWpvaW5lZCBhdXRvbWF0aWNhbGx5IHRoZSBuZXh0IHRpbWUgaXQncyBhdmFpbGFibGUuIA==</description>
   <sourcefile>NetworkManager-1.12.2.tar.xz</sourcefile>
   <sourcedir>NetworkManager-1.12.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>transmission</code>
+  <description>IFRyYW5zbWlzc2lvbiBpcyBhIGNyb3NzLXBsYXRmb3JtLCBvcGVuIHNvdXJjZSBCaXRUb3JyZW50IGNsaWVudC4gVGhpcyBpcyB1c2VmdWwgZm9yIGRvd25sb2FkaW5nIGxhcmdlIGZpbGVzIChzdWNoIGFzIExpbnV4IElTT3MpIGFuZCByZWR1Y2VzIHRoZSBuZWVkIGZvciB0aGUgZGlzdHJpYnV0b3JzIHRvIHByb3ZpZGUgc2VydmVyIGJhbmR3aWR0aC4=</description>
   <sourcefile>transmission-2.94.tar.xz</sourcefile>
   <sourcedir>transmission-2.94</sourcedir>
   <unpack/>

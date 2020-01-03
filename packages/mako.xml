@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mako</code>
+  <description>TWFrbyBpcyBhIFB5dGhvbiBtb2R1bGUgdGhhdCBpbXBsZW1lbnRzIGh5cGVyZmFzdCBhbmQgbGlnaHR3ZWlnaHQgdGVtcGxhdGluZyBmb3IgdGhlIFB5dGhvbiBwbGF0Zm9ybS4g</description>
   <sourcefile>Mako-1.0.4.tar.gz</sourcefile>
   <sourcedir>Mako-1.0.4</sourcedir>
   <unpack/>

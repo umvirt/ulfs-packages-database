@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>appstream</code>
+  <description>QXBwU3RyZWFtIGlzIGEgY3Jvc3MtZGlzdHJpYnV0aW9uIGVmZm9ydCBmb3IgZW5oYW5jaW5nIHRoZSB3YXkgd2UgaW50ZXJhY3Qgd2l0aCB0aGUgc29mdHdhcmUgcmVwb3NpdG9yaWVzIHByb3ZpZGVkIGJ5IChMaW51eCkgZGlzdHJpYnV0aW9ucyBieSBzdGFuZGFyZGl6aW5nIHNvZnR3YXJlIGNvbXBvbmVudCBtZXRhZGF0YS4=</description>
   <sourcefile>AppStream-0.12.9.tar.xz</sourcefile>
   <sourcedir>AppStream-0.12.9</sourcedir>
   <unpack/>

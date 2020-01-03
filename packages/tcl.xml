@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>tcl</code>
+  <description>IFRoZSBUY2wgcGFja2FnZSBjb250YWlucyB0aGUgVG9vbCBDb21tYW5kIExhbmd1YWdlLCBhIHJvYnVzdCBnZW5lcmFsLXB1cnBvc2Ugc2NyaXB0aW5nIGxhbmd1YWdlLiA=</description>
   <sourcefile>tcl8.6.8-src.tar.gz</sourcefile>
   <sourcedir>tcl8.6.8</sourcedir>
   <unpack/>

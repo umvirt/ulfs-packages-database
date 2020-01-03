@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>v4l-utils</code>
+  <description>djRsLXV0aWxzIHByb3ZpZGVzIGEgc2VyaWVzIG9mIHV0aWxpdGllcyBmb3IgbWVkaWEgZGV2aWNlcywgYWxsb3dpbmcgdG8gaGFuZGxlIHRoZSBwcm9wcmlldGFyeSBmb3JtYXRzIGF2YWlsYWJsZSBhdCBtb3N0IHdlYmNhbXMgKGxpYnY0bCksIGFuZCBwcm92aWRpbmcgdG9vbHMgdG8gdGVzdCBWNEwgZGV2aWNlcy4=</description>
   <sourcefile>v4l-utils-1.14.2.tar.bz2</sourcefile>
   <sourcedir>v4l-utils-1.14.2</sourcedir>
   <unpack/>

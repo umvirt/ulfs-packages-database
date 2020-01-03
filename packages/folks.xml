@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>folks</code>
+  <description>Rm9sa3MgaXMgYSBsaWJyYXJ5IHRoYXQgYWdncmVnYXRlcyBwZW9wbGUgZnJvbSBtdWx0aXBsZSBzb3VyY2VzIChlLmcsIFRlbGVwYXRoeSBjb25uZWN0aW9uIG1hbmFnZXJzIGFuZCBldmVudHVhbGx5IEV2b2x1dGlvbiBEYXRhIFNlcnZlciwgRmFjZWJvb2ssIGV0Yy4pIHRvIGNyZWF0ZSBtZXRhY29udGFjdHMuIA==</description>
   <sourcefile>folks-0.11.4.tar.xz</sourcefile>
   <sourcedir>folks-0.11.4</sourcedir>
   <unpack/>

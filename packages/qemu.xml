@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>qemu</code>
+  <description>cWVtdSBpcyBhIGZ1bGwgdmlydHVhbGl6YXRpb24gc29sdXRpb24gZm9yIExpbnV4IG9uIHg4NiBoYXJkd2FyZSBjb250YWluaW5nIHZpcnR1YWxpemF0aW9uIGV4dGVuc2lvbnMgKEludGVsIFZUIG9yIEFNRC1WKS4g</description>
   <sourcefile>qemu-3.0.0.tar.xz</sourcefile>
   <sourcedir>qemu-3.0.0</sourcedir>
   <unpack/>

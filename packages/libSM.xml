@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libSM</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libSM-1.2.2.tar.bz2</sourcefile>
   <sourcedir>libSM-1.2.2</sourcedir>
   <unpack/>

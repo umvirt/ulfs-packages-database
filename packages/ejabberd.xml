@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ejabberd</code>
+  <description>WE1QUCAoSmFiYmVyKSBzZXJ2ZXI=</description>
   <sourcefile>ejabberd-19.09.1.tgz</sourcefile>
   <sourcedir>ejabberd-19.09.1</sourcedir>
   <unpack/>

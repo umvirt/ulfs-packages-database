@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>caja</code>
+  <description>Q2FqYSBpcyB0aGUgb2ZmaWNpYWwgZmlsZSBtYW5hZ2VyIGZvciB0aGUgTUFURSBkZXNrdG9wLg==</description>
   <sourcefile>caja-1.22.0.tar.xz</sourcefile>
   <sourcedir>caja-1.22.0</sourcedir>
   <unpack/>

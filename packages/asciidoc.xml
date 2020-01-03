@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>asciidoc</code>
+  <description>VGhlIEFzY2lpZG9jIHBhY2thZ2UgaXMgYSB0ZXh0IGRvY3VtZW50IGZvcm1hdCBmb3Igd3JpdGluZyBub3RlcywgZG9jdW1lbnRhdGlvbiwgYXJ0aWNsZXMsIGJvb2tzLCBlYm9va3MsIHNsaWRlc2hvd3MsIHdlYiBwYWdlcywgbWFuIHBhZ2VzIGFuZCBibG9ncy4gQXNjaWlEb2MgZmlsZXMgY2FuIGJlIHRyYW5zbGF0ZWQgdG8gbWFueSBmb3JtYXRzIGluY2x1ZGluZyBIVE1MLCBQREYsIEVQVUIsIGFuZCBtYW4gcGFnZS4g</description>
   <sourcefile>asciidoc-8.6.10.tar.gz</sourcefile>
   <sourcedir>asciidoc-8.6.10</sourcedir>
   <unpack/>

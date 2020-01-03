@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>curl</code>
+  <description>IFRoZSBjVVJMIHBhY2thZ2UgY29udGFpbnMgYW4gdXRpbGl0eSBhbmQgYSBsaWJyYXJ5IHVzZWQgZm9yIHRyYW5zZmVycmluZyBmaWxlcyB3aXRoIFVSTCBzeW50YXggdG8gYW55IG9mIHRoZSBmb2xsb3dpbmcgcHJvdG9jb2xzOiBGVFAsIEZUUFMsIEhUVFAsIEhUVFBTLCBTQ1AsIFNGVFAsIFRGVFAsIFRFTE5FVCwgRElDVCwgTERBUCwgTERBUFMgYW5kIEZJTEUuIEl0cyBhYmlsaXR5IHRvIGJvdGggZG93bmxvYWQgYW5kIHVwbG9hZCBmaWxlcyBjYW4gYmUgaW5jb3Jwb3JhdGVkIGludG8gb3RoZXIgcHJvZ3JhbXMgdG8gc3VwcG9ydCBmdW5jdGlvbnMgbGlrZSBzdHJlYW1pbmcgbWVkaWEuIA==</description>
   <sourcefile>curl-7.61.0.tar.xz</sourcefile>
   <sourcedir>curl-7.61.0</sourcedir>
   <unpack/>

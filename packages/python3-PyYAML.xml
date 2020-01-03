@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-PyYAML</code>
+  <description>WUFNTCBwYXJzZXIgYW5kIGVtaXR0ZXIgZm9yIFB5dGhvbg==</description>
   <sourcefile>PyYAML-5.1.2.tar.gz</sourcefile>
   <sourcedir>PyYAML-5.1.2</sourcedir>
   <unpack/>

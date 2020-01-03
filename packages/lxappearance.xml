@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxappearance</code>
+  <description>VGhlIExYQXBwZWFyYW5jZSBwYWNrYWdlIGNvbnRhaW5zIGEgZGVza3RvcC1pbmRlcGVuZGVudCB0aGVtZSBzd2l0Y2hlciBmb3IgR1RLKy4g</description>
   <sourcefile>lxappearance-0.6.3.tar.xz</sourcefile>
   <sourcedir>lxappearance-0.6.3</sourcedir>
   <unpack/>

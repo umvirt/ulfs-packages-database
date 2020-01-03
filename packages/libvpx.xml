@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libvpx</code>
+  <description>VGhpcyBwYWNrYWdlLCBmcm9tIHRoZSBXZWJNIHByb2plY3QsIHByb3ZpZGVzIHRoZSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb25zIG9mIHRoZSBWUDggQ29kZWMsIHVzZWQgaW4gbW9zdCBjdXJyZW50IGh0bWw1IHZpZGVvLCBhbmQgb2YgdGhlIG5leHQtZ2VuZXJhdGlvbiBWUDkgQ29kZWMuIA==</description>
   <sourcefile>libvpx-1.7.0.tar.gz</sourcefile>
   <sourcedir>libvpx-1.7.0</sourcedir>
   <unpack/>

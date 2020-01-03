@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-nibbles</code>
+  <description>R05PTUUgTmliYmxlcyBmb3IgTGludXggLSBHdWlkZSBhIHdvcm0gYXJvdW5kIGEgbWF6ZS4=</description>
   <sourcefile>gnome-nibbles-3.34.1.tar.xz</sourcefile>
   <sourcedir>gnome-nibbles-3.34.1</sourcedir>
   <unpack/>

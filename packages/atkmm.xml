@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>atkmm</code>
+  <description>QXRrbW0gaXMgdGhlIG9mZmljaWFsIEMrKyBpbnRlcmZhY2UgZm9yIHRoZSBBVEsgYWNjZXNzaWJpbGl0eSB0b29sa2l0IGxpYnJhcnkuIA==</description>
   <sourcefile>atkmm-2.24.2.tar.xz</sourcefile>
   <sourcedir>atkmm-2.24.2</sourcedir>
   <unpack/>

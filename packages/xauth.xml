@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xauth</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xauth-1.0.10.tar.bz2</sourcefile>
   <sourcedir>xauth-1.0.10</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>polipo</code>
+  <description>bGlnaHR3ZWlnaHQsIGNhY2hpbmcgd2ViIHByb3h5</description>
   <sourcefile>polipo-1.0.4.tar.gz</sourcefile>
   <sourcedir>polipo-1.0.4</sourcedir>
   <unpack/>

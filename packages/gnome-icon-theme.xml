@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-icon-theme</code>
+  <description>VGhlIEdOT01FIEljb24gVGhlbWUgcGFja2FnZSBjb250YWlucyBhbiBhc3NvcnRtZW50IG9mIG5vbi1zY2FsYWJsZSBpY29ucyBvZiBkaWZmZXJlbnQgc2l6ZXMgYW5kIHRoZW1lcy4g</description>
   <sourcefile>gnome-icon-theme-3.12.0.tar.xz</sourcefile>
   <sourcedir>gnome-icon-theme-3.12.0</sourcedir>
   <unpack/>

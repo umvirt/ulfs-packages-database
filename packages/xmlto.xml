@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xmlto</code>
+  <description>IFRoZSB4bWx0byBwYWNrYWdlIGlzIGEgZnJvbnQtZW5kIHRvIGEgWFNMIHRvb2xjaGFpbi4gSXQgY2hvb3NlcyBhbiBhcHByb3ByaWF0ZSBzdHlsZXNoZWV0IGZvciB0aGUgY29udmVyc2lvbiB5b3Ugd2FudCBhbmQgYXBwbGllcyBpdCB1c2luZyBhbiBleHRlcm5hbCBYU0xUIHByb2Nlc3Nvci4gSXQgYWxzbyBwZXJmb3JtcyBhbnkgbmVjZXNzYXJ5IHBvc3QtcHJvY2Vzc2luZy4=</description>
   <sourcefile>xmlto-0.0.28.tar.bz2</sourcefile>
   <sourcedir>xmlto-0.0.28</sourcedir>
   <unpack/>

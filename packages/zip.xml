@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>zip</code>
+  <description>IFRoZSBaaXAgcGFja2FnZSBjb250YWlucyBaaXAgdXRpbGl0aWVzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBjb21wcmVzc2luZyBmaWxlcyBpbnRvIFpJUCBhcmNoaXZlcy4g</description>
   <sourcefile>zip30.tar.gz</sourcefile>
   <sourcedir>zip30</sourcedir>
   <unpack/>

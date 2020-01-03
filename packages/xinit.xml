@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xinit</code>
+  <description>ICBUaGUgeGluaXQgcGFja2FnZSBjb250YWlucyBhIHVzYWJsZSBzY3JpcHQgdG8gc3RhcnQgdGhlIHhzZXJ2ZXIuIA==</description>
   <sourcefile>xinit-1.4.0.tar.bz2</sourcefile>
   <sourcedir>xinit-1.4.0</sourcedir>
   <unpack/>

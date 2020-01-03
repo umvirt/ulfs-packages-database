@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>SDL2</code>
+  <description>VGhlIFNpbXBsZSBEaXJlY3RNZWRpYSBMYXllciBWZXJzaW9uIDIgKFNETDIgZm9yIHNob3J0KSBpcyBhIGNyb3NzLXBsYXRmb3JtIGxpYnJhcnkgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXN5IHRvIHdyaXRlIG11bHRpbWVkaWEgc29mdHdhcmUsIHN1Y2ggYXMgZ2FtZXMgYW5kIGVtdWxhdG9ycy4g</description>
   <sourcefile>SDL2-2.0.8.tar.gz</sourcefile>
   <sourcedir>SDL2-2.0.8</sourcedir>
   <unpack/>

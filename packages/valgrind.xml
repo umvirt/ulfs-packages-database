@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>valgrind</code>
+  <description>VmFsZ3JpbmQgaXMgYW4gaW5zdHJ1bWVudGF0aW9uIGZyYW1ld29yayBmb3IgYnVpbGRpbmcgZHluYW1pYyBhbmFseXNpcyB0b29scy4=</description>
   <sourcefile>valgrind-3.13.0.tar.bz2</sourcefile>
   <sourcedir>valgrind-3.13.0</sourcedir>
   <unpack/>

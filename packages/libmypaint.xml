@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmypaint</code>
+  <description>IFRoZSBsaWJteXBhaW50IHBhY2thZ2UsIGEuay5hLiAiYnJ1c2hsaWIiLCBpcyBhIGxpYnJhcnkgZm9yIG1ha2luZyBicnVzaHN0cm9rZXMgd2hpY2ggaXMgdXNlZCBieSBNeVBhaW50IGFuZCBvdGhlciBwcm9qZWN0cy4=</description>
   <sourcefile>libmypaint-1.3.0.tar.xz</sourcefile>
   <sourcedir>libmypaint-1.3.0</sourcedir>
   <unpack/>

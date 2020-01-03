@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>openjpeg</code>
+  <description>T3BlbkpQRUcgaXMgYW4gb3Blbi1zb3VyY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIEpQRUctMjAwMCBzdGFuZGFyZC4gT3BlbkpQRUcgZnVsbHkgcmVzcGVjdHMgdGhlIEpQRUctMjAwMCBzcGVjaWZpY2F0aW9ucyBhbmQgY2FuIGNvbXByZXNzL2RlY29tcHJlc3MgbG9zc2xlc3MgMTYtYml0IGltYWdlcy4g</description>
   <sourcefile>openjpeg-2.3.0.tar.gz</sourcefile>
   <sourcedir>openjpeg-2.3.0</sourcedir>
   <unpack/>

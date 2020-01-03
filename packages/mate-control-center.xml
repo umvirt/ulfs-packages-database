@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-control-center</code>
+  <description>TWF0ZSBDb250cm9sIENlbnRlcg==</description>
   <sourcefile>mate-control-center-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-control-center-1.22.0</sourcedir>
   <unpack/>

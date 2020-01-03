@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>opencv</code>
+  <description>T3BlbkNWIChPcGVuIFNvdXJjZSBDb21wdXRlciBWaXNpb24gTGlicmFyeSkgaXMgYW4gb3BlbiBzb3VyY2UgY29tcHV0ZXIgdmlzaW9uIGFuZCBtYWNoaW5lIGxlYXJuaW5nIHNvZnR3YXJlIGxpYnJhcnku</description>
   <sourcefile>opencv-3.4.2.zip</sourcefile>
   <sourcedir>opencv-3.4.2</sourcedir>
   <unpack>dW56aXAgb3BlbmN2LTMuNC4yLnppcA==</unpack>

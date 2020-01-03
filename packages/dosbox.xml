@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dosbox</code>
+  <description>eDg2IGVtdWxhdG9yIHdpdGggVGFuZHkvSGVyYy9DR0EvRUdBL1ZHQS9TVkdBIGdyYXBoaWNzLCBzb3VuZCBhbmQgRE9T</description>
   <sourcefile>dosbox-0.74-3.tar.gz</sourcefile>
   <sourcedir>dosbox-0.74-3</sourcedir>
   <unpack/>

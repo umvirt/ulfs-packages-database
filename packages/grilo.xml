@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>grilo</code>
+  <description>R3JpbG8gaXMgYSBmcmFtZXdvcmsgZm9jdXNlZCBvbiBtYWtpbmcgbWVkaWEgZGlzY292ZXJ5IGFuZCBicm93c2luZyBlYXN5IGZvciBhcHBsaWNhdGlvbnMgYW5kIGFwcGxpY2F0aW9uIGRldmVsb3BlcnMuIA==</description>
   <sourcefile>grilo-0.3.6.tar.xz</sourcefile>
   <sourcedir>grilo-0.3.6</sourcedir>
   <unpack/>

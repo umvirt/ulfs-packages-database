@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>hwloc</code>
+  <description>SGllcmFyY2hpY2FsIHZpZXcgb2YgdGhlIG1hY2hpbmUgLSB1dGlsaXRpZXM=</description>
   <sourcefile>hwloc-2.0.2.tar.gz</sourcefile>
   <sourcedir>hwloc-hwloc-2.0.2</sourcedir>
   <unpack/>

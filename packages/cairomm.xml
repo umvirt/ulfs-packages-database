@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cairomm</code>
+  <description>VGhlIENhaXJvbW0gcGFja2FnZSBwcm92aWRlcyBhIEMrKyBpbnRlcmZhY2UgdG8gQ2Fpcm8uIA==</description>
   <sourcefile>cairomm-1.12.2.tar.gz</sourcefile>
   <sourcedir>cairomm-1.12.2</sourcedir>
   <unpack/>

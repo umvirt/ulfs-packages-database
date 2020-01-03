@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mdadm</code>
+  <description>VGhlIG1kYWRtIHBhY2thZ2UgY29udGFpbnMgYWRtaW5pc3RyYXRpb24gdG9vbHMgZm9yIHNvZnR3YXJlIFJBSUQuIA==</description>
   <sourcefile>mdadm-4.0.tar.xz</sourcefile>
   <sourcedir>mdadm-4.0</sourcedir>
   <unpack/>

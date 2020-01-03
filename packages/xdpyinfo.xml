@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xdpyinfo</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xdpyinfo-1.3.2.tar.bz2</sourcefile>
   <sourcedir>xdpyinfo-1.3.2</sourcedir>
   <unpack/>

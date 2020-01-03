@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xkbcomp</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xkbcomp-1.4.2.tar.bz2</sourcefile>
   <sourcedir>xkbcomp-1.4.2</sourcedir>
   <unpack/>

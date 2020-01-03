@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>network-manager-applet</code>
+  <description>VGhlIE5ldHdvcmtNYW5hZ2VyIEFwcGxldCBwcm92aWRlcyBhIHRvb2wgYW5kIGEgcGFuZWwgYXBwbGV0IHVzZWQgdG8gY29uZmlndXJlIHdpcmVkIGFuZCB3aXJlbGVzcyBuZXR3b3JrIGNvbm5lY3Rpb25zIHRocm91Z2ggR1VJLiBJdCdzIGRlc2lnbmVkIGZvciB1c2Ugd2l0aCBhbnkgZGVza3RvcCBlbnZpcm9ubWVudCB0aGF0IHVzZXMgR1RLKyBsaWtlIFhmY2UgYW5kIExYREUuIA==</description>
   <sourcefile>network-manager-applet-1.8.16.tar.xz</sourcefile>
   <sourcedir>network-manager-applet-1.8.16</sourcedir>
   <unpack/>

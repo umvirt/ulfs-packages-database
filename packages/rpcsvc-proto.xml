@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>rpcsvc-proto</code>
+  <description>VGhlIHJwY3N2Yy1wcm90byBwYWNrYWdlIGNvbnRhaW5zIHRoZSByY3BzdmMgcHJvdG9jb2wueCBmaWxlcyBhbmQgaGVhZGVycywgZm9ybWVybHkgaW5jbHVkZWQgd2l0aCBnbGliYywgdGhhdCBhcmUgbm90IGluY2x1ZGVkIGluIHJlcGxhY2VtZW50IGxpYnRpcnBjLCBhbG9uZyB3aXRoIHRoZSBycGNnZW4gcHJvZ3JhbS4g</description>
   <sourcefile>rpcsvc-proto-1.4.tar.gz</sourcefile>
   <sourcedir>rpcsvc-proto-1.4</sourcedir>
   <unpack/>

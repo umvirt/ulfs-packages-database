@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnutls</code>
+  <description>VGhlIEdudVRMUyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyBhbmQgdXNlcnNwYWNlIHRvb2xzIHdoaWNoIHByb3ZpZGUgYSBzZWN1cmUgbGF5ZXIgb3ZlciBhIHJlbGlhYmxlIHRyYW5zcG9ydCBsYXllci4gQ3VycmVudGx5IHRoZSBHbnVUTFMgbGlicmFyeSBpbXBsZW1lbnRzIHRoZSBwcm9wb3NlZCBzdGFuZGFyZHMgYnkgdGhlIElFVEYncyBUTFMgd29ya2luZyBncm91cC4g</description>
   <sourcefile>gnutls-3.5.19.tar.xz</sourcefile>
   <sourcedir>gnutls-3.5.19</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcursor-themes</code>
+  <description>VGhlIHhjdXJzb3ItdGhlbWVzIHBhY2thZ2UgY29udGFpbnMgdGhlIHJlZGdsYXNzIGFuZCB3aGl0ZWdsYXNzIGFuaW1hdGVkIGN1cnNvciB0aGVtZXMuIA==</description>
   <sourcefile>xcursor-themes-1.0.5.tar.bz2</sourcefile>
   <sourcedir>xcursor-themes-1.0.5</sourcedir>
   <unpack/>

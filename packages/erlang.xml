@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>erlang</code>
+  <description>Q29uY3VycmVudCwgcmVhbC10aW1lLCBkaXN0cmlidXRlZCBmdW5jdGlvbmFsIGxhbmd1YWdl</description>
   <sourcefile>otp_src_22.1.tar.gz</sourcefile>
   <sourcedir>otp_src_22.1</sourcedir>
   <unpack/>

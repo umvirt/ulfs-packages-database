@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmad</code>
+  <description>bGlibWFkIGlzIGEgaGlnaC1xdWFsaXR5IE1QRUcgYXVkaW8gZGVjb2RlciBjYXBhYmxlIG9mIDI0LWJpdCBvdXRwdXQuIA==</description>
   <sourcefile>libmad-0.15.1b.tar.gz</sourcefile>
   <sourcedir>libmad-0.15.1b</sourcedir>
   <unpack/>

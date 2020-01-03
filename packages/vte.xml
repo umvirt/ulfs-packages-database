@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>vte</code>
+  <description>ICBUaGUgVlRFIHBhY2thZ2UgY29udGFpbnMgYSB0ZXJtY2FwIGZpbGUgaW1wbGVtZW50YXRpb24gZm9yIHRlcm1pbmFsIGVtdWxhdG9ycy4g</description>
   <sourcefile>vte-0.52.2.tar.xz</sourcefile>
   <sourcedir>vte-0.52.2</sourcedir>
   <unpack/>

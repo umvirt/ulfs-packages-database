@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXext</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXext-1.3.3.tar.bz2</sourcefile>
   <sourcedir>libXext-1.3.3</sourcedir>
   <unpack/>

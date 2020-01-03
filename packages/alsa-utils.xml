@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>alsa-utils</code>
+  <description>ICBUaGUgQUxTQSBVdGlsaXRpZXMgcGFja2FnZSBjb250YWlucyB2YXJpb3VzIHV0aWxpdGllcyB3aGljaCBhcmUgdXNlZnVsIGZvciBjb250cm9sbGluZyB5b3VyIHNvdW5kIGNhcmQuIA==</description>
   <sourcefile>alsa-utils-1.1.6.tar.bz2</sourcefile>
   <sourcedir>alsa-utils-1.1.6</sourcedir>
   <unpack/>

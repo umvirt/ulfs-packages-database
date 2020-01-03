@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXft</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXft-2.3.2.tar.bz2</sourcefile>
   <sourcedir>libXft-2.3.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-numpy</code>
+  <description>TnVtUHkgaXMgdGhlIGZ1bmRhbWVudGFsIHBhY2thZ2UgZm9yIGFycmF5IGNvbXB1dGluZyB3aXRoIFB5dGhvbi4=</description>
   <sourcefile>numpy-1.16.5.tar.gz</sourcefile>
   <sourcedir>numpy-1.16.5</sourcedir>
   <unpack/>

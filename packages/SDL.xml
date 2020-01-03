@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>SDL</code>
+  <description>VGhlIFNpbXBsZSBEaXJlY3RNZWRpYSBMYXllciAoU0RMIGZvciBzaG9ydCkgaXMgYSBjcm9zcy1wbGF0Zm9ybSBsaWJyYXJ5IGRlc2lnbmVkIHRvIG1ha2UgaXQgZWFzeSB0byB3cml0ZSBtdWx0aW1lZGlhIHNvZnR3YXJlLCBzdWNoIGFzIGdhbWVzIGFuZCBlbXVsYXRvcnMuIA==</description>
   <sourcefile>SDL-1.2.15.tar.gz</sourcefile>
   <sourcedir>SDL-1.2.15</sourcedir>
   <unpack/>

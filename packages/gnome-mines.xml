@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-mines</code>
+  <description>TWluZXN3ZWVwZXIgZ2FtZQ==</description>
   <sourcefile>gnome-mines-3.34.0.tar.xz</sourcefile>
   <sourcedir>gnome-mines-3.34.0</sourcedir>
   <unpack/>

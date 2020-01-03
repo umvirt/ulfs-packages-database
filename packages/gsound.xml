@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gsound</code>
+  <description>c21hbGwgbGlicmFyeSBmb3IgcGxheWluZyBzeXN0ZW0gc291bmRz</description>
   <sourcefile>gsound-1.0.2.tar.xz</sourcefile>
   <sourcedir>gsound-1.0.2</sourcedir>
   <unpack/>

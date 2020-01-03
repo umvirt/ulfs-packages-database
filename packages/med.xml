@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>med</code>
+  <description>VGhlIHB1cnBvc2Ugb2YgdGhlIE1FRCBtb2R1bGUgaXMgdG8gcHJvdmlkZSBhIHN0YW5kYXJkIGZvciBzdG9yaW5nIGFuZCByZWNvdmVyaW5nIGNvbXB1dGVyIGRhdGEgYXNzb2NpYXRlZCB0byBudW1lcmljYWwgbWVzaGVzIGFuZCBmaWVsZHMsIGFuZCB0byBmYWNpbGl0YXRlIHRoZSBleGNoYW5nZSBiZXR3ZWVuIGNvZGVzIGFuZCBzb2x2ZXJzLg==</description>
   <sourcefile>med-4.0.0.tar.gz</sourcefile>
   <sourcedir>med-4.0.0</sourcedir>
   <unpack/>

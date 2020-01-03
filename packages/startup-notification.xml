@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>startup-notification</code>
+  <description>VGhlIHN0YXJ0dXAtbm90aWZpY2F0aW9uIHBhY2thZ2UgY29udGFpbnMgc3RhcnR1cC1ub3RpZmljYXRpb24gbGlicmFyaWVzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBidWlsZGluZyBhIGNvbnNpc3RlbnQgbWFubmVyIHRvIG5vdGlmeSB0aGUgdXNlciB0aHJvdWdoIHRoZSBjdXJzb3IgdGhhdCB0aGUgYXBwbGljYXRpb24gaXMgbG9hZGluZy4g</description>
   <sourcefile>startup-notification-0.12.tar.gz</sourcefile>
   <sourcedir>startup-notification-0.12</sourcedir>
   <unpack/>

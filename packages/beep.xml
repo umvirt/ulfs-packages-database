@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>beep</code>
+  <description>YWR2YW5jZWQgcGMtc3BlYWtlciBiZWVwZXI=</description>
   <sourcefile>beep-1.4.4.tar.gz</sourcefile>
   <sourcedir>beep-1.4.4</sourcedir>
   <unpack/>

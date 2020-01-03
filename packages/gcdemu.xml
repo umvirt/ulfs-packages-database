@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gcdemu</code>
+  <description>Z0NERW11IGlzIGEgR1RLIGFwcGxpY2F0aW9uIGZvciBjb250cm9sbGluZyBDREVtdSBkYWVtb24u</description>
   <sourcefile>gcdemu-3.2.1.tar.bz2</sourcefile>
   <sourcedir>gcdemu-3.2.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>meld</code>
+  <description>RmlsZXMgYW5kIERpcmVjdG9yaWVzIGNvbXBhcnNpb24gdG9vbCBmb3IgWG9yZw==</description>
   <sourcefile>meld-3.20.1.tar.xz</sourcefile>
   <sourcedir>meld-3.20.1</sourcedir>
   <unpack/>

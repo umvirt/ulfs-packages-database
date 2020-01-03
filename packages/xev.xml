@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xev</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xev-1.2.2.tar.bz2</sourcefile>
   <sourcedir>xev-1.2.2</sourcedir>
   <unpack/>

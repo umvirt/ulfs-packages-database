@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libid3tag</code>
+  <description>SUQzIHRhZyByZWFkaW5nIGxpYnJhcnkgZnJvbSB0aGUgTUFEIHByb2plY3Q=</description>
   <sourcefile>libid3tag-0.15.1b.tar.gz</sourcefile>
   <sourcedir>libid3tag-0.15.1b</sourcedir>
   <unpack/>

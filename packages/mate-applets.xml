@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-applets</code>
+  <description>TWF0ZSBBcHBsZXRz</description>
   <sourcefile>mate-applets-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-applets-1.22.0</sourcedir>
   <unpack/>

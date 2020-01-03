@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xorgproto</code>
+  <description>VGhlIHhvcmdwcm90byBwYWNrYWdlIHByb3ZpZGVzIHRoZSBoZWFkZXIgZmlsZXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFggV2luZG93IHN5c3RlbSwgYW5kIHRvIGFsbG93IG90aGVyIGFwcGxpY2F0aW9ucyB0byBidWlsZCBhZ2FpbnN0IHRoZSBpbnN0YWxsZWQgWCBXaW5kb3cgc3lzdGVtLiA=</description>
   <sourcefile>xorgproto-2018.4.tar.bz2</sourcefile>
   <sourcedir>xorgproto-2018.4</sourcedir>
   <unpack/>

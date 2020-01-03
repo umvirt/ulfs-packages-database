@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>otter-browser</code>
+  <description>UXQ1d2ViZW5naW5lIGJhc2VkIFdlYi1icm93c2Vy</description>
   <sourcefile>otter-browser-1.0.01.tar.gz</sourcefile>
   <sourcedir>otter-browser-1.0.01</sourcedir>
   <unpack/>

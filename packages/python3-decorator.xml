@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-decorator</code>
+  <description>VGhlIGdvYWwgb2YgdGhlIGRlY29yYXRvciBtb2R1bGUgaXMgdG8gbWFrZSBpdCBlYXN5IHRvIGRlZmluZSBzaWduYXR1cmUtcHJlc2VydmluZyBmdW5jdGlvbiBkZWNvcmF0b3JzIGFuZCBkZWNvcmF0b3IgZmFjdG9yaWVzLg==</description>
   <sourcefile>decorator-4.4.1.tar.gz</sourcefile>
   <sourcedir>decorator-4.4.1</sourcedir>
   <unpack/>

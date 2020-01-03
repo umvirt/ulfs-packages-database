@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>parallel</code>
+  <description>YnVpbGQgYW5kIGV4ZWN1dGUgY29tbWFuZCBsaW5lcyBmcm9tIHN0YW5kYXJkIGlucHV0IGluIHBhcmFsbGVs</description>
   <sourcefile>parallel-20191222.tar.bz2</sourcefile>
   <sourcedir>parallel-20191222</sourcedir>
   <unpack/>

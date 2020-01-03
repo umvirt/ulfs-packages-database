@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xterm</code>
+  <description>eHRlcm0gaXMgYSB0ZXJtaW5hbCBlbXVsYXRvciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4g</description>
   <sourcefile>xterm-335.tgz</sourcefile>
   <sourcedir>xterm-335</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-notification-daemon</code>
+  <description>TWF0ZSBub3RpZmljYXRpb24gZGFlbW9u</description>
   <sourcefile>mate-notification-daemon-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-notification-daemon-1.22.0</sourcedir>
   <unpack/>

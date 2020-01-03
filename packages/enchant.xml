@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>enchant</code>
+  <description>ICBUaGUgZW5jaGFudCBwYWNrYWdlIHByb3ZpZGUgYSBnZW5lcmljIGludGVyZmFjZSBpbnRvIHZhcmlvdXMgZXhpc3Rpbmcgc3BlbGwgY2hlY2tpbmcgbGlicmFyaWVzLiA=</description>
   <sourcefile>enchant-2.2.3.tar.gz</sourcefile>
   <sourcedir>enchant-2.2.3</sourcedir>
   <unpack/>

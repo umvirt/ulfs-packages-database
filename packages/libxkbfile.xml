@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libxkbfile</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libxkbfile-1.0.9.tar.bz2</sourcefile>
   <sourcedir>libxkbfile-1.0.9</sourcedir>
   <unpack/>

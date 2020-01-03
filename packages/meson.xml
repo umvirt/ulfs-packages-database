@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>meson</code>
+  <description>aGlnaC1wcm9kdWN0aXZpdHkgYnVpbGQgc3lzdGVt</description>
   <sourcefile>meson-0.52.0.tar.gz</sourcefile>
   <sourcedir>meson-0.52.0</sourcedir>
   <unpack/>

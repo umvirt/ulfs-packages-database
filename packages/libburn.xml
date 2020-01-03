@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libburn</code>
+  <description>bGliYnVybiBpcyBhIGxpYnJhcnkgZm9yIHdyaXRpbmcgcHJlZm9ybWF0dGVkIGRhdGEgb250byBvcHRpY2FsIG1lZGlhOiBDRCwgRFZEIGFuZCBCRCAoQmx1LVJheSkuIA==</description>
   <sourcefile>libburn-1.4.8.tar.gz</sourcefile>
   <sourcedir>libburn-1.4.8</sourcedir>
   <unpack/>

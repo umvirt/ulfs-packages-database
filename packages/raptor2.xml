@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>raptor2</code>
+  <description>UmFwdG9yIGlzIGEgQyBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgYSBzZXQgb2YgcGFyc2VycyBhbmQgc2VyaWFsaXplcnMgdGhhdCBnZW5lcmF0ZSBSZXNvdXJjZSBEZXNjcmlwdGlvbiBGcmFtZXdvcmsgKFJERikgdHJpcGxlcy4g</description>
   <sourcefile>raptor2-2.0.15.tar.gz</sourcefile>
   <sourcedir>raptor2-2.0.15</sourcedir>
   <unpack/>

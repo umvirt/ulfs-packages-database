@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>atril</code>
+  <description>QXRyaWwgaXMgYSBzaW1wbGUgbXVsdGktcGFnZSBkb2N1bWVudCB2aWV3ZXIuIA==</description>
   <sourcefile>atril-1.22.0.tar.xz</sourcefile>
   <sourcedir>atril-1.22.0</sourcedir>
   <unpack/>

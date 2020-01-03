@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xpr</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xpr-1.0.5.tar.bz2</sourcefile>
   <sourcedir>xpr-1.0.5</sourcedir>
   <unpack/>

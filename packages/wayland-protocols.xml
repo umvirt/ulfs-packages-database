@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wayland-protocols</code>
+  <description>VGhlIFdheWxhbmQtUHJvdG9jb2xzIHBhY2thZ2UgY29udGFpbnMgYWRkaXRpb25hbCBXYXlsYW5kIHByb3RvY29scyB0aGF0IGFkZCBmdW5jdGlvbmFsaXR5IG91dHNpZGUgb2YgcHJvdG9jb2xzIGFscmVhZHkgaW4gdGhlIFdheWxhbmQgY29yZS4g</description>
   <sourcefile>wayland-protocols-1.15.tar.xz</sourcefile>
   <sourcedir>wayland-protocols-1.15</sourcedir>
   <unpack/>

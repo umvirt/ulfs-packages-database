@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>httpd</code>
+  <description>ICBUaGUgQXBhY2hlIEhUVFBEIHBhY2thZ2UgY29udGFpbnMgYW4gb3Blbi1zb3VyY2UgSFRUUCBzZXJ2ZXIuIEl0IGlzIHVzZWZ1bCBmb3IgY3JlYXRpbmcgbG9jYWwgaW50cmFuZXQgd2ViIHNpdGVzIG9yIHJ1bm5pbmcgaHVnZSB3ZWIgc2VydmluZyBvcGVyYXRpb25zLiA=</description>
   <sourcefile>httpd-2.4.34.tar.bz2</sourcefile>
   <sourcedir>httpd-2.4.34</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libxslt</code>
+  <description>IFRoZSBsaWJ4c2x0IHBhY2thZ2UgY29udGFpbnMgWFNMVCBsaWJyYXJpZXMgdXNlZCBmb3IgZXh0ZW5kaW5nIGxpYnhtbDIgbGlicmFyaWVzIHRvIHN1cHBvcnQgWFNMVCBmaWxlcy4g</description>
   <sourcefile>libxslt-1.1.32.tar.gz</sourcefile>
   <sourcedir>libxslt-1.1.32</sourcedir>
   <unpack/>

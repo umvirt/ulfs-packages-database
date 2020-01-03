@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gvfs</code>
+  <description>VGhlIEd2ZnMgcGFja2FnZSBpcyBhIHVzZXJzcGFjZSB2aXJ0dWFsIGZpbGVzeXN0ZW0gZGVzaWduZWQgdG8gd29yayB3aXRoIHRoZSBJL08gYWJzdHJhY3Rpb25zIG9mIEdMaWIncyBHSU8gbGlicmFyeS4g</description>
   <sourcefile>gvfs-1.36.2.tar.xz</sourcefile>
   <sourcedir>gvfs-1.36.2</sourcedir>
   <unpack/>

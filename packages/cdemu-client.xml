@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cdemu-client</code>
+  <description>ICBDREVtdSBjbGllbnQgaXMgYSBzaW1wbGUgY29tbWFuZC1saW5lIGNsaWVudCBmb3IgY29udHJvbGxpbmcgQ0RFbXUgZGFlbW9uLg==</description>
   <sourcefile>cdemu-client-3.2.1.tar.bz2</sourcefile>
   <sourcedir>cdemu-client-3.2.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-autoar</code>
+  <description>IFRoZSBnbm9tZS1hdXRvYXIgcGFja2FnZSBwcm92aWRlcyBhIGZyYW1ld29yayBmb3IgYXV0b21hdGljIGFyY2hpdmUgZXh0cmFjdGlvbiwgY29tcHJlc3Npb24sIGFuZCBtYW5hZ2VtZW50LiA=</description>
   <sourcefile>gnome-autoar-0.2.3.tar.xz</sourcefile>
   <sourcedir>gnome-autoar-0.2.3</sourcedir>
   <unpack/>

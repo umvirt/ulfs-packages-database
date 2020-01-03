@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>luit</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>luit-1.1.1.tar.bz2</sourcefile>
   <sourcedir>luit-1.1.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxsession</code>
+  <description>IFRoZSBMWFNlc3Npb24gcGFja2FnZSBjb250YWlucyB0aGUgZGVmYXVsdCBzZXNzaW9uIG1hbmFnZXIgZm9yIExYREUuIA==</description>
   <sourcefile>lxsession-0.5.3.tar.xz</sourcefile>
   <sourcedir>lxsession-0.5.3</sourcedir>
   <unpack/>

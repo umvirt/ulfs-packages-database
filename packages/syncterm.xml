@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>syncterm</code>
+  <description>U3luY1RFUk0gaXMgYSBjcm9zcy1wbGF0Zm9ybSBBTlNJLUJCUyB0ZXJtaW5hbCBkZXNpZ25lZCB0byBjb25uZWN0IHRvIHJlbW90ZSBCQlNzIHZpYSB0ZWxuZXQsIHJsb2dpbiwgb3IgU1NILg==</description>
   <sourcefile>syncterm-1.0.tgz</sourcefile>
   <sourcedir>syncterm-1.0</sourcedir>
   <unpack/>

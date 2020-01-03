@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxde-icon-theme</code>
+  <description>VGhlIExYREUgSWNvbiBUaGVtZSBwYWNrYWdlIGNvbnRhaW5zIG51b3ZlWFQgMi4yIEljb24gVGhlbWUgZm9yIExYREUuIA==</description>
   <sourcefile>lxde-icon-theme-0.5.1.tar.xz</sourcefile>
   <sourcedir>lxde-icon-theme-0.5.1</sourcedir>
   <unpack/>

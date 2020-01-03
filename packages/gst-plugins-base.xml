@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gst-plugins-base</code>
+  <description>IFRoZSBHU3RyZWFtZXIgQmFzZSBQbHVnLWlucyBpcyBhIHdlbGwtZ3Jvb21lZCBhbmQgd2VsbC1tYWludGFpbmVkIGNvbGxlY3Rpb24gb2YgR1N0cmVhbWVyIHBsdWctaW5zIGFuZCBlbGVtZW50cywgc3Bhbm5pbmcgdGhlIHJhbmdlIG9mIHBvc3NpYmxlIHR5cGVzIG9mIGVsZW1lbnRzIG9uZSB3b3VsZCB3YW50IHRvIHdyaXRlIGZvciBHU3RyZWFtZXIuIFlvdSB3aWxsIG5lZWQgYXQgbGVhc3Qgb25lIG9mIEdvb2QsIEJhZCwgVWdseSBvciBMaWJhdiBwbHVnaW5zIGZvciBHU3RyZWFtZXIgYXBwbGljYXRpb25zIHRvIGZ1bmN0aW9uIHByb3Blcmx5LiA=</description>
   <sourcefile>gst-plugins-base-1.14.2.tar.xz</sourcefile>
   <sourcedir>gst-plugins-base-1.14.2</sourcedir>
   <unpack/>

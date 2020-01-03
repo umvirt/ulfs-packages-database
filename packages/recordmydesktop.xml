@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>recordmydesktop</code>
+  <description>cmVjb3JkTXlEZXNrdG9wIGlzIGEgZGVza3RvcCBzZXNzaW9uIHJlY29yZGVyIGZvciBHTlUvTGludXggYW5kIEZyZWVCU0Qu</description>
   <sourcefile>recordmydesktop-0.3.8.1.tar.gz</sourcefile>
   <sourcedir>recordmydesktop-0.3.8.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dia</code>
+  <description>RGlhIERpYWdyYW0gRWRpdG9yIGlzIGZyZWUgT3BlbiBTb3VyY2UgZHJhd2luZyBzb2Z0d2FyZSBmb3IgV2luZG93cywgTWFjIE9TIFggYW5kIExpbnV4LiA=</description>
   <sourcefile>dia-0.97.3.tar.xz</sourcefile>
   <sourcedir>dia-0.97.3</sourcedir>
   <unpack/>

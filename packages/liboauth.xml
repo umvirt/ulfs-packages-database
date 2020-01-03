@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>liboauth</code>
+  <description>ICBsaWJvYXV0aCBpcyBhIGNvbGxlY3Rpb24gb2YgUE9TSVgtQyBmdW5jdGlvbnMgaW1wbGVtZW50aW5nIHRoZSBPQXV0aCBDb3JlIFJGQyA1ODQ5IHN0YW5kYXJkLiBMaWJvYXV0aCBwcm92aWRlcyBmdW5jdGlvbnMgdG8gZXNjYXBlIGFuZCBlbmNvZGUgcGFyYW1ldGVycyBhY2NvcmRpbmcgdG8gT0F1dGggc3BlY2lmaWNhdGlvbiBhbmQgb2ZmZXJzIGhpZ2gtbGV2ZWwgZnVuY3Rpb25hbGl0eSB0byBzaWduIHJlcXVlc3RzIG9yIHZlcmlmeSBPQXV0aCBzaWduYXR1cmVzIGFzIHdlbGwgYXMgcGVyZm9ybSBIVFRQIHJlcXVlc3RzLiA=</description>
   <sourcefile>liboauth-1.0.3.tar.gz</sourcefile>
   <sourcedir>liboauth-1.0.3</sourcedir>
   <unpack/>

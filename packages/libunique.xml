@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libunique</code>
+  <description>IFRoZSBsaWJ1bmlxdWUgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHdyaXRpbmcgc2luZ2xlIGluc3RhbmNlIGFwcGxpY2F0aW9ucy4g</description>
   <sourcefile>libunique-1.1.6.tar.bz2</sourcefile>
   <sourcedir>libunique-1.1.6</sourcedir>
   <unpack/>

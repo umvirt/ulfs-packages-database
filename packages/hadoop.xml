@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>hadoop</code>
+  <description>VGhlIEFwYWNoZeKEoiBIYWRvb3DCriBwcm9qZWN0IGRldmVsb3BzIG9wZW4tc291cmNlIHNvZnR3YXJlIGZvciByZWxpYWJsZSwgc2NhbGFibGUsIGRpc3RyaWJ1dGVkIGNvbXB1dGluZy4=</description>
   <sourcefile>hadoop-3.2.0-src.tar.gz</sourcefile>
   <sourcedir>hadoop-3.2.0-src</sourcedir>
   <unpack/>

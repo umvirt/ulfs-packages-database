@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>systemd</code>
+  <description>V2hpbGUgc3lzdGVtZCB3YXMgaW5zdGFsbGVkIHdoZW4gYnVpbGRpbmcgTEZTLCB0aGVyZSBhcmUgbWFueSBmZWF0dXJlcyBwcm92aWRlZCBieSB0aGUgcGFja2FnZSB0aGF0IHdlcmUgbm90IGluY2x1ZGVkIGluIHRoZSBpbml0aWFsIGluc3RhbGxhdGlvbiBiZWNhdXNlIExpbnV4LVBBTSB3YXMgbm90IHlldCBpbnN0YWxsZWQuIFRoZSBzeXN0ZW1kIHBhY2thZ2UgbmVlZHMgdG8gYmUgcmVidWlsdCB0byBwcm92aWRlIGEgd29ya2luZyBzeXN0ZW1kLWxvZ2luZCBzZXJ2aWNlLCB3aGljaCBwcm92aWRlcyBtYW55IGFkZGl0aW9uYWwgZmVhdHVyZXMgZm9yIGRlcGVuZGVudCBwYWNrYWdlcy4g</description>
   <sourcefile>systemd-239.tar.gz</sourcefile>
   <sourcedir>systemd-239</sourcedir>
   <unpack/>

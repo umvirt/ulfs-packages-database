@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>p11-kit</code>
+  <description>VGhlIHAxMS1raXQgcGFja2FnZSBwcm92aWRlcyBhIHdheSB0byBsb2FkIGFuZCBlbnVtZXJhdGUgUEtDUyAjMTEgKGEgQ3J5cHRvZ3JhcGhpYyBUb2tlbiBJbnRlcmZhY2UgU3RhbmRhcmQpIG1vZHVsZXMuIA==</description>
   <sourcefile>p11-kit-0.23.13.tar.gz</sourcefile>
   <sourcedir>p11-kit-0.23.13</sourcedir>
   <unpack/>

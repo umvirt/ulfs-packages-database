@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gcr</code>
+  <description>VGhlIEdjciBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBkaXNwbGF5aW5nIGNlcnRpZmljYXRlcyBhbmQgYWNjZXNzaW5nIGtleSBzdG9yZXMuIEl0IGFsc28gcHJvdmlkZXMgdGhlIHZpZXdlciBmb3IgY3J5cHRvIGZpbGVzIG9uIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
   <sourcefile>gcr-3.28.0.tar.xz</sourcefile>
   <sourcedir>gcr-3.28.0</sourcedir>
   <unpack/>

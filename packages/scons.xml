@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>scons</code>
+  <description>U0NvbnMgaXMgYSB0b29sIGZvciBidWlsZGluZyBzb2Z0d2FyZSAoYW5kIG90aGVyIGZpbGVzKSBpbXBsZW1lbnRlZCBpbiBQeXRob24uIA==</description>
   <sourcefile>scons-3.0.0.tar.gz</sourcefile>
   <sourcedir>scons-3.0.0</sourcedir>
   <unpack/>

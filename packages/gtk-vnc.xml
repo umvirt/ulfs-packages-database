@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gtk-vnc</code>
+  <description>IFRoZSBHdGsgVk5DIHBhY2thZ2UgY29udGFpbnMgYSBWTkMgdmlld2VyIHdpZGdldCBmb3IgR1RLKy4gSXQgaXMgYnVpbHQgdXNpbmcgY29yb3V0aW5lcyBhbGxvd2luZyBpdCB0byBiZSBjb21wbGV0ZWx5IGFzeW5jaHJvbm91cyB3aGlsZSByZW1haW5pbmcgc2luZ2xlIHRocmVhZGVkLg==</description>
   <sourcefile>gtk-vnc-1.0.0.tar.xz</sourcefile>
   <sourcedir>gtk-vnc-1.0.0</sourcedir>
   <unpack/>

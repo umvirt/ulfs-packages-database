@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mesa-demos</code>
+  <description>Z2x4aW5mbywgZ2x4Z2VhcnMgYW5kIG90aGVyIE1lc2EgZGVtb3M=</description>
   <sourcefile>mesa-demos-8.4.0.tar.bz2</sourcefile>
   <sourcedir>mesa-demos-8.4.0</sourcedir>
   <unpack/>

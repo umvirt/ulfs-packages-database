@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xorg-server</code>
+  <description>VGhlIFhvcmcgU2VydmVyIGlzIHRoZSBjb3JlIG9mIHRoZSBYIFdpbmRvdyBzeXN0ZW0uIA==</description>
   <sourcefile>xorg-server-1.20.1.tar.bz2</sourcefile>
   <sourcedir>xorg-server-1.20.1</sourcedir>
   <unpack/>

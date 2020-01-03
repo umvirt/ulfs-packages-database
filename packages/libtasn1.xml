@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libtasn1</code>
+  <description>bGlidGFzbjEgaXMgYSBoaWdobHkgcG9ydGFibGUgQyBsaWJyYXJ5IHRoYXQgZW5jb2RlcyBhbmQgZGVjb2RlcyBERVIvQkVSIGRhdGEgZm9sbG93aW5nIGFuIEFTTi4xIHNjaGVtYS4g</description>
   <sourcefile>libtasn1-4.13.tar.gz</sourcefile>
   <sourcedir>libtasn1-4.13</sourcedir>
   <unpack/>

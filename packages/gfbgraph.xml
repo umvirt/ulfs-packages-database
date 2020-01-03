@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gfbgraph</code>
+  <description>VGhlIGdmYmdyYXBoIHBhY2thZ2UgY29udGFpbnMgYSBHT2JqZWN0IHdyYXBwZXIgZm9yIHRoZSBGYWNlYm9vayBHcmFwaCBBUEkuIA==</description>
   <sourcefile>gfbgraph-0.2.3.tar.xz</sourcefile>
   <sourcedir>gfbgraph-0.2.3</sourcedir>
   <unpack/>

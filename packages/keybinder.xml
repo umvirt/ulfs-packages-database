@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>keybinder</code>
+  <description>VGhlIGtleWJpbmRlciBwYWNrYWdlIGNvbnRhaW5zIGEgdXRpbGl0eSBsaWJyYXJ5IHJlZ2lzdGVyaW5nIGdsb2JhbCBYIGtleWJvYXJkIHNob3J0Y3V0cy4g</description>
   <sourcefile>keybinder-0.3.0.tar.gz</sourcefile>
   <sourcedir>keybinder-0.3.0</sourcedir>
   <unpack/>

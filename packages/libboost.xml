@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libboost</code>
+  <description>IEJvb3N0IHByb3ZpZGVzIGEgc2V0IG9mIGZyZWUgcGVlci1yZXZpZXdlZCBwb3J0YWJsZSBDKysgc291cmNlIGxpYnJhcmllcy4gSXQgaW5jbHVkZXMgbGlicmFyaWVzIGZvciBsaW5lYXIgYWxnZWJyYSwgcHNldWRvcmFuZG9tIG51bWJlciBnZW5lcmF0aW9uLCBtdWx0aXRocmVhZGluZywgaW1hZ2UgcHJvY2Vzc2luZywgcmVndWxhciBleHByZXNzaW9ucyBhbmQgdW5pdCB0ZXN0aW5nLg==</description>
   <sourcefile>boost_1_68_0.tar.bz2</sourcefile>
   <sourcedir>boost_1_68_0</sourcedir>
   <unpack/>

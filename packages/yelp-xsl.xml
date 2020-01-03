@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>yelp-xsl</code>
+  <description>IFRoZSBZZWxwIFhTTCBwYWNrYWdlIGNvbnRhaW5zIFhTTCBzdHlsZXNoZWV0cyB0aGF0IGFyZSB1c2VkIGJ5IHRoZSBZZWxwIGhlbHAgYnJvd3NlciB0byBmb3JtYXQgRG9jYm9vayBhbmQgTWFsbGFyZCBkb2N1bWVudHMuIA==</description>
   <sourcefile>yelp-xsl-3.28.0.tar.xz</sourcefile>
   <sourcedir>yelp-xsl-3.28.0</sourcedir>
   <unpack/>

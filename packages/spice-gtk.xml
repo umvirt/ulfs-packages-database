@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>spice-gtk</code>
+  <description>QmFzZSBHVEsgU1BJQ0UgY2xpZW50IChzcGljeSk=</description>
   <sourcefile>spice-gtk-0.36.tar.bz2</sourcefile>
   <sourcedir>spice-gtk-0.36</sourcedir>
   <unpack/>

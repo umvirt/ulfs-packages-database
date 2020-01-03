@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xdg-utils</code>
+  <description>eGRnLXV0aWxzIGlzIGEgYSBzZXQgb2YgY29tbWFuZCBsaW5lIHRvb2xzIHRoYXQgYXNzaXN0IGFwcGxpY2F0aW9ucyB3aXRoIGEgdmFyaWV0eSBvZiBkZXNrdG9wIGludGVncmF0aW9uIHRhc2tzLiBJdCBpcyByZXF1aXJlZCBmb3IgTGludXggU3RhbmRhcmRzIEJhc2UgKExTQikgY29uZm9ybWFuY2Uu</description>
   <sourcefile>xdg-utils-1.1.3.tar.gz</sourcefile>
   <sourcedir>xdg-utils-1.1.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>perl-Archive-Zip</code>
+  <description>QXJjaGl2ZTo6WmlwIC0gUHJvdmlkZSBhbiBpbnRlcmZhY2UgdG8gWklQIGFyY2hpdmUgZmlsZXMu</description>
   <sourcefile>Archive-Zip-1.62.tar.gz</sourcefile>
   <sourcedir>Archive-Zip-1.62</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xinput</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xinput-1.6.2.tar.bz2</sourcefile>
   <sourcedir>xinput-1.6.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>iptables</code>
+  <description>YWRtaW5pc3RyYXRpb24gdG9vbHMgZm9yIHBhY2tldCBmaWx0ZXJpbmcgYW5kIE5BVA==</description>
   <sourcefile>iptables-1.8.0.tar.bz2</sourcefile>
   <sourcedir>iptables-1.8.0</sourcedir>
   <unpack/>

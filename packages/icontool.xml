@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>icontool</code>
+  <description>dG9vbHMgZm9yIG1haW50YWluaW5nIGljb25zIGluIHNvZnR3YXJlIHByb2plY3Rz</description>
   <sourcefile>icontool-0.1.0.tar.gz</sourcefile>
   <sourcedir>icontool-0.1.0</sourcedir>
   <unpack/>

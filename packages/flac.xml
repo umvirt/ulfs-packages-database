@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>flac</code>
+  <description>RkxBQyBpcyBhbiBhdWRpbyBDT0RFQyBzaW1pbGFyIHRvIE1QMywgYnV0IGxvc3NsZXNzLCBtZWFuaW5nIHRoYXQgYXVkaW8gaXMgY29tcHJlc3NlZCB3aXRob3V0IGxvc2luZyBhbnkgaW5mb3JtYXRpb24uIA==</description>
   <sourcefile>flac-1.3.2.tar.xz</sourcefile>
   <sourcedir>flac-1.3.2</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>zbar</code>
+  <description>WkJhciBpcyBhbiBvcGVuIHNvdXJjZSBzb2Z0d2FyZSBzdWl0ZSBmb3IgcmVhZGluZyBiYXIgY29kZXMgZnJvbSB2YXJpb3VzIHNvdXJjZXMsIHN1Y2ggYXMgdmlkZW8gc3RyZWFtcywgaW1hZ2UgZmlsZXMgYW5kIHJhdyBpbnRlbnNpdHkgc2Vuc29ycy4=</description>
   <sourcefile>zbar-0.23.tar.gz</sourcefile>
   <sourcedir>zbar-0.23</sourcedir>
   <unpack/>

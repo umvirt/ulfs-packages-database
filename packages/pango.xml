@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pango</code>
+  <description>UGFuZ28gaXMgYSBsaWJyYXJ5IGZvciBsYXlpbmcgb3V0IGFuZCByZW5kZXJpbmcgb2YgdGV4dCwgd2l0aCBhbiBlbXBoYXNpcyBvbiBpbnRlcm5hdGlvbmFsaXphdGlvbi4gSXQgY2FuIGJlIHVzZWQgYW55d2hlcmUgdGhhdCB0ZXh0IGxheW91dCBpcyBuZWVkZWQsIHRob3VnaCBtb3N0IG9mIHRoZSB3b3JrIG9uIFBhbmdvIHNvIGZhciBoYXMgYmVlbiBkb25lIGluIHRoZSBjb250ZXh0IG9mIHRoZSBHVEsrIHdpZGdldCB0b29sa2l0LiA=</description>
   <sourcefile>pango-1.42.3.tar.xz</sourcefile>
   <sourcedir>pango-1.42.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libndp</code>
+  <description>IFRoZSBsaWJuZHAgcGFja2FnZSBwcm92aWRlcyBhIHdyYXBwZXIgZm9yIElQdjYgTmVpZ2hib3IgRGlzY292ZXJ5IFByb3RvY29sLiBJdCBhbHNvIHByb3ZpZGVzIGEgdG9vbCBuYW1lZCBuZHB0b29sIGZvciBzZW5kaW5nIGFuZCByZWNlaXZpbmcgTkRQIG1lc3NhZ2VzLiA=</description>
   <sourcefile>libndp-1.7.tar.gz</sourcefile>
   <sourcedir>libndp-1.7</sourcedir>
   <unpack/>

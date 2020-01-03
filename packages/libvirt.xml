@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libvirt</code>
+  <description>VGhlIGxpYnZpcnQgaXMgYSB0b29sa2l0IHRvIG1hbmFnZSB2aXJ0dWFsaXphdGlvbiBwbGF0Zm9ybXMu</description>
   <sourcefile>libvirt-5.7.0.tar.xz</sourcefile>
   <sourcedir>libvirt-5.7.0</sourcedir>
   <unpack/>

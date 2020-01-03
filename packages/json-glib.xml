@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>json-glib</code>
+  <description>ICBUaGUgSlNPTiBHTGliIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHByb3ZpZGluZyBzZXJpYWxpemF0aW9uIGFuZCBkZXNlcmlhbGl6YXRpb24gc3VwcG9ydCBmb3IgdGhlIEphdmFTY3JpcHQgT2JqZWN0IE5vdGF0aW9uIChKU09OKSBmb3JtYXQgZGVzY3JpYmVkIGJ5IFJGQyA0NjI3LiA=</description>
   <sourcefile>json-glib-1.4.2.tar.xz</sourcefile>
   <sourcedir>json-glib-1.4.2</sourcedir>
   <unpack/>

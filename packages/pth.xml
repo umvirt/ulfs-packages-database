@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pth</code>
+  <description>VGhlIFB0aCBwYWNrYWdlIGNvbnRhaW5zIGEgdmVyeSBwb3J0YWJsZSBQT1NJWC9BTlNJLUMgYmFzZWQgbGlicmFyeSBmb3IgVW5peCBwbGF0Zm9ybXMgd2hpY2ggcHJvdmlkZXMgbm9uLXByZWVtcHRpdmUgcHJpb3JpdHktYmFzZWQgc2NoZWR1bGluZyBmb3IgbXVsdGlwbGUgdGhyZWFkcyBvZiBleGVjdXRpb24gKG11bHRpdGhyZWFkaW5nKSBpbnNpZGUgZXZlbnQtZHJpdmVuIGFwcGxpY2F0aW9ucy4gQWxsIHRocmVhZHMgcnVuIGluIHRoZSBzYW1lIGFkZHJlc3Mgc3BhY2Ugb2YgdGhlIHNlcnZlciBhcHBsaWNhdGlvbiwgYnV0IGVhY2ggdGhyZWFkIGhhcyBpdHMgb3duIGluZGl2aWR1YWwgcHJvZ3JhbS1jb3VudGVyLCBydW4tdGltZSBzdGFjaywgc2lnbmFsIG1hc2sgYW5kIGVycm5vIHZhcmlhYmxlLiA=</description>
   <sourcefile>pth-2.0.7.tar.gz</sourcefile>
   <sourcedir>pth-2.0.7</sourcedir>
   <unpack/>

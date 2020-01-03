@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>stopwatch</code>
+  <description>VmlydHVhbCBzdG9wd2F0Y2ggYW5kIHRpbWVy</description>
   <sourcefile>stopwatch-3.4.tar.gz</sourcefile>
   <sourcedir>stopwatch-3.4</sourcedir>
   <unpack/>

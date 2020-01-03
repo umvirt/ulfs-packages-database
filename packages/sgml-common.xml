@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>sgml-common</code>
+  <description>IFRoZSBTR01MIENvbW1vbiBwYWNrYWdlIGNvbnRhaW5zIGluc3RhbGwtY2F0YWxvZy4gVGhpcyBpcyB1c2VmdWwgZm9yIGNyZWF0aW5nIGFuZCBtYWludGFpbmluZyBjZW50cmFsaXplZCBTR01MIGNhdGFsb2dzLiA=</description>
   <sourcefile>sgml-common-0.6.3.tgz</sourcefile>
   <sourcedir>sgml-common-0.6.3</sourcedir>
   <unpack/>

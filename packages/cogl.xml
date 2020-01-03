@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cogl</code>
+  <description>Q29nbCBpcyBhIG1vZGVybiAzRCBncmFwaGljcyBBUEkgd2l0aCBhc3NvY2lhdGVkIHV0aWxpdHkgQVBJcyBkZXNpZ25lZCB0byBleHBvc2UgdGhlIGZlYXR1cmVzIG9mIDNEIGdyYXBoaWNzIGhhcmR3YXJlIHVzaW5nIGEgZGlyZWN0IHN0YXRlIGFjY2VzcyBBUEkgZGVzaWduLCBhcyBvcHBvc2VkIHRvIHRoZSBzdGF0ZS1tYWNoaW5lIHN0eWxlIG9mIE9wZW5HTC4g</description>
   <sourcefile>cogl-1.22.2.tar.xz</sourcefile>
   <sourcedir>cogl-1.22.2</sourcedir>
   <unpack/>

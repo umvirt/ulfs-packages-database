@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libcap-pam</code>
+  <description>VGhlIGxpYmNhcCBwYWNrYWdlIHdhcyBpbnN0YWxsZWQgaW4gTEZTLCBidXQgaWYgTGludXgtUEFNIHN1cHBvcnQgaXMgZGVzaXJlZCwgdGhlIFBBTSBtb2R1bGUgbXVzdCBiZSBidWlsdCAoYWZ0ZXIgaW5zdGFsbGF0aW9uIG9mIExpbnV4LVBBTSkuIA==</description>
   <sourcefile>libcap-2.25.tar.xz</sourcefile>
   <sourcedir>libcap-2.25</sourcedir>
   <unpack/>

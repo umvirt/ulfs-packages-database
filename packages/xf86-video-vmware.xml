@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-video-vmware</code>
+  <description>VGhlIFhvcmcgVk13YXJlIERyaXZlciBwYWNrYWdlIGNvbnRhaW5zIHRoZSBYLk9yZyBWaWRlbyBEcml2ZXIgZm9yIFZNd2FyZSBTVkdBIHZpcnR1YWwgdmlkZW8gY2FyZHMuIA==</description>
   <sourcefile>xf86-video-vmware-13.3.0.tar.bz2</sourcefile>
   <sourcedir>xf86-video-vmware-13.3.0</sourcedir>
   <unpack/>

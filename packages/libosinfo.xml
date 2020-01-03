@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libosinfo</code>
+  <description>bGlib3NpbmZvIGlzIGEgR09iamVjdCBiYXNlZCBsaWJyYXJ5IEFQSSBmb3IgbWFuYWdpbmcgaW5mb3JtYXRpb24gYWJvdXQgb3BlcmF0aW5nIHN5c3RlbXMsIGh5cGVydmlzb3JzIGFuZCB0aGUgKHZpcnR1YWwpIGhhcmR3YXJlIGRldmljZXMgdGhleSBjYW4gc3VwcG9ydC4=</description>
   <sourcefile>libosinfo-1.6.0.tar.gz</sourcefile>
   <sourcedir>libosinfo-1.6.0</sourcedir>
   <unpack/>

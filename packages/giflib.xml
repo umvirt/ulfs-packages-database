@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>giflib</code>
+  <description>VGhlIGdpZmxpYiBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBHSUZzIGFzIHdlbGwgYXMgcHJvZ3JhbXMgZm9yIGNvbnZlcnRpbmcgYW5kIHdvcmtpbmcgd2l0aCBHSUYgZmlsZXMuIA==</description>
   <sourcefile>giflib-5.1.4.tar.bz2</sourcefile>
   <sourcedir>giflib-5.1.4</sourcedir>
   <unpack/>

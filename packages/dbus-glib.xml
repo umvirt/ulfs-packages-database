@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dbus-glib</code>
+  <description>VGhlIEQtQnVzIEdMaWIgcGFja2FnZSBjb250YWlucyBHTGliIGludGVyZmFjZXMgdG8gdGhlIEQtQnVzIEFQSS4g</description>
   <sourcefile>dbus-glib-0.110.tar.gz</sourcefile>
   <sourcedir>dbus-glib-0.110</sourcedir>
   <unpack/>

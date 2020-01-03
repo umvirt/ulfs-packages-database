@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>vte-gtk2</code>
+  <description>VnRlIGlzIGEgbGlicmFyeSAobGlidnRlKSBpbXBsZW1lbnRpbmcgYSB0ZXJtaW5hbCBlbXVsYXRvciB3aWRnZXQgZm9yIEdUSysgMiwgYW5kIGEgbWluaW1hbCBkZW1vbnN0cmF0aW9uIGFwcGxpY2F0aW9uICh2dGUpIHRoYXQgdXNlcyBsaWJ2dGUuIA==</description>
   <sourcefile>vte-0.28.2.tar.xz</sourcefile>
   <sourcedir>vte-0.28.2</sourcedir>
   <unpack/>

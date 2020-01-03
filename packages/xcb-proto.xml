@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcb-proto</code>
+  <description>ICBUaGUgeGNiLXByb3RvIHBhY2thZ2UgcHJvdmlkZXMgdGhlIFhNTC1YQ0IgcHJvdG9jb2wgZGVzY3JpcHRpb25zIHRoYXQgbGlieGNiIHVzZXMgdG8gZ2VuZXJhdGUgdGhlIG1ham9yaXR5IG9mIGl0cyBjb2RlIGFuZCBBUEkuIA==</description>
   <sourcefile>xcb-proto-1.13.tar.bz2</sourcefile>
   <sourcedir>xcb-proto-1.13</sourcedir>
   <unpack/>

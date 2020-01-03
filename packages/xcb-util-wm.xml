@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcb-util-wm</code>
+  <description>VGhlIHhjYi11dGlsLXdtIHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHdoaWNoIHByb3ZpZGUgY2xpZW50IGFuZCB3aW5kb3ctbWFuYWdlciBoZWxwZXJzIGZvciBFV01IIGFuZCBJQ0NDTS4g</description>
   <sourcefile>xcb-util-wm-0.4.1.tar.bz2</sourcefile>
   <sourcedir>xcb-util-wm-0.4.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libjpeg-turbo</code>
+  <description>bGlianBlZy10dXJibyBpcyBhIGZvcmsgb2YgdGhlIG9yaWdpbmFsIElKRyBsaWJqcGVnIHdoaWNoIHVzZXMgU0lNRCB0byBhY2NlbGVyYXRlIGJhc2VsaW5lIEpQRUcgY29tcHJlc3Npb24gYW5kIGRlY29tcHJlc3Npb24uIGxpYmpwZWcgaXMgYSBsaWJyYXJ5IHRoYXQgaW1wbGVtZW50cyBKUEVHIGltYWdlIGVuY29kaW5nLCBkZWNvZGluZyBhbmQgdHJhbnNjb2RpbmcuIA==</description>
   <sourcefile>libjpeg-turbo-2.0.0.tar.gz</sourcefile>
   <sourcedir>libjpeg-turbo-2.0.0</sourcedir>
   <unpack/>

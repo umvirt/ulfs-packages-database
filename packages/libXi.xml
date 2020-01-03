@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXi</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXi-1.7.9.tar.bz2</sourcefile>
   <sourcedir>libXi-1.7.9</sourcedir>
   <unpack/>

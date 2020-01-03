@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXrender</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXrender-0.9.10.tar.bz2</sourcefile>
   <sourcedir>libXrender-0.9.10</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgee</code>
+  <description>IFRoZSBsaWJnZWUgcGFja2FnZSBpcyBhIGNvbGxlY3Rpb24gbGlicmFyeSBwcm92aWRpbmcgR09iamVjdCBiYXNlZCBpbnRlcmZhY2VzIGFuZCBjbGFzc2VzIGZvciBjb21tb25seSB1c2VkIGRhdGEgc3RydWN0dXJlcy4g</description>
   <sourcefile>libgee-0.20.1.tar.xz</sourcefile>
   <sourcedir>libgee-0.20.1</sourcedir>
   <unpack/>

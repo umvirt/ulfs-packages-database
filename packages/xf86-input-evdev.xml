@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-input-evdev</code>
+  <description>VGhlIFhvcmcgRXZkZXYgRHJpdmVyIHBhY2thZ2UgY29udGFpbnMgYSBHZW5lcmljIExpbnV4IGlucHV0IGRyaXZlciBmb3IgdGhlIFhvcmcgWCBzZXJ2ZXIuIEl0IGhhbmRsZXMga2V5Ym9hcmQsIG1vdXNlLCB0b3VjaHBhZHMgYW5kIHdhY29tIGRldmljZXMsIHRob3VnaCBmb3IgdG91Y2hwYWQgYW5kIHdhY29tIGFkdmFuY2VkIGhhbmRsaW5nLCBhZGRpdGlvbmFsIGRyaXZlcnMgYXJlIHJlcXVpcmVkLg==</description>
   <sourcefile>xf86-input-evdev-2.10.6.tar.bz2</sourcefile>
   <sourcedir>xf86-input-evdev-2.10.6</sourcedir>
   <unpack/>

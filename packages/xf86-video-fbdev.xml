@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-video-fbdev</code>
+  <description>ICBUaGUgWG9yZyBGYmRldiBEcml2ZXIgcGFja2FnZSBjb250YWlucyB0aGUgWC5PcmcgVmlkZW8gRHJpdmVyIGZvciBmcmFtZWJ1ZmZlciBkZXZpY2VzLiBUaGlzIGRyaXZlciBpcyBvZnRlbiB1c2VkIGFzIGZhbGxiYWNrIGRyaXZlciBpZiB0aGUgaGFyZHdhcmUgc3BlY2lmaWMgYW5kIFZFU0EgZHJpdmVycyBmYWlsIHRvIGxvYWQgb3IgYXJlIG5vdCBwcmVzZW50LiBJZiB0aGlzIGRyaXZlciBpcyBub3QgaW5zdGFsbGVkLCBYb3JnIFNlcnZlciB3aWxsIHByaW50IGEgd2FybmluZyBvbiBzdGFydHVwLCBidXQgaXQgY2FuIGJlIHNhZmVseSBpZ25vcmVkIGlmIGhhcmR3YXJlIHNwZWNpZmljIGRyaXZlciB3b3JrcyB3ZWxsLiA=</description>
   <sourcefile>xf86-video-fbdev-0.5.0.tar.bz2</sourcefile>
   <sourcedir>xf86-video-fbdev-0.5.0</sourcedir>
   <unpack/>

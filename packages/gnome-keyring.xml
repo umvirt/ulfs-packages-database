@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-keyring</code>
+  <description>VGhlIEdOT01FIEtleXJpbmcgcGFja2FnZSBjb250YWlucyBhIGRhZW1vbiB0aGF0IGtlZXBzIHBhc3N3b3JkcyBhbmQgb3RoZXIgc2VjcmV0cyBmb3IgdXNlcnMuIA==</description>
   <sourcefile>gnome-keyring-3.28.2.tar.xz</sourcefile>
   <sourcedir>gnome-keyring-3.28.2</sourcedir>
   <unpack/>

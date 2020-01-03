@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ModemManager</code>
+  <description>TW9kZW1NYW5hZ2VyIHByb3ZpZGVzIGEgdW5pZmllZCBoaWdoIGxldmVsIEFQSSBmb3IgY29tbXVuaWNhdGluZyB3aXRoIG1vYmlsZSBicm9hZGJhbmQgbW9kZW1zLCByZWdhcmRsZXNzIG9mIHRoZSBwcm90b2NvbCB1c2VkIHRvIGNvbW11bmljYXRlIHdpdGggdGhlIGFjdHVhbCBkZXZpY2UuIA==</description>
   <sourcefile>ModemManager-1.8.0.tar.xz</sourcefile>
   <sourcedir>ModemManager-1.8.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xfontsel</code>
+  <description>VGhlIHhmb250c2VsIGFwcGxpY2F0aW9uIHByb3ZpZGVzIGEgc2ltcGxlIHdheSB0byBkaXNwbGF5IHRoZSBmb250cyBrbm93biB0byB5b3VyIFggc2VydmVyLCA=</description>
   <sourcefile>xfontsel-1.0.6.tar.gz</sourcefile>
   <sourcedir>xfontsel-1.0.6</sourcedir>
   <unpack/>

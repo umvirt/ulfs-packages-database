@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cifs-utils</code>
+  <description>VGhlIGNpZnMtdXRpbHMgcHJvdmlkZXMgYSBtZWFucyBmb3IgbW91bnRpbmcgU01CL0NJRlMgc2hhcmVzIG9uIGEgTGludXggc3lzdGVtLiA=</description>
   <sourcefile>cifs-utils-6.8.tar.bz2</sourcefile>
   <sourcedir>cifs-utils-6.8</sourcedir>
   <unpack/>

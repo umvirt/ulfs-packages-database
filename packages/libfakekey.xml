@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libfakekey</code>
+  <description>bGlicmFyeSBmb3IgY29udmVydGluZyBjaGFyYWN0ZXJzIHRvIFgga2V5LXByZXNzZXM=</description>
   <sourcefile>libfakekey-0.3.tar.bz2</sourcefile>
   <sourcedir>libfakekey-0.3</sourcedir>
   <unpack/>

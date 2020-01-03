@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python2-pycrypto</code>
+  <description>VGhpcyBpcyBhIGNvbGxlY3Rpb24gb2YgYm90aCBzZWN1cmUgaGFzaCBmdW5jdGlvbnMgKHN1Y2ggYXMgU0hBMjU2IGFuZCBSSVBFTUQxNjApLCBhbmQgdmFyaW91cyBlbmNyeXB0aW9uIGFsZ29yaXRobXMgKEFFUywgREVTLCBSU0EsIEVsR2FtYWwsIGV0Yy4pLg==</description>
   <sourcefile>pycrypto-2.6.1.tar.gz</sourcefile>
   <sourcedir>pycrypto-2.6.1</sourcedir>
   <unpack/>

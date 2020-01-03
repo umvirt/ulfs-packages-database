@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xdotool</code>
+  <description>c2ltdWxhdGUgKGdlbmVyYXRlKSBYMTEga2V5Ym9hcmQvbW91c2UgaW5wdXQgZXZlbnRz</description>
   <sourcefile>xdotool-3.20160805.1.tar.gz</sourcefile>
   <sourcedir>xdotool-3.20160805.1</sourcedir>
   <unpack/>

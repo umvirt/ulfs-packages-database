@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>qqwing</code>
+  <description>dG9vbCBmb3IgZ2VuZXJhdGluZyBhbmQgc29sdmluZyBTdWRva3UgcHV6emxlcw==</description>
   <sourcefile>qqwing-1.3.4.tar.gz</sourcefile>
   <sourcedir>qqwing-1.3.4</sourcedir>
   <unpack/>

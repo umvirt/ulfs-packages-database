@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>rest</code>
+  <description>VGhlIHJlc3QgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCB3YXMgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXNpZXIgdG8gYWNjZXNzIHdlYiBzZXJ2aWNlcyB0aGF0IGNsYWltIHRvIGJlICJSRVNUZnVsIi4gSXQgaW5jbHVkZXMgY29udmVuaWVuY2Ugd3JhcHBlcnMgZm9yIGxpYnNvdXAgYW5kIGxpYnhtbCB0byBlYXNlIHJlbW90ZSB1c2Ugb2YgdGhlIFJFU1RmdWwgQVBJLiA=</description>
   <sourcefile>rest-0.8.1.tar.xz</sourcefile>
   <sourcedir>rest-0.8.1</sourcedir>
   <unpack/>

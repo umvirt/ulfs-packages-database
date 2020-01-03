@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>webkitgtk</code>
+  <description>VGhlIFdlYktpdEdUSysgcGFja2FnZSBpcyBhIHBvcnQgb2YgdGhlIHBvcnRhYmxlIHdlYiByZW5kZXJpbmcgZW5naW5lIFdlYktpdCB0byB0aGUgR1RLKyAzIGFuZCBHVEsrIDIgcGxhdGZvcm1zLiA=</description>
   <sourcefile>webkitgtk-2.20.5.tar.xz</sourcefile>
   <sourcedir>webkitgtk-2.20.5</sourcedir>
   <unpack/>

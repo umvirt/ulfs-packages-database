@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>openssh</code>
+  <description>VGhlIE9wZW5TU0ggcGFja2FnZSBjb250YWlucyBzc2ggY2xpZW50cyBhbmQgdGhlIHNzaGQgZGFlbW9uLiBUaGlzIGlzIHVzZWZ1bCBmb3IgZW5jcnlwdGluZyBhdXRoZW50aWNhdGlvbiBhbmQgc3Vic2VxdWVudCB0cmFmZmljIG92ZXIgYSBuZXR3b3JrLiBUaGUgc3NoIGFuZCBzY3AgY29tbWFuZHMgYXJlIHNlY3VyZSBpbXBsZW1lbnRhdGlvbnMgb2YgdGVsbmV0IGFuZCByY3AgcmVzcGVjdGl2ZWx5LiA=</description>
   <sourcefile>openssh-7.7p1.tar.gz</sourcefile>
   <sourcedir>openssh-7.7p1</sourcedir>
   <unpack/>

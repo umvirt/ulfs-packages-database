@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>orc</code>
+  <description>T3JjIC0gT3B0aW1pemVkIElubmVyIExvb3AgUnVudGltZSBDb21waWxlci4=</description>
   <sourcefile>orc-0.4.28.tar.xz</sourcefile>
   <sourcedir>orc-0.4.28</sourcedir>
   <unpack/>

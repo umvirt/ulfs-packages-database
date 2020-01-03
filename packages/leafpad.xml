@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>leafpad</code>
+  <description>U2ltcGxlIHRleHQgZWRpdG9yIGZvciBYb3Jn</description>
   <sourcefile>leafpad-0.8.17.tar.gz</sourcefile>
   <sourcedir>leafpad-0.8.17</sourcedir>
   <unpack/>

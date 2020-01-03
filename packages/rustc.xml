@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>rustc</code>
+  <description>UnVzdCBDb21waWxlcg==</description>
   <sourcefile>rustc-1.25.0-src.tar.gz</sourcefile>
   <sourcedir>rustc-1.25.0-src</sourcedir>
   <unpack/>

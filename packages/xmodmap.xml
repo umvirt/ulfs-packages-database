@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xmodmap</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xmodmap-1.0.9.tar.bz2</sourcefile>
   <sourcedir>xmodmap-1.0.9</sourcedir>
   <unpack/>

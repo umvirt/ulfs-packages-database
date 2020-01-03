@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>testdisk</code>
+  <description>UmVzY3VlIGRhdGEgdG9vbA==</description>
   <sourcefile>testdisk-7.0.tar.bz2</sourcefile>
   <sourcedir>testdisk-7.0</sourcedir>
   <unpack/>

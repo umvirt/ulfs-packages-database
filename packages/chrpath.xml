@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>chrpath</code>
+  <description>VG9vbCB0byBlZGl0IHRoZSBycGF0aCBpbiBFTEYgYmluYXJpZXM=</description>
   <sourcefile>chrpath-0.16.tar.gz</sourcefile>
   <sourcedir>chrpath-0.16</sourcedir>
   <unpack/>

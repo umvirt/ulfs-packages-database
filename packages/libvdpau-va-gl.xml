@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libvdpau-va-gl</code>
+  <description>IFRoZSBsaWJ2ZHBhdS12YS1nbCBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB3aGljaCBpbXBsZW1lbnRzIHRoZSBWRFBBVSBsaWJyYXJ5LiBMaWJ2ZHBhdV92YV9nbCB1c2VzIE9wZW5HTCB1bmRlciB0aGUgaG9vZCB0byBhY2NlbGVyYXRlIGRyYXdpbmcgYW5kIHNjYWxpbmcgYW5kIHRoZSBWQS1BUEkgKGlmIGF2YWlsYWJsZSkgdG8gYWNjZWxlcmF0ZSB2aWRlbyBkZWNvZGluZy4gRm9yIG5vdyBWQS1BUEkgaXMgYXZhaWxhYmxlIG9uIHNvbWUgSW50ZWwgY2hpcHMsIGFuZCBvbiBzb21lIEFNRCB2aWRlbyBhZGFwdGVycyB3aXRoIHRoZSBoZWxwIG9mIHRoZSBsaWJ2ZHBhdSBkcml2ZXIu</description>
   <sourcefile>libvdpau-va-gl-0.4.0.tar.gz</sourcefile>
   <sourcedir>libvdpau-va-gl-0.4.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mpg123</code>
+  <description>VGhlIG1wZzEyMyBwYWNrYWdlIGNvbnRhaW5zIGEgY29uc29sZS1iYXNlZCBNUDMgcGxheWVyLiBJdCBjbGFpbXMgdG8gYmUgdGhlIGZhc3Rlc3QgTVAzIGRlY29kZXIgZm9yIFVuaXguIA==</description>
   <sourcefile>mpg123-1.25.10.tar.bz2</sourcefile>
   <sourcedir>mpg123-1.25.10</sourcedir>
   <unpack/>

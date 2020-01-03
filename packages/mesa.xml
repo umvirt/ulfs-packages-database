@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mesa</code>
+  <description>TWVzYSBpcyBhbiBPcGVuR0wgY29tcGF0aWJsZSAzRCBncmFwaGljcyBsaWJyYXJ5LiA=</description>
   <sourcefile>mesa-19.1.4.tar.xz</sourcefile>
   <sourcedir>mesa-19.1.4</sourcedir>
   <unpack/>

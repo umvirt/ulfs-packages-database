@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>totem-pl-parser</code>
+  <description>VGhlIFRvdGVtIFBMIFBhcnNlciBwYWNrYWdlIGNvbnRhaW5zIGEgc2ltcGxlIEdPYmplY3QtYmFzZWQgbGlicmFyeSB1c2VkIHRvIHBhcnNlIG11bHRpcGxlIHBsYXlsaXN0IGZvcm1hdHMuIA==</description>
   <sourcefile>totem-pl-parser-3.26.1.tar.xz</sourcefile>
   <sourcedir>totem-pl-parser-3.26.1</sourcedir>
   <unpack/>

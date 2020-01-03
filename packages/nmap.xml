@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nmap</code>
+  <description>Tm1hcCBpcyBhIHV0aWxpdHkgZm9yIG5ldHdvcmsgZXhwbG9yYXRpb24gYW5kIHNlY3VyaXR5IGF1ZGl0aW5nLiBJdCBzdXBwb3J0cyBwaW5nIHNjYW5uaW5nLCBwb3J0IHNjYW5uaW5nIGFuZCBUQ1AvSVAgZmluZ2VycHJpbnRpbmcuIA==</description>
   <sourcefile>nmap-7.70.tar.bz2</sourcefile>
   <sourcedir>nmap-7.70</sourcedir>
   <unpack/>

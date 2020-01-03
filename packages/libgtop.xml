@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgtop</code>
+  <description>IFRoZSBsaWJndG9wIHBhY2thZ2UgY29udGFpbnMgdGhlIEdOT01FIHRvcCBsaWJyYXJpZXMuIA==</description>
   <sourcefile>libgtop-2.38.0.tar.xz</sourcefile>
   <sourcedir>libgtop-2.38.0</sourcedir>
   <unpack/>

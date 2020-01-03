@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libxshmfence</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libxshmfence-1.3.tar.bz2</sourcefile>
   <sourcedir>libxshmfence-1.3</sourcedir>
   <unpack/>

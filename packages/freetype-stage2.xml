@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>freetype-stage2</code>
+  <description>VGhlIEZyZWVUeXBlMiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB3aGljaCBhbGxvd3MgYXBwbGljYXRpb25zIHRvIHByb3Blcmx5IHJlbmRlciBUcnVlVHlwZSBmb250cy4g</description>
   <sourcefile>freetype-2.9.1.tar.bz2</sourcefile>
   <sourcedir>freetype-2.9.1</sourcedir>
   <unpack/>

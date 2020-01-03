@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmarco</code>
+  <description>bGlnaHR3ZWlnaHQgR1RLKyB3aW5kb3cgbWFuYWdlciBmb3IgTUFURQ==</description>
   <sourcefile>marco-1.22.0.tar.xz</sourcefile>
   <sourcedir>marco-1.22.0</sourcedir>
   <unpack/>

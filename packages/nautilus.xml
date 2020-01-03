@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nautilus</code>
+  <description>VGhlIE5hdXRpbHVzIHBhY2thZ2UgY29udGFpbnMgdGhlIEdOT01FIGZpbGUgbWFuYWdlci4g</description>
   <sourcefile>nautilus-3.28.1.tar.xz</sourcefile>
   <sourcedir>nautilus-3.28.1</sourcedir>
   <unpack/>

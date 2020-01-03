@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>geocode-glib</code>
+  <description>VGhlIEdlb2NvZGUgR0xpYiBpcyBhIGNvbnZlbmllbmNlIGxpYnJhcnkgZm9yIHRoZSBZYWhvbyEgUGxhY2UgRmluZGVyIEFQSXMuIFRoZSBQbGFjZSBGaW5kZXIgd2ViIHNlcnZpY2UgYWxsb3dzIHRvIGRvIGdlb2NvZGluZyAoZmluZGluZyBsb25naXR1ZGUgYW5kIGxhdGl0dWRlIGZyb20gYW4gYWRkcmVzcyksIGFuZCByZXZlcnNlIGdlb2NvZGluZyAoZmluZGluZyBhbiBhZGRyZXNzIGZyb20gY29vcmRpbmF0ZXMpLiA=</description>
   <sourcefile>geocode-glib-3.26.0.tar.xz</sourcefile>
   <sourcedir>geocode-glib-3.26.0</sourcedir>
   <unpack/>

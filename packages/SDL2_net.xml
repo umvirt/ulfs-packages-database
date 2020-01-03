@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>SDL2_net</code>
+  <description>TmV0d29yayBsaWJyYXJ5IGZvciBTaW1wbGUgRGlyZWN0TWVkaWEgTGF5ZXIgMg==</description>
   <sourcefile>SDL2_net-2.0.1.tar.gz</sourcefile>
   <sourcedir>SDL2_net-2.0.1</sourcedir>
   <unpack/>

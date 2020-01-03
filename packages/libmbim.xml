@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmbim</code>
+  <description>IFRoZSBsaWJtYmltIHBhY2thZ2UgY29udGFpbnMgYSBHTGliLWJhc2VkIGxpYnJhcnkgZm9yIHRhbGtpbmcgdG8gV1dBTiBtb2RlbXMgYW5kIGRldmljZXMgd2hpY2ggc3BlYWsgdGhlIE1vYmlsZSBJbnRlcmZhY2UgQnJvYWRiYW5kIE1vZGVsIChNQklNKSBwcm90b2NvbC4=</description>
   <sourcefile>libmbim-1.16.2.tar.xz</sourcefile>
   <sourcedir>libmbim-1.16.2</sourcedir>
   <unpack/>

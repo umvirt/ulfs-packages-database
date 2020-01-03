@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>perl-XML-NamespaceSupport</code>
+  <description>WE1MOjpOYW1lc3BhY2VTdXBwb3J0IC0gQSBzaW1wbGUgZ2VuZXJpYyBuYW1lc3BhY2UgcHJvY2Vzc29y</description>
   <sourcefile>XML-NamespaceSupport-1.12.tar.gz</sourcefile>
   <sourcedir>XML-NamespaceSupport-1.12</sourcedir>
   <unpack/>

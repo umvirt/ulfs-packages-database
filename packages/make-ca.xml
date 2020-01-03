@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>make-ca</code>
+  <description>VGhlIG1ha2UtY2Egc2NyaXB0IHdpbGwgZG93bmxvYWQgYW5kIHByb2Nlc3MgdGhlIGNlcnRpZmljYXRlcyBpbmNsdWRlZCBpbiB0aGUgY2VydGRhdGEudHh0IGZpbGUgZm9yIHVzZSBpbiBtdWx0aXBsZSBjZXJ0aWZpY2F0ZSBzdG9yZXMu</description>
   <sourcefile>make-ca-0.8.tar.gz</sourcefile>
   <sourcedir>make-ca-0.8</sourcedir>
   <unpack/>

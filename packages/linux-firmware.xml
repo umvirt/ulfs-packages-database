@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>linux-firmware</code>
+  <description>TGludXgga2VybmVsIGZpcm13YXJlIHJvbXMgY29sbGVjdGlvbiBpcyBuZWVkZWQgZm9yIGhhcmR3YXJlIHN1cHBvcnQ=</description>
   <sourcefile>linux-firmware-20191022.tar.gz</sourcefile>
   <sourcedir>linux-firmware-20191022</sourcedir>
   <unpack/>

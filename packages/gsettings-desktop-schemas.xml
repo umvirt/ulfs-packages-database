@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gsettings-desktop-schemas</code>
+  <description>ICBUaGUgR1NldHRpbmdzIERlc2t0b3AgU2NoZW1hcyBwYWNrYWdlIGNvbnRhaW5zIGEgY29sbGVjdGlvbiBvZiBHU2V0dGluZ3Mgc2NoZW1hcyBmb3Igc2V0dGluZ3Mgc2hhcmVkIGJ5IHZhcmlvdXMgY29tcG9uZW50cyBvZiBhIEdOT01FIERlc2t0b3AuIA==</description>
   <sourcefile>gsettings-desktop-schemas-3.28.0.tar.xz</sourcefile>
   <sourcedir>gsettings-desktop-schemas-3.28.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xf86-input-synaptics</code>
+  <description>VGhlIFhvcmcgU3luYXB0aWNzIERyaXZlciBwYWNrYWdlIGNvbnRhaW5zIHRoZSBYLk9yZyBJbnB1dCBEcml2ZXIsIHN1cHBvcnQgcHJvZ3JhbXMgYW5kIFNESyBmb3IgU3luYXB0aWNzIHRvdWNocGFkcy4gRXZlbiB0aG91Z2ggdGhlIGV2ZGV2IGRyaXZlciBjYW4gaGFuZGxlIHRvdWNocGFkcyB2ZXJ5IHdlbGwsIHRoaXMgZHJpdmVyIGlzIHJlcXVpcmVkIGlmIHlvdSB3YW50IHRvIHVzZSBhZHZhbmNlZCBmZWF0dXJlcyBsaWtlIG11bHRpIHRhcHBpbmcsIHNjcm9sbGluZyB3aXRoIHRvdWNocGFkLCB0dXJuaW5nIHRoZSB0b3VjaHBhZCBvZmYgd2hpbGUgdHlwaW5nLCBldGMuIA==</description>
   <sourcefile>xf86-input-synaptics-1.9.1.tar.bz2</sourcefile>
   <sourcedir>xf86-input-synaptics-1.9.1</sourcedir>
   <unpack/>

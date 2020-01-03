@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-polkit</code>
+  <description>TUFURSBhdXRoZW50aWNhdGlvbiBhZ2VudCBmb3IgUG9saWN5S2l0LTE=</description>
   <sourcefile>mate-polkit-1.22.0.tar.xz </sourcefile>
   <sourcedir>mate-polkit-1.22.0</sourcedir>
   <unpack/>

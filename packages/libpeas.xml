@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libpeas</code>
+  <description>bGlicGVhcyBpcyBhIEdPYmplY3QgYmFzZWQgcGx1Z2lucyBlbmdpbmUsIGFuZCBpcyB0YXJnZXRlZCBhdCBnaXZpbmcgZXZlcnkgYXBwbGljYXRpb24gdGhlIGNoYW5jZSB0byBhc3N1bWUgaXRzIG93biBleHRlbnNpYmlsaXR5LiA=</description>
   <sourcefile>libpeas-1.22.0.tar.xz</sourcefile>
   <sourcedir>libpeas-1.22.0</sourcedir>
   <unpack/>

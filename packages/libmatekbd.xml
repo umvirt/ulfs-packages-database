@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmatekbd</code>
+  <description>TUFURSBsaWJyYXJ5IHRvIG1hbmFnZSBrZXlib2FyZCBjb25maWd1cmF0aW9u</description>
   <sourcefile>libmatekbd-1.22.0.tar.xz</sourcefile>
   <sourcedir>libmatekbd-1.22.0</sourcedir>
   <unpack/>

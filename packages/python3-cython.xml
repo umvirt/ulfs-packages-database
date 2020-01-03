@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-cython</code>
+  <description>VGhlIEN5dGhvbiBjb21waWxlciBmb3Igd3JpdGluZyBDIGV4dGVuc2lvbnMgZm9yIHRoZSBQeXRob24gbGFuZ3VhZ2Uu</description>
   <sourcefile>Cython-0.29.13.tar.gz</sourcefile>
   <sourcedir>Cython-0.29.13</sourcedir>
   <unpack/>

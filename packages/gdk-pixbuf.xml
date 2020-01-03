@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gdk-pixbuf</code>
+  <description>VGhlIEdkayBQaXhidWYgcGFja2FnZSBpcyBhIHRvb2xraXQgZm9yIGltYWdlIGxvYWRpbmcgYW5kIHBpeGVsIGJ1ZmZlciBtYW5pcHVsYXRpb24uIEl0IGlzIHVzZWQgYnkgR1RLKyAyIGFuZCBHVEsrIDMgdG8gbG9hZCBhbmQgbWFuaXB1bGF0ZSBpbWFnZXMuIEluIHRoZSBwYXN0IGl0IHdhcyBkaXN0cmlidXRlZCBhcyBwYXJ0IG9mIEdUSysgMiBidXQgaXQgd2FzIHNwbGl0IG9mZiBpbnRvIGEgc2VwYXJhdGUgcGFja2FnZSBpbiBwcmVwYXJhdGlvbiBmb3IgdGhlIGNoYW5nZSB0byBHVEsrIDMuIA==</description>
   <sourcefile>gdk-pixbuf-2.36.12.tar.xz</sourcefile>
   <sourcedir>gdk-pixbuf-2.36.12</sourcedir>
   <unpack/>

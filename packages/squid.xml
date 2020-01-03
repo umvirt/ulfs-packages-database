@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>squid</code>
+  <description>IEZ1bGwgZmVhdHVyZWQgV2ViIFByb3h5IGNhY2hlIChIVFRQIHByb3h5KQ==</description>
   <sourcefile>squid-4.9.tar.xz</sourcefile>
   <sourcedir>squid-4.9</sourcedir>
   <unpack/>

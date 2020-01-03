@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>swig</code>
+  <description>R2VuZXJhdGUgc2NyaXB0aW5nIGludGVyZmFjZXMgdG8gQy9DKysgY29kZQ==</description>
   <sourcefile>swig-4.0.1.tar.gz</sourcefile>
   <sourcedir>swig-4.0.1</sourcedir>
   <unpack/>

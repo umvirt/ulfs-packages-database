@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libstemmer</code>
+  <description>U2ltcGxlIHdvcmQgc3RlbW1pbmcgdXRpbGl0eSB1c2luZyBTbm93YmFsbA==</description>
   <sourcefile>libstemmer-0+svn585.tar.gz</sourcefile>
   <sourcedir>snowball-0+svn585</sourcedir>
   <unpack/>

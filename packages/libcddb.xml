@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libcddb</code>
+  <description>VGhlIGxpYmNkZGIgaXMgYSBsaWJyYXJ5IHRoYXQgaW1wbGVtZW50cyB0aGUgZGlmZmVyZW50IHByb3RvY29scyAoQ0REQlAsIEhUVFAsIFNNVFApIHRvIGFjY2VzcyBkYXRhIG9uIGEgQ0REQiBzZXJ2ZXIuIA==</description>
   <sourcefile>libcddb-1.3.2.tar.bz2</sourcefile>
   <sourcedir>libcddb-1.3.2</sourcedir>
   <unpack/>

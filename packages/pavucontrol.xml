@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pavucontrol</code>
+  <description>UHVsc2VBdWRpbyBWb2x1bWUgQ29udHJvbA==</description>
   <sourcefile>pavucontrol-4.0.tar.gz</sourcefile>
   <sourcedir>pavucontrol-4.0</sourcedir>
   <unpack/>

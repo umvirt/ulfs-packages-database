@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libevdev</code>
+  <description>VGhlIGxpYmV2ZGV2IHBhY2thZ2UgY29udGFpbnMgY29tbW9uIGZ1bmN0aW9ucyBmb3IgWG9yZyBpbnB1dCBkcml2ZXJzLiA=</description>
   <sourcefile>libevdev-1.5.9.tar.xz</sourcefile>
   <sourcedir>libevdev-1.5.9</sourcedir>
   <unpack/>

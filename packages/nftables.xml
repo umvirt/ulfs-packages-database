@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nftables</code>
+  <description>TmV0ZmlsdGVyIG5mdGFibGVzIGhpZ2ggbGV2ZWwgdXNlcnNwYWNlIEFQSSBsaWJyYXJ5</description>
   <sourcefile>nftables-0.9.0.tar.bz2</sourcefile>
   <sourcedir>nftables-0.9.0</sourcedir>
   <unpack/>

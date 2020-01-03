@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>postgresql-client</code>
+  <description>UG9zdGdyZVNRTCBpcyBhbiBhZHZhbmNlZCBvYmplY3QtcmVsYXRpb25hbCBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbSAoT1JEQk1TKSwgZGVyaXZlZCBmcm9tIHRoZSBCZXJrZWxleSBQb3N0Z3JlcyBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbS4gIENsaWVudCBwYWNrYWdlLg==</description>
   <sourcefile>postgresql-10.5.tar.bz2</sourcefile>
   <sourcedir>postgresql-10.5</sourcedir>
   <unpack/>

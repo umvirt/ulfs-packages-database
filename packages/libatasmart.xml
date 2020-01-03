@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libatasmart</code>
+  <description>IFRoZSBsaWJhdGFzbWFydCBwYWNrYWdlIGlzIGEgZGlzayByZXBvcnRpbmcgbGlicmFyeS4gSXQgb25seSBzdXBwb3J0cyBhIHN1YnNldCBvZiB0aGUgQVRBIFMuTS5BLlIuVC4gZnVuY3Rpb25hbGl0eS4g</description>
   <sourcefile>libatasmart-0.19.tar.xz</sourcefile>
   <sourcedir>libatasmart-0.19</sourcedir>
   <unpack/>

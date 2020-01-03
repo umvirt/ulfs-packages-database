@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>blender</code>
+  <description>RnJlZSBhbmQgT3BlbiAzRCBDcmVhdGlvbiBTb2Z0d2FyZS4=</description>
   <sourcefile>blender-2.80.tar.gz</sourcefile>
   <sourcedir>blender-2.80</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wget</code>
+  <description>VGhlIFdnZXQgcGFja2FnZSBjb250YWlucyBhIHV0aWxpdHkgdXNlZnVsIGZvciBub24taW50ZXJhY3RpdmUgZG93bmxvYWRpbmcgb2YgZmlsZXMgZnJvbSB0aGUgV2ViLiA=</description>
   <sourcefile>wget-1.19.5.tar.gz</sourcefile>
   <sourcedir>wget-1.19.5</sourcedir>
   <unpack/>

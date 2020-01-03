@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ImageMagick7</code>
+  <description>SW1hZ2VNYWdpY2sgaXMgYSBjb2xsZWN0aW9uIG9mIHRvb2xzIGFuZCBsaWJyYXJpZXMgdG8gcmVhZCwgd3JpdGUsIGFuZCBtYW5pcHVsYXRlIGFuIGltYWdlIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4gSW1hZ2UgcHJvY2Vzc2luZyBvcGVyYXRpb25zIGFyZSBhdmFpbGFibGUgZnJvbSB0aGUgY29tbWFuZCBsaW5lLg==</description>
   <sourcefile>ImageMagick-7.0.8-66.tar.xz</sourcefile>
   <sourcedir>ImageMagick-7.0.8-66</sourcedir>
   <unpack/>

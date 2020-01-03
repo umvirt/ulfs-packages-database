@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>tcpdump</code>
+  <description>Y29tbWFuZC1saW5lIG5ldHdvcmsgdHJhZmZpYyBhbmFseXplciA=</description>
   <sourcefile>tcpdump-4.9.2.tar.gz</sourcefile>
   <sourcedir>tcpdump-4.9.2</sourcedir>
   <unpack/>

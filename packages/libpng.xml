@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libpng</code>
+  <description>VGhlIGxpYnBuZyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGJ5IG90aGVyIHByb2dyYW1zIGZvciByZWFkaW5nIGFuZCB3cml0aW5nIFBORyBmaWxlcy4gVGhlIFBORyBmb3JtYXQgd2FzIGRlc2lnbmVkIGFzIGEgcmVwbGFjZW1lbnQgZm9yIEdJRiBhbmQsIHRvIGEgbGVzc2VyIGV4dGVudCwgVElGRiwgd2l0aCBtYW55IGltcHJvdmVtZW50cyBhbmQgZXh0ZW5zaW9ucyBhbmQgbGFjayBvZiBwYXRlbnQgcHJvYmxlbXMuIA==</description>
   <sourcefile>libpng-1.6.35.tar.xz</sourcefile>
   <sourcedir>libpng-1.6.35</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nano</code>
+  <description>IFRoZSBOYW5vIHBhY2thZ2UgY29udGFpbnMgYSBzbWFsbCwgc2ltcGxlIHRleHQgZWRpdG9yIHdoaWNoIGFpbXMgdG8gcmVwbGFjZSBQaWNvLCB0aGUgZGVmYXVsdCBlZGl0b3IgaW4gdGhlIFBpbmUgcGFja2FnZS4g</description>
   <sourcefile>nano-2.9.8.tar.xz</sourcefile>
   <sourcedir>nano-2.9.8</sourcedir>
   <unpack/>

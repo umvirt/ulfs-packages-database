@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>which</code>
+  <description>VXRpbGl0eSB0byBzZWFyY2ggZXhlY3V0YWJsZXM=</description>
   <sourcefile>which-2.21.tar.gz</sourcefile>
   <sourcedir>which-2.21</sourcedir>
   <unpack/>

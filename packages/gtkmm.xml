@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gtkmm</code>
+  <description>IFRoZSBHdGttbSBwYWNrYWdlIHByb3ZpZGVzIGEgQysrIGludGVyZmFjZSB0byBHVEsrIDIu</description>
   <sourcefile>gtkmm-2.24.5.tar.xz</sourcefile>
   <sourcedir>gtkmm-2.24.5</sourcedir>
   <unpack/>

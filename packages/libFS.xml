@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libFS</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libFS-1.0.7.tar.bz2</sourcefile>
   <sourcedir>libFS-1.0.7</sourcedir>
   <unpack/>

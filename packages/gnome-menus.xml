@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-menus</code>
+  <description>IFRoZSBHTk9NRSBNZW51cyBwYWNrYWdlIGNvbnRhaW5zIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBkcmFmdCBEZXNrdG9wIE1lbnUgU3BlY2lmaWNhdGlvbiBmcm9tIGZyZWVkZXNrdG9wLm9yZy4gSXQgYWxzbyBjb250YWlucyB0aGUgR05PTUUgbWVudSBsYXlvdXQgY29uZmlndXJhdGlvbiBmaWxlcyBhbmQgLmRpcmVjdG9yeSBmaWxlcy4g</description>
   <sourcefile>gnome-menus-3.13.3.tar.xz</sourcefile>
   <sourcedir>gnome-menus-3.13.3</sourcedir>
   <unpack/>

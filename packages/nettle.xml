@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>nettle</code>
+  <description>VGhlIE5ldHRsZSBwYWNrYWdlIGNvbnRhaW5zIGEgbG93LWxldmVsIGNyeXB0b2dyYXBoaWMgbGlicmFyeSB0aGF0IGlzIGRlc2lnbmVkIHRvIGZpdCBlYXNpbHkgaW4gbWFueSBjb250ZXh0cy4g</description>
   <sourcefile>nettle-3.4.tar.gz</sourcefile>
   <sourcedir>nettle-3.4</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gegl</code>
+  <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBHRW5lcmljIEdyYXBoaWNzIExpYnJhcnksIHdoaWNoIGlzIGEgZ3JhcGggYmFzZWQgaW1hZ2UgcHJvY2Vzc2luZyBmb3JtYXQuIA==</description>
   <sourcefile>gegl-0.4.18.tar.xz</sourcefile>
   <sourcedir>gegl-0.4.18</sourcedir>
   <unpack/>

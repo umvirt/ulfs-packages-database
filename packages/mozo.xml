@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mozo</code>
+  <description>ZWFzeSBNQVRFIG1lbnUgZWRpdGluZyB0b29s</description>
   <sourcefile>mozo-1.22.0.tar.xz</sourcefile>
   <sourcedir>mozo-1.22.0</sourcedir>
   <unpack/>

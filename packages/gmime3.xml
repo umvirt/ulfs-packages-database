@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gmime3</code>
+  <description>VGhlIEdNaW1lIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgdXRpbGl0aWVzIGZvciBwYXJzaW5nIGFuZCBjcmVhdGluZyBtZXNzYWdlcyB1c2luZyB0aGUgTXVsdGlwdXJwb3NlIEludGVybmV0IE1haWwgRXh0ZW5zaW9uIChNSU1FKSBhcyBkZWZpbmVkIGJ5IHRoZSBhcHBsaWNhYmxlIFJGQ3MuIFNlZSB0aGUgR01pbWUgd2ViIHNpdGUgZm9yIHRoZSBSRkNzIHJlc291cmNlZC4gVGhpcyBpcyB1c2VmdWwgYXMgaXQgcHJvdmlkZXMgYW4gQVBJIHdoaWNoIGFkaGVyZXMgdG8gdGhlIE1JTUUgc3BlY2lmaWNhdGlvbiBhcyBjbG9zZWx5IGFzIHBvc3NpYmxlIHdoaWxlIGFsc28gcHJvdmlkaW5nIHByb2dyYW1tZXJzIHdpdGggYW4gZXh0cmVtZWx5IGVhc3kgdG8gdXNlIGludGVyZmFjZSB0byB0aGUgQVBJIGZ1bmN0aW9ucy4g</description>
   <sourcefile>gmime-3.2.0.tar.xz</sourcefile>
   <sourcedir>gmime-3.2.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>babl</code>
+  <description>VGhlIEJhYmwgcGFja2FnZSBpcyBhIGR5bmFtaWMsIGFueSB0byBhbnksIHBpeGVsIGZvcm1hdCB0cmFuc2xhdGlvbiBsaWJyYXJ5LiA=</description>
   <sourcefile>babl-0.1.72.tar.xz</sourcefile>
   <sourcedir>babl-0.1.72</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libmanette</code>
+  <description>U2ltcGxlIEdPYmplY3QgZ2FtZSBjb250cm9sbGVyIGxpYnJhcnk=</description>
   <sourcefile>libmanette-0.2.3.tar.bz2</sourcefile>
   <sourcedir>libmanette-0.2.3</sourcedir>
   <unpack/>

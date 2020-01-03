@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xclock</code>
+  <description>VGhlIHhjbG9jayBwYWNrYWdlIGNvbnRhaW5zIGEgc2ltcGxlIGNsb2NrIGFwcGxpY2F0aW9uIHdoaWNoIGlzIHVzZWQgaW4gdGhlIGRlZmF1bHQgeGluaXQgY29uZmlndXJhdGlvbi4g</description>
   <sourcefile>xclock-1.0.7.tar.bz2</sourcefile>
   <sourcedir>xclock-1.0.7</sourcedir>
   <unpack/>

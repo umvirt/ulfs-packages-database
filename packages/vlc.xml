@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>vlc</code>
+  <description>VkxDIGlzIGEgbWVkaWEgcGxheWVyLCBzdHJlYW1lciwgYW5kIGVuY29kZXIuIEl0IGNhbiBwbGF5IGZyb20gbWFueSBpbnB1dHMsIHN1Y2ggYXMgZmlsZXMsIG5ldHdvcmsgc3RyZWFtcywgY2FwdHVyZSBkZXZpY2VzLCBkZXNrdG9wcywgb3IgRFZELCBTVkNELCBWQ0QsIGFuZCBhdWRpbyBDRC4gSXQgY2FuIHVzZSBtb3N0IGF1ZGlvIGFuZCB2aWRlbyBjb2RlY3MgKE1QRUcgMS8yLzQsIEgyNjQsIFZDLTEsIERpdlgsIFdNViwgVm9yYmlzLCBBQzMsIEFBQywgZXRjLiksIGFuZCBpdCBjYW4gYWxzbyBjb252ZXJ0IHRvIGRpZmZlcmVudCBmb3JtYXRzIGFuZC9vciBzZW5kIHN0cmVhbXMgdGhyb3VnaCB0aGUgbmV0d29yay4g</description>
   <sourcefile>vlc-3.0.3.tar.xz</sourcefile>
   <sourcedir>vlc-3.0.3</sourcedir>
   <unpack/>

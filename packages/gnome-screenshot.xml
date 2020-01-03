@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-screenshot</code>
+  <description>VGhlIEdOT01FIFNjcmVlbnNob3QgaXMgYSB1dGlsaXR5IHVzZWQgZm9yIHRha2luZyBzY3JlZW5zaG90cyBvZiB0aGUgZW50aXJlIHNjcmVlbiwgYSB3aW5kb3cgb3IgYSB1c2VyLWRlZmluZWQgYXJlYSBvZiB0aGUgc2NyZWVuLCB3aXRoIG9wdGlvbmFsIGJlYXV0aWZ5aW5nIGJvcmRlciBlZmZlY3RzLiA=</description>
   <sourcefile>gnome-screenshot-3.26.0.tar.xz</sourcefile>
   <sourcedir>gnome-screenshot-3.26.0</sourcedir>
   <unpack/>

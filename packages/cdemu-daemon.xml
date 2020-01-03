@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cdemu-daemon</code>
+  <description>Q0RFbXUgZGFlbW9uIGlzIHRoZSB1c2Vyc3BhY2UgZGFlbW9uIHBhcnQgb2YgdGhlIGNkZW11IHN1aXRlLg==</description>
   <sourcefile>cdemu-daemon-3.2.2.tar.bz2</sourcefile>
   <sourcedir>cdemu-daemon-3.2.2</sourcedir>
   <unpack/>

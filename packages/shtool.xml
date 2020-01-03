@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>shtool</code>
+  <description>R05VIHNodG9vbCBpcyBhIGNvbXBpbGF0aW9uIG9mIHNtYWxsIGJ1dCB2ZXJ5IHN0YWJsZSBhbmQgcG9ydGFibGUgc2hlbGwgc2NyaXB0cyBpbnRvIGEgc2luZ2xlIHNoZWxsIHRvb2wu</description>
   <sourcefile>shtool-2.0.8.tar.gz</sourcefile>
   <sourcedir>shtool-2.0.8</sourcedir>
   <unpack/>

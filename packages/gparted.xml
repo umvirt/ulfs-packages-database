@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gparted</code>
+  <description>IEdwYXJ0ZWQgaXMgdGhlIEdub21lIFBhcnRpdGlvbiBFZGl0b3IsIGEgR3RrIDIgR1VJIGZvciBvdGhlciBjb21tYW5kIGxpbmUgdG9vbHMgdGhhdCBjYW4gY3JlYXRlLCByZW9yZ2FuaXNlIG9yIGRlbGV0ZSBkaXNrIHBhcnRpdGlvbnMuIA==</description>
   <sourcefile>gparted-0.32.0.tar.gz</sourcefile>
   <sourcedir>gparted-0.32.0</sourcedir>
   <unpack/>

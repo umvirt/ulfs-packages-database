@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>luajit</code>
+  <description>SnVzdCBpbiB0aW1lIGNvbXBpbGVyIGZvciBMdWEgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2Uu</description>
   <sourcefile>LuaJIT-2.0.5.tar.gz</sourcefile>
   <sourcedir>LuaJIT-2.0.5</sourcedir>
   <unpack/>

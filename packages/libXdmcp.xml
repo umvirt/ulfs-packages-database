@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXdmcp</code>
+  <description>VGhlIGxpYlhkbWNwIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IGltcGxlbWVudGluZyB0aGUgWCBEaXNwbGF5IE1hbmFnZXIgQ29udHJvbCBQcm90b2NvbC4gVGhpcyBpcyB1c2VmdWwgZm9yIGFsbG93aW5nIGNsaWVudHMgdG8gaW50ZXJhY3Qgd2l0aCB0aGUgWCBEaXNwbGF5IE1hbmFnZXIuIA==</description>
   <sourcefile>libXdmcp-1.1.2.tar.bz2</sourcefile>
   <sourcedir>libXdmcp-1.1.2</sourcedir>
   <unpack/>

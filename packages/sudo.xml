@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>sudo</code>
+  <description>VGhlIFN1ZG8gcGFja2FnZSBhbGxvd3MgYSBzeXN0ZW0gYWRtaW5pc3RyYXRvciB0byBnaXZlIGNlcnRhaW4gdXNlcnMgKG9yIGdyb3VwcyBvZiB1c2VycykgdGhlIGFiaWxpdHkgdG8gcnVuIHNvbWUgKG9yIGFsbCkgY29tbWFuZHMgYXMgcm9vdCBvciBhbm90aGVyIHVzZXIgd2hpbGUgbG9nZ2luZyB0aGUgY29tbWFuZHMgYW5kIGFyZ3VtZW50cy4g</description>
   <sourcefile>sudo-1.8.23.tar.gz</sourcefile>
   <sourcedir>sudo-1.8.23</sourcedir>
   <unpack/>

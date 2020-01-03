@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>protobuf</code>
+  <description>UHJvdG9jb2wgQnVmZmVycyAoYS5rLmEuLCBwcm90b2J1ZikgYXJlIEdvb2dsZSdzIGxhbmd1YWdlLW5ldXRyYWwsIHBsYXRmb3JtLW5ldXRyYWwsIGV4dGVuc2libGUgbWVjaGFuaXNtIGZvciBzZXJpYWxpemluZyBzdHJ1Y3R1cmVkIGRhdGEu</description>
   <sourcefile>protobuf-3.7.1.tar.gz</sourcefile>
   <sourcedir>protobuf-3.7.1</sourcedir>
   <unpack/>

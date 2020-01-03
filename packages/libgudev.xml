@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libgudev</code>
+  <description>ICBUaGUgbGliZ3VkZXYgcGFja2FnZSBjb250YWlucyBHT2JqZWN0IGJpbmRpbmdzIGZvciBsaWJ1ZGV2LiA=</description>
   <sourcefile>libgudev-232.tar.xz</sourcefile>
   <sourcedir>libgudev-232</sourcedir>
   <unpack/>

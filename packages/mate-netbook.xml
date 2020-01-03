@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-netbook</code>
+  <description>TUFURSB1dGlsaXRpZXMgZm9yIG5ldGJvb2tz</description>
   <sourcefile>mate-netbook-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-netbook-1.22.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>obs-studio</code>
+  <description>T3BlbiBCcm9hZGNhc3QgU3R1ZGlvIGlzIGZyZWUgYW5kIG9wZW4gc291cmNlIHNvZnR3YXJlIGZvciB2aWRlbyByZWNvcmRpbmcgYW5kIGxpdmUgc3RyZWFtaW5nLg==</description>
   <sourcefile>obs-studio-24.0.3.tar.gz</sourcefile>
   <sourcedir>obs-studio-24.0.3</sourcedir>
   <unpack/>

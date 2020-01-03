@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>midori</code>
+  <description>V2ViS2l0IGJhc2VkIFdlYi1icm93c2Vy</description>
   <sourcefile>midori-v9.0.tar.gz</sourcefile>
   <sourcedir>midori-v9.0</sourcedir>
   <unpack/>

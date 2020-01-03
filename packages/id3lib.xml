@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>id3lib</code>
+  <description>aWQzbGliIGlzIGFuIG9wZW4tc291cmNlLCBjcm9zcy1wbGF0Zm9ybSBzb2Z0d2FyZSBkZXZlbG9wbWVudCBsaWJyYXJ5IGZvciByZWFkaW5nLCB3cml0aW5nLCBhbmQgbWFuaXB1bGF0aW5nIElEM3YxIGFuZCBJRDN2MiB0YWdzLiBJdCBpcyBhbiBvbi1nb2luZyBwcm9qZWN0IHdob3NlIHByaW1hcnkgZ29hbHMgYXJlIGZ1bGwgY29tcGxpYW5jZSB3aXRoIHRoZSBJRDN2MiBzdGFuZGFyZCwgcG9ydGFiaWxpdHkgYWNyb3NzIHNldmVyYWwgcGxhdGZvcm1zLCBhbmQgcHJvdmlkaW5nIGEgcG93ZXJmdWwgYW5kIGZlYXR1cmUtcmljaCBBUEkgd2l0aCBhIGhpZ2hseSBzdGFibGUgYW5kIGVmZmljaWVudCBpbXBsZW1lbnRhdGlvbi4g</description>
   <sourcefile>id3lib-3.8.3.tar.gz</sourcefile>
   <sourcedir>id3lib-3.8.3</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libass</code>
+  <description>bGliYXNzIGlzIGEgcG9ydGFibGUgc3VidGl0bGUgcmVuZGVyZXIgZm9yIHRoZSBBU1MvU1NBIChBZHZhbmNlZCBTdWJzdGF0aW9uIEFscGhhL1N1YnN0YXRpb24gQWxwaGEpIHN1YnRpdGxlIGZvcm1hdCB0aGF0IGFsbG93cyBmb3IgbW9yZSBhZHZhbmNlZCBzdWJ0aXRsZXMgdGhhbiB0aGUgY29udmVudGlvbmFsIFNSVCBhbmQgc2ltaWxhciBmb3JtYXRzLiA=</description>
   <sourcefile>libass-0.14.0.tar.xz</sourcefile>
   <sourcedir>libass-0.14.0</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>speex</code>
+  <description>VGhlIFNwZWV4IGNvZGVjIGNvbW1hbmQgbGluZSB0b29scw==</description>
   <sourcefile>speex-1.2.0.tar.gz</sourcefile>
   <sourcedir>speex-1.2.0</sourcedir>
   <unpack/>

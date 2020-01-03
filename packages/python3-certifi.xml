@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-certifi</code>
+  <description>Q2VydGlmaSBpcyBhIGNhcmVmdWxseSBjdXJhdGVkIGNvbGxlY3Rpb24gb2YgUm9vdCBDZXJ0aWZpY2F0ZXMgZm9yIHZhbGlkYXRpbmcgdGhlIHRydXN0d29ydGhpbmVzcyBvZiBTU0wgY2VydGlmaWNhdGVzIHdoaWxlIHZlcmlmeWluZyB0aGUgaWRlbnRpdHkgb2YgVExTIGhvc3RzLg==</description>
   <sourcefile>certifi-2019.9.11.tar.gz</sourcefile>
   <sourcedir>certifi-2019.9.11</sourcedir>
   <unpack/>

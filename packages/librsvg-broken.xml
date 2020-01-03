@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>librsvg-broken</code>
+  <description>IFRoZSBsaWJyc3ZnIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IGFuZCB0b29scyB1c2VkIHRvIG1hbmlwdWxhdGUsIGNvbnZlcnQgYW5kIHZpZXcgU2NhbGFibGUgVmVjdG9yIEdyYXBoaWMgKFNWRykgaW1hZ2VzLiAgUnVzdCBpbiBkZXBlbmRhbmNlIQ==</description>
   <sourcefile>librsvg-2.42.2.tar.xz</sourcefile>
   <sourcedir>librsvg-2.42.2</sourcedir>
   <unpack/>

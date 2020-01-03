@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>dbus</code>
+  <description>ICBFdmVuIHRob3VnaCBELUJ1cyB3YXMgYnVpbHQgaW4gTEZTLCB0aGVyZSBhcmUgc29tZSBmZWF0dXJlcyBwcm92aWRlZCBieSB0aGUgcGFja2FnZSB0aGF0IG90aGVyIEJMRlMgcGFja2FnZXMgbmVlZCwgYnV0IHRoZWlyIGRlcGVuZGVuY2llcyBkaWRuJ3QgZml0IGludG8gTEZTLiA=</description>
   <sourcefile>dbus-1.12.10.tar.gz</sourcefile>
   <sourcedir>dbus-1.12.10</sourcedir>
   <unpack/>

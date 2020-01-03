@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>encodings</code>
+  <description>WG9yZyBGb250</description>
   <sourcefile>encodings-1.0.4.tar.bz2</sourcefile>
   <sourcedir>encodings-1.0.4</sourcedir>
   <unpack/>

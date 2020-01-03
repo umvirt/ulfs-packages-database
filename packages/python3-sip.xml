@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python3-sip</code>
+  <description>QSBQeXRob24gYmluZGluZ3MgZ2VuZXJhdG9yIGZvciBDL0MrKyBsaWJyYXJpZXM=</description>
   <sourcefile>sip-5.0.1.dev1910120956.tar.gz</sourcefile>
   <sourcedir>sip-5.0.1.dev1910120956</sourcedir>
   <unpack/>

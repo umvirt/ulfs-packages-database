@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libpcap</code>
+  <description>bGlicGNhcCBwcm92aWRlcyBmdW5jdGlvbnMgZm9yIHVzZXItbGV2ZWwgcGFja2V0IGNhcHR1cmUsIHVzZWQgaW4gbG93LWxldmVsIG5ldHdvcmsgbW9uaXRvcmluZy4g</description>
   <sourcefile>libpcap-1.9.0.tar.gz</sourcefile>
   <sourcedir>libpcap-1.9.0</sourcedir>
   <unpack/>

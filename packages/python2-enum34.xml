@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python2-enum34</code>
+  <description>YmFja3BvcnQgb2YgUHl0aG9uIDMuNCdzIGVudW0gcGFja2FnZQ==</description>
   <sourcefile>enum34-1.1.6.tar.gz</sourcefile>
   <sourcedir>enum34-1.1.6</sourcedir>
   <unpack/>

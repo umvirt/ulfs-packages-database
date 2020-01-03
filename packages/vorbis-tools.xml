@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>vorbis-tools</code>
+  <description>VGhlIFZvcmJpcyBUb29scyBwYWNrYWdlIGNvbnRhaW5zIGNvbW1hbmQtbGluZSB0b29scyB1c2VmdWwgZm9yIGVuY29kaW5nLCBwbGF5aW5nIG9yIGVkaXRpbmcgZmlsZXMgdXNpbmcgdGhlIE9nZyBDT0RFQy4g</description>
   <sourcefile>vorbis-tools-1.4.0.tar.gz</sourcefile>
   <sourcedir>vorbis-tools-1.4.0</sourcedir>
   <unpack/>

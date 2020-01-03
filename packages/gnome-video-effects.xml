@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-video-effects</code>
+  <description>VGhlIEdOT01FIFZpZGVvIEVmZmVjdHMgcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgR1N0cmVhbWVyIGVmZmVjdHMuIA==</description>
   <sourcefile>gnome-video-effects-0.4.3.tar.xz</sourcefile>
   <sourcedir>gnome-video-effects-0.4.3</sourcedir>
   <unpack/>

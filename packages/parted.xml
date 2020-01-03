@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>parted</code>
+  <description>VGhlIFBhcnRlZCBwYWNrYWdlIGlzIGEgZGlzayBwYXJ0aXRpb25pbmcgYW5kIHBhcnRpdGlvbiByZXNpemluZyB0b29sLiA=</description>
   <sourcefile>parted-3.2.tar.xz</sourcefile>
   <sourcedir>parted-3.2</sourcedir>
   <unpack/>

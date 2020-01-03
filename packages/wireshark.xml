@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wireshark</code>
+  <description>VGhlIFdpcmVzaGFyayBwYWNrYWdlIGNvbnRhaW5zIGEgbmV0d29yayBwcm90b2NvbCBhbmFseXplciwgYWxzbyBrbm93biBhcyBhIOKAnHNuaWZmZXLigJ0uIFRoaXMgaXMgdXNlZnVsIGZvciBhbmFseXppbmcgZGF0YSBjYXB0dXJlZCDigJxvZmYgdGhlIHdpcmXigJ0gZnJvbSBhIGxpdmUgbmV0d29yayBjb25uZWN0aW9uLCBvciBkYXRhIHJlYWQgZnJvbSBhIGNhcHR1cmUgZmlsZS4g</description>
   <sourcefile>wireshark-2.6.2.tar.xz</sourcefile>
   <sourcedir>wireshark-2.6.2</sourcedir>
   <unpack/>

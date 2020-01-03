@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>librsvg</code>
+  <description>VGhlIGxpYnJzdmcgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHRvb2xzIHVzZWQgdG8gbWFuaXB1bGF0ZSwgY29udmVydCBhbmQgdmlldyBTY2FsYWJsZSBWZWN0b3IgR3JhcGhpYyAoU1ZHKSBpbWFnZXMuIA==</description>
   <sourcefile>librsvg-2.40.16.tar.xz</sourcefile>
   <sourcedir>librsvg-2.40.16</sourcedir>
   <unpack/>

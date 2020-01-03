@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>clutter</code>
+  <description>IFRoZSBDbHV0dGVyIHBhY2thZ2UgY29udGFpbnMgYW4gb3BlbiBzb3VyY2Ugc29mdHdhcmUgbGlicmFyeSB1c2VkIGZvciBjcmVhdGluZyBmYXN0LCB2aXN1YWxseSByaWNoIGFuZCBhbmltYXRlZCBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzLiA=</description>
   <sourcefile>clutter-1.26.2.tar.xz</sourcefile>
   <sourcedir>clutter-1.26.2</sourcedir>
   <unpack/>

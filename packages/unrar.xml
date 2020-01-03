@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>unrar</code>
+  <description>IFRoZSBVblJhciBwYWNrYWdlIGNvbnRhaW5zIGEgUkFSIGV4dHJhY3Rpb24gdXRpbGl0eSB1c2VkIGZvciBleHRyYWN0aW5nIGZpbGVzIGZyb20gUkFSIGFyY2hpdmVzLiBSQVIgYXJjaGl2ZXMgYXJlIHVzdWFsbHkgY3JlYXRlZCB3aXRoIFdpblJBUiwgcHJpbWFyaWx5IGluIGEgV2luZG93cyBlbnZpcm9ubWVudC4=</description>
   <sourcefile>unrarsrc-5.6.5.tar.gz</sourcefile>
   <sourcedir>unrar</sourcedir>
   <unpack/>

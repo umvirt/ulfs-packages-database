@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libepoxy</code>
+  <description>bGliZXBveHkgaXMgYSBsaWJyYXJ5IGZvciBoYW5kbGluZyBPcGVuR0wgZnVuY3Rpb24gcG9pbnRlciBtYW5hZ2VtZW50LiA=</description>
   <sourcefile>libepoxy-1.5.2.tar.xz</sourcefile>
   <sourcedir>libepoxy-1.5.2</sourcedir>
   <unpack/>

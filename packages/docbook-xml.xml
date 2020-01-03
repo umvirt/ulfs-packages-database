@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>docbook-xml</code>
+  <description>VGhlIERvY0Jvb2sgWE1MIERURC00LjUgcGFja2FnZSBjb250YWlucyBkb2N1bWVudCB0eXBlIGRlZmluaXRpb25zIGZvciB2ZXJpZmljYXRpb24gb2YgWE1MIGRhdGEgZmlsZXMgYWdhaW5zdCB0aGUgRG9jQm9vayBydWxlIHNldC4gVGhlc2UgYXJlIHVzZWZ1bCBmb3Igc3RydWN0dXJpbmcgYm9va3MgYW5kIHNvZnR3YXJlIGRvY3VtZW50YXRpb24gdG8gYSBzdGFuZGFyZCBhbGxvd2luZyB5b3UgdG8gdXRpbGl6ZSB0cmFuc2Zvcm1hdGlvbnMgYWxyZWFkeSB3cml0dGVuIGZvciB0aGF0IHN0YW5kYXJkLiA=</description>
   <sourcefile>docbook-xml-4.5.zip</sourcefile>
   <sourcedir>docbook-xml-4.5</sourcedir>
   <unpack/>

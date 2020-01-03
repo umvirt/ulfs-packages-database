@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>go</code>
+  <description>TW9kZXJuIHZlcnNpb24gb2YgR28gbGFuZ3VhZ2UgY29tcGlsZXI=</description>
   <sourcefile>go1.12.1.src.tar.gz</sourcefile>
   <sourcedir>go</sourcedir>
   <unpack/>

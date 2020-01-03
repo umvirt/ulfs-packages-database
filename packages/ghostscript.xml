@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ghostscript</code>
+  <description>R2hvc3RzY3JpcHQgaXMgYSB2ZXJzYXRpbGUgcHJvY2Vzc29yIGZvciBQb3N0U2NyaXB0IGRhdGEgd2l0aCB0aGUgYWJpbGl0eSB0byByZW5kZXIgUG9zdFNjcmlwdCB0byBkaWZmZXJlbnQgdGFyZ2V0cy4gSXQgaXMgYSBtYW5kYXRvcnkgcGFydCBvZiB0aGUgY3VwcyBwcmludGluZyBzdGFjay4g</description>
   <sourcefile>ghostscript-9.23.tar.gz</sourcefile>
   <sourcedir>ghostscript-9.23</sourcedir>
   <unpack/>

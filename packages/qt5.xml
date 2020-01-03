@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>qt5</code>
+  <description>UXQ1IGlzIGEgY3Jvc3MtcGxhdGZvcm0gYXBwbGljYXRpb24gZnJhbWV3b3JrIHRoYXQgaXMgd2lkZWx5IHVzZWQgZm9yIGRldmVsb3BpbmcgYXBwbGljYXRpb24gc29mdHdhcmUgd2l0aCBhIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZSAoR1VJKSAoaW4gd2hpY2ggY2FzZXMgUXQ1IGlzIGNsYXNzaWZpZWQgYXMgYSB3aWRnZXQgdG9vbGtpdCksIGFuZCBhbHNvIHVzZWQgZm9yIGRldmVsb3Bpbmcgbm9uLUdVSSBwcm9ncmFtcyBzdWNoIGFzIGNvbW1hbmQtbGluZSB0b29scyBhbmQgY29uc29sZXMgZm9yIHNlcnZlcnMuIE9uZSBvZiB0aGUgbWFqb3IgdXNlcnMgb2YgUXQgaXMgS0RFIEZyYW1ld29ya3MgNSAoS0Y1KS4g</description>
   <sourcefile>qt-everywhere-src-5.13.2.tar.xz</sourcefile>
   <sourcedir>qt-everywhere-src-5.13.2</sourcedir>
   <unpack/>

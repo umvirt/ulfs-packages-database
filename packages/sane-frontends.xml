@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>sane-frontends</code>
+  <description>U0FORSBpcyBzaG9ydCBmb3IgU2Nhbm5lciBBY2Nlc3MgTm93IEVhc3kuIFRoZSBmcm9udCBlbmRzIGFyZSB1c2VyIGludGVyZmFjZXMgdG8gYWNjZXNzIHRoZSBiYWNrZW5kcy4g</description>
   <sourcefile>sane-frontends-1.0.14.tar.gz</sourcefile>
   <sourcedir>sane-frontends-1.0.14</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>fltk</code>
+  <description>IEZMVEsgKHByb25vdW5jZWQgImZ1bGx0aWNrIikgaXMgYSBjcm9zcy1wbGF0Zm9ybSBDKysgR1VJIHRvb2xraXQuIEZMVEsgcHJvdmlkZXMgbW9kZXJuIEdVSSBmdW5jdGlvbmFsaXR5IGFuZCBzdXBwb3J0cyAzRCBncmFwaGljcyB2aWEgT3BlbkdMIGFuZCBpdHMgYnVpbHQtaW4gR0xVVCBlbXVsYXRpb24gbGlicmFyaWVzIHVzZWQgZm9yIGNyZWF0aW5nIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZXMgZm9yIGFwcGxpY2F0aW9ucy4g</description>
   <sourcefile>fltk-1.3.4-source.tar.gz</sourcefile>
   <sourcedir>fltk-1.3.4</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>ansible</code>
+  <description>QW5zaWJsZSBpcyBhbiBJVCBhdXRvbWF0aW9uIHRvb2wuIEl0IGNhbiBjb25maWd1cmUgc3lzdGVtcywgZGVwbG95IHNvZnR3YXJlLCBhbmQgb3JjaGVzdHJhdGUgbW9yZSBhZHZhbmNlZCBJVCB0YXNrcyBzdWNoIGFzIGNvbnRpbnVvdXMgZGVwbG95bWVudHMgb3IgemVybyBkb3dudGltZSByb2xsaW5nIHVwZGF0ZXMu</description>
   <sourcefile>ansible-2.8.6.tar.gz</sourcefile>
   <sourcedir>ansible-2.8.6</sourcedir>
   <unpack/>

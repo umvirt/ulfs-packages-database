@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-games</code>
+  <description>R2FtZSBicm93c2VyIGFuZCBsYXVuY2hlciBmb3IgR05PTUU=</description>
   <sourcefile>gnome-games-3.28.0.tar.xz</sourcefile>
   <sourcedir>gnome-games-3.28.0</sourcedir>
   <unpack/>

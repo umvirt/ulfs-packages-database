@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>glibmm</code>
+  <description>VGhlIEdMaWJtbSBwYWNrYWdlIGlzIGEgc2V0IG9mIEMrKyBiaW5kaW5ncyBmb3IgR0xpYi4g</description>
   <sourcefile>glibmm-2.56.0.tar.xz</sourcefile>
   <sourcedir>glibmm-2.56.0</sourcedir>
   <unpack/>

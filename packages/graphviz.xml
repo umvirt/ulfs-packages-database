@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>graphviz</code>
+  <description>VGhlIEdyYXBodml6IHBhY2thZ2UgY29udGFpbnMgZ3JhcGggdmlzdWFsaXphdGlvbiBzb2Z0d2FyZS4gR3JhcGggdmlzdWFsaXphdGlvbiBpcyBhIHdheSBvZiByZXByZXNlbnRpbmcgc3RydWN0dXJhbCBpbmZvcm1hdGlvbiBhcyBkaWFncmFtcyBvZiBhYnN0cmFjdCBncmFwaHMgYW5kIG5ldHdvcmtzLiBHcmFwaHZpeiBoYXMgc2V2ZXJhbCBtYWluIGdyYXBoIGxheW91dCBwcm9ncmFtcy4gSXQgYWxzbyBoYXMgd2ViIGFuZCBpbnRlcmFjdGl2ZSBncmFwaGljYWwgaW50ZXJmYWNlcywgYXV4aWxpYXJ5IHRvb2xzLCBsaWJyYXJpZXMsIGFuZCBsYW5ndWFnZSBiaW5kaW5ncy4g</description>
   <sourcefile>graphviz-2.40.1.tar.gz</sourcefile>
   <sourcedir>graphviz-2.40.1</sourcedir>
   <unpack/>

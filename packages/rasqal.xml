@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>rasqal</code>
+  <description>UmFzcWFsIGlzIGEgQyBsaWJyYXJ5IHRoYXQgaGFuZGxlcyBSZXNvdXJjZSBEZXNjcmlwdGlvbiBGcmFtZXdvcmsgKFJERikgcXVlcnkgbGFuZ3VhZ2Ugc3ludGF4ZXMsIHF1ZXJ5IGNvbnN0cnVjdGlvbiwgYW5kIGV4ZWN1dGlvbiBvZiBxdWVyaWVzIHJldHVybmluZyByZXN1bHRzIGFzIGJpbmRpbmdzLCBib29sZWFuLCBSREYgZ3JhcGhzL3RyaXBsZXMgb3Igc3ludGF4ZXMuIA==</description>
   <sourcefile>rasqal-0.9.33.tar.gz</sourcefile>
   <sourcedir>rasqal-0.9.33</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>PyQt-builder</code>
+  <description>UHlRdC1idWlsZGVyIGlzIHRoZSBQRVAgNTE3IGNvbXBsaWFudCBidWlsZCBzeXN0ZW0gZm9yIFB5UXQgYW5kIHByb2plY3RzIHRoYXQgZXh0ZW5kIFB5UXQu</description>
   <sourcefile>PyQt-builder-1.0.1.tar.gz</sourcefile>
   <sourcedir>PyQt-builder-1.0.1</sourcedir>
   <unpack/>

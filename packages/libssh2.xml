@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libssh2</code>
+  <description>TGlic3NoMiBwYWNrYWdlIGlzIGEgY2xpZW50LXNpZGUgQyBsaWJyYXJ5IGltcGxlbWVudGluZyB0aGUgU1NIMiBwcm90b2NvbC4g</description>
   <sourcefile>libssh2-1.8.0.tar.gz</sourcefile>
   <sourcedir>libssh2-1.8.0</sourcedir>
   <unpack/>

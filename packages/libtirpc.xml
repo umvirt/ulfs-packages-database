@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libtirpc</code>
+  <description>VGhlIGxpYnRpcnBjIHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHRoYXQgc3VwcG9ydCBwcm9ncmFtcyB0aGF0IHVzZSB0aGUgUmVtb3RlIFByb2NlZHVyZSBDYWxsIChSUEMpIEFQSS4gSXQgcmVwbGFjZXMgdGhlIFJQQywgYnV0IG5vdCB0aGUgTklTIGxpYnJhcnkgZW50cmllcyB0aGF0IHVzZWQgdG8gYmUgaW4gZ2xpYmM=</description>
   <sourcefile>libtirpc-1.0.3.tar.bz2</sourcefile>
   <sourcedir>libtirpc-1.0.3</sourcedir>
   <unpack/>

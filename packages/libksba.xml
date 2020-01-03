@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libksba</code>
+  <description>VGhlIExpYmtzYmEgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCB0byBtYWtlIFguNTA5IGNlcnRpZmljYXRlcyBhcyB3ZWxsIGFzIG1ha2luZyB0aGUgQ01TIChDcnlwdG9ncmFwaGljIE1lc3NhZ2UgU3ludGF4KSBlYXNpbHkgYWNjZXNzaWJsZSBieSBvdGhlciBhcHBsaWNhdGlvbnMuIEJvdGggc3BlY2lmaWNhdGlvbnMgYXJlIGJ1aWxkaW5nIGJsb2NrcyBvZiBTL01JTUUgYW5kIFRMUy4gVGhlIGxpYnJhcnkgZG9lcyBub3QgcmVseSBvbiBhbm90aGVyIGNyeXB0b2dyYXBoaWMgbGlicmFyeSBidXQgcHJvdmlkZXMgaG9va3MgZm9yIGVhc3kgaW50ZWdyYXRpb24gd2l0aCBMaWJnY3J5cHQuIA==</description>
   <sourcefile>libksba-1.3.5.tar.bz2</sourcefile>
   <sourcedir>libksba-1.3.5</sourcedir>
   <unpack/>

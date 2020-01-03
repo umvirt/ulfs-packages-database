@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>blfs-bootscripts</code>
+  <description>QkxGUyBCb290IFNjcmlwdHMuIE5vdCBmb3Igc3lzdGVtZCBpbml0Lg==</description>
   <sourcefile>blfs-bootscripts-20180105.tar.xz</sourcefile>
   <sourcedir>blfs-bootscripts-20180105</sourcedir>
   <unpack/>

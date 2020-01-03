@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lvm</code>
+  <description>VGhlIExWTTIgcGFja2FnZSBpcyBhIHNldCBvZiB0b29scyB0aGF0IG1hbmFnZSBsb2dpY2FsIHBhcnRpdGlvbnMuIEl0IGFsbG93cyBzcGFubmluZyBvZiBmaWxlIHN5c3RlbXMgYWNyb3NzIG11bHRpcGxlIHBoeXNpY2FsIGRpc2tzIGFuZCBkaXNrIHBhcnRpdGlvbnMgYW5kIHByb3ZpZGVzIGZvciBkeW5hbWljIGdyb3dpbmcgb3Igc2hyaW5raW5nIG9mIGxvZ2ljYWwgcGFydGl0aW9ucywgbWlycm9yaW5nIGFuZCBsb3cgc3RvcmFnZSBmb290cHJpbnQgc25hcHNob3RzLiA=</description>
   <sourcefile>LVM2.2.02.177.tgz</sourcefile>
   <sourcedir>LVM2.2.02.177</sourcedir>
   <unpack/>

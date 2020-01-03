@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mate-desktop</code>
+  <description>QmFzZSBNYXRlIERFIFBhY2thZ2U=</description>
   <sourcefile>mate-desktop-1.22.0.tar.xz</sourcefile>
   <sourcedir>mate-desktop-1.22.0</sourcedir>
   <unpack/>

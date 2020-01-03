@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pulseaudio</code>
+  <description>UHVsc2VBdWRpbyBpcyBhIHNvdW5kIHN5c3RlbSBmb3IgUE9TSVggT1NlcywgbWVhbmluZyB0aGF0IGl0IGlzIGEgcHJveHkgZm9yIHNvdW5kIGFwcGxpY2F0aW9ucy4gSXQgYWxsb3dzIHlvdSB0byBkbyBhZHZhbmNlZCBvcGVyYXRpb25zIG9uIHlvdXIgc291bmQgZGF0YSBhcyBpdCBwYXNzZXMgYmV0d2VlbiB5b3VyIGFwcGxpY2F0aW9uIGFuZCB5b3VyIGhhcmR3YXJlLiBUaGluZ3MgbGlrZSB0cmFuc2ZlcnJpbmcgdGhlIGF1ZGlvIHRvIGEgZGlmZmVyZW50IG1hY2hpbmUsIGNoYW5naW5nIHRoZSBzYW1wbGUgZm9ybWF0IG9yIGNoYW5uZWwgY291bnQgYW5kIG1peGluZyBzZXZlcmFsIHNvdW5kcyBpbnRvIG9uZSBhcmUgZWFzaWx5IGFjaGlldmVkIHVzaW5nIGEgc291bmQgc2VydmVyLiA=</description>
   <sourcefile>pulseaudio-12.2.tar.xz</sourcefile>
   <sourcedir>pulseaudio-12.2</sourcedir>
   <unpack/>

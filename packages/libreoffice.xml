@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libreoffice</code>
+  <description>TGlicmVPZmZpY2UgaXMgYSBmdWxsLWZlYXR1cmVkIG9mZmljZSBzdWl0ZS4gSXQgaXMgbGFyZ2VseSBjb21wYXRpYmxlIHdpdGggTWljcm9zb2Z0IE9mZmljZSBhbmQgaXMgZGVzY2VuZGVkIGZyb20gT3Blbk9mZmljZS5vcmcuIA==</description>
   <sourcefile>libreoffice-6.1.0.3.tar.xz</sourcefile>
   <sourcedir>libreoffice-6.1.0.3</sourcedir>
   <unpack>dGFyIC14ZiBsaWJyZW9mZmljZS02LjEuMC4zLnRhci54eiAtLW5vLW92ZXJ3cml0ZS1kaXI=</unpack>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>zenity</code>
+  <description>ICBaZW5pdHkgaXMgYSByZXdyaXRlIG9mIGdkaWFsb2csIHRoZSBHTk9NRSBwb3J0IG9mIGRpYWxvZyB3aGljaCBhbGxvd3MgeW91IHRvIGRpc3BsYXkgR1RLKyBkaWFsb2cgYm94ZXMgZnJvbSB0aGUgY29tbWFuZCBsaW5lIGFuZCBzaGVsbCBzY3JpcHRzLiA=</description>
   <sourcefile>zenity-3.28.1.tar.xz</sourcefile>
   <sourcedir>zenity-3.28.1</sourcedir>
   <unpack/>

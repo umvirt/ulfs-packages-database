@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gtk3</code>
+  <description>ICBUaGUgR1RLKyAzIHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHVzZWQgZm9yIGNyZWF0aW5nIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZXMgZm9yIGFwcGxpY2F0aW9ucy4g</description>
   <sourcefile>gtk+-3.22.30.tar.xz</sourcefile>
   <sourcedir>gtk+-3.22.30</sourcedir>
   <unpack/>

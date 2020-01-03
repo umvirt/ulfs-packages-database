@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>engrampa</code>
+  <description>RW5ncmFtcGEgaXMgYW4gYXJjaGl2ZSBtYW5hZ2VyIGZvciB0aGUgTUFURSBlbnZpcm9ubWVudC4gSXQgYWxsb3dzIHlvdSB0byBjcmVhdGUgYW5kIG1vZGlmeSBhcmNoaXZlcywgdmlldyB0aGUgY29udGVudHMgb2YgYW4gYXJjaGl2ZSwgdmlldyBhIGZpbGUgY29udGFpbmVkIGluIGFuIGFyY2hpdmUsIGFuZCBleHRyYWN0IGZpbGVzIGZyb20gYXJjaGl2ZS4gRW5ncmFtcGEgaXMgYSBmb3JrIG9mIEZpbGUgUm9sbGVyLg==</description>
   <sourcefile>engrampa-1.22.0.tar.xz </sourcefile>
   <sourcedir>engrampa-1.22.0</sourcedir>
   <unpack/>

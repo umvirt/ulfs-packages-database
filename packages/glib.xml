@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>glib</code>
+  <description>VGhlIEdMaWIgcGFja2FnZSBjb250YWlucyBsb3ctbGV2ZWwgbGlicmFyaWVzIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIGRhdGEgc3RydWN0dXJlIGhhbmRsaW5nIGZvciBDLCBwb3J0YWJpbGl0eSB3cmFwcGVycyBhbmQgaW50ZXJmYWNlcyBmb3Igc3VjaCBydW50aW1lIGZ1bmN0aW9uYWxpdHkgYXMgYW4gZXZlbnQgbG9vcCwgdGhyZWFkcywgZHluYW1pYyBsb2FkaW5nIGFuZCBhbiBvYmplY3Qgc3lzdGVtLiA=</description>
   <sourcefile>glib-2.56.1.tar.xz</sourcefile>
   <sourcedir>glib-2.56.1</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>tk</code>
+  <description>IFRoZSBUayBwYWNrYWdlIGNvbnRhaW5zIGEgVENMIEdVSSBUb29sa2l0Lg==</description>
   <sourcefile>tk8.6.8-src.tar.gz</sourcefile>
   <sourcedir>tk8.6.8</sourcedir>
   <unpack/>

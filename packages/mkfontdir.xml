@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mkfontdir</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>mkfontdir-1.0.7.tar.bz2</sourcefile>
   <sourcedir>mkfontdir-1.0.7</sourcedir>
   <unpack/>

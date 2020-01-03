@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wireless_tools</code>
+  <description>VGhlIFdpcmVsZXNzIFRvb2xzIChXVCkgcGFja2FnZSBpcyBhIHNldCBvZiB0b29scyBhbGxvd2luZyBtYW5pcHVsYXRpb24gb2YgdGhlIFdpcmVsZXNzIEV4dGVuc2lvbnMuIFRoZXkgdXNlIGEgdGV4dHVhbCBpbnRlcmZhY2UgdG8gc3VwcG9ydCB0aGUgZnVsbCBXaXJlbGVzcyBFeHRlbnNpb24uIA==</description>
   <sourcefile>wireless_tools.29.tar.gz</sourcefile>
   <sourcedir>wireless_tools.29</sourcedir>
   <unpack/>

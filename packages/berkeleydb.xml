@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>berkeleydb</code>
+  <description>IFRoZSBCZXJrZWxleSBEQiBwYWNrYWdlIGNvbnRhaW5zIHByb2dyYW1zIGFuZCB1dGlsaXRpZXMgdXNlZCBieSBtYW55IG90aGVyIGFwcGxpY2F0aW9ucyBmb3IgZGF0YWJhc2UgcmVsYXRlZCBmdW5jdGlvbnMuIA==</description>
   <sourcefile>db-5.3.28.tar.gz</sourcefile>
   <sourcedir>db-5.3.28</sourcedir>
   <unpack/>

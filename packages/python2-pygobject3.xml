@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>python2-pygobject3</code>
+  <description>UHlHT2JqZWN0MyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gdGhlIEdPYmplY3QgY2xhc3MgZnJvbSBHTGliLiA=</description>
   <sourcefile>pygobject-3.28.3.tar.xz</sourcefile>
   <sourcedir>pygobject-3.28.3</sourcedir>
   <unpack/>

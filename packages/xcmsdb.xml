@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>xcmsdb</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>xcmsdb-1.0.5.tar.bz2</sourcefile>
   <sourcedir>xcmsdb-1.0.5</sourcedir>
   <unpack/>

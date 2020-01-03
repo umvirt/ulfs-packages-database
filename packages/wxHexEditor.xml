@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>wxHexEditor</code>
+  <description>SGV4RWRpdG9yIHdyaXR0ZW4gb24gV3hXaWRnZXRz</description>
   <sourcefile>wxHexEditor-v0.24-src.tar.xz</sourcefile>
   <sourcedir>wxHexEditor</sourcedir>
   <unpack/>

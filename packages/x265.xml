@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>x265</code>
+  <description>eDI2NSBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSBmb3IgZW5jb2RpbmcgdmlkZW8gc3RyZWFtcyBpbnRvIHRoZSBILjI2NS9IRVZDIGZvcm1hdC4g</description>
   <sourcefile>x265_2.8.tar.gz</sourcefile>
   <sourcedir>x265_2.8</sourcedir>
   <unpack/>

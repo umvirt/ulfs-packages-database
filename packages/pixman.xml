@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pixman</code>
+  <description>VGhlIFBpeG1hbiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0aGF0IHByb3ZpZGVzIGxvdy1sZXZlbCBwaXhlbCBtYW5pcHVsYXRpb24gZmVhdHVyZXMgc3VjaCBhcyBpbWFnZSBjb21wb3NpdGluZyBhbmQgdHJhcGV6b2lkIHJhc3Rlcml6YXRpb24uIA==</description>
   <sourcefile>pixman-0.34.0.tar.gz</sourcefile>
   <sourcedir>pixman-0.34.0</sourcedir>
   <unpack/>

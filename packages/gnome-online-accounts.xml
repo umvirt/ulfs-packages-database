@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>gnome-online-accounts</code>
+  <description>VGhlIEdOT01FIE9ubGluZSBBY2NvdW50cyBwYWNrYWdlIGNvbnRhaW5zIGEgZnJhbWV3b3JrIHVzZWQgdG8gYWNjZXNzIHRoZSB1c2VyJ3Mgb25saW5lIGFjY291bnRzLiA=</description>
   <sourcefile>gnome-online-accounts-3.28.0.tar.xz</sourcefile>
   <sourcedir>gnome-online-accounts-3.28.0</sourcedir>
   <unpack/>

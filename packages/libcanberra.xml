@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libcanberra</code>
+  <description>bGliY2FuYmVycmEgaXMgYW4gaW1wbGVtZW50YXRpb24gb2YgdGhlIFhERyBTb3VuZCBUaGVtZSBhbmQgTmFtZSBTcGVjaWZpY2F0aW9ucywgZm9yIGdlbmVyYXRpbmcgZXZlbnQgc291bmRzIG9uIGZyZWUgZGVza3RvcHMsIHN1Y2ggYXMgR05PTUUuIA==</description>
   <sourcefile>libcanberra-0.30.tar.xz</sourcefile>
   <sourcedir>libcanberra-0.30</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>sessreg</code>
+  <description>WG9yZyBBcHBsaWNhdGlvbg==</description>
   <sourcefile>sessreg-1.1.1.tar.bz2</sourcefile>
   <sourcedir>sessreg-1.1.1</sourcedir>
   <unpack/>

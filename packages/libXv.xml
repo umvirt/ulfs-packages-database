@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>libXv</code>
+  <description>WG9yZyBMaWJyYXJ5</description>
   <sourcefile>libXv-1.0.11.tar.bz2</sourcefile>
   <sourcedir>libXv-1.0.11</sourcedir>
   <unpack/>

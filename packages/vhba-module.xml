@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>vhba-module</code>
+  <description>VkhCQSBtb2R1bGUgcHJvdmlkZXMgYSBWaXJ0dWFsIChTQ1NJKSBIQkEsIHdoaWNoIGlzIHRoZSBsaW5rIGJldHdlZW4gdXNlcnNwYWNlIGRhZW1vbiBhbmQgbGludXgga2VybmVsLg==</description>
   <sourcefile>vhba-module-20190410.tar.bz2</sourcefile>
   <sourcedir>vhba-module-20190410</sourcedir>
   <unpack/>

@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>mozjs-gnome</code>
+  <description>TW96SlMgaXMgTW96aWxsYSdzIEphdmFTY3JpcHQgZW5naW5lIHdyaXR0ZW4gaW4gQy4gVGhpcyBwYWNrYWdlIGlzIHByZXNlbnQgZm9yIEdKUyBhbmQgcG9sa2l0LiA=</description>
   <sourcefile>mozjs-52.2.1gnome1.tar.gz</sourcefile>
   <sourcedir>mozjs-52.2.1gnome1</sourcedir>
   <unpack/>

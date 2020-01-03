@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>tiff</code>
+  <description>ICBUaGUgTGliVElGRiBwYWNrYWdlIGNvbnRhaW5zIHRoZSBUSUZGIGxpYnJhcmllcyBhbmQgYXNzb2NpYXRlZCB1dGlsaXRpZXMuIFRoZSBsaWJyYXJpZXMgYXJlIHVzZWQgYnkgbWFueSBwcm9ncmFtcyBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBUSUZGIGZpbGVzIGFuZCB0aGUgdXRpbGl0aWVzIGFyZSB1c2VkIGZvciBnZW5lcmFsIHdvcmsgd2l0aCBUSUZGIGZpbGVzLiA=</description>
   <sourcefile>tiff-4.0.9.tar.gz</sourcefile>
   <sourcedir>tiff-4.0.9</sourcedir>
   <unpack/>

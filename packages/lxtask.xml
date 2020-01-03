@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>lxtask</code>
+  <description>IFRoZSBMWFRhc2sgcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IGFuZCBkZXNrdG9wLWluZGVwZW5kZW50IHRhc2sgbWFuYWdlci4g</description>
   <sourcefile>lxtask-0.1.8.tar.xz</sourcefile>
   <sourcedir>lxtask-0.1.8</sourcedir>
   <unpack/>

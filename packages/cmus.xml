@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>cmus</code>
+  <description>bGlnaHR3ZWlnaHQgbmN1cnNlcyBhdWRpbyBwbGF5ZXI=</description>
   <sourcefile>cmus-2.8.0.tar.gz</sourcefile>
   <sourcedir>cmus-2.8.0</sourcedir>
   <unpack/>

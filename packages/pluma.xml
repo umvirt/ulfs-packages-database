@@ -2,6 +2,7 @@
 <package>
   <release>0.1</release>
   <code>pluma</code>
+  <description>VGhlIHBsdW1hIGlzIG9sZCBnZWRpdCBmb3Jr</description>
   <sourcefile>pluma-1.22.0.tar.xz</sourcefile>
   <sourcedir>pluma-1.22.0</sourcedir>
   <unpack/>
