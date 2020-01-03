@@ -15,4 +15,5 @@
   <nestings>
     <nesting>glib</nesting>
   </nestings>
+  <comments/>
 </package>

@@ -16,4 +16,5 @@
     <addon>opencv_contrib-3.4.2.tar.gz</addon>
   </addons>
   <nestings/>
+  <comments/>
 </package>

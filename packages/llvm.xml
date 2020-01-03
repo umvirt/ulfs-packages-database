@@ -25,4 +25,5 @@
     <addon>compiler-rt-8.0.1.src.tar.xz</addon>
   </addons>
   <nestings/>
+  <comments/>
 </package>

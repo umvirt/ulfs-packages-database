@@ -16,4 +16,7 @@
     <addon>oiio-robin-map.tar.gz</addon>
   </addons>
   <nestings/>
+  <comments>
+    <comment>RG93bmxvYWRzIGRldGVjdGVkIQ==</comment>
+  </comments>
 </package>

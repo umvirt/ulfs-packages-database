@@ -16,4 +16,7 @@
     <addon>maven2-maven3.6.1.tar.gz</addon>
   </addons>
   <nestings/>
+  <comments>
+    <comment>QXV0b25vbW91cyBjb21waWxhdGlvbi4=</comment>
+  </comments>
 </package>

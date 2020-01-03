@@ -26,4 +26,7 @@
   <patches/>
   <addons/>
   <nestings/>
+  <comments>
+    <comment>VG9vIGxvbmcgY29tcGlsYXRpb24hIA0KTm90IGVub3VnaHQgNiBjb3JlcyAmIDZHIFJBTSEgDQpTd2FwIGlzIHVzZWQhDQoNCklnbm9yZWQh</comment>
+  </comments>
 </package>

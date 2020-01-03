@@ -156,4 +156,8 @@
     <addon>libreoffice-extratars-6.1.0.3.tar</addon>
   </addons>
   <nestings/>
+  <comments>
+    <comment>Q29tcGlsYXRpb24gZnJvbSBtYWludGFpbmVyIHVzZXIgYWNjb3VudCAoc3VkbyB3aXRob3V0IHBhc3N3b3JkKS4gQ29tcGlsYXRpb24gZnJvbSByb290IGFjY291bnQgaXMgcHJvaGliaXRlZC4=</comment>
+    <comment>Q29tcGlsYXRpb24gdGFrZSBsb25nIHRpbWUu</comment>
+  </comments>
 </package>

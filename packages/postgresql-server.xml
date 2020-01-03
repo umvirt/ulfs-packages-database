@@ -44,4 +44,5 @@
   <nestings>
     <nesting>postgresql-client</nesting>
   </nestings>
+  <comments/>
 </package>

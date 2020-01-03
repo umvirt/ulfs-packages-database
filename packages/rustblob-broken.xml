@@ -15,4 +15,5 @@
     <addon>rust-1.33.0-x86_64-unknown-linux-gnu.tar.gz</addon>
   </addons>
   <nestings/>
+  <comments/>
 </package>

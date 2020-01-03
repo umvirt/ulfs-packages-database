@@ -20,4 +20,5 @@
   <nestings>
     <nesting>bind-utils</nesting>
   </nestings>
+  <comments/>
 </package>

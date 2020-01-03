@@ -20,4 +20,5 @@
   <nestings>
     <nesting>spice-gtk</nesting>
   </nestings>
+  <comments/>
 </package>

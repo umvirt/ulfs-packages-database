@@ -25,4 +25,5 @@
     <addon>ejabberd-deps-19.09.1.tar.xz</addon>
   </addons>
   <nestings/>
+  <comments/>
 </package>

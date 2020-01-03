@@ -24,4 +24,5 @@
   <nestings>
     <nesting>spice-server</nesting>
   </nestings>
+  <comments/>
 </package>
