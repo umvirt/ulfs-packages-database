@@ -3,10 +3,8 @@
   <release>0.1</release>
   <code>libexif</code>
   <description>VGhlIGxpYmV4aWYgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHBhcnNpbmcsIGVkaXRpbmcsIGFuZCBzYXZpbmcgRVhJRiBkYXRhLiBNb3N0IGRpZ2l0YWwgY2FtZXJhcyBwcm9kdWNlIEVYSUYgZmlsZXMsIHdoaWNoIGFyZSBKUEVHIGZpbGVzIHdpdGggZXh0cmEgdGFncyB0aGF0IGNvbnRhaW4gaW5mb3JtYXRpb24gYWJvdXQgdGhlIGltYWdlLiBBbGwgRVhJRiB0YWdzIGRlc2NyaWJlZCBpbiBFWElGIHN0YW5kYXJkIDIuMSBhcmUgc3VwcG9ydGVkLiA=</description>
-  <sourcefile>libexif-0.6.21.tar.bz2&#13;
-</sourcefile>
-  <sourcedir>libexif-0.6.21&#13;
-</sourcedir>
+  <sourcefile>libexif-0.6.21.tar.bz2</sourcefile>
+  <sourcedir>libexif-0.6.21</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtZG9jLWRpcj0vdXNyL3NoYXJlL2RvYy9saWJleGlmLTAuNi4yMSBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
