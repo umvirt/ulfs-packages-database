@@ -807,5 +807,8 @@
     <package>qtkeychain</package>
     <package>extra-cmake-modules</package>
     <package>otter-browser</package>
+    <package>argon2</package>
+    <package>libsodium</package>
+    <package>keepassxc</package>
   </packages>
 </packages>
