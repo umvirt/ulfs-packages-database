@@ -810,5 +810,6 @@
     <package>argon2</package>
     <package>libsodium</package>
     <package>keepassxc</package>
+    <package>vsftpd</package>
   </packages>
 </packages>
