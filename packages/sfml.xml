@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>sfml</code>
+  <description>U0ZNTCBwcm92aWRlcyBhIHNpbXBsZSBpbnRlcmZhY2UgdG8gdGhlIHZhcmlvdXMgY29tcG9uZW50cyBvZiB5b3VyIFBDLCB0byBlYXNlIHRoZSBkZXZlbG9wbWVudCBvZiBnYW1lcyBhbmQgbXVsdGltZWRpYSBhcHBsaWNhdGlvbnMuIEl0IGlzIGNvbXBvc2VkIG9mIGZpdmUgbW9kdWxlczogc3lzdGVtLCB3aW5kb3csIGdyYXBoaWNzLCBhdWRpbyBhbmQgbmV0d29yay4=</description>
+  <sourcefile>SFML-2.5.1-sources.zip</sourcefile>
+  <sourcedir>SFML-2.5.1</sourcedir>
+  <unpack>dW56aXAgU0ZNTC0yLjUuMS1zb3VyY2VzLnppcA==</unpack>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libvorbis</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>flac</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openal</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

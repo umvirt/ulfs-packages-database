@@ -827,5 +827,8 @@
     <package>libfilezilla</package>
     <package>pugixml</package>
     <package>fail2ban</package>
+    <package>extremetuxracer</package>
+    <package>sfml</package>
+    <package>openal</package>
   </packages>
 </packages>
