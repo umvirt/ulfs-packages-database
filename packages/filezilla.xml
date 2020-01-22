@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>filezilla</code>
+  <description>RmlsZVppbGxhwq4sIHRoZSBmcmVlIEZUUCBzb2x1dGlvbi4gVGhlIEZpbGVaaWxsYSBDbGllbnQgbm90IG9ubHkgc3VwcG9ydHMgRlRQLCBidXQgYWxzbyBGVFAgb3ZlciBUTFMgKEZUUFMpIGFuZCBTRlRQLg==</description>
+  <sourcefile>FileZilla_3.46.3_src.tar.bz2</sourcefile>
+  <sourcedir>filezilla-3.46.3</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xdg-utils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libfilezilla</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pugixml</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
