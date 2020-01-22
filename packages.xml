@@ -822,5 +822,6 @@
     <package>bitop</package>
     <package>unibilium</package>
     <package>luv</package>
+    <package>neomutt</package>
   </packages>
 </packages>
