@@ -826,5 +826,6 @@
     <package>filezilla</package>
     <package>libfilezilla</package>
     <package>pugixml</package>
+    <package>fail2ban</package>
   </packages>
 </packages>
