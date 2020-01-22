@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libtermkey</code>
+  <description>VGhpcyBsaWJyYXJ5IGFsbG93cyBlYXN5IHByb2Nlc3Npbmcgb2Yga2V5Ym9hcmQgZW50cnkgZnJvbSB0ZXJtaW5hbC1iYXNlZCBwcm9ncmFtcy4gSXQgaGFuZGxlcyBhbGwgdGhlIG5lY2Vzc2FyeSBsb2dpYyB0byByZWNvZ25pc2Ugc3BlY2lhbCBrZXlzLCBVVEYtOCBjb21iaW5pbmcsIGFuZCBzbyBvbiwgd2l0aCBhIHNpbXBsZSBpbnRlcmZhY2Uu</description>
+  <sourcefile>libtermkey-0.22.tar.gz</sourcefile>
+  <sourcedir>libtermkey-0.22</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIE1ha2VmaWxl</configure>
+  <build>bWFrZSA=</build>
+  <install>bWFrZSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

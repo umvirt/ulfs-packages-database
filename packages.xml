@@ -811,5 +811,16 @@
     <package>libsodium</package>
     <package>keepassxc</package>
     <package>vsftpd</package>
+    <package>neovim</package>
+    <package>msgpack</package>
+    <package>libtermkey</package>
+    <package>libvterm</package>
+    <package>jemalloc</package>
+    <package>libmpack</package>
+    <package>libmpack-lua</package>
+    <package>lpeg</package>
+    <package>bitop</package>
+    <package>unibilium</package>
+    <package>luv</package>
   </packages>
 </packages>

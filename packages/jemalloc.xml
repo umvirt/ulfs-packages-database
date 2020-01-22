@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>jemalloc</code>
+  <description/>
+  <sourcefile>jemalloc-5.2.1.tar.bz2</sourcefile>
+  <sourcedir>jemalloc-5.2.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

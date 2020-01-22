@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>bitop</code>
+  <description>THVhIEJpdE9wIGlzIGEgQyBleHRlbnNpb24gbW9kdWxlIGZvciBMdWEgNS4xLzUuMiB3aGljaCBhZGRzIGJpdHdpc2Ugb3BlcmF0aW9ucyBvbiBudW1iZXJzLiA=</description>
+  <sourcefile>LuaBitOp-1.0.2.tar.gz</sourcefile>
+  <sourcedir>LuaBitOp-1.0.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgNS4xDQpta2RpciA1LjMNCmNwICogNS4xDQpjcCAqIDUuMw0K</configure>
+  <build>bWFrZSAtQyA1LjEgTFVBRElSPS91c3IvaW5jbHVkZS9sdWE1LjENCm1ha2UgLUMgNS4zIExVQURJUj0vdXNyL2luY2x1ZGUvbHVhNS4z</build>
+  <install>cHVzaGQgNS4xDQogIGluc3RhbGwgLXYgLW03NTUgYml0LnNvIC91c3IvbGliL2x1YS81LjEvDQpwb3BkDQpwdXNoZCA1LjMNCiAgaW5zdGFsbCAtdiAtbTc1NSBiaXQuc28gL3Vzci9saWIvbHVhLzUuMy8NCnBvcGQ=</install>
+  <dependances>
+    <dependance>
+      <code>lua</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>bitop-lua5.3.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
