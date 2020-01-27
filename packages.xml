@@ -830,5 +830,8 @@
     <package>extremetuxracer</package>
     <package>sfml</package>
     <package>openal</package>
+    <package>neofetch</package>
+    <package>jp2a</package>
+    <package>tmux</package>
   </packages>
 </packages>
