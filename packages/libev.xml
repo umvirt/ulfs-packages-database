@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libev</code>
+  <description>QSBmdWxsLWZlYXR1cmVkIGFuZCBoaWdoLXBlcmZvcm1hbmNlIChzZWUgYmVuY2htYXJrKSBldmVudCBsb29wIHRoYXQgaXMgbG9vc2VseSBtb2RlbGxlZCBhZnRlciBsaWJldmVudCwgYnV0IHdpdGhvdXQgaXRzIGxpbWl0YXRpb25zIGFuZCBidWdzLiBJdCBpcyB1c2VkIGluIEdOVSBWaXJ0dWFsIFByaXZhdGUgRXRoZXJuZXQsIHJ4dnQtdW5pY29kZSwgYXVkaXRkLCB0aGUgRGVsaWFudHJhIE1PUlBHIFNlcnZlciBhbmQgQ2xpZW50LCBhbmQgbWFueSBvdGhlciBwcm9ncmFtcy4=</description>
+  <sourcefile>libev-4.31.tar.gz</sourcefile>
+  <sourcedir>libev-4.31</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

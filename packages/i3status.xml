@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>i3status</code>
+  <description>aTNzdGF0dXMgaXMgYSBzbWFsbCBwcm9ncmFtIGZvciBnZW5lcmF0aW5nIGEgc3RhdHVzIGJhciBmb3IgaTNiYXIsIGR6ZW4yLCB4bW9iYXIgb3Igc2ltaWxhciBwcm9ncmFtcy4=</description>
+  <sourcefile>i3status-2.13.tar.bz2</sourcefile>
+  <sourcedir>i3status-2.13</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAgLS1sb2NhbHN0YXRlZGlyPS92YXINCmNkICJgdW5hbWUgLW1gLXBjLWxpbnV4LWdudSI=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>confuse</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

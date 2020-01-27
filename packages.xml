@@ -833,5 +833,10 @@
     <package>neofetch</package>
     <package>jp2a</package>
     <package>tmux</package>
+    <package>i3</package>
+    <package>libev</package>
+    <package>xcb-util-xrm</package>
+    <package>i3status</package>
+    <package>confuse</package>
   </packages>
 </packages>
