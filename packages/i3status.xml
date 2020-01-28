@@ -11,6 +11,22 @@
   <install/>
   <dependances>
     <dependance>
+      <code>xmlto</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>asciidoc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>yajl2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>confuse</code>
       <weight>0</weight>
     </dependance>

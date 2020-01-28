@@ -9,7 +9,12 @@
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAgLS1sb2NhbHN0YXRlZGlyPS92YXI=</configure>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>libevent</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
