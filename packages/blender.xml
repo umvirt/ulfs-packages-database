@@ -3,12 +3,12 @@
   <release>0.1</release>
   <code>blender</code>
   <description>RnJlZSBhbmQgT3BlbiAzRCBDcmVhdGlvbiBTb2Z0d2FyZS4=</description>
-  <sourcefile>blender-2.80.tar.gz</sourcefile>
-  <sourcedir>blender-2.80</sourcedir>
+  <sourcefile>blender-2.81.tar.xz</sourcefile>
+  <sourcedir>blender-2.81</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQotRENNQUtFX1NLSVBfUlBBVEg9T04gXA0KLURDTUFLRV9WRVJCT1NFX01BS0VGSUxFPU9OIFwNCi1EV0lUSF9QWVRIT05fSU5TVEFMTD1PRkYgXA0KLURQWVRIT05fVkVSU0lPTj0zIFwNCi1EUFlUSE9OX0lOQ0xVREVfRElSPS91c3IvaW5jbHVkZS9weXRob24zLjdtIFwNCi1EUFlUSE9OX0xJQlJBUlk9L3Vzci9saWIvcHl0aG9uMy43bSBcDQogLi4NCg==</configure>
-  <build/>
-  <install/>
+  <configure>I0xGUyBCVUdGSVg6IDMuN20gaW4gL3Vzci9pbmNsdWRlIG5vdCAzLjcuDQpsbiAtcyAvdXNyL2luY2x1ZGUvcHl0aG9uMy43bSAvdXNyL2luY2x1ZGUvcHl0aG9uMy43DQoNCiNudW1weSBidWdmaXgNCmxuIC1zIC91c3IvbGliL3B5dGhvbjMuNy9zaXRlLXBhY2thZ2VzL251bXB5Ki9udW1weSAvdXNyL2xpYi9weXRob24zLjcNCg0KbWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCiNjbWFrZSBjb25maWcgZm9yIGRlYnVnOg0KIyAgICBmaWxlcy9jbWFrZS9jb25maWcvYmxlbmRlcl9saXRlLmNtYWtlDQoNCmNtYWtlIFwNCiAgICAtR05pbmphIFwNCiAgICAtQy4uL2J1aWxkX2ZpbGVzL2NtYWtlL2NvbmZpZy9ibGVuZGVyX3JlbGVhc2UuY21ha2UgLi4gXA0KICAgIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgIC1EV0lUSF9JTlNUQUxMX1BPUlRBQkxFPU9GRiBcDQogICAgLURXSVRIX1BZVEhPTl9JTlNUQUxMPU9GRiBcDQogICAgLURQWVRIT05fVkVSU0lPTj0zLjcgXA0KICAgIC1EUFlUSE9OX0xJQlBBVEg9L3Vzci9saWIgXA0KICAgIC1EUFlUSE9OX0xJQlJBUlk9cHl0aG9uMy43bSBcDQogICAgLURQWVRIT05fSU5DTFVERV9ESVJTPS91c3IvaW5jbHVkZS9weXRob24zLjdtDQo=</configure>
+  <build>bmluamE=</build>
+  <install>bmluamEgaW5zdGFsbA==</install>
   <dependances>
     <dependance>
       <code>mesa</code>
@@ -19,11 +19,103 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tiff</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xdg-utils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openjpeg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libboost</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ffmpeg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>oiio</code>
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>openexr</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>glew</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-numpy</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-requests</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>jemalloc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openal</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>alembic</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fftw-single</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>opencollada</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>opencolorio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openshadinglanguage</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>oidn</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libspnav</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ptex</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>opensubdiv</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>log4cplus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openvdb</code>
       <weight>0</weight>
     </dependance>
   </dependances>
@@ -31,6 +123,7 @@
   <addons/>
   <nestings/>
   <comments>
-    <comment>VW5kZXIgZGV2ZWxvcG1lbnQ=</comment>
+    <comment>QmFzZWQgb24gQXJjaCBMaW51eCBpbnN0cnVjdGlvbnMu</comment>
+    <comment>Tm8gTnZpZGlhIENVREEgc3VwcG9ydCBpbiBkZXBlbmRlbmNpZXMu</comment>
   </comments>
 </package>

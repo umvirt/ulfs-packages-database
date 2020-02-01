@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>oidn</code>
+  <description>SW50ZWzCriBPcGVuIEltYWdlIERlbm9pc2UgaXMgSGlnaC1QZXJmb3JtYW5jZSBEZW5vaXNpbmcgTGlicmFyeSBmb3IgUmF5IFRyYWNpbmcg</description>
+  <sourcefile>oidn-1.1.0.src.tar.gz</sourcefile>
+  <sourcedir>oidn-1.1.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC4uIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UNCg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>intel-tbb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

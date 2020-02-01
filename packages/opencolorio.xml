@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>opencolorio</code>
+  <description>QSBjb2xvciBtYW5hZ2VtZW50IGZyYW1ld29yayBmb3IgdmlzdWFsIGVmZmVjdHMgYW5kIGFuaW1hdGlvbi4g</description>
+  <sourcefile>OpenColorIO-1.1.1.tar.gz</sourcefile>
+  <sourcedir>OpenColorIO-1.1.1</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICJzLy1XZXJyb3IvL2ciIHNyYy9jb3JlL0NNYWtlTGlzdHMudHh0DQpzZWQgLWkgInMvLVdlcnJvci8vZyIgc3JjL3B5Z2x1ZS9DTWFrZUxpc3RzLnR4dA0Kc2VkIC1pICJzL3B1c2goaGlkZGVuKS9wdXNoKGRlZmF1bHQpL2ciIHNyYy9jb3JlL09DSU9ZYW1sLmNwcA0KDQpta2RpciAtcCBidWlsZCAmJiBjZCBidWlsZA0KICBjbWFrZSAuLiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRENNQUtFX0lOU1RBTExfTElCRElSPWxpYiBcDQogICAgLURVU0VfRVhURVJOQUxfWUFNTD1PTiBcDQogICAgLURVU0VfRVhURVJOQUxfVElOWVhNTD1PTiBcDQogICAgLURVU0VfRVhURVJOQUxfTENNUz1PTg0K</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>lcms2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tinyxml</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>yaml-cpp</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>opencolorio-8d48ee8da42de2d878db7b42586db8b3c67f83e1.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

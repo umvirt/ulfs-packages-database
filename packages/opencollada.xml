@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>opencollada</code>
+  <description>Q09MTEFEQU1heCBhbmQgQ09MTEFEQU1heWEgYXJlIG5ldyBpbXBsZW1lbnRhdGlvbiBvZiBhIDNkcyBNYXggb3IgTWF5YSBwbHVnLWlucyB0byBleHBvcnQgc2NlbmUgb3IgcGFydHMgb2YgaXQgdG8gYSBDT0xMQURBIGZpbGUsIHJlbGVhc2VkIHVuZGVyIGFuIE1JVC1saWNlbnNlLg==</description>
+  <sourcefile>OpenCOLLADA-1.6.68.tar.gz</sourcefile>
+  <sourcedir>OpenCOLLADA-1.6.68</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KDQpjbWFrZSAuLiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRFVTRV9TSEFSRUQ9T04gXA0KICAgIC1EVVNFX1NUQVRJQz1PRkYNCg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>pcre</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>opencollada-pcre.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

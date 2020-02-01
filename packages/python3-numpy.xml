@@ -9,7 +9,12 @@
   <configure>Iw==</configure>
   <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
   <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxs</install>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>python3-cython</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

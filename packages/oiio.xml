@@ -9,7 +9,16 @@
   <configure>bWtkaXIgZXh0DQp0YXIgLXhmIC4uL29paW8tcHliaW5kMTEudGFyLmd6IC1DIGV4dA0KdGFyIC14ZiAuLi9vaWlvLXJvYmluLW1hcC50YXIuZ3ogLUMgZXh0DQoNCm1rZGlyIGJ1aWxkDQpjZCBidWlsZA0KDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>opencolorio</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons>
     <addon>oiio-pybind11.tar.gz</addon>

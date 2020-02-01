@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>c-blosc</code>
+  <description>QSBibG9ja2luZywgc2h1ZmZsaW5nIGFuZCBsb3NzLWxlc3MgY29tcHJlc3Npb24gbGlicmFyeSB0aGF0IGNhbiBiZSBmYXN0ZXIgdGhhbiBgbWVtY3B5KClgLg==</description>
+  <sourcefile>c-blosc-1.17.1.tar.gz</sourcefile>
+  <sourcedir>c-blosc-1.17.1</sourcedir>
+  <unpack/>
+  <configure>cm0gLXJmIGJ1aWxkDQpta2RpciBidWlsZA0KY2QgYnVpbGQNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0iL3VzciIgXA0KICAgICAgICAtRFBSRUZFUl9FWFRFUk5BTF9MWjQ9Ik9OIiBcDQogICAgICAgIC1EUFJFRkVSX0VYVEVSTkFMX1pMSUI9Ik9OIiBcDQogICAgICAgIC1EUFJFRkVSX0VYVEVSTkFMX1NOQVBQWT0iT04iIFwNCiAgICAgICAgLURQUkVGRVJfRVhURVJOQUxfWlNURD0iT04iIFwNCiAgICAgICAgLURCVUlMRF9URVNUUz0iT0ZGIiBcDQogICAgICAgIC4u</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>snappy</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>zstd</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

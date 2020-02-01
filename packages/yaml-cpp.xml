@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>yaml-cpp</code>
+  <description>QSBZQU1MIHBhcnNlciBhbmQgZW1pdHRlciBpbiBDKysg</description>
+  <sourcefile>yaml-cpp-0.6.3.tar.gz</sourcefile>
+  <sourcedir>yaml-cpp-yaml-cpp-0.6.3</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC4uXA0KICAgICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCiAgICAgICAgLURZQU1MX0JVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCiAgICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgDQogICAgICAg</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

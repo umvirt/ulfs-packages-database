@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>setconf</code>
+  <description>c2V0Y29uZiBpcyBhIHNtYWxsIHV0aWxpdHkgdGhhdCBjYW4gYmUgdXNlZCBmb3IgY2hhbmdpbmcgc2V0dGluZ3MgaW4gY29uZmlndXJhdGlvbiB0ZXh0ZmlsZXMu</description>
+  <sourcefile>setconf-0.7.6.tar.xz</sourcefile>
+  <sourcedir>setconf-0.7.6</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>aW5zdGFsbCAtRG03NTUgInNldGNvbmYucHkiICIkcGtnZGlyL3Vzci9iaW4vc2V0Y29uZiINCmluc3RhbGwgLURtNjQ0ICJzZXRjb25mLjEuZ3oiICIkcGtnZGlyL3Vzci9zaGFyZS9tYW4vbWFuMS9zZXRjb25mLjEuZ3oi</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

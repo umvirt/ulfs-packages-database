@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>fftw-double</code>
+  <description>RkZUVyBpcyBhIEMgc3Vicm91dGluZSBsaWJyYXJ5IGZvciBjb21wdXRpbmcgdGhlIGRpc2NyZXRlIEZvdXJpZXIgdHJhbnNmb3JtIChERlQpIGluIG9uZSBvciBtb3JlIGRpbWVuc2lvbnMsIG9mIGFyYml0cmFyeSBpbnB1dCBzaXplLCBhbmQgb2YgYm90aCByZWFsIGFuZCBjb21wbGV4IGRhdGEgKGFzIHdlbGwgYXMgb2YgZXZlbi9vZGQgZGF0YSwgaS5lLiB0aGUgZGlzY3JldGUgY29zaW5lL3NpbmUgdHJhbnNmb3JtcyBvciBEQ1QvRFNUKS4=</description>
+  <sourcefile>fftw-3.3.8.tar.gz</sourcefile>
+  <sourcedir>fftw-3.3.8</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1zaGFyZWQgLS1lbmFibGUtdGhyZWFkcyAtLWVuYWJsZS1tcGkgLS1lbmFibGUtb3Blbm1wIFwNCi0tZW5hYmxlLXNzZTIgLS1lbmFibGUtYXZ4</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments>
+    <comment>ZG91YmxlIHByZWNpc2lvbg==</comment>
+  </comments>
+</package>

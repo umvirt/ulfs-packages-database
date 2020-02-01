@@ -838,5 +838,33 @@
     <package>xcb-util-xrm</package>
     <package>i3status</package>
     <package>confuse</package>
+    <package>alembic</package>
+    <package>hdf5</package>
+    <package>szip</package>
+    <package>gcc</package>
+    <package>openmpi</package>
+    <package>fftw-single</package>
+    <package>fftw-double</package>
+    <package>fftw-longdouble</package>
+    <package>fftw-quad</package>
+    <package>opencollada</package>
+    <package>tinyxml</package>
+    <package>setconf</package>
+    <package>opencolorio</package>
+    <package>yaml-cpp</package>
+    <package>intel-tbb</package>
+    <package>openshadinglanguage</package>
+    <package>oidn</package>
+    <package>libspnav</package>
+    <package>ptex</package>
+    <package>opensubdiv</package>
+    <package>opencl-headers</package>
+    <package>opencl-clhpp</package>
+    <package>opencl</package>
+    <package>snappy</package>
+    <package>zstd</package>
+    <package>c-blosc</package>
+    <package>log4cplus</package>
+    <package>openvdb</package>
   </packages>
 </packages>

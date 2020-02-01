@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>opensubdiv</code>
+  <description>QW4gT3Blbi1Tb3VyY2Ugc3ViZGl2aXNpb24gc3VyZmFjZSBsaWJyYXJ5Lg==</description>
+  <sourcefile>OpenSubdiv-3_4_0.tar.gz</sourcefile>
+  <sourcedir>OpenSubdiv-3_4_0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAuLiBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3INCg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glew</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>intel-tbb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>opensubdiv-cuda9.patch</filename>
+      <mode/>
+    </patch>
+    <patch>
+      <filename>opensubdiv-python3.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
