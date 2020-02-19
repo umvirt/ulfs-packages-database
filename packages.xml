@@ -866,5 +866,8 @@
     <package>c-blosc</package>
     <package>log4cplus</package>
     <package>openvdb</package>
+    <package>openvpn</package>
+    <package>iproute2</package>
+    <package>pkcs11-helper</package>
   </packages>
 </packages>

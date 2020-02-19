@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>iproute2</code>
+  <description>SVAgUm91dGluZyBVdGlsaXRpZXM=</description>
+  <sourcefile>iproute2-5.5.0.tar.gz</sourcefile>
+  <sourcedir>iproute2-5.5.0</sourcedir>
+  <unpack/>
+  <configure>IyBkbyBub3QgdHJlYXQgd2FybmluZ3MgYXMgZXJyb3JzDQogIHNlZCAtaSAncy8tV2Vycm9yLy8nIE1ha2VmaWxlDQoNCi4vY29uZmlndXJlDQo=</configure>
+  <build/>
+  <install>bWFrZSBTQklORElSPSIvdXNyL2JpbiIgaW5zdGFsbA0KDQojIGxpYm5ldGxpbmsgaXNuJ3QgaW5zdGFsbGVkLCBpbnN0YWxsIGl0IEZTIzE5Mzg1DQogIGluc3RhbGwgLURtMDY0NCBpbmNsdWRlL2xpYm5ldGxpbmsuaCAiL3Vzci9pbmNsdWRlL2xpYm5ldGxpbmsuaCINCiAgaW5zdGFsbCAtRG0wNjQ0IGxpYi9saWJuZXRsaW5rLmEgIi91c3IvbGliL2xpYm5ldGxpbmsuYSINCg==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
