@@ -6,7 +6,7 @@
   <sourcefile>iproute2-5.5.0.tar.gz</sourcefile>
   <sourcedir>iproute2-5.5.0</sourcedir>
   <unpack/>
-  <configure>IyBkbyBub3QgdHJlYXQgd2FybmluZ3MgYXMgZXJyb3JzDQogIHNlZCAtaSAncy8tV2Vycm9yLy8nIE1ha2VmaWxlDQoNCi4vY29uZmlndXJlDQo=</configure>
+  <configure>IyBkbyBub3QgdHJlYXQgd2FybmluZ3MgYXMgZXJyb3JzDQogIHNlZCAtaSAncy8tV2Vycm9yLy8nIE1ha2VmaWxlDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMgIC0tbG9jYWxzdGF0ZWRpcj0vdmFy</configure>
   <build/>
   <install>bWFrZSBTQklORElSPSIvdXNyL2JpbiIgaW5zdGFsbA0KDQojIGxpYm5ldGxpbmsgaXNuJ3QgaW5zdGFsbGVkLCBpbnN0YWxsIGl0IEZTIzE5Mzg1DQogIGluc3RhbGwgLURtMDY0NCBpbmNsdWRlL2xpYm5ldGxpbmsuaCAiL3Vzci9pbmNsdWRlL2xpYm5ldGxpbmsuaCINCiAgaW5zdGFsbCAtRG0wNjQ0IGxpYi9saWJuZXRsaW5rLmEgIi91c3IvbGliL2xpYm5ldGxpbmsuYSINCg==</install>
   <dependances/>
