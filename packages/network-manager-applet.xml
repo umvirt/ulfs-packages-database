@@ -15,6 +15,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>gcr</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>gtk3</code>
       <weight>0</weight>
     </dependance>

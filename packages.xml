@@ -869,5 +869,6 @@
     <package>openvpn</package>
     <package>iproute2</package>
     <package>pkcs11-helper</package>
+    <package>NetworkManager-openvpn</package>
   </packages>
 </packages>
