@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>wireguard-tools</code>
+  <description>Q3Jvc3MtcGxhdGZvcm0gdXNlcnNwYWNlIHRvb2xzIHRvIGNvbmZpZ3VyZSBXaXJlR3VhcmQgaW1wbGVtZW50YXRpb25zLg==</description>
+  <sourcefile>wireguard-tools-1.0.20200206.tar.xz</sourcefile>
+  <sourcedir>wireguard-tools-1.0.20200206</sourcedir>
+  <unpack/>
+  <configure>Y2Qgc3Jj</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

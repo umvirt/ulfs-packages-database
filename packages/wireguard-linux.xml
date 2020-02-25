@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>wireguard-linux</code>
+  <description>QmFja3BvcnRzIG9mIHRoZSBXaXJlR3VhcmQga2VybmVsIG1vZHVsZSBmb3IgTGludXggdG8gMy4xMCDiiaQga2VybmVsIOKJpCA1LjUueSwgYXMgYW4gb3V0LW9mLXRyZWUgbW9kdWxlLg==</description>
+  <sourcefile>wireguard-linux-compat-0.0.20200215.tar.xz</sourcefile>
+  <sourcedir>wireguard-linux-compat-0.0.20200215</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyBzcmMv</build>
+  <install>bWFrZSAtQyBzcmMvIGluc3RhbGw=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

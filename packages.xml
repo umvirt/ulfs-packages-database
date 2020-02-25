@@ -870,5 +870,7 @@
     <package>iproute2</package>
     <package>pkcs11-helper</package>
     <package>NetworkManager-openvpn</package>
+    <package>wireguard-linux</package>
+    <package>wireguard-tools</package>
   </packages>
 </packages>
