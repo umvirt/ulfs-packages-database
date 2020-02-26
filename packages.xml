@@ -872,5 +872,6 @@
     <package>NetworkManager-openvpn</package>
     <package>wireguard-linux</package>
     <package>wireguard-tools</package>
+    <package>unbound</package>
   </packages>
 </packages>
