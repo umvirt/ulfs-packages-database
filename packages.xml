@@ -873,5 +873,7 @@
     <package>wireguard-linux</package>
     <package>wireguard-tools</package>
     <package>unbound</package>
+    <package>accountsservice</package>
+    <package>gdm</package>
   </packages>
 </packages>
