@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>URI</code>
+  <description/>
+  <sourcefile>URI-1.74.tar.gz</sourcefile>
+  <sourcedir>URI-1.74</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build>bWFrZQ==</build>
+  <install>bWFrZSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>lightdm-base</code>
+  <description/>
+  <sourcefile>lightdm-1.24.0.tar.xz</sourcefile>
+  <sourcedir>lightdm-1.24.0</sourcedir>
+  <unpack/>
+  <configure>SVRTVE9PTD0vYmluL3RydWUgICAgICAgICAgICAgICAgICAgIFwNCi4vY29uZmlndXJlICAgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgXA0KICAgICAgIC0tbGliZXhlY2Rpcj0vdXNyL2xpYi9saWdodGRtIFwNCiAgICAgICAtLWxvY2Fsc3RhdGVkaXI9L3ZhciAgICAgICAgICBcDQogICAgICAgLS1zYmluZGlyPS91c3IvYmluICAgICAgICAgICAgXA0KICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgICAgICAgIFwNCiAgICAgICAtLWRpc2FibGUtc3RhdGljICAgICAgICAgICAgICBcDQogICAgICAgLS1kaXNhYmxlLXRlc3RzICAgICAgICAgICAgICAgXA0KICAgICAgIC0td2l0aC1ncmVldGVyLXVzZXI9bGlnaHRkbSAgIFwNCiAgICAgICAtLXdpdGgtZ3JlZXRlci1zZXNzaW9uPWxpZ2h0ZG0tZ3RrLWdyZWV0ZXIgXA0KICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpZ2h0ZG0tMS4yNC4w</configure>
+  <build/>
+  <install>Z3JvdXBhZGQgLWcgNjUgbGlnaHRkbSAgICAgICAmJg0KdXNlcmFkZCAgLWMgIkxpZ2h0ZG0gRGFlbW9uIiBcDQogICAgICAgICAtZCAvdmFyL2xpYi9saWdodGRtIFwNCiAgICAgICAgIC11IDY1IC1nIGxpZ2h0ZG0gICAgXA0KICAgICAgICAgLXMgL2Jpbi9mYWxzZSBsaWdodGRtDQoNCg0KbWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KICAgICAgDQpzZWQgJ1xAL2Jpbi9zaEBhXA0KXA0KLiAvZXRjL3Byb2ZpbGUnIHRlc3RzL3NyYy9saWdodGRtLXNlc3Npb24gPiAvdXNyL2Jpbi9saWdodGRtLXNlc3Npb24gJiYNCg0KY2htb2QgYSt4IC91c3IvYmluL2xpZ2h0ZG0tc2Vzc2lvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0Kcm0gLXJmIC9ldGMvaW5pdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KaW5zdGFsbCAtdiAtZG03NTUgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvbGliL2xpZ2h0ZG0gICAgICAmJg0KaW5zdGFsbCAtdiAtZG03NTUgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvbGliL2xpZ2h0ZG0tZGF0YSAmJg0KaW5zdGFsbCAtdiAtZG03NTUgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvY2FjaGUvbGlnaHRkbSAgICAmJg0KaW5zdGFsbCAtdiAtZG03NzAgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvbG9nL2xpZ2h0ZG0NCg==</install>
+  <dependances>
+    <dependance>
+      <code>pcre</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgcrypt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

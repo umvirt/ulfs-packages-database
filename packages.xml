@@ -875,5 +875,12 @@
     <package>unbound</package>
     <package>accountsservice</package>
     <package>gdm</package>
+    <package>lightdm-base</package>
+    <package>lightdm-gtk</package>
+    <package>libxfce4util</package>
+    <package>xfconf</package>
+    <package>libxfce4ui</package>
+    <package>exo</package>
+    <package>URI</package>
   </packages>
 </packages>

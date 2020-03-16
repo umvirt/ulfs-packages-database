@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>xfconf</code>
+  <description>WGZjb25mIGlzIHRoZSBjb25maWd1cmF0aW9uIHN0b3JhZ2Ugc3lzdGVtIGZvciBYZmNlLiA=</description>
+  <sourcefile>xfconf-4.12.1.tar.bz2</sourcefile>
+  <sourcedir>xfconf-4.12.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>dbus-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxfce4util</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
