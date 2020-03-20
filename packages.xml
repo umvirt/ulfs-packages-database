@@ -883,5 +883,7 @@
     <package>exo</package>
     <package>URI</package>
     <package>redis</package>
+    <package>netcat</package>
+    <package>socat</package>
   </packages>
 </packages>
