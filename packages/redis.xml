@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>redis</code>
+  <description>UmVkaXMgaXMgYW4gb3BlbiBzb3VyY2UgKEJTRCBsaWNlbnNlZCksIGluLW1lbW9yeSBkYXRhIHN0cnVjdHVyZSBzdG9yZSwgdXNlZCBhcyBhIGRhdGFiYXNlLCBjYWNoZSBhbmQgbWVzc2FnZSBicm9rZXIu</description>
+  <sourcefile>redis-5.0.8.tar.gz</sourcefile>
+  <sourcedir>redis-5.0.8</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIHNyYy9NYWtlZmlsZQ==</configure>
+  <build/>
+  <install>I2FkZCBncm91cA0KZ3JvdXBhZGQgLWZnIDE0MCByZWRpcyAmJg0KDQojYWRkIHVzZXINCnVzZXJhZGQgLWMgIlJlZGlzIERhZW1vbiBPd25lciIgLWQgL3Zhci9ydW4vcmVkaXMgLXUgMTQwIFwNCiAgICAgICAgLWcgcmVkaXMgLXMgL2Jpbi9mYWxzZSByZWRpcw0KDQojaW5zdGFsbCBmaWxlcw0KbWFrZSBpbnN0YWxsDQoNCiNpbnN0YWxsIGNvbmZpZw0KaW5zdGFsbCAtRG02NDQgcmVkaXMuY29uZiAiJHBrZ2RpciIvZXRjL3JlZGlzLmNvbmYNCg0KI2luc3RhbGwgc2VydmljZQ0KY2F0ID4gL3Vzci9saWIvc3lzdGVtZC9zeXN0ZW0vcmVkaXMuc2VydmljZSA8PCAiRU9GIg0KDQpbVW5pdF0NCkRlc2NyaXB0aW9uPUFkdmFuY2VkIGtleS12YWx1ZSBzdG9yZQ0KQWZ0ZXI9bmV0d29yay50YXJnZXQNCg0KW1NlcnZpY2VdDQpUeXBlPXNpbXBsZQ0KVXNlcj1yZWRpcw0KR3JvdXA9cmVkaXMNCkV4ZWNTdGFydD0vdXNyL2Jpbi9yZWRpcy1zZXJ2ZXIgL2V0Yy9yZWRpcy5jb25mDQpFeGVjU3RvcD0vdXNyL2Jpbi9yZWRpcy1jbGkgc2h1dGRvd24NCkNhcGFiaWxpdHlCb3VuZGluZ1NldD0NClByaXZhdGVUbXA9dHJ1ZQ0KUHJpdmF0ZURldmljZXM9dHJ1ZQ0KUHJvdGVjdFN5c3RlbT1mdWxsDQpQcm90ZWN0SG9tZT10cnVlDQpOb05ld1ByaXZpbGVnZXM9dHJ1ZQ0KUnVudGltZURpcmVjdG9yeT1yZWRpcw0KUnVudGltZURpcmVjdG9yeU1vZGU9NzU1DQpMaW1pdE5PRklMRT0xMDAzMg0KDQpbSW5zdGFsbF0NCldhbnRlZEJ5PW11bHRpLXVzZXIudGFyZ2V0DQoNCkVPRg==</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>redis-5.0-jmalloc.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

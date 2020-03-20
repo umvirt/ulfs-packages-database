@@ -882,5 +882,6 @@
     <package>libxfce4ui</package>
     <package>exo</package>
     <package>URI</package>
+    <package>redis</package>
   </packages>
 </packages>
