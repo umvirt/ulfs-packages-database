@@ -11,6 +11,10 @@
   <install>bWtkaXIgL29wdC93ZWJwdWxzZS1jbGllbnQNCmNwICogL29wdC93ZWJwdWxzZS1jbGllbnQ=</install>
   <dependances>
     <dependance>
+      <code>python3-requests</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>fcron</code>
       <weight>0</weight>
     </dependance>
