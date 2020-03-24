@@ -885,5 +885,7 @@
     <package>redis</package>
     <package>netcat</package>
     <package>socat</package>
+    <package>python3-psutil</package>
+    <package>webpulse-client</package>
   </packages>
 </packages>
