@@ -886,7 +886,7 @@
     <package>netcat</package>
     <package>socat</package>
     <package>python3-psutil</package>
-    <package>webpulse-client</package>
+    <package>webpulse-agent</package>
     <package>nodejs</package>
   </packages>
 </packages>

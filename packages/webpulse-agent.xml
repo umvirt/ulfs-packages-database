@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.1</release>
-  <code>webpulse-client</code>
-  <description>QWdlbnRsZXNzIG5ldHdvcmsgbm9kZXMgbW9uaXRvcmluZyB0b29sLg==</description>
-  <sourcefile>webpulse-client-0.1.tar.gz</sourcefile>
-  <sourcedir>webpulse-client-0.1</sourcedir>
+  <code>webpulse-agent</code>
+  <description>U2ltcGxlIHN5c3RlbSBtb25pdG9yaW5nIHRvb2wu</description>
+  <sourcefile>webpulse-agent-0.1.tar.gz</sourcefile>
+  <sourcedir>webpulse-agent-0.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>
-  <install>bWtkaXIgL29wdC93ZWJwdWxzZS1jbGllbnQNCmNwICogL29wdC93ZWJwdWxzZS1jbGllbnQ=</install>
+  <install>bWtkaXIgL29wdC93ZWJwdWxzZS1hZ2VudA0KY3AgKiAvb3B0L3dlYnB1bHNlLWFnZW50</install>
   <dependances>
     <dependance>
       <code>python3-requests</code>
