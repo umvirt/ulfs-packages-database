@@ -888,5 +888,7 @@
     <package>python3-psutil</package>
     <package>webpulse-agent</package>
     <package>nodejs</package>
+    <package>SDL2_mixer</package>
+    <package>SDL_mixer</package>
   </packages>
 </packages>
