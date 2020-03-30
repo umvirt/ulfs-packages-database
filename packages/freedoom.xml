@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>freedoom</code>
+  <description>RnJlZURvb20gV0FEIEZpbGU=</description>
+  <sourcefile>freedoom-0.12.1.zip</sourcefile>
+  <sourcedir>freedoom-0.12.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWtkaXIgLXYgL3Vzci9zaGFyZS9nYW1lcy9kb29tDQpjcCBmcmVlZG9vbS0wLjEyLjEvZnJlZWRvb217MSwyfS53YWQgL3Vzci9zaGFyZS9nYW1lcy9kb29t</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

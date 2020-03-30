@@ -890,5 +890,9 @@
     <package>nodejs</package>
     <package>SDL2_mixer</package>
     <package>SDL_mixer</package>
+    <package>chocolate-doom</package>
+    <package>freedm</package>
+    <package>freedoom</package>
+    <package>gzdoom</package>
   </packages>
 </packages>
