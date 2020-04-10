@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libdbus-cpp</code>
+  <description>ZGJ1cy1jKysgYXR0ZW1wdHMgdG8gcHJvdmlkZSBhIEMrKyBBUEkgZm9yIEQtQlVTLiBUaGUgbGlicmFyeSBoYXMgYSBnbGliL2d0ayBhbmQgYW4gRWNvcmUgbWFpbmxvb3AgaW50ZWdyYXRpb24uIEl0IGFsc28gb2ZmZXJzIGFuIG9wdGlvbmFsIG93biBtYWluIGxvb3Au</description>
+  <sourcefile>libdbus-c++-0.9.0.tar.gz</sourcefile>
+  <sourcedir>libdbus-c++-0.9.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1kaXNhYmxlLWVjb3JlIC0tZGlzYWJsZS1nbGliIC0tZGlzYWJsZS10ZXN0cyAtLWRpc2FibGUtZXhhbXBsZXMgLS1wcmVmaXg9L3Vzcg==</configure>
+  <build/>
+  <install>aW5zdGFsbCAtdiAtZG03NTUgL3Vzci9pbmNsdWRlL2RidXMtYysrDQppbnN0YWxsIC12IC1tNjQ0IGluY2x1ZGUvZGJ1cy1jKysvKiAvdXNyL2luY2x1ZGUvZGJ1cy1jKysNCg==</install>
+  <dependances>
+    <dependance>
+      <code>popt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libsigcpp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libcppgenerate</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>dbus-c++-gcc4.7.patch</filename>
+      <mode/>
+    </patch>
+    <patch>
+      <filename>dbus-c++-threading.patch</filename>
+      <mode/>
+    </patch>
+    <patch>
+      <filename>dbus-c++-writechar.patch</filename>
+      <mode/>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>secp256k1</code>
+  <description>T3B0aW1pemVkIEMgbGlicmFyeSBmb3IgRUMgb3BlcmF0aW9ucyBvbiBjdXJ2ZSBzZWNwMjU2azE=</description>
+  <sourcefile>secp256k1-4f27e344c69c33b4f3f448baa0196b9892287081.tar.xz</sourcefile>
+  <sourcedir>secp256k1-4f27e344c69c33b4f3f448baa0196b9892287081</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

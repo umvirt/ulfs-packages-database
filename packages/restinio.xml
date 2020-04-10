@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>restinio</code>
+  <description/>
+  <sourcefile>restinio-0.6.5.tar.bz2</sourcefile>
+  <sourcedir>restinio-0.6.5</sourcedir>
+  <unpack/>
+  <configure>Y2QgZGV2DQpta2RpciBjbWFrZV9idWlsZA0KY2QgY21ha2VfYnVpbGQNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQotRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQotQlVJTERfU0hBUkVEX0xJQlM9T04gXA0KLUJVSUxEX1NUQVRJQ19MSUJTPU9GRiBcDQouLg0KDQojY21ha2UgLS1idWlsZCAuIC0tY29uZmlnIFJlbGVhc2UgLS10YXJnZXQgaW5zdGFsbA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>asio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fmt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

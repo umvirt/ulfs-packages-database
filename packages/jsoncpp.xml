@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>jsoncpp</code>
+  <description>SnNvbkNwcCBpcyBhIEMrKyBsaWJyYXJ5IHRoYXQgYWxsb3dzIG1hbmlwdWxhdGluZyBKU09OIHZhbHVlcywgaW5jbHVkaW5nIHNlcmlhbGl6YXRpb24gYW5kIGRlc2VyaWFsaXphdGlvbiB0byBhbmQgZnJvbSBzdHJpbmdzLiBJdCBjYW4gYWxzbyBwcmVzZXJ2ZSBleGlzdGluZyBjb21tZW50IGluIHVuc2VyaWFsaXphdGlvbi9zZXJpYWxpemF0aW9uIHN0ZXBzLCBtYWtpbmcgaXQgYSBjb252ZW5pZW50IGZvcm1hdCB0byBzdG9yZSB1c2VyIGlucHV0IGZpbGVzLg==</description>
+  <sourcefile>jsoncpp-1.9.2.tar.gz</sourcefile>
+  <sourcedir>jsoncpp-1.9.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
+  <build>bWFrZQ==</build>
+  <install>bWFrZSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

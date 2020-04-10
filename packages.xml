@@ -894,5 +894,23 @@
     <package>freedm</package>
     <package>freedoom</package>
     <package>gzdoom</package>
+    <package>jami-daemon</package>
+    <package>pjproject</package>
+    <package>jsoncpp</package>
+    <package>dbus-cxx</package>
+    <package>libcppgenerate</package>
+    <package>opendht</package>
+    <package>asio</package>
+    <package>secp256k1</package>
+    <package>libupnp</package>
+    <package>restinio</package>
+    <package>fmt</package>
+    <package>libdbus-cpp</package>
+    <package>cppunit</package>
+    <package>restbed</package>
+    <package>catch2</package>
+    <package>http_parser</package>
+    <package>jami-client</package>
+    <package>jami-client-gnome</package>
   </packages>
 </packages>
