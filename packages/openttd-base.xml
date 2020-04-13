@@ -9,7 +9,32 @@
   <configure/>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fluidsynth</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
