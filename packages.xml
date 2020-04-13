@@ -916,5 +916,7 @@
     <package>openttd</package>
     <package>fluid-soundfont</package>
     <package>fluidsynth</package>
+    <package>irrlicht</package>
+    <package>minetest</package>
   </packages>
 </packages>

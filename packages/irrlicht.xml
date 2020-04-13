@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>irrlicht</code>
+  <description>VGhlIElycmxpY2h0IEVuZ2luZSBpcyBhbiBvcGVuIHNvdXJjZSByZWFsdGltZSAzRCBlbmdpbmUgd3JpdHRlbiBpbiBDKysu</description>
+  <sourcefile>irrlicht-1.8.4.zip</sourcefile>
+  <sourcedir>irrlicht-1.8.4</sourcedir>
+  <unpack/>
+  <configure>Y2QgaXJybGljaHQtMS44LjQvc291cmNlL0lycmxpY2h0DQpzZWQgLWkgInMvXC91c3JcL2xvY2FsL1wvdXNyLyIgTWFrZWZpbGU=</configure>
+  <build>bWFrZSBzaGFyZWRsaWI=</build>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
