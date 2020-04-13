@@ -914,5 +914,7 @@
     <package>jami-client-gnome</package>
     <package>openttd-base</package>
     <package>openttd</package>
+    <package>fluid-soundfont</package>
+    <package>fluidsynth</package>
   </packages>
 </packages>

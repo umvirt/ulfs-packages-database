@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>fluid-soundfont</code>
+  <description>TUlESSBpbnN0cnVtZW50cw==</description>
+  <sourcefile>fluid-soundfont-3.1.tar.gz</sourcefile>
+  <sourcedir>fluid-soundfont-3.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWtkaXIgLXYgL3Vzci9zaGFyZS9zb3VuZGZvbnRzIA0KY3AgKiAvdXNyL3NoYXJlL3NvdW5kZm9udHMNCmxuIC1zIC91c3Ivc2hhcmUvc291bmRmb250cy9GbHVpZFIzX0dNLnNmMiAvdXNyL3NoYXJlL3NvdW5kZm9udHMvZGVmYXVsdC5zZjI=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

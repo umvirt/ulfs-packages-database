@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>fluidsynth</code>
+  <description>Rmx1aWRTeW50aCBpcyBhIHJlYWwtdGltZSBzb2Z0d2FyZSBzeW50aGVzaXplciBiYXNlZCBvbiB0aGUgU291bmRGb250IDIgc3BlY2lmaWNhdGlvbnMgYW5kIGhhcyByZWFjaGVkIHdpZGVzcHJlYWQgZGlzdHJpYnV0aW9uLg==</description>
+  <sourcefile>fluidsynth-2.1.1.tar.gz</sourcefile>
+  <sourcedir>fluidsynth-2.1.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQppbnN0YWxsIC12IC1tNzU1IHNyYy9saWJmbHVpZHN5bnRoLnNvKiAvdXNyL2xpYg==</install>
+  <dependances>
+    <dependance>
+      <code>dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>jack2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fluid-soundfont</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
