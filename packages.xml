@@ -922,5 +922,7 @@
     <package>SDL_image</package>
     <package>SDL2_ttf</package>
     <package>SDL_ttf</package>
+    <package>flare-engine</package>
+    <package>flare</package>
   </packages>
 </packages>
