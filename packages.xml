@@ -912,5 +912,7 @@
     <package>http_parser</package>
     <package>jami-client</package>
     <package>jami-client-gnome</package>
+    <package>openttd-base</package>
+    <package>openttd</package>
   </packages>
 </packages>

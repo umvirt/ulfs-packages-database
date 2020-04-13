@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>openttd</code>
+  <description>T3BlblRURCB3aXRoIG9wZW4gZGF0YTogbXVzaWMsIHNvdW5kcywgZ3JhcGhpY3Mu</description>
+  <sourcefile/>
+  <sourcedir/>
+  <unpack>Iw==</unpack>
+  <configure>ZWNobyBvcGVuZ2Z4LTAuNi4wLWFsbC56aXANCnVuemlwIC1vIG9wZW5nZngtMC42LjAtYWxsLnppcA0KdGFyIC0tb3ZlcndyaXRlIC14ZiBvcGVuZ2Z4LTAuNi4wLnRhcg0KZWNobyBvcGVubXN4LTAuMy4xLWFsbC56aXANCnVuemlwIC1vIG9wZW5tc3gtMC4zLjEtYWxsLnppcA0KZWNobyBvcGVuc2Z4LTAuMi4zLWFsbC56aXANCnVuemlwIC1vIG9wZW5zZngtMC4yLjMtYWxsLnppcA==</configure>
+  <build>Iw==</build>
+  <install>Y3AgLWZ2IG9wZW5nZngtMC42LjAvKiAvdXNyL3NoYXJlL2dhbWVzL29wZW50dGQvYmFzZXNldC8NCmNwIC1mdiBvcGVubXN4LTAuMy4xLyogL3Vzci9zaGFyZS9nYW1lcy9vcGVudHRkL2Jhc2VzZXQvDQpjcCAtZnYgb3BlbnNmeC0wLjIuMy8qIC91c3Ivc2hhcmUvZ2FtZXMvb3BlbnR0ZC9iYXNlc2V0Lw==</install>
+  <dependances>
+    <dependance>
+      <code>openttd-base</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>opengfx-0.6.0-all.zip</addon>
+    <addon>opensfx-0.2.3-all.zip</addon>
+    <addon>openmsx-0.3.1-all.zip</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>
