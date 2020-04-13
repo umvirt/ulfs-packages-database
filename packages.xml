@@ -918,5 +918,9 @@
     <package>fluidsynth</package>
     <package>irrlicht</package>
     <package>minetest</package>
+    <package>SDL2_image</package>
+    <package>SDL_image</package>
+    <package>SDL2_ttf</package>
+    <package>SDL_ttf</package>
   </packages>
 </packages>
