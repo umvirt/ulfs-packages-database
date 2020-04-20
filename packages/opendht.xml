@@ -31,6 +31,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>libdbus-cpp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>http_parser</code>
       <weight>0</weight>
     </dependance>
