@@ -3,10 +3,10 @@
   <release>0.1</release>
   <code>jack</code>
   <description>SkFDSyBBdWRpbyBDb25uZWN0aW9uIEtpdCA=</description>
-  <sourcefile>jack-audio-connection-kit-0.125.0.tar.gz</sourcefile>
-  <sourcedir>jack-audio-connection-kit-0.125.0</sourcedir>
+  <sourcefile>jack1-0.125.0.tar.gz</sourcefile>
+  <sourcedir>jack1-0.125.0</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tc3lzY29uZmRpcj0vZXRjICAtLWxvY2Fsc3RhdGVkaXI9L3Zhcg==</configure>
   <build/>
   <install/>
   <dependances/>

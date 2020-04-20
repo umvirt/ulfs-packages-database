@@ -27,10 +27,6 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>jack</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>speex</code>
       <weight>0</weight>
     </dependance>
