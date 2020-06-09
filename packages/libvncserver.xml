@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>libvncserver</code>
+  <description>TGliVk5DU2VydmVyL0xpYlZOQ0NsaWVudCBhcmUgY3Jvc3MtcGxhdGZvcm0gQyBsaWJyYXJpZXMgdGhhdCBhbGxvdyB5b3UgdG8gZWFzaWx5IGltcGxlbWVudCBWTkMgc2VydmVyIG9yIGNsaWVudCBmdW5jdGlvbmFsaXR5IGluIHlvdXIgcHJvZ3JhbS4g</description>
+  <sourcefile>libvncserver-LibVNCServer-0.9.12.tar.gz</sourcefile>
+  <sourcedir>libvncserver-LibVNCServer-0.9.12</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>lzo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gnutls</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

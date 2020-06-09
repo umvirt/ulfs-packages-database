@@ -924,5 +924,7 @@
     <package>SDL_ttf</package>
     <package>flare-engine</package>
     <package>flare</package>
+    <package>libvncserver</package>
+    <package>x11vnc</package>
   </packages>
 </packages>
