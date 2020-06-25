@@ -926,5 +926,10 @@
     <package>flare</package>
     <package>libvncserver</package>
     <package>x11vnc</package>
+    <package>foliate</package>
+    <package>libwpe</package>
+    <package>wpebackend</package>
+    <package>bubblewrap</package>
+    <package>xdg-dbus-proxy</package>
   </packages>
 </packages>
