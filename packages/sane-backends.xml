@@ -34,5 +34,7 @@
   <patches/>
   <addons/>
   <nestings/>
-  <comments/>
+  <comments>
+    <comment>SW5zdGFsbCBhcyByb290LiBQcm9ibGVtcyB3aXRoIGNoZ3JwIGNvbW1hbmQgb24gb3RoZXIgdXNlci4=</comment>
+  </comments>
 </package>
