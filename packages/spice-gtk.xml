@@ -8,7 +8,7 @@
   <unpack/>
   <configure/>
   <build/>
-  <install/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+PiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9zcGljeS5kZXNrdG9wIDw8IEVPRg0KW0Rlc2t0b3AgRW50cnldDQpOYW1lPVNwaWN5DQpDb21tZW50PVNQSUNFLWNsaWVudA0KRXhlYz0vdXNyL2Jpbi9zcGljeQ0KVGVybWluYWw9ZmFsc2UNClR5cGU9QXBwbGljYXRpb24NCkljb249bm9uZQ0KQ2F0ZWdvcmllcz1OZXR3b3JrDQpFT0Y=</install>
   <dependances>
     <dependance>
       <code>spice-protocol</code>

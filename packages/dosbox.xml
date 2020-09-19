@@ -8,7 +8,7 @@
   <unpack/>
   <configure/>
   <build/>
-  <install/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+PiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9kb3Nib3guZGVza3RvcCA8PCBFT0YNCltEZXNrdG9wIEVudHJ5XQ0KTmFtZT1Eb3NCb3gNCkNvbW1lbnQ9RnJlZURvcyBFbXVsYXRvcg0KRXhlYz0vdXNyL2Jpbi9kb3Nib3gNClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9U3lzdGVtDQpFT0Y=</install>
   <dependances>
     <dependance>
       <code>glu</code>

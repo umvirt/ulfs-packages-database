@@ -8,8 +8,13 @@
   <unpack/>
   <configure/>
   <build/>
-  <install/>
-  <dependances/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+PiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9zcGVjdGVtdS5kZXNrdG9wIDw8IEVPRg0KW0Rlc2t0b3AgRW50cnldDQpOYW1lPVNwZWN0RW11DQpDb21tZW50PVNpbmNsYWlyIFpYLVNwZWN0cnVtIEVtdWxhdG9yDQpFeGVjPS91c3IvYmluL2Fvc3MgL3Vzci9iaW4veHNwZWN0DQpUZXJtaW5hbD1mYWxzZQ0KVHlwZT1BcHBsaWNhdGlvbg0KSWNvbj1ub25lDQpDYXRlZ29yaWVzPVN5c3RlbQ0KRU9G</install>
+  <dependances>
+    <dependance>
+      <code>alsa-oss</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
