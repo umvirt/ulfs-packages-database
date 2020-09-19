@@ -11,6 +11,10 @@
   <install>I2Jvb3N0DQpjcCAtYSBzdGFnZWRpci97YmluLGluY2x1ZGUsc2hhcmV9IC91c3INCmNwIC1hIHN0YWdlZGlyL2xpYi8qLmEgL3Vzci9saWIvDQpjcCAtYSBzdGFnZWRpci9saWIvY21ha2UgL3Vzci9saWIvDQoNCmluc3RhbGwgLURtNjQ0IHN0YWdlZGlyL3B5dGhvbjMvbGliL2xpYmJvb3N0XyouYSAvdXNyL2xpYi8NCmNwIC1hIHN0YWdlZGlyL3B5dGhvbjMvbGliL2NtYWtlLyogL3Vzci9saWIvY21ha2UvDQpsbiAtcyAvdXNyL2Jpbi9iMiAvdXNyL2Jpbi9iamFtDQoNCiNib29zdGxpYg0KY3AgLWEgc3RhZ2VkaXIvbGliIC91c3INCmNwIC1hIHN0YWdlZGlyL3B5dGhvbjMvbGliL2xpYmJvb3N0XyogL3Vzci9saWINCg0KIyBodHRwczovL2dpdGh1Yi5jb20vYm9vc3RvcmcvcHl0aG9uL2lzc3Vlcy8yMDMjaXNzdWVjb21tZW50LTM5MTQ3NzY4NQ0KICBmb3IgX2xpYiBpbiBweXRob24gbnVtcHk7IGRvDQogICAgIGxuIC1zckwgL3Vzci9saWIvbGliYm9vc3RfJHtfbGlifXsyNyx9LnNvDQogICAgIGxuIC1zckwgL3Vzci9saWIvbGliYm9vc3RfJHtfbGlifTN7Nyx9LnNvDQogICBkb25lDQo=</install>
   <dependances>
     <dependance>
+      <code>python3</code>
+      <weight>-1</weight>
+    </dependance>
+    <dependance>
       <code>python2</code>
       <weight>0</weight>
     </dependance>

@@ -8,7 +8,7 @@
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KDQpjbWFrZSAuLiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRFVTRV9TSEFSRUQ9T04gXA0KICAgIC1EVVNFX1NUQVRJQz1PRkYNCg==</configure>
   <build/>
-  <install/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+PiAvZXRjL2xkLnNvLmNvbmYgPDwgRU9GDQovdXNyL2xpYi9vcGVuY29sbGFkYQ0KRU9GDQoNCmxkY29uZmln</install>
   <dependances>
     <dependance>
       <code>pcre</code>

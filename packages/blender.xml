@@ -83,6 +83,18 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>fftw-double</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fftw-longdouble</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fftw-quad</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>opencollada</code>
       <weight>0</weight>
     </dependance>
@@ -125,5 +137,6 @@
   <comments>
     <comment>QmFzZWQgb24gQXJjaCBMaW51eCBpbnN0cnVjdGlvbnMu</comment>
     <comment>Tm8gTnZpZGlhIENVREEgc3VwcG9ydCBpbiBkZXBlbmRlbmNpZXMu</comment>
+    <comment>SW5zdGFsbCBhcyByb290</comment>
   </comments>
 </package>
