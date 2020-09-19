@@ -15,6 +15,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>liburcu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libaio</code>
       <weight>0</weight>
     </dependance>
