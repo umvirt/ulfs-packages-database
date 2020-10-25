@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>qjoypad</code>
+  <description>VXNlIGpveXN0aWNrIGFzIG1vdXNlICYga2V5Ym9hcmQ=</description>
+  <sourcefile>qjoypad-4.1.0.tar.gz</sourcefile>
+  <sourcedir>qjoypad-4.1.0</sourcedir>
+  <unpack/>
+  <configure>Y2Qgc3JjDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments>
+    <comment>cXQ0IGlzIG5lZWRlZA==</comment>
+  </comments>
+</package>

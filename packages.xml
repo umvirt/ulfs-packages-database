@@ -931,5 +931,13 @@
     <package>wpebackend</package>
     <package>bubblewrap</package>
     <package>xdg-dbus-proxy</package>
+    <package>cups-pdf</package>
+    <package>RosBE</package>
+    <package>Markdown</package>
+    <package>subversion</package>
+    <package>opentracker</package>
+    <package>abuse-data</package>
+    <package>abuse</package>
+    <package>qjoypad</package>
   </packages>
 </packages>

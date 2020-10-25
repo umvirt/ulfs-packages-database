@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cups-pdf</code>
+  <description>VmlydHVhbCBQREYtcHJpbnRlcg==</description>
+  <sourcefile>cups-pdf_3.0.1.tar.gz</sourcefile>
+  <sourcedir>cups-pdf-3.0.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Y2Qgc3JjDQpnY2MgLU85IC1zIGN1cHMtcGRmLmMgLW8gY3Vwcy1wZGYgLWxjdXBzDQpjZCAuLg==</build>
+  <install>aW5zdGFsbCAtdiAtbTcwMCBzcmMvY3Vwcy1wZGYgL3Vzci9saWIvY3Vwcy9iYWNrZW5kDQoNCmNwIC12IGV4dHJhLyoucHBkIC91c3Ivc2hhcmUvY3Vwcy9tb2RlbA0KY3AgLXYgZXh0cmEvY3Vwcy1wZGYuY29uZiAvZXRjL2N1cHMNCg==</install>
+  <dependances>
+    <dependance>
+      <code>cupsd</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

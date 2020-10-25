@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>RosBE</code>
+  <description>UmVhY3RPUyBCdWlsZCBFbnZpcm9ubWVudA==</description>
+  <sourcefile>RosBE-Unix-2.2.1.tar.bz2</sourcefile>
+  <sourcedir>RosBE-Unix-2.2.1</sourcedir>
+  <unpack/>
+  <configure>Li9Sb3NCRS1CdWlsZGVyLnNoIC9vcHQvUm9zQkU=</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
