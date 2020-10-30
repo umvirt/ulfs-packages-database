@@ -939,5 +939,6 @@
     <package>abuse-data</package>
     <package>abuse</package>
     <package>qjoypad</package>
+    <package>bochs</package>
   </packages>
 </packages>
