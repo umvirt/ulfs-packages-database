@@ -2,18 +2,21 @@
 <package>
   <release>0.1</release>
   <code>qjoypad</code>
-  <description>VXNlIGpveXN0aWNrIGFzIG1vdXNlICYga2V5Ym9hcmQ=</description>
-  <sourcefile>qjoypad-4.1.0.tar.gz</sourcefile>
-  <sourcedir>qjoypad-4.1.0</sourcedir>
+  <description>UUpveVBhZCB0YWtlcyBpbnB1dCBmcm9tIGEgZ2FtZXBhZCBvciBqb3lzdGljayBhbmQgdHJhbnNsYXRlcyBpdCBpbnRvIGtleSBzdHJva2VzIG9yIG1vdXNlIGFjdGlvbnMsIGxldHRpbmcgeW91IGNvbnRyb2wgYW55IFhXaW5kb3dzIHByb2dyYW0gd2l0aCB5b3VyIGdhbWUgY29udHJvbGxlci4=</description>
+  <sourcefile>qjoypad-4.3.1.tar.gz</sourcefile>
+  <sourcedir>qjoypad-4.3.1</sourcedir>
   <unpack/>
-  <configure>Y2Qgc3JjDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLi4gLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNl</configure>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
-  <comments>
-    <comment>cXQ0IGlzIG5lZWRlZA==</comment>
-  </comments>
+  <comments/>
 </package>
