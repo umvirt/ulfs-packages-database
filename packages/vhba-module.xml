@@ -8,10 +8,13 @@
   <unpack/>
   <configure>Iw==</configure>
   <build/>
-  <install/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+IC9ldGMvdWRldi9ydWxlcy5kLzY5LXZoYmEucnVsZXMgPDwgIkVPRiINCktFUk5FTD09InZoYmFfY3RsIiwgU1VCU1lTVEVNPT0ibWlzYyIsIE1PREU9IjA2NjAiLCBHUk9VUD0iY2Ryb20iDQpFT0YNCg0KY2F0ID4gIC9ldGMvbW9kdWxlcy1sb2FkLmQvdmhiYS5jb25mIDw8ICJFT0YiDQp2aGJhDQpFT0Y=</install>
   <dependances/>
   <patches/>
   <addons/>
   <nestings/>
-  <comments/>
+  <comments>
+    <comment>UGxhY2UgdXNlciBpbiAiY2Ryb20iIGdyb3VwIHRvIHBlcm1pdCB2aXJ0dWFsIGRpc2sgZHJpdmUgYWNjZXNz</comment>
+    <comment>QnVnOiBLZXJuZWwgcGFuaWMgZGV0ZWN0ZWQgb24gNS42LjE0IHVzZSBrZXJuZWwgNS4yLjkgaW5zdGVhZC4=</comment>
+  </comments>
 </package>
