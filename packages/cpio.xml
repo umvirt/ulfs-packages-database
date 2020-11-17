@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>cpio</code>
+  <description>VGhlIGNwaW8gcGFja2FnZSBjb250YWlucyB0b29scyBmb3IgYXJjaGl2aW5nLiA=</description>
+  <sourcefile>cpio-2.12.tar.bz2</sourcefile>
+  <sourcedir>cpio-2.12</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWJpbmRpcj0vYmluIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLW10ICAgXA0KICAgICAgICAgICAgLS13aXRoLXJtdD0vdXNyL2xpYmV4ZWMvcm10</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

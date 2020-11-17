@@ -940,5 +940,9 @@
     <package>abuse</package>
     <package>qjoypad</package>
     <package>bochs</package>
+    <package>hdparm</package>
+    <package>cpio</package>
+    <package>squashfs</package>
+    <package>aufs-util</package>
   </packages>
 </packages>

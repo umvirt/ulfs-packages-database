@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>aufs-util</code>
+  <description/>
+  <sourcefile>aufs-util-5.x.tar.gz</sourcefile>
+  <sourcedir>aufs-util-5.x</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments>
+    <comment>UGF0Y2hlZCBrZXJuZWwgaXMgbmVlZGVk</comment>
+  </comments>
+</package>
