@@ -14,5 +14,6 @@
     <command>add_java64</command>
     <command>buildrust</command>
     <command>audacity_install</command>
+    <command>add_fasm</command>
   </commands>
 </packages>
