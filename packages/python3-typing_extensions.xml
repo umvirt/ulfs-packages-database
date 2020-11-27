@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python3-typing_extensions</code>
+  <description>VHlwaW5nIEV4dGVuc2lvbnMg4oCTIEJhY2twb3J0ZWQgYW5kIEV4cGVyaW1lbnRhbCBUeXBlIEhpbnRzIGZvciBQeXRob24=</description>
+  <sourcefile>typing_extensions-3.7.4.3.tar.gz</sourcefile>
+  <sourcedir>typing_extensions-3.7.4.3</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

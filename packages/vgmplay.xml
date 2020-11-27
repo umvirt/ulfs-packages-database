@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>vgmplay</code>
+  <description>VmlkZW8gR2FtZSBNdXNpYyAoVkdNKSBwbGF5ZXIgJiBjb252ZXJ0b3I=</description>
+  <sourcefile>vgmplay-0.40.9.tar.gz</sourcefile>
+  <sourcedir>vgmplay-0.40.9</sourcedir>
+  <unpack/>
+  <configure>Y2QgVkdNUGxheQ0Kc2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIE1ha2VmaWxl</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libao</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

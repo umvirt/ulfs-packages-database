@@ -944,5 +944,27 @@
     <package>cpio</package>
     <package>squashfs</package>
     <package>aufs-util</package>
+    <package>vgmplay</package>
+    <package>dynamips</package>
+    <package>ubridge</package>
+    <package>vpcs</package>
+    <package>gns3-server</package>
+    <package>python3-py-cpuinfo</package>
+    <package>python3-distro</package>
+    <package>python3-async-timeout</package>
+    <package>python3-sentry-sdk</package>
+    <package>python3-aiofiles</package>
+    <package>python3-aiohttp-cors</package>
+    <package>python3-aiohttp</package>
+    <package>python3-yarl</package>
+    <package>python3-attrs</package>
+    <package>python3-typing_extensions</package>
+    <package>python3-multidict</package>
+    <package>python3-jsonschema</package>
+    <package>python3-zipp</package>
+    <package>python3-importlib_metadata</package>
+    <package>python3-toml</package>
+    <package>python3-more-itertools</package>
+    <package>python3-pyrsistent</package>
   </packages>
 </packages>

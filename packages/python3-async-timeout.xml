@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python3-async-timeout</code>
+  <description>VGltZW91dCBjb250ZXh0IG1hbmFnZXIgZm9yIGFzeW5jaW8gcHJvZ3JhbXM=</description>
+  <sourcefile>async-timeout-3.0.1.tar.gz</sourcefile>
+  <sourcedir>async-timeout-3.0.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

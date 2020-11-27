@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>python3-attrs</code>
+  <description>YXR0cnMgaXMgdGhlIFB5dGhvbiBwYWNrYWdlIHRoYXQgd2lsbCBicmluZyBiYWNrIHRoZSBqb3kgb2Ygd3JpdGluZyBjbGFzc2VzIGJ5IHJlbGlldmluZyB5b3UgZnJvbSB0aGUgZHJ1ZGdlcnkgb2YgaW1wbGVtZW50aW5nIG9iamVjdCBwcm90b2NvbHMgKGFrYSBkdW5kZXIgbWV0aG9kcyku</description>
+  <sourcefile>attrs-20.3.0.tar.gz</sourcefile>
+  <sourcedir>attrs-20.3.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
