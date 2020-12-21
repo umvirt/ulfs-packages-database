@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>emu80</code>
+  <description>U292aWV0IHJldHJvIGNvbXB1dGVyIGVtdWxhdG9y</description>
+  <sourcefile>emu80v4-4.0.346.tar.gz</sourcefile>
+  <sourcedir>emu80v4-4.0.346</sourcedir>
+  <unpack/>
+  <configure>cW1ha2Ugc3JjL0VtdTgwcXQucHJv</configure>
+  <build>bWFrZQ==</build>
+  <install>bWtkaXIgL29wdC9lbXU4MA0KY3AgLXJ2IGRpc3QvKiAvb3B0L2VtdTgwDQpjcCAtdiBFbXU4MHF0IC9vcHQvZW11ODANCmNhdCA+PiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9lbXU4MC5kZXNrdG9wIDw8IEVPRg0KW0Rlc2t0b3AgRW50cnldDQpOYW1lPUVtdTgwDQpDb21tZW50PVNvdmlldCByZXRybyBjb21wdXRlciBlbXVsYXRvcg0KRXhlYz0vb3B0L2VtdTgwL0VtdTgwcXQNClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9VXRpbGl0eQ0KRU9G</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

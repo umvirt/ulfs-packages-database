@@ -966,5 +966,10 @@
     <package>python3-toml</package>
     <package>python3-more-itertools</package>
     <package>python3-pyrsistent</package>
+    <package>c-ares</package>
+    <package>quagga</package>
+    <package>gle</package>
+    <package>xscreensaver-extra</package>
+    <package>emu80</package>
   </packages>
 </packages>
