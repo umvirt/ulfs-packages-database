@@ -971,5 +971,9 @@
     <package>gle</package>
     <package>xscreensaver-extra</package>
     <package>emu80</package>
+    <package>florence</package>
+    <package>aria2</package>
+    <package>esco</package>
+    <package>bfc</package>
   </packages>
 </packages>

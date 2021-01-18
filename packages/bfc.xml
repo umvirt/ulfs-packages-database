@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>bfc</code>
+  <description>YnJhaW5mdWNrIHRvIGMgdHJhbnNsYXRvcg==</description>
+  <sourcefile>bfc-45de468f7691704116de2733de5b658b325a6cf4.tar.bz2</sourcefile>
+  <sourcedir>bfc-45de468f7691704116de2733de5b658b325a6cf4</sourcedir>
+  <unpack/>
+  <configure>Li9ib290c3RyYXANCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

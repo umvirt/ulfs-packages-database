@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>esco</code>
+  <description>SW50ZXJwcmV0ZXIgYWJsZSB0bw0KZXhlY3V0ZSBlc290ZXJpYyBsYW5ndWFnZXM=</description>
+  <sourcefile>esco-0.513.tar.gz</sourcefile>
+  <sourcedir>esco-0.513</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
