@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>xmoto</code>
+  <description>WC1Nb3RvIGlzIGEgY2hhbGxlbmdpbmcgMkQgbW90b2Nyb3NzIHBsYXRmb3JtIGdhbWUsIHdoZXJlIHBoeXNpY3MgcGxheXMgYW4gYWxsIGltcG9ydGFudCByb2xlIGluIHRoZSBnYW1lcGxheS4gWW91IG5lZWQgdG8gY29udHJvbCB5b3VyIGJpa2UgdG8gaXRzIGxpbWl0cywgaWYgeW91IHdhbnQgdG8gaGF2ZSBhIGNoYW5jZSB0byBmaW5pc2ggdGhlIG1vc3QgZGlmZmljdWx0IGNoYWxsZW5nZXMuIA==</description>
+  <sourcefile>xmoto-0.6.1.tar.gz</sourcefile>
+  <sourcedir>xmoto-0.6.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

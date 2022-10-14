@@ -975,5 +975,10 @@
     <package>aria2</package>
     <package>esco</package>
     <package>bfc</package>
+    <package>xsane</package>
+    <package>cool-retro-term</package>
+    <package>djview</package>
+    <package>xmoto</package>
+    <package>xdiskusage</package>
   </packages>
 </packages>
