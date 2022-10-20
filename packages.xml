@@ -980,5 +980,6 @@
     <package>djview</package>
     <package>xmoto</package>
     <package>xdiskusage</package>
+    <package>clamav</package>
   </packages>
 </packages>

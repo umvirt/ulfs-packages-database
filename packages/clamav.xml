@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>clamav</code>
+  <description>QW50aXZpcnVz</description>
+  <sourcefile>clamav-0.103.7.tar.gz</sourcefile>
+  <sourcedir>clamav-0.103.7</sourcedir>
+  <unpack/>
+  <configure>dXNlcmFkZCAtYyAiQ2xhbUFWIFNlcnZpY2UgVXNlciIgLWQgL3Zhci9saWIvY2xhbWF2LyAtcyAvYmluL2ZhbHNlIC11IDY0IGNsYW1hdg0KDQpta2RpciBidWlsZA0KY2QgYnVpbGQNCg0KY21ha2UgXA0KICAgIC1EQ01BS0VfQlVJTERfVFlQRT0nTm9uZScgXA0KICAgIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgLURDTUFLRV9JTlNUQUxMX1NCSU5ESVI9YmluIFwNCiAgICAtREFQUF9DT05GSUdfRElSRUNUT1JZPS9ldGMvY2xhbWF2IFwNCiAgICAtRERBVEFCQVNFX0RJUkVDVE9SWT0vdmFyL2xpYi9jbGFtYXYgXA0KICAgIC1EQ01BS0VfSU5TVEFMTF9MSUJESVI9L3Vzci9saWIgXA0KICAgIC1EQ01BS0VfSU5TVEFMTF9GVUxMX0xJQkRJUj0vdXNyL2xpYiBcDQogICAgLi4=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
