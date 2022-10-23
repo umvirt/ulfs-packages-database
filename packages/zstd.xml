@@ -3,8 +3,8 @@
   <release>0.1</release>
   <code>zstd</code>
   <description>WnN0YW5kYXJkIC0gRmFzdCByZWFsLXRpbWUgY29tcHJlc3Npb24gYWxnb3JpdGht</description>
-  <sourcefile>zstd-1.4.4.tar.gz</sourcefile>
-  <sourcedir>zstd-1.4.4</sourcedir>
+  <sourcefile>zstd-1.5.2.tar.gz</sourcefile>
+  <sourcedir>zstd-1.5.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZQ0KbWFrZSB6c3RkbXQNCm1ha2UgLUMgY29udHJpYi9wenN0ZA0KDQo=</build>
