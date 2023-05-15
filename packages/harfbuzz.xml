@@ -6,7 +6,7 @@
   <sourcefile>harfbuzz-1.8.8.tar.bz2</sourcefile>
   <sourcedir>harfbuzz-1.8.8</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtZ29iamVjdCAtLXdpdGgtZ3JhcGhpdGUy</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS13aXRoLWdvYmplY3QgLS13aXRoLWdyYXBoaXRlMiAkQVJHX1NUQVRJQw0K</configure>
   <build/>
   <install/>
   <dependances>

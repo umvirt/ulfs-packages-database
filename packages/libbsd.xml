@@ -3,13 +3,18 @@
   <release>0.1</release>
   <code>libbsd</code>
   <description>dXRpbGl0eSBmdW5jdGlvbnMgZnJvbSBCU0Qgc3lzdGVtcw==</description>
-  <sourcefile>libbsd-0.10.0.tar.xz</sourcefile>
-  <sourcedir>libbsd-0.10.0</sourcedir>
+  <sourcefile>libbsd-0.11.7.tar.xz</sourcefile>
+  <sourcedir>libbsd-0.11.7</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>libmd</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

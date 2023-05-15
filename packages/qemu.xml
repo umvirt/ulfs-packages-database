@@ -19,6 +19,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>SDL2</code>
       <weight>0</weight>
     </dependance>

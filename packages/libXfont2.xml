@@ -6,7 +6,7 @@
   <sourcefile>libXfont2-2.0.3.tar.bz2</sourcefile>
   <sourcedir>libXfont2-2.0.3</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0tZGlzYWJsZS1kZXZlbC1kb2Nz</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlICRYT1JHX0NPTkZJRyAkQVJHX1NUQVRJQyAtLWRpc2FibGUtZGV2ZWwtZG9jcw==</configure>
   <build/>
   <install/>
   <dependances/>

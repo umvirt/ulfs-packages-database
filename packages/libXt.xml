@@ -6,7 +6,7 @@
   <sourcefile>libXt-1.1.5.tar.bz2</sourcefile>
   <sourcedir>libXt-1.1.5</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIFwNCiAgICAgICAgICAgICAgICAgIC0td2l0aC1hcHBkZWZhdWx0ZGlyPS9ldGMvWDExL2FwcC1kZWZhdWx0cw==</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDIFwNCiAgICAgICAgICAgICAgICAgIC0td2l0aC1hcHBkZWZhdWx0ZGlyPS9ldGMvWDExL2FwcC1kZWZhdWx0cw==</configure>
   <build/>
   <install/>
   <dependances/>

@@ -6,7 +6,7 @@
   <sourcefile>libunistring-0.9.10.tar.xz</sourcefile>
   <sourcedir>libunistring-0.9.10</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnVuaXN0cmluZy0wLjkuMTA=</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgICAgICBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9saWJ1bmlzdHJpbmctMC45LjEw</configure>
   <build/>
   <install/>
   <dependances/>

@@ -6,7 +6,7 @@
   <sourcefile>libFS-1.0.7.tar.bz2</sourcefile>
   <sourcedir>libFS-1.0.7</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElD</configure>
   <build/>
   <install/>
   <dependances/>

@@ -27,6 +27,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>pcre2</code>
       <weight>0</weight>
     </dependance>

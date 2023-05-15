@@ -6,7 +6,7 @@
   <sourcefile>gobject-introspection-1.56.1.tar.xz</sourcefile>
   <sourcedir>gobject-introspection-1.56.1</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0td2l0aC1weXRob249L3Vzci9iaW4vcHl0aG9uMw==</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS13aXRoLXB5dGhvbj0vdXNyL2Jpbi9weXRob24z</configure>
   <build/>
   <install/>
   <dependances>

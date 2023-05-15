@@ -6,7 +6,7 @@
   <sourcefile>libuv-v1.28.0.tar.gz</sourcefile>
   <sourcedir>libuv-v1.28.0</sourcedir>
   <unpack/>
-  <configure>c2ggYXV0b2dlbi5zaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWM=</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0Kc2ggYXV0b2dlbi5zaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElD</configure>
   <build/>
   <install/>
   <dependances/>

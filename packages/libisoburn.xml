@@ -6,7 +6,7 @@
   <sourcefile>libisoburn-1.4.8.tar.gz</sourcefile>
   <sourcedir>libisoburn-1.4.8</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtcGtnLWNoZWNrLW1vZHVsZXM=</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1wa2ctY2hlY2stbW9kdWxlcw==</configure>
   <build/>
   <install/>
   <dependances>
