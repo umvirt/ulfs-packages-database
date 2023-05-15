@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>netcat-openbsd</code>
+  <description>TmV0Y2F0IE9wZW5CU0QgdmVyc2lvbiBwYXRjaGVkIGJ5IERlYmlhbiBtYWludGFpbmVycw==</description>
+  <sourcefile>netcat-openbsd-debian-1.218.tar.gz</sourcefile>
+  <sourcedir>netcat-openbsd-debian-1.218</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZQ==</build>
+  <install>aW5zdGFsbCAtRG0wNzU1IG5jIC91c3IvYmluLw==</install>
+  <dependances>
+    <dependance>
+      <code>libmd</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

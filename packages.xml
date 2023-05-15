@@ -981,5 +981,8 @@
     <package>xmoto</package>
     <package>xdiskusage</package>
     <package>clamav</package>
+    <package>libmd</package>
+    <package>netcat-openbsd</package>
+    <package>zlib</package>
   </packages>
 </packages>
