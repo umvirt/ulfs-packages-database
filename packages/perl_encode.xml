@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl_encode</code>
+  <description>TW9kdWxlIHByb3ZpZGVzIHRoZSBpbnRlcmZhY2UgYmV0d2VlbiBQZXJsIHN0cmluZ3MgYW5kIHRoZSByZXN0IG9mIHRoZSBzeXN0ZW0u</description>
+  <sourcefile>Encode-3.19.tar.gz</sourcefile>
+  <sourcedir>Encode-3.19</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

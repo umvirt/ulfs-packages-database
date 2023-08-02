@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-date-manip</code>
+  <description>U2VyaWVzIG9mIG1vZHVsZXMgZGVzaWduZWQgdG8gbWFrZSBhbnkgY29tbW9uIGRhdGUvdGltZSBvcGVyYXRpb24gZWFzeSB0byBkby4=</description>
+  <sourcefile>Date-Manip-6.92.tar.gz</sourcefile>
+  <sourcedir>Date-Manip-6.92</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>perl-test-inter</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-uri</code>
+  <description>VW5pZm9ybSBSZXNvdXJjZSBJZGVudGlmaWVycyAoYWJzb2x1dGUgYW5kIHJlbGF0aXZlKQ==</description>
+  <sourcefile>URI-5.19.tar.gz</sourcefile>
+  <sourcedir>URI-5.19</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

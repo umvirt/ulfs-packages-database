@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-test-fatal</code>
+  <description>SW5jcmVkaWJseSBzaW1wbGUgaGVscGVycyBmb3IgdGVzdGluZyBjb2RlIHdpdGggZXhjZXB0aW9ucw==</description>
+  <sourcefile>Test-Fatal-0.017.tar.gz</sourcefile>
+  <sourcedir>Test-Fatal-0.017</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>perl-try-tiny</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

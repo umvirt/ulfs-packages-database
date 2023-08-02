@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-test-inter</code>
+  <description>RnJhbWV3b3JrIGZvciBtb3JlIHJlYWRhYmxlIGludGVyYWN0aXZlIHRlc3Qgc2NyaXB0cw==</description>
+  <sourcefile>Test-Inter-1.10.tar.gz</sourcefile>
+  <sourcedir>Test-Inter-1.10</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

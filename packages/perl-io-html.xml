@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-io-html</code>
+  <description>T3BlbiBhbiBIVE1MIGZpbGUgd2l0aCBhdXRvbWF0aWMgY2hhcnNldCBkZXRlY3Rpb24=</description>
+  <sourcefile>IO-HTML-1.004.tar.gz</sourcefile>
+  <sourcedir>IO-HTML-1.004</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-b-cow</code>
+  <description>QWRkaXRpb25hbCBCIGhlbHBlcnMgdG8gY2hlY2sgQ09XIHN0YXR1cy4=</description>
+  <sourcefile>B-COW-0.007.tar.gz</sourcefile>
+  <sourcedir>B-COW-0.007</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

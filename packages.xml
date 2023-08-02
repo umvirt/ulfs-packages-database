@@ -984,5 +984,28 @@
     <package>libmd</package>
     <package>netcat-openbsd</package>
     <package>zlib</package>
+    <package>zoneminder</package>
+    <package>perl-dbi</package>
+    <package>perl-devel-checklib</package>
+    <package>perl-dbd-mysql</package>
+    <package>perl-test-inter</package>
+    <package>perl-date-manip</package>
+    <package>perl-libwww</package>
+    <package>perl-http-message</package>
+    <package>perl-clone</package>
+    <package>perl-b-cow</package>
+    <package>perl_encode</package>
+    <package>perl_encode_locale</package>
+    <package>perl_http_date</package>
+    <package>perl-time-local</package>
+    <package>perl-timedate</package>
+    <package>perl-io-html</package>
+    <package>perl-lwp-medatypes</package>
+    <package>perl-test-fatal</package>
+    <package>perl-try-tiny</package>
+    <package>perl-test-needs</package>
+    <package>perl-uri</package>
+    <package>perl-sys-mmap</package>
+    <package>libjwt</package>
   </packages>
 </packages>

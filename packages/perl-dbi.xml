@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.1</release>
+  <code>perl-dbi</code>
+  <description>RGF0YWJhc2UgYWNjZXNzIG1vZHVsZSBmb3IgdGhlIFBlcmwgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2Uu</description>
+  <sourcefile>DBI-1.643.tar.gz</sourcefile>
+  <sourcedir>DBI-1.643</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
