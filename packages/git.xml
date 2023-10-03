@@ -11,7 +11,7 @@
   <install/>
   <dependances>
     <dependance>
-      <code>harfbuzz</code>
+      <code>curl</code>
       <weight>0</weight>
     </dependance>
   </dependances>
