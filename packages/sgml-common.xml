@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>sgml-common</code>
+  <description>VGhlIFNHTUwgQ29tbW9uIHBhY2thZ2UgY29udGFpbnMgaW5zdGFsbC1jYXRhbG9nLiBUaGlzIGlzIHVzZWZ1bCBmb3IgY3JlYXRpbmcgYW5kIG1haW50YWluaW5nIGNlbnRyYWxpemVkIFNHTUwgY2F0YWxvZ3Mu</description>
+  <sourcefile>sgml-common-0.6.3.tgz</sourcefile>
+  <sourcedir>sgml-common-0.6.3</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZiAtaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tc3lzY29uZmRpcj0vZXRjIA0K</configure>
+  <build/>
+  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MgaW5zdGFsbCANCg0KaW5zdGFsbC1jYXRhbG9nIC0tYWRkIC9ldGMvc2dtbC9zZ21sLWVudC5jYXQgXA0KICAgIC91c3Ivc2hhcmUvc2dtbC9zZ21sLWlzby1lbnRpdGllcy04ODc5LjE5ODYvY2F0YWxvZyAmJg0KDQppbnN0YWxsLWNhdGFsb2cgLS1hZGQgL2V0Yy9zZ21sL3NnbWwtZG9jYm9vay5jYXQgXA0KICAgIC9ldGMvc2dtbC9zZ21sLWVudC5jYXQ=</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>sgml-common-0.6.3-manpage-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <release>0.2</release>
+  <packages>
+    <package>wget</package>
+    <package>libxml2</package>
+    <package>icu</package>
+    <package>libxslt</package>
+    <package>docbook-xml</package>
+    <package>sgml-common</package>
+    <package>unzip</package>
+    <package>docbook-xsl-nons</package>
+    <package>glib</package>
+    <package>pcre2</package>
+    <package>slang</package>
+    <package>gpm</package>
+    <package>pcre</package>
+    <package>zip</package>
+    <package>libssh2</package>
+    <package>mc</package>
+    <package>nano</package>
+    <package>blfs-systemd-units</package>
+    <package>openssh</package>
+  </packages>
+</packages>

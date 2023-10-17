@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>unzip</code>
+  <description>VGhlIFVuWmlwIHBhY2thZ2UgY29udGFpbnMgWklQIGV4dHJhY3Rpb24gdXRpbGl0aWVzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBleHRyYWN0aW5nIGZpbGVzIGZyb20gWklQIGFyY2hpdmVzLiBaSVAgYXJjaGl2ZXMgYXJlIGNyZWF0ZWQgd2l0aCBQS1pJUCBvciBJbmZvLVpJUCB1dGlsaXRpZXMsIHByaW1hcmlseSBpbiBhIERPUyBlbnZpcm9ubWVudC4=</description>
+  <sourcefile>unzip60.tar.gz</sourcefile>
+  <sourcedir>unzip60</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtZiB1bml4L01ha2VmaWxlIGdlbmVyaWM=</build>
+  <install>bWFrZSBwcmVmaXg9L3VzciBNQU5ESVI9L3Vzci9zaGFyZS9tYW4vbWFuMSBcDQogLWYgdW5peC9NYWtlZmlsZSBpbnN0YWxs</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>unzip-6.0-consolidated_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

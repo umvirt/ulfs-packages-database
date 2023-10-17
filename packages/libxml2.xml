@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libxml2</code>
+  <description>VGhlIGxpYnhtbDIgcGFja2FnZSBjb250YWlucyBsaWJyYXJpZXMgYW5kIHV0aWxpdGllcyB1c2VkIGZvciBwYXJzaW5nIFhNTCBmaWxlcy4=</description>
+  <sourcefile>libxml2-2.10.4.tar.xz</sourcefile>
+  <sourcedir>libxml2-2.10.4</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCg0KdGFyIHhmIC4uL3htbHRzMjAxMzA5MjMudGFyLmd6DQoNCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1oaXN0b3J5ICAgICAgICAgIFwNCiAgICAgICAgICAgIFBZVEhPTj0vdXNyL2Jpbi9weXRob24zIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnhtbDItMi4xMC40</configure>
+  <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoNCnN5c3RlbWN0bCBzdG9wIGh0dHBkLnNlcnZpY2UNCm1ha2UgY2hlY2sNCg0KZmk=</build>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>icu</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>xmlts20130923.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>openssh</code>
+  <description>VGhlIE9wZW5TU0ggcGFja2FnZSBjb250YWlucyBzc2ggY2xpZW50cyBhbmQgdGhlIHNzaGQgZGFlbW9uLiBUaGlzIGlzIHVzZWZ1bCBmb3IgZW5jcnlwdGluZyBhdXRoZW50aWNhdGlvbiBhbmQgc3Vic2VxdWVudCB0cmFmZmljIG92ZXIgYSBuZXR3b3JrLiBUaGUgc3NoIGFuZCBzY3AgY29tbWFuZHMgYXJlIHNlY3VyZSBpbXBsZW1lbnRhdGlvbnMgb2YgdGVsbmV0IGFuZCByY3AgcmVzcGVjdGl2ZWx5Lg==</description>
+  <sourcefile>openssh-9.4p1.tar.gz</sourcefile>
+  <sourcedir>openssh-9.4p1</sourcedir>
+  <unpack/>
+  <configure>aW5zdGFsbCAtdiAtZyBzeXMgLW03MDAgLWQgL3Zhci9saWIvc3NoZCAmJg0KDQpncm91cGFkZCAtZyA1MCBzc2hkICAgICAgICAmJg0KdXNlcmFkZCAgLWMgJ3NzaGQgUHJpdlNlcCcgXA0KICAgICAgICAgLWQgL3Zhci9saWIvc3NoZCAgXA0KICAgICAgICAgLWcgc3NoZCAgICAgICAgICAgXA0KICAgICAgICAgLXMgL2Jpbi9mYWxzZSAgICAgXA0KICAgICAgICAgLXUgNTAgc3NoZA0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjL3NzaCAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXByaXZzZXAtcGF0aD0vdmFyL2xpYi9zc2hkICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtZGVmYXVsdC1wYXRoPS91c3IvYmluICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zdXBlcnVzZXItcGF0aD0vdXNyL3NiaW46L3Vzci9iaW4gXA0KICAgICAgICAgICAgLS13aXRoLXBpZC1kaXI9L3J1bg0K</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNzU1ICAgIGNvbnRyaWIvc3NoLWNvcHktaWQgL3Vzci9iaW4gICAgICYmDQoNCmluc3RhbGwgLXYgLW02NDQgICAgY29udHJpYi9zc2gtY29weS1pZC4xIFwNCiAgICAgICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9tYW4vbWFuMSAgICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLW03NTUgLWQgL3Vzci9zaGFyZS9kb2Mvb3BlbnNzaC05LjRwMSAgICAgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgSU5TVEFMTCBMSUNFTkNFIE9WRVJWSUVXIFJFQURNRSogXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9vcGVuc3NoLTkuNHAx</install>
+  <dependances>
+    <dependance>
+      <code>blfs-systemd-units</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>pcre2</code>
+  <description>VGhlIFBDUkUyIHBhY2thZ2UgY29udGFpbnMgYSBuZXcgZ2VuZXJhdGlvbiBvZiB0aGUgUGVybCBDb21wYXRpYmxlIFJlZ3VsYXIgRXhwcmVzc2lvbiBsaWJyYXJpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGltcGxlbWVudGluZyByZWd1bGFyIGV4cHJlc3Npb24gcGF0dGVybiBtYXRjaGluZyB1c2luZyB0aGUgc2FtZSBzeW50YXggYW5kIHNlbWFudGljcyBhcyBQZXJsLg0K</description>
+  <sourcefile>pcre2-10.42.tar.bz2</sourcefile>
+  <sourcedir>pcre2-10.42</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3BjcmUyLTEwLjQyIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXVuaWNvZGUgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWppdCAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXBjcmUyLTE2ICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXBjcmUyLTMyICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXBjcmUyZ3JlcC1saWJ6ICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXBjcmUyZ3JlcC1saWJiejIgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXBjcmUydGVzdC1saWJyZWFkbGluZSAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgICAgICAgICAgICA=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
