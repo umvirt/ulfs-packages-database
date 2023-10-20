@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>make-ca</code>
+  <description>bWFrZS1jYSBpcyBhIHV0aWxpdHkgdG8gZGVsaXZlciBhbmQgbWFuYWdlIGEgY29tcGxldGUgUEtJIGNvbmZpZ3VyYXRpb24gZm9yDQp3b3Jrc3RhdGlvbnMgYW5kIHNlcnZlcnMgdXNpbmcgb25seSBzdGFuZGFyZCBVbml4IHV0aWxpdGllcywgT3BlblNTTCwgYW5kDQpwMTEta2l0LCB1c2luZyBhIE1vemlsbGEgY2FjZXJ0cy50eHQgb3IgbGlrZSBmaWxlIGFzIHRoZSB0cnVzdCBzb3VyY2Uu</description>
+  <sourcefile>make-ca-1.12.tar.xz</sourcefile>
+  <sourcedir>make-ca-1.12</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Z3VuemlwIC1rIC4uL2NlcnRkYXRhLnR4dC5neg0KY3AgLXYgLi4vY2VydGRhdGEudHh0IC9ldGMvc3NsDQoNCm1ha2UgaW5zdGFsbCAmJg0KaW5zdGFsbCAtdmRtNzU1IC9ldGMvc3NsL2xvY2FsDQoNCi91c3Ivc2Jpbi9tYWtlLWNhIC1yIC0tZm9yY2U=</install>
+  <dependances>
+    <dependance>
+      <code>p11-kit</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>certdata.txt.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

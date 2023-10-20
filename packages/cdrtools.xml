@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>cdrtools</code>
+  <description>VGhlIENkcnRvb2xzIHBhY2thZ2UgY29udGFpbnMgQ0QgcmVjb3JkaW5nIHV0aWxpdGllcy4gVGhlc2UgYXJlIHVzZWZ1bCBmb3IgcmVhZGluZywgY3JlYXRpbmcgb3Igd3JpdGluZyAoYnVybmluZykgQ0RzLCBEVkRzLCBhbmQgQmx1LXJheSBkaXNjcy4=</description>
+  <sourcefile>cdrtools-3.02a09.tar.bz2</sourcefile>
+  <sourcedir>cdrtools-3.02</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>ZXhwb3J0IEdNQUtFX05PV0FSTj10cnVlICYmDQptYWtlIC1qMSBJTlNfQkFTRT0vdXNyIERFRklOU1VTUj1yb290IERFRklOU0dSUD1yb290</build>
+  <install>ZXhwb3J0IEdNQUtFX05PV0FSTj10cnVlICYmDQptYWtlIElOU19CQVNFPS91c3IgREVGSU5TVVNSPXJvb3QgREVGSU5TR1JQPXJvb3QgaW5zdGFsbCAmJg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy9jZHJ0b29scy0zLjAyYTA5ICYmDQppbnN0YWxsIC12IC1tNjQ0IFJFQURNRSogQUJPVVQgZG9jLyoucHMgXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9jZHJ0b29scy0zLjAyYTA5DQo=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

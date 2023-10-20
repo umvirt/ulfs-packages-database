@@ -21,5 +21,22 @@
     <package>nano</package>
     <package>blfs-systemd-units</package>
     <package>openssh</package>
+    <package>make-ca</package>
+    <package>libtasn1</package>
+    <package>p11-kit</package>
+    <package>libevent</package>
+    <package>links</package>
+    <package>asciidoc</package>
+    <package>xmlto</package>
+    <package>curl</package>
+    <package>git</package>
+    <package>popt</package>
+    <package>rsync</package>
+    <package>p7zip</package>
+    <package>libisofs</package>
+    <package>libburn</package>
+    <package>libisoburn</package>
+    <package>cdrtools</package>
+    <package>dvdrw-tools</package>
   </packages>
 </packages>

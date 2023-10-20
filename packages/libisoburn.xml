@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libisoburn</code>
+  <description>bGliaXNvYnVybiBpcyBhIGZyb250ZW5kIGZvciBsaWJyYXJpZXMgbGliYnVybiBhbmQgbGliaXNvZnMgd2hpY2ggZW5hYmxlcyBjcmVhdGlvbiBhbmQgZXhwYW5zaW9uIG9mIElTTy05NjYwIGZpbGVzeXN0ZW1zIG9uIGFsbCBDRC9EVkQvQkQgbWVkaWEgc3VwcG9ydGVkIGJ5IGxpYmJ1cm4uIFRoaXMgaW5jbHVkZXMgbWVkaWEgbGlrZSBEVkQrUlcsIHdoaWNoIGRvIG5vdCBzdXBwb3J0IG11bHRpLXNlc3Npb24gbWFuYWdlbWVudCBvbiBtZWRpYSBsZXZlbCBhbmQgZXZlbiBwbGFpbiBkaXNrIGZpbGVzIG9yIGJsb2NrIGRldmljZXMu</description>
+  <sourcefile>libisoburn-1.5.6.tar.gz</sourcefile>
+  <sourcedir>libisoburn-1.5.6</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1wa2ctY2hlY2stbW9kdWxlcw==</configure>
+  <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmRveHlnZW4gZG9jL2RveHlnZW4uY29uZg0KDQpmaQ==</build>
+  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICJcJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLWRtNzU1IC91c3Ivc2hhcmUvZG9jL2xpYmlzb2J1cm4tMS41LjYgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2h0bWwvKiAvdXNyL3NoYXJlL2RvYy9saWJpc29idXJuLTEuNS42NS4NCg0KZmk=</install>
+  <dependances>
+    <dependance>
+      <code>libisofs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libburn</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libburn</code>
+  <description>bGliYnVybiBpcyBhIGxpYnJhcnkgZm9yIHdyaXRpbmcgcHJlZm9ybWF0dGVkIGRhdGEgb250byBvcHRpY2FsIG1lZGlhOiBDRCwgRFZEIGFuZCBCRCAoQmx1LVJheSku</description>
+  <sourcefile>libburn-1.5.6.tar.gz</sourcefile>
+  <sourcedir>libburn-1.5.6</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
+  <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmRveHlnZW4gZG9jL2RveHlnZW4uY29uZg0KDQpmaQ0K</build>
+  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICJcJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLWRtNzU1IC91c3Ivc2hhcmUvZG9jL2xpYmJ1cm4tMS41LjYgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2h0bWwvKiAvdXNyL3NoYXJlL2RvYy9saWJidXJuLTEuNS42DQoNCmZpDQo=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
