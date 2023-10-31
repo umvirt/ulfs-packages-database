@@ -12,11 +12,11 @@
   <dependances>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>pcre2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches>

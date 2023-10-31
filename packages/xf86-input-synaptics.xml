@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>xf86-input-synaptics</code>
+  <description>VGhlIFhvcmcgU3luYXB0aWNzIERyaXZlciBwYWNrYWdlIGNvbnRhaW5zIHRoZSBYLk9yZyBJbnB1dCBEcml2ZXIsIHN1cHBvcnQgcHJvZ3JhbXMgYW5kIFNESyBmb3IgU3luYXB0aWNzIHRvdWNocGFkcy4=</description>
+  <sourcefile>xf86-input-synaptics-1.9.2.tar.xz</sourcefile>
+  <sourcedir>xf86-input-synaptics-1.9.2</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIA0K</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>xorg-server</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libevdev</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

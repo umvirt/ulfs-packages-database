@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libepoxy</code>
+  <description>aWJlcG94eSBpcyBhIGxpYnJhcnkgZm9yIGhhbmRsaW5nIE9wZW5HTCBmdW5jdGlvbiBwb2ludGVyIG1hbmFnZW1lbnQuDQoNCg==</description>
+  <sourcefile>libepoxy-1.5.10.tar.xz</sourcefile>
+  <sourcedir>libepoxy-1.5.10</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYKY2QgICAgYnVpbGQgJiYKCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLgo=</configure>
+  <build>Y2QgICAgYnVpbGQKbmluamEK</build>
+  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <dependances>
+    <dependance>
+      <code>mesa</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

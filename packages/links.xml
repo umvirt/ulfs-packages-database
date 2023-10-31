@@ -12,7 +12,7 @@
   <dependances>
     <dependance>
       <code>libevent</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

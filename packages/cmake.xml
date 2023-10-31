@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>cmake</code>
+  <description>VGhlIENNYWtlIHBhY2thZ2UgY29udGFpbnMgYSBtb2Rlcm4gdG9vbHNldCB1c2VkIGZvciBnZW5lcmF0aW5nIE1ha2VmaWxlcw==</description>
+  <sourcefile>cmake-3.27.2.tar.gz</sourcefile>
+  <sourcedir>cmake-3.27.2</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICcvImxpYjY0Ii9zLzY0Ly8nIE1vZHVsZXMvR05VSW5zdGFsbERpcnMuY21ha2UgJiYNCg0KLi9ib290c3RyYXAgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXN0ZW0tbGlicyAgICAgICAgXA0KICAgICAgICAgICAgLS1tYW5kaXI9L3NoYXJlL21hbiAgXA0KICAgICAgICAgICAgLS1uby1zeXN0ZW0tanNvbmNwcCAgXA0KICAgICAgICAgICAgLS1uby1zeXN0ZW0tY3BwZGFwICAgXA0KICAgICAgICAgICAgLS1uby1zeXN0ZW0tbGlicmhhc2ggXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3NoYXJlL2RvYy9jbWFrZS0zLjI3LjI=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>curl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>git</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libarchive</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libuv</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

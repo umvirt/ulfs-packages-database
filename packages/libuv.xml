@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libuv</code>
+  <description>VGhlIGxpYnV2IHBhY2thZ2UgaXMgYSBtdWx0aS1wbGF0Zm9ybSBzdXBwb3J0IGxpYnJhcnkgd2l0aCBhIGZvY3VzIG9uIGFzeW5jaHJvbm91cyBJL08u</description>
+  <sourcefile>libuv-v1.46.0.tar.gz</sourcefile>
+  <sourcedir>libuv-v1.46.0</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkFDTE9DQUxUTVA9JEFDTE9DQUwNCmV4cG9ydCBBQ0xPQ0FMPSIiDQoNCnNoIGF1dG9nZW4uc2ggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw0KDQpleHBvcnQgQUNMT0NBTD0kQUNMT0NBTFRNUA0KDQo=</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

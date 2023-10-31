@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>fontconfig</code>
+  <description>VGhlIEZvbnRjb25maWcgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHN1cHBvcnQgcHJvZ3JhbXMgdXNlZCBmb3IgY29uZmlndXJpbmcgYW5kIGN1c3RvbWl6aW5nIGZvbnQgYWNjZXNzLg==</description>
+  <sourcefile>fontconfig-2.14.2.tar.xz</sourcefile>
+  <sourcedir>fontconfig-2.14.2</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRvY3MgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZm9udGNvbmZpZy0yLjE0LjINCg==</configure>
+  <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZpDQo=</build>
+  <install>bWFrZSBpbnN0YWxsCgppbnN0YWxsIC12IC1kbTc1NSAgICAgICAgIC91c3Ivc2hhcmUve21hbi9tYW57MSwzLDV9fSAmJgppbnN0YWxsIC12IC1tNjQ0IGZjLSovKi4xICAgICAgICAgL3Vzci9zaGFyZS9tYW4vbWFuMSAmJgppbnN0YWxsIC12IC1tNjQ0IGRvYy8qLjMgICAgICAgICAgL3Vzci9zaGFyZS9tYW4vbWFuMyAmJgppbnN0YWxsIC12IC1tNjQ0IGRvYy9mb250cy1jb25mLjUgL3Vzci9zaGFyZS9tYW4vbWFuNQoKaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQp0aGVuCgppbnN0YWxsIC12IC1kbTc1NSAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2ZvbnRjb25maWctMi4xNC4yL2ZvbnRjb25maWctZGV2ZWwKaW5zdGFsbCAtdiAtbTY0NCBkb2MvZm9udGNvbmZpZy1kZXZlbC8qICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9mb250Y29uZmlnLTIuMTQuMi9mb250Y29uZmlnLWRldmVsIAppbnN0YWxsIC12IC1tNjQ0IGRvYy8qLntwZGYsc2dtbCx0eHQsaHRtbH0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2ZvbnRjb25maWctMi4xNC4yCgpmaQo=</install>
+  <dependances>
+    <dependance>
+      <code>freetype-stage2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

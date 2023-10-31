@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libinput</code>
+  <description>bGliaW5wdXQgaXMgYSBsaWJyYXJ5IHRoYXQgaGFuZGxlcyBpbnB1dCBkZXZpY2VzIGZvciBkaXNwbGF5IHNlcnZlcnMgYW5kIG90aGVyIGFwcGxpY2F0aW9ucyB0aGF0IG5lZWQgdG8gZGlyZWN0bHkgZGVhbCB3aXRoIGlucHV0IGRldmljZXMu</description>
+  <sourcefile>libinput-1.23.0.tar.gz</sourcefile>
+  <sourcedir>libinput-1.23.0</sourcedir>
+  <unpack/>
+  <configure>QVJHX0RPQ1M9IiINCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KQVJHX0RPQ1M9Ii1EZG9jdW1lbnRhdGlvbj10cnVlIg0KDQpmaQ0KDQpBUkdfVEVTVD0iLUR0ZXN0cz1mYWxzZSINCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCg0KQVJHX1RFU1Q9Ii1EdGVzdHM9dHJ1ZSINCg0KZmkNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgXA0KICAgICAgICAgICAgLURkZWJ1Zy1ndWk9ZmFsc2UgICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfVEVTVCAgICRBUkdfRE9DUyAgICAgICBcDQogICAgICAgICAgICAtRGxpYndhY29tPWZhbHNlICAgICAgICAgXA0KICAgICAgICAgICAgLUR1ZGV2LWRpcj0vdXNyL2xpYi91ZGV2IFwNCiAgICAgICAgICAgIC4uIA0K</configure>
+  <build>Y2QgICAgYnVpbGQgCm5pbmphCg==</build>
+  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAoKaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQp0aGVuCgppbnN0YWxsIC12IC1kbTc1NSAgICAgIC91c3Ivc2hhcmUvZG9jL2xpYmlucHV0LTEuMjMuMC9odG1sICYmCmNwIC1ydiBEb2N1bWVudGF0aW9uLyogL3Vzci9zaGFyZS9kb2MvbGliaW5wdXQtMS4yMy4wL2h0bWwKCmZpCg==</install>
+  <dependances>
+    <dependance>
+      <code>libevdev</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mtdev</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

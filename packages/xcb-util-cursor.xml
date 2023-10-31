@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>xcb-util-cursor</code>
+  <description>VGhlIHhjYi11dGlsLWN1cnNvciBwYWNrYWdlIHByb3ZpZGVzIGEgbW9kdWxlIHRoYXQgaW1wbGVtZW50cyB0aGUgWENCIGN1cnNvciBsaWJyYXJ5LiBJdCBpcyB0aGUgWENCIHJlcGxhY2VtZW50IGZvciBsaWJYY3Vyc29yLg==</description>
+  <sourcefile>xcb-util-cursor-0.1.4.tar.xz</sourcefile>
+  <sourcedir>xcb-util-cursor-0.1.4</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>xcb-util-image</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xcb-util-renderutil</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

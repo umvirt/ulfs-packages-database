@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libevdev</code>
+  <description>VGhlIGxpYmV2ZGV2IHBhY2thZ2UgY29udGFpbnMgY29tbW9uIGZ1bmN0aW9ucyBmb3IgWG9yZyBpbnB1dCBkcml2ZXJzLg==</description>
+  <sourcefile>libevdev-1.13.1.tar.xz</sourcefile>
+  <sourcedir>libevdev-1.13.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EZG9jdW1lbnRhdGlvbj1kaXNhYmxlZA0K</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg0K</build>
+  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

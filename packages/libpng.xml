@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libpng</code>
+  <description>VGhlIGxpYnBuZyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGJ5IG90aGVyIHByb2dyYW1zIGZvciByZWFkaW5nIGFuZCB3cml0aW5nIFBORyBmaWxlcy4g</description>
+  <sourcefile>libpng-1.6.40.tar.xz</sourcefile>
+  <sourcedir>libpng-1.6.40</sourcedir>
+  <unpack/>
+  <configure>Z3ppcCAtY2QgLi4vbGlicG5nLTEuNi4zOS1hcG5nLnBhdGNoLmd6IHwgcGF0Y2ggLXAxDQoNCkFSR19TVEFUSUM9Ii0tZGlzYWJsZS1zdGF0aWMiDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItLWVuYWJsZS1zdGF0aWMiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElDDQo=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsIAoKaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQp0aGVuCgpta2RpciAtdiAvdXNyL3NoYXJlL2RvYy9saWJwbmctMS42LjQwICYmCmNwIC12IFJFQURNRSBsaWJwbmctbWFudWFsLnR4dCAvdXNyL3NoYXJlL2RvYy9saWJwbmctMS42LjQwCgpmaQo=</install>
+  <dependances/>
+  <patches/>
+  <addons>
+    <addon>libpng-1.6.39-apng.patch.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>
