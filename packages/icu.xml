@@ -6,11 +6,16 @@
   <sourcefile>icu4c-73_2-src.tgz</sourcefile>
   <sourcedir>icu</sourcedir>
   <unpack/>
-  <configure>Y2Qgc291cmNlDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
-  <build/>
-  <install/>
+  <configure>Y2Qgc291cmNlDQphdXRvY29uZg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciA=</configure>
+  <build>Y2Qgc291cmNlDQptYWtl</build>
+  <install>Y2Qgc291cmNlDQptYWtlIGluc3RhbGw=</install>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>icu-makefile.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

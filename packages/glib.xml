@@ -7,8 +7,8 @@
   <sourcedir>glib-2.76.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EbWFuPXRydWUgICAgICAgICAg</configure>
-  <build>bmluamE=</build>
-  <install>bmluamEgaW5zdGFsbCAmJg0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1rZGlyIC1wIC91c3Ivc2hhcmUvZG9jL2dsaWItMi43Ni40DQpjcCAtciAuLi9kb2NzL3JlZmVyZW5jZS97Z2lvLGdsaWIsZ29iamVjdH0gL3Vzci9zaGFyZS9kb2MvZ2xpYi0yLjc2LjQNCg0KZmk=</install>
+  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwgJiYNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpta2RpciAtcCAvdXNyL3NoYXJlL2RvYy9nbGliLTIuNzYuNA0KY3AgLXIgLi4vZG9jcy9yZWZlcmVuY2Uve2dpbyxnbGliLGdvYmplY3R9IC91c3Ivc2hhcmUvZG9jL2dsaWItMi43Ni40DQoNCmZp</install>
   <dependances>
     <dependance>
       <code>libxslt</code>
