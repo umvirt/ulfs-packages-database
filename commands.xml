@@ -4,5 +4,6 @@
   <commands>
     <command>kernel_build</command>
     <command>kernel_install</command>
+    <command>enable_patch_making</command>
   </commands>
 </packages>
