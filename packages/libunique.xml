@@ -18,6 +18,10 @@
       <code>gtk2</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>gtk-doc</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches>
     <patch>
