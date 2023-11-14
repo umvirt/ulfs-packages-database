@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>hicolor-icon-theme</code>
+  <description>VGhlIGhpY29sb3ItaWNvbi10aGVtZSBwYWNrYWdlIGNvbnRhaW5zIGEgZGVmYXVsdCBmYWxsYmFjayB0aGVtZSBmb3IgaW1wbGVtZW50YXRpb25zIG9mIHRoZSBpY29uIHRoZW1lIHNwZWNpZmljYXRpb24u</description>
+  <sourcefile>hicolor-icon-theme-0.17.tar.xz</sourcefile>
+  <sourcedir>hicolor-icon-theme-0.17</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

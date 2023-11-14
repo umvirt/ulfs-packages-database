@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libunistring</code>
+  <description>bGlidW5pc3RyaW5nIGlzIGEgbGlicmFyeSB0aGF0IHByb3ZpZGVzIGZ1bmN0aW9ucyBmb3IgbWFuaXB1bGF0aW5nIFVuaWNvZGUgc3RyaW5ncyBhbmQgZm9yIG1hbmlwdWxhdGluZyBDIHN0cmluZ3MgYWNjb3JkaW5nIHRvIHRoZSBVbmljb2RlIHN0YW5kYXJkLg==</description>
+  <sourcefile>libunistring-1.1.tar.xz</sourcefile>
+  <sourcedir>libunistring-1.1</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGlidW5pc3RyaW5nLTEuMQ0K</configure>
+  <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>vte-gtk2</code>
+  <description>VnRlIGlzIGEgbGlicmFyeSAobGlidnRlKSBpbXBsZW1lbnRpbmcgYSB0ZXJtaW5hbCBlbXVsYXRvciB3aWRnZXQgZm9yIEdUSysgMiwgYW5kIGEgbWluaW1hbCBkZW1vbnN0cmF0aW9uIGFwcGxpY2F0aW9uICh2dGUpIHRoYXQgdXNlcyBsaWJ2dGUu</description>
+  <sourcefile>vte-0.28.2.tar.xz</sourcefile>
+  <sourcedir>vte-0.28.2</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgLS1saWJleGVjZGlyPS91c3IvbGliL3Z0ZSBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyANCg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gnutls</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

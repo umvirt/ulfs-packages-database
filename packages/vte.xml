@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>vte</code>
+  <description>VnRlIGlzIGEgbGlicmFyeSAobGlidnRlKSBpbXBsZW1lbnRpbmcgYSB0ZXJtaW5hbCBlbXVsYXRvciB3aWRnZXQgZm9yIEdUSysgMiwgYW5kIGEgbWluaW1hbCBkZW1vbnN0cmF0aW9uIGFwcGxpY2F0aW9uICh2dGUpIHRoYXQgdXNlcyBsaWJ2dGUu</description>
+  <sourcefile>vte-0.72.2.tar.gz</sourcefile>
+  <sourcedir>vte-0.72.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRGZyaWJpZGk9ZmFsc2UgLi4gDQo=</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkIC1lICIvZG9jZGlyID0vc0BcJEAvICd2dGUtMC43Mi4yJ0AiIFwNCiAgICAtZSAiL2ZhdGFsLXdhcm5pbmdzL2QiICAgICAgICAgICAgICBcDQogICAgLWkgLi4vZG9jL3JlZmVyZW5jZS9tZXNvbi5idWlsZCAgICAgJiYNCm1lc29uIGNvbmZpZ3VyZSAtRGRvY3M9dHJ1ZSAgICAgICAgICAgICAmJg0KbmluamENCg0KZmkNCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBuaW5qYSB0ZXN0DQpmaQ0KDQo=</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgJiYNCnJtIC12IC9ldGMvcHJvZmlsZS5kL3Z0ZS4q</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk-doc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gnutls</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>Python2</code>
+  <description>VGhlIFB5dGhvbiAyIHBhY2thZ2UgY29udGFpbnMgdGhlIFB5dGhvbiBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4g</description>
+  <sourcefile>Python-2.7.18.tar.xz</sourcefile>
+  <sourcedir>Python-2.7.18</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICcvMnRvMy9kJyAuL3NldHVwLnB5DQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbS1leHBhdCAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zeXN0ZW0tZmZpICAgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS11bmljb2RlPXVjczQg</configure>
+  <build/>
+  <install>bWFrZSBhbHRpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KbG4gLXMgcHl0aG9uMi43ICAgICAgICAvdXNyL2Jpbi9weXRob24yICAgICAgICAmJg0KbG4gLXMgcHl0aG9uMi43LWNvbmZpZyAvdXNyL2Jpbi9weXRob24yLWNvbmZpZyAmJg0KY2htb2QgLXYgNzU1IC91c3IvbGliL2xpYnB5dGhvbjIuNy5zby4xLjANCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQppbnN0YWxsIC12IC1kbTc1NSAvdXNyL3NoYXJlL2RvYy9weXRob24tMi43LjE4ICYmDQoNCnRhciAtLXN0cmlwLWNvbXBvbmVudHM9MSAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAtLW5vLXNhbWUtb3duZXIgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAtLWRpcmVjdG9yeSAvdXNyL3NoYXJlL2RvYy9weXRob24tMi43LjE4IFwNCiAgICAteHZmIC4uL3B5dGhvbi0yLjcuMTgtZG9jcy1odG1sLnRhci5iejIgJiYNCg0KZmluZCAvdXNyL3NoYXJlL2RvYy9weXRob24tMi43LjE4IC10eXBlIGQgLWV4ZWMgY2htb2QgMDc1NSB7fSBcOyAmJg0KZmluZCAvdXNyL3NoYXJlL2RvYy9weXRob24tMi43LjE4IC10eXBlIGYgLWV4ZWMgY2htb2QgMDY0NCB7fSBcOw0KDQpmaQ==</install>
+  <dependances>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>Python-2.7.18-security_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons>
+    <addon>python-2.7.18-docs-html.tar.bz2</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

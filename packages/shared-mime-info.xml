@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>shared-mime-info</code>
+  <description>VGhlIFNoYXJlZCBNaW1lIEluZm8gcGFja2FnZSBjb250YWlucyBhIE1JTUUgZGF0YWJhc2Uu</description>
+  <sourcefile>shared-mime-info-2.2.tar.gz</sourcefile>
+  <sourcedir>shared-mime-info-2.2</sourcedir>
+  <unpack/>
+  <configure>aWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQp0YXIgLXhmIC4uL3hkZ21pbWUudGFyLnh6ICYmDQptYWtlIC1DIHhkZ21pbWUNCg0KZmkNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRHVwZGF0ZS1taW1lZGI9dHJ1ZSAuLiANCg==</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>xdgmime.tar.xz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

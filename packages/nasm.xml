@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>nasm</code>
+  <description>TkFTTSAoTmV0d2lkZSBBc3NlbWJsZXIpIGlzIGFuIDgweDg2IGFzc2VtYmxlciBkZXNpZ25lZCBmb3IgcG9ydGFiaWxpdHkgYW5kIG1vZHVsYXJpdHku</description>
+  <sourcefile>nasm-2.16.01.tar.xz</sourcefile>
+  <sourcedir>nasm-2.16.01</sourcedir>
+  <unpack/>
+  <configure>aWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQp0YXIgLXhmIC4uL25hc20tMi4xNi4wMS14ZG9jLnRhci54eiAtLXN0cmlwLWNvbXBvbmVudHM9MQ0KDQpmaQ0KDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtbTc1NSAtZCAgICAgICAgIC91c3Ivc2hhcmUvZG9jL25hc20tMi4xNi4wMS9odG1sICAmJg0KY3AgLXYgZG9jL2h0bWwvKi5odG1sICAgIC91c3Ivc2hhcmUvZG9jL25hc20tMi4xNi4wMS9odG1sICAmJg0KY3AgLXYgZG9jLyoue3R4dCxwcyxwZGZ9IC91c3Ivc2hhcmUvZG9jL25hc20tMi4xNi4wMQ0KDQpmaQ==</install>
+  <dependances/>
+  <patches/>
+  <addons>
+    <addon>nasm-2.16.01-xdoc.tar.xz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

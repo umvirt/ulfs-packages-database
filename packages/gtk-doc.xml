@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>gtk-doc</code>
+  <description>VGhlIEdUSy1Eb2MgcGFja2FnZSBjb250YWlucyBhIGNvZGUgZG9jdW1lbnRlci4g</description>
+  <sourcefile>gtk-doc-1.33.2.tar.xz</sourcefile>
+  <sourcedir>gtk-doc-1.33.2</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZml2ICAgICAgICAgICAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libxslt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>docbook-xml</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>docbook-xsl-nons</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>itstool</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-Pygments</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

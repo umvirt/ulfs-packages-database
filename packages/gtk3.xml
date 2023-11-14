@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>gtk3</code>
+  <description>VGhlIEdUSysgMyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBjcmVhdGluZyBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzIGZvciBhcHBsaWNhdGlvbnMu</description>
+  <sourcefile>gtk+-3.24.38.tar.xz</sourcefile>
+  <sourcedir>gtk+-3.24.38</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICBcDQogICAgICAgICAgICAtRG1hbj10cnVlICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtRGJyb2Fkd2F5X2JhY2tlbmQ9dHJ1ZSBcDQogICAgICAgICAgICAuLiA=</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libepoxy</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>at-spi2-core</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gdk-pixbuf</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pango</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxkbcommon</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

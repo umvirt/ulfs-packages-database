@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>desktop-file-utils</code>
+  <description>VGhlIERlc2t0b3AgRmlsZSBVdGlscyBwYWNrYWdlIGNvbnRhaW5zIGNvbW1hbmQgbGluZSB1dGlsaXRpZXMgZm9yIHdvcmtpbmcgd2l0aCBEZXNrdG9wIGVudHJpZXMu</description>
+  <sourcefile>desktop-file-utils-0.26.tar.xz</sourcefile>
+  <sourcedir>desktop-file-utils-0.26</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg0K</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>desktop-file-utils-0.26-update_standard-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
