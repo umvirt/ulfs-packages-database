@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>efibootmgr</code>
+  <description>VGhlIGVmaWJvb3RtZ3IgcGFja2FnZSBwcm92aWRlcyB0b29scyBhbmQgbGlicmFyaWVzIHRvIG1hbmlwdWxhdGUgRUZJIHZhcmlhYmxlcy4=</description>
+  <sourcefile>efibootmgr-18.tar.gz</sourcefile>
+  <sourcedir>efibootmgr-18</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBFRklESVI9TEZTIEVGSV9MT0FERVI9Z3J1Yng2NC5lZmk=</build>
+  <install>bWFrZSBpbnN0YWxsIEVGSURJUj1MRlM=</install>
+  <dependances>
+    <dependance>
+      <code>popt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>efivar</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

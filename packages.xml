@@ -236,5 +236,10 @@
     <package>vte-gtk2</package>
     <package>help2man</package>
     <package>LXDE</package>
+    <package>mandoc</package>
+    <package>efivar</package>
+    <package>efibootmgr</package>
+    <package>grub2efi</package>
+    <package>dosfstools</package>
   </packages>
 </packages>

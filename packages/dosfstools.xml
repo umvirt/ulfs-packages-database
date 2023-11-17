@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>dosfstools</code>
+  <description>VGhlIGRvc2ZzdG9vbHMgcGFja2FnZSBjb250YWlucyB2YXJpb3VzIHV0aWxpdGllcyBmb3IgdXNlIHdpdGggdGhlIEZBVCBmYW1pbHkgb2YgZmlsZSBzeXN0ZW1zLg==</description>
+  <sourcefile>dosfstools-4.2.tar.gz</sourcefile>
+  <sourcedir>dosfstools-4.2</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWNvbXBhdC1zeW1saW5rcyBcDQogICAgICAgICAgICAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbiAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZG9zZnN0b29scy00LjINCg==</configure>
+  <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZpDQo=</build>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

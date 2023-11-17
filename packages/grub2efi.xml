@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>grub2efi</code>
+  <description>VGhlIEdSVUIgcGFja2FnZSBwcm92aWRlcyBHUmFuZCBVbmlmaWVkIEJvb3Rsb2FkZXIgd2l0aCBVRUZJIHN1cHBvcnQsIHdoaWNoIGlzIG5vdCBlbmFibGVkIGZvciBHUlVCIGJ1aWx0IGluIExGUy4NCg0K</description>
+  <sourcefile>grub-2.06.tar.xz</sourcefile>
+  <sourcedir>grub-2.06</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXB2IC91c3Ivc2hhcmUvZm9udHMvdW5pZm9udCAmJg0KZ3VuemlwIC1jIC4uL3VuaWZvbnQtMTUuMC4wNi5wY2YuZ3ogPiAvdXNyL3NoYXJlL2ZvbnRzL3VuaWZvbnQvdW5pZm9udC5wY2YNCg0KdW5zZXQge0MsQ1BQLENYWCxMRH1GTEFHUw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtZWZpZW11ICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1ncnViLW1rZm9udCBcDQogICAgICAgICAgICAtLXdpdGgtcGxhdGZvcm09ZWZpICBcDQogICAgICAgICAgICAtLXRhcmdldD14ODZfNjQgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtd2Vycm9yICAgICAmJg0KdW5zZXQgVEFSR0VUX0ND</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQptdiAtdiAvZXRjL2Jhc2hfY29tcGxldGlvbi5kL2dydWIgL3Vzci9zaGFyZS9iYXNoLWNvbXBsZXRpb24vY29tcGxldGlvbnM=</install>
+  <dependances>
+    <dependance>
+      <code>X</code>
+      <weight>-100</weight>
+    </dependance>
+    <dependance>
+      <code>freetype</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>efibootmgr</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>unifont-15.0.06.pcf.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>
