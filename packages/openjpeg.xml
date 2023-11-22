@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>openjpeg</code>
+  <description>T3BlbkpQRUcgaXMgYW4gb3Blbi1zb3VyY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIEpQRUctMjAwMCBzdGFuZGFyZC4gT3BlbkpQRUcgZnVsbHkgcmVzcGVjdHMgdGhlIEpQRUctMjAwMCBzcGVjaWZpY2F0aW9ucyBhbmQgY2FuIGNvbXByZXNzL2RlY29tcHJlc3MgbG9zc2xlc3MgMTYtYml0IGltYWdlcy4=</description>
+  <sourcefile>openjpeg-2.5.0.tar.gz</sourcefile>
+  <sourcedir>openjpeg-2.5.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCkFSR19TVEFUSUM9Ii1EQlVJTERfU1RBVElDX0xJQlM9T0ZGIg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiID09ICJZRVMiIF1dDQp0aGVuDQogICAgQVJHX1NUQVRJQz0iLURCVUlMRF9TVEFUSUNfTElCUz1PTiINCmZpDQoNCg0KY21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICRBUkdfU1RBVElDIC4u</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2Ug</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbCANCg0KcHVzaGQgLi4vZG9jICYmDQogIGZvciBtYW4gaW4gbWFuL21hbj8vKiA7IGRvDQogICAgICBpbnN0YWxsIC12IC1EIC1tIDY0NCAkbWFuIC91c3Ivc2hhcmUvJG1hbg0KICBkb25lDQpwb3Bk</install>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tiff</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lcms2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

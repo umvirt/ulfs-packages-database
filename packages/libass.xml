@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libass</code>
+  <description>bGliYXNzIGlzIGEgcG9ydGFibGUgc3VidGl0bGUgcmVuZGVyZXIgZm9yIHRoZSBBU1MvU1NBIChBZHZhbmNlZCBTdWJzdGF0aW9uIEFscGhhL1N1YnN0YXRpb24gQWxwaGEpIHN1YnRpdGxlIGZvcm1hdCB0aGF0IGFsbG93cyBmb3IgbW9yZSBhZHZhbmNlZCBzdWJ0aXRsZXMgdGhhbiB0aGUgY29udmVudGlvbmFsIFNSVCBhbmQgc2ltaWxhciBmb3JtYXRzLg==</description>
+  <sourcefile>libass-0.17.1.tar.xz</sourcefile>
+  <sourcedir>libass-0.17.1</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>freetype</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fontconfig</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nasm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fribidi-1.0.13</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

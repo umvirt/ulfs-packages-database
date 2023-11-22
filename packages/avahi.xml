@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>avahi</code>
+  <description>VGhlIEF2YWhpIHBhY2thZ2UgaXMgYSBzeXN0ZW0gd2hpY2ggZmFjaWxpdGF0ZXMgc2VydmljZSBkaXNjb3Zlcnkgb24gYSBsb2NhbCBuZXR3b3JrLg==</description>
+  <sourcefile>avahi-0.8.tar.gz</sourcefile>
+  <sourcedir>avahi-0.8</sourcedir>
+  <unpack/>
+  <configure>Z3JvdXBhZGQgLWZnIDg0IGF2YWhpICYmDQp1c2VyYWRkIC1jICJBdmFoaSBEYWVtb24gT3duZXIiIC1kIC9ydW4vYXZhaGktZGFlbW9uIC11IDg0IFwNCiAgICAgICAgLWcgYXZhaGkgLXMgL2Jpbi9mYWxzZSBhdmFoaQ0KDQpncm91cGFkZCAtZmcgODYgbmV0ZGV2DQoNCnNlZCAtaSAnNDI2YSBpZiAoZXZlbnRzICYgQVZBSElfV0FUQ0hfSFVQKSB7IFwNCmNsaWVudF9mcmVlKGMpOyBcDQpyZXR1cm47IFwNCn0nIGF2YWhpLWRhZW1vbi9zaW1wbGUtcHJvdG9jb2wuYw0KDQpBUkdfU1RBVElDPSItLWRpc2FibGUtc3RhdGljIg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiID09ICJZRVMiIF1dDQp0aGVuDQogICAgQVJHX1NUQVRJQz0iLS1lbmFibGUtc3RhdGljIg0KZmkNCg0KLi9jb25maWd1cmUgXA0KICAgIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICBcDQogICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgXA0KICAgICRBUkdfU1RBVElDICAgICAgICAgIFwNCiAgICAtLWRpc2FibGUtbGliZXZlbnQgICBcDQogICAgLS1kaXNhYmxlLW1vbm8gICAgICAgXA0KICAgIC0tZGlzYWJsZS1tb25vZG9jICAgIFwNCiAgICAtLWRpc2FibGUtcHl0aG9uICAgICBcDQogICAgLS1kaXNhYmxlLXF0MyAgICAgICAgXA0KICAgIC0tZGlzYWJsZS1xdDQgICAgICAgIFwNCiAgICAtLWVuYWJsZS1jb3JlLWRvY3MgICBcDQogICAgLS13aXRoLWRpc3Rybz1ub25lICAgXA0KICAgIC0td2l0aC1kYnVzLXN5c3RlbS1hZGRyZXNzPSd1bml4OnBhdGg9L3J1bi9kYnVzL3N5c3RlbV9idXNfc29ja2V0JyA=</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libglade</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libdaemon</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

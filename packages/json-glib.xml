@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>json-glib</code>
+  <description>VGhlIEpTT04gR0xpYiBwYWNrYWdlIGlzIGEgbGlicmFyeSBwcm92aWRpbmcgc2VyaWFsaXphdGlvbiBhbmQgZGVzZXJpYWxpemF0aW9uIHN1cHBvcnQgZm9yIHRoZSBKYXZhU2NyaXB0IE9iamVjdCBOb3RhdGlvbiAoSlNPTikgZm9ybWF0IGRlc2NyaWJlZCBieSBSRkMgNDYyNy4=</description>
+  <sourcefile>json-glib-1.6.6.tar.xz</sourcefile>
+  <sourcedir>json-glib-1.6.6</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiANCg==</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

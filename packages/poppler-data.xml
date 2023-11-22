@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>poppler-data</code>
+  <description>RW5jb2RpbmcgZmlsZXMgZm9yIHVzZSB3aXRoIFBvcHBsZXI=</description>
+  <sourcefile>poppler-data-0.4.12.tar.gz</sourcefile>
+  <sourcedir>poppler-data-0.4.12</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWFrZSBwcmVmaXg9L3VzciBpbnN0YWxs</install>
+  <dependances>
+    <dependance>
+      <code>poppler-app</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

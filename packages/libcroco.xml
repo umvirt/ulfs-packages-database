@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libcroco</code>
+  <description>VGhlIGxpYmNyb2NvIHBhY2thZ2UgY29udGFpbnMgYSBzdGFuZGFsb25lIENTUzIgcGFyc2luZyBhbmQgbWFuaXB1bGF0aW9uIGxpYnJhcnku</description>
+  <sourcefile>libcroco-0.6.12.tar.xz</sourcefile>
+  <sourcedir>libcroco-0.6.12</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLURFTkFCTEVfU1RBVElDPUZBTFNFIg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiID09ICJZRVMiIF1dDQp0aGVuDQogICAgQVJHX1NUQVRJQz0iLURFTkFCTEVfU1RBVElDPVRSVUUiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElD</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>webkitgtk</code>
+  <description>V2ViS2l0IHRvIHRoZSBHVEsrIDMgYW5kIEdUSyA0</description>
+  <sourcefile/>
+  <sourcedir/>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
+  <dependances>
+    <dependance>
+      <code>webkitgtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>webkitgtk4</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

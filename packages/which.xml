@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>which</code>
+  <description>d2hpY2ggc2hvd3MgdGhlIGZ1bGwgcGF0aCBvZiAoc2hlbGwpIGNvbW1hbmRzIGluc3RhbGxlZCBpbiB5b3VyIFBBVEgNCg0K</description>
+  <sourcefile>which-2.21.tar.gz</sourcefile>
+  <sourcedir>which-2.21</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

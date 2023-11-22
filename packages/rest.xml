@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>rest</code>
+  <description>VGhlIHJlc3QgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCB3YXMgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXNpZXIgdG8gYWNjZXNzIHdlYiBzZXJ2aWNlcyB0aGF0IGNsYWltIHRvIGJlICJSRVNUZnVsIi4gSXQgaW5jbHVkZXMgY29udmVuaWVuY2Ugd3JhcHBlcnMgZm9yIGxpYnNvdXAgYW5kIGxpYnhtbCB0byBlYXNlIHJlbW90ZSB1c2Ugb2YgdGhlIFJFU1RmdWwgQVBJLg0KDQo=</description>
+  <sourcefile>rest-0.9.1.tar.xz</sourcefile>
+  <sourcedir>rest-0.9.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGV4YW1wbGVzPWZhbHNlICAgIFwNCiAgICAgICAgICAgIC1EZ3RrX2RvYz1mYWxzZSAgICAgXA0KICAgICAgICAgICAgLi4gICAgICAgDQo=</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>make-ca</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>json-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libsoup3</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

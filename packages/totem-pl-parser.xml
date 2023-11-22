@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>totem-pl-parser</code>
+  <description>VGhlIFRvdGVtIFBMIFBhcnNlciBwYWNrYWdlIGNvbnRhaW5zIGEgc2ltcGxlIEdPYmplY3QtYmFzZWQgbGlicmFyeSB1c2VkIHRvIHBhcnNlIG11bHRpcGxlIHBsYXlsaXN0IGZvcm1hdHMu</description>
+  <sourcefile>totem-pl-parser-3.26.6.tar.xz</sourcefile>
+  <sourcedir>totem-pl-parser-3.26.6</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphIA0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libarchive</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgcrypt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

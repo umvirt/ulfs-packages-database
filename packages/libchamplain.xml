@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libchamplain</code>
+  <description>VGhlIGxpYmNoYW1wbGFpbiBwYWNrYWdlIGNvbnRhaW5zIGEgQ2x1dHRlci1iYXNlZCB3aWRnZXQgdGhhdCBpcyB1c2VkIHRvIGRpc3BsYXkgcmljaCBhbmQgaW50ZXJhY3RpdmUgbWFwcy4=</description>
+  <sourcefile>libchamplain-0.12.21.tar.xz</sourcefile>
+  <sourcedir>libchamplain-0.12.21</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libsoup3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>clutter-gtk</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

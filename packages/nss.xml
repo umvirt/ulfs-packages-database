@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>nss</code>
+  <description>VGhlIE5ldHdvcmsgU2VjdXJpdHkgU2VydmljZXMgKE5TUykgcGFja2FnZSBpcyBhIHNldCBvZiBsaWJyYXJpZXMgZGVzaWduZWQgdG8gc3VwcG9ydCBjcm9zcy1wbGF0Zm9ybSBkZXZlbG9wbWVudCBvZiBzZWN1cml0eS1lbmFibGVkIGNsaWVudCBhbmQgc2VydmVyIGFwcGxpY2F0aW9ucy4gQXBwbGljYXRpb25zIGJ1aWx0IHdpdGggTlNTIGNhbiBzdXBwb3J0IFNTTCB2MiBhbmQgdjMsIFRMUywgUEtDUyAjNSwgUEtDUyAjNywgUEtDUyAjMTEsIFBLQ1MgIzEyLCBTL01JTUUsIFguNTA5IHYzIGNlcnRpZmljYXRlcywgYW5kIG90aGVyIHNlY3VyaXR5IHN0YW5kYXJkcy4gVGhpcyBpcyB1c2VmdWwgZm9yIGltcGxlbWVudGluZyBTU0wgYW5kIFMvTUlNRSBvciBvdGhlciBJbnRlcm5ldCBzZWN1cml0eSBzdGFuZGFyZHMgaW50byBhbiBhcHBsaWNhdGlvbi4=</description>
+  <sourcefile>nss-3.92.tar.gz</sourcefile>
+  <sourcedir>nss-3.92</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Y2QgbnNzICYmDQoNCm1ha2UgQlVJTERfT1BUPTEgICAgICAgICAgICAgICAgICBcDQogIE5TUFJfSU5DTFVERV9ESVI9L3Vzci9pbmNsdWRlL25zcHIgIFwNCiAgVVNFX1NZU1RFTV9aTElCPTEgICAgICAgICAgICAgICAgICAgXA0KICBaTElCX0xJQlM9LWx6ICAgICAgICAgICAgICAgICAgICAgICBcDQogIE5TU19FTkFCTEVfV0VSUk9SPTAgICAgICAgICAgICAgICAgIFwNCiAgJChbICQodW5hbWUgLW0pID0geDg2XzY0IF0gJiYgZWNobyBVU0VfNjQ9MSkgXA0KICAkKFsgLWYgL3Vzci9pbmNsdWRlL3NxbGl0ZTMuaCBdICYmIGVjaG8gTlNTX1VTRV9TWVNURU1fU1FMSVRFPTEp</build>
+  <install>Y2QgbnNzICYmDQoNCmNkIC4uL2Rpc3QgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSBMaW51eCovbGliLyouc28gICAgICAgICAgICAgIC91c3IvbGliICAgICAgICAgICAgICAmJg0KaW5zdGFsbCAtdiAtbTY0NCBMaW51eCovbGliL3sqLmNoayxsaWJjcm1mLmF9IC91c3IvbGliICAgICAgICAgICAgICAmJg0KDQppbnN0YWxsIC12IC1tNzU1IC1kICAgICAgICAgICAgICAgICAgICAgICAgICAgL3Vzci9pbmNsdWRlL25zcyAgICAgICYmDQpjcCAtdiAtUkwge3B1YmxpYyxwcml2YXRlfS9uc3MvKiAgICAgICAgICAgICAgL3Vzci9pbmNsdWRlL25zcyAgICAgICYmDQoNCmluc3RhbGwgLXYgLW03NTUgTGludXgqL2Jpbi97Y2VydHV0aWwsbnNzLWNvbmZpZyxwazEydXRpbH0gL3Vzci9iaW4gJiYNCg0KaW5zdGFsbCAtdiAtbTY0NCBMaW51eCovbGliL3BrZ2NvbmZpZy9uc3MucGMgIC91c3IvbGliL3BrZ2NvbmZpZw0KDQpsbiAtc2Z2IC4vcGtjczExL3AxMS1raXQtdHJ1c3Quc28gL3Vzci9saWIvbGlibnNzY2tiaS5zbw==</install>
+  <dependances>
+    <dependance>
+      <code>p11-kit</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nspr</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>nss-3.92-standalone-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

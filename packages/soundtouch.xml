@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>soundtouch</code>
+  <description>VGhlIFNvdW5kVG91Y2ggcGFja2FnZSBjb250YWlucyBhbiBvcGVuLXNvdXJjZSBhdWRpbyBwcm9jZXNzaW5nIGxpYnJhcnkgdGhhdCBhbGxvd3MgY2hhbmdpbmcgdGhlIHNvdW5kIHRlbXBvLCBwaXRjaCBhbmQgcGxheWJhY2sgcmF0ZSBwYXJhbWV0ZXJzIGluZGVwZW5kZW50bHkgZnJvbSBlYWNoIG90aGVyLg==</description>
+  <sourcefile>soundtouch-2.3.2.tar.gz</sourcefile>
+  <sourcedir>soundtouch</sourcedir>
+  <unpack/>
+  <configure>QUNMT0NBTFRNUD0kQUNMT0NBTA0KZXhwb3J0IEFDTE9DQUw9DQoNCi4vYm9vdHN0cmFwICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3NvdW5kdG91Y2gtMi4zLjINCg0KZXhwb3J0IEFDTE9DQUw9JEFDTE9DQUxUTVA=</configure>
+  <build>QUNMT0NBTFRNUD0kQUNMT0NBTA0KZXhwb3J0IEFDTE9DQUw9DQoNCm1ha2UNCg0KZXhwb3J0IEFDTE9DQUw9JEFDTE9DQUxUTVA=</build>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

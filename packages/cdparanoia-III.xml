@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>cdparanoia-III</code>
+  <description>VGhlIENEUGFyYW5vaWEgcGFja2FnZSBjb250YWlucyBhIENEIGF1ZGlvIGV4dHJhY3Rpb24gdG9vbC4gVGhpcyBpcyB1c2VmdWwgZm9yIGV4dHJhY3RpbmcgLndhdiBmaWxlcyBmcm9tIGF1ZGlvIENEcy4gQSBDRERBIGNhcGFibGUgQ0RST00gZHJpdmUgaXMgbmVlZGVkLg==</description>
+  <sourcefile>cdparanoia-III-10.2.src.tgz</sourcefile>
+  <sourcedir>cdparanoia-III-10.2</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbg0K</configure>
+  <build>bWFrZSAtajENCg==</build>
+  <install>bWFrZSBpbnN0YWxsICYmDQpjaG1vZCAtdiA3NTUgL3Vzci9saWIvbGliY2RkYV8qLnNvLjAuMTAuMiAmJg0Kcm0gLWZ2IC91c3IvbGliL2xpYmNkZGFfKi5h</install>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>cdparanoia-III-10.2-gcc_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

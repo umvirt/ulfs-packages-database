@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>clutter-gtk</code>
+  <description>VGhlIENsdXR0ZXIgR3RrIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHByb3ZpZGluZyBmYWNpbGl0aWVzIHRvIGludGVncmF0ZSBDbHV0dGVyIGludG8gR1RLKyBhcHBsaWNhdGlvbnMu</description>
+  <sourcefile>clutter-gtk-1.8.4.tar.xz</sourcefile>
+  <sourcedir>clutter-gtk-1.8.4</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>clutter</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

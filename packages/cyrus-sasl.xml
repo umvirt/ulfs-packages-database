@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>cyrus-sasl</code>
+  <description>VGhlIEN5cnVzIFNBU0wgcGFja2FnZSBjb250YWlucyBhIFNpbXBsZSBBdXRoZW50aWNhdGlvbiBhbmQgU2VjdXJpdHkgTGF5ZXIgaW1wbGVtZW50YXRpb24sIGEgbWV0aG9kIGZvciBhZGRpbmcgYXV0aGVudGljYXRpb24gc3VwcG9ydCB0byBjb25uZWN0aW9uLWJhc2VkIHByb3RvY29scy4=</description>
+  <sourcefile>cyrus-sasl-2.1.28.tar.gz</sourcefile>
+  <sourcedir>cyrus-sasl-2.1.28</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtYXV0aC1zYXNsZGIgXA0KICAgICAgICAgICAgLS13aXRoLWRicGF0aD0vdmFyL2xpYi9zYXNsL3Nhc2xkYjIgXA0KICAgICAgICAgICAgLS13aXRoLXNwaGlueC1idWlsZD1ubyAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXNhc2xhdXRoZD0vdmFyL3J1bi9zYXNsYXV0aGQ=</configure>
+  <build>bWFrZSAtajE=</build>
+  <install>bWFrZSBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQppbnN0YWxsIC12IC1kbTc1NSAgICAgICAgICAgICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvY3lydXMtc2FzbC0yLjEuMjgvaHRtbCAmJg0KaW5zdGFsbCAtdiAtbTY0NCAgc2FzbGF1dGhkL0xEQVBfU0FTTEFVVEhEIC91c3Ivc2hhcmUvZG9jL2N5cnVzLXNhc2wtMi4xLjI4ICAgICAgJiYNCmluc3RhbGwgLXYgLW02NDQgIGRvYy9sZWdhY3kvKi5odG1sICAgICAgICAvdXNyL3NoYXJlL2RvYy9jeXJ1cy1zYXNsLTIuMS4yOC9odG1sDQpmaQ0KDQppbnN0YWxsIC12IC1kbTcwMCAvdmFyL2xpYi9zYXNsDQo=</install>
+  <dependances>
+    <dependance>
+      <code>berkeleydb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

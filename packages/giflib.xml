@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>giflib</code>
+  <description>VGhlIGdpZmxpYiBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBHSUZzIGFzIHdlbGwgYXMgcHJvZ3JhbXMgZm9yIGNvbnZlcnRpbmcgYW5kIHdvcmtpbmcgd2l0aCBHSUYgZmlsZXMu</description>
+  <sourcefile>giflib-5.2.1.tar.gz</sourcefile>
+  <sourcedir>giflib-5.2.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBQUkVGSVg9L3VzciBpbnN0YWxsICYmDQoNCnJtIC1mdiAvdXNyL2xpYi9saWJnaWYuYSAmJg0KDQpmaW5kIGRvYyBcKCAtbmFtZSBNYWtlZmlsZVwqIC1vIC1uYW1lIFwqLjEgXA0KICAgICAgICAgLW8gLW5hbWUgXCoueG1sIFwpIC1leGVjIHJtIC12IHt9IFw7ICYmDQoNCmluc3RhbGwgLXYgLWRtNzU1IC91c3Ivc2hhcmUvZG9jL2dpZmxpYi01LjIuMSAmJg0KY3AgLXYgLVIgZG9jLyogL3Vzci9zaGFyZS9kb2MvZ2lmbGliLTUuMi4x</install>
+  <dependances>
+    <dependance>
+      <code>xmlto</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

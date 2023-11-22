@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>grilo</code>
+  <description>R3JpbG8gaXMgYSBmcmFtZXdvcmsgZm9jdXNlZCBvbiBtYWtpbmcgbWVkaWEgZGlzY292ZXJ5IGFuZCBicm93c2luZyBlYXN5IGZvciBhcHBsaWNhdGlvbnMgYW5kIGFwcGxpY2F0aW9uIGRldmVsb3BlcnMu</description>
+  <sourcefile>grilo-0.3.16.tar.xz</sourcefile>
+  <sourcedir>grilo-0.3.16</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICAgICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICBcDQogICAgICAgICAgICAtRGVuYWJsZS1ndGstZG9jPWZhbHNlIFwNCiAgICAgICAgICAgIC4uIA==</configure>
+  <build>Y2QgICAgYnVpbGQgICAgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
+  <install>Y2QgICAgYnVpbGQgICAgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libsoup3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>totem-pl-parser</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
