@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>mrustc</code>
+  <description>TXV0YWJhaCdzIFJ1c3QgQ29tcGlsZXIgaXMgaW4tcHJvZ3Jlc3MgYWx0ZXJuYXRpdmUgcnVzdCBjb21waWxlci4gQ2FwYWJsZSBvZiBidWlsZGluZyBhIGZ1bGx5LXdvcmtpbmcgY29weSBvZiBydXN0YywgYnV0IG5vdCBzdWl0YWJsZSBmb3IgZXZlcnlkYXkgdXNlIChkdWUgdG8gdGVycmlibGUgZXJyb3IgbWVzc2FnZXMpLg==</description>
+  <sourcefile>mrust-bf20f57582638fcaef5fd3428ec819b22708aff6.tar.xz</sourcefile>
+  <sourcedir>mrust-bf20f57582638fcaef5fd3428ec819b22708aff6</sourcedir>
+  <unpack/>
+  <configure>I2VuYWJsZSBkaXJlY3RvcnkgYWNjZXNzIHRvIGdpdA0KL3Vzci9iaW4vZ2l0IGNvbmZpZyAtLWdsb2JhbCAtLWFkZCBzYWZlLmRpcmVjdG9yeSAkUFdEDQoNCiNyZXNldCBnaXQgdHJlZQ0KZ2l0IHJlc2V0IC0taGFyZA0KI2NvcHkgcnVzdGMgc291cmNlDQpjcCAtdiAuLi9ydXN0Yy0xLjU0LjAtc3JjLnRhci5neiAuDQoNCiNhcHBseSBwYXRjaA0KcGF0Y2ggLXAxIDwgLi4vbXJ1c3QtbWluaWNhcmdvLnBhdGNoDQoNCiNzcGVlZHVwDQpzZWQgInMvUEFSTEVWRUwgPz0gMS9QQVJMRVZFTCA/PSBgbnByb2NgLyIgLWkgbWluaWNhcmdvLm1rIA0Kc2VkICJzL0xMVk1fVEFSR0VUUyA/PSBYODY7QVJNO0FBcmNoNjQjO01pcHM7UG93ZXJQQztTeXN0ZW1aO0pTQmFja2VuZDtNU1A0MzA7U3BhcmM7TlZQVFgvTExWTV9UQVJHRVRTID89IFg4Ni8iIC1pIG1pbmljYXJnby5taw0KDQoNCnNsZWVwIDEw</configure>
+  <build>dGltZSAuL2J1aWxkLTEuNTQuMC5zaA==</build>
+  <install>Iw==</install>
+  <dependances>
+    <dependance>
+      <code>git</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>mrust-minicargo.patch</addon>
+    <addon>rustc-1.54.0-src.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

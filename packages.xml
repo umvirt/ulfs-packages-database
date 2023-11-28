@@ -475,5 +475,6 @@
     <package>python3-numpy</package>
     <package>python3-cffi</package>
     <package>python3-pycparser</package>
+    <package>mrustc</package>
   </packages>
 </packages>
