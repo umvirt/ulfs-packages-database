@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>perl-IO-Socket-SSL</code>
+  <description>SU86OlNvY2tldDo6U1NMIG1ha2VzIHVzaW5nIFNTTC9UTFMgbXVjaCBlYXNpZXIgYnkgd3JhcHBpbmcgdGhlIG5lY2Vzc2FyeSBmdW5jdGlvbmFsaXR5IGludG8gdGhlIGZhbWlsaWFyIElPOjpTb2NrZXQgaW50ZXJmYWNlIGFuZCBwcm92aWRpbmcgc2VjdXJlIGRlZmF1bHRzIHdoZW5ldmVyIHBvc3NpYmxlLg==</description>
+  <sourcefile>IO-Socket-SSL-2.083.tar.gz</sourcefile>
+  <sourcedir>IO-Socket-SSL-2.083</sourcedir>
+  <unpack/>
+  <configure>eWVzIHwgcGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>make-ca</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-Net-SSLeay</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-URI</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

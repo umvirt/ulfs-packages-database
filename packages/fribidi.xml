@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2</release>
-  <code>fribidi-1.0.13</code>
+  <code>fribidi</code>
   <description>VGhlIEZyaUJpZGkgcGFja2FnZSBpcyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgVW5pY29kZSBCaWRpcmVjdGlvbmFsIEFsZ29yaXRobSAoQklESSku</description>
   <sourcefile>fribidi-1.0.13.tar.xz</sourcefile>
   <sourcedir>fribidi-1.0.13</sourcedir>

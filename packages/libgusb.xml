@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libgusb</code>
+  <description>VGhlIGxpYmd1c2IgcGFja2FnZSBjb250YWlucyB0aGUgR09iamVjdCB3cmFwcGVycyBmb3IgbGlidXNiLTEuMCB0aGF0IG1ha2VzIGl0IGVhc3kgdG8gZG8gYXN5bmNocm9ub3VzIGNvbnRyb2wsIGJ1bGsgYW5kIGludGVycnVwdCB0cmFuc2ZlcnMgd2l0aCBwcm9wZXIgY2FuY2VsbGF0aW9uIGFuZCBpbnRlZ3JhdGlvbiBpbnRvIGEgbWFpbmxvb3Au</description>
+  <sourcefile>libgusb-0.4.6.tar.xz</sourcefile>
+  <sourcedir>libgusb-0.4.6</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EZG9jcz1mYWxzZSAg</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>json-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>umockdev</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>usbutils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

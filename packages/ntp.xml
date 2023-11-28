@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>ntp</code>
+  <description>VGhlIG50cCBwYWNrYWdlIGNvbnRhaW5zIGEgY2xpZW50IGFuZCBzZXJ2ZXIgdG8ga2VlcCB0aGUgdGltZSBzeW5jaHJvbml6ZWQgYmV0d2VlbiB2YXJpb3VzIGNvbXB1dGVycyBvdmVyIGEgbmV0d29yay4gVGhpcyBwYWNrYWdlIGlzIHRoZSBvZmZpY2lhbCByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIE5UUCBwcm90b2NvbC4=</description>
+  <sourcefile>ntp-4.2.8p17.tar.gz</sourcefile>
+  <sourcedir>ntp-4.2.8p17</sourcedir>
+  <unpack/>
+  <configure>Z3JvdXBhZGQgLWcgODcgbnRwICYmDQp1c2VyYWRkIC1jICJOZXR3b3JrIFRpbWUgUHJvdG9jb2wiIC1kIC92YXIvbGliL250cCAtdSA4NyBcDQogICAgICAgIC1nIG50cCAtcyAvYmluL2ZhbHNlIG50cA0KDQpzZWQgLWUgJ3MvIihcXFMrKSIvIj8oW15cXHMiXSspIj8vJyBcDQogICAgLWkgc2NyaXB0cy91cGRhdGUtbGVhcC91cGRhdGUtbGVhcC5pbg0KDQpzZWQgLWUgJ3MvI2lmbmRlZiBfX3N1bi8jaWYgIWRlZmluZWQoX19zdW4pIFwmXCYgIWRlZmluZWQoX19HTElCQ19fKS8nIFwNCiAgICAtaSBsaWJudHAvd29ya190aHJlYWQuYw0KDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICBcDQogICAgICAgICAgICAtLWJpbmRpcj0vdXNyL3NiaW4gICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWxpbnV4Y2FwcyAgICBcDQogICAgICAgICAgICAtLXdpdGgtbGluZWVkaXRsaWJzPXJlYWRsaW5lIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL250cC00LjIuOHAxNw==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1vIG50cCAtZyBudHAgLWQgL3Zhci9saWIvbnRw</install>
+  <dependances>
+    <dependance>
+      <code>perl-IO-Socket-SSL</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

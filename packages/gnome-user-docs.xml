@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>gnome-user-docs</code>
+  <description>VGhlIEdOT01FIFVzZXIgRG9jcyBwYWNrYWdlIGNvbnRhaW5zIGRvY3VtZW50YXRpb24gZm9yIEdOT01FLg==</description>
+  <sourcefile>gnome-user-docs-44.3.tar.xz</sourcefile>
+  <sourcedir>gnome-user-docs</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>itstool</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

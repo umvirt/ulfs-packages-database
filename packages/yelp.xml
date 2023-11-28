@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>yelp</code>
+  <description>VGhlIFllbHAgcGFja2FnZSBjb250YWlucyBhIGhlbHAgYnJvd3NlciB1c2VkIGZvciB2aWV3aW5nIGhlbHAgZmlsZXMu</description>
+  <sourcefile>yelp-42.2.tar.xz</sourcefile>
+  <sourcedir>yelp-42.2</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMNCg==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>gsettings-desktop-schemas</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>desktop-file-utils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>yelp-xsl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>webkitgtk</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

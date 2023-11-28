@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>upower</code>
+  <description>VGhlIFVQb3dlciBwYWNrYWdlIHByb3ZpZGVzIGFuIGludGVyZmFjZSBmb3IgZW51bWVyYXRpbmcgcG93ZXIgZGV2aWNlcywgbGlzdGVuaW5nIHRvIGRldmljZSBldmVudHMgYW5kIHF1ZXJ5aW5nIGhpc3RvcnkgYW5kIHN0YXRpc3RpY3MuIEFueSBhcHBsaWNhdGlvbiBvciBzZXJ2aWNlIG9uIHRoZSBzeXN0ZW0gY2FuIGFjY2VzcyB0aGUgb3JnLmZyZWVkZXNrdG9wLlVQb3dlciBzZXJ2aWNlIHZpYSB0aGUgc3lzdGVtIG1lc3NhZ2UgYnVzLg==</description>
+  <sourcefile>upower-v1.90.2.tar.bz2</sourcefile>
+  <sourcedir>upower-v1.90.2</sourcedir>
+  <unpack/>
+  <configure>c2VkICcvcGFyc2VfdmVyc2lvbi9kJyAtaSBzcmMvbGludXgvaW50ZWdyYXRpb24tdGVzdC5weQ0KDQpta2RpciBidWlsZCAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KY2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EZ3RrLWRvYz1mYWxzZSAgICAgXA0KICAgICAgLURtYW49ZmFsc2UgICAgICA=</configure>
+  <build>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgTENfQUxMPUMgbmluamEgdGVzdA0KZmk=</build>
+  <install>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgudev</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

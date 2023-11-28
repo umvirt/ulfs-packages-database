@@ -183,7 +183,7 @@
     <package>glu</package>
     <package>freeglut</package>
     <package>tiff</package>
-    <package>fribidi-1.0.13</package>
+    <package>fribidi</package>
     <package>cairo</package>
     <package>pango</package>
     <package>hicolor-icon-theme</package>
@@ -269,7 +269,6 @@
     <package>gcr4</package>
     <package>json-glib</package>
     <package>glib-networking</package>
-    <package>gsettings-desktop-schemas-44</package>
     <package>libidn2</package>
     <package>libpsl</package>
     <package>nghttp2</package>
@@ -382,5 +381,99 @@
     <package>gst-plugins-good</package>
     <package>libsoup2</package>
     <package>gsound</package>
+    <package>libhandy</package>
+    <package>dconf-base</package>
+    <package>dconf-editor</package>
+    <package>DConf</package>
+    <package>gnome-backgrounds</package>
+    <package>libusb</package>
+    <package>libcddb</package>
+    <package>libcdio-base</package>
+    <package>libcdio-paranoia</package>
+    <package>libcdio</package>
+    <package>libatasmart</package>
+    <package>json-c</package>
+    <package>libaio</package>
+    <package>LVM2</package>
+    <package>cryptsetup</package>
+    <package>keyutils</package>
+    <package>python3-six</package>
+    <package>libbytesize</package>
+    <package>libnvme</package>
+    <package>libblockdev</package>
+    <package>udisks</package>
+    <package>gvfs</package>
+    <package>libadwaita</package>
+    <package>libcloudproviders</package>
+    <package>libnotify</package>
+    <package>libportal</package>
+    <package>nautilus</package>
+    <package>upower</package>
+    <package>bluez</package>
+    <package>gnome-bluetooth</package>
+    <package>gnome-keyring</package>
+    <package>colord</package>
+    <package>libgusb</package>
+    <package>libnl</package>
+    <package>libpcap</package>
+    <package>umockdev</package>
+    <package>usbutils</package>
+    <package>libwacom</package>
+    <package>cups</package>
+    <package>xdg-utils</package>
+    <package>libndp</package>
+    <package>jansson</package>
+    <package>perl-Net-SSLeay</package>
+    <package>perl-URI</package>
+    <package>perl-IO-Socket-SSL</package>
+    <package>ntp</package>
+    <package>dhcpcd</package>
+    <package>iptables</package>
+    <package>newt</package>
+    <package>wpa_supplicant</package>
+    <package>NetworkManager</package>
+    <package>gnome-settings-daemon</package>
+    <package>accountsservice</package>
+    <package>colord-gtk</package>
+    <package>cracklib</package>
+    <package>libpwquality</package>
+    <package>perl-JSON</package>
+    <package>perl-Parse-Yapp</package>
+    <package>rpcsvc</package>
+    <package>fuse</package>
+    <package>gpgme</package>
+    <package>samba</package>
+    <package>libnma</package>
+    <package>gnome-control-center</package>
+    <package>ibus</package>
+    <package>sbc</package>
+    <package>v4l-utils</package>
+    <package>pipewire</package>
+    <package>mutter</package>
+    <package>libsass</package>
+    <package>sassc</package>
+    <package>gnome-shell</package>
+    <package>gnome-shell-extensions</package>
+    <package>gnome-session</package>
+    <package>sound-theme-freedesktop</package>
+    <package>gnome-tweaks</package>
+    <package>gnome-user-docs</package>
+    <package>yelp</package>
+    <package>doxygen</package>
+    <package>AppStream</package>
+    <package>libxmlb</package>
+    <package>libstemmer</package>
+    <package>qt5</package>
+    <package>alsa-plugins</package>
+    <package>alsa-utils</package>
+    <package>alsa-tools</package>
+    <package>alsa-firmware</package>
+    <package>alsa-oss</package>
+    <package>ALSA</package>
+    <package>python3-cryptography</package>
+    <package>python3-Cython</package>
+    <package>python3-numpy</package>
+    <package>python3-cffi</package>
+    <package>python3-pycparser</package>
   </packages>
 </packages>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>dhcpcd</code>
+  <description/>
+  <sourcefile>dhcpcd-10.0.2.tar.xz</sourcefile>
+  <sourcedir>dhcpcd-10.0.2</sourcedir>
+  <unpack/>
+  <configure>Z3JvdXBhZGQgLWcgNTIgZGhjcGNkICAgICAgICAmJg0KdXNlcmFkZCAgLWMgJ2RoY3BjZCBQcml2U2VwJyBcDQogICAgICAgICAtZCAvdmFyL2xpYi9kaGNwY2QgIFwNCiAgICAgICAgIC1nIGRoY3BjZCAgICAgICAgICAgXA0KICAgICAgICAgLXMgL2Jpbi9mYWxzZSAgICAgICBcDQogICAgICAgICAtdSA1MiBkaGNwY2QgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tbGliZXhlY2Rpcj0vdXNyL2xpYi9kaGNwY2QgXA0KICAgICAgICAgICAgLS1kYmRpcj0vdmFyL2xpYi9kaGNwY2QgICAgICBcDQogICAgICAgICAgICAtLXJ1bnN0YXRlZGlyPS9ydW4gICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tcHJpdnNlcHVzZXI9ZGhjcGNk</configure>
+  <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIHRlc3QNCmZpDQo=</build>
+  <install>bWFrZSBpbnN0YWxsDQoNCmluc3RhbGwgIC12IC1tNzAwIC1kIC92YXIvbGliL2RoY3BjZCANCmNob3duICAgIC12IGRoY3BjZDpkaGNwY2QgL3Zhci9saWIvZGhjcGNkIA==</install>
+  <dependances>
+    <dependance>
+      <code>llvm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ntp</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

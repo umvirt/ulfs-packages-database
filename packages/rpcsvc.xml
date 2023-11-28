@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>rpcsvc</code>
+  <description>VGhlIHJwY3N2Yy1wcm90byBwYWNrYWdlIGNvbnRhaW5zIHRoZSByY3BzdmMgcHJvdG9jb2wgZmlsZXMgYW5kIGhlYWRlcnMsIGZvcm1lcmx5IGluY2x1ZGVkIHdpdGggZ2xpYmMsIHRoYXQgYXJlIG5vdCBpbmNsdWRlZCBpbiByZXBsYWNlbWVudCBsaWJ0aXJwYy0xLjMuMywgYWxvbmcgd2l0aCB0aGUgcnBjZ2VuIHByb2dyYW0u</description>
+  <sourcefile>rpcsvc-proto-1.4.4.tar.xz</sourcefile>
+  <sourcedir>rpcsvc-proto-1.4.4</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1zeXNjb25mZGlyPS9ldGMNCg==</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

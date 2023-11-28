@@ -4,7 +4,7 @@
   <code>python3-smartypants</code>
   <description>U21hcnR5cGFudHMgdHJhbnNsYXRlcyBwbGFpbiBBU0NJSSBwdW5jdHVhdGlvbiBjaGFyYWN0ZXJzIGludG8g4oCcc21hcnTigJ0gdHlwb2dyYXBoaWMgcHVuY3R1YXRpb24gSFRNTCBlbnRpdGllcy4=</description>
   <sourcefile>smartypants-2.0.1.tar.gz</sourcefile>
-  <sourcedir>smartypants-2.0.1</sourcedir>
+  <sourcedir>smartypants.py-2.0.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

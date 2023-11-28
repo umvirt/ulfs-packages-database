@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>colord-gtk</code>
+  <description>VGhlIENvbG9yZCBHVEsgcGFja2FnZSBjb250YWlucyBHVEsrIGJpbmRpbmdzIGZvciBDb2xvcmQu</description>
+  <sourcefile>colord-gtk-0.3.0.tar.xz</sourcefile>
+  <sourcedir>colord-gtk-0.3.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0azI9dHJ1ZSAgICAgICAgIFwNCiAgICAgICAgICAgIC1EZ3RrND10cnVlICAgICAgICAgXA0KICAgICAgICAgICAgLUR2YXBpPXRydWUgICAgICAgICBcDQogICAgICAgICAgICAtRGRvY3M9ZmFsc2UgICAgICAgIFwNCiAgICAgICAgICAgIC1EbWFuPWZhbHNlICAgICAgICAgXA0KICAgICAgICAgICAgLi4gICA=</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk4</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>colord</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libatasmart</code>
+  <description>VGhlIGxpYmF0YXNtYXJ0IHBhY2thZ2UgaXMgYSBkaXNrIHJlcG9ydGluZyBsaWJyYXJ5LiBJdCBvbmx5IHN1cHBvcnRzIGEgc3Vic2V0IG9mIHRoZSBBVEEgUy5NLkEuUi5ULiBmdW5jdGlvbmFsaXR5Lg==</description>
+  <sourcefile>libatasmart-0.19.tar.xz</sourcefile>
+  <sourcedir>libatasmart-0.19</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
+  <build/>
+  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGliYXRhc21hcnQtMC4xOSBpbnN0YWxs</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

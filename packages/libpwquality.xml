@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libpwquality</code>
+  <description>VGhlIGxpYnB3cXVhbGl0eSBwYWNrYWdlIHByb3ZpZGVzIGNvbW1vbiBmdW5jdGlvbnMgZm9yIHBhc3N3b3JkIHF1YWxpdHkgY2hlY2tpbmcgYW5kIGFsc28gc2NvcmluZyB0aGVtIGJhc2VkIG9uIHRoZWlyIGFwcGFyZW50IHJhbmRvbW5lc3MuIFRoZSBsaWJyYXJ5IGFsc28gcHJvdmlkZXMgYSBmdW5jdGlvbiBmb3IgZ2VuZXJhdGluZyByYW5kb20gcGFzc3dvcmRzIHdpdGggZ29vZCBwcm9ub3VuY2VhYmlsaXR5Lg==</description>
+  <sourcefile>libpwquality-1.4.5.tar.bz2</sourcefile>
+  <sourcedir>libpwquality-1.4.5</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtc2VjdXJlZGlyPS91c3IvbGliL3NlY3VyaXR5IFwNCiAgICAgICAgICAgIC0td2l0aC1weXRob24tYmluYXJ5PXB5dGhvbjMgIA==</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cracklib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

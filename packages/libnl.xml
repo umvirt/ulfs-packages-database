@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libnl</code>
+  <description>VGhlIGxpYm5sIHN1aXRlIGlzIGEgY29sbGVjdGlvbiBvZiBsaWJyYXJpZXMgcHJvdmlkaW5nIEFQSXMgdG8gbmV0bGluayBwcm90b2NvbCBiYXNlZCBMaW51eCBrZXJuZWwgaW50ZXJmYWNlcy4=</description>
+  <sourcefile>libnl-3.7.0.tar.gz</sourcefile>
+  <sourcedir>libnl-3.7.0</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElD</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KbWtkaXIgLXZwIC91c3Ivc2hhcmUvZG9jL2xpYm5sLTMuNy4wICYmDQp0YXIgLXhmIC4uL2xpYm5sLWRvYy0zLjcuMC50YXIuZ3ogLS1zdHJpcC1jb21wb25lbnRzPTEgLS1uby1zYW1lLW93bmVyIFwNCiAgICAtQyAgL3Vzci9zaGFyZS9kb2MvbGlibmwtMy43LjANCg0KZmk=</install>
+  <dependances/>
+  <patches/>
+  <addons>
+    <addon>libnl-doc-3.7.0.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

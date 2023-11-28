@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>sassc</code>
+  <description>U2Fzc0MgaXMgYSB3cmFwcGVyIGFyb3VuZCBsaWJzYXNzLCBhIENTUyBwcmUtcHJvY2Vzc29yIGxhbmd1YWdlLg==</description>
+  <sourcefile>sassc-3.6.2.tar.gz</sourcefile>
+  <sourcedir>sassc-3.6.2</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZmkgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg0K</configure>
+  <build/>
+  <install/>
+  <dependances>
+    <dependance>
+      <code>libsass</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

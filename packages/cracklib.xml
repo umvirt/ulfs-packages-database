@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>cracklib</code>
+  <description>VGhlIENyYWNrTGliIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHVzZWQgdG8gZW5mb3JjZSBzdHJvbmcgcGFzc3dvcmRzIGJ5IGNvbXBhcmluZyB1c2VyIHNlbGVjdGVkIHBhc3N3b3JkcyB0byB3b3JkcyBpbiBjaG9zZW4gd29yZCBsaXN0cy4=</description>
+  <sourcefile>cracklib-2.9.11.tar.xz</sourcefile>
+  <sourcedir>cracklib-2.9.11</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZml2IA0KDQpBUkdfU1RBVElDPSItLWRpc2FibGUtc3RhdGljIg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiID09ICJZRVMiIF1dDQp0aGVuDQogICAgQVJHX1NUQVRJQz0iLS1lbmFibGUtc3RhdGljIg0KZmkNCg0KUFlUSE9OPXB5dGhvbjMgICAgICAgICAgICAgICBcDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWRlZmF1bHQtZGljdD0vdXNyL2xpYi9jcmFja2xpYi9wd19kaWN0</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmluc3RhbGwgLXYgLW02NDQgLUQgICAgLi4vY3JhY2tsaWItd29yZHMtMi45LjExLnh6IFwNCiAgICAgICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RpY3QvY3JhY2tsaWItd29yZHMueHogICAgJiYNCg0KdW54eiAtdiAgICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZGljdC9jcmFja2xpYi13b3Jkcy54eiAgICAmJg0KbG4gLXYgLXNmIGNyYWNrbGliLXdvcmRzIC91c3Ivc2hhcmUvZGljdC93b3JkcyAgICAgICAgICAgICAgICAmJg0KZWNobyAkKGhvc3RuYW1lKSA+PiAgICAgIC91c3Ivc2hhcmUvZGljdC9jcmFja2xpYi1leHRyYS13b3JkcyAmJg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAgICAgIC91c3IvbGliL2NyYWNrbGliICAgICAgICAgICAgICAgICAgICAmJg0KDQpjcmVhdGUtY3JhY2tsaWItZGljdCAgICAgL3Vzci9zaGFyZS9kaWN0L2NyYWNrbGliLXdvcmRzIFwNCiAgICAgICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RpY3QvY3JhY2tsaWItZXh0cmEtd29yZHM=</install>
+  <dependances/>
+  <patches/>
+  <addons>
+    <addon>cracklib-words-2.9.11.xz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

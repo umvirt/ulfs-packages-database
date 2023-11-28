@@ -15,7 +15,7 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>fribidi-1.0.13</code>
+      <code>fribidi</code>
       <weight>0</weight>
     </dependance>
     <dependance>

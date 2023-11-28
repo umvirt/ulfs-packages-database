@@ -23,6 +23,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>gsettings-desktop-schemas</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>gtk3</code>
       <weight>0</weight>
     </dependance>
@@ -36,10 +40,6 @@
     </dependance>
     <dependance>
       <code>gtk4</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gsettings-desktop-schemas-44</code>
       <weight>0</weight>
     </dependance>
     <dependance>

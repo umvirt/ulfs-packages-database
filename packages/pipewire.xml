@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>pipewire</code>
+  <description>VGhlIHBpcGV3aXJlIHBhY2thZ2UgY29udGFpbnMgYSBzZXJ2ZXIgYW5kIHVzZXJzcGFjZSBBUEkgdG8gaGFuZGxlIG11bHRpbWVkaWEgcGlwZWxpbmVzLiBUaGlzIGluY2x1ZGVzIGEgdW5pdmVyc2FsIEFQSSB0byBjb25uZWN0IHRvIG11bHRpbWVkaWEgZGV2aWNlcywgYXMgd2VsbCBhcyBzaGFyaW5nIG11bHRpbWVkaWEgZmlsZXMgYmV0d2VlbiBhcHBsaWNhdGlvbnMu</description>
+  <sourcefile>pipewire-0.3.77.tar.gz</sourcefile>
+  <sourcedir>pipewire-0.3.77</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgIC1Ec2Vzc2lvbi1tYW5hZ2Vycz0iW10i</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>gstreamer</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gst-plugins-base</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>bluez</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>sbc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>v4l-utils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -23,11 +23,11 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>gnutls</code>
+      <code>gsettings-desktop-schemas</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>gsettings-desktop-schemas-44</code>
+      <code>gnutls</code>
       <weight>0</weight>
     </dependance>
   </dependances>

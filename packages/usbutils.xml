@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>usbutils</code>
+  <description>VGhlIFVTQiBVdGlscyBwYWNrYWdlIGNvbnRhaW5zIHV0aWxpdGllcyB1c2VkIHRvIGRpc3BsYXkgaW5mb3JtYXRpb24gYWJvdXQgVVNCIGJ1c2VzIGluIHRoZSBzeXN0ZW0gYW5kIHRoZSBkZXZpY2VzIGNvbm5lY3RlZCB0byB0aGVtLg==</description>
+  <sourcefile>usbutils-015.tar.gz</sourcefile>
+  <sourcedir>usbutils-015</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtZml2ICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1kYXRhZGlyPS91c3Ivc2hhcmUvaHdkYXRh</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQppbnN0YWxsIC1kbTc1NSAvdXNyL3NoYXJlL2h3ZGF0YS8NCmd1bnppcCAtayAuLi91c2IuaWRzLmd6DQpjcCAtdiAuLi91c2IuaWRzIC91c3Ivc2hhcmUvaHdkYXRhLw==</install>
+  <dependances>
+    <dependance>
+      <code>git</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>usb.ids.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

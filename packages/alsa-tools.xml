@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>alsa-tools</code>
+  <description>VGhlIEFMU0EgVG9vbHMgcGFja2FnZSBjb250YWlucyBhZHZhbmNlZCB0b29scyBmb3IgY2VydGFpbiBzb3VuZCBjYXJkcy4NCg0K</description>
+  <sourcefile>alsa-tools-1.2.5.tar.bz2</sourcefile>
+  <sourcedir>alsa-tools-1.2.5</sourcedir>
+  <unpack/>
+  <configure>cm0gLXJmIHFsbzEwazEgTWFrZWZpbGUgZ2l0Y29tcGlsZQ0KDQpmb3IgdG9vbCBpbiAqDQpkbw0KICBjYXNlICR0b29sIGluDQogICAgc2VxICkNCiAgICAgIHRvb2xfZGlyPXNlcS9zYmlsb2FkDQogICAgOzsNCiAgICAqICkNCiAgICAgIHRvb2xfZGlyPSR0b29sDQogICAgOzsNCiAgZXNhYw0KDQogIHB1c2hkICR0b29sX2Rpcg0KICAgIC4vY29uZmlndXJlIC0tcHJlZml4PS91c3INCiAgcG9wZA0KDQpkb25l</configure>
+  <build>Zm9yIHRvb2wgaW4gKg0KZG8NCiAgY2FzZSAkdG9vbCBpbg0KICAgIHNlcSApDQogICAgICB0b29sX2Rpcj1zZXEvc2JpbG9hZA0KICAgIDs7DQogICAgKiApDQogICAgICB0b29sX2Rpcj0kdG9vbA0KICAgIDs7DQogIGVzYWMNCg0KICBwdXNoZCAkdG9vbF9kaXINCiAgICBtYWtlDQogIHBvcGQNCg0KZG9uZQ==</build>
+  <install>Zm9yIHRvb2wgaW4gKg0KZG8NCiAgY2FzZSAkdG9vbCBpbg0KICAgIHNlcSApDQogICAgICB0b29sX2Rpcj1zZXEvc2JpbG9hZA0KICAgIDs7DQogICAgKiApDQogICAgICB0b29sX2Rpcj0kdG9vbA0KICAgIDs7DQogIGVzYWMNCg0KICBwdXNoZCAkdG9vbF9kaXINCiAgICBtYWtlIGluc3RhbGwNCiAgICAvc2Jpbi9sZGNvbmZpZw0KICBwb3BkDQoNCmRvbmU=</install>
+  <dependances>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
