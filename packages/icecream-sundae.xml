@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>icecream-sundae</code>
+  <description>Q29tbWFuZGxpbmUgTW9uaXRvciBmb3IgSWNlY3JlYW0=</description>
+  <sourcefile>icecream-sundae-1.0.0.tar.gz</sourcefile>
+  <sourcedir>icecream-sundae-1.0.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGRkaXINCmNkIGJ1aWxkZGlyDQptZXNvbiAuLiAtLWJ1aWxkdHlwZSByZWxlYXNlIC0tcHJlZml4PS91c3I=</configure>
+  <build>Y2QgYnVpbGRkaXINCm5pbmph</build>
+  <install>Y2QgYnVpbGRkaXINCm5pbmphIGluc3RhbGw=</install>
+  <dependances>
+    <dependance>
+      <code>icecc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

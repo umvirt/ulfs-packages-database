@@ -476,5 +476,14 @@
     <package>python3-cffi</package>
     <package>python3-pycparser</package>
     <package>mrustc</package>
+    <package>distcc</package>
+    <package>libiberty</package>
+    <package>icecc</package>
+    <package>libcap-ng</package>
+    <package>lzo</package>
+    <package>icecream-sundae</package>
+    <package>icemon</package>
+    <package>extra-cmake-modules</package>
+    <package>libffi-x86-64</package>
   </packages>
 </packages>

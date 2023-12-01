@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libiberty</code>
+  <description>VGhlIGxpYmliZXJ0eSBsaWJyYXJ5IGlzIGEgY29sbGVjdGlvbiBvZiBzdWJyb3V0aW5lcyB1c2VkIGJ5IHZhcmlvdXMgR05VIHByb2dyYW1zLiA=</description>
+  <sourcefile>binutils-2.41.tar.xz</sourcefile>
+  <sourcedir>binutils-2.41</sourcedir>
+  <unpack/>
+  <configure>Y2QgbGliaWJlcnR5DQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZW5hYmxlLWluc3RhbGwtbGliaWJlcnR5DQo=</configure>
+  <build>Y2QgbGliaWJlcnR5DQptYWtl</build>
+  <install>Y2QgbGliaWJlcnR5DQptYWtlIGluc3RhbGw=</install>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

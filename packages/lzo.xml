@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>lzo</code>
+  <description>TFpPIGlzIGEgZGF0YSBjb21wcmVzc2lvbiBsaWJyYXJ5IHdoaWNoIGlzIHN1aXRhYmxlIGZvciBkYXRhIGRlY29tcHJlc3Npb24gYW5kIGNvbXByZXNzaW9uIGluIHJlYWwtdGltZS4=</description>
+  <sourcefile>lzo-2.10.tar.gz</sourcefile>
+  <sourcedir>lzo-2.10</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXNoYXJlZCAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2x6by0yLjEw</configure>
+  <build/>
+  <install/>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

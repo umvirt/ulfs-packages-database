@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>icemon</code>
+  <description>SWNlY3JlYW0gR1VJIE1vbml0b3I=</description>
+  <sourcefile>icemon-3.3.tar.gz</sourcefile>
+  <sourcedir>icemon-3.3</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <build>Y2QgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <dependances>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>icecc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>extra-cmake-modules</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
