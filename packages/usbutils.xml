@@ -9,6 +9,7 @@
   <configure>YXV0b3JlY29uZiAtZml2ICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1kYXRhZGlyPS91c3Ivc2hhcmUvaHdkYXRh</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQppbnN0YWxsIC1kbTc1NSAvdXNyL3NoYXJlL2h3ZGF0YS8NCmd1bnppcCAtayAuLi91c2IuaWRzLmd6DQpjcCAtdiAuLi91c2IuaWRzIC91c3Ivc2hhcmUvaHdkYXRhLw==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>git</code>

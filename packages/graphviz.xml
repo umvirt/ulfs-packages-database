@@ -9,6 +9,7 @@
   <configure>c2VkIC1pICcvTElCUE9TVEZJWD0iNjQiL3MvNjQvLycgY29uZmlndXJlLmFjICYmDQoNCi4vYXV0b2dlbi5zaCAgICAgICAgICAgICAgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9ncmFwaHZpei04LjEuMA0K</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>fontconfig</code>

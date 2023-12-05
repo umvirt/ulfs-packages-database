@@ -9,6 +9,7 @@
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyBcDQogICAgICAgICAgICAtLXByb2dyYW0tc3VmZml4PS0x</configure>
   <build>bWFrZSBHRVRURVhUX1BBQ0tBR0U9bGlid25jay0x</build>
   <install>bWFrZSBHRVRURVhUX1BBQ0tBR0U9bGlid25jay0xIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>

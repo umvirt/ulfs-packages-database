@@ -9,6 +9,7 @@
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgIC0td2l0aC1leHRyYS1vbmx5IFwNCiAgICAgICAgICAgIC0td2l0aC1ndGs9bm8gJEFSR19TVEFUSUMNCg==</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>glib</code>

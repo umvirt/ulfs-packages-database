@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build>Iw==</build>
   <install>Iw0K</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libXau</code>

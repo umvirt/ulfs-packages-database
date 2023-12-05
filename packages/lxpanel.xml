@@ -9,6 +9,7 @@
   <configure/>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>lxmenu-data</code>

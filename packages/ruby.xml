@@ -9,6 +9,7 @@
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXNoYXJlZCAgICBcDQogICAgICAgICAgICAtLXdpdGhvdXQtdmFsZ3JpbmQgXA0KICAgICAgICAgICAgLS13aXRob3V0LWJhc2VydWJ5IFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3J1YnktMy4yLjI=</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgY2FwaQ0KDQpmaQ==</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>yaml</code>

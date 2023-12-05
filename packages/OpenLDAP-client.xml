@@ -9,6 +9,7 @@
   <configure>YXV0b2NvbmYgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZHluYW1pYyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdmVyc2lvbmluZz15ZXMgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1kZWJ1ZyAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zbGFwZCANCg==</configure>
   <build>bWFrZSBkZXBlbmQgJiYNCm1ha2U=</build>
   <install>bWFrZSBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>cyrus-sasl</code>

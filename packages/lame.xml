@@ -9,6 +9,7 @@
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1lbmFibGUtbXAzcnRwICRBUkdfU1RBVElDDQo=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIHRlc3QNCmZp</build>
   <install>bWFrZSBwa2dodG1sZGlyPS91c3Ivc2hhcmUvZG9jL2xhbWUtMy4xMDAgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>nasm</code>

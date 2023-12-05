@@ -9,6 +9,7 @@
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build>Iw==</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>util-macros</code>

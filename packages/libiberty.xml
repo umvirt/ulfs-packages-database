@@ -9,6 +9,7 @@
   <configure>Y2QgbGliaWJlcnR5DQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZW5hYmxlLWluc3RhbGwtbGliaWJlcnR5DQo=</configure>
   <build>Y2QgbGliaWJlcnR5DQptYWtl</build>
   <install>Y2QgbGliaWJlcnR5DQptYWtlIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

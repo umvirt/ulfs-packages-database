@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgDQpuaW5qYQ0K</build>
   <install>Y2QgICAgYnVpbGQgDQpuaW5qYSBpbnN0YWxsDQo=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>krb5</code>

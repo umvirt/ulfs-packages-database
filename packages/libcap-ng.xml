@@ -9,6 +9,7 @@
   <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

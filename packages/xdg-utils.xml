@@ -9,6 +9,7 @@
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbg==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIC1rIHRlc3QNCmZp</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>links</code>

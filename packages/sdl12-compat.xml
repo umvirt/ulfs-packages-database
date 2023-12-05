@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UkVMRUFTRSAgXA0KICAgICAgLi4=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbCAmJg0Kcm0gLXZmIC91c3IvbGliL2xpYlNETG1haW4uYQ==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>cmake</code>

@@ -9,6 +9,7 @@
   <configure>c2VkICcvcHJlcCA6L2FcXHR0b3VjaCBwcmVwJyAtaSBzcmMvTWFrZWZpbGUNCg==</configure>
   <build>bWFrZSBFUlJPUlM9DQo=</build>
   <install>bWFrZSBpbnN0YWxsIExJQkRJUj0vdXNyL2xpYg==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>mandoc</code>

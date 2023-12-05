@@ -9,6 +9,7 @@
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXRob3JvdWdoLXRlc3RzICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZmxhYy0xLjQuMyA=</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libogg</code>

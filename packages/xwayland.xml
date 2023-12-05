@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAgICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgICAgICAgIFwNCiAgICAgICAgICAgIC1EeGtiX291dHB1dF9kaXI9L3Zhci9saWIveGtiIFwNCiAgICAgICAgICAgIC4uICAgICAgICAgICAgICAgDQo=</configure>
   <build>Y2QgICAgYnVpbGQKbmluamEK</build>
   <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>Xlibs</code>

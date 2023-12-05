@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICBcDQogICAgICAgICAgICAtLXdyYXAtbW9kZT1ub2ZhbGxiYWNrIFwNCiAgICAgICAgICAgIC4uIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libxml2</code>

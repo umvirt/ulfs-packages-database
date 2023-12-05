@@ -9,6 +9,7 @@
   <configure>c2VkIC1pICdzQC1SLi5saWJkaXIuQEAnIHNjcmlwdHMvKi5wYy5pbg0KDQpta2RpciBvdXQgJiYNCmNkICAgIG91dCAmJg0KDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAgIC4u</configure>
   <build>Y2QgICAgb3V0ICYmDQptYWtlDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbWFrZSBjaGVjaw0KZmkNCg0KDQpwaXAzIHdoZWVsIC13IGRpc3QgLS1uby1idWlsZC1pc29sYXRpb24gLS1uby1kZXBzICRQV0Q=</build>
   <install>Y2QgICAgb3V0ICYmDQptYWtlIGluc3RhbGwNCg0KcGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIEJyb3RsaQ==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>cmake</code>

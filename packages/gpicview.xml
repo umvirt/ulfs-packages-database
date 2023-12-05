@@ -9,6 +9,7 @@
   <configure/>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQpzZWQgLWkgJ3MvVXRpbGl0eTsvLycgL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvZ3BpY3ZpZXcuZGVza3RvcA==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>gtk2</code>

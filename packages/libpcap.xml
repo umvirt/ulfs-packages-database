@@ -9,6 +9,7 @@
   <configure/>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgIT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkIC1pICcvSU5TVEFMTF9EQVRBLipsaWJwY2FwLmFcfFJBTkxJQi4qbGlicGNhcC5hLyBzL14vIy8nIE1ha2VmaWxlDQoNCmZp</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libusb</code>

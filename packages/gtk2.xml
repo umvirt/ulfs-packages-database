@@ -9,6 +9,7 @@
   <configure>c2VkIC1lICdzI2wgXChndGstLipcKS5zZ21sIyYgLW8gXDEjJyBcDQogICAgLWkgZG9jcy97ZmFxLHR1dG9yaWFsfS9NYWtlZmlsZS5pbiAgICAgICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMNCg==</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>at-spi2-core</code>

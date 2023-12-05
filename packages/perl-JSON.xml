@@ -9,6 +9,7 @@
   <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

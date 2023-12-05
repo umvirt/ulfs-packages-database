@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggXA0KICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgIFwNCiAgICAgIC1EZ2xhbW9yPXRydWUgICAgICAgICBcDQogICAgICAtRHhrYl9vdXRwdXRfZGlyPS92YXIvbGliL3hrYiANCg0K</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg0K</build>
   <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbCAmJgpta2RpciAtcHYgL2V0Yy9YMTEveG9yZy5jb25mLmQK</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>Xfonts</code>

@@ -9,6 +9,7 @@
   <configure>c2VkIC1pIC1yICcvXlxzP3Rlc3RhZG9iZXNkay9kJyBleGVtcGkvTWFrZWZpbGUuYW0gJiYNCmF1dG9yZWNvbmYgLWZpdg0KDQpBUkdfU1RBVElDPSItLWRpc2FibGUtc3RhdGljIg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiID09ICJZRVMiIF1dDQp0aGVuDQogICAgQVJHX1NUQVRJQz0iLS1lbmFibGUtc3RhdGljIg0KZmkNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>boost</code>

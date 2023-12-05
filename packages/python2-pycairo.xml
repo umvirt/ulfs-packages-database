@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build>cHl0aG9uMiBzZXR1cC5weSBidWlsZA==</build>
   <install>cHl0aG9uMiBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MSAgICYmDQpweXRob24yIHNldHVwLnB5IGluc3RhbGxfcHljYWlyb19oZWFkZXIgJiYNCnB5dGhvbjIgc2V0dXAucHkgaW5zdGFsbF9wa2djb25maWc=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>cairo</code>

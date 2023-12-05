@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>
   <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>qt5</code>

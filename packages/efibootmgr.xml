@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build>bWFrZSBFRklESVI9TEZTIEVGSV9MT0FERVI9Z3J1Yng2NC5lZmk=</build>
   <install>bWFrZSBpbnN0YWxsIEVGSURJUj1MRlM=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>popt</code>

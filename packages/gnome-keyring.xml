@@ -9,6 +9,7 @@
   <configure>c2VkIC1pICdzOiIvZGVza3RvcDoiL29yZzonIHNjaGVtYS8qLnhtbCAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ0K</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libxslt</code>

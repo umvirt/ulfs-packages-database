@@ -9,6 +9,7 @@
   <configure>Iwo=</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAvc291cmNlcy9NYWtvLTEuMi40Cg==</build>
   <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIE1ha28K</install>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

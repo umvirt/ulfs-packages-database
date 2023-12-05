@@ -9,6 +9,7 @@
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
   <build/>
   <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGliYXRhc21hcnQtMC4xOSBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

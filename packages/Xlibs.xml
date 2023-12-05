@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build>Iw==</build>
   <install>Iw==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libxcb</code>

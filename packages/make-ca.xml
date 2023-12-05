@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build>Iw==</build>
   <install>Z3VuemlwIC1rIC4uL2NlcnRkYXRhLnR4dC5neg0KY3AgLXYgLi4vY2VydGRhdGEudHh0IC9ldGMvc3NsDQoNCm1ha2UgaW5zdGFsbCAmJg0KaW5zdGFsbCAtdmRtNzU1IC9ldGMvc3NsL2xvY2FsDQoNCi91c3Ivc2Jpbi9tYWtlLWNhIC1yIC0tZm9yY2U=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>p11-kit</code>

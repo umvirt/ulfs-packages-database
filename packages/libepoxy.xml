@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQgJiYKY2QgICAgYnVpbGQgJiYKCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLgo=</configure>
   <build>Y2QgICAgYnVpbGQKbmluamEK</build>
   <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>mesa</code>

@@ -9,6 +9,7 @@
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZ2xlczEgXA0KICAgICAgICAgICAgLS1lbmFibGUtZ2xlczIgXA0KICAgICAgICAgICAgLS1lbmFibGUte2ttcyx3YXlsYW5kLHhsaWJ9LWVnbC1wbGF0Zm9ybSBcDQogICAgICAgICAgICAtLWVuYWJsZS13YXlsYW5kLWVnbC1zZXJ2ZXIgIA==</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>

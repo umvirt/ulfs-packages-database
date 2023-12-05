@@ -9,6 +9,7 @@
   <configure>UEFUSCs9Oi91c3Ivc2JpbiAgICAgICAgICAgICAgICBcDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWNtZGxpYiAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtcGtnY29uZmlnICBcDQogICAgICAgICAgICAtLWVuYWJsZS11ZGV2X3N5bmM=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQptYWtlIGluc3RhbGxfc3lzdGVtZF91bml0cw==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libaio</code>

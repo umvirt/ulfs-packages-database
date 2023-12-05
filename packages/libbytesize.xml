@@ -9,6 +9,7 @@
   <configure/>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>pcre2</code>

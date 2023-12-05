@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build>bWFrZSBhbGwgcnBsOCBidGNmbGFzaA==</build>
   <install>bWFrZSBwcmVmaXg9L3VzciBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLW02NDQgLUQgaW5kZXguaHRtbCBcDQogICAgL3Vzci9zaGFyZS9kb2MvZHZkK3J3LXRvb2xzLTcuMS9pbmRleC5odG1sDQoNCmZp</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>cdrtools</code>

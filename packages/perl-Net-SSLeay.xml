@@ -9,6 +9,7 @@
   <configure>eWVzICcnIHwgcGVybCBNYWtlZmlsZS5QTCA=</configure>
   <build>bWFrZSAgICAgICAgICAgICAmJg0KbWFrZSB0ZXN0</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

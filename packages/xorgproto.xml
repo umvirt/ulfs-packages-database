@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAuLg0K</configure>
   <build>Y2QgICAgYnVpbGQKbmluamEK</build>
   <install>I3NsZWVwIG5lZWRlZCB0byBmaW5kIGluc3RhbGxlZCBmaWxlcyAKc2xlZXAgMQoKY2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAoKaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQp0aGVuCgptdiAtdiAkWE9SR19QUkVGSVgvc2hhcmUvZG9jL3hvcmdwcm90b3ssLTIwMjMuMn0KCmZpCg==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>util-macros</code>

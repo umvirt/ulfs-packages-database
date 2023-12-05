@@ -9,6 +9,7 @@
   <configure>c2VkIC1pIC1lICcvXnJjZGlyID0vcyxeXChyY2RpciA9IFwpLiosXDEvZXRjL1gxMS9hcHAtZGVmYXVsdHMsJyBzcmMvTWFrZWZpbGUuaW4gJiYNCi4vY29uZmlndXJlICRYT1JHX0NPTkZJRw0K</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>xorg-server</code>

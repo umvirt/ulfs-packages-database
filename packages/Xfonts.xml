@@ -9,6 +9,7 @@
   <configure/>
   <build/>
   <install>aW5zdGFsbCAtdiAtZCAtbTc1NSAvdXNyL3NoYXJlL2ZvbnRzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQpsbiAtc3ZmbiAkWE9SR19QUkVGSVgvc2hhcmUvZm9udHMvWDExL09URiAvdXNyL3NoYXJlL2ZvbnRzL1gxMS1PVEYgJiYNCmxuIC1zdmZuICRYT1JHX1BSRUZJWC9zaGFyZS9mb250cy9YMTEvVFRGIC91c3Ivc2hhcmUvZm9udHMvWDExLVRURg==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>xcursor-themes</code>

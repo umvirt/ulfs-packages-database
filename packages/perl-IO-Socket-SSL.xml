@@ -9,6 +9,7 @@
   <configure>eWVzIHwgcGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>make-ca</code>

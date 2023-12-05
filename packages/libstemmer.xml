@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build/>
   <install>aW5zdGFsbCAtdiAtbTY0NCBpbmNsdWRlL2xpYnN0ZW1tZXIuaCAvdXNyL2luY2x1ZGUNCmluc3RhbGwgLXYgLW02NDQgbGlic3RlbW1lciouYSAvdXNyL2xpYi8NCmluc3RhbGwgLXYgLW02NDQgbGlic3RlbW1lciouc28uKiAvdXNyL2xpYi8NCmluc3RhbGwgLXYgLW02NDQgc3RlbXdvcmRzIC91c3IvYmluDQo=</install>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches>
     <patch>

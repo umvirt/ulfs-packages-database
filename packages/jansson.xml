@@ -9,6 +9,7 @@
   <configure>c2VkIC1lICIvRFQvczt8IHNvcnQ7fCBzZWQgJ3MvQEBsaWJqYW5zc29uLiovLycgJjsiIFwNCiAgICAtaSB0ZXN0L3N1aXRlcy9hcGkvY2hlY2stZXhwb3J0cw0KDQpBUkdfU1RBVElDPSItLWRpc2FibGUtc3RhdGljIg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiID09ICJZRVMiIF1dDQp0aGVuDQogICAgQVJHX1NUQVRJQz0iLS1lbmFibGUtc3RhdGljIg0KZmkNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

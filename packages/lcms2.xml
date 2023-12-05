@@ -9,6 +9,7 @@
   <configure>c2VkICcvQnVmZmVyU2l6ZSA8IFRhZ1NpemUvLCsxIHMvZ290byBFcnJvci9UYWdTaXplID0gQnVmZmVyU2l6ZS8nIFwNCiAgICAtaSBzcmMvY21zaW8wLmMNCg0KQVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw==</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libjpeg-turbo</code>

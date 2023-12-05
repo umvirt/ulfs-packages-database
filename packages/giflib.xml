@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build/>
   <install>bWFrZSBQUkVGSVg9L3VzciBpbnN0YWxsICYmDQoNCnJtIC1mdiAvdXNyL2xpYi9saWJnaWYuYSAmJg0KDQpmaW5kIGRvYyBcKCAtbmFtZSBNYWtlZmlsZVwqIC1vIC1uYW1lIFwqLjEgXA0KICAgICAgICAgLW8gLW5hbWUgXCoueG1sIFwpIC1leGVjIHJtIC12IHt9IFw7ICYmDQoNCmluc3RhbGwgLXYgLWRtNzU1IC91c3Ivc2hhcmUvZG9jL2dpZmxpYi01LjIuMSAmJg0KY3AgLXYgLVIgZG9jLyogL3Vzci9zaGFyZS9kb2MvZ2lmbGliLTUuMi4x</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>xmlto</code>

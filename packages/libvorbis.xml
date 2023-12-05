@@ -9,6 +9,7 @@
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw==</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgLWoxIGNoZWNrDQpmaQ==</build>
   <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy9Wb3JiaXMqIC91c3Ivc2hhcmUvZG9jL2xpYnZvcmJpcy0xLjMuNw==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libogg</code>

@@ -9,6 +9,7 @@
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCnNlZCAtaSAnL0RHX0RJU0FCTEVfREVQUkVDQVRFRC9kJyBnbGFkZS9NYWtlZmlsZS5pbiAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw0KDQoNCg0K</configure>
   <build/>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libxml2</code>

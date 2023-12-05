@@ -9,6 +9,7 @@
   <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgIC0td2l0aC1ndGsNCg0K</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
   <install>bWFrZSBpbnN0YWxsDQoNCmdyb3VwYWRkIC1nIDMzIGRpc3RjYw0KdXNlcmFkZCAtYyAiZGlzdGNjIHVzZXIiIC1tIC1kIC92YXIvcnVuL2Rpc3RjYyAtZyBkaXN0Y2MgLXMgL2Jpbi9mYWxzZSAtdSAzMyBkaXN0Y2MgDQo=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>gtk3</code>

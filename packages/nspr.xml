@@ -9,6 +9,7 @@
   <configure>Y2QgbnNwciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCnNlZCAtcmkgJy9eUkVMRUFTRS9zL14vIy8nIHByL3NyYy9taXNjL01ha2VmaWxlLmluICYmDQpzZWQgLWkgJ3MjJChMSUJSQVJZKSAjIycgICBjb25maWcvcnVsZXMubWsgICAgICAgICAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0td2l0aC1tb3ppbGxhIFwNCiAgICAgICAgICAgIC0td2l0aC1wdGhyZWFkcyBcDQogICAgICAgICAgICAkKFsgJCh1bmFtZSAtbSkgPSB4ODZfNjQgXSAmJiBlY2hvIC0tZW5hYmxlLTY0Yml0KQ==</configure>
   <build>Y2QgbnNwcg0KbWFrZSA=</build>
   <install>Y2QgbnNwcg0KbWFrZSBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons/>

@@ -9,6 +9,7 @@
   <configure>ZWNobyAnJyA+IGFsc2FjdGwvaW5pdF9zeXNkZXBzLmMNCg0KLi9jb25maWd1cmUgLS1kaXNhYmxlLWFsc2Fjb25mIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1iYXQgICBcDQogICAgICAgICAgICAtLWRpc2FibGUteG1sdG8gXA0KICAgICAgICAgICAgLS13aXRoLWN1cnNlcz1uY3Vyc2VzdyA=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ0K</build>
   <install/>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>alsa-lib</code>

@@ -9,6 +9,7 @@
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EcGFja2FnZS1vcmlnaW49aHR0cHM6Ly93d3cubGludXhmcm9tc2NyYXRjaC5vcmcvYmxmcy92aWV3LzEyLjAtc3lzdGVtZC8gXA0KICAgICAgLURwYWNrYWdlLW5hbWU9IkdTdHJlYW1lciAxLjIyLjUgQkxGUyINCg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphIA0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>gdk-pixbuf</code>

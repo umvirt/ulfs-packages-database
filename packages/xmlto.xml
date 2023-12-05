@@ -9,6 +9,7 @@
   <configure>TElOS1M9Ii91c3IvYmluL2xpbmtzIiBcDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
   <install>bWFrZSBpbnN0YWxsDQojYWRkIHByb3h5IHRvIHNraXAgdmFsaWRhdGlvbiB0byBidWlsZCBvZmZsaW5lDQptdiAvdXNyL2Jpbi94bWx0byAgL3Vzci9iaW4veG1sdG9fDQoNCmNhdCA+IC91c3IvYmluL3htbHRvIDw8ICJFT0YiDQovdXNyL2Jpbi94bWx0b18gLS1za2lwLXZhbGlkYXRpb24gJEANCkVPRg0KDQpjaG1vZCAreCAvdXNyL2Jpbi94bWx0byA=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libxslt</code>

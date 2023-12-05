@@ -9,6 +9,7 @@
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0td2l0aC14aW5pdGRpcj0vZXRjL1gxMS9hcHAtZGVmYXVsdHMNCg0K</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmCmxkY29uZmlnCg==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>Xlibs</code>

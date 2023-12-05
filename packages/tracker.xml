@@ -9,6 +9,7 @@
   <configure>bXYgZG9jcy9yZWZlcmVuY2UvbGlidHJhY2tlci1zcGFycWwvZG9jL3tUcmFja2VyLTMuMCx0cmFja2VyLTMuNS4zfSAmJg0Kc2VkICcvZG9jc19uYW1lL3MvVHJhY2tlci0zLjAvdHJhY2tlci0zLjUuMy8nIFwNCiAgICAtaSBkb2NzL3JlZmVyZW5jZS9saWJ0cmFja2VyLXNwYXJxbC9tZXNvbi5idWlsZA0KDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgICAgICAgLURtYW49ZmFsc2UgICAgICAgICBcDQogICAgICAgICAgICAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>icu</code>

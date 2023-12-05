@@ -9,6 +9,7 @@
   <configure>Iw==</configure>
   <build>I3BpcDMgd2hlZWwgLXcgZGlzdCAtLW5vLWJ1aWxkLWlzb2xhdGlvbiAtLW5vLWRlcHMgJFBXRA0KcHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
   <install>I3BpcDMgaW5zdGFsbCAtLW5vLWluZGV4IC0tZmluZC1saW5rcyBkaXN0IC0tbm8tY2FjaGUtZGlyIC0tbm8tdXNlciBjcnlwdG9ncmFwaHkNCg0KcHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ0K</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>python3-numpy</code>

@@ -9,6 +9,7 @@
   <configure>Y2QganMvc3JjICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWludGwtYXBpICAgICBcDQogICAgICAgICAgICAtLXdpdGgtc3lzdGVtLXpsaWIgIFwNCiAgICAgICAgICAgIC0td2l0aC1zeXN0ZW0tbnNwciAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbS1pY3UgICBcDQogICAgICAgICAgICAtLWVuYWJsZS10aHJlYWRzYWZlIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXJlYWRsaW5l</configure>
   <build>Y2QganMvc3JjICYmDQptYWtl</build>
   <install>Y2QganMvc3JjICYmDQptYWtlIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>zip</code>

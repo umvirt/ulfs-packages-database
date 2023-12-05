@@ -9,6 +9,7 @@
   <configure>c2VkICdzQC9iaW4vc2hAL2Jpbi9zaCAtbEAnIC1pIGdub21lLXNlc3Npb24vZ25vbWUtc2Vzc2lvbi5pbg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uIA0K</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCg==</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KbXYgLXYgL3Vzci9zaGFyZS9kb2MvZ25vbWUtc2Vzc2lvbnssLTQ0LjB9DQoNCnJtIC12IC91c3Ivc2hhcmUveHNlc3Npb25zL2dub21lLmRlc2t0b3AgJiYNCnJtIC12IC91c3Ivc2hhcmUvd2F5bGFuZC1zZXNzaW9ucy9nbm9tZS5kZXNrdG9wDQo=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>mesa</code>

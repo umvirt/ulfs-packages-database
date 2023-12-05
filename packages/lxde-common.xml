@@ -9,6 +9,7 @@
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQoNCnVwZGF0ZS1taW1lLWRhdGFiYXNlIC91c3Ivc2hhcmUvbWltZSAmJg0KZ3RrLXVwZGF0ZS1pY29uLWNhY2hlIC1xZiAvdXNyL3NoYXJlL2ljb25zL2hpY29sb3IgJiYNCnVwZGF0ZS1kZXNrdG9wLWRhdGFiYXNlIC1xDQo=</install>
+  <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>shared-mime-info</code>
