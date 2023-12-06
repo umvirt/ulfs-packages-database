@@ -92,6 +92,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>which</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>cups</code>
       <weight>0</weight>
     </dependance>
