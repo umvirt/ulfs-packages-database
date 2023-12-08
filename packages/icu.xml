@@ -9,7 +9,7 @@
   <configure>Y2Qgc291cmNlDQphdXRvY29uZg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciA=</configure>
   <build>Y2Qgc291cmNlDQptYWtl</build>
   <install>Y2Qgc291cmNlDQptYWtlIGluc3RhbGw=</install>
-  <localbuild>0</localbuild>
+  <localbuild>1</localbuild>
   <dependances/>
   <patches>
     <patch>
