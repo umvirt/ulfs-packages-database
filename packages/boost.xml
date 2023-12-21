@@ -6,7 +6,7 @@
   <sourcefile>boost_1_83_0.tar.bz2</sourcefile>
   <sourcedir>boost_1_83_0</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvI2luY2x1ZGUuKnBob2VuaXguKnR1cGxlLmhwcC4qL2QnIFwNCiAgYm9vc3QvcGhvZW5peC9zdGwuaHBwDQoNCi4vYm9vdHN0cmFwLnNoIC0tcHJlZml4PS91c3IgLS13aXRoLXB5dGhvbj1weXRob24zICYm</configure>
+  <configure>c2VkIC1pICcvI2luY2x1ZGUuKnBob2VuaXguKnR1cGxlLmhwcC4qL2QnIFwNCiAgYm9vc3QvcGhvZW5peC9zdGwuaHBwDQoNCi4vYm9vdHN0cmFwLnNoIC0tcHJlZml4PS91c3IgLS13aXRoLXB5dGhvbj1weXRob24z</configure>
   <build>Li9iMiBzdGFnZSAtamBucHJvY2AgdGhyZWFkaW5nPW11bHRpIGxpbms9c2hhcmVk</build>
   <install>Li9iMiBpbnN0YWxsIHRocmVhZGluZz1tdWx0aSBsaW5rPXNoYXJlZA==</install>
   <localbuild>0</localbuild>
