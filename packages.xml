@@ -485,5 +485,61 @@
     <package>icemon</package>
     <package>extra-cmake-modules</package>
     <package>libffi-x86-64</package>
+    <package>mate-desktop</package>
+    <package>Perl-XML-Simple</package>
+    <package>icon-naming-utils</package>
+    <package>gnome-icon-theme</package>
+    <package>gnome-icon-theme-extras</package>
+    <package>gnome-icon-theme-symbolic</package>
+    <package>mate-icon-theme</package>
+    <package>mate-backgrounds</package>
+    <package>perl-XML-Parser</package>
+    <package>mate-common</package>
+    <package>mate-menus</package>
+    <package>marco</package>
+    <package>zenity</package>
+    <package>libxklavier</package>
+    <package>libmatekbd</package>
+    <package>mate-settings-daemon</package>
+    <package>mate-control-center</package>
+    <package>libmatemixer</package>
+    <package>mate-media</package>
+    <package>mate-applets</package>
+    <package>gtksourceview</package>
+    <package>libmateweather</package>
+    <package>mate-panel</package>
+    <package>mate-indicator-applet</package>
+    <package>libfakekey</package>
+    <package>mate-netbook</package>
+    <package>mate-notification-daemon</package>
+    <package>mate-polkit</package>
+    <package>mate-power-manager</package>
+    <package>libgnome-keyring</package>
+    <package>mate-screensaver</package>
+    <package>mate-sensors-applet</package>
+    <package>mate-session-manager</package>
+    <package>libsigcpp</package>
+    <package>glibmm</package>
+    <package>atkmm</package>
+    <package>cairomm</package>
+    <package>pangomm</package>
+    <package>gtkmm3</package>
+    <package>mate-system-monitor</package>
+    <package>mate-terminal</package>
+    <package>mate-user-guide</package>
+    <package>mozo</package>
+    <package>caja</package>
+    <package>djvulibre</package>
+    <package>libspectre</package>
+    <package>atril</package>
+    <package>engrampa</package>
+    <package>eom</package>
+    <package>mate-calc</package>
+    <package>pluma</package>
+    <package>mate-themes</package>
+    <package>gtksourceview4</package>
+    <package>Mate</package>
+    <package>pavucontrol</package>
+    <package>ghostscript</package>
   </packages>
 </packages>

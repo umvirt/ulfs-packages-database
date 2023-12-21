@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>icon-naming-utils</code>
+  <description>VGhlIGljb24tbmFtaW5nLXV0aWxzIHBhY2thZ2UgY29udGFpbnMgYSBQZXJsIHNjcmlwdCB1c2VkIGZvciBtYWludGFpbmluZyBiYWNrd2FyZHMgY29tcGF0aWJpbGl0eSB3aXRoIGN1cnJlbnQgZGVza3RvcCBpY29uIHRoZW1lcywgd2hpbGUgbWlncmF0aW5nIHRvIHRoZSBuYW1lcyBzcGVjaWZpZWQgaW4gdGhlIEljb24gTmFtaW5nIFNwZWNpZmljYXRpb24u</description>
+  <sourcefile>icon-naming-utils-0.8.90.tar.bz2</sourcefile>
+  <sourcedir>icon-naming-utils-0.8.90</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>Perl-XML-Simple</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

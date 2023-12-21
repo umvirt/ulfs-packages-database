@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>zenity</code>
+  <description>WmVuaXR5IGlzIGEgcmV3cml0ZSBvZiBnZGlhbG9nLCB0aGUgR05PTUUgcG9ydCBvZiBkaWFsb2cgd2hpY2ggYWxsb3dzIHlvdSB0byBkaXNwbGF5IEdUSysgZGlhbG9nIGJveGVzIGZyb20gdGhlIGNvbW1hbmQgbGluZSBhbmQgc2hlbGwgc2NyaXB0cy4=</description>
+  <sourcefile>zenity-3.28.1.tar.xz</sourcefile>
+  <sourcedir>zenity-3.28.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libxslt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>itstool</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnotify</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

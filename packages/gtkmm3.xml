@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>gtkmm3</code>
+  <description>VGhlIEd0a21tIHBhY2thZ2UgcHJvdmlkZXMgYSBDKysgaW50ZXJmYWNlIHRvIEdUSysgMy4=</description>
+  <sourcefile>gtkmm-3.24.8.tar.xz</sourcefile>
+  <sourcedir>gtkmm-3.24.8</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgZ3RrbW0zLWJ1aWxkICYmDQpjZCAgICBndGttbTMtYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uIA==</configure>
+  <build>Y2QgICAgZ3RrbW0zLWJ1aWxkICYmDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>
+  <install>Y2QgICAgZ3RrbW0zLWJ1aWxkICYmDQpuaW5qYSBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>atkmm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pangomm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

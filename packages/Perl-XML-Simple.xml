@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>Perl-XML-Simple</code>
+  <description>WE1MOjpTaW1wbGUgcHJvdmlkZXMgYW4gZWFzeSBBUEkgdG8gcmVhZCBhbmQgd3JpdGUgWE1MIChlc3BlY2lhbGx5IGNvbmZpZyBmaWxlcykuIEl0IGlzIGRlcHJlY2F0ZWQgYW5kIGl0cyB1c2UgaXMgZGlzY291cmFnZWQu</description>
+  <sourcefile>XML-Simple-2.25.tar.gz</sourcefile>
+  <sourcedir>XML-Simple-2.25</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

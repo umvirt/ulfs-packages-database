@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>mate-applets</code>
+  <description>TWF0ZSBBcHBsZXRz</description>
+  <sourcefile>mate-applets-1.26.1.tar.xz</sourcefile>
+  <sourcedir>mate-applets-1.26.1</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>upower</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtksourceview</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mate-panel</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

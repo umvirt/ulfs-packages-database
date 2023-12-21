@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>pangomm</code>
+  <description>VGhlIFBhbmdvbW0gcGFja2FnZSBwcm92aWRlcyBhIEMrKyBpbnRlcmZhY2UgdG8gUGFuZ28u</description>
+  <sourcefile>pangomm-2.46.3.tar.xz</sourcefile>
+  <sourcedir>pangomm-2.46.3</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>pango</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glibmm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cairomm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
