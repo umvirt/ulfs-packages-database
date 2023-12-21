@@ -27,6 +27,10 @@
       <code>dconf-base</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>AppStream</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
