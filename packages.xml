@@ -541,5 +541,28 @@
     <package>Mate</package>
     <package>pavucontrol</package>
     <package>ghostscript</package>
+    <package>double-conversion</package>
+    <package>gc</package>
+    <package>gsl</package>
+    <package>potrace</package>
+    <package>python3-packaging</package>
+    <package>python3-typing_extensions</package>
+    <package>python3-setuptools_scm</package>
+    <package>python3-msgpack</package>
+    <package>python3-charset-normalizer</package>
+    <package>python3-idna</package>
+    <package>python3-editables</package>
+    <package>python3-pathspec</package>
+    <package>python3-pluggy</package>
+    <package>python3-hatchling</package>
+    <package>python3-urllib3</package>
+    <package>python3-requests</package>
+    <package>python3-cachecontrol</package>
+    <package>python3-cssselect</package>
+    <package>python3-lxml</package>
+    <package>python3-pyserial</package>
+    <package>python3-scour</package>
+    <package>ImageMagick</package>
+    <package>inkscape</package>
   </packages>
 </packages>
