@@ -3,8 +3,8 @@
   <release>0.2</release>
   <code>librsvg</code>
   <description>VGhlIGxpYnJzdmcgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHRvb2xzIHVzZWQgdG8gbWFuaXB1bGF0ZSwgY29udmVydCBhbmQgdmlldyBTY2FsYWJsZSBWZWN0b3IgR3JhcGhpYyAoU1ZHKSBpbWFnZXMu</description>
-  <sourcefile>librsvg-2.40.16.tar.xz</sourcefile>
-  <sourcedir>librsvg-2.40.16</sourcedir>
+  <sourcefile>librsvg-2.40.21.tar.xz</sourcefile>
+  <sourcedir>librsvg-2.40.21</sourcedir>
   <unpack/>
   <configure>c2VkIC1pICIvc2VlbXMgdG8gYmUgbW92ZWQvcy9eLyMvIiBsdG1haW4uc2ggDQoNCkFSR19TVEFUSUM9Ii0tZGlzYWJsZS1zdGF0aWMiDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItLWVuYWJsZS1zdGF0aWMiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXZhbGEgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMNCg==</configure>
   <build/>
