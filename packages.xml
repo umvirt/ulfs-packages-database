@@ -564,5 +564,11 @@
     <package>python3-scour</package>
     <package>ImageMagick</package>
     <package>inkscape</package>
+    <package>babl</package>
+    <package>gegl</package>
+    <package>libmypaint</package>
+    <package>mypaint-brushes</package>
+    <package>gimp</package>
+    <package>gimp-help</package>
   </packages>
 </packages>

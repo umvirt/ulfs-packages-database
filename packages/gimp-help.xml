@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>gimp-help</code>
+  <description>R0lNUCBoZWxwIGZpbGVzLg==</description>
+  <sourcefile>gimp-help-2.10.34.tar.bz2</sourcefile>
+  <sourcedir>gimp-help-2.10.34</sourcedir>
+  <unpack/>
+  <configure>QUxMX0xJTkdVQVM9ImNhIGNzIGRhIGRlIGVuIGVuX0dCIGVzIGZhIGZyIGhyIGtvIGx0IG5sIG5uIHB0IHB0X0JSIHJvIHNsIHN2IHVrIHpoX0NOIiBcDQouL2F1dG9nZW4uc2ggLS1wcmVmaXg9L3Vzcg==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICYmDQpjaG93biAtUiByb290OnJvb3QgL3Vzci9zaGFyZS9naW1wLzIuMC9oZWxw</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

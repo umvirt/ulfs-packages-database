@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>babl</code>
+  <description>VGhlIEJhYmwgcGFja2FnZSBpcyBhIGR5bmFtaWMsIGFueSB0byBhbnksIHBpeGVsIGZvcm1hdCB0cmFuc2xhdGlvbiBsaWJyYXJ5Lg0KDQo=</description>
+  <sourcefile>babl-0.1.106.tar.xz</sourcefile>
+  <sourcedir>babl-0.1.106</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
+  <build>Y2QgICAgYmxkICYmDQpuaW5qYQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBuaW5qYSB0ZXN0DQpmaQ0K</build>
+  <install>Y2QgICAgYmxkICYmDQpuaW5qYSBpbnN0YWxsICYmDQoNCmluc3RhbGwgLXYgLW03NTUgLWQgICAgICAgICAgICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9ndGstZG9jL2h0bWwvYmFibC9ncmFwaGljcyAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2NzLyoue2NzcyxodG1sfSAgICAgICAgICAvdXNyL3NoYXJlL2d0ay1kb2MvaHRtbC9iYWJsICAgICAgICAgICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvY3MvZ3JhcGhpY3MvKi57aHRtbCxzdmd9IC91c3Ivc2hhcmUvZ3RrLWRvYy9odG1sL2JhYmwvZ3JhcGhpY3M=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>librsvg</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
