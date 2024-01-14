@@ -570,5 +570,18 @@
     <package>mypaint-brushes</package>
     <package>gimp</package>
     <package>gimp-help</package>
+    <package>neofetch</package>
+    <package>tk</package>
+    <package>stopwatch</package>
+    <package>gptfdisk</package>
+    <package>parted</package>
+    <package>gparted</package>
+    <package>ntfs-3g</package>
+    <package>smartmontools</package>
+    <package>neon</package>
+    <package>audacious-app</package>
+    <package>audacious-plugins</package>
+    <package>audacious</package>
+    <package>convmv</package>
   </packages>
 </packages>

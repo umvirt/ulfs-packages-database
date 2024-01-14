@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>gparted</code>
+  <description>R3BhcnRlZCBpcyB0aGUgR25vbWUgUGFydGl0aW9uIEVkaXRvciwgYSBHdGsgMyBHVUkgZm9yIG90aGVyIGNvbW1hbmQgbGluZSB0b29scyB0aGF0IGNhbiBjcmVhdGUsIHJlb3JnYW5pc2Ugb3IgZGVsZXRlIGRpc2sgcGFydGl0aW9ucy4=</description>
+  <sourcefile>gparted-1.5.0.tar.gz</sourcefile>
+  <sourcedir>gparted-1.5.0</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRvYyAgICBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQw0K</configure>
+  <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gtkmm3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>parted</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

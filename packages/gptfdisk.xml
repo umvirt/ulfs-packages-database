@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>gptfdisk</code>
+  <description>VGhlIGdwdGZkaXNrIHBhY2thZ2UgaXMgYSBzZXQgb2YgcHJvZ3JhbXMgZm9yIGNyZWF0aW9uIGFuZCBtYWludGVuYW5jZSBvZiBHVUlEIFBhcnRpdGlvbiBUYWJsZSAoR1BUKSBkaXNrIGRyaXZlcy4gQSBHUFQgcGFydGl0aW9uZWQgZGlzayBpcyByZXF1aXJlZCBmb3IgZHJpdmVzIGdyZWF0ZXIgdGhhbiAyIFRCIGFuZCBpcyBhIG1vZGVybiByZXBsYWNlbWVudCBmb3IgbGVnYWN5IFBDLUJJT1MgcGFydGl0aW9uZWQgZGlzayBkcml2ZXMgdGhhdCB1c2UgYSBNYXN0ZXIgQm9vdCBSZWNvcmQgKE1CUikuIFRoZSBtYWluIHByb2dyYW0sIGdkaXNrLCBoYXMgYW4gaW50ZXJmYWNlIHNpbWlsYXIgdG8gdGhlIGNsYXNzaWMgZmRpc2sgcHJvZ3JhbS4NCg0K</description>
+  <sourcefile>gptfdisk-1.0.9.tar.gz</sourcefile>
+  <sourcedir>gptfdisk-1.0.9</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzfG5jdXJzZXN3L3x8JyBncHRjdXJzZXMuY2MgJiYNCnNlZCAtaSAnc3xzYmlufHVzci9zYmlufCcgTWFrZWZpbGUgJiYNCnNlZCAtaSAnL1VVSURfSC9zL14uKiQvI2lmIGRlZmluZWQgKF9VVUlEX1VVSURfSCkgfHwgZGVmaW5lZCAoX1VMX0xJQlVVSURfVVVJRF9IKS8nIGd1aWQuY2MgJiYNCnNlZCAtaSAiL2RldmljZSA9L3MvPSBcKC4qXCk7Lz0gc3RyZHVwKFwxKTsvIiBncHRjbC5jYw==</configure>
+  <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIHRlc3QNCmZp</build>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>icu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>popt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>gptfdisk-1.0.9-convenience-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

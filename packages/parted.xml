@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>parted</code>
+  <description>VGhlIFBhcnRlZCBwYWNrYWdlIGlzIGEgZGlzayBwYXJ0aXRpb25pbmcgYW5kIHBhcnRpdGlvbiByZXNpemluZyB0b29sLg==</description>
+  <sourcefile>parted-3.6.tar.xz</sourcefile>
+  <sourcedir>parted-3.6</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
+  <build>bWFrZSANCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQptYWtlIC1DIGRvYyBodG1sICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm1ha2VpbmZvIC0taHRtbCAgICAgIC1vIGRvYy9odG1sICAgICAgIGRvYy9wYXJ0ZWQudGV4aSAmJg0KbWFrZWluZm8gLS1wbGFpbnRleHQgLW8gZG9jL3BhcnRlZC50eHQgZG9jL3BhcnRlZC50ZXhpDQoNCmZpDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbWFrZSBjaGVjaw0KZmk=</build>
+  <install>bWFrZSBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLW03NTUgLWQgL3Vzci9zaGFyZS9kb2MvcGFydGVkLTMuNi9odG1sICYmDQppbnN0YWxsIC12IC1tNjQ0ICAgIGRvYy9odG1sLyogXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9wYXJ0ZWQtMy42L2h0bWwgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgZG9jL3tGQVQsQVBJLHBhcnRlZC57dHh0LGh0bWx9fSBcDQogICAgICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL3BhcnRlZC0zLjYNCg0KZmkNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>dosfstools</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>LVM2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
