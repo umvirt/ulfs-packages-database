@@ -583,5 +583,11 @@
     <package>audacious-plugins</package>
     <package>audacious</package>
     <package>convmv</package>
+    <package>tor</package>
+    <package>polipo</package>
+    <package>hwloc</package>
+    <package>libmicrohttpd</package>
+    <package>xmrig</package>
+    <package>cpuminer</package>
   </packages>
 </packages>
