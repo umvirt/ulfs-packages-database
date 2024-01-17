@@ -589,5 +589,11 @@
     <package>libmicrohttpd</package>
     <package>xmrig</package>
     <package>cpuminer</package>
+    <package>squashfs</package>
+    <package>cpio</package>
+    <package>aufs</package>
+    <package>aufs-util</package>
+    <package>lz4</package>
+    <package>linux-live</package>
   </packages>
 </packages>

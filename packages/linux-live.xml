@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>linux-live</code>
+  <description>TGludXggTGl2ZSBNZWRpYSBjcmVhdGlvbiB0b29sLiBOZWVkcyBBVUZTIHBhdGNoZWQga2VybmVsLg==</description>
+  <sourcefile>linux-live-2.12.tar.gz</sourcefile>
+  <sourcedir>linux-live-2.12</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWtkaXIgL29wdC9saW51eC1saXZlDQpjcCAtcnYgKiAvb3B0L2xpbnV4LWxpdmU=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>zip</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libisoburn</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cdrtools</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>squashfs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cpio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>aufs-util</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
