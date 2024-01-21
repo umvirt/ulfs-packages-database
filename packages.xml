@@ -595,5 +595,16 @@
     <package>aufs-util</package>
     <package>lz4</package>
     <package>linux-live</package>
+    <package>lightdm-app</package>
+    <package>libxfce4util</package>
+    <package>xfconf</package>
+    <package>libxfce4ui</package>
+    <package>exo</package>
+    <package>lightdm-gtk-greeter</package>
+    <package>lightdm</package>
+    <package>terminus-font</package>
+    <package>font-bitstream-type1</package>
+    <package>dejavu-fonts-ttf</package>
+    <package>bdftopcf</package>
   </packages>
 </packages>

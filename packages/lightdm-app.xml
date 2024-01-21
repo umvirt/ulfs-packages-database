@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>lightdm-app</code>
+  <description>VGhlIGxpZ2h0ZG0gcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IGRpc3BsYXkgbWFuYWdlciBiYXNlZCB1cG9uIEdUSy4=</description>
+  <sourcefile>lightdm-1.32.0.tar.xz</sourcefile>
+  <sourcedir>lightdm-1.32.0</sourcedir>
+  <unpack/>
+  <configure>Z3JvdXBhZGQgLWcgNjUgbGlnaHRkbSAgICAgICAmJg0KdXNlcmFkZCAgLWMgIkxpZ2h0ZG0gRGFlbW9uIiBcDQogICAgICAgICAtZCAvdmFyL2xpYi9saWdodGRtIFwNCiAgICAgICAgIC11IDY1IC1nIGxpZ2h0ZG0gICAgXA0KICAgICAgICAgLXMgL2Jpbi9mYWxzZSBsaWdodGRtDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tbGliZXhlY2Rpcj0vdXNyL2xpYi9saWdodGRtIFwNCiAgICAgICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc2JpbmRpcj0vdXNyL2JpbiAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS10ZXN0cyAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1ncmVldGVyLXVzZXI9bGlnaHRkbSAgIFwNCiAgICAgICAgICAgIC0td2l0aC1ncmVldGVyLXNlc3Npb249bGlnaHRkbS1ndGstZ3JlZXRlciBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9saWdodGRtLTEuMzIuMA==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KY3AgdGVzdHMvc3JjL2xpZ2h0ZG0tc2Vzc2lvbiAvdXNyL2JpbiAgICAgICAgICAgICAgICAgICAgICAgICAmJg0Kc2VkIC1pICcxIHMvc2gvYmFzaCAtLWxvZ2luLycgL3Vzci9iaW4vbGlnaHRkbS1zZXNzaW9uICAgICAgICAmJg0Kcm0gLXJmIC9ldGMvaW5pdCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KaW5zdGFsbCAtdiAtZG03NTUgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvbGliL2xpZ2h0ZG0gICAgICAmJg0KaW5zdGFsbCAtdiAtZG03NTUgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvbGliL2xpZ2h0ZG0tZGF0YSAmJg0KaW5zdGFsbCAtdiAtZG03NTUgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvY2FjaGUvbGlnaHRkbSAgICAmJg0KaW5zdGFsbCAtdiAtZG03NzAgLW8gbGlnaHRkbSAtZyBsaWdodGRtIC92YXIvbG9nL2xpZ2h0ZG0=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xorg-server</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vala</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>itstool</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgcrypt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxklavier</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
