@@ -16,6 +16,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>libnl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>gtksourceview</code>
       <weight>0</weight>
     </dependance>
