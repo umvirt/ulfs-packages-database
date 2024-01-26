@@ -24,6 +24,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>which</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>squashfs</code>
       <weight>0</weight>
     </dependance>
