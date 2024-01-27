@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>linux-firmware</code>
+  <description>TGludXgga2VybmVsIGZpcm13YXJlIHJvbXMgY29sbGVjdGlvbiBpcyBuZWVkZWQgZm9yIGhhcmR3YXJlIHN1cHBvcnQ=</description>
+  <sourcefile>linux-firmware-20240115.tar.gz</sourcefile>
+  <sourcedir>linux-firmware-20240115</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWtkaXIgLXYgL2xpYi9maXJtd2FyZQ0KY3AgLXJ2ZiAqIC9saWIvZmlybXdhcmUvDQo=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

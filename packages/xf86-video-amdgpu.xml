@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>xf86-video-amdgpu</code>
+  <description>QU1EIEdQVSBYb3JnIGRyaXZlcg==</description>
+  <sourcefile>xf86-video-amdgpu-23.0.0.tar.xz</sourcefile>
+  <sourcedir>xf86-video-amdgpu-23.0.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>xorg-server</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>linux-firmware</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
