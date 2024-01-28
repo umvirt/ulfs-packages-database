@@ -3,10 +3,10 @@
   <release>0.2</release>
   <code>xf86-video-intel</code>
   <description>SW50ZWwgR1BVIFhvcmcgZHJpdmVy</description>
-  <sourcefile>xf86-video-intel-2.99.917.tar.bz2</sourcefile>
-  <sourcedir>xf86-video-intel-2.99.917</sourcedir>
+  <sourcefile>xf86-video-intel_2.99.917-git20210115.tar.gz</sourcefile>
+  <sourcedir>xserver-xorg-video-intel-2.99.917+git20210115</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcgXA0KICAgICAgICAgICAgLS1lbmFibGUtc25hIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXV4YSBcDQoNCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
@@ -16,7 +16,12 @@
       <weight>0</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>xf86-video-intel-sna-sse2.diff</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
