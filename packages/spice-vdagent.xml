@@ -8,7 +8,7 @@
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQotLXN5c2NvbmZkaXI9L2V0YyBcDQotLXdpdGgtaW5pdC1zY3JpcHQ9c3lzdGVtZCBcDQotLXN5c2NvbmZkaXI9L2V0YyBcDQotLWxvY2Fsc3RhdGVkaXI9L3ZhciBcDQotLXdpdGgtc2Vzc2lvbi1pbmZvPXN5c3RlbWQgDQoNCg==</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsDQpzeXN0ZW1jdGwgZW5hYmxlIHNwaWNlLXZkYWdlbnRk</install>
+  <install>bWFrZSBpbnN0YWxsDQpzeXN0ZW1jdGwgZW5hYmxlIHNwaWNlLXZkYWdlbnRkDQoNCmVjaG8gIlNQSUNFX1ZEQUdFTlREX0VYVFJBX0FSR1M9XCItWFwiIiA+IC9ldGMvc3lzY29uZmlnL3NwaWNlLXZkYWdlbnRk</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
