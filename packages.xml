@@ -619,5 +619,16 @@
     <package>xf86-video-vesa</package>
     <package>xf86-video-vmware</package>
     <package>spice-vdagent</package>
+    <package>sudo</package>
+    <package>qemu</package>
+    <package>libslirp</package>
+    <package>spice-server</package>
+    <package>usbredir</package>
+    <package>x11spice</package>
+    <package>spice-streaming-agent</package>
+    <package>tigervnc-server</package>
+    <package>fltk</package>
+    <package>x11vnc</package>
+    <package>libvncserver</package>
   </packages>
 </packages>
