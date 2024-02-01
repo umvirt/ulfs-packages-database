@@ -6,7 +6,7 @@
   <sourcefile>xf86-video-qxl-0.1.6.tar.xz</sourcefile>
   <sourcedir>xf86-video-qxl-0.1.6</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIA==</configure>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0tZW5hYmxlLXhzcGljZQ==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
@@ -17,6 +17,10 @@
     </dependance>
     <dependance>
       <code>spice-protocol</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>spice-server</code>
       <weight>0</weight>
     </dependance>
   </dependances>
