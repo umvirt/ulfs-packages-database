@@ -23,6 +23,10 @@
       <code>gtk3</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
