@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>docbook-dsssl</code>
+  <description>VGhlIERvY0Jvb2sgRFNTU0wgU3R5bGVzaGVldHMgcGFja2FnZSBjb250YWlucyBEU1NTTCBzdHlsZXNoZWV0cy4gVGhlc2UgYXJlIHVzZWQgYnkgT3BlbkphZGUgb3Igb3RoZXIgdG9vbHMgdG8gdHJhbnNmb3JtIFNHTUwgYW5kIFhNTCBEb2NCb29rIGZpbGVzLg==</description>
+  <sourcefile>docbook-dsssl-1.79.tar.bz2</sourcefile>
+  <sourcedir>docbook-dsssl-1.79</sourcedir>
+  <unpack/>
+  <configure>dGFyIC14ZiAuLi9kb2Nib29rLWRzc3NsLWRvYy0xLjc5LnRhci5iejIgLS1zdHJpcC1jb21wb25lbnRzPTE=</configure>
+  <build>Iw==</build>
+  <install>aW5zdGFsbCAtdiAtbTc1NSBiaW4vY29sbGF0ZWluZGV4LnBsIC91c3IvYmluICAgICAgICAgICAgICAgICAgICAgICYmDQppbnN0YWxsIC12IC1tNjQ0IGJpbi9jb2xsYXRlaW5kZXgucGwuMSAvdXNyL3NoYXJlL21hbi9tYW4xICAgICAgICAgJiYNCmluc3RhbGwgLXYgLWQgLW03NTUgL3Vzci9zaGFyZS9zZ21sL2RvY2Jvb2svZHNzc2wtc3R5bGVzaGVldHMtMS43OSAmJg0KY3AgLXYgLVIgKiAvdXNyL3NoYXJlL3NnbWwvZG9jYm9vay9kc3NzbC1zdHlsZXNoZWV0cy0xLjc5ICAgICAgICAgICYmDQoNCmluc3RhbGwtY2F0YWxvZyAtLWFkZCAvZXRjL3NnbWwvZHNzc2wtZG9jYm9vay1zdHlsZXNoZWV0cy5jYXQgXA0KICAgIC91c3Ivc2hhcmUvc2dtbC9kb2Nib29rL2Rzc3NsLXN0eWxlc2hlZXRzLTEuNzkvY2F0YWxvZyAgICAgICAgICYmDQoNCmluc3RhbGwtY2F0YWxvZyAtLWFkZCAvZXRjL3NnbWwvZHNzc2wtZG9jYm9vay1zdHlsZXNoZWV0cy5jYXQgXA0KICAgIC91c3Ivc2hhcmUvc2dtbC9kb2Nib29rL2Rzc3NsLXN0eWxlc2hlZXRzLTEuNzkvY29tbW9uL2NhdGFsb2cgICYmDQoNCmluc3RhbGwtY2F0YWxvZyAtLWFkZCAvZXRjL3NnbWwvc2dtbC1kb2Nib29rLmNhdCAgICAgICAgICAgICAgXA0KICAgIC9ldGMvc2dtbC9kc3NzbC1kb2Nib29rLXN0eWxlc2hlZXRzLmNhdA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>sgml-common</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>docbook-dsssl-doc-1.79.tar.bz2</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

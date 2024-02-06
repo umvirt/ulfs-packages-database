@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>docbook-utils</code>
+  <description>VGhlIERvY0Jvb2stdXRpbHMgcGFja2FnZSBpcyBhIGNvbGxlY3Rpb24gb2YgdXRpbGl0eSBzY3JpcHRzIHVzZWQgdG8gY29udmVydCBhbmQgYW5hbHl6ZSBTR01MIGRvY3VtZW50cyBpbiBnZW5lcmFsLCBhbmQgRG9jQm9vayBmaWxlcyBpbiBwYXJ0aWN1bGFyLg==</description>
+  <sourcefile>docbook-utils-0.6.14.tar.gz</sourcefile>
+  <sourcedir>docbook-utils-0.6.14</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzOi9odG1sOjonIGRvYy9IVE1ML01ha2VmaWxlLmluICAgICAgICAgICAgICAgICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1tYW5kaXI9L3Vzci9zaGFyZS9tYW4=</configure>
+  <build/>
+  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MgaW5zdGFsbA0KDQpmb3IgZG9jdHlwZSBpbiBodG1sIHBzIGR2aSBtYW4gcGRmIHJ0ZiB0ZXggdGV4aSB0eHQNCmRvDQogICAgbG4gLXN2ZiBkb2Nib29rMiRkb2N0eXBlIC91c3IvYmluL2RiMiRkb2N0eXBlDQpkb25l</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>openjade</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>docbook-dsssl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>docbook-3.1-dtd</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-SGMLSpm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>docbook-utils-0.6.14-grep_fix-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

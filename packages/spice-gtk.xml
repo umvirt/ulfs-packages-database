@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>spice-gtk</code>
+  <description>QmFzZSBHVEsgU1BJQ0UgY2xpZW50IChzcGljeSk=</description>
+  <sourcefile>spice-gtk-0.41.tar.xz</sourcefile>
+  <sourcedir>spice-gtk-0.41</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgXA0KICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXI=</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KY2F0ID4+IC91c3Ivc2hhcmUvYXBwbGljYXRpb25zL3NwaWN5LmRlc2t0b3AgPDwgRU9GDQpbRGVza3RvcCBFbnRyeV0NCk5hbWU9U3BpY3kNCkNvbW1lbnQ9U1BJQ0UtY2xpZW50DQpFeGVjPS91c3IvYmluL3NwaWN5DQpUZXJtaW5hbD1mYWxzZQ0KVHlwZT1BcHBsaWNhdGlvbg0KSWNvbj1ub25lDQpDYXRlZ29yaWVzPU5ldHdvcmsNCkVPRg0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gstreamer</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gst-plugins-base</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-six</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>spice-protocol</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pyparsing</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

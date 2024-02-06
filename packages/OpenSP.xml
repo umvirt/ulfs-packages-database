@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>OpenSP</code>
+  <description>VGhlIE9wZW5TUCBwYWNrYWdlIGNvbnRhaW5zIGEgQysrIGxpYnJhcnkgZm9yIHVzaW5nIFNHTUwvWE1MIGZpbGVzLiBUaGlzIGlzIHVzZWZ1bCBmb3IgdmFsaWRhdGluZywgcGFyc2luZyBhbmQgbWFuaXB1bGF0aW5nIFNHTUwgYW5kIFhNTCBkb2N1bWVudHMu</description>
+  <sourcefile>OpenSP-1.5.2.tar.gz</sourcefile>
+  <sourcedir>OpenSP-1.5.2</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzLzMyLC8yNTMsLycgbGliL1N5bnRheC5jeHggJiYNCnNlZCAtaSAncy9MSVRMRU4gICAgICAgICAgMjQwIC9MSVRMRU4gICAgICAgICAgODA5Mi8nIFwNCiAgICB1bmljb2RlL3tnZW5zeW50YXgucGwsdW5pY29kZS5zeW59ICYmDQoNCg0KQVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRvYy1idWlsZCAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWRlZmF1bHQtY2F0YWxvZz0vZXRjL3NnbWwvY2F0YWxvZyBcDQogICAgICAgICAgICAtLWVuYWJsZS1odHRwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZGVmYXVsdC1zZWFyY2gtcGF0aD0vdXNyL3NoYXJlL3NnbWwNCg==</configure>
+  <build>bWFrZSBwa2dkYXRhZGlyPS91c3Ivc2hhcmUvc2dtbC9PcGVuU1AtMS41LjI=</build>
+  <install>bWFrZSBwa2dkYXRhZGlyPS91c3Ivc2hhcmUvc2dtbC9PcGVuU1AtMS41LjIgXA0KICAgICBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvT3BlblNQLTEuNS4yICAgICAgXA0KICAgICBpbnN0YWxsICYmDQoNCmxuIC12IC1zZiBvbnNnbWxzICAgL3Vzci9iaW4vbnNnbWxzICAgJiYNCmxuIC12IC1zZiBvc2dtbG5vcm0gL3Vzci9iaW4vc2dtbG5vcm0gJiYNCmxuIC12IC1zZiBvc3BhbSAgICAgL3Vzci9iaW4vc3BhbSAgICAgJiYNCmxuIC12IC1zZiBvc3BjYXQgICAgL3Vzci9iaW4vc3BjYXQgICAgJiYNCmxuIC12IC1zZiBvc3BlbnQgICAgL3Vzci9iaW4vc3BlbnQgICAgJiYNCmxuIC12IC1zZiBvc3ggICAgICAgL3Vzci9iaW4vc3ggICAgICAgJiYNCmxuIC12IC1zZiBvc3ggICAgICAgL3Vzci9iaW4vc2dtbDJ4bWwgJiYNCmxuIC12IC1zZiBsaWJvc3Auc28gL3Vzci9saWIvbGlic3Auc28=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>sgml-common</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xmlto</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnsl</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

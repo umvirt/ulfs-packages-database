@@ -630,5 +630,40 @@
     <package>fltk</package>
     <package>x11vnc</package>
     <package>libvncserver</package>
+    <package>dnsmasq</package>
+    <package>lxc</package>
+    <package>yajl</package>
+    <package>ebtables</package>
+    <package>ipset</package>
+    <package>libvirt</package>
+    <package>firewalld</package>
+    <package>bridge-utils</package>
+    <package>virt-manager</package>
+    <package>python3-libvirt</package>
+    <package>libvirt-glib</package>
+    <package>libosinfo</package>
+    <package>gtk-vnc</package>
+    <package>spice-gtk</package>
+    <package>virt-viewer</package>
+    <package>libmnl</package>
+    <package>python3-dbus</package>
+    <package>python3-meson</package>
+    <package>python3-pyproject-metadata</package>
+    <package>python3-installer</package>
+    <package>docbook-utils</package>
+    <package>OpenSP</package>
+    <package>openjade</package>
+    <package>docbook-dsssl</package>
+    <package>docbook-3.1-dtd</package>
+    <package>perl-SGMLSpm</package>
+    <package>docbook2X</package>
+    <package>perl-XML-SAX</package>
+    <package>perl-XML-SAX-Base</package>
+    <package>perl-XML-NamespaceSupport</package>
+    <package>osinfo-db</package>
+    <package>pciutils</package>
+    <package>python3-pyparsing</package>
+    <package>dmidecode</package>
+    <package>orc</package>
   </packages>
 </packages>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>docbook2X</code>
+  <description>ZG9jYm9vazJYIGlzIGEgc29mdHdhcmUgcGFja2FnZSB0aGF0IGNvbnZlcnRzIERvY0Jvb2sgZG9jdW1lbnRzIGludG8gdGhlIHRyYWRpdGlvbmFsIFVuaXggbWFuIHBhZ2UgZm9ybWF0IGFuZCB0aGUgR05VIFRleGluZm8gZm9ybWF0Lg0KDQo=</description>
+  <sourcefile>docbook2X-0.8.8.tar.gz</sourcefile>
+  <sourcedir>docbook2X-0.8.8</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgXA0KICAgIC0tcHJlZml4PS91c3IgXA0KICAgIC0tbWFuZGlyPS91c3Ivc2hhcmUvbWFuIFwNCiAgICAtLXByb2dyYW0tdHJhbnNmb3JtLW5hbWUgJ3MsZG9jYm9vazIsZGIyeF9kb2Nib29rMiwnDQo=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCnNlZCAtaSAnc3xodHRwOi8vZG9jYm9vazJ4LnNmLm5ldC9sYXRlc3R8L3Vzci9zaGFyZS9kb2Nib29rMlh8ZycgXA0KICAgICIkcGtnZGlyIi91c3IvYmluL2RiMnhfeHNsdHByb2MNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>perl-XML-SAX</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
