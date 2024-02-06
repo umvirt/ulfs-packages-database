@@ -39,6 +39,10 @@
       <code>spice-protocol</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>orc</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
