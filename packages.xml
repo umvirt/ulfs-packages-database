@@ -665,5 +665,16 @@
     <package>python3-pyparsing</package>
     <package>dmidecode</package>
     <package>orc</package>
+    <package>apr</package>
+    <package>apr-util</package>
+    <package>httpd</package>
+    <package>php</package>
+    <package>OpenLDAP-server</package>
+    <package>mariadb-server</package>
+    <package>mariadb-client</package>
+    <package>unixODBC</package>
+    <package>pth</package>
+    <package>postgresql-client</package>
+    <package>postgresql-server</package>
   </packages>
 </packages>
