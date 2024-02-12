@@ -681,5 +681,9 @@
     <package>nfs-utils</package>
     <package>rpcbind</package>
     <package>proftpd</package>
+    <package>fcron</package>
+    <package>postfix</package>
+    <package>exim</package>
+    <package>dovecot</package>
   </packages>
 </packages>
