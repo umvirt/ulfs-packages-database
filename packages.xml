@@ -676,5 +676,10 @@
     <package>pth</package>
     <package>postgresql-client</package>
     <package>postgresql-server</package>
+    <package>cifs-utils</package>
+    <package>rpcsvc-proto</package>
+    <package>nfs-utils</package>
+    <package>rpcbind</package>
+    <package>proftpd</package>
   </packages>
 </packages>
