@@ -685,5 +685,14 @@
     <package>postfix</package>
     <package>exim</package>
     <package>dovecot</package>
+    <package>libreoffice</package>
+    <package>perl-Archive-Zip</package>
+    <package>clucene</package>
+    <package>glm</package>
+    <package>libatomic_ops</package>
+    <package>raptor2</package>
+    <package>rasqal</package>
+    <package>redland</package>
+    <package>libiodbc</package>
   </packages>
 </packages>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>glm</code>
+  <description>T3BlbkdMIE1hdGhlbWF0aWNzIChHTE0pIGlzIGEgaGVhZGVyLW9ubHkgQysrIG1hdGhlbWF0aWNzIGxpYnJhcnkgZm9yIGdyYXBoaWNzIHNvZnR3YXJlIGJhc2VkIG9uIHRoZSBPcGVuR0wgU2hhZGluZyBMYW5ndWFnZSAoR0xTTCkgc3BlY2lmaWNhdGlvbnMuIEFuIGV4dGVuc2lvbiBzeXN0ZW0gcHJvdmlkZXMgZXh0ZW5kZWQgY2FwYWJpbGl0aWVzIHN1Y2ggYXMgbWF0cml4IHRyYW5zZm9ybWF0aW9ucyBhbmQgcXVhdGVybmlvbnMu</description>
+  <sourcefile>glm-0.9.9.8.tar.gz</sourcefile>
+  <sourcedir>glm-0.9.9.8</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Y3AgLXIgZ2xtIC91c3IvaW5jbHVkZS8gJiYNCmNwIC1yIGRvYyAvdXNyL3NoYXJlL2RvYy9nbG0tMC45LjkuOA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
