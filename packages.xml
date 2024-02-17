@@ -694,5 +694,6 @@
     <package>rasqal</package>
     <package>redland</package>
     <package>libiodbc</package>
+    <package>mate-utils</package>
   </packages>
 </packages>

@@ -123,6 +123,10 @@
       <code>mate-themes</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>mate-utils</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
