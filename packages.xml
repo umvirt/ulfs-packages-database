@@ -695,5 +695,6 @@
     <package>redland</package>
     <package>libiodbc</package>
     <package>mate-utils</package>
+    <package>network-manager-applet</package>
   </packages>
 </packages>
