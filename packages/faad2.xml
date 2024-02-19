@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>faad2</code>
+  <description>RkFBRDIgaXMgYSBkZWNvZGVyIGZvciBhIGxvc3N5IHNvdW5kIGNvbXByZXNzaW9uIHNjaGVtZSBzcGVjaWZpZWQgaW4gTVBFRy0yIFBhcnQgNyBhbmQgTVBFRy00IFBhcnQgMyBzdGFuZGFyZHMgYW5kIGtub3duIGFzIEFkdmFuY2VkIEF1ZGlvIENvZGluZyAoQUFDKS4=</description>
+  <sourcefile>faad2-2.10.1.tar.gz</sourcefile>
+  <sourcedir>faad2-2.10.1</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vYm9vdHN0cmFwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw0K</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

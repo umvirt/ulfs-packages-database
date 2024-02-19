@@ -696,5 +696,32 @@
     <package>libiodbc</package>
     <package>mate-utils</package>
     <package>network-manager-applet</package>
+    <package>a52dec</package>
+    <package>libmad</package>
+    <package>lua-5.2</package>
+    <package>vlc</package>
+    <package>libidn1</package>
+    <package>libdv</package>
+    <package>libdvdcss</package>
+    <package>faad2</package>
+    <package>libmpeg2</package>
+    <package>aalib</package>
+    <package>libsamplerate</package>
+    <package>taglib</package>
+    <package>xine-lib</package>
+    <package>libmng</package>
+    <package>xine-ui</package>
+    <package>transmission</package>
+    <package>c-ares</package>
+    <package>nodejs18</package>
+    <package>perl-HTML-Tagset</package>
+    <package>perl-HTML-Parser</package>
+    <package>netsurf</package>
+    <package>asciidoctor</package>
+    <package>wireshark</package>
+    <package>tcpdump</package>
+    <package>lua-5.4</package>
+    <package>liblinear</package>
+    <package>nmap</package>
   </packages>
 </packages>

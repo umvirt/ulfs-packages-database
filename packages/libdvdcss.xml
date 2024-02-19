@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>libdvdcss</code>
+  <description>bGliZHZkY3NzIGlzIGEgc2ltcGxlIGxpYnJhcnkgZGVzaWduZWQgZm9yIGFjY2Vzc2luZyBEVkRzIGFzIGEgYmxvY2sgZGV2aWNlIHdpdGhvdXQgaGF2aW5nIHRvIGJvdGhlciBhYm91dCB0aGUgZGVjcnlwdGlvbi4=</description>
+  <sourcefile>libdvdcss-1.4.3.tar.bz2</sourcefile>
+  <sourcedir>libdvdcss-1.4.3</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGliZHZkY3NzLTEuNC4z</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

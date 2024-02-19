@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2</release>
+  <code>aalib</code>
+  <description>QUFsaWIgaXMgYSBsaWJyYXJ5IHRvIHJlbmRlciBhbnkgZ3JhcGhpYyBpbnRvIEFTQ0lJIEFydC4=</description>
+  <sourcefile>aalib-1.4rc5.tar.gz</sourcefile>
+  <sourcedir>aalib-1.4.0</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCnNlZCAtaSAtZSAnL0FNX1BBVEhfQUFMSUIsL3MvQU1fUEFUSF9BQUxJQi9bJl0vJyBhYWxpYi5tNA0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0taW5mb2Rpcj0vdXNyL3NoYXJlL2luZm8gXA0KICAgICAgICAgICAgLS1tYW5kaXI9L3Vzci9zaGFyZS9tYW4gICBcDQogICAgICAgICAgICAtLXdpdGgtbmN1cnNlcz0vdXNyICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElD</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
