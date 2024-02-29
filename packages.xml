@@ -723,5 +723,13 @@
     <package>lua-5.4</package>
     <package>liblinear</package>
     <package>nmap</package>
+    <package>libheif</package>
+    <package>libde265</package>
+    <package>kvazaar</package>
+    <package>dav1d</package>
+    <package>zbar</package>
+    <package>qrencode</package>
+    <package>gkrellm</package>
+    <package>gettext</package>
   </packages>
 </packages>
