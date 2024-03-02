@@ -6,7 +6,7 @@
   <sourcefile>zbar-0.23.93.tar.gz</sourcefile>
   <sourcedir>zbar-0.23.93</sourcedir>
   <unpack/>
-  <configure>YXV0b3JlY29uZiAtdmZpDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyDQo=</configure>
+  <configure>YXV0b3JlY29uZiAtdmZpDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0td2l0aG91dC1xdA0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
