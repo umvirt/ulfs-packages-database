@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>mtdev</code>
   <description>VGhlIG10ZGV2IHBhY2thZ2UgY29udGFpbnMgTXVsdGl0b3VjaCBQcm90b2NvbCBUcmFuc2xhdGlvbiBMaWJyYXJ5IHdoaWNoIGlzIHVzZWQgdG8gdHJhbnNmb3JtIGFsbCB2YXJpYW50cyBvZiBrZXJuZWwgTVQgKE11bHRpdG91Y2gpIGV2ZW50cyB0byB0aGUgc2xvdHRlZCB0eXBlIEIgcHJvdG9jb2wu</description>
   <sourcefile>mtdev-1.1.6.tar.bz2</sourcefile>

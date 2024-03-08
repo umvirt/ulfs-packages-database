@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>docbook-xsl-nons</code>
   <description>VGhlIERvY0Jvb2sgWFNMIFN0eWxlc2hlZXRzIHBhY2thZ2UgY29udGFpbnMgWFNMIHN0eWxlc2hlZXRzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBwZXJmb3JtaW5nIHRyYW5zZm9ybWF0aW9ucyBvbiBYTUwgRG9jQm9vayBmaWxlcy4=</description>
   <sourcefile>docbook-xsl-nons-1.79.2.tar.bz2</sourcefile>

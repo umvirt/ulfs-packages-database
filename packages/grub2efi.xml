@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>grub2efi</code>
   <description>VGhlIEdSVUIgcGFja2FnZSBwcm92aWRlcyBHUmFuZCBVbmlmaWVkIEJvb3Rsb2FkZXIgd2l0aCBVRUZJIHN1cHBvcnQsIHdoaWNoIGlzIG5vdCBlbmFibGVkIGZvciBHUlVCIGJ1aWx0IGluIExGUy4NCg0K</description>
   <sourcefile>grub-2.06.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>X</code>
-      <weight>-100</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>freetype</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>efibootmgr</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

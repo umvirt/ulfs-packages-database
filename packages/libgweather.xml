@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libgweather</code>
   <description>VGhlIGxpYmd3ZWF0aGVyIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHVzZWQgdG8gYWNjZXNzIHdlYXRoZXIgaW5mb3JtYXRpb24gZnJvbSBvbmxpbmUgc2VydmljZXMgZm9yIG51bWVyb3VzIGxvY2F0aW9ucy4=</description>
   <sourcefile>libgweather-4.2.0.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>python3-pygobject</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libsoup3</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

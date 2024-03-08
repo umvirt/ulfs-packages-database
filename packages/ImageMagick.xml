@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>ImageMagick</code>
   <description>SW1hZ2VNYWdpY2sgaXMgYSBjb2xsZWN0aW9uIG9mIHRvb2xzIGFuZCBsaWJyYXJpZXMgdG8gcmVhZCwgd3JpdGUsIGFuZCBtYW5pcHVsYXRlIGFuIGltYWdlIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
   <sourcefile>ImageMagick-7.1.1-15.tar.xz</sourcefile>
@@ -13,35 +13,35 @@
   <dependances>
     <dependance>
       <code>curl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>llvm</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>gnupg</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>librsvg</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>lcms2</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>cups</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>xorgproto</code>
   <description>VGhlIHhvcmdwcm90byBwYWNrYWdlIHByb3ZpZGVzIHRoZSBoZWFkZXIgZmlsZXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFggV2luZG93IHN5c3RlbSwgYW5kIHRvIGFsbG93IG90aGVyIGFwcGxpY2F0aW9ucyB0byBidWlsZCBhZ2FpbnN0IHRoZSBpbnN0YWxsZWQgWCBXaW5kb3cgc3lzdGVtLg==</description>
   <sourcefile>xorgproto-2023.2.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>util-macros</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

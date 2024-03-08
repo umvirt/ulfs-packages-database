@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>nfs-utils</code>
   <description>VGhlIE5GUyBVdGlsaXRpZXMgcGFja2FnZSBjb250YWlucyB0aGUgdXNlcnNwYWNlIHNlcnZlciBhbmQgY2xpZW50IHRvb2xzIG5lY2Vzc2FyeSB0byB1c2UgdGhlIGtlcm5lbCdzIE5GUyBhYmlsaXRpZXMuIE5GUyBpcyBhIHByb3RvY29sIHRoYXQgYWxsb3dzIHNoYXJpbmcgZmlsZSBzeXN0ZW1zIG92ZXIgdGhlIG5ldHdvcmsuDQoNCg==</description>
   <sourcefile>nfs-utils-2.6.3.tar.xz</sourcefile>
@@ -13,47 +13,47 @@
   <dependances>
     <dependance>
       <code>libevent</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>krb5</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libtirpc</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libnsl</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>cyrus-sasl</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>OpenLDAP-client</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>LVM2</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libpcap</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>rpcsvc</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>rpcbind</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>tracker-miners</code>
   <description>VGhlIFRyYWNrZXItbWluZXJzIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgZGF0YSBleHRyYWN0b3JzIGZvciBUcmFja2VyLg==</description>
   <sourcefile>tracker-miners-3.5.2.tar.xz</sourcefile>
@@ -13,55 +13,55 @@
   <dependances>
     <dependance>
       <code>icu</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libexif</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libseccomp</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-base</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>tracker</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>exempi</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>gexiv2</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>giflib</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>gst-libav</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libgrss</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>libgxps</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>poppler</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>upower</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
   </dependances>
   <patches/>

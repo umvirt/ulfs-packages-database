@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libmypaint</code>
   <description>VGhlIGxpYm15cGFpbnQgcGFja2FnZSwgYS5rLmEuICJicnVzaGxpYiIsIGlzIGEgbGlicmFyeSBmb3IgbWFraW5nIGJydXNoc3Ryb2tlcyB3aGljaCBpcyB1c2VkIGJ5IE15UGFpbnQgYW5kIG90aGVyIHByb2plY3RzLg==</description>
   <sourcefile>libmypaint-1.6.1.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>json-c</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

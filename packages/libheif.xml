@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libheif</code>
   <description>bGliaGVpZiBpcyBhbiBIRUlGIGFuZCBBVklGIGZpbGUgZm9ybWF0IGRlY29kZXIgYW5kIGVuY29kZXIu</description>
   <sourcefile>libheif-1.17.6.tar.gz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>gdk-pixbuf</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>openjpeg</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libaom</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libde265</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>kvazaar</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>dav1d</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

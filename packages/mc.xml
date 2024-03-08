@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>mc</code>
   <description>TUMgKE1pZG5pZ2h0IENvbW1hbmRlcikgaXMgYSB0ZXh0LW1vZGUgZnVsbC1zY3JlZW4gZmlsZSBtYW5hZ2VyIGFuZCB2aXN1YWwgc2hlbGwuIA==</description>
-  <sourcefile>mc-4.8.30.tar.xz</sourcefile>
-  <sourcedir>mc-4.8.30</sourcedir>
+  <sourcefile>mc-4.8.31.tar.xz</sourcefile>
+  <sourcedir>mc-4.8.31</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWVuYWJsZS1jaGFyc2V0</configure>
   <build/>

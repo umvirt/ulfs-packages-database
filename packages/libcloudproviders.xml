@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libcloudproviders</code>
   <description>VGhlIGxpYmNsb3VkcHJvdmlkZXJzIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHdoaWNoIHByb3ZpZGVzIGEgREJ1cyBBUEkgdGhhdCBhbGxvd3MgY2xvdWQgc3RvcmFnZSBzeW5jIGNsaWVudHMgdG8gZXhwb3NlIHRoZWlyIHNlcnZpY2VzLg0KDQo=</description>
   <sourcefile>libcloudproviders-0.3.2.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gi-docgen</code>
   <description>R2ktRG9jR2VuIGlzIGEgZG9jdW1lbnQgZ2VuZXJhdG9yIGZvciBHT2JqZWN0LWJhc2VkIGxpYnJhcmllcy4gR09iamVjdCBpcyB0aGUgYmFzZSB0eXBlIHN5c3RlbSBvZiB0aGUgR05PTUUgcHJvamVjdC4gR0ktRG9jZ2VuIHJldXNlcyB0aGUgaW50cm9zcGVjdGlvbiBkYXRhIGdlbmVyYXRlZCBieSBHT2JqZWN0LWJhc2VkIGxpYnJhcmllcyB0byBnZW5lcmF0ZSB0aGUgQVBJIHJlZmVyZW5jZSBvZiB0aGVzZSBsaWJyYXJpZXMsIGFzIHdlbGwgYXMgb3RoZXIgYW5jaWxsYXJ5IGRvY3VtZW50YXRpb24u</description>
   <sourcefile>gi-docgen-2023.1.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>python3-Pygments</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-typogrify</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-Markdown</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-six</code>
   <description>U2l4IGlzIGEgUHl0aG9uIDIgdG8gMyBjb21wYXRpYmlsaXR5IGxpYnJhcnku</description>
   <sourcefile>six-1.16.0.tar.gz</sourcefile>

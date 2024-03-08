@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>samba</code>
   <description>VGhlIFNhbWJhIHBhY2thZ2UgcHJvdmlkZXMgZmlsZSBhbmQgcHJpbnQgc2VydmljZXMgdG8gU01CL0NJRlMgY2xpZW50cyBhbmQgV2luZG93cyBuZXR3b3JraW5nIHRvIExpbnV4IGNsaWVudHMuIFNhbWJhIGNhbiBhbHNvIGJlIGNvbmZpZ3VyZWQgYXMgYSBXaW5kb3dzIERvbWFpbiBDb250cm9sbGVyIHJlcGxhY2VtZW50LCBhIGZpbGUvcHJpbnQgc2VydmVyIGFjdGluZyBhcyBhIG1lbWJlciBvZiBhIFdpbmRvd3MgQWN0aXZlIERpcmVjdG9yeSBkb21haW4gYW5kIGEgTmV0QklPUyAoUkZDMTAwMS8xMDAyKSBuYW1lc2VydmVyICh3aGljaCBhbW9uZyBvdGhlciB0aGluZ3MgcHJvdmlkZXMgTEFOIGJyb3dzaW5nIHN1cHBvcnQpLg==</description>
   <sourcefile>samba-4.18.6.tar.gz</sourcefile>
@@ -13,55 +13,55 @@
   <dependances>
     <dependance>
       <code>icu</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libtasn1</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libtirpc</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>gnutls</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>OpenLDAP-client</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>jansson</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>perl-JSON</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>perl-Parse-Yapp</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>rpcsvc</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>fuse</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>gpgme</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
   </dependances>
   <patches/>

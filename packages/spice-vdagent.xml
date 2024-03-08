@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>spice-vdagent</code>
   <description>U1BJQ0UgcHJvdG9jb2wgZ3Vlc3QgYWRkaXRpb25z</description>
   <sourcefile>spice-vdagent-0.22.0.tar.bz2</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>spice-protocol</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

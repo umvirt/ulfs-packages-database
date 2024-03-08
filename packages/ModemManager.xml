@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>ModemManager</code>
   <description>TW9kZW1NYW5hZ2VyIHByb3ZpZGVzIGEgdW5pZmllZCBoaWdoIGxldmVsIEFQSSBmb3IgY29tbXVuaWNhdGluZyB3aXRoIG1vYmlsZSBicm9hZGJhbmQgbW9kZW1zLCByZWdhcmRsZXNzIG9mIHRoZSBwcm90b2NvbCB1c2VkIHRvIGNvbW11bmljYXRlIHdpdGggdGhlIGFjdHVhbCBkZXZpY2Uu</description>
   <sourcefile>ModemManager-1.18.12.tar.xz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>polkit-123</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libgudev</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libmbim</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libqmi</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

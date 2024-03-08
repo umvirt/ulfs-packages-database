@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>nmap</code>
   <description>Tm1hcCBpcyBhIHV0aWxpdHkgZm9yIG5ldHdvcmsgZXhwbG9yYXRpb24gYW5kIHNlY3VyaXR5IGF1ZGl0aW5nLiBJdCBzdXBwb3J0cyBwaW5nIHNjYW5uaW5nLCBwb3J0IHNjYW5uaW5nIGFuZCBUQ1AvSVAgZmluZ2VycHJpbnRpbmcu</description>
   <sourcefile>nmap-7.94.tar.bz2</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>pcre</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libssh2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-pygobject</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libpcap</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>lua-5.4</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>liblinear</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

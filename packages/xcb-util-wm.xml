@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>xcb-util-wm</code>
   <description>VGhlIHhjYi11dGlsLXdtIHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHdoaWNoIHByb3ZpZGUgY2xpZW50IGFuZCB3aW5kb3ctbWFuYWdlciBoZWxwZXJzIGZvciBFV01IIGFuZCBJQ0NDTS4=</description>
   <sourcefile>xcb-util-wm-0.4.2.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>libxcb</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

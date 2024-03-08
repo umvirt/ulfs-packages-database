@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>ffmpeg</code>
   <description>RkZtcGVnIGlzIGEgc29sdXRpb24gdG8gcmVjb3JkLCBjb252ZXJ0IGFuZCBzdHJlYW0gYXVkaW8gYW5kIHZpZGVvLiBJdCBpcyBhIHZlcnkgZmFzdCB2aWRlbyBhbmQgYXVkaW8gY29udmVydGVyIGFuZCBpdCBjYW4gYWxzbyBhY3F1aXJlIGZyb20gYSBsaXZlIGF1ZGlvL3ZpZGVvIHNvdXJjZS4=</description>
   <sourcefile>ffmpeg-6.0.tar.xz</sourcefile>
@@ -13,71 +13,71 @@
   <dependances>
     <dependance>
       <code>freetype-stage2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>nasm</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>yasm</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libtheora</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libaom</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libass</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>fdk-aac</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>lame</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>opus</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>x264</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>x265</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>libva</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>libvdpau</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>libvpx</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
   </dependances>
   <patches>

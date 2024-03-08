@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>sdl12-compat</code>
   <description>VGhlIFNpbXBsZSBEaXJlY3RNZWRpYSBMYXllciAoU0RMIGZvciBzaG9ydCkgaXMgYSBjcm9zcy1wbGF0Zm9ybSBsaWJyYXJ5IGRlc2lnbmVkIHRvIG1ha2UgaXQgZWFzeSB0byB3cml0ZSBtdWx0aW1lZGlhIHNvZnR3YXJlLCBzdWNoIGFzIGdhbWVzIGFuZCBlbXVsYXRvcnMuIFRoaXMgY29kZSBpcyBhIGNvbXBhdGliaWxpdHkgbGF5ZXI7IGl0IHByb3ZpZGVzIGEgYmluYXJ5IGFuZCBzb3VyY2UgY29tcGF0aWJsZSBBUEkgZm9yIHByb2dyYW1zIHdyaXR0ZW4gYWdhaW5zdCBTREwgMS4yLCBidXQgaXQgdXNlcyBTREwgMi4wIGJlaGluZCB0aGUgc2NlbmVzLg0KDQo=</description>
   <sourcefile>sdl12-compat-release-1.2.64.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>glu</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

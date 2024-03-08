@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>xcursor-themes</code>
   <description>VGhlIHhjdXJzb3ItdGhlbWVzIHBhY2thZ2UgY29udGFpbnMgdGhlIHJlZGdsYXNzIGFuZCB3aGl0ZWdsYXNzIGFuaW1hdGVkIGN1cnNvciB0aGVtZXMu</description>
   <sourcefile>xcursor-themes-1.0.7.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>Xapps</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

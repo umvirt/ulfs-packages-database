@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>udisks</code>
   <description>VGhlIFVEaXNrcyBwYWNrYWdlIHByb3ZpZGVzIGEgZGFlbW9uLCB0b29scyBhbmQgbGlicmFyaWVzIHRvIGFjY2VzcyBhbmQgbWFuaXB1bGF0ZSBkaXNrcyBhbmQgc3RvcmFnZSBkZXZpY2VzLg==</description>
   <sourcefile>udisks-2.10.0.tar.bz2</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>polkit-123</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>systemd</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libgudev</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libatasmart</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libblockdev</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>freeglut</code>
   <description>RnJlZWdsdXQgaXMgaW50ZW5kZWQgdG8gYmUgYSAxMDAlIGNvbXBhdGlibGUsIGNvbXBsZXRlbHkgb3BlbnNvdXJjZWQgY2xvbmUgb2YgdGhlIEdMVVQgbGlicmFyeS4g</description>
   <sourcefile>freeglut-3.4.0.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>mesa</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>glu</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

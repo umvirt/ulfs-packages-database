@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>parted</code>
   <description>VGhlIFBhcnRlZCBwYWNrYWdlIGlzIGEgZGlzayBwYXJ0aXRpb25pbmcgYW5kIHBhcnRpdGlvbiByZXNpemluZyB0b29sLg==</description>
   <sourcefile>parted-3.6.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>dosfstools</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>LVM2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>bdftopcf</code>
   <description>YmRmdG9wY2YgaXMgdG9vbCB0byBjb252ZXJ0IFggZm9udCBmcm9tIEJpdG1hcCBEaXN0cmlidXRpb24gRm9ybWF0IHRvIFBvcnRhYmxlIENvbXBpbGVkIEZvcm1hdA==</description>
   <sourcefile>bdftopcf-1.1.tar.gz</sourcefile>

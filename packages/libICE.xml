@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libICE</code>
   <description/>
   <sourcefile>libICE-1.1.1.tar.xz</sourcefile>

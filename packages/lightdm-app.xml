@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>lightdm-app</code>
   <description>VGhlIGxpZ2h0ZG0gcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IGRpc3BsYXkgbWFuYWdlciBiYXNlZCB1cG9uIEdUSy4=</description>
   <sourcefile>lightdm-1.32.0.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>xorg-server</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>itstool</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libgcrypt</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libxklavier</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

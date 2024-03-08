@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libgee</code>
   <description>VGhlIGxpYmdlZSBwYWNrYWdlIGlzIGEgY29sbGVjdGlvbiBsaWJyYXJ5IHByb3ZpZGluZyBHT2JqZWN0IGJhc2VkIGludGVyZmFjZXMgYW5kIGNsYXNzZXMgZm9yIGNvbW1vbmx5IHVzZWQgZGF0YSBzdHJ1Y3R1cmVzLg==</description>
   <sourcefile>libgee-0.20.6.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

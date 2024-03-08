@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libarchive</code>
   <description>VGhlIGxpYmFyY2hpdmUgbGlicmFyeSBwcm92aWRlcyBhIHNpbmdsZSBpbnRlcmZhY2UgZm9yIHJlYWRpbmcvd3JpdGluZyB2YXJpb3VzIGNvbXByZXNzaW9uIGZvcm1hdHMu</description>
   <sourcefile>libarchive-3.7.1.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>alsa-oss</code>
   <description>VGhlIGFsc2Etb3NzIHBhY2thZ2UgY29udGFpbnMgdGhlIGFsc2Etb3NzIGNvbXBhdGliaWxpdHkgbGlicmFyeS4gVGhpcyBpcyB1c2VkIGJ5IHByb2dyYW1zIHdoaWNoIHdpc2ggdG8gdXNlIHRoZSBhbHNhLW9zcyBzb3VuZCBpbnRlcmZhY2Uu</description>
   <sourcefile>alsa-oss-1.1.8.tar.bz2</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>pcre2</code>
   <description>VGhlIFBDUkUyIHBhY2thZ2UgY29udGFpbnMgYSBuZXcgZ2VuZXJhdGlvbiBvZiB0aGUgUGVybCBDb21wYXRpYmxlIFJlZ3VsYXIgRXhwcmVzc2lvbiBsaWJyYXJpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGltcGxlbWVudGluZyByZWd1bGFyIGV4cHJlc3Npb24gcGF0dGVybiBtYXRjaGluZyB1c2luZyB0aGUgc2FtZSBzeW50YXggYW5kIHNlbWFudGljcyBhcyBQZXJsLg0K</description>
   <sourcefile>pcre2-10.42.tar.bz2</sourcefile>

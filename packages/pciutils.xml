@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>pciutils</code>
   <description>VGhlIFBDSSBVdGlscyBwYWNrYWdlIGNvbnRhaW5zIGEgc2V0IG9mIHByb2dyYW1zIGZvciBsaXN0aW5nIFBDSSBkZXZpY2VzLCBpbnNwZWN0aW5nIHRoZWlyIHN0YXR1cyBhbmQgc2V0dGluZyB0aGVpciBjb25maWd1cmF0aW9uIHJlZ2lzdGVycy4=</description>
   <sourcefile>pciutils-3.10.0.tar.gz</sourcefile>

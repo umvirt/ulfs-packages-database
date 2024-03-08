@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libxkbcommon</code>
   <description>bGlieGtiY29tbW9uIGlzIGEga2V5bWFwIGNvbXBpbGVyIGFuZCBzdXBwb3J0IGxpYnJhcnkgd2hpY2ggcHJvY2Vzc2VzIGEgcmVkdWNlZCBzdWJzZXQgb2Yga2V5bWFwcyBhcyBkZWZpbmVkIGJ5IHRoZSBYS0Igc3BlY2lmaWNhdGlvbi4=</description>
   <sourcefile>libxkbcommon-1.5.0.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libxcb</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>wayland-protocols</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>xkeyboard-config</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

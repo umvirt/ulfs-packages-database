@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libchamplain</code>
   <description>VGhlIGxpYmNoYW1wbGFpbiBwYWNrYWdlIGNvbnRhaW5zIGEgQ2x1dHRlci1iYXNlZCB3aWRnZXQgdGhhdCBpcyB1c2VkIHRvIGRpc3BsYXkgcmljaCBhbmQgaW50ZXJhY3RpdmUgbWFwcy4=</description>
   <sourcefile>libchamplain-0.12.21.tar.xz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libsoup3</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>clutter-gtk</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

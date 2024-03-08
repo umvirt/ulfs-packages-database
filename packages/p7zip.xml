@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>p7zip</code>
   <description>cDd6aXAgaXMgdGhlIFVuaXggY29tbWFuZC1saW5lIHBvcnQgb2YgNy1aaXAsIGEgZmlsZSBhcmNoaXZlciB0aGF0IGFyY2hpdmVzIHdpdGggaGlnaCBjb21wcmVzc2lvbiByYXRpb3Mu</description>
   <sourcefile>p7zip-17.04.tar.gz</sourcefile>

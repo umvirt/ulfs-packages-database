@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>exiv2</code>
   <description>RXhpdjIgaXMgYSBDKysgbGlicmFyeSBhbmQgYSBjb21tYW5kIGxpbmUgdXRpbGl0eSBmb3IgbWFuYWdpbmcgaW1hZ2UgYW5kIHZpZGVvIG1ldGFkYXRhLg==</description>
   <sourcefile>exiv2-0.28.0-Source.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>curl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>brotli</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>inih</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

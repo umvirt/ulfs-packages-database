@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gnome-bluetooth</code>
   <description>VGhlIEdOT01FIEJsdWV0b290aCBwYWNrYWdlIGNvbnRhaW5zIHRvb2xzIGZvciBtYW5hZ2luZyBhbmQgbWFuaXB1bGF0aW5nIEJsdWV0b290aCBkZXZpY2VzIHVzaW5nIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
   <sourcefile>gnome-bluetooth-42.6.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk4</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gsound</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libadwaita</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>upower</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>bluez</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

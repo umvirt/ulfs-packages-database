@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>qt5</code>
   <description>UXQ1IGlzIGEgY3Jvc3MtcGxhdGZvcm0gYXBwbGljYXRpb24gZnJhbWV3b3JrIHRoYXQgaXMgd2lkZWx5IHVzZWQgZm9yIGRldmVsb3BpbmcgYXBwbGljYXRpb24gc29mdHdhcmUgd2l0aCBhIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZSAoR1VJKSAoaW4gd2hpY2ggY2FzZXMgUXQ1IGlzIGNsYXNzaWZpZWQgYXMgYSB3aWRnZXQgdG9vbGtpdCksIGFuZCBhbHNvIHVzZWQgZm9yIGRldmVsb3Bpbmcgbm9uLUdVSSBwcm9ncmFtcyBzdWNoIGFzIGNvbW1hbmQtbGluZSB0b29scyBhbmQgY29uc29sZXMgZm9yIHNlcnZlcnMuIFR3byBvZiB0aGUgbWFqb3IgdXNlcnMgb2YgUXQgYXJlIEtERSBGcmFtZXdvcmtzIDUgKEtGNSkgYW5kIExYUXQu</description>
   <sourcefile>qt-everywhere-opensource-src-5.15.10.tar.xz</sourcefile>
@@ -13,91 +13,91 @@
   <dependances>
     <dependance>
       <code>icu</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pcre2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>make-ca</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>xcb-util-image</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>xcb-util-keysyms</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>xcb-util-renderutil</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>xcb-util-wm</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>wayland</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>mesa</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>mtdev</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>tiff</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>libxkbcommon</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-base</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>libwebp</code>
-      <weight>0</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>which</code>
-      <weight>0</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>cups</code>
-      <weight>0</weight>
+      <weight>22</weight>
     </dependance>
   </dependances>
   <patches>

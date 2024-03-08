@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>alsa-tools</code>
   <description>VGhlIEFMU0EgVG9vbHMgcGFja2FnZSBjb250YWlucyBhZHZhbmNlZCB0b29scyBmb3IgY2VydGFpbiBzb3VuZCBjYXJkcy4NCg0K</description>
   <sourcefile>alsa-tools-1.2.5.tar.bz2</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

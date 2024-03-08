@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libXfont2</code>
   <description/>
   <sourcefile>libXfont2-2.0.6.tar.xz</sourcefile>

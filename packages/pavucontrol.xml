@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>pavucontrol</code>
   <description>UHVsc2VBdWRpbyBWb2x1bWUgQ29udHJvbCAocGF2dWNvbnRyb2wpIGlzIGEgc2ltcGxlIEdUSyBiYXNlZCB2b2x1bWUgY29udHJvbCB0b29sICgibWl4ZXIiKSBmb3IgdGhlIFB1bHNlQXVkaW8gc291bmQgc2VydmVyLiBJbiBjb250cmFzdCB0byBjbGFzc2ljIG1peGVyIHRvb2xzLCB0aGlzIG9uZSBhbGxvd3MgeW91IHRvIGNvbnRyb2wgYm90aCB0aGUgdm9sdW1lIG9mIGhhcmR3YXJlIGRldmljZXMgYW5kIG9mIGVhY2ggcGxheWJhY2sgc3RyZWFtIHNlcGFyYXRlbHku</description>
   <sourcefile>pavucontrol-5.0.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>json-glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libcanberra</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libsigcpp</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gtkmm3</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

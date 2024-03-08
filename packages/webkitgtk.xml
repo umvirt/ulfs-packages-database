@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>webkitgtk</code>
   <description>V2ViS2l0IHRvIHRoZSBHVEsrIDMgYW5kIEdUSyA0</description>
   <sourcefile/>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>webkitgtk3</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>webkitgtk4</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

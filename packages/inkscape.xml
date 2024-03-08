@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>inkscape</code>
   <description>SW5rc2NhcGUgaXMgYSB3aGF0IHlvdSBzZWUgaXMgd2hhdCB5b3UgZ2V0IFNjYWxhYmxlIFZlY3RvciBHcmFwaGljcyBlZGl0b3Iu</description>
   <sourcefile>inkscape-1.3.tar.xz</sourcefile>
@@ -13,79 +13,79 @@
   <dependances>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>popt</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>lcms2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libcanberra</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>boost</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>poppler</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libsoup2</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>python3-numpy</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>gtkmm3</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>double-conversion</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>gc</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>gsl</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>potrace</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>python3-cachecontrol</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>python3-cssselect</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>python3-lxml</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>python3-pyserial</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>python3-scour</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>ImageMagick</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
   </dependances>
   <patches/>

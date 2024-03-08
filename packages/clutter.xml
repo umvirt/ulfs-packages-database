@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>clutter</code>
   <description>VGhlIENsdXR0ZXIgcGFja2FnZSBjb250YWlucyBhbiBvcGVuIHNvdXJjZSBzb2Z0d2FyZSBsaWJyYXJ5IHVzZWQgZm9yIGNyZWF0aW5nIGZhc3QsIHZpc3VhbGx5IHJpY2ggYW5kIGFuaW1hdGVkIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZXMu</description>
   <sourcefile>clutter-1.26.4.tar.xz</sourcefile>
@@ -13,39 +13,39 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>wayland</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libinput</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>at-spi2-core</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libxkbcommon</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>json-glib</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libgudev</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>cogl</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
   </dependances>
   <patches/>

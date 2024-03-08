@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libdrm</code>
   <description>TGliZHJtIHByb3ZpZGVzIGEgdXNlcnNwYWNlIGxpYnJhcnkgZm9yIGFjY2Vzc2luZyB0aGUgZGlyZWN0IHJlbmRlcmluZyBtYW5hZ2VyIChEUk0pIG9uIG9wZXJhdGluZyBzeXN0ZW1zIHRoYXQgc3VwcG9ydCB0aGUgaW9jdGwgaW50ZXJmYWNlLiA=</description>
   <sourcefile>libdrm-2.4.115.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

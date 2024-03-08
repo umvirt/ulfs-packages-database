@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libblockdev</code>
   <description>bGliYmxvY2tkZXYgaXMgYSBDIGxpYnJhcnkgc3VwcG9ydGluZyBHT2JqZWN0IEludHJvc3BlY3Rpb24gZm9yIG1hbmlwdWxhdGlvbiBvZiBibG9jayBkZXZpY2VzLiBJdCBoYXMgYSBwbHVnaW4tYmFzZWQgYXJjaGl0ZWN0dXJlIHdoZXJlIGVhY2ggdGVjaG5vbG9neSAobGlrZSBMVk0sIEJ0cmZzLCBNRCBSQUlELCBTd2FwLC4uLikgaXMgaW1wbGVtZW50ZWQgaW4gYSBzZXBhcmF0ZSBwbHVnaW4sIHBvc3NpYmx5IHdpdGggbXVsdGlwbGUgaW1wbGVtZW50YXRpb25zIChlLmcuIHVzaW5nIExWTSBDTEkgb3IgdGhlIG5ldyBMVk0gREJ1cyBBUEkpLg==</description>
   <sourcefile>libblockdev-3.0.2.tar.gz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>LVM2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>cryptsetup</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>keyutils</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libbytesize</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libnvme</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

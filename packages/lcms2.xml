@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>lcms2</code>
   <description>VGhlIExpdHRsZSBDb2xvciBNYW5hZ2VtZW50IFN5c3RlbSBpcyBhIHNtYWxsLWZvb3RwcmludCBjb2xvciBtYW5hZ2VtZW50IGVuZ2luZSwgd2l0aCBzcGVjaWFsIGZvY3VzIG9uIGFjY3VyYWN5IGFuZCBwZXJmb3JtYW5jZS4gSXQgdXNlcyB0aGUgSW50ZXJuYXRpb25hbCBDb2xvciBDb25zb3J0aXVtIHN0YW5kYXJkIChJQ0MpLCB3aGljaCBpcyB0aGUgbW9kZXJuIHN0YW5kYXJkIGZvciBjb2xvciBtYW5hZ2VtZW50Lg==</description>
   <sourcefile>lcms2-2.14.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>tiff</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

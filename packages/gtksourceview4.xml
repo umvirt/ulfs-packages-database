@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gtksourceview4</code>
   <description>VGhlIEd0a1NvdXJjZVZpZXcgcGFja2FnZSBjb250YWlucyBsaWJyYXJpZXMgdXNlZCBmb3IgZXh0ZW5kaW5nIHRoZSBHVEsrIHRleHQgZnVuY3Rpb25zIHRvIGluY2x1ZGUgc3ludGF4IGhpZ2hsaWdodGluZy4=</description>
   <sourcefile>gtksourceview-4.8.4.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

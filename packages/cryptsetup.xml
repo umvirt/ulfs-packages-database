@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>cryptsetup</code>
   <description>Y3J5cHRzZXR1cCBpcyB1c2VkIHRvIHNldCB1cCB0cmFuc3BhcmVudCBlbmNyeXB0aW9uIG9mIGJsb2NrIGRldmljZXMgdXNpbmcgdGhlIGtlcm5lbCBjcnlwdG8gQVBJLg==</description>
   <sourcefile>cryptsetup-2.4.3.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>popt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>json-c</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>LVM2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

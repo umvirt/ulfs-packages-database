@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libass</code>
   <description>bGliYXNzIGlzIGEgcG9ydGFibGUgc3VidGl0bGUgcmVuZGVyZXIgZm9yIHRoZSBBU1MvU1NBIChBZHZhbmNlZCBTdWJzdGF0aW9uIEFscGhhL1N1YnN0YXRpb24gQWxwaGEpIHN1YnRpdGxlIGZvcm1hdCB0aGF0IGFsbG93cyBmb3IgbW9yZSBhZHZhbmNlZCBzdWJ0aXRsZXMgdGhhbiB0aGUgY29udmVudGlvbmFsIFNSVCBhbmQgc2ltaWxhciBmb3JtYXRzLg==</description>
   <sourcefile>libass-0.17.1.tar.xz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>freetype</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>fontconfig</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>nasm</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>fribidi</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

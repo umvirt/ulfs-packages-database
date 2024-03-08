@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libxklavier</code>
   <description>VGhlIGxpYnhrbGF2aWVyIHBhY2thZ2UgY29udGFpbnMgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIFgga2V5Ym9hcmQuDQoNCg==</description>
   <sourcefile>libxklavier-5.4.tar.bz2</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>iso-codes</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

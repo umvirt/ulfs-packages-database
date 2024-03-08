@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libva</code>
   <description>VGhlIGxpYnZhIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHdoaWNoIHByb3ZpZGVzIGFjY2VzcyB0byBoYXJkd2FyZSBhY2NlbGVyYXRlZCB2aWRlbyBwcm9jZXNzaW5nLCB1c2luZyBoYXJkd2FyZSB0byBhY2NlbGVyYXRlIHZpZGVvIHByb2Nlc3NpbmcgaW4gb3JkZXIgdG8gb2ZmbG9hZCB0aGUgY2VudHJhbCBwcm9jZXNzaW5nIHVuaXQgKENQVSkgdG8gZGVjb2RlIGFuZCBlbmNvZGUgY29tcHJlc3NlZCBkaWdpdGFsIHZpZGVvLg==</description>
   <sourcefile>libva-2.19.0.tar.bz2</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libdrm</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>mesa</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>X</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

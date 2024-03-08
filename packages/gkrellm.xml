@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gkrellm</code>
   <description>R05VIEtyZWxsIE1vbml0b3Jz</description>
   <sourcefile>gkrellm-2.3.11.tar.bz2</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

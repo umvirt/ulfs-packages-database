@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libpcap</code>
   <description>bGlicGNhcCBwcm92aWRlcyBmdW5jdGlvbnMgZm9yIHVzZXItbGV2ZWwgcGFja2V0IGNhcHR1cmUsIHVzZWQgaW4gbG93LWxldmVsIG5ldHdvcmsgbW9uaXRvcmluZy4=</description>
   <sourcefile>libpcap-1.10.4.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libusb</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>bluez</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libnl</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

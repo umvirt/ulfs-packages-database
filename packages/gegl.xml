@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gegl</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBHRW5lcmljIEdyYXBoaWNzIExpYnJhcnksIHdoaWNoIGlzIGEgZ3JhcGggYmFzZWQgaW1hZ2UgcHJvY2Vzc2luZyBmb3JtYXQu</description>
   <sourcefile>gegl-0.4.46.tar.xz</sourcefile>
@@ -13,43 +13,43 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>graphviz</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>python3-Pygments</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>python3-pygobject</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>librsvg</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>json-glib</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libwebp</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>babl</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
   </dependances>
   <patches/>

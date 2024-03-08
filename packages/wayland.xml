@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>wayland</code>
   <description>V2F5bGFuZCBpcyBhIHByb2plY3QgdG8gZGVmaW5lIGEgcHJvdG9jb2wgZm9yIGEgY29tcG9zaXRvciB0byB0YWxrIHRvIGl0cyBjbGllbnRzIGFzIHdlbGwgYXMgYSBsaWJyYXJ5IGltcGxlbWVudGF0aW9uIG9mIHRoZSBwcm90b2NvbC4=</description>
   <sourcefile>wayland-1.22.0.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

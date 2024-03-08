@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>berkeleydb</code>
   <description>VGhlIEJlcmtlbGV5IERCIHBhY2thZ2UgY29udGFpbnMgcHJvZ3JhbXMgYW5kIHV0aWxpdGllcyB1c2VkIGJ5IG1hbnkgb3RoZXIgYXBwbGljYXRpb25zIGZvciBkYXRhYmFzZSByZWxhdGVkIGZ1bmN0aW9ucy4=</description>
   <sourcefile>db-5.3.28.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libnsl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>sharutils</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

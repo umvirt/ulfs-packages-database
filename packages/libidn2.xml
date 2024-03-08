@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libidn2</code>
   <description>bGliaWRuMiBpcyBhIHBhY2thZ2UgZGVzaWduZWQgZm9yIGludGVybmF0aW9uYWxpemVkIHN0cmluZyBoYW5kbGluZyBiYXNlZCBvbiBzdGFuZGFyZHMgZnJvbSB0aGUgSW50ZXJuZXQgRW5naW5lZXJpbmcgVGFzayBGb3JjZSAoSUVURikncyBJRE4gd29ya2luZyBncm91cCwgZGVzaWduZWQgZm9yIGludGVybmF0aW9uYWxpemVkIGRvbWFpbiBuYW1lcy4=</description>
   <sourcefile>libidn2-2.3.4.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>libunistring</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

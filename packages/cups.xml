@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>cups</code>
   <description>VGhlIENvbW1vbiBVbml4IFByaW50aW5nIFN5c3RlbSAoQ1VQUykgaXMgYSBwcmludCBzcG9vbGVyIGFuZCBhc3NvY2lhdGVkIHV0aWxpdGllcy4gSXQgaXMgYmFzZWQgb24gdGhlICJJbnRlcm5ldCBQcmludGluZyBQcm90b2NvbCIgYW5kIHByb3ZpZGVzIHByaW50aW5nIHNlcnZpY2VzIHRvIG1vc3QgUG9zdFNjcmlwdCBhbmQgcmFzdGVyIHByaW50ZXJzLg==</description>
   <sourcefile>cups-2.4.6-source.tar.gz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>dbus</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gnutls</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libusb</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>colord</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>xdg-utils</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

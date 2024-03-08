@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>lightdm</code>
   <description>VGhlIGxpZ2h0ZG0gcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IGRpc3BsYXkgbWFuYWdlciBiYXNlZCB1cG9uIEdUSy4=</description>
   <sourcefile/>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>lightdm-app</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>lightdm-gtk-greeter</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

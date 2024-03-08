@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libsoup2</code>
   <description>VGhlIGxpYnNvdXAgaXMgYSBIVFRQIGNsaWVudC9zZXJ2ZXIgbGlicmFyeSBmb3IgR05PTUUuIEl0IHVzZXMgR09iamVjdCBhbmQgdGhlIEdMaWIgbWFpbiBsb29wIHRvIGludGVncmF0ZSB3aXRoIEdOT01FIGFwcGxpY2F0aW9ucyBhbmQgaXQgYWxzbyBoYXMgYW4gYXN5bmNocm9ub3VzIEFQSSBmb3IgdXNlIGluIHRocmVhZGVkIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>libsoup-2.74.3.tar.xz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>glib-networking</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libpsl</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

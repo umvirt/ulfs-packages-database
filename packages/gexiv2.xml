@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gexiv2</code>
   <description>Z2V4aXYyIGlzIGEgR09iamVjdC1iYXNlZCB3cmFwcGVyIGFyb3VuZCB0aGUgRXhpdjIgbGlicmFyeS4=</description>
   <sourcefile>gexiv2-0.14.2.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>exiv2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

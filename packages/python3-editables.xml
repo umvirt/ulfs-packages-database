@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-editables</code>
   <description>RWRpdGFibGVzIGlzIHB5dGhvbiBsaWJyYXJ5IGZvciBjcmVhdGluZyDigJxlZGl0YWJsZSB3aGVlbHPigJ0u</description>
   <sourcefile>editables-0.3.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libmateweather</code>
   <description>bWF0ZXdlYXRoZXIgZGlzcGxheXMgdGhlIGN1cnJlbnQgdGVtcGVyYXR1cmUgYW5kIHdlYXRoZXIgY29uZGl0aW9ucyBpbiBudW1lcmljIGFuZCBpY29uaWZpZWQgZm9ybSBpbnNpZGUgdGhlIGFwcGxldC4=</description>
   <sourcefile>libmateweather-1.26.2.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libsoup2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

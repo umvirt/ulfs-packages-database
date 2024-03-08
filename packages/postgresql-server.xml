@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>postgresql-server</code>
   <description>UG9zdGdyZVNRTCBpcyBhbiBhZHZhbmNlZCBvYmplY3QtcmVsYXRpb25hbCBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbSAoT1JEQk1TKSwgZGVyaXZlZCBmcm9tIHRoZSBCZXJrZWxleSBQb3N0Z3JlcyBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbS4gQ2xpZW50IHBhY2thZ2Uu</description>
   <sourcefile>postgresql-15.4.tar.bz2</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>icu</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>krb5</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

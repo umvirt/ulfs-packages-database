@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>xf86-input-libinput</code>
   <description>VGhlIFguT3JnIExpYmlucHV0IERyaXZlciBpcyBhIHRoaW4gd3JhcHBlciBhcm91bmQgbGliaW5wdXQgYW5kIGFsbG93cyBmb3IgbGliaW5wdXQgdG8gYmUgdXNlZCBmb3IgaW5wdXQgZGV2aWNlcyBpbiBYLg==</description>
   <sourcefile>xf86-input-libinput-1.3.0.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>xorg-server</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libinput</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

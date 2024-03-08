@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>rsync</code>
   <description>VGhlIHJzeW5jIHV0aWxpdHkgaXMgdXNlZnVsIGZvciBzeW5jaHJvbml6aW5nIGxhcmdlIGZpbGUgYXJjaGl2ZXMgb3ZlciBhIG5ldHdvcmsu</description>
   <sourcefile>rsync-3.2.7.tar.gz</sourcefile>

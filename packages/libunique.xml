@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libunique</code>
   <description>VGhlIGxpYnVuaXF1ZSBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSBmb3Igd3JpdGluZyBzaW5nbGUgaW5zdGFuY2UgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>libunique-1.1.6.tar.bz2</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gtk-doc</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches>

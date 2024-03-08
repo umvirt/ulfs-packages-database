@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>yaml</code>
   <description>VGhlIHlhbWwgcGFja2FnZSBjb250YWlucyBhIEMgbGlicmFyeSBmb3IgcGFyc2luZyBhbmQgZW1pdHRpbmcgWUFNTCAoWUFNTCBBaW4ndCBNYXJrdXAgTGFuZ3VhZ2UpIGNvZGUu</description>
   <sourcefile>yaml-0.2.5.tar.gz</sourcefile>

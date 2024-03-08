@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>glibmm</code>
   <description>VGhlIEdMaWJtbSBwYWNrYWdlIGlzIGEgc2V0IG9mIEMrKyBiaW5kaW5ncyBmb3IgR0xpYi4=</description>
   <sourcefile>glibmm-2.66.5.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libsigcpp</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

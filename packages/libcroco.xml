@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libcroco</code>
   <description>VGhlIGxpYmNyb2NvIHBhY2thZ2UgY29udGFpbnMgYSBzdGFuZGFsb25lIENTUzIgcGFyc2luZyBhbmQgbWFuaXB1bGF0aW9uIGxpYnJhcnku</description>
   <sourcefile>libcroco-0.6.12.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

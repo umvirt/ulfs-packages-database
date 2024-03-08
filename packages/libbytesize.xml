@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libbytesize</code>
   <description>VGhlIGxpYmJ5dGVzaXplIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHdoaWNoIGZhY2lsaXRhdGVzIHRoZSBjb21tb24gb3BlcmF0aW9ucyB3aXRoIHNpemVzIGluIGJ5dGVzLg==</description>
   <sourcefile>libbytesize-2.9.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>pcre2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-Pygments</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-six</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

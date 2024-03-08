@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>vlc</code>
   <description>VkxDIGlzIGEgbWVkaWEgcGxheWVyLCBzdHJlYW1lciwgYW5kIGVuY29kZXIuIEl0IGNhbiBwbGF5IGZyb20gbWFueSBpbnB1dHMsIHN1Y2ggYXMgZmlsZXMsIG5ldHdvcmsgc3RyZWFtcywgY2FwdHVyZSBkZXZpY2VzLCBkZXNrdG9wcywgb3IgRFZELCBTVkNELCBWQ0QsIGFuZCBhdWRpbyBDRC4gSXQgY2FuIHVzZSBtb3N0IGF1ZGlvIGFuZCB2aWRlbyBjb2RlY3MgKE1QRUcgMS8yLzQsIEgyNjQsIFZDLTEsIERpdlgsIFdNViwgVm9yYmlzLCBBQzMsIEFBQywgZXRjLiksIGFuZCBpdCBjYW4gYWxzbyBjb252ZXJ0IHRvIGRpZmZlcmVudCBmb3JtYXRzIGFuZC9vciBzZW5kIHN0cmVhbXMgdGhyb3VnaCB0aGUgbmV0d29yay4NCg==</description>
   <sourcefile>vlc-3.0.18.tar.xz</sourcefile>
@@ -13,183 +13,183 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libssh2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>freetype</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libarchive</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>fontconfig</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>dbus</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>fribidi</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>desktop-file-utils</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>gnutls</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>libgcrypt</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>libogg</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>libtheora</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>libdvdread</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>libdvdnav</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>sdl12-compat</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>avahi</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>libaom</code>
-      <weight>0</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>libass</code>
-      <weight>0</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>opus</code>
-      <weight>0</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>x264</code>
-      <weight>0</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>libva</code>
-      <weight>0</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>libvpx</code>
-      <weight>0</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>flac</code>
-      <weight>0</weight>
+      <weight>27</weight>
     </dependance>
     <dependance>
       <code>speex</code>
-      <weight>0</weight>
+      <weight>28</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>29</weight>
     </dependance>
     <dependance>
       <code>libcddb</code>
-      <weight>0</weight>
+      <weight>30</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>31</weight>
     </dependance>
     <dependance>
       <code>xdg-utils</code>
-      <weight>0</weight>
+      <weight>32</weight>
     </dependance>
     <dependance>
       <code>samba</code>
-      <weight>0</weight>
+      <weight>33</weight>
     </dependance>
     <dependance>
       <code>v4l-utils</code>
-      <weight>0</weight>
+      <weight>34</weight>
     </dependance>
     <dependance>
       <code>a52dec</code>
-      <weight>0</weight>
+      <weight>35</weight>
     </dependance>
     <dependance>
       <code>libmad</code>
-      <weight>0</weight>
+      <weight>36</weight>
     </dependance>
     <dependance>
       <code>lua-5.2</code>
-      <weight>0</weight>
+      <weight>37</weight>
     </dependance>
     <dependance>
       <code>libidn1</code>
-      <weight>0</weight>
+      <weight>38</weight>
     </dependance>
     <dependance>
       <code>libdv</code>
-      <weight>0</weight>
+      <weight>39</weight>
     </dependance>
     <dependance>
       <code>libdvdcss</code>
-      <weight>0</weight>
+      <weight>40</weight>
     </dependance>
     <dependance>
       <code>faad2</code>
-      <weight>0</weight>
+      <weight>41</weight>
     </dependance>
     <dependance>
       <code>libmpeg2</code>
-      <weight>0</weight>
+      <weight>42</weight>
     </dependance>
     <dependance>
       <code>aalib</code>
-      <weight>0</weight>
+      <weight>43</weight>
     </dependance>
     <dependance>
       <code>libsamplerate</code>
-      <weight>0</weight>
+      <weight>44</weight>
     </dependance>
     <dependance>
       <code>taglib</code>
-      <weight>0</weight>
+      <weight>45</weight>
     </dependance>
   </dependances>
   <patches/>

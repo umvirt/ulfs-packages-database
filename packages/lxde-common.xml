@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>lxde-common</code>
   <description>aGUgTFhERSBDb21tb24gcGFja2FnZSBwcm92aWRlcyBhIHNldCBvZiBkZWZhdWx0IGNvbmZpZ3VyYXRpb24gZm9yIExYREUu</description>
   <sourcefile>lxde-common-0.99.2.tar.xz</sourcefile>
@@ -13,35 +13,35 @@
   <dependances>
     <dependance>
       <code>shared-mime-info</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>hicolor-icon-theme</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pcmanfm</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>lxde-icon-theme</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>lxpanel</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>lxsession</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>openbox</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>desktop-file-utils</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

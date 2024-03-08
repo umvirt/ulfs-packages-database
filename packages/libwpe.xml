@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libwpe</code>
   <description>VGhlIGxpYndwZSBwYWNrYWdlIGNvbnRhaW5zIGEgZ2VuZXJhbCBwdXJwb3NlIGxpYnJhcnkgZm9yIFdQRSBXZWJLaXQgYW5kIHRoZSBXUEUgUmVuZGVyZXIu</description>
   <sourcefile>libwpe-1.14.1.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>mesa</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxkbcommon</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

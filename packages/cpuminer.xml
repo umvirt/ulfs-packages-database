@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>cpuminer</code>
   <description>Q1BVIG1pbmVyIGZvciBMaXRlY29pbiBhbmQgQml0Y29pbg==</description>
   <sourcefile>cpuminer-2.5.1.tar.gz</sourcefile>

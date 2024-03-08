@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>babl</code>
   <description>VGhlIEJhYmwgcGFja2FnZSBpcyBhIGR5bmFtaWMsIGFueSB0byBhbnksIHBpeGVsIGZvcm1hdCB0cmFuc2xhdGlvbiBsaWJyYXJ5Lg0KDQo=</description>
   <sourcefile>babl-0.1.106.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>librsvg</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

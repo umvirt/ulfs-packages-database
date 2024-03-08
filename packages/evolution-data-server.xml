@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>evolution-data-server</code>
   <description>VGhlIEV2b2x1dGlvbiBEYXRhIFNlcnZlciBwYWNrYWdlIHByb3ZpZGVzIGEgdW5pZmllZCBiYWNrZW5kIGZvciBwcm9ncmFtcyB0aGF0IHdvcmsgd2l0aCBjb250YWN0cywgdGFza3MsIGFuZCBjYWxlbmRhciBpbmZvcm1hdGlvbi4gSXQgd2FzIG9yaWdpbmFsbHkgZGV2ZWxvcGVkIGZvciBFdm9sdXRpb24gKGhlbmNlIHRoZSBuYW1lKSwgYnV0IGlzIG5vdyB1c2VkIGJ5IG90aGVyIHBhY2thZ2VzIGFzIHdlbGwu</description>
   <sourcefile>evolution-data-server-3.48.4.tar.xz</sourcefile>
@@ -13,51 +13,51 @@
   <dependances>
     <dependance>
       <code>icu</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libsecret</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>webkitgtk</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>gnome-online-accounts</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libgweather</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libical</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>nss</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libcanberra</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
   </dependances>
   <patches/>

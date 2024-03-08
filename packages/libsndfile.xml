@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libsndfile</code>
   <description>TGlic25kZmlsZSBpcyBhIGxpYnJhcnkgb2YgQyByb3V0aW5lcyBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBmaWxlcyBjb250YWluaW5nIHNhbXBsZWQgYXVkaW8gZGF0YS4=</description>
   <sourcefile>libsndfile-1.2.2.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>opus</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>flac</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

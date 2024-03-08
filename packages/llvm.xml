@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>llvm</code>
   <description>VGhlIExMVk0gcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgbW9kdWxhciBhbmQgcmV1c2FibGUgY29tcGlsZXIgYW5kIHRvb2xjaGFpbiB0ZWNobm9sb2dpZXMu</description>
   <sourcefile>llvm-16.0.5.src.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

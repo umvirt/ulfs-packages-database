@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>geocode-glib</code>
   <description>VGhlIEdlb2NvZGUgR0xpYiBpcyBhIGNvbnZlbmllbmNlIGxpYnJhcnkgZm9yIHRoZSBZYWhvbyEgUGxhY2UgRmluZGVyIEFQSXMuIFRoZSBQbGFjZSBGaW5kZXIgd2ViIHNlcnZpY2UgYWxsb3dzIHRvIGRvIGdlb2NvZGluZyAoZmluZGluZyBsb25naXR1ZGUgYW5kIGxhdGl0dWRlIGZyb20gYW4gYWRkcmVzcyksIGFuZCByZXZlcnNlIGdlb2NvZGluZyAoZmluZGluZyBhbiBhZGRyZXNzIGZyb20gY29vcmRpbmF0ZXMpLg==</description>
   <sourcefile>geocode-glib-3.26.4.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>json-glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libsoup3</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

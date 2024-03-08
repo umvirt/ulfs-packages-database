@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-scour</code>
   <description>U2NvdXIgaXMgYW4gU1ZHIChTY2FsYWJsZSBWZWN0b3IgR3JhcGhpY3MpIG9wdGltaXplci9jbGVhbmVyIHRoYXQgcmVkdWNlcyB0aGVpciBzaXplIGJ5IG9wdGltaXppbmcgc3RydWN0dXJlIGFuZCByZW1vdmluZyB1bm5lY2Vzc2FyeSBkYXRhLg==</description>
   <sourcefile>scour-0.38.2.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-six</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

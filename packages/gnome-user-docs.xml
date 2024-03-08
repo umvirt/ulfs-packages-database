@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gnome-user-docs</code>
   <description>VGhlIEdOT01FIFVzZXIgRG9jcyBwYWNrYWdlIGNvbnRhaW5zIGRvY3VtZW50YXRpb24gZm9yIEdOT01FLg==</description>
   <sourcefile>gnome-user-docs-44.3.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>itstool</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

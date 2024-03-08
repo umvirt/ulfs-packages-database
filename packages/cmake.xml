@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>cmake</code>
   <description>VGhlIENNYWtlIHBhY2thZ2UgY29udGFpbnMgYSBtb2Rlcm4gdG9vbHNldCB1c2VkIGZvciBnZW5lcmF0aW5nIE1ha2VmaWxlcw==</description>
   <sourcefile>cmake-3.27.2.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>curl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>git</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libarchive</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libuv</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

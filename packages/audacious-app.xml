@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>audacious-app</code>
   <description>QXVkYWNpb3VzIGlzIGFuIGF1ZGlvIHBsYXllci4=</description>
   <sourcefile>audacious-4.3.1.tar.bz2</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>libarchive</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>qt5</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

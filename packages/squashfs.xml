@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>squashfs</code>
   <description>VG9vbHMgdG8gY3JlYXRlIGFuZCBleHRyYWN0IFNxdWFzaGZzIGZpbGVzeXN0ZW1z</description>
   <sourcefile>squashfs-tools-4.6.1.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>lzo</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>lz4</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

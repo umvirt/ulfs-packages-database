@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>openjpeg</code>
   <description>T3BlbkpQRUcgaXMgYW4gb3Blbi1zb3VyY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIEpQRUctMjAwMCBzdGFuZGFyZC4gT3BlbkpQRUcgZnVsbHkgcmVzcGVjdHMgdGhlIEpQRUctMjAwMCBzcGVjaWZpY2F0aW9ucyBhbmQgY2FuIGNvbXByZXNzL2RlY29tcHJlc3MgbG9zc2xlc3MgMTYtYml0IGltYWdlcy4=</description>
   <sourcefile>openjpeg-2.5.0.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>tiff</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>lcms2</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

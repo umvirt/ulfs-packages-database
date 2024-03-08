@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>Xapps</code>
   <description>VmlydHVhbCBQYWNrYWdlIHRvIGluc3RhbGwgYWxsIFhvcmcgQXBwbGljYXRpb25z</description>
   <sourcefile/>
@@ -13,163 +13,163 @@
   <dependances>
     <dependance>
       <code>xcb-util</code>
-      <weight>-100</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>mesa</code>
-      <weight>-100</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>xbitmaps</code>
-      <weight>-100</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libpng</code>
-      <weight>-100</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>iceauth</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>luit</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>mkfontscale</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>sessreg</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>setxkbmap</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>smproxy</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>x11perf</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>xauth</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>xbacklight</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>xcmsdb</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>xcursorgen</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>xdpyinfo</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>xdriinfo</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>xev</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>xgamma</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>xhost</code>
-      <weight>0</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>xinput</code>
-      <weight>0</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>xkbcomp</code>
-      <weight>0</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>xkbevd</code>
-      <weight>0</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>xkbutils</code>
-      <weight>0</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>xkill</code>
-      <weight>0</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>xlsatoms</code>
-      <weight>0</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>xlsclients</code>
-      <weight>0</weight>
+      <weight>27</weight>
     </dependance>
     <dependance>
       <code>xmessage</code>
-      <weight>0</weight>
+      <weight>28</weight>
     </dependance>
     <dependance>
       <code>xmodmap</code>
-      <weight>0</weight>
+      <weight>29</weight>
     </dependance>
     <dependance>
       <code>xpr</code>
-      <weight>0</weight>
+      <weight>30</weight>
     </dependance>
     <dependance>
       <code>xprop</code>
-      <weight>0</weight>
+      <weight>31</weight>
     </dependance>
     <dependance>
       <code>xrandr</code>
-      <weight>0</weight>
+      <weight>32</weight>
     </dependance>
     <dependance>
       <code>xrdb</code>
-      <weight>0</weight>
+      <weight>33</weight>
     </dependance>
     <dependance>
       <code>xrefresh</code>
-      <weight>0</weight>
+      <weight>34</weight>
     </dependance>
     <dependance>
       <code>xset</code>
-      <weight>0</weight>
+      <weight>35</weight>
     </dependance>
     <dependance>
       <code>xsetroot</code>
-      <weight>0</weight>
+      <weight>36</weight>
     </dependance>
     <dependance>
       <code>xvinfo</code>
-      <weight>0</weight>
+      <weight>37</weight>
     </dependance>
     <dependance>
       <code>xwd</code>
-      <weight>0</weight>
+      <weight>38</weight>
     </dependance>
     <dependance>
       <code>xwininfo</code>
-      <weight>0</weight>
+      <weight>39</weight>
     </dependance>
     <dependance>
       <code>xwud</code>
-      <weight>0</weight>
+      <weight>40</weight>
     </dependance>
   </dependances>
   <patches/>

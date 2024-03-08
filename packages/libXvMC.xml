@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libXvMC</code>
   <description/>
   <sourcefile>libXvMC-1.0.13.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>Python2</code>
   <description>VGhlIFB5dGhvbiAyIHBhY2thZ2UgY29udGFpbnMgdGhlIFB5dGhvbiBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4g</description>
   <sourcefile>Python-2.7.18.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches>

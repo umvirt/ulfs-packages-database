@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>AppStream</code>
   <description>QXBwU3RyZWFtIGlzIGEgY3Jvc3MtZGlzdHJpYnV0aW9uIGVmZm9ydCBmb3IgZW5oYW5jaW5nIHRoZSB3YXkgd2UgaW50ZXJhY3Qgd2l0aCB0aGUgc29mdHdhcmUgcmVwb3NpdG9yaWVzIHByb3ZpZGVkIGJ5IChMaW51eCkgZGlzdHJpYnV0aW9ucyBieSBzdGFuZGFyZGl6aW5nIHNvZnR3YXJlIGNvbXBvbmVudCBtZXRhZGF0YS4=</description>
   <sourcefile>AppStream-1.0.0.tar.xz</sourcefile>
@@ -13,35 +13,35 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>curl</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gi-docgen</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>yaml</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libxmlb</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libstemmer</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

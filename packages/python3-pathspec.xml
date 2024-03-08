@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-pathspec</code>
   <description>UGF0aHNwZWMgaXMgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIHBhdHRlcm4gbWF0Y2hpbmcgb2YgZmlsZSBwYXRocy4=</description>
   <sourcefile>pathspec-0.10.3.tar.gz</sourcefile>

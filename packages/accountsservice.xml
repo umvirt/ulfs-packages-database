@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>accountsservice</code>
   <description>VGhlIEFjY291bnRzU2VydmljZSBwYWNrYWdlIHByb3ZpZGVzIGEgc2V0IG9mIEQtQnVzIGludGVyZmFjZXMgZm9yIHF1ZXJ5aW5nIGFuZCBtYW5pcHVsYXRpbmcgdXNlciBhY2NvdW50IGluZm9ybWF0aW9uIGFuZCBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aG9zZSBpbnRlcmZhY2VzIGJhc2VkIG9uIHRoZSB1c2VybW9kKDgpLCB1c2VyYWRkKDgpIGFuZCB1c2VyZGVsKDgpIGNvbW1hbmRzLg==</description>
   <sourcefile>accountsservice-23.13.9.tar.xz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>polkit-123</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>systemd</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

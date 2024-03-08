@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>xkeyboard-config</code>
   <description>VGhlIFhLZXlib2FyZENvbmZpZyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBrZXlib2FyZCBjb25maWd1cmF0aW9uIGRhdGFiYXNlIGZvciB0aGUgWCBXaW5kb3cgU3lzdGVtLg==</description>
   <sourcefile>xkeyboard-config-2.39.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

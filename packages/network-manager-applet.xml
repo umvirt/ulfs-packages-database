@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>network-manager-applet</code>
   <description>VGhlIE5ldHdvcmtNYW5hZ2VyIEFwcGxldCBwcm92aWRlcyBhIHRvb2wgYW5kIGEgcGFuZWwgYXBwbGV0IHVzZWQgdG8gY29uZmlndXJlIHdpcmVkIGFuZCB3aXJlbGVzcyBuZXR3b3JrIGNvbm5lY3Rpb25zIHRocm91Z2ggR1VJLiBJdCdzIGRlc2lnbmVkIGZvciB1c2Ugd2l0aCBhbnkgZGVza3RvcCBlbnZpcm9ubWVudCB0aGF0IHVzZXMgR1RLKywgc3VjaCBhcyBYZmNlIGFuZCBMWERFLg==</description>
   <sourcefile>network-manager-applet-1.32.0.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>polkit-123</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libsecret</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>ModemManager</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>gnome-bluetooth</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libnma</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

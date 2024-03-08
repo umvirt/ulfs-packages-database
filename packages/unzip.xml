@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>unzip</code>
   <description>VGhlIFVuWmlwIHBhY2thZ2UgY29udGFpbnMgWklQIGV4dHJhY3Rpb24gdXRpbGl0aWVzLiBUaGVzZSBhcmUgdXNlZnVsIGZvciBleHRyYWN0aW5nIGZpbGVzIGZyb20gWklQIGFyY2hpdmVzLiBaSVAgYXJjaGl2ZXMgYXJlIGNyZWF0ZWQgd2l0aCBQS1pJUCBvciBJbmZvLVpJUCB1dGlsaXRpZXMsIHByaW1hcmlseSBpbiBhIERPUyBlbnZpcm9ubWVudC4=</description>
   <sourcefile>unzip60.tar.gz</sourcefile>

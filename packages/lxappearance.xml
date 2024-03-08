@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>lxappearance</code>
   <description>VGhlIExYQXBwZWFyYW5jZSBwYWNrYWdlIGNvbnRhaW5zIGEgZGVza3RvcC1pbmRlcGVuZGVudCB0aGVtZSBzd2l0Y2hlciBmb3IgR1RLKy4=</description>
   <sourcefile>lxappearance-0.6.3.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>dbus-glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

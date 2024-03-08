@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>nspr</code>
   <description>TmV0c2NhcGUgUG9ydGFibGUgUnVudGltZSAoTlNQUikgcHJvdmlkZXMgYSBwbGF0Zm9ybS1uZXV0cmFsIEFQSSBmb3Igc3lzdGVtIGxldmVsIGFuZCBsaWJjIGxpa2UgZnVuY3Rpb25zLg==</description>
   <sourcefile>nspr-4.35.tar.gz</sourcefile>

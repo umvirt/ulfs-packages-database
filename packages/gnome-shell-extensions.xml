@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gnome-shell-extensions</code>
   <description>VGhlIEdOT01FIFNoZWxsIEV4dGVuc2lvbnMgcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgZXh0ZW5zaW9ucyBwcm92aWRpbmcgYWRkaXRpb25hbCBhbmQgb3B0aW9uYWwgZnVuY3Rpb25hbGl0eSB0byB0aGUgR05PTUUgU2hlbGwu</description>
   <sourcefile>gnome-shell-extensions-44.0.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gnome-menus</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libgtop</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gnome-shell</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

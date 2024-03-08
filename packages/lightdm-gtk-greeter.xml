@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>lightdm-gtk-greeter</code>
   <description>VGhlIGdyZWV0ZXIgaXMgYSBwcm9ncmFtIHRvIHByZXNlbnQgYSBncmFwaGljYWwgbG9naW4gc2NyZWVuLiBUaGVyZSBhcmUgc2V2ZXJhbCBhbHRlcm5hdGl2ZSBncmVldGVycywgYnV0IHRoZSBndGsrIHBhY2thZ2UgaXMgdGhlIHJlZmVyZW5jZSBpbXBsZW1lbnRhdGlvbi4=</description>
   <sourcefile>lightdm-gtk-greeter-2.0.8.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>lightdm-app</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>exo</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

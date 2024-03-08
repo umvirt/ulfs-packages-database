@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>at-spi2-core</code>
   <description>VGhlIEF0LVNwaTIgQ29yZSBwYWNrYWdlIGNvbnRhaW5zIGEgY29tcHJlaGVuc2l2ZSBhY2Nlc3NpYmlsaXR5IGZyYW1ld29yayBmb3IgdGhlIEFzc2lzdGl2ZSBUZWNobm9sb2dpZXMgYXZhaWxhYmxlIG9uIHRoZSBHTk9NRSBwbGF0Zm9ybS4=</description>
   <sourcefile>at-spi2-core-2.48.3.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>dbus</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gsettings-desktop-schemas</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

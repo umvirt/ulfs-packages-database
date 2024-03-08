@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gnome-keyring</code>
   <description>VGhlIEdOT01FIEtleXJpbmcgcGFja2FnZSBjb250YWlucyBhIGRhZW1vbiB0aGF0IGtlZXBzIHBhc3N3b3JkcyBhbmQgb3RoZXIgc2VjcmV0cyBmb3IgdXNlcnMuDQoNCg==</description>
   <sourcefile>gnome-keyring-42.1.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>openssh</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>dbus</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gcr3</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

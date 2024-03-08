@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libxcb</code>
   <description>VGhlIGxpYnhjYiBwYWNrYWdlIHByb3ZpZGVzIGFuIGludGVyZmFjZSB0byB0aGUgWCBXaW5kb3cgU3lzdGVtIHByb3RvY29sLCB3aGljaCByZXBsYWNlcyB0aGUgY3VycmVudCBYbGliIGludGVyZmFjZS4gWGxpYiBjYW4gYWxzbyB1c2UgWENCIGFzIGEgdHJhbnNwb3J0IGxheWVyLCBhbGxvd2luZyBzb2Z0d2FyZSB0byBtYWtlIHJlcXVlc3RzIGFuZCByZWNlaXZlIHJlc3BvbnNlcyB3aXRoIGJvdGgu</description>
   <sourcefile>libxcb-1.16.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libXau</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>xcb-proto</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

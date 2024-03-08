@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>icecc</code>
   <description>RGlzdHJpYnV0ZWQgY29tcGlsZXIgd2l0aCBhIGNlbnRyYWwgc2NoZWR1bGVyIHRvIHNoYXJlIGJ1aWxkIGxvYWQ=</description>
   <sourcefile>icecc-1.4.0.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libarchive</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libcap-ng</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>lzo</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

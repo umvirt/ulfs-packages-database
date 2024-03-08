@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libisofs</code>
   <description>bGliaXNvZnMgaXMgYSBsaWJyYXJ5IHRvIGNyZWF0ZSBhbiBJU08tOTY2MCBmaWxlc3lzdGVtIHdpdGggZXh0ZW5zaW9ucyBsaWtlIFJvY2tSaWRnZSBvciBKb2xpZXQu</description>
   <sourcefile>libisofs-1.5.6.tar.gz</sourcefile>

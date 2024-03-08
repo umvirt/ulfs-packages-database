@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>Xlibs</code>
   <description>VmlydHVhbCBwYWNrYWdlIHRvIGluc3RhbGwgYWxsIFhvcmcgTGlicmFyaWVz</description>
   <sourcefile/>
@@ -13,135 +13,135 @@
   <dependances>
     <dependance>
       <code>libxcb</code>
-      <weight>-100</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>fontconfig</code>
-      <weight>-100</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>xtrans</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libX11</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libXext</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libFS</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libICE</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libSM</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libXScrnSaver</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libXt</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>libXmu</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libXpm</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>libXaw</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>libXfixes</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>libXcomposite</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>libXrender</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>libXcursor</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>libXdamage</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>libfontenc</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>libXfont2</code>
-      <weight>0</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>libXft</code>
-      <weight>0</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>libXi</code>
-      <weight>0</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>libXinerama</code>
-      <weight>0</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>libXrandr</code>
-      <weight>0</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>libXres</code>
-      <weight>0</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>libXtst</code>
-      <weight>0</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>libXv</code>
-      <weight>0</weight>
+      <weight>27</weight>
     </dependance>
     <dependance>
       <code>libXvMC</code>
-      <weight>0</weight>
+      <weight>28</weight>
     </dependance>
     <dependance>
       <code>libXxf86dga</code>
-      <weight>0</weight>
+      <weight>29</weight>
     </dependance>
     <dependance>
       <code>libXxf86vm</code>
-      <weight>0</weight>
+      <weight>30</weight>
     </dependance>
     <dependance>
       <code>libpciaccess</code>
-      <weight>0</weight>
+      <weight>31</weight>
     </dependance>
     <dependance>
       <code>libxkbfile</code>
-      <weight>0</weight>
+      <weight>32</weight>
     </dependance>
     <dependance>
       <code>libxshmfence</code>
-      <weight>0</weight>
+      <weight>33</weight>
     </dependance>
   </dependances>
   <patches/>

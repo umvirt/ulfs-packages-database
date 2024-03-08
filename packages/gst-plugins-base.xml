@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gst-plugins-base</code>
   <description>VGhlIEdTdHJlYW1lciBCYXNlIFBsdWctaW5zIGlzIGEgd2VsbC1ncm9vbWVkIGFuZCB3ZWxsLW1haW50YWluZWQgY29sbGVjdGlvbiBvZiBHU3RyZWFtZXIgcGx1Zy1pbnMgYW5kIGVsZW1lbnRzLCBzcGFubmluZyB0aGUgcmFuZ2Ugb2YgcG9zc2libGUgdHlwZXMgb2YgZWxlbWVudHMgb25lIHdvdWxkIHdhbnQgdG8gd3JpdGUgZm9yIEdTdHJlYW1lci4gWW91IHdpbGwgbmVlZCBhdCBsZWFzdCBvbmUgb2YgR29vZCwgQmFkLCBVZ2x5IG9yIExpYmF2IHBsdWdpbnMgZm9yIEdTdHJlYW1lciBhcHBsaWNhdGlvbnMgdG8gZnVuY3Rpb24gcHJvcGVybHku</description>
   <sourcefile>gst-plugins-base-1.22.5.tar.xz</sourcefile>
@@ -13,51 +13,51 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>wayland-protocols</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>mesa</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>pango</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>iso-codes</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>gstreamer</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>cdparanoia-III</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libgudev</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libogg</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libtheora</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
   </dependances>
   <patches/>

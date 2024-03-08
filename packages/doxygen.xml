@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>doxygen</code>
   <description>VGhlIERveHlnZW4gcGFja2FnZSBjb250YWlucyBhIGRvY3VtZW50YXRpb24gc3lzdGVtIGZvciBDKyssIEMsIEphdmEsIE9iamVjdGl2ZS1DLCBDb3JiYSBJREwgYW5kIHRvIHNvbWUgZXh0ZW50IFBIUCwgQyMgYW5kIEQuIA==</description>
   <sourcefile>doxygen-1.9.7.src.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>git</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

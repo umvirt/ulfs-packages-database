@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>lz4</code>
   <description>RXh0cmVtZWx5IEZhc3QgQ29tcHJlc3Npb24gYWxnb3JpdGht</description>
   <sourcefile>lz4-1.9.4.tar.gz</sourcefile>

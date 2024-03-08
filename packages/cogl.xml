@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>cogl</code>
   <description>Q29nbCBpcyBhIG1vZGVybiAzRCBncmFwaGljcyBBUEkgd2l0aCBhc3NvY2lhdGVkIHV0aWxpdHkgQVBJcyBkZXNpZ25lZCB0byBleHBvc2UgdGhlIGZlYXR1cmVzIG9mIDNEIGdyYXBoaWNzIGhhcmR3YXJlIHVzaW5nIGEgZGlyZWN0IHN0YXRlIGFjY2VzcyBBUEkgZGVzaWduLCBhcyBvcHBvc2VkIHRvIHRoZSBzdGF0ZS1tYWNoaW5lIHN0eWxlIG9mIE9wZW5HTC4=</description>
   <sourcefile>cogl-1.22.8.tar.xz</sourcefile>
@@ -13,39 +13,39 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>wayland</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>mesa</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>gdk-pixbuf</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>glu</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>cairo</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>pango</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-base</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
   </dependances>
   <patches/>

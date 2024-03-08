@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libtasn1</code>
   <description>bGlidGFzbjEgaXMgYSBoaWdobHkgcG9ydGFibGUgQyBsaWJyYXJ5IHRoYXQgZW5jb2RlcyBhbmQgZGVjb2RlcyBERVIvQkVSIGRhdGEgZm9sbG93aW5nIGFuIEFTTi4xIHNjaGVtYS4=</description>
   <sourcefile>libtasn1-4.19.0.tar.gz</sourcefile>
@@ -10,12 +10,7 @@
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <dependances>
-    <dependance>
-      <code>help2man</code>
-      <weight>0</weight>
-    </dependance>
-  </dependances>
+  <dependances/>
   <patches/>
   <addons/>
   <nestings/>

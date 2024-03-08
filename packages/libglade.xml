@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libglade</code>
   <description>VGhlIGxpYmdsYWRlIHBhY2thZ2UgY29udGFpbnMgbGliZ2xhZGUgbGlicmFyaWVzLiA=</description>
   <sourcefile>libglade-2.6.4.tar.bz2</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>Python2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

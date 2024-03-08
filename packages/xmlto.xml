@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>xmlto</code>
   <description>VGhlIHhtbHRvIHBhY2thZ2UgaXMgYSBmcm9udC1lbmQgdG8gYSBYU0wgdG9vbGNoYWluLg==</description>
   <sourcefile>xmlto-0.0.28.tar.bz2</sourcefile>

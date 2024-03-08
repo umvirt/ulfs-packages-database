@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-typogrify</code>
   <description>VHlwb2dyaWZ5IHByb3ZpZGVzIGZpbHRlcnMgdG8gZW5oYW5jZSB3ZWIgdHlwb2dyYXBoeSwgaW5jbHVkaW5nIHN1cHBvcnQgZm9yIERqYW5nbyBhbmQgSmluamEgdGVtcGxhdGVzLg==</description>
   <sourcefile>typogrify-2.0.7.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-smartypants</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

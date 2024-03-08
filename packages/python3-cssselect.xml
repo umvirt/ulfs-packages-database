@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-cssselect</code>
   <description>Q1NTU2VsZWN0IHByb3ZpZGVzIENTUyBzZWxlY3RvcnMgZm9yIFB5dGhvbi4=</description>
   <sourcefile>cssselect-1.2.0.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-setuptools_scm</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

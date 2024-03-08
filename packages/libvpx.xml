@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libvpx</code>
   <description>VGhpcyBwYWNrYWdlLCBmcm9tIHRoZSBXZWJNIHByb2plY3QsIHByb3ZpZGVzIHRoZSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb25zIG9mIHRoZSBWUDggQ29kZWMsIHVzZWQgaW4gbW9zdCBjdXJyZW50IGh0bWw1IHZpZGVvLCBhbmQgb2YgdGhlIG5leHQtZ2VuZXJhdGlvbiBWUDkgQ29kZWMu</description>
   <sourcefile>libvpx-1.13.0.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>nasm</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>yasm</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>which</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

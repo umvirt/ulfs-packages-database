@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libusb</code>
   <description>VGhlIGxpYnVzYiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB1c2VkIGJ5IHNvbWUgYXBwbGljYXRpb25zIGZvciBVU0IgZGV2aWNlIGFjY2Vzcy4=</description>
   <sourcefile>libusb-1.0.26.tar.bz2</sourcefile>

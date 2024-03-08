@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>keybinder</code>
   <description>VGhlIGtleWJpbmRlciBwYWNrYWdlIGNvbnRhaW5zIGEgdXRpbGl0eSBsaWJyYXJ5IHJlZ2lzdGVyaW5nIGdsb2JhbCBYIGtleWJvYXJkIHNob3J0Y3V0cy4=</description>
   <sourcefile>keybinder-0.3.1.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pygtk2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

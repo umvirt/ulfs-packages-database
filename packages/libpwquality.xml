@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libpwquality</code>
   <description>VGhlIGxpYnB3cXVhbGl0eSBwYWNrYWdlIHByb3ZpZGVzIGNvbW1vbiBmdW5jdGlvbnMgZm9yIHBhc3N3b3JkIHF1YWxpdHkgY2hlY2tpbmcgYW5kIGFsc28gc2NvcmluZyB0aGVtIGJhc2VkIG9uIHRoZWlyIGFwcGFyZW50IHJhbmRvbW5lc3MuIFRoZSBsaWJyYXJ5IGFsc28gcHJvdmlkZXMgYSBmdW5jdGlvbiBmb3IgZ2VuZXJhdGluZyByYW5kb20gcGFzc3dvcmRzIHdpdGggZ29vZCBwcm9ub3VuY2VhYmlsaXR5Lg==</description>
   <sourcefile>libpwquality-1.4.5.tar.bz2</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>Linux-PAM</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cracklib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

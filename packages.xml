@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <packages>
     <package>wget</package>
     <package>libxml2</package>
@@ -26,7 +26,7 @@
     <package>p11-kit</package>
     <package>libevent</package>
     <package>links</package>
-    <package>asciidoc</package>
+    <package>python3-asciidoc</package>
     <package>xmlto</package>
     <package>curl</package>
     <package>git</package>

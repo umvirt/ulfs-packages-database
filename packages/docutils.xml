@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>docutils</code>
   <description>ZG9jdXRpbHMgaXMgYSBzZXQgb2YgUHl0aG9uIG1vZHVsZXMgYW5kIHByb2dyYW1zIGZvciBwcm9jZXNzaW5nIHBsYWludGV4dCBkb2NzIGludG8gZm9ybWF0cyBzdWNoIGFzIEhUTUwsIFhNTCwgb3IgTGFUZVgu</description>
   <sourcefile>docutils-0.20.1.tar.gz</sourcefile>

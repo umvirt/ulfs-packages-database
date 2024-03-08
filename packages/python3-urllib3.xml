@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-urllib3</code>
   <description>VGhlIFVybGxpYjMgbW9kdWxlIGlzIGEgcG93ZXJmdWwsIHVzZXItZnJpZW5kbHkgSFRUUCBjbGllbnQgZm9yIFB5dGhvbi4=</description>
   <sourcefile>urllib3-2.0.2.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-hatchling</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

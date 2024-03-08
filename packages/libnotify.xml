@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libnotify</code>
   <description>VGhlIGxpYm5vdGlmeSBsaWJyYXJ5IGlzIHVzZWQgdG8gc2VuZCBkZXNrdG9wIG5vdGlmaWNhdGlvbnMgdG8gYSBub3RpZmljYXRpb24gZGFlbW9uLCBhcyBkZWZpbmVkIGluIHRoZSBEZXNrdG9wIE5vdGlmaWNhdGlvbnMgc3BlYy4=</description>
   <sourcefile>libnotify-0.8.2.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

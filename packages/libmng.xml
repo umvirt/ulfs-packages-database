@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libmng</code>
   <description>VGhlIGxpYm1uZyBsaWJyYXJpZXMgYXJlIHVzZWQgYnkgcHJvZ3JhbXMgd2FudGluZyB0byByZWFkIGFuZCB3cml0ZSBNdWx0aXBsZS1pbWFnZSBOZXR3b3JrIEdyYXBoaWNzIChNTkcpIGZpbGVzIHdoaWNoIGFyZSB0aGUgYW5pbWF0aW9uIGVxdWl2YWxlbnRzIHRvIFBORyBmaWxlcy4NCg0K</description>
   <sourcefile>libmng-2.0.3.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>lcms2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

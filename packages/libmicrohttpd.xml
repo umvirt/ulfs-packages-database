@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libmicrohttpd</code>
   <description>R05VIGxpYm1pY3JvaHR0cGQgaXMgYSBzbWFsbCBDIGxpYnJhcnkgdGhhdCBtYWtlcyBpdCBlYXN5IHRvIHJ1biBhbiBIVFRQIHNlcnZlciBhcyBwYXJ0IG9mIGFub3RoZXIgYXBwbGljYXRpb24u</description>
   <sourcefile>libmicrohttpd-0.9.77.tar.gz</sourcefile>

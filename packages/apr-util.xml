@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>apr-util</code>
   <description>VGhlIEFwYWNoZSBQb3J0YWJsZSBSdW50aW1lIFV0aWxpdHkgTGlicmFyeSBwcm92aWRlcyBhIHByZWRpY3RhYmxlIGFuZCBjb25zaXN0ZW50IGludGVyZmFjZSB0byB1bmRlcmx5aW5nIGNsaWVudCBsaWJyYXJ5IGludGVyZmFjZXMu</description>
   <sourcefile>apr-util-1.6.3.tar.bz2</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>apr</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

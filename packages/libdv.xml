@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libdv</code>
   <description>VGhlIFF1YXNhciBEViBDb2RlYyAobGliZHYpIGlzIGEgc29mdHdhcmUgQ09ERUMgZm9yIERWIHZpZGVvLCB0aGUgZW5jb2RpbmcgZm9ybWF0IHVzZWQgYnkgbW9zdCBkaWdpdGFsIGNhbWNvcmRlcnMu</description>
   <sourcefile>libdv-1.0.0.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>popt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>sdl12-compat</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

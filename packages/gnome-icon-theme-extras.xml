@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>gnome-icon-theme-extras</code>
   <description>VGhlIEdOT01FIEljb24gVGhlbWUgRXh0cmFzIHBhY2thZ2UgY29udGFpbnMgZXh0cmEgaWNvbnMgZm9yIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
   <sourcefile>gnome-icon-theme-extras-3.12.0.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>gnome-icon-theme</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

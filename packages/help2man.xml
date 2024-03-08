@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>help2man</code>
   <description>aGVscDJtYW4gcHJvZHVjZXMgc2ltcGxlIG1hbnVhbCBwYWdlcyBmcm9tIHRoZSDigJgtLWhlbHDigJkgYW5kIOKAmC0tdmVyc2lvbuKAmSBvdXRwdXQgb2Ygb3RoZXIgY29tbWFuZHMu</description>
   <sourcefile>help2man-1.49.3.tar.xz</sourcefile>

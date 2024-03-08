@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>xterm</code>
   <description>eHRlcm0gaXMgYSB0ZXJtaW5hbCBlbXVsYXRvciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4=</description>
   <sourcefile>xterm-384.tgz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>Xapps</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

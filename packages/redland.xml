@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>redland</code>
   <description>UmVkbGFuZCBpcyBhIHNldCBvZiBmcmVlIHNvZnR3YXJlIEMgbGlicmFyaWVzIHRoYXQgcHJvdmlkZSBzdXBwb3J0IGZvciB0aGUgUmVzb3VyY2UgRGVzY3JpcHRpb24gRnJhbWV3b3JrIChSREYpLg==</description>
   <sourcefile>redland-1.0.17.tar.gz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>berkeleydb</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>mariadb-client</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>postgresql-client</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>rasqal</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libiodbc</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>exempi</code>
   <description>RXhlbXBpIGlzIGFuIGltcGxlbWVudGF0aW9uIG9mIFhNUCAoQWRvYmUncyBFeHRlbnNpYmxlIE1ldGFkYXRhIFBsYXRmb3JtKS4=</description>
   <sourcefile>exempi-2.6.4.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>boost</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

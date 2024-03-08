@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>python3-pycairo</code>
   <description>UHlDYWlybyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gQ2Fpcm8u</description>
   <sourcefile>pycairo-1.24.0.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>cairo</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

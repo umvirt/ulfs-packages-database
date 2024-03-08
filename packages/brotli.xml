@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>brotli</code>
   <description>QnJvdGxpIHByb3ZpZGVzIGEgZ2VuZXJhbC1wdXJwb3NlIGxvc3NsZXNzIGNvbXByZXNzaW9uIGFsZ29yaXRobSB0aGF0IGNvbXByZXNzZXMgZGF0YSB1c2luZyBhIGNvbWJpbmF0aW9uIG9mIGEgbW9kZXJuIHZhcmlhbnQgb2YgdGhlIExaNzcgYWxnb3JpdGhtLCBIdWZmbWFuIGNvZGluZyBhbmQgMm5kIG9yZGVyIGNvbnRleHQgbW9kZWxpbmcuIEl0cyBsaWJyYXJpZXMgYXJlIHBhcnRpY3VsYXJseSB1c2VkIGZvciBXT0ZGMiBmb250cyBvbiB3ZWJwYWdlcy4=</description>
   <sourcefile>brotli-1.0.9.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

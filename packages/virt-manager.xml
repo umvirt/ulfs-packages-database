@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>virt-manager</code>
   <description>VGhlIHZpcnQtbWFuYWdlciBhcHBsaWNhdGlvbiBpcyBhIGRlc2t0b3AgdXNlciBpbnRlcmZhY2UgZm9yIG1hbmFnaW5nIHZpcnR1YWwgbWFjaGluZXMgdGhyb3VnaCBsaWJ2aXJ0Lg==</description>
   <sourcefile>virt-manager-4.1.0.tar.gz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>vte</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-requests</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-libvirt</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libvirt-glib</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libosinfo</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>gtk-vnc</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>spice-gtk</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

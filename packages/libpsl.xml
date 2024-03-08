@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>libpsl</code>
   <description>VGhlIGxpYnBzbCBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSBmb3IgYWNjZXNzaW5nIGFuZCByZXNvbHZpbmcgaW5mb3JtYXRpb24gZnJvbSB0aGUgUHVibGljIFN1ZmZpeCBMaXN0IChQU0wpLiBUaGUgUFNMIGlzIGEgc2V0IG9mIGRvbWFpbiBuYW1lcyBiZXlvbmQgdGhlIHN0YW5kYXJkIHN1ZmZpeGVzLCBzdWNoIGFzIC5jb20u</description>
   <sourcefile>libpsl-0.21.2.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libunistring</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libidn2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

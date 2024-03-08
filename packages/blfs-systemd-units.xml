@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>blfs-systemd-units</code>
   <description>VGhlIEJMRlMgU3lzdGVtZCBVbml0cyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBzeXN0ZW1kIHVuaXQgZmlsZXMgdGhhdCBhcmUgdXNlZCB0aHJvdWdob3V0IHRoZSBCTEZTIGJvb2su</description>
-  <sourcefile>blfs-systemd-units-20230816.tar.xz</sourcefile>
-  <sourcedir>blfs-systemd-units-20230816</sourcedir>
+  <sourcefile>blfs-systemd-units-20240205.tar.xz</sourcefile>
+  <sourcedir>blfs-systemd-units-20240205</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>
-  <install>Y2QgLi4NCm12IGJsZnMtc3lzdGVtZC11bml0cy0yMDIzMDgxNiAvdXNyL3NoYXJlL2JsZnMtc3lzdGVtZC11bml0cw0K</install>
+  <install>Y2QgLi4NCm12IGJsZnMtc3lzdGVtZC11bml0cy0yMDI0MDIwNSAvdXNyL3NoYXJlL2JsZnMtc3lzdGVtZC11bml0cw0K</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

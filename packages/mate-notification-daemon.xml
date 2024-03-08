@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>mate-notification-daemon</code>
   <description>TWF0ZSBub3RpZmljYXRpb24gZGFlbW9u</description>
   <sourcefile>mate-notification-daemon-1.26.1.tar.xz</sourcefile>

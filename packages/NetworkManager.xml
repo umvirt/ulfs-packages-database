@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>NetworkManager</code>
   <description>TmV0d29ya01hbmFnZXIgaXMgYSBzZXQgb2YgY28tb3BlcmF0aXZlIHRvb2xzIHRoYXQgbWFrZSBuZXR3b3JraW5nIHNpbXBsZSBhbmQgc3RyYWlnaHRmb3J3YXJkLiBXaGV0aGVyIHlvdSB1c2UgV2lGaSwgd2lyZWQsIDNHLCBvciBCbHVldG9vdGgsIE5ldHdvcmtNYW5hZ2VyIGFsbG93cyB5b3UgdG8gcXVpY2tseSBtb3ZlIGZyb20gb25lIG5ldHdvcmsgdG8gYW5vdGhlcjogT25jZSBhIG5ldHdvcmsgaGFzIGJlZW4gY29uZmlndXJlZCBhbmQgam9pbmVkIG9uY2UsIGl0IGNhbiBiZSBkZXRlY3RlZCBhbmQgcmUtam9pbmVkIGF1dG9tYXRpY2FsbHkgdGhlIG5leHQgdGltZSBpdCdzIGF2YWlsYWJsZS4=</description>
   <sourcefile>NetworkManager-1.44.0.tar.xz</sourcefile>
@@ -13,55 +13,55 @@
   <dependances>
     <dependance>
       <code>curl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>vala</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>polkit-123</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>python3-pygobject</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>systemd</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>nss</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libndp</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>jansson</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>dhcpcd</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>iptables</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>newt</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>wpa_supplicant</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
   </dependances>
   <patches/>

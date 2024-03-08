@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>wireshark</code>
   <description>VGhlIFdpcmVzaGFyayBwYWNrYWdlIGNvbnRhaW5zIGEgbmV0d29yayBwcm90b2NvbCBhbmFseXplciwgYWxzbyBrbm93biBhcyBhIOKAnHNuaWZmZXLigJ0uIFRoaXMgaXMgdXNlZnVsIGZvciBhbmFseXppbmcgZGF0YSBjYXB0dXJlZCDigJxvZmYgdGhlIHdpcmXigJ0gZnJvbSBhIGxpdmUgbmV0d29yayBjb25uZWN0aW9uLCBvciBkYXRhIHJlYWQgZnJvbSBhIGNhcHR1cmUgZmlsZS4=</description>
   <sourcefile>wireshark-4.0.7.tar.xz</sourcefile>
@@ -13,75 +13,75 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>git</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>krb5</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>gnutls</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libgcrypt</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>nghttp2</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>brotli</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>speex</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libnl</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>libpcap</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>sbc</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>qt5</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>lua-5.2</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>c-ares</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>asciidoctor</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
   </dependances>
   <patches/>

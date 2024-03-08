@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>nodejs18</code>
   <description>Tm9kZS5qcyBpcyBhIEphdmFTY3JpcHQgcnVudGltZSBidWlsdCBvbiBDaHJvbWUncyBWOCBKYXZhU2NyaXB0IGVuZ2luZS4NCg0K</description>
   <sourcefile>node-v18.17.1.tar.xz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>libuv</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>nghttp2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>which</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>c-ares</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

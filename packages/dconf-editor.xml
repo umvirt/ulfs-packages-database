@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2</release>
+  <release>0.2.1</release>
   <code>dconf-editor</code>
   <description>VGhlIERDb25mLUVkaXRvciwgYXMgdGhlIG5hbWUgc3VnZ2VzdHMsIGlzIGEgZ3JhcGhpY2FsIGVkaXRvciBmb3IgdGhlIERDb25mIGRhdGFiYXNlLiA=</description>
   <sourcefile>dconf-editor-43.0.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libhandy</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>dconf-base</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>AppStream</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>
