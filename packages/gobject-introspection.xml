@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>gobject-introspection</code>
   <description>VGhlIEdPYmplY3QgSW50cm9zcGVjdGlvbiBpcyB1c2VkIHRvIGRlc2NyaWJlIHRoZSBwcm9ncmFtIEFQSXMgYW5kIGNvbGxlY3QgdGhlbSBpbiBhIHVuaWZvcm0sIG1hY2hpbmUgcmVhZGFibGUgZm9ybWF0Lg==</description>
-  <sourcefile>gobject-introspection-1.76.1.tar.xz</sourcefile>
-  <sourcedir>gobject-introspection-1.76.1</sourcedir>
+  <sourcefile>gobject-introspection-1.78.1.tar.xz</sourcefile>
+  <sourcedir>gobject-introspection-1.78.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgCmNkICAgIGJ1aWxkIAoKbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uCgo=</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg==</build>
-  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCAgICBidWlsZCANCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uDQoNCg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBzZWQgIi9QWVRIT05QQVRIL2EnL3Vzci9saWIvcHl0aG9uMy4xMicsIiAtaSAuLi90ZXN0cy93YXJuL21lc29uLmJ1aWxkICYmDQogICAgbmluamEgdGVzdA0KZmkNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

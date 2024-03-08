@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libXrandr</code>
   <description/>
-  <sourcefile>libXrandr-1.5.3.tar.xz</sourcefile>
-  <sourcedir>libXrandr-1.5.3</sourcedir>
+  <sourcefile>libXrandr-1.5.4.tar.xz</sourcefile>
+  <sourcedir>libXrandr-1.5.4</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
   <build/>

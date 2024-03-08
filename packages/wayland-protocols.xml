@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>wayland-protocols</code>
   <description>VGhlIFdheWxhbmQtUHJvdG9jb2xzIHBhY2thZ2UgY29udGFpbnMgYWRkaXRpb25hbCBXYXlsYW5kIHByb3RvY29scyB0aGF0IGFkZCBmdW5jdGlvbmFsaXR5IG91dHNpZGUgb2YgcHJvdG9jb2xzIGFscmVhZHkgaW4gdGhlIFdheWxhbmQgY29yZS4=</description>
-  <sourcefile>wayland-protocols-1.32.tar.xz</sourcefile>
-  <sourcedir>wayland-protocols-1.32</sourcedir>
+  <sourcefile>wayland-protocols-1.33.tar.xz</sourcefile>
+  <sourcedir>wayland-protocols-1.33</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYKY2QgICAgYnVpbGQgJiYKCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZQoK</configure>
-  <build>Y2QgICAgYnVpbGQKbmluamEKCmlmIFtbICIiID09ICJZRVMiIF1dCnRoZW4KCSAgICBuaW5qYSB0ZXN0CmZpCgo=</build>
-  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZQ0KDQo=</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQoNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

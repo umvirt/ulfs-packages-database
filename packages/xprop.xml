@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>xprop</code>
   <description/>
-  <sourcefile>xprop-1.2.6.tar.xz</sourcefile>
-  <sourcedir>xprop-1.2.6</sourcedir>
+  <sourcefile>xprop-1.2.7.tar.xz</sourcefile>
+  <sourcedir>xprop-1.2.7</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

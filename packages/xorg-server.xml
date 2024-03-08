@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>xorg-server</code>
   <description>VGhlIFhvcmcgU2VydmVyIGlzIHRoZSBjb3JlIG9mIHRoZSBYIFdpbmRvdyBzeXN0ZW0u</description>
-  <sourcefile>xorg-server-21.1.8.tar.xz</sourcefile>
-  <sourcedir>xorg-server-21.1.8</sourcedir>
+  <sourcefile>xorg-server-21.1.11.tar.xz</sourcefile>
+  <sourcedir>xorg-server-21.1.11</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggXA0KICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgIFwNCiAgICAgIC1EZ2xhbW9yPXRydWUgICAgICAgICBcDQogICAgICAtRHhrYl9vdXRwdXRfZGlyPS92YXIvbGliL3hrYiANCg0K</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg0K</build>
-  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbCAmJgpta2RpciAtcHYgL2V0Yy9YMTEveG9yZy5jb25mLmQK</install>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwgJiYNCm1rZGlyIC1wdiAvZXRjL1gxMS94b3JnLmNvbmYuZA0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

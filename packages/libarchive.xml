@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libarchive</code>
   <description>VGhlIGxpYmFyY2hpdmUgbGlicmFyeSBwcm92aWRlcyBhIHNpbmdsZSBpbnRlcmZhY2UgZm9yIHJlYWRpbmcvd3JpdGluZyB2YXJpb3VzIGNvbXByZXNzaW9uIGZvcm1hdHMu</description>
-  <sourcefile>libarchive-3.7.1.tar.xz</sourcefile>
-  <sourcedir>libarchive-3.7.1</sourcedir>
+  <sourcefile>libarchive-3.7.2.tar.xz</sourcefile>
+  <sourcedir>libarchive-3.7.2</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
   <build/>

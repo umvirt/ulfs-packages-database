@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>font-util</code>
   <description/>
-  <sourcefile>font-util-1.4.0.tar.xz</sourcefile>
-  <sourcedir>font-util-1.4.0</sourcedir>
+  <sourcefile>font-util-1.4.1.tar.xz</sourcefile>
+  <sourcedir>font-util-1.4.1</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

@@ -92,7 +92,7 @@
     <package>xcb-util-cursor</package>
     <package>llvm</package>
     <package>libdrm</package>
-    <package>Mako</package>
+    <package>python3-Mako</package>
     <package>wayland</package>
     <package>wayland-protocols</package>
     <package>mesa</package>
@@ -731,5 +731,6 @@
     <package>qrencode</package>
     <package>gkrellm</package>
     <package>gettext</package>
+    <package>libXpresent</package>
   </packages>
 </packages>

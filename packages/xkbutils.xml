@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>xkbutils</code>
   <description/>
-  <sourcefile>xkbutils-1.0.5.tar.xz</sourcefile>
-  <sourcedir>xkbutils-1.0.5</sourcedir>
+  <sourcefile>xkbutils-1.0.6.tar.xz</sourcefile>
+  <sourcedir>xkbutils-1.0.6</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

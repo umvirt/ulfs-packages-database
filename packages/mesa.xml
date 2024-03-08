@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>mesa</code>
   <description>TWVzYSBpcyBhbiBPcGVuR0wgY29tcGF0aWJsZSAzRCBncmFwaGljcyBsaWJyYXJ5Lg==</description>
-  <sourcefile>mesa-23.1.6.tar.xz</sourcefile>
-  <sourcedir>mesa-23.1.6</sourcedir>
+  <sourcefile>mesa-24.0.1.tar.xz</sourcefile>
+  <sourcedir>mesa-24.0.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgIC1EcGxhdGZvcm1zPXgxMSx3YXlsYW5kIFwNCiAgICAgIC1EZ2FsbGl1bS1kcml2ZXJzPWF1dG8gIFwNCiAgICAgIC1EdnVsa2FuLWRyaXZlcnM9IiIgICAgIFwNCiAgICAgIC1EdmFsZ3JpbmQ9ZGlzYWJsZWQgICAgIFwNCiAgICAgIC1EbGlidW53aW5kPWRpc2FibGVkICAgIFwNCiAgICAgIC4uICAgICAgICAgICAgICAgICAgICAgIA==</configure>
-  <build>Y2QgICAgYnVpbGQKbmluamEK</build>
-  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAoKaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQp0aGVuCgppbnN0YWxsIC12IC1kbTc1NSAvdXNyL3NoYXJlL2RvYy9tZXNhLTIzLjEuNiAmJgpjcCAtcmZ2IC4uL2RvY3MvKiAvdXNyL3NoYXJlL2RvYy9tZXNhLTIzLjEuNgoKZmkK</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgIC1EcGxhdGZvcm1zPXgxMSx3YXlsYW5kIFwNCiAgICAgIC1EZ2FsbGl1bS1kcml2ZXJzPWF1dG8gIFwNCiAgICAgIC1EdnVsa2FuLWRyaXZlcnM9YXV0byAgIFwNCiAgICAgIC1EdmFsZ3JpbmQ9ZGlzYWJsZWQgICAgIFwNCiAgICAgIC1EbGlidW53aW5kPWRpc2FibGVkICAgIFwNCiAgICAgIC4uICAgICAgICAgICAgICAgICAgICAgIA==</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI0LjAuMQ0KDQpmaQ0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>Mako</code>
+      <code>python3-Mako</code>
       <weight>3</weight>
     </dependance>
     <dependance>

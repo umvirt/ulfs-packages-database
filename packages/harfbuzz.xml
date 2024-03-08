@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>harfbuzz</code>
   <description>VGhlIEhhcmZCdXp6IHBhY2thZ2UgY29udGFpbnMgYW4gT3BlblR5cGUgdGV4dCBzaGFwaW5nIGVuZ2luZS4NCg==</description>
-  <sourcefile>harfbuzz-8.1.1.tar.xz</sourcefile>
-  <sourcedir>harfbuzz-8.1.1</sourcedir>
+  <sourcefile>harfbuzz-8.3.0.tar.xz</sourcefile>
+  <sourcedir>harfbuzz-8.3.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EZ3JhcGhpdGUyPWVuYWJsZWQ=</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCg0KbmluamEgdGVzdA0KDQpmaQ0KDQo=</build>
-  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
