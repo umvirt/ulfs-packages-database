@@ -143,6 +143,10 @@
       <code>libxshmfence</code>
       <weight>33</weight>
     </dependance>
+    <dependance>
+      <code>libXpresent</code>
+      <weight>34</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
