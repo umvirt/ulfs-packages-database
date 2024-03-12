@@ -28,7 +28,7 @@
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>gi-docgen</code>
+      <code>python3-gi-docgen</code>
       <weight>5</weight>
     </dependance>
     <dependance>

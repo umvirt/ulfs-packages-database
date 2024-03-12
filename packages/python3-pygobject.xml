@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>python3-pygobject</code>
   <description>UHlHT2JqZWN0MyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gdGhlIEdPYmplY3QgY2xhc3MgZnJvbSBHTGliLg0KDQo=</description>
-  <sourcefile>pygobject-3.44.1.tar.xz</sourcefile>
-  <sourcedir>pygobject-3.44.1</sourcedir>
+  <sourcefile>pygobject-3.46.0.tar.xz</sourcefile>
+  <sourcedir>pygobject-3.46.0</sourcedir>
   <unpack/>
-  <configure>bXYgLXYgdGVzdHMvdGVzdF9nZGJ1cy5weXssLm5vdXNlfQ0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
+  <configure>bXYgLXYgdGVzdHMvdGVzdF9nZGJ1cy5weXssLm5vdXNlfSAmJg0KbXYgLXYgdGVzdHMvdGVzdF9vdmVycmlkZXNfZ3RrLnB5eywubm91c2V9DQoNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>

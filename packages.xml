@@ -209,7 +209,7 @@
     <package>libunique</package>
     <package>python3-LSB-Tools</package>
     <package>lxsession</package>
-    <package>polkit-123</package>
+    <package>polkit</package>
     <package>duktape</package>
     <package>Linux-PAM</package>
     <package>openbox</package>
@@ -223,7 +223,7 @@
     <package>lxtask</package>
     <package>vte</package>
     <package>lxterminal</package>
-    <package>docutils</package>
+    <package>python3-docutils</package>
     <package>graphviz</package>
     <package>wireless_tools</package>
     <package>itstool</package>
@@ -244,7 +244,7 @@
     <package>python3-smartypants</package>
     <package>python3-typogrify</package>
     <package>python3-Markdown</package>
-    <package>gi-docgen</package>
+    <package>python3-gi-docgen</package>
     <package>libsecret</package>
     <package>libgpg-error</package>
     <package>libgcrypt</package>

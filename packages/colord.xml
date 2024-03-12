@@ -32,7 +32,7 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>polkit-123</code>
+      <code>polkit</code>
       <weight>6</weight>
     </dependance>
     <dependance>

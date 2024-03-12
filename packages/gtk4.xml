@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>gtk4</code>
   <description/>
-  <sourcefile>gtk-4.12.0.tar.xz</sourcefile>
-  <sourcedir>gtk-4.12.0</sourcedir>
+  <sourcefile>gtk-4.12.5.tar.xz</sourcefile>
+  <sourcedir>gtk-4.12.5</sourcedir>
   <unpack/>
-  <configure>c2VkIC1lICcvZ2xpYi1vYmplY3QuaC9hICNpbmNsdWRlIDxnZGsvZ2RrLmg+JyAgICAgICAgXA0KICAgIC1lICcvIGd0a19wcmludGVyX29wdGlvbi9pIEdES19BVkFJTEFCTEVfSU5fQUxMJyAgXA0KICAgIC1lICcvXCpndGtfcHJpbnRlcl9vcHRpb24vaSBHREtfQVZBSUxBQkxFX0lOX0FMTCcgXA0KICAgIC1pLm9yaWcgZ3RrL3ByaW50L2d0a3ByaW50ZXJvcHRpb25wcml2YXRlLmgNCg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgXA0KICAgICAgICAgICAgLURicm9hZHdheS1iYWNrZW5kPXRydWUgXA0KICAgICAgICAgICAgLURpbnRyb3NwZWN0aW9uPWVuYWJsZWQgXA0KICAgICAgICAgICAgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgICAgICAgIC1EYnJvYWR3YXktYmFja2VuZD10cnVlIFwNCiAgICAgICAgICAgIC1EaW50cm9zcGVjdGlvbj1lbmFibGVkIFwNCiAgICAgICAgICAgIC4uDQo=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>

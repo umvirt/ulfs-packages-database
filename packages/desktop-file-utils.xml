@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>desktop-file-utils</code>
   <description>VGhlIERlc2t0b3AgRmlsZSBVdGlscyBwYWNrYWdlIGNvbnRhaW5zIGNvbW1hbmQgbGluZSB1dGlsaXRpZXMgZm9yIHdvcmtpbmcgd2l0aCBEZXNrdG9wIGVudHJpZXMu</description>
-  <sourcefile>desktop-file-utils-0.26.tar.xz</sourcefile>
-  <sourcedir>desktop-file-utils-0.26</sourcedir>
+  <sourcefile>desktop-file-utils-0.27.tar.xz</sourcefile>
+  <sourcedir>desktop-file-utils-0.27</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg0K</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

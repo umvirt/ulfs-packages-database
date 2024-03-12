@@ -3,11 +3,11 @@
   <release>0.2.1</release>
   <code>pango</code>
   <description>UGFuZ28gaXMgYSBsaWJyYXJ5IGZvciBsYXlpbmcgb3V0IGFuZCByZW5kZXJpbmcgdGV4dCwgd2l0aCBhbiBlbXBoYXNpcyBvbiBpbnRlcm5hdGlvbmFsaXphdGlvbi4=</description>
-  <sourcefile>pango-1.50.14.tar.xz</sourcefile>
-  <sourcedir>pango-1.50.14</sourcedir>
+  <sourcefile>pango-1.51.2.tar.xz</sourcefile>
+  <sourcedir>pango-1.51.2</sourcedir>
   <unpack/>
   <configure>c2VkIC1pICcvYXJyYXktYm91bmRzL2QnIG1lc29uLmJ1aWxkDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgXA0KICAgICAgICAgICAgLS13cmFwLW1vZGU9bm9mYWxsYmFjayBcDQogICAgICAgICAgICAuLiAgICAgIA==</configure>
-  <build>Y2QgICAgYnVpbGQgDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCnNlZCAiL2RvY3NfZGlyID0vc0BcJEAgLyAncGFuZ28tMS41MC4xNCdAIiAtaSAuLi9kb2NzL21lc29uLmJ1aWxkICYmDQptZXNvbiBjb25maWd1cmUgLURndGtfZG9jPXRydWUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KbmluamENCg0KDQpmaQ==</build>
+  <build>Y2QgICAgYnVpbGQgDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCnNlZCAiL2RvY3NfZGlyID0vc0BcJEAgLyAncGFuZ28tMS41MS4yJ0AiIC1pIC4uL2RvY3MvbWVzb24uYnVpbGQgJiYNCm1lc29uIGNvbmZpZ3VyZSAtRGd0a19kb2M9dHJ1ZQ0KbmluamENCg0KDQpmaQ==</build>
   <install>Y2QgICAgYnVpbGQgDQpuaW5qYSBpbnN0YWxs</install>
   <localbuild>0</localbuild>
   <dependances>

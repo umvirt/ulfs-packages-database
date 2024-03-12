@@ -12,7 +12,7 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>polkit-123</code>
+      <code>polkit</code>
       <weight>1</weight>
     </dependance>
   </dependances>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>shared-mime-info</code>
   <description>VGhlIFNoYXJlZCBNaW1lIEluZm8gcGFja2FnZSBjb250YWlucyBhIE1JTUUgZGF0YWJhc2Uu</description>
-  <sourcefile>shared-mime-info-2.2.tar.gz</sourcefile>
-  <sourcedir>shared-mime-info-2.2</sourcedir>
+  <sourcefile>shared-mime-info-2.4.tar.gz</sourcefile>
+  <sourcedir>shared-mime-info-2.4</sourcedir>
   <unpack/>
   <configure>aWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQp0YXIgLXhmIC4uL3hkZ21pbWUudGFyLnh6ICYmDQptYWtlIC1DIHhkZ21pbWUNCg0KZmkNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRHVwZGF0ZS1taW1lZGI9dHJ1ZSAuLiANCg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

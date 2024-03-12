@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>python3-Pygments</code>
   <description>UHlnbWVudHMgaXMgYSBnZW5lcmFsIHN5bnRheCBoaWdobGlnaHRlciB3cml0dGVuIGluIFB5dGhvbiwgZm9yIG1vcmUgdGhhbiAzMDAgbGFuZ3VhZ2VzLg==</description>
-  <sourcefile>Pygments-2.16.1.tar.gz</sourcefile>
-  <sourcedir>Pygments-2.16.1</sourcedir>
+  <sourcefile>pygments-2.17.2.tar.gz</sourcefile>
+  <sourcedir>pygments-2.17.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>at-spi2-core</code>
   <description>VGhlIEF0LVNwaTIgQ29yZSBwYWNrYWdlIGNvbnRhaW5zIGEgY29tcHJlaGVuc2l2ZSBhY2Nlc3NpYmlsaXR5IGZyYW1ld29yayBmb3IgdGhlIEFzc2lzdGl2ZSBUZWNobm9sb2dpZXMgYXZhaWxhYmxlIG9uIHRoZSBHTk9NRSBwbGF0Zm9ybS4=</description>
-  <sourcefile>at-spi2-core-2.48.3.tar.xz</sourcefile>
-  <sourcedir>at-spi2-core-2.48.3</sourcedir>
+  <sourcefile>at-spi2-core-2.50.1.tar.xz</sourcefile>
+  <sourcedir>at-spi2-core-2.50.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

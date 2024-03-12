@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>grub2efi</code>
   <description>VGhlIEdSVUIgcGFja2FnZSBwcm92aWRlcyBHUmFuZCBVbmlmaWVkIEJvb3Rsb2FkZXIgd2l0aCBVRUZJIHN1cHBvcnQsIHdoaWNoIGlzIG5vdCBlbmFibGVkIGZvciBHUlVCIGJ1aWx0IGluIExGUy4NCg0K</description>
-  <sourcefile>grub-2.06.tar.xz</sourcefile>
-  <sourcedir>grub-2.06</sourcedir>
+  <sourcefile>grub-2.12.tar.xz</sourcefile>
+  <sourcedir>grub-2.12</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXB2IC91c3Ivc2hhcmUvZm9udHMvdW5pZm9udCAmJg0KZ3VuemlwIC1jIC4uL3VuaWZvbnQtMTUuMC4wNi5wY2YuZ3ogPiAvdXNyL3NoYXJlL2ZvbnRzL3VuaWZvbnQvdW5pZm9udC5wY2YNCg0KdW5zZXQge0MsQ1BQLENYWCxMRH1GTEFHUw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtZWZpZW11ICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1ncnViLW1rZm9udCBcDQogICAgICAgICAgICAtLXdpdGgtcGxhdGZvcm09ZWZpICBcDQogICAgICAgICAgICAtLXRhcmdldD14ODZfNjQgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtd2Vycm9yICAgICAmJg0KdW5zZXQgVEFSR0VUX0ND</configure>
+  <configure>ZWNobyBkZXBlbmRzIGJsaSBwYXJ0X2dwdCA+IGdydWItY29yZS9leHRyYV9kZXBzLmxzdA0KDQpta2RpciAtcHYgL3Vzci9zaGFyZS9mb250cy91bmlmb250ICYmDQpndW56aXAgLWMgLi4vdW5pZm9udC0xNS4xLjA0LnBjZi5neiA+IC91c3Ivc2hhcmUvZm9udHMvdW5pZm9udC91bmlmb250LnBjZg0KDQp1bnNldCB7QyxDUFAsQ1hYLExEfUZMQUdTDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1lZmllbXUgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWdydWItbWtmb250IFwNCiAgICAgICAgICAgIC0td2l0aC1wbGF0Zm9ybT1lZmkgIFwNCiAgICAgICAgICAgIC0tdGFyZ2V0PXg4Nl82NCAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS13ZXJyb3INCg0K</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsICYmDQptdiAtdiAvZXRjL2Jhc2hfY29tcGxldGlvbi5kL2dydWIgL3Vzci9zaGFyZS9iYXNoLWNvbXBsZXRpb24vY29tcGxldGlvbnM=</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQptdiAtdiAvZXRjL2Jhc2hfY29tcGxldGlvbi5kL2dydWIgL3Vzci9zaGFyZS9iYXNoLWNvbXBsZXRpb24vY29tcGxldGlvbnMNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -26,7 +26,7 @@
   </dependances>
   <patches/>
   <addons>
-    <addon>unifont-15.0.06.pcf.gz</addon>
+    <addon>unifont-15.1.04.pcf.gz</addon>
   </addons>
   <nestings/>
   <comments/>

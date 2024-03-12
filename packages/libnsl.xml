@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libnsl</code>
   <description>VGhlIGxpYm5zbCBwYWNrYWdlIGNvbnRhaW5zIHRoZSBwdWJsaWMgY2xpZW50IGludGVyZmFjZSBmb3IgTklTKFlQKS4gSXQgcmVwbGFjZXMgdGhlIE5JUyBsaWJyYXJ5IHRoYXQgdXNlZCB0byBiZSBpbiBnbGliYy4=</description>
-  <sourcefile>libnsl-2.0.0.tar.xz</sourcefile>
-  <sourcedir>libnsl-2.0.0</sourcedir>
+  <sourcefile>libnsl-2.0.1.tar.xz</sourcefile>
+  <sourcedir>libnsl-2.0.1</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tc3lzY29uZmRpcj0vZXRjICRBUkdfU1RBVElD</configure>
   <build/>

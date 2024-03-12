@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>polkit-123</code>
+      <code>polkit</code>
       <weight>3</weight>
     </dependance>
     <dependance>
