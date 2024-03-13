@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libaom</code>
   <description>VGhlIGxpYmFvbSBwYWNrYWdlIGNvbnRhaW5zIGEgcmVmZXJlbmNlIHZlcnNpb24gb2YgdGhlIEFsbGlhbmNlIGZvciBPcGVuIE1lZGlhIHZpZGVvIGNvZGVjLiBUaGlzIGNvZGVjIGlzIGEgcGF0ZW50IGZyZWUgYWx0ZXJuYXRpdmUgdG8gSC4yNjUsIGFuZCBpcyBzdGFydGluZyB0byBiZSB1c2VkIHRocm91Z2hvdXQgdGhlIGludGVybmV0Lg==</description>
-  <sourcefile>libaom-3.6.1.tar.gz</sourcefile>
-  <sourcedir>libaom-3.6.1</sourcedir>
+  <sourcefile>libaom-3.8.1.tar.gz</sourcefile>
+  <sourcedir>libaom-3.8.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYW9tLWJ1aWxkICYmDQpjZCAgICBhb20tYnVpbGQgJiYNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPTEgICAgICAgXA0KICAgICAgLURFTkFCTEVfRE9DUz1ubyAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4u</configure>
   <build>Y2QgICAgYW9tLWJ1aWxkIA0KbmluamENCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpuaW5qYSBydW50ZXN0cw0KDQpmaQ==</build>

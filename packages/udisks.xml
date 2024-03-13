@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>udisks</code>
   <description>VGhlIFVEaXNrcyBwYWNrYWdlIHByb3ZpZGVzIGEgZGFlbW9uLCB0b29scyBhbmQgbGlicmFyaWVzIHRvIGFjY2VzcyBhbmQgbWFuaXB1bGF0ZSBkaXNrcyBhbmQgc3RvcmFnZSBkZXZpY2VzLg==</description>
-  <sourcefile>udisks-2.10.0.tar.bz2</sourcefile>
-  <sourcedir>udisks-2.10.0</sourcedir>
+  <sourcefile>udisks-2.10.1.tar.bz2</sourcefile>
+  <sourcedir>udisks-2.10.1</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgIFwNCiAgICAgICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWF2YWlsYWJsZS1tb2R1bGVzIA==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ0K</build>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libwebp</code>
   <description>VGhlIGxpYndlYnAgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHN1cHBvcnQgcHJvZ3JhbXMgdG8gZW5jb2RlIGFuZCBkZWNvZGUgaW1hZ2VzIGluIFdlYlAgZm9ybWF0Lg==</description>
-  <sourcefile>libwebp-1.3.1.tar.gz</sourcefile>
-  <sourcedir>libwebp-1.3.1</sourcedir>
+  <sourcefile>libwebp-1.3.2.tar.gz</sourcefile>
+  <sourcedir>libwebp-1.3.2</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWxpYndlYnBtdXggICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWxpYndlYnBkZW11eCAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWxpYndlYnBkZWNvZGVyIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWxpYndlYnBleHRyYXMgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXN3YXAtMTZiaXQtY3NwIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAg</configure>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libpsl</code>
   <description>VGhlIGxpYnBzbCBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSBmb3IgYWNjZXNzaW5nIGFuZCByZXNvbHZpbmcgaW5mb3JtYXRpb24gZnJvbSB0aGUgUHVibGljIFN1ZmZpeCBMaXN0IChQU0wpLiBUaGUgUFNMIGlzIGEgc2V0IG9mIGRvbWFpbiBuYW1lcyBiZXlvbmQgdGhlIHN0YW5kYXJkIHN1ZmZpeGVzLCBzdWNoIGFzIC5jb20u</description>
-  <sourcefile>libpsl-0.21.2.tar.gz</sourcefile>
-  <sourcedir>libpsl-0.21.2</sourcedir>
+  <sourcefile>libpsl-0.21.5.tar.gz</sourcefile>
+  <sourcedir>libpsl-0.21.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZQ==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

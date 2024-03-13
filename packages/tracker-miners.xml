@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>tracker-miners</code>
   <description>VGhlIFRyYWNrZXItbWluZXJzIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgZGF0YSBleHRyYWN0b3JzIGZvciBUcmFja2VyLg==</description>
-  <sourcefile>tracker-miners-3.5.2.tar.xz</sourcefile>
-  <sourcedir>tracker-miners-3.5.2</sourcedir>
+  <sourcefile>tracker-miners-3.6.2.tar.xz</sourcefile>
+  <sourcedir>tracker-miners-3.6.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRG1hbj1mYWxzZSAgICAgICAgIFwNCiAgICAgICAgICAgIC4uICAgICAgICA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

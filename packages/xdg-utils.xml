@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>xdg-utils</code>
   <description>eGRnLXV0aWxzIGlzIGEgc2V0IG9mIGNvbW1hbmQgbGluZSB0b29scyB0aGF0IGFzc2lzdCBhcHBsaWNhdGlvbnMgd2l0aCBhIHZhcmlldHkgb2YgZGVza3RvcCBpbnRlZ3JhdGlvbiB0YXNrcy4gSXQgaXMgcmVxdWlyZWQgZm9yIExpbnV4IFN0YW5kYXJkcyBCYXNlIChMU0IpIGNvbmZvcm1hbmNlLg0KDQo=</description>
-  <sourcefile>xdg-utils-1.1.3.tar.gz</sourcefile>
-  <sourcedir>xdg-utils-1.1.3</sourcedir>
+  <sourcefile>xdg-utils-v1.2.1.tar.gz</sourcefile>
+  <sourcedir>xdg-utils-v1.2.1</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbg==</configure>
+  <configure/>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIC1rIHRlc3QNCmZp</build>
   <install/>
   <localbuild>0</localbuild>

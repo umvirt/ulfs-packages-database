@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libshumate</code>
   <description>VGhlIGxpYnNodW1hdGUgcGFja2FnZSBjb250YWlucyBhIEdUSy00IHdpZGdldCB0byBkaXNwbGF5IG1hcHMu</description>
-  <sourcefile>libshumate-1.0.5.tar.xz</sourcefile>
-  <sourcedir>libshumate-1.0.5</sourcedir>
+  <sourcefile>libshumate-1.1.3.tar.xz</sourcefile>
+  <sourcedir>libshumate-1.1.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0a19kb2M9ZmFsc2UgICAgIFwNCiAgICAgICAgICAgIC4uICAgICA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>nautilus</code>
   <description/>
-  <sourcefile>nautilus-44.2.1.tar.xz</sourcefile>
-  <sourcedir>nautilus-44.2.1</sourcedir>
+  <sourcefile>nautilus-45.2.1.tar.xz</sourcefile>
+  <sourcedir>nautilus-45.2.1</sourcedir>
   <unpack/>
-  <configure>c2VkICIvZG9jZGlyID0vc0BcJEAgLyAnbmF1dGlsdXMtNDQuMi4xJ0AiIC1pIG1lc29uLmJ1aWxkDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgICAgICAgLURzZWxpbnV4PWZhbHNlICAgICBcDQogICAgICAgICAgICAtRHBhY2thZ2VraXQ9ZmFsc2UgIFwNCiAgICAgICAgICAgIC4uICAgICAgICAgICAg</configure>
+  <configure>c2VkICIvZG9jZGlyID0vc0BcJEAgLyAnbmF1dGlsdXMtNDUuMi4xJ0AiIC1pIG1lc29uLmJ1aWxkDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgICAgICAgLURzZWxpbnV4PWZhbHNlICAgICBcDQogICAgICAgICAgICAtRHBhY2thZ2VraXQ9ZmFsc2UgIFwNCiAgICAgICAgICAgIC4uICAgICAgICAgICAg</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>

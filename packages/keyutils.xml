@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>keyutils</code>
   <description>S2V5dXRpbHMgaXMgYSBzZXQgb2YgdXRpbGl0aWVzIGZvciBtYW5hZ2luZyB0aGUga2V5IHJldGVudGlvbiBmYWNpbGl0eSBpbiB0aGUga2VybmVsLCB3aGljaCBjYW4gYmUgdXNlZCBieSBmaWxlc3lzdGVtcywgYmxvY2sgZGV2aWNlcyBhbmQgbW9yZSB0byBnYWluIGFuZCByZXRhaW4gdGhlIGF1dGhvcml6YXRpb24gYW5kIGVuY3J5cHRpb24ga2V5cyByZXF1aXJlZCB0byBwZXJmb3JtIHNlY3VyZSBvcGVyYXRpb25zLg==</description>
-  <sourcefile>keyutils-1.6.1.tar.bz2</sourcefile>
-  <sourcedir>keyutils-1.6.1</sourcedir>
+  <sourcefile>keyutils-1.6.3.tar.gz</sourcefile>
+  <sourcedir>keyutils-1.6.3</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICdzOiQoTElCRElSKS8kKFBLR0NPTkZJR19ESVIpOi91c3IvbGliL3BrZ2NvbmZpZzonIE1ha2VmaWxlICYmDQoNCg==</configure>
+  <configure>Iw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIC1rIHRlc3QNCmZp</build>
-  <install>bWFrZSBOT19BUkxJQj0xIExJQkRJUj0vdXNyL2xpYiBCSU5ESVI9L3Vzci9iaW4gU0JJTkRJUj0vdXNyL3NiaW4gaW5zdGFsbA==</install>
+  <install>bWFrZSBOT19BUkxJQj0xIExJQkRJUj0vdXNyL2xpYiBCSU5ESVI9L3Vzci9iaW4gU0JJTkRJUj0vdXNyL3NiaW4gaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

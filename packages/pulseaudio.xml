@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>pulseaudio</code>
   <description>UHVsc2VBdWRpbyBpcyBhIHNvdW5kIHN5c3RlbSBmb3IgUE9TSVggT1NlcywgbWVhbmluZyB0aGF0IGl0IGlzIGEgcHJveHkgZm9yIHNvdW5kIGFwcGxpY2F0aW9ucy4g</description>
-  <sourcefile>pulseaudio-16.1.tar.xz</sourcefile>
-  <sourcedir>pulseaudio-16.1</sourcedir>
+  <sourcefile>pulseaudio-17.0.tar.xz</sourcefile>
+  <sourcedir>pulseaudio-17.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGRhdGFiYXNlPWdkYm0gICAgIFwNCiAgICAgICAgICAgIC1EZG94eWdlbj1mYWxzZSAgICAgXA0KICAgICAgICAgICAgLURibHVlejU9ZGlzYWJsZWQgICBcDQogICAgICAgICAgICAuLiAgICAgICAgIA==</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGRhdGFiYXNlPWdkYm0gICAgIFwNCiAgICAgICAgICAgIC1EZG94eWdlbj1mYWxzZSAgICAgXA0KICAgICAgICAgICAgLURibHVlejU9ZGlzYWJsZWQgICBcDQogICAgICAgICAgICAuLiAgICAgICAgICA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0Kcm0gLWZ2IC9ldGMvZGJ1cy0xL3N5c3RlbS5kL3B1bHNlYXVkaW8tc3lzdGVtLmNvbmY=</install>
   <localbuild>0</localbuild>

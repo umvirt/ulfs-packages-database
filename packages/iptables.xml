@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>iptables</code>
   <description>aXB0YWJsZXMgaXMgYSB1c2Vyc3BhY2UgY29tbWFuZCBsaW5lIHByb2dyYW0gdXNlZCB0byBjb25maWd1cmUgdGhlIExpbnV4IDIuNCBhbmQgbGF0ZXIga2VybmVsIHBhY2tldCBmaWx0ZXJpbmcgcnVsZXNldC4NCg0K</description>
-  <sourcefile>iptables-1.8.9.tar.xz</sourcefile>
-  <sourcedir>iptables-1.8.9</sourcedir>
+  <sourcefile>iptables-1.8.10.tar.xz</sourcefile>
+  <sourcedir>iptables-1.8.10</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1uZnRhYmxlcyBcDQogICAgICAgICAgICAtLWVuYWJsZS1saWJpcHE=</configure>
   <build/>

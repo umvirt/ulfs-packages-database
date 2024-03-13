@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libical</code>
   <description>VGhlIGxpYmljYWwgcGFja2FnZSBjb250YWlucyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgaUNhbGVuZGFyIHByb3RvY29scyBhbmQgZGF0YSBmb3JtYXRzLg==</description>
-  <sourcefile>libical-3.0.16.tar.gz</sourcefile>
-  <sourcedir>libical-3.0.16</sourcedir>
+  <sourcefile>libical-3.0.17.tar.gz</sourcefile>
+  <sourcedir>libical-3.0.17</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICBcDQogICAgICAtRFNIQVJFRF9PTkxZPXllcyAgICAgICAgICAgIFwNCiAgICAgIC1ESUNBTF9CVUlMRF9ET0NTPWZhbHNlICAgICAgXA0KICAgICAgLURHT0JKRUNUX0lOVFJPU1BFQ1RJT049dHJ1ZSBcDQogICAgICAtRElDQUxfR0xJQl9WQVBJPXRydWUgICAgICAgIFwNCiAgICAgIC4u</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2UgLWoxDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

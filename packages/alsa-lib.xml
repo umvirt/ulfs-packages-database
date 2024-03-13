@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>alsa-lib</code>
   <description>VGhlIEFMU0EgTGlicmFyeSBwYWNrYWdlIGNvbnRhaW5zIHRoZSBBTFNBIGxpYnJhcnkgdXNlZCBieSBwcm9ncmFtcyAoaW5jbHVkaW5nIEFMU0EgVXRpbGl0aWVzKSByZXF1aXJpbmcgYWNjZXNzIHRvIHRoZSBBTFNBIHNvdW5kIGludGVyZmFjZS4=</description>
-  <sourcefile>alsa-lib-1.2.9.tar.bz2</sourcefile>
-  <sourcedir>alsa-lib-1.2.9</sourcedir>
+  <sourcefile>alsa-lib-1.2.11.tar.bz2</sourcefile>
+  <sourcedir>alsa-lib-1.2.11</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmU=</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgZG9jDQoNCmZp</build>
-  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtZCAtbTc1NSAvdXNyL3NoYXJlL2RvYy9hbHNhLWxpYi0xLjIuOS9odG1sL3NlYXJjaCAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2MvZG94eWdlbi9odG1sLyouKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjkvaHRtbCAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2MvZG94eWdlbi9odG1sL3NlYXJjaC8qIFwNCiAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9hbHNhLWxpYi0xLjIuOS9odG1sL3NlYXJjaA0KDQpmaQ==</install>
+  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtZCAtbTc1NSAvdXNyL3NoYXJlL2RvYy9hbHNhLWxpYi0xLjIuMTEvaHRtbC9zZWFyY2ggJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2RveHlnZW4vaHRtbC8qLiogXA0KICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xMS9odG1sICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy9kb3h5Z2VuL2h0bWwvc2VhcmNoLyogXA0KICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xMS9odG1sL3NlYXJjaA0KDQpmaQ==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

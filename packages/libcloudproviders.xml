@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libcloudproviders</code>
   <description>VGhlIGxpYmNsb3VkcHJvdmlkZXJzIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHdoaWNoIHByb3ZpZGVzIGEgREJ1cyBBUEkgdGhhdCBhbGxvd3MgY2xvdWQgc3RvcmFnZSBzeW5jIGNsaWVudHMgdG8gZXhwb3NlIHRoZWlyIHNlcnZpY2VzLg0KDQo=</description>
-  <sourcefile>libcloudproviders-0.3.2.tar.xz</sourcefile>
-  <sourcedir>libcloudproviders-0.3.2</sourcedir>
+  <sourcefile>libcloudproviders-0.3.5.tar.xz</sourcefile>
+  <sourcedir>libcloudproviders-0.3.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

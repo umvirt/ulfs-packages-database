@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libportal</code>
   <description>VGhlIGxpYnBvcnRhbCBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSB0aGF0IGNvbnRhaW5zIEdJTy1zdHlsZSBhc3luYyBBUElzIGZvciBtb3N0IEZsYXRwYWsgcG9ydGFscy4=</description>
-  <sourcefile>libportal-0.6.tar.xz</sourcefile>
-  <sourcedir>libportal-0.6</sourcedir>
+  <sourcefile>libportal-0.7.1.tar.xz</sourcefile>
+  <sourcedir>libportal-0.7.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRGRvY3M9ZmFsc2UgLi4=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
@@ -28,7 +28,12 @@
       <weight>4</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>libportal-0.7.1-testsuite_fix-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

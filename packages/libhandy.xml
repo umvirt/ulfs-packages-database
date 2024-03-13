@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libhandy</code>
   <description>VGhlIGxpYmhhbmR5IHBhY2thZ2UgcHJvdmlkZXMgYWRkaXRpb25hbCBHVEsgVUkgd2lkZ2V0cyBmb3IgdXNlIGluIGRldmVsb3BpbmcgdXNlciBpbnRlcmZhY2VzLg==</description>
-  <sourcefile>libhandy-1.8.2.tar.xz</sourcefile>
-  <sourcedir>libhandy-1.8.2</sourcedir>
+  <sourcefile>libhandy-1.8.3.tar.xz</sourcefile>
+  <sourcedir>libhandy-1.8.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

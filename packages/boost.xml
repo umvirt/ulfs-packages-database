@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>boost</code>
   <description>Qm9vc3QgcHJvdmlkZXMgYSBzZXQgb2YgZnJlZSBwZWVyLXJldmlld2VkIHBvcnRhYmxlIEMrKyBzb3VyY2UgbGlicmFyaWVzLiBJdCBpbmNsdWRlcyBsaWJyYXJpZXMgZm9yIGxpbmVhciBhbGdlYnJhLCBwc2V1ZG9yYW5kb20gbnVtYmVyIGdlbmVyYXRpb24sIG11bHRpdGhyZWFkaW5nLCBpbWFnZSBwcm9jZXNzaW5nLCByZWd1bGFyIGV4cHJlc3Npb25zIGFuZCB1bml0IHRlc3Rpbmcu</description>
-  <sourcefile>boost_1_83_0.tar.bz2</sourcefile>
-  <sourcedir>boost_1_83_0</sourcedir>
+  <sourcefile>boost-1.84.0.tar.xz</sourcefile>
+  <sourcedir>boost-1.84.0</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvI2luY2x1ZGUuKnBob2VuaXguKnR1cGxlLmhwcC4qL2QnIFwNCiAgYm9vc3QvcGhvZW5peC9zdGwuaHBwDQoNCi4vYm9vdHN0cmFwLnNoIC0tcHJlZml4PS91c3IgLS13aXRoLXB5dGhvbj1weXRob24z</configure>
+  <configure>Li9ib290c3RyYXAuc2ggLS1wcmVmaXg9L3VzciAtLXdpdGgtcHl0aG9uPXB5dGhvbjMgDQo=</configure>
   <build>Li9iMiBzdGFnZSAtamBucHJvY2AgdGhyZWFkaW5nPW11bHRpIGxpbms9c2hhcmVk</build>
   <install>Li9iMiBpbnN0YWxsIHRocmVhZGluZz1tdWx0aSBsaW5rPXNoYXJlZA==</install>
   <localbuild>0</localbuild>

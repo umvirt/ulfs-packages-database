@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>cryptsetup</code>
   <description>Y3J5cHRzZXR1cCBpcyB1c2VkIHRvIHNldCB1cCB0cmFuc3BhcmVudCBlbmNyeXB0aW9uIG9mIGJsb2NrIGRldmljZXMgdXNpbmcgdGhlIGtlcm5lbCBjcnlwdG8gQVBJLg==</description>
-  <sourcefile>cryptsetup-2.4.3.tar.xz</sourcefile>
-  <sourcedir>cryptsetup-2.4.3</sourcedir>
+  <sourcefile>cryptsetup-2.7.0.tar.xz</sourcefile>
+  <sourcedir>cryptsetup-2.7.0</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3NoLXRva2Vu</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3NoLXRva2VuIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1hc2NpaWRvYyANCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

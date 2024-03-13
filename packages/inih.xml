@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>inih</code>
   <description>VGhpcyBwYWNrYWdlIGlzIGEgc2ltcGxlIC5JTkkgZmlsZSBwYXJzZXIgd3JpdHRlbiBpbiBDLg==</description>
-  <sourcefile>inih-r57.tar.gz</sourcefile>
-  <sourcedir>inih-r57</sourcedir>
+  <sourcefile>inih-r58.tar.gz</sourcefile>
+  <sourcedir>inih-r58</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
