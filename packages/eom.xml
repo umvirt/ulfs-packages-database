@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>eom</code>
   <description>ZW9tIG9yIHRoZSBFeWUgb2YgTUFURSBpcyBhIHNpbXBsZSBncmFwaGljcyB2aWV3ZXIgZm9yIHRoZSBNQVRFIGRlc2t0b3Agd2hpY2ggdXNlcyB0aGUgZ2RrLXBpeGJ1ZiBsaWJyYXJ5Lg0K</description>
-  <sourcefile>eom-1.26.1.tar.xz</sourcefile>
-  <sourcedir>eom-1.26.1</sourcedir>
+  <sourcefile>eom-1.28.0.tar.xz</sourcefile>
+  <sourcedir>eom-1.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

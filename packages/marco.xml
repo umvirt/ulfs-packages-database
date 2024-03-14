@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>marco</code>
   <description>bGlnaHR3ZWlnaHQgR1RLKyB3aW5kb3cgbWFuYWdlciBmb3IgTUFURQ==</description>
-  <sourcefile>marco-1.26.2.tar.xz</sourcefile>
-  <sourcedir>marco-1.26.2</sourcedir>
+  <sourcefile>marco-1.28.1.tar.xz</sourcefile>
+  <sourcedir>marco-1.28.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

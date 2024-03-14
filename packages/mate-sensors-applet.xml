@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mate-sensors-applet</code>
   <description>TWF0ZSBzZW5zb3JzIGFwcGxldA==</description>
-  <sourcefile>mate-sensors-applet-1.26.0.tar.xz</sourcefile>
-  <sourcedir>mate-sensors-applet-1.26.0</sourcedir>
+  <sourcefile>mate-sensors-applet-1.28.0.tar.xz</sourcefile>
+  <sourcedir>mate-sensors-applet-1.28.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAJ</configure>
   <build/>

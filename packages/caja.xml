@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>caja</code>
   <description>Q2FqYSBpcyB0aGUgb2ZmaWNpYWwgZmlsZSBtYW5hZ2VyIGZvciB0aGUgTUFURSBkZXNrdG9wLg==</description>
-  <sourcefile>caja-1.26.3.tar.xz</sourcefile>
-  <sourcedir>caja-1.26.3</sourcedir>
+  <sourcefile>caja-1.28.0.tar.xz</sourcefile>
+  <sourcedir>caja-1.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

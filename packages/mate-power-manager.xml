@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mate-power-manager</code>
   <description>TWF0ZSBQb3dlciBNYW5hZ2Vy</description>
-  <sourcefile>mate-power-manager-1.26.1.tar.xz</sourcefile>
-  <sourcedir>mate-power-manager-1.26.1</sourcedir>
+  <sourcefile>mate-power-manager-1.28.1.tar.xz</sourcefile>
+  <sourcedir>mate-power-manager-1.28.1</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAJ</configure>
   <build/>

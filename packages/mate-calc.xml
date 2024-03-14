@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mate-calc</code>
   <description>Q2FsY3VsYXRvciBmb3IgTWF0ZQ==</description>
-  <sourcefile>mate-calc-1.26.0.tar.xz</sourcefile>
-  <sourcedir>mate-calc-1.26.0</sourcedir>
+  <sourcefile>mate-calc-1.28.0.tar.xz</sourcefile>
+  <sourcedir>mate-calc-1.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>gnome-tweaks</code>
   <description>R05PTUUgVHdlYWtzIGlzIGEgc2ltcGxlIHByb2dyYW0gdXNlZCB0byB0d2VhayBhZHZhbmNlZCBHTk9NRSBzZXR0aW5ncy4=</description>
-  <sourcefile>gnome-tweaks-40.10.tar.xz</sourcefile>
-  <sourcedir>gnome-tweaks-40.10</sourcedir>
+  <sourcefile>gnome-tweaks-45.1.tar.xz</sourcefile>
+  <sourcedir>gnome-tweaks-45.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZQ0K</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

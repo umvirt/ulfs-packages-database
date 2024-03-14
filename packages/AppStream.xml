@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>AppStream</code>
   <description>QXBwU3RyZWFtIGlzIGEgY3Jvc3MtZGlzdHJpYnV0aW9uIGVmZm9ydCBmb3IgZW5oYW5jaW5nIHRoZSB3YXkgd2UgaW50ZXJhY3Qgd2l0aCB0aGUgc29mdHdhcmUgcmVwb3NpdG9yaWVzIHByb3ZpZGVkIGJ5IChMaW51eCkgZGlzdHJpYnV0aW9ucyBieSBzdGFuZGFyZGl6aW5nIHNvZnR3YXJlIGNvbXBvbmVudCBtZXRhZGF0YS4=</description>
-  <sourcefile>AppStream-1.0.0.tar.xz</sourcefile>
-  <sourcedir>AppStream-1.0.0</sourcedir>
+  <sourcefile>AppStream-1.0.1.tar.xz</sourcefile>
+  <sourcedir>AppStream-1.0.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgICAgICAgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgICAgICAgLURhcGlkb2NzPWZhbHNlICAgICBcDQogICAgICAgICAgICAtRHN0ZW1taW5nPWZhbHNlICAgIC4uIA==</configure>
   <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KbXYgLXYgL3Vzci9zaGFyZS9kb2MvYXBwc3RyZWFteywtMS4wLjF9</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mutter</code>
   <description>TXV0dGVyIGlzIHRoZSB3aW5kb3cgbWFuYWdlciBmb3IgR05PTUUuIA==</description>
-  <sourcefile>mutter-44.3.tar.xz</sourcefile>
-  <sourcedir>mutter-44.3</sourcedir>
+  <sourcefile>mutter-45.4.tar.xz</sourcefile>
+  <sourcedir>mutter-45.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgICAgIFwNCiAgICAgICAgICAgIC1EdGVzdHM9ZmFsc2UgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC1EcHJvZmlsZXI9ZmFsc2UgICAgICAgICAgIFwNCiAgICAgICAgICAgIC4uICAgICAgICAgICAgICAgIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

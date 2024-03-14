@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>gimp</code>
   <description>VGhlIEdpbXAgcGFja2FnZSBjb250YWlucyB0aGUgR05VIEltYWdlIE1hbmlwdWxhdGlvbiBQcm9ncmFtIHdoaWNoIGlzIHVzZWZ1bCBmb3IgcGhvdG8gcmV0b3VjaGluZywgaW1hZ2UgY29tcG9zaXRpb24gYW5kIGltYWdlIGF1dGhvcmluZy4=</description>
-  <sourcefile>gimp-2.10.34.tar.bz2</sourcefile>
-  <sourcedir>gimp-2.10.34</sourcedir>
+  <sourcefile>gimp-2.10.36.tar.bz2</sourcefile>
+  <sourcedir>gimp-2.10.36</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>

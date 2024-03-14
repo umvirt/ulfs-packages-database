@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>gnome-shell</code>
   <description>VGhlIEdOT01FIFNoZWxsIGlzIHRoZSBjb3JlIHVzZXIgaW50ZXJmYWNlIG9mIHRoZSBHTk9NRSBEZXNrdG9wIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>gnome-shell-44.3.tar.xz</sourcefile>
-  <sourcedir>gnome-shell-44.3</sourcedir>
+  <sourcefile>gnome-shell-45.4.tar.xz</sourcefile>
+  <sourcedir>gnome-shell-45.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRHRlc3RzPWZhbHNlICAgICAgIFwNCiAgICAgICAgICAgIC4uICAgICA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

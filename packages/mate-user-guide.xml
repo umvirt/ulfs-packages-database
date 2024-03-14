@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mate-user-guide</code>
   <description>TWF0ZSB1c2VyIGd1aWRl</description>
-  <sourcefile>mate-user-guide-1.26.2.tar.xz</sourcefile>
-  <sourcedir>mate-user-guide-1.26.2</sourcedir>
+  <sourcefile>mate-user-share-1.28.0.tar.xz</sourcefile>
+  <sourcedir>mate-user-share-1.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

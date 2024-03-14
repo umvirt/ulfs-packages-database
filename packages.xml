@@ -732,5 +732,6 @@
     <package>gkrellm</package>
     <package>gettext</package>
     <package>libXpresent</package>
+    <package>swig</package>
   </packages>
 </packages>

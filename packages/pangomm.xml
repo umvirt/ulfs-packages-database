@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>pangomm</code>
   <description>VGhlIFBhbmdvbW0gcGFja2FnZSBwcm92aWRlcyBhIEMrKyBpbnRlcmZhY2UgdG8gUGFuZ28u</description>
-  <sourcefile>pangomm-2.46.3.tar.xz</sourcefile>
-  <sourcedir>pangomm-2.46.3</sourcedir>
+  <sourcefile>pangomm-2.46.4.tar.xz</sourcefile>
+  <sourcedir>pangomm-2.46.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>gnome-user-docs</code>
   <description>VGhlIEdOT01FIFVzZXIgRG9jcyBwYWNrYWdlIGNvbnRhaW5zIGRvY3VtZW50YXRpb24gZm9yIEdOT01FLg==</description>
-  <sourcefile>gnome-user-docs-44.3.tar.xz</sourcefile>
-  <sourcedir>gnome-user-docs</sourcedir>
+  <sourcefile>gnome-user-docs-45.1.tar.xz</sourcefile>
+  <sourcedir>gnome-user-docs-45.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

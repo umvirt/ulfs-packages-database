@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>colord-gtk</code>
   <description>VGhlIENvbG9yZCBHVEsgcGFja2FnZSBjb250YWlucyBHVEsrIGJpbmRpbmdzIGZvciBDb2xvcmQu</description>
-  <sourcefile>colord-gtk-0.3.0.tar.xz</sourcefile>
-  <sourcedir>colord-gtk-0.3.0</sourcedir>
+  <sourcefile>colord-gtk-0.3.1.tar.xz</sourcefile>
+  <sourcedir>colord-gtk-0.3.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0azI9dHJ1ZSAgICAgICAgIFwNCiAgICAgICAgICAgIC1EZ3RrND10cnVlICAgICAgICAgXA0KICAgICAgICAgICAgLUR2YXBpPXRydWUgICAgICAgICBcDQogICAgICAgICAgICAtRGRvY3M9ZmFsc2UgICAgICAgIFwNCiAgICAgICAgICAgIC1EbWFuPWZhbHNlICAgICAgICAgXA0KICAgICAgICAgICAgLi4gICA=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0azQ9dHJ1ZSAgICAgICAgIFwNCiAgICAgICAgICAgIC1EdmFwaT10cnVlICAgICAgICAgXA0KICAgICAgICAgICAgLURkb2NzPWZhbHNlICAgICAgICBcDQogICAgICAgICAgICAtRG1hbj1mYWxzZSAgICAgICAgIFwNCiAgICAgICAgICAgIC4uICA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>

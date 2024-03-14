@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>libsigcpp</code>
   <description>VGhlIGxpYnNpZ2MrKyBwYWNrYWdlIGltcGxlbWVudHMgYSB0eXBlc2FmZSBjYWxsYmFjayBzeXN0ZW0gZm9yIHN0YW5kYXJkIEMrKy4=</description>
-  <sourcefile>libsigc++-2.12.0.tar.xz</sourcefile>
-  <sourcedir>libsigc++-2.12.0</sourcedir>
+  <sourcefile>libsigc++-2.12.1.tar.xz</sourcefile>
+  <sourcedir>libsigc++-2.12.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uIA==</configure>
   <build>Y2QgICAgYmxkICYmDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQo=</build>

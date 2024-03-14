@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mozo</code>
   <description>ZWFzeSBNQVRFIG1lbnUgZWRpdGluZyB0b29s</description>
-  <sourcefile>mozo-1.26.2.tar.xz</sourcefile>
-  <sourcedir>mozo-1.26.2</sourcedir>
+  <sourcefile>mozo-1.28.0.tar.xz</sourcefile>
+  <sourcedir>mozo-1.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

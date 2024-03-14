@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mate-indicator-applet</code>
   <description>TUFURSBwYW5lbCBpbmRpY2F0b3IgYXBwbGV0</description>
-  <sourcefile>mate-indicator-applet-1.26.0.tar.xz</sourcefile>
-  <sourcedir>mate-indicator-applet-1.26.0</sourcedir>
+  <sourcefile>mate-indicator-applet-1.28.0.tar.xz</sourcefile>
+  <sourcedir>mate-indicator-applet-1.28.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyA=</configure>
   <build/>

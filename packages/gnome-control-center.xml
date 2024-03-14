@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>gnome-control-center</code>
   <description>VGhlIEdOT01FIENvbnRyb2wgQ2VudGVyIHBhY2thZ2UgY29udGFpbnMgdGhlIEdOT01FIHNldHRpbmdzIG1hbmFnZXIu</description>
-  <sourcefile>gnome-control-center-44.3.tar.xz</sourcefile>
-  <sourcedir>gnome-control-center-44.3</sourcedir>
+  <sourcefile>gnome-control-center-45.3.tar.xz</sourcefile>
+  <sourcedir>gnome-control-center-45.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgDQpuaW5qYQ0K</build>

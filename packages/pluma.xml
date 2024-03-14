@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>pluma</code>
   <description>VGhlIHBsdW1hIGlzIG9sZCBnZWRpdCBmb3Jr</description>
-  <sourcefile>pluma-1.26.1.tar.xz</sourcefile>
-  <sourcedir>pluma-1.26.1</sourcedir>
+  <sourcefile>pluma-1.28.0.tar.xz</sourcefile>
+  <sourcedir>pluma-1.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

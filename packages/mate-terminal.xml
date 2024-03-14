@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mate-terminal</code>
   <description>TWF0ZSB0ZXJtaW5hbA==</description>
-  <sourcefile>mate-terminal-1.26.1.tar.xz</sourcefile>
-  <sourcedir>mate-terminal-1.26.1</sourcedir>
+  <sourcefile>mate-terminal-1.28.1.tar.xz</sourcefile>
+  <sourcedir>mate-terminal-1.28.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

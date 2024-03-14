@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>gegl</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBHRW5lcmljIEdyYXBoaWNzIExpYnJhcnksIHdoaWNoIGlzIGEgZ3JhcGggYmFzZWQgaW1hZ2UgcHJvY2Vzc2luZyBmb3JtYXQu</description>
-  <sourcefile>gegl-0.4.46.tar.xz</sourcefile>
-  <sourcedir>gegl-0.4.46</sourcedir>
+  <sourcefile>gegl-0.4.48.tar.xz</sourcefile>
+  <sourcedir>gegl-0.4.48</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCg0KI21lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgLURsaWJyc3ZnPWRpc2FibGVk</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

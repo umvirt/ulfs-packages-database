@@ -3,10 +3,10 @@
   <release>0.2.1</release>
   <code>libxmlb</code>
   <description>QSBsaWJyYXJ5IHRvIGhlbHAgY3JlYXRlIGFuZCBxdWVyeSBiaW5hcnkgWE1MIGJsb2Jz</description>
-  <sourcefile>libxmlb-0.3.14.tar.xz</sourcefile>
-  <sourcedir>libxmlb-0.3.14</sourcedir>
+  <sourcefile>libxmlb-0.3.15.tar.xz</sourcefile>
+  <sourcedir>libxmlb-0.3.15</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgICAgICAgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRGd0a2RvYz1mYWxzZSAuLiA=</configure>
   <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
   <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>
