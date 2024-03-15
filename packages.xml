@@ -685,7 +685,7 @@
     <package>postfix</package>
     <package>exim</package>
     <package>dovecot</package>
-    <package>libreoffice</package>
+    <package>libreoffice7</package>
     <package>perl-Archive-Zip</package>
     <package>clucene</package>
     <package>glm</package>
@@ -713,7 +713,7 @@
     <package>xine-ui</package>
     <package>transmission</package>
     <package>c-ares</package>
-    <package>nodejs18</package>
+    <package>nodejs</package>
     <package>perl-HTML-Tagset</package>
     <package>perl-HTML-Parser</package>
     <package>netsurf</package>

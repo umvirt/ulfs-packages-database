@@ -3,14 +3,18 @@
   <release>0.2.1</release>
   <code>vlc</code>
   <description>VkxDIGlzIGEgbWVkaWEgcGxheWVyLCBzdHJlYW1lciwgYW5kIGVuY29kZXIuIEl0IGNhbiBwbGF5IGZyb20gbWFueSBpbnB1dHMsIHN1Y2ggYXMgZmlsZXMsIG5ldHdvcmsgc3RyZWFtcywgY2FwdHVyZSBkZXZpY2VzLCBkZXNrdG9wcywgb3IgRFZELCBTVkNELCBWQ0QsIGFuZCBhdWRpbyBDRC4gSXQgY2FuIHVzZSBtb3N0IGF1ZGlvIGFuZCB2aWRlbyBjb2RlY3MgKE1QRUcgMS8yLzQsIEgyNjQsIFZDLTEsIERpdlgsIFdNViwgVm9yYmlzLCBBQzMsIEFBQywgZXRjLiksIGFuZCBpdCBjYW4gYWxzbyBjb252ZXJ0IHRvIGRpZmZlcmVudCBmb3JtYXRzIGFuZC9vciBzZW5kIHN0cmVhbXMgdGhyb3VnaCB0aGUgbmV0d29yay4NCg==</description>
-  <sourcefile>vlc-3.0.18.tar.xz</sourcefile>
-  <sourcedir>vlc-3.0.18</sourcedir>
+  <sourcefile>vlc-3.0.20.tar.xz</sourcefile>
+  <sourcedir>vlc-3.0.20</sourcedir>
   <unpack/>
-  <configure>ZXhwb3J0IExVQUM9L3Vzci9iaW4vbHVhYzUuMiAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmV4cG9ydCBMVUFfTElCUz0iJChwa2ctY29uZmlnIC0tbGlicyBsdWE1MikiICAgICAgICAgICYmDQpleHBvcnQgQ1BQRkxBR1M9IiQocGtnLWNvbmZpZyAtLWNmbGFncyBsdWE1MikiICAgICAgICAmJg0KDQpCVUlMRENDPWdjYyAuL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1saWJ2YQ==</configure>
+  <configure>QlVJTERDQz1nY2MgLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtbGlicGxhY2Vibw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
-  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvdmxjLTMuMC4xOCBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
+  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvdmxjLTMuMC4yMCBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>lua-5.4</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libxml2</code>
       <weight>1</weight>
@@ -156,10 +160,6 @@
       <weight>36</weight>
     </dependance>
     <dependance>
-      <code>lua-5.2</code>
-      <weight>37</weight>
-    </dependance>
-    <dependance>
       <code>libidn1</code>
       <weight>38</weight>
     </dependance>
@@ -192,7 +192,12 @@
       <weight>45</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>vlc-3.0.20-taglib-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

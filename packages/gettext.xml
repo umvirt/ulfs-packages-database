@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>gettext</code>
   <description>R2V0dGV4dCBMRlMgcGFja2FnZSB1cGRhdGUuIGF1dG9wb2ludCBpcyBuZWVkZWQgYnkgYXV0b3JlY29uZi4=</description>
-  <sourcefile>gettext-0.22.tar.xz</sourcefile>
-  <sourcedir>gettext-0.22</sourcedir>
+  <sourcefile>gettext-0.22.4.tar.xz</sourcefile>
+  <sourcedir>gettext-0.22.4</sourcedir>
   <unpack/>
   <configure/>
   <build/>
