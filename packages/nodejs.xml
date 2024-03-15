@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.1</release>
-  <code>nodejs18</code>
+  <code>nodejs</code>
   <description>Tm9kZS5qcyBpcyBhIEphdmFTY3JpcHQgcnVudGltZSBidWlsdCBvbiBDaHJvbWUncyBWOCBKYXZhU2NyaXB0IGVuZ2luZS4NCg0K</description>
-  <sourcefile>node-v18.17.1.tar.xz</sourcefile>
-  <sourcedir>node-v18.17.1</sourcedir>
+  <sourcefile>node-v20.11.1.tar.xz</sourcefile>
+  <sourcedir>node-v20.11.1</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1jYXJlcyAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLWxpYnV2ICAgICAgICAgXA0KICAgICAgICAgICAgLS1zaGFyZWQtb3BlbnNzbCAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1uZ2h0dHAyICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLXpsaWIgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWludGw9c3lzdGVtLWljdQ0K</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1icm90bGkgICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLWNhcmVzICAgICAgICAgXA0KICAgICAgICAgICAgLS1zaGFyZWQtbGlidXYgICAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1vcGVuc3NsICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLW5naHR0cDIgICAgICAgXA0KICAgICAgICAgICAgLS1zaGFyZWQtemxpYiAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtaW50bD1zeXN0ZW0taWN1IA0K</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIHRlc3Qtb25seQ0KZmk=</build>
-  <install>bWFrZSBpbnN0YWxsICYmDQpsbiAtc2Ygbm9kZSAvdXNyL3NoYXJlL2RvYy9ub2RlLTE4LjE3LjE=</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQpsbiAtc2Ygbm9kZSAvdXNyL3NoYXJlL2RvYy9ub2RlLTIwLjExLjE=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
