@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>mate-applets</code>
   <description>TWF0ZSBBcHBsZXRz</description>
-  <sourcefile>mate-applets-1.26.1.tar.xz</sourcefile>
-  <sourcedir>mate-applets-1.26.1</sourcedir>
+  <sourcefile>mate-applets-1.28.0.tar.xz</sourcefile>
+  <sourcedir>mate-applets-1.28.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.1</release>
   <code>linux-firmware</code>
   <description>TGludXgga2VybmVsIGZpcm13YXJlIHJvbXMgY29sbGVjdGlvbiBpcyBuZWVkZWQgZm9yIGhhcmR3YXJlIHN1cHBvcnQ=</description>
-  <sourcefile>linux-firmware-20240115.tar.gz</sourcefile>
-  <sourcedir>linux-firmware-20240115</sourcedir>
+  <sourcefile>linux-firmware-20240312.tar.gz</sourcefile>
+  <sourcedir>linux-firmware-20240312</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>

@@ -59,7 +59,7 @@
     </patch>
   </patches>
   <addons>
-    <addon>xorg-server-21.1.6.tar.xz</addon>
+    <addon>xorg-server-21.1.11.tar.xz</addon>
   </addons>
   <nestings/>
   <comments/>
