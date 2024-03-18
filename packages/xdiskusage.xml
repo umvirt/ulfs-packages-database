@@ -3,7 +3,7 @@
   <release>0.1</release>
   <code>xdiskusage</code>
   <description>VXNlci1mcmllbmRseSBwcm9ncmFtIHRvIHNob3cgeW91IHdoYXQgaXMgdXNpbmcgdXAgYWxsIHlvdXIgZGlzayBzcGFjZQ==</description>
-  <sourcefile>xdiskusage-1.60.tgz </sourcefile>
+  <sourcefile>xdiskusage-1.60.tgz</sourcefile>
   <sourcedir>xdiskusage-1.60</sourcedir>
   <unpack/>
   <configure/>
