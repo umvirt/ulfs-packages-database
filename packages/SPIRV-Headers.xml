@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>SPIRV-Headers</code>
+  <description>VGhlIFNQSVJWLUhlYWRlcnMgcGFja2FnZSBjb250YWlucyBoZWFkZXJzIHRoYXQgYWxsb3cgZm9yIGFwcGxpY2F0aW9ucyB0byB0aGUgU1BJUi1WIGxhbmd1YWdlIGFuZCBpbnN0cnVjdGlvbiBzZXQgd2l0aCBWdWxrYW4uIFNQSVItViBpcyBhIGJpbmFyeSBpbnRlcm1lZGlhdGUgbGFuZ3VhZ2UgZm9yIHJlcHJlc2VudGluZyBncmFwaGljYWwgc2hhZGVyIHN0YWdlcyBhbmQgY29tcHV0ZSBrZXJuZWxzIGZvciBtdWx0aXBsZSBLaHJvbm9zIEFQSXMsIGluY2x1ZGluZyBPcGVuR0wgYW5kIFZ1bGthbi4=</description>
+  <sourcefile>SPIRV-Headers-1.3.275.0.tar.gz</sourcefile>
+  <sourcedir>SPIRV-Headers-vulkan-sdk-1.3.275.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRyBOaW5qYSAuLg==</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

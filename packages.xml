@@ -733,5 +733,8 @@
     <package>gettext</package>
     <package>libXpresent</package>
     <package>swig</package>
+    <package>SPIRV-Headers</package>
+    <package>SPIRV-Tools</package>
+    <package>glslang</package>
   </packages>
 </packages>
