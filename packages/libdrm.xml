@@ -15,6 +15,10 @@
       <code>Xlibs</code>
       <weight>1</weight>
     </dependance>
+    <dependance>
+      <code>libatomic_ops</code>
+      <weight>2</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

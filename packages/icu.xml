@@ -11,12 +11,7 @@
   <install>Y2Qgc291cmNlDQptYWtlIGluc3RhbGw=</install>
   <localbuild>1</localbuild>
   <dependances/>
-  <patches>
-    <patch>
-      <filename>icu-makefile.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

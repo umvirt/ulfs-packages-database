@@ -16,12 +16,7 @@
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>desktop-file-utils-0.26-update_standard-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

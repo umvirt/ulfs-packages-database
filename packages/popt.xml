@@ -11,12 +11,7 @@
   <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy9wb3B0LTEuMTkgJiYNCmluc3RhbGwgLXYgLW02NDQgZG94eWdlbi9odG1sLyogL3Vzci9zaGFyZS9kb2MvcG9wdC0xLjE5DQoNCmZp</install>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches>
-    <patch>
-      <filename>popt-makefile.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>
