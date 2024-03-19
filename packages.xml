@@ -528,7 +528,7 @@
     <package>mate-terminal</package>
     <package>mate-user-guide</package>
     <package>mozo</package>
-    <package>caja</package>
+    <package>caja-app</package>
     <package>djvulibre</package>
     <package>libspectre</package>
     <package>atril</package>
@@ -736,5 +736,8 @@
     <package>SPIRV-Headers</package>
     <package>SPIRV-Tools</package>
     <package>glslang</package>
+    <package>caja-extensions</package>
+    <package>caja</package>
+    <package>caja-actions</package>
   </packages>
 </packages>

@@ -2,15 +2,28 @@
 <package>
   <release>0.2.1</release>
   <code>caja</code>
-  <description>Q2FqYSBpcyB0aGUgb2ZmaWNpYWwgZmlsZSBtYW5hZ2VyIGZvciB0aGUgTUFURSBkZXNrdG9wLg==</description>
-  <sourcefile>caja-1.28.0.tar.xz</sourcefile>
-  <sourcedir>caja-1.28.0</sourcedir>
+  <description>VmlydHVhbCBwYWNnZSBmb3IgY2FqYQ==</description>
+  <sourcefile/>
+  <sourcedir/>
   <unpack/>
-  <configure/>
-  <build/>
-  <install/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>caja-app</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>caja-extensions</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>caja-actions</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
