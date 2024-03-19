@@ -48,10 +48,6 @@
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>adwaita-icon-theme</code>
-      <weight>10</weight>
-    </dependance>
-    <dependance>
       <code>librsvg</code>
       <weight>11</weight>
     </dependance>
