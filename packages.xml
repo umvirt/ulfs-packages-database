@@ -739,5 +739,6 @@
     <package>caja-extensions</package>
     <package>caja</package>
     <package>caja-actions</package>
+    <package>libreoffice24</package>
   </packages>
 </packages>
