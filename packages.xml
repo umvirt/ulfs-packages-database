@@ -740,5 +740,28 @@
     <package>caja</package>
     <package>caja-actions</package>
     <package>libreoffice24</package>
+    <package>garcon</package>
+    <package>xfce4-panel</package>
+    <package>thunar</package>
+    <package>thunar-volman</package>
+    <package>tumbler</package>
+    <package>libgsf</package>
+    <package>xfce4-appfinder</package>
+    <package>xfce4-power-manager</package>
+    <package>xfce4-settings-4.18.4</package>
+    <package>xfdesktop</package>
+    <package>xfwm4</package>
+    <package>xfce4-session</package>
+    <package>xscreensaver</package>
+    <package>polkit-gnome</package>
+    <package>xfce4-terminal</package>
+    <package>xfburn</package>
+    <package>cdrdao</package>
+    <package>libao</package>
+    <package>ristretto</package>
+    <package>xfce4-dev-tools</package>
+    <package>xfce4-notifyd</package>
+    <package>xfce4-pulseaudio-plugin</package>
+    <package>XFCE</package>
   </packages>
 </packages>

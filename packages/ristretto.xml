@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>ristretto</code>
+  <description>UmlzdHJldHRvIGlzIGEgZmFzdCBhbmQgbGlnaHR3ZWlnaHQgaW1hZ2Ugdmlld2VyIGZvciB0aGUgWGZjZSBkZXNrdG9wLg==</description>
+  <sourcefile>ristretto-0.13.2.tar.bz2</sourcefile>
+  <sourcedir>ristretto-0.13.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libexif</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxfce4ui</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tumbler</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

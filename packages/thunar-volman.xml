@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>thunar-volman</code>
+  <description>VGhlIFRodW5hciBWb2x1bWUgTWFuYWdlciBpcyBhbiBleHRlbnNpb24gZm9yIHRoZSBUaHVuYXIgZmlsZSBtYW5hZ2VyLCB3aGljaCBlbmFibGVzIGF1dG9tYXRpYyBtYW5hZ2VtZW50IG9mIHJlbW92YWJsZSBkcml2ZXMgYW5kIG1lZGlhLg==</description>
+  <sourcefile>thunar-volman-4.18.0.tar.bz2</sourcefile>
+  <sourcedir>thunar-volman-4.18.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libgudev</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gvfs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnotify</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>exo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>thunar</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

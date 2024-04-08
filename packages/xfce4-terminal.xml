@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>xfce4-terminal</code>
+  <description>WGZjZTQgVGVybWluYWwgaXMgYSBHVEsrMyB0ZXJtaW5hbCBlbXVsYXRvci4=</description>
+  <sourcefile>xfce4-terminal-1.1.2.tar.bz2</sourcefile>
+  <sourcedir>xfce4-terminal-1.1.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>vte</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxfce4ui</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

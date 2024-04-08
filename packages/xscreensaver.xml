@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>xscreensaver</code>
+  <description>VGhlIFhTY3JlZW5TYXZlciBwYWNrYWdlIGlzIGEgbW9kdWxhciBzY3JlZW4gc2F2ZXIgYW5kIGxvY2tlciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4g</description>
+  <sourcefile>xscreensaver-6.08.tar.gz</sourcefile>
+  <sourcedir>xscreensaver-6.08</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>Xapps</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>krb5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ffmpeg</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>cdrdao</code>
+  <description>VGhlIENkcmRhbyBwYWNrYWdlIGNvbnRhaW5zIENEIHJlY29yZGluZyB1dGlsaXRpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGJ1cm5pbmcgYSBDRCBpbiBkaXNrLWF0LW9uY2UgbW9kZS4=</description>
+  <sourcefile>cdrdao-1.2.4.tar.bz2</sourcefile>
+  <sourcedir>cdrdao-1.2.4</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbiA=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libvorbis</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lame</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libmad</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libao</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

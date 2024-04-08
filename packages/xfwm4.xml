@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>xfwm4</code>
+  <description>WGZ3bTQgaXMgdGhlIHdpbmRvdyBtYW5hZ2VyIGZvciBYZmNlLg==</description>
+  <sourcefile>xfwm4-4.18.0.tar.bz2</sourcefile>
+  <sourcedir>xfwm4-4.18.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>startup-notification</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libwnck3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxfce4ui</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

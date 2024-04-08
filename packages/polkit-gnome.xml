@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>polkit-gnome</code>
+  <description>VGhlIFBvbGtpdCBHTk9NRSBwYWNrYWdlIHByb3ZpZGVzIGFuIEF1dGhlbnRpY2F0aW9uIEFnZW50IGZvciBQb2xraXQgdGhhdCBpbnRlZ3JhdGVzIHdlbGwgd2l0aCB0aGUgR05PTUUgRGVza3RvcCBlbnZpcm9ubWVudC4=</description>
+  <sourcefile>polkit-gnome-0.105.tar.xz</sourcefile>
+  <sourcedir>polkit-gnome-0.105</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>polkit</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>accountsservice</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>polkit-gnome-0.105-consolidated_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
