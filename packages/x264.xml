@@ -4,7 +4,7 @@
   <code>x264</code>
   <description>eDI2NCBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSBmb3IgZW5jb2RpbmcgdmlkZW8gc3RyZWFtcyBpbnRvIHRoZSBILjI2NC9NUEVHLTQgQVZDIGZvcm1hdC4=</description>
   <sourcefile>x264-20240216.tar.xz</sourcefile>
-  <sourcedir>x264-20240216</sourcedir>
+  <sourcedir>x264</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWNsaQ==</configure>
   <build/>
