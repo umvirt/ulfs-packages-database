@@ -773,5 +773,7 @@
     <package>simple-scan</package>
     <package>beep</package>
     <package>cloud-utils</package>
+    <package>qt6</package>
+    <package>jasper</package>
   </packages>
 </packages>
