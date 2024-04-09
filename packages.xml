@@ -772,5 +772,6 @@
     <package>sane-backends</package>
     <package>simple-scan</package>
     <package>beep</package>
+    <package>cloud-utils</package>
   </packages>
 </packages>
