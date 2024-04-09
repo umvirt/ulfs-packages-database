@@ -763,5 +763,14 @@
     <package>xfce4-notifyd</package>
     <package>xfce4-pulseaudio-plugin</package>
     <package>XFCE</package>
+    <package>multipath-tools</package>
+    <package>liburcu</package>
+    <package>meld</package>
+    <package>xdotool</package>
+    <package>vttest</package>
+    <package>tcpser</package>
+    <package>sane-backends</package>
+    <package>simple-scan</package>
+    <package>beep</package>
   </packages>
 </packages>

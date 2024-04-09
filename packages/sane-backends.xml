@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>sane-backends</code>
+  <description>U0FORSBpcyBzaG9ydCBmb3IgU2Nhbm5lciBBY2Nlc3MgTm93IEVhc3kuIFRoZSBiYWNrIGVuZHMgYXJlIGRyaXZlcnMgZm9yIHRoZSBzdXBwb3J0ZWQgc2Nhbm5lcnMgYW5kIGNhbWVyYXMu</description>
+  <sourcefile>sane-backends-1.2.1.tar.gz</sourcefile>
+  <sourcedir>sane-backends-1.2.1</sourcedir>
+  <unpack/>
+  <configure>Z3JvdXBhZGQgLWcgNzAgc2Nhbm5lcg0KDQpzZyBzY2FubmVyIC1jICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcDQpQWVRIT049cHl0aG9uMyAuL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICBcDQogICAgICAgICAgICAgICAgICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICBcDQogICAgICAgICAgICAgICAgICAgICAgICAgICAtLWxvY2Fsc3RhdGVkaXI9L3ZhciBcDQogICAgICAgICAgICAgICAgICAgICAgICAgICAtLXdpdGgtbG9ja2Rpcj0vcnVuL2xvY2sgXA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2Mvc2FuZS1iYWNrZW5kcy0xLjIuMSINCg0K</configure>
+  <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KaW5zdGFsbCAtbSA2NDQgLXYgdG9vbHMvdWRldi9saWJzYW5lLnJ1bGVzICAgICAgICAgICBcDQogICAgICAgICAgICAgICAgICAvZXRjL3VkZXYvcnVsZXMuZC82NS1zY2FubmVyLnJ1bGVzICYmDQpta2RpciAtcCAgICAgICAgICAvcnVuL2xvY2svc2FuZSAmJg0KY2hncnAgLXYgc2Nhbm5lciAgL3J1bi9sb2NrL3NhbmU=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tiff</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>avahi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cups</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>v4l-utils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
