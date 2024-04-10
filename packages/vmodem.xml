@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>vmodem</code>
+  <description>VGhlIFZpcnR1YWwgSGF5ZXMgQ29tcGF0aWJsZSBNb2RlbSBzY3JpcHQgZm9yIExpbnV4Lg==</description>
+  <sourcefile>vmodem-ff408225577a7a5c59ae08446dffed947bd959c7.tar.gz</sourcefile>
+  <sourcedir>vmodem-ff408225577a7a5c59ae08446dffed947bd959c7</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWtkaXIgL29wdC92bW9kZW0NCmNwIC12IHs/LnNoLHBwcC5zaCx2bW9kZW0uc2gsUkVBRE1FLm1kfSAvb3B0L3Ztb2RlbQ0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>ppp</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>vmodem-ulfs.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

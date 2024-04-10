@@ -775,5 +775,7 @@
     <package>cloud-utils</package>
     <package>qt6</package>
     <package>jasper</package>
+    <package>ppp</package>
+    <package>vmodem</package>
   </packages>
 </packages>
