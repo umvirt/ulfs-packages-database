@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>python3-dateutil</code>
+  <description>RXh0ZW5zaW9ucyB0byB0aGUgc3RhbmRhcmQgUHl0aG9uIGRhdGV0aW1lIG1vZHVsZQ==</description>
+  <sourcefile>python-dateutil-2.9.0.post0.tar.gz</sourcefile>
+  <sourcedir>python-dateutil-2.9.0.post0</sourcedir>
+  <unpack/>
+  <configure>Iw0K</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdEDQo=</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzPWRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHB5dGhvbi1kYXRldXRpbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
