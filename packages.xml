@@ -777,5 +777,8 @@
     <package>jasper</package>
     <package>ppp</package>
     <package>vmodem</package>
+    <package>python3-pyasn1</package>
+    <package>python3-dateutil</package>
+    <package>utfcpp</package>
   </packages>
 </packages>
