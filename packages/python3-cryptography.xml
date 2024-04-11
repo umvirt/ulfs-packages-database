@@ -3,12 +3,12 @@
   <release>0.2.1</release>
   <code>python3-cryptography</code>
   <description>QSBzZXQgb2YgZnVuY3Rpb25zIHVzZWZ1bCBpbiBjcnlwdG9ncmFwaHkgYW5kIGxpbmVhciBhbGdlYnJh</description>
-  <sourcefile>cryptography-2.8.tar.gz</sourcefile>
-  <sourcedir>cryptography-2.8</sourcedir>
+  <sourcefile>cryptography-42.0.5.tar.gz</sourcefile>
+  <sourcedir>cryptography-42.0.5</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>I3BpcDMgd2hlZWwgLXcgZGlzdCAtLW5vLWJ1aWxkLWlzb2xhdGlvbiAtLW5vLWRlcHMgJFBXRA0KcHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
-  <install>I3BpcDMgaW5zdGFsbCAtLW5vLWluZGV4IC0tZmluZC1saW5rcyBkaXN0IC0tbm8tY2FjaGUtZGlyIC0tbm8tdXNlciBjcnlwdG9ncmFwaHkNCg0KcHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ0K</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGNyeXB0b2dyYXBoeQ0KDQojcHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tb3B0aW1pemU9MQ0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
