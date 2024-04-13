@@ -7,10 +7,14 @@
   <sourcedir>netsurf-all-3.11</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build/>
-  <install>aW5zdGFsbCBuZXRzdXJmL25zZ3RrMiAvdXNyL2Jpbg0KDQpjYXQgPiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9uZXRzdXJmLmRlc2t0b3AgPDwgRU9GDQpbRGVza3RvcCBFbnRyeV0NCk5hbWU9TmV0U3VyZg0KQ29tbWVudD1TaW1wbGUgJiBsaWdodHdlaWdodCBXZWItYnJvd3Nlcg0KRXhlYz0vdXNyL2Jpbi9uc2d0azINClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9TmV0d29yaw0KRU9GDQo=</install>
+  <build>bWFrZSBQUkVGSVg9L3VzciBUQVJHRVQ9Z3RrMyBORVRTVVJGX1VBX0ZPUk1BVF9TVFJJTkc9JyJNb3ppbGxhLzUuMCAoVUxGUzsgJXMpIE5ldFN1cmYvJWQuJWQiJw==</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBUQVJHRVQ9Z3RrMyBpbnN0YWxsDQoNCmNhdCA+IC91c3Ivc2hhcmUvYXBwbGljYXRpb25zL25ldHN1cmYuZGVza3RvcCA8PCBFT0YNCltEZXNrdG9wIEVudHJ5XQ0KTmFtZT1OZXRTdXJmDQpDb21tZW50PVNpbXBsZSAmIGxpZ2h0d2VpZ2h0IFdlYi1icm93c2VyDQpFeGVjPS91c3IvYmluL25ldHN1cmYtZ3RrMw0KVGVybWluYWw9ZmFsc2UNClR5cGU9QXBwbGljYXRpb24NCkljb249L3Vzci9zaGFyZS9uZXRzdXJmL25ldHN1cmYueHBtDQpDYXRlZ29yaWVzPU5ldHdvcmsNCkVPRg0K</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libxml2</code>
       <weight>1</weight>
