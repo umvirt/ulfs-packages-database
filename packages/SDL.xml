@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>SDL</code>
+  <description>aGUgU2ltcGxlIERpcmVjdE1lZGlhIExheWVyIChTREwgZm9yIHNob3J0KSBpcyBhIGNyb3NzLXBsYXRmb3JtIGxpYnJhcnkgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXN5IHRvIHdyaXRlIG11bHRpbWVkaWEgc29mdHdhcmUsIHN1Y2ggYXMgZ2FtZXMgYW5kIGVtdWxhdG9ycy4NCg==</description>
+  <sourcefile>SDL-1.2.15.tar.gz</sourcefile>
+  <sourcedir>SDL-1.2.15</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICcvX1hEYXRhMzIvczpyZWdpc3RlciBsb25nOnJlZ2lzdGVyIF9YY29uc3QgbG9uZzonIFwNCiAgICAtaSBzcmMvdmlkZW8veDExL1NETF94MTFzeW0uaCAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -780,5 +780,16 @@
     <package>python3-pyasn1</package>
     <package>python3-dateutil</package>
     <package>utfcpp</package>
+    <package>dosbox</package>
+    <package>SDL2_net</package>
+    <package>SDL</package>
+    <package>SDL_net</package>
+    <package>dosbox-staging</package>
+    <package>opusfile</package>
+    <package>iir1</package>
+    <package>zlib-ng</package>
+    <package>fluidsynth</package>
+    <package>libmt32emu</package>
+    <package>dosbox-x</package>
   </packages>
 </packages>

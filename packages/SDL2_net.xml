@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>SDL2_net</code>
+  <description>TmV0d29yayBsaWJyYXJ5IGZvciBTaW1wbGUgRGlyZWN0TWVkaWEgTGF5ZXIgMg==</description>
+  <sourcefile>SDL2_net-2.2.0.tar.gz</sourcefile>
+  <sourcedir>SDL2_net-2.2.0</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMgLS1kaXNhYmxlLXNkbHRlc3Q=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

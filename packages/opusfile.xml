@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>opusfile</code>
+  <description>VGhlIG9wdXNmaWxlIGxpYnJhcnkgcHJvdmlkZXMgc2Vla2luZywgZGVjb2RlLCBhbmQgcGxheWJhY2sgb2YgT3B1cyBzdHJlYW1zIGluIHRoZSBPZ2cgY29udGFpbmVyICgub3B1cyBmaWxlcykgaW5jbHVkaW5nIG92ZXIgaHR0cChzKSBvbiBwb3NpeCBhbmQgd2luZG93cyBzeXN0ZW1zLg==</description>
+  <sourcefile>opusfile-0.12.tar.gz</sourcefile>
+  <sourcedir>opusfile-0.12</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libogg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>opus</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

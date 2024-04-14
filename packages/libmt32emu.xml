@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libmt32emu</code>
+  <description>QSBtdWx0aS1wbGF0Zm9ybSBzb2Z0d2FyZSBzeW50aGVzaXNlciBlbXVsYXRpbmcgcHJlLUdNIE1JREkgZGV2aWNlcyBzdWNoIGFzIHRoZSBSb2xhbmQgTVQtMzIsIENNLTMyTCwgQ00tNjQgYW5kIExBUEMtSS4=</description>
+  <sourcefile>libmt32emu_2_7_1.tar.gz</sourcefile>
+  <sourcedir>munt-libmt32emu_2_7_1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgbXVudF9XSVRIX01UMzJFTVVfUVQ9T0ZGIFwNCiAgICAgIC4u</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
