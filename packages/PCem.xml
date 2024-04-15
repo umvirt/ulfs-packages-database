@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>PCem</code>
+  <description>eDg2IGVtdWxhdG9y</description>
+  <sourcefile>PCemV17Linux.tar.gz</sourcefile>
+  <sourcedir>PCemV17Linux</sourcedir>
+  <unpack>bWtkaXIgUENlbVYxN0xpbnV4DQpjZCBQQ2VtVjE3TGludXgNCnRhciAteGYgLi4vUENlbVYxN0xpbnV4LnRhci5neg0KY2QgLi4=</unpack>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1pYm1wYy1yb20gLS1lbmFibGUtbWFjcGx1cy1yb20=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCm1rZGlyIC1wdiAvdXNyL3NoYXJlL3BjZW0vcm9tcw0KDQpjYXQgPj4gL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvcGNlbS5kZXNrdG9wIDw8IEVPRg0KW0Rlc2t0b3AgRW50cnldDQpOYW1lPVBDZW0NCkNvbW1lbnQ9UENlbSBFbXVsYXRvcg0KRXhlYz0vdXNyL2Jpbi9wY2VtDQpUZXJtaW5hbD1mYWxzZQ0KVHlwZT1BcHBsaWNhdGlvbg0KSWNvbj1ub25lDQpDYXRlZ29yaWVzPVN5c3RlbTtFbXVsYXRvcjsNCkVPRg0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>sdl12-compat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openal</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

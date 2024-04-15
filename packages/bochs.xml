@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>bochs</code>
+  <description>Qm9jaHMgaXMgYSBwb3J0YWJsZSB4ODYgUEMgZW11bGF0aW9uIHNvZnR3YXJlIHBhY2thZ2UgdGhhdCBlbXVsYXRlcyBlbm91Z2ggb2YgdGhlIHg4NiBDUFUsIHJlbGF0ZWQgQVQgaGFyZHdhcmUsIGFuZCBCSU9TIHRvIHJ1biBXaW5kb3dzLCBMaW51eCwgKkJTRCwgTWluaXgsIGFuZCBvdGhlciBPUydzLCBhbGwgb24geW91ciB3b3Jrc3RhdGlvbi4=</description>
+  <sourcefile>bochs-2.8.tar.gz</sourcefile>
+  <sourcedir>bochs-2.8</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1sb2NhbHN0YXRlZGlyPS92YXIgLS1zeXNjb25mZGlyPS9ldGMgXA0KJEFSR19TVEFUSUMgXA0KLS1lbmFibGUtc2hhcmVkIFwNCi0tZW5hYmxlLWRlYnVnZ2VyIFwNCi0tZW5hYmxlLXVzYiBcDQotLWVuYWJsZS11c2Itb2hjaSBcDQotLWVuYWJsZS11c2ItZWhjaSBcDQotLWVuYWJsZS11c2IteGhjaSBcDQotLWVuYWJsZS1uZTIwMDAgXA0KLS1lbmFibGUtZTEwMDAgXA0KLS1lbmFibGUtdm9vZG9vIFwNCi0tZW5hYmxlLXNiMTYgXA0KLS1lbmFibGUtZXMxMzcwIFwNCi0td2l0aC1zZGwyIFwNCi0td2l0aC12bmNzcnYgXA0KLS13aXRoLXJmYiBcDQotLXdpdGgtbm9ndWkgXA0KLS13aXRoLXd4</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmluc3RhbGwgLXYgLW02NDQgZ3VpL2ljb25fYm9jaHMueHBtIC91c3Ivc2hhcmUvYm9jaHMvDQoNCmNhdCA+PiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9ib2Nocy5kZXNrdG9wIDw8IEVPRg0KW0Rlc2t0b3AgRW50cnldDQpOYW1lPUJPQ0hTDQpDb21tZW50PUJPQ0hTIEVtdWxhdG9yDQpFeGVjPS91c3IvYmluL2JvY2hzDQpUZXJtaW5hbD10cnVlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPS91c3Ivc2hhcmUvYm9jaHMvaWNvbl9ib2Nocy54cG0NCkNhdGVnb3JpZXM9U3lzdGVtO0VtdWxhdG9yOw0KRU9G</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libvncserver</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2_net</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2_mixer</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

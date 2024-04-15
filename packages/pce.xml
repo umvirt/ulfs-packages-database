@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>pce</code>
+  <description>UENFIGlzIGEgY29sbGVjdGlvbiBvZiBtaWNyb2NvbXB1dGVyIGVtdWxhdG9ycy4=</description>
+  <sourcefile>pce-20240122-5a67b2a9.tar.gz</sourcefile>
+  <sourcedir>pce-20240122-5a67b2a9</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtc2RsIC0tZW5hYmxlLW1hY3BsdXMgLS1kaXNhYmxlLXN0YXRpYw==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
