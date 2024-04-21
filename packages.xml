@@ -797,5 +797,46 @@
     <package>openal</package>
     <package>SDL2_mixer</package>
     <package>bochs</package>
+    <package>blender</package>
+    <package>freetype-stage3</package>
+    <package>openexr</package>
+    <package>fftw-single</package>
+    <package>openmpi</package>
+    <package>gcc</package>
+    <package>valgrind</package>
+    <package>libtool</package>
+    <package>prrte</package>
+    <package>pmix</package>
+    <package>OpenCOLLADA</package>
+    <package>fftw-double</package>
+    <package>fftw-longdouble</package>
+    <package>fftw-quad</package>
+    <package>jemalloc</package>
+    <package>libspnav</package>
+    <package>OpenShadingLanguage</package>
+    <package>OpenImageIO</package>
+    <package>python3-pybind11</package>
+    <package>robin-map</package>
+    <package>fmt</package>
+    <package>pugixml</package>
+    <package>openvdb</package>
+    <package>oneTBB</package>
+    <package>c-blosc2</package>
+    <package>c-blosc</package>
+    <package>nanovdb</package>
+    <package>alembic</package>
+    <package>hdf5</package>
+    <package>OpenUSD</package>
+    <package>OpenSubdiv</package>
+    <package>python3-Imath</package>
+    <package>libdeflate</package>
+    <package>python3-pyside6</package>
+    <package>MaterialX</package>
+    <package>OpenColorIO</package>
+    <package>minizip-ng</package>
+    <package>pystring</package>
+    <package>yaml-cpp</package>
+    <package>embree</package>
+    <package>glfw</package>
   </packages>
 </packages>

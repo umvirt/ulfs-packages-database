@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>openexr</code>
+  <description>VGhlIE9wZW5FWFIgcHJvamVjdCBwcm92aWRlcyB0aGUgc3BlY2lmaWNhdGlvbiBhbmQgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBFWFIgZmlsZSBmb3JtYXQsIHRoZSBwcm9mZXNzaW9uYWwtZ3JhZGUgaW1hZ2Ugc3RvcmFnZSBmb3JtYXQgb2YgdGhlIG1vdGlvbiBwaWN0dXJlIGluZHVzdHJ5Lg==</description>
+  <sourcefile>openexr-v3.2.4.tar.gz</sourcefile>
+  <sourcedir>openexr-v3.2.4</sourcedir>
+  <unpack>bWtkaXIgb3BlbmV4ci12My4yLjQNCmNkIG9wZW5leHItdjMuMi40DQp0YXIgLXhmIC4uL29wZW5leHItdjMuMi40LnRhci5neg0KY2QgLi4=</unpack>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAuLg==</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-Imath</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libdeflate</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

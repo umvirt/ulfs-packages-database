@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>python3-Imath</code>
+  <description>SW1hdGggaXMgYSBDKysgYW5kIHB5dGhvbiBsaWJyYXJ5IG9mIDJEIGFuZCAzRCB2ZWN0b3IsIG1hdHJpeCwgYW5kIG1hdGggb3BlcmF0aW9ucyBmb3IgY29tcHV0ZXIgZ3JhcGhpY3M=</description>
+  <sourcefile>Imath-3.1.11.tar.gz</sourcefile>
+  <sourcedir>Imath-3.1.11</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURQWVRIT049T04gICAuLg==</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

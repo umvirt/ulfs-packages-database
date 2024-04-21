@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>gcc</code>
+  <description>VGhlIEdDQyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBHTlUgQ29tcGlsZXIgQ29sbGVjdGlvbi4=</description>
+  <sourcefile>gcc-13.2.0.tar.xz</sourcefile>
+  <sourcedir>gcc-13.2.0</sourcedir>
+  <unpack/>
+  <configure>Y2FzZSAkKHVuYW1lIC1tKSBpbg0KICB4ODZfNjQpDQogICAgc2VkIC1pLm9yaWcgJy9tNjQ9L3MvbGliNjQvbGliLycgZ2NjL2NvbmZpZy9pMzg2L3QtbGludXg2NA0KICA7Ow0KZXNhYw0KDQpta2RpciBidWlsZCAgICAgICAgICAgICAgICYmDQpjZCAgICBidWlsZCAgICAgICAgICAgICAgICYmDQoNCi4uL2NvbmZpZ3VyZSAgICAgICAgICAgICAgXA0KICAgIC0tcHJlZml4PS91c3IgICAgICAgICBcDQogICAgLS1kaXNhYmxlLW11bHRpbGliICAgIFwNCiAgICAtLXdpdGgtc3lzdGVtLXpsaWIgICAgXA0KICAgIC0tZW5hYmxlLWRlZmF1bHQtcGllICBcDQogICAgLS1lbmFibGUtZGVmYXVsdC1zc3AgIFwNCiAgICAtLWRpc2FibGUtZml4aW5jbHVkZXMgXA0KICAgIC0tZW5hYmxlLWxhbmd1YWdlcz1jLGMrKyxmb3J0cmFuLGdvLG9iamMsb2JqLWMrKyxtMg==</configure>
+  <build>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAmJg0KbWFrZQ==</build>
+  <install>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAmJg0KDQptYWtlIGluc3RhbGwgJiYNCg0KbWtkaXIgLXB2IC91c3Ivc2hhcmUvZ2RiL2F1dG8tbG9hZC91c3IvbGliICAgICAgICAgICAgICAmJg0KbXYgLXYgL3Vzci9saWIvKmdkYi5weSAvdXNyL3NoYXJlL2dkYi9hdXRvLWxvYWQvdXNyL2xpYiAmJg0KDQpjaG93biAtdiAtUiByb290OnJvb3QgXA0KICAgIC91c3IvbGliL2djYy8qbGludXgtZ251LzEzLjIuMC9pbmNsdWRleywtZml4ZWR9</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

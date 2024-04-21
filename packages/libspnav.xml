@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libspnav</code>
+  <description>TGlicmFyeSBmb3IgY29tbXVuaWNhdGluZyB3aXRoIHNwYWNlbmF2ZCBvciAzZHhzcnYgdG8gZ2V0IGlucHV0IGZyb20gNi1kb2YgZGV2aWNlcy4=</description>
+  <sourcefile>libspnav-1.1.tar.gz</sourcefile>
+  <sourcedir>libspnav-1.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

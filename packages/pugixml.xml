@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>pugixml</code>
+  <description>TGlnaHQtd2VpZ2h0LCBzaW1wbGUgYW5kIGZhc3QgWE1MIHBhcnNlciBmb3IgQysrIHdpdGggWFBhdGggc3VwcG9ydA==</description>
+  <sourcefile>pugixml-1.14.tar.gz</sourcefile>
+  <sourcedir>pugixml-1.14</sourcedir>
+  <unpack/>
+  <configure>Y21ha2UgLUIgYnVpbGQgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICBcDQogICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlDQo=</configure>
+  <build>bWFrZSAtQyBidWlsZA==</build>
+  <install>bWFrZSAtQyBidWlsZCBpbnN0YWxsDQo=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

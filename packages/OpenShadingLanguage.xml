@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>OpenShadingLanguage</code>
+  <description>QWR2YW5jZWQgc2hhZGluZyBsYW5ndWFnZSBmb3IgcHJvZHVjdGlvbiBHSSByZW5kZXJlcnM=</description>
+  <sourcefile>OpenShadingLanguage-1.13.8.0.tar.gz</sourcefile>
+  <sourcedir>OpenShadingLanguage-1.13.8.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EQ01BS0VfQ1hYX1NUQU5EQVJEPTE3ICAgICAgXA0KICAgICAgLURTVE9QX09OX1dBUk5JTkc9T0ZGICAgICAgICBcDQogICAgICAuLg==</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>OpenImageIO</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pybind11</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pugixml</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

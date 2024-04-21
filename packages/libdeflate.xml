@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libdeflate</code>
+  <description>SGVhdmlseSBvcHRpbWl6ZWQgbGlicmFyeSBmb3IgREVGTEFURS96bGliL2d6aXAgY29tcHJlc3Npb24gYW5kIGRlY29tcHJlc3Npb24=</description>
+  <sourcefile>libdeflate-1.20.tar.gz</sourcefile>
+  <sourcedir>libdeflate-1.20</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIC4uDQo=</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCg==</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

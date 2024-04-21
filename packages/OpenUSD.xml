@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>OpenUSD</code>
+  <description>VW5pdmVyc2FsIFNjZW5lIERlc2NyaXB0aW9uIChVU0QpIGlzIGFuIGVmZmljaWVudCwgc2NhbGFibGUgc3lzdGVtIGZvciBhdXRob3JpbmcsIHJlYWRpbmcsIGFuZCBzdHJlYW1pbmcgdGltZS1zYW1wbGVkIHNjZW5lIGRlc2NyaXB0aW9uIGZvciBpbnRlcmNoYW5nZSBiZXR3ZWVuIGdyYXBoaWNzIGFwcGxpY2F0aW9ucy4=</description>
+  <sourcefile>OpenUSD-24.03.tar.gz</sourcefile>
+  <sourcedir>OpenUSD-24.03</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgLi4=</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>alembic</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>OpenSubdiv</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pyside6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

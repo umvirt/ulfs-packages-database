@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>glfw</code>
+  <description>QSBtdWx0aS1wbGF0Zm9ybSBsaWJyYXJ5IGZvciBPcGVuR0wsIE9wZW5HTCBFUywgVnVsa2FuLCB3aW5kb3cgYW5kIGlucHV0</description>
+  <sourcefile>glfw-3.4.tar.gz</sourcefile>
+  <sourcedir>glfw-3.4</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgICAgYnVpbGQNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIC4u</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCg==</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

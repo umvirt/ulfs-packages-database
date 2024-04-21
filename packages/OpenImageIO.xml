@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>OpenImageIO</code>
+  <description>UmVhZGluZywgd3JpdGluZywgYW5kIHByb2Nlc3NpbmcgaW1hZ2VzIGluIGEgd2lkZSB2YXJpZXR5IG9mIGZpbGUgZm9ybWF0cywgdXNpbmcgYSBmb3JtYXQtYWdub3N0aWMgQVBJLCBhaW1lZCBhdCBWRlggYXBwbGljYXRpb25zLg==</description>
+  <sourcefile>OpenImageIO-2.5.9.0.tar.gz</sourcefile>
+  <sourcedir>OpenImageIO-2.5.9.0</sourcedir>
+  <unpack/>
+  <configure>I2V4cG9ydCBwdWdpeG1sX0RJUj0vdXNyDQoNCiNta2RpciAtdiBidWlsZCAmJg0KI2NkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtQmJ1aWxkIFwNCiAgICAtR05pbmphIFwNCiAgICAtRFVTRV9QWVRIT049T04gXA0KLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgIFwNCiAgLURDTUFLRV9JTlNUQUxMX0xJQkRJUj1saWIgXA0KLURDTUFLRV9DWFhfU1RBTkRBUkQ9MTcgXA0KLURCVUlMRF9NSVNTSU5HX0ZNVD1PRkYgXA0KICAgIC1EU1RPUF9PTl9XQVJOSU5HPU9GRiBcDQogICAgLURPSUlPX0JVSUxEX1RFU1RTPU9GRiBcDQogICAgLURPSUlPX0JVSUxEX1RPT0xTPU9GRiANCg==</configure>
+  <build>bmluamEgLUMgYnVpbGQNCg==</build>
+  <install>IG5pbmphIC1DIGJ1aWxkIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-pybind11</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>robin-map</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fmt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pugixml</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

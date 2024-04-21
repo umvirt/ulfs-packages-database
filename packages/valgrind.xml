@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>valgrind</code>
+  <description>VmFsZ3JpbmQgaXMgYW4gaW5zdHJ1bWVudGF0aW9uIGZyYW1ld29yayBmb3IgYnVpbGRpbmcgZHluYW1pYyBhbmFseXNpcyB0b29scy4=</description>
+  <sourcefile>valgrind-3.22.0.tar.bz2</sourcefile>
+  <sourcedir>valgrind-3.22.0</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzfC9kb2MvdmFsZ3JpbmR8fCcgZG9jcy9NYWtlZmlsZS5pbiAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0tZGF0YWRpcj0vdXNyL3NoYXJlL2RvYy92YWxncmluZC0zLjIyLjA=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>python3-pybind11</code>
+  <description>U2VhbWxlc3Mgb3BlcmFiaWxpdHkgYmV0d2VlbiBDKysxMSBhbmQgUHl0aG9u</description>
+  <sourcefile>pybind11-2.12.0.tar.gz</sourcefile>
+  <sourcedir>pybind11-2.12.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHB5YmluZDExDQoNCnNlZCAtZSAncy9cJHtwY2ZpbGVkaXJ9XC8uLlwvLi5cLy9cL3Vzci8nIC1pIGJ1aWxkL2xpYi9weWJpbmQxMS9zaGFyZS9wa2djb25maWcvcHliaW5kMTEucGMNCg0KbWtkaXIgLXYgL3Vzci9saWIvY21ha2UvcHliaW5kMTENCg0KaW5zdGFsbCAtdiAtZCAtbTc1NSBidWlsZC9saWIvcHliaW5kMTEvc2hhcmUvY21ha2UvcHliaW5kMTEgL3Vzci9saWIvY21ha2UNCmluc3RhbGwgLXYgLW02NDQgYnVpbGQvbGliL3B5YmluZDExL3NoYXJlL2NtYWtlL3B5YmluZDExLyogL3Vzci9saWIvY21ha2UvcHliaW5kMTENCmluc3RhbGwgLXYgLW02NDQgYnVpbGQvbGliL3B5YmluZDExL3NoYXJlL3BrZ2NvbmZpZy9weWJpbmQxMS5wYyAvdXNyL2xpYi9wa2djb25maWcNCg0KY3AgLXJ2ICBidWlsZC9saWIvcHliaW5kMTEvaW5jbHVkZS9weWJpbmQxMSAvdXNyL2luY2x1ZGUv</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>nanovdb</code>
+  <description>QSBsaWdodHdlaWdodCBHUFUgZnJpZW5kbHkgdmVyc2lvbiBvZiBWREIgaW5pdGlhbGx5IHRhcmdldGluZyByZW5kZXJpbmcgYXBwbGljYXRpb25zLg==</description>
+  <sourcefile>openvdb-11.0.0.tar.gz</sourcefile>
+  <sourcedir>openvdb-11.0.0</sourcedir>
+  <unpack/>
+  <configure>Y2QgbmFub3ZkYi9uYW5vdmRiDQoNCm1rZGlyIC12IGJ1aWxkICYmDQpjZCAgICAgICBidWlsZCAmJg0KDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgLi4=</configure>
+  <build>Y2QgICAgICAgbmFub3ZkYi9uYW5vdmRiL2J1aWxkICYmDQptYWtl</build>
+  <install>Y2QgICAgICAgbmFub3ZkYi9uYW5vdmRiL2J1aWxkICYmDQptYWtlIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>openvdb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
