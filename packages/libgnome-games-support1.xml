@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libgnome-games-support1</code>
+  <description/>
+  <sourcefile>libgnome-games-support-1.8.2.tar.xz</sourcefile>
+  <sourcedir>libgnome-games-support-1.8.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC4u</configure>
+  <build>Y2QgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

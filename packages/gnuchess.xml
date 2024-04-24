@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>gnuchess</code>
+  <description>R05VIENoZXNzIGlzIGEgY2hlc3MtcGxheWluZyBwcm9ncmFtLg==</description>
+  <sourcefile>gnuchess-6.2.9.tar.gz</sourcefile>
+  <sourcedir>gnuchess-6.2.9</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

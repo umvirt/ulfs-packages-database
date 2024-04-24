@@ -849,5 +849,17 @@
     <package>faac</package>
     <package>xvidcore</package>
     <package>cool-retro-term</package>
+    <package>gnuchess</package>
+    <package>gnome-chess</package>
+    <package>gnome-mines</package>
+    <package>libgnome-games-support1</package>
+    <package>gnome-sudoku</package>
+    <package>qqwing</package>
+    <package>quadrapassel</package>
+    <package>libmanette</package>
+    <package>libgnome-games-support2</package>
+    <package>gnome-nibbles</package>
+    <package>five-or-more</package>
+    <package>games-gnome</package>
   </packages>
 </packages>
