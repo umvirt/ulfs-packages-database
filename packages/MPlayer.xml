@@ -146,7 +146,7 @@
       <mode>1</mode>
     </patch>
     <patch>
-      <filename>ffmpeg-6.0-binutils_2.41-1.patch</filename>
+      <filename>mplayer-ffmpeg-6.0-binutils_2.41-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>
