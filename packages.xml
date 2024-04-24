@@ -838,5 +838,16 @@
     <package>yaml-cpp</package>
     <package>embree</package>
     <package>glfw</package>
+    <package>pigz</package>
+    <package>uchardet</package>
+    <package>Vulkan-Headers</package>
+    <package>Vulkan-Loader</package>
+    <package>mpv</package>
+    <package>python3-glad2</package>
+    <package>libplacebo</package>
+    <package>MPlayer</package>
+    <package>faac</package>
+    <package>xvidcore</package>
+    <package>cool-retro-term</package>
   </packages>
 </packages>

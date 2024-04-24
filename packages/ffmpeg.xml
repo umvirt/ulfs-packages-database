@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>xvidcore</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>freetype-stage2</code>
       <weight>1</weight>
     </dependance>

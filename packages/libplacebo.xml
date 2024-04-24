@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libplacebo</code>
+  <description>VGhlIGxpYnBsYWNlYm8gcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHByb2Nlc3NpbmcgaW1hZ2UgYW5kIHZpZGVvIHByaW1pdGl2ZXMgYW5kIHNoYWRlcnMuIEl0IGFsc28gaW5jbHVkZXMgYSBoaWdoIHF1YWxpdHkgcmVuZGVyaW5nIHBpcGVsaW5lIHRoYXQgc3VwcG9ydHMgT3BlbkdMIGFuZCBWdWxrYW4u</description>
+  <sourcefile>libplacebo-6.338.2.tar.gz</sourcefile>
+  <sourcedir>libplacebo-6.338.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EdGVzdHM9dHJ1ZSAgICAgICAgXA0KICAgICAgLURkZW1vcz1mYWxzZSA=</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>lcms2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ffmpeg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glslang</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Vulkan-Loader</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-glad2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

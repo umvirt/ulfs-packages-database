@@ -16,6 +16,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>Vulkan-Loader</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>llvm</code>
       <weight>1</weight>
     </dependance>
