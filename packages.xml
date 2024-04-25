@@ -861,5 +861,6 @@
     <package>gnome-nibbles</package>
     <package>five-or-more</package>
     <package>games-gnome</package>
+    <package>virglrenderer</package>
   </packages>
 </packages>
