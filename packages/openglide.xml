@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>openglide</code>
+  <description>T3BlbkdMaWRlIGlzIGEgR2xpZGUgdG8gT3BlbkdMIHdyYXBwZXIuIEl0IGVtdWxhdGVzIGEgVm9vZG9vIGJvYXJkIHNvIHlvdSBjYW4gcnVuIG9sZCBXaW5kb3dzIEdsaWRlIGdhbWVzIGJ5IHRyYW5zbGF0aW5nIEdsaWRlIGNhbGxzIGludG8gT3BlbkdMLg==</description>
+  <sourcefile>openglide-2c88b483f3c526df0929ad783794a61cd0c34353.tar.gz</sourcefile>
+  <sourcedir>openglide-2c88b483f3c526df0929ad783794a61cd0c34353</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>SDL</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

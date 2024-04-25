@@ -862,5 +862,6 @@
     <package>five-or-more</package>
     <package>games-gnome</package>
     <package>virglrenderer</package>
+    <package>openglide</package>
   </packages>
 </packages>
