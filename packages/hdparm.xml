@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>hdparm</code>
+  <description>VGhlIEhkcGFybSBwYWNrYWdlIGNvbnRhaW5zIGEgdXRpbGl0eSB0aGF0IGlzIHVzZWZ1bCBmb3Igb2J0YWluaW5nIGluZm9ybWF0aW9uIGFib3V0LCBhbmQgY29udHJvbGxpbmcgQVRBL0lERSBjb250cm9sbGVycyBhbmQgaGFyZCBkcml2ZXMuIEl0IGFsbG93cyB0byBpbmNyZWFzZSBwZXJmb3JtYW5jZSBhbmQgc29tZXRpbWVzIHRvIGluY3JlYXNlIHN0YWJpbGl0eS4NCg0K</description>
+  <sourcefile>hdparm-9.65.tar.gz</sourcefile>
+  <sourcedir>hdparm-9.65</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBiaW5wcmVmaXg9L3VzciBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

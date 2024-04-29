@@ -863,5 +863,14 @@
     <package>games-gnome</package>
     <package>virglrenderer</package>
     <package>openglide</package>
+    <package>unrar</package>
+    <package>mtools</package>
+    <package>tmux</package>
+    <package>hdparm</package>
+    <package>netcat</package>
+    <package>netcat-openbsd</package>
+    <package>socat</package>
+    <package>libmd</package>
+    <package>libbsd</package>
   </packages>
 </packages>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libbsd</code>
+  <description>VGhpcyBsaWJyYXJ5IHByb3ZpZGVzIHVzZWZ1bCBmdW5jdGlvbnMgY29tbW9ubHkgZm91bmQgb24gQlNEIHN5c3RlbXMsIGFuZCBsYWNraW5nIG9uIG90aGVycyBsaWtlIEdOVSBzeXN0ZW1zLCB0aHVzIG1ha2luZyBpdCBlYXNpZXIgdG8gcG9ydCBwcm9qZWN0cyB3aXRoIHN0cm9uZyBCU0Qgb3JpZ2lucywgd2l0aG91dCBuZWVkaW5nIHRvIGVtYmVkIHRoZSBzYW1lIGNvZGUgb3ZlciBhbmQgb3ZlciBhZ2FpbiBvbiBlYWNoIHByb2plY3Qu</description>
+  <sourcefile>libbsd-0.12.2.tar.xz</sourcefile>
+  <sourcedir>libbsd-0.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
