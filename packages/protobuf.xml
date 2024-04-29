@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>protobuf</code>
+  <description>UHJvdG9jb2wgQnVmZmVycyAtIEdvb2dsZSdzIGRhdGEgaW50ZXJjaGFuZ2UgZm9ybWF0</description>
+  <sourcefile>protobuf-26.1.tar.gz</sourcefile>
+  <sourcedir>protobuf-26.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQotRCBDTUFLRV9CVUlMRF9UWVBFPU5vbmUgXA0KLUQgcHJvdG9idWZfQUJTTF9QUk9WSURFUj1wYWNrYWdlIFwNCi1EIHByb3RvYnVmX0JVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCi1EIHByb3RvYnVmX1VTRV9FWFRFUk5BTF9HVEVTVD1PTiBcDQotRCBDTUFLRV9DX0ZMQUdTPSIkQ0ZMQUdTIC1mZmF0LWx0by1vYmplY3RzIiBcDQotRCBDTUFLRV9DWFhfRkxBR1M9IiRDWFhGTEFHUyAtZmZhdC1sdG8tb2JqZWN0cyIgXA0KLi4=</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>abseil-cpp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>googletest</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

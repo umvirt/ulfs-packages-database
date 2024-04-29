@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>abseil-cpp</code>
+  <description>QWJzZWlsIENvbW1vbiBMaWJyYXJpZXMgKEMrKyk=</description>
+  <sourcefile>abseil-cpp-20240116.2.tar.gz</sourcefile>
+  <sourcedir>abseil-cpp-20240116.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQogICAgICAtREFCU0xfQlVJTERfVEVTVF9IRUxQRVJTPU9OIFwNCiAgICAgIC1EQUJTTF9VU0VfRVhURVJOQUxfR09PR0xFVEVTVD1PTiBcDQogICAgICAtREFCU0xfRklORF9HT09HTEVURVNUPU9OIFwNCiAgICAgIC1EQUJTTF9CVUlMRF9URVNUSU5HPU9OIFwNCiAgICAgIC4uDQo=</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>googletest</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>abseil-cpp-protobuf.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

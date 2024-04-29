@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>spdlog</code>
+  <description>RmFzdCBDKysgbG9nZ2luZyBsaWJyYXJ5Lg==</description>
+  <sourcefile>spdlog-1.14.0.tar.gz</sourcefile>
+  <sourcedir>spdlog-1.14.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQouLg==</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

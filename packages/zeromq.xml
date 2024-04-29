@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>zeromq</code>
+  <description>WmVyb01RIGNvcmUgZW5naW5lIGluIEMrKywgaW1wbGVtZW50cyBaTVRQLzMuMQ==</description>
+  <sourcefile>zeromq-4.3.5.tar.gz</sourcefile>
+  <sourcedir>zeromq-4.3.5</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

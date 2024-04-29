@@ -872,5 +872,12 @@
     <package>socat</package>
     <package>libmd</package>
     <package>libbsd</package>
+    <package>zeromq</package>
+    <package>protobuf</package>
+    <package>abseil-cpp</package>
+    <package>spdlog</package>
+    <package>assimp</package>
+    <package>HackMatrix</package>
+    <package>googletest</package>
   </packages>
 </packages>
