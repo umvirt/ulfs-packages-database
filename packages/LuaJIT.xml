@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>LuaJIT</code>
+  <description>SnVzdC1Jbi1UaW1lIENvbXBpbGVyIGZvciBMdWEu</description>
+  <sourcefile>LuaJIT-2.1.ROLLING.tar.gz</sourcefile>
+  <sourcedir>LuaJIT-2.1.ROLLING</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIE1ha2VmaWxlDQo=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

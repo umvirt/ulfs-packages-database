@@ -879,5 +879,9 @@
     <package>assimp</package>
     <package>HackMatrix</package>
     <package>googletest</package>
+    <package>obs-studio</package>
+    <package>LuaJIT</package>
+    <package>libglvnd</package>
+    <package>libvpl</package>
   </packages>
 </packages>

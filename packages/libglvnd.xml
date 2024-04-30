@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libglvnd</code>
+  <description>VGhlIEdMIFZlbmRvci1OZXV0cmFsIERpc3BhdGNoIGxpYnJhcnk=</description>
+  <sourcefile>libglvnd-1.7.0.tar.gz</sourcefile>
+  <sourcedir>libglvnd-1.7.0</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>xorgproto</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libX11</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libXext</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
