@@ -6,7 +6,7 @@
   <sourcefile>obs-studio-30.1.2.tar.gz</sourcefile>
   <sourcedir>obs-studio-30.1.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1HIE5pbmphIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICAgLURFTkFCTEVfUExVR0lOUz1PRkYgXA0KICAgICAgICAtREVOQUJMRV9CUk9XU0VSPU9GRiBcDQoJLURFTkFCTEVfUElQRVdJUkU9T0ZGIFwNCgktREVOQUJMRV9BSkE9MCBcDQogICAgICAgIC1ERU5BQkxFX1dFQlJUQz0wIFwNCgktRFFUX1ZFUlNJT049NiBcDQogICAgICAgIC4u</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1HIE5pbmphIFwNCiAgICAgICAgLURFTkFCTEVfTkVXX01QRUdUU19PVVRQVVQ9T0ZGIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICAgLURFTkFCTEVfQlJPV1NFUj1PRkYgXA0KCS1ERU5BQkxFX1BJUEVXSVJFPU9GRiBcDQoJLURFTkFCTEVfQUpBPTAgXA0KICAgICAgICAtREVOQUJMRV9XRUJSVEM9MCBcDQoJLURRVF9WRVJTSU9OPTYgXA0KICAgICAgICAuLg0K</configure>
   <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
   <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
@@ -80,7 +80,12 @@
       <weight>0</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>obs-studio-no-browser.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
