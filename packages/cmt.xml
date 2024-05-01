@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>cmt</code>
+  <description>Q29tcHV0ZXIgTXVzaWMgVG9vbGtpdCBMQURTUEEgcGx1Z2luIGNvbGxlY3Rpb24=</description>
+  <sourcefile>cmt_1.18.tgz</sourcefile>
+  <sourcedir>cmt_1.18</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Y2Qgc3JjDQptYWtl</build>
+  <install>Y2Qgc3JjDQptYWtlIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>ladspa</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

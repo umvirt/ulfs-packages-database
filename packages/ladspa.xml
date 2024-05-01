@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>ladspa</code>
+  <description>TGludXggQXVkaW8gRGV2ZWxvcGVyJ3MgU2ltcGxlIFBsdWdpbiBBUEkgKExBRFNQQSk=</description>
+  <sourcefile>ladspa_sdk_1.17.tgz</sourcefile>
+  <sourcedir>ladspa_sdk_1.17</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Y2Qgc3JjDQptYWtl</build>
+  <install>Y2Qgc3JjDQptYWtlIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>mlt</code>
+  <description>TUxUIE11bHRpbWVkaWEgRnJhbWV3b3Jr</description>
+  <sourcefile>mlt-7.24.0.tar.gz</sourcefile>
+  <sourcedir>mlt-7.24.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

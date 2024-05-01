@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>glaxnimate</code>
+  <description>R2xheG5pbWF0ZSBpcyBhIHNpbXBsZSBhbmQgZmFzdCB2ZWN0b3IgZ3JhcGhpY3MgYW5pbWF0aW9uIHByb2dyYW0u</description>
+  <sourcefile>glaxnimate-src.tar.gz</sourcefile>
+  <sourcedir>glaxnimate</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0KaW5zdGFsbCAtdiAtbTY0NCBzaGFyZS9nbGF4bmltYXRlL2dsYXhuaW1hdGUvZ2xheG5pbWF0ZS5kZXNrdG9wIC91c3Ivc2hhcmUvYXBwbGljYXRpb25z</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libarchive</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libavif</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>potrace</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

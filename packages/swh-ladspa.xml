@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>swh-ladspa</code>
+  <description>U1dIIExBRFNQQSBwbHVnaW5z</description>
+  <sourcefile>ladspa-0.4.17.tar.gz</sourcefile>
+  <sourcedir>ladspa-0.4.17</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

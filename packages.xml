@@ -883,5 +883,16 @@
     <package>LuaJIT</package>
     <package>libglvnd</package>
     <package>libvpl</package>
+    <package>mlt</package>
+    <package>frei0r-plugins</package>
+    <package>shotcut</package>
+    <package>glaxnimate</package>
+    <package>ladspa</package>
+    <package>cmt</package>
+    <package>swh-ladspa</package>
+    <package>movit</package>
+    <package>eigen</package>
+    <package>jack2</package>
+    <package>waf</package>
   </packages>
 </packages>
