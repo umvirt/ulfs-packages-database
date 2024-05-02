@@ -901,5 +901,14 @@
     <package>cdemu-client</package>
     <package>gcdemu</package>
     <package>dia</package>
+    <package>ddrescue</package>
+    <package>testdisk</package>
+    <package>VeraCrypt</package>
+    <package>mhash</package>
+    <package>udis86</package>
+    <package>wxHexEditor</package>
+    <package>lzip</package>
+    <package>pcsc-lite</package>
+    <package>fuse2</package>
   </packages>
 </packages>

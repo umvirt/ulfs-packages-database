@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>testdisk</code>
+  <description>VGVzdERpc2sgaXMgcG93ZXJmdWwgZnJlZSBkYXRhIHJlY292ZXJ5IHNvZnR3YXJlLg==</description>
+  <sourcefile>testdisk-7.2.tar.bz2</sourcefile>
+  <sourcedir>testdisk-7.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

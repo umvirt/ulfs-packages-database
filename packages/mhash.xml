@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>mhash</code>
+  <description>TGlibWhhc2ggaXMgYSBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgYSB1bmlmb3JtIGludGVyZmFjZSB0byBzZXZlcmFsIGhhc2ggYWxnb3JpdGhtcy4gSXQgc3VwcG9ydHMgdGhlIGJhc2ljcyBmb3IgbWVzc2FnZSBhdXRoZW50aWNhdGlvbiBieSBmb2xsb3dpbmcgcmZjMjEwNCAoSE1BQykuIEl0IGFsc28gaW5jbHVkZXMgc29tZSBrZXkgZ2VuZXJhdGlvbiBhbGdvcml0aG1zIHdoaWNoIGFyZSBiYXNlZCBvbiBoYXNoIGFsZ29yaXRobXMu</description>
+  <sourcefile>mhash-0.9.9.9.tar.bz2</sourcefile>
+  <sourcedir>mhash-0.9.9.9</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
