@@ -6,13 +6,21 @@
   <sourcefile>wxWidgets-3.2.4.tar.bz2</sourcefile>
   <sourcedir>wxWidgets-3.2.4</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtZ3Rr</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
       <weight>0</weight>
     </dependance>
   </dependances>
