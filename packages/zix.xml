@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>zix</code>
+  <description>QSBsaWdodHdlaWdodCBDIGxpYnJhcnkgb2YgcG9ydGFiaWxpdHkgd3JhcHBlcnMgYW5kIGRhdGEgc3RydWN0dXJlcw==</description>
+  <sourcefile>zix-0.4.2.tar.gz</sourcefile>
+  <sourcedir>zix-0.4.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

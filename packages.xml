@@ -910,5 +910,24 @@
     <package>lzip</package>
     <package>pcsc-lite</package>
     <package>fuse2</package>
+    <package>audacity</package>
+    <package>portaudio</package>
+    <package>rapidjson</package>
+    <package>vamp-plugin-sdk</package>
+    <package>lilv</package>
+    <package>zix</package>
+    <package>serd</package>
+    <package>sord</package>
+    <package>lv2</package>
+    <package>sratom</package>
+    <package>suil</package>
+    <package>libsbsms</package>
+    <package>twolame</package>
+    <package>soxr</package>
+    <package>portsmf</package>
+    <package>portmidi</package>
+    <package>vst3sdk</package>
+    <package>libid3tag</package>
+    <package>wavpack</package>
   </packages>
 </packages>

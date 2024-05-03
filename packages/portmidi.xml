@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>portmidi</code>
+  <description>cG9ydG1pZGkgaXMgYSBjcm9zcy1wbGF0Zm9ybSBNSURJIGlucHV0L291dHB1dCBsaWJyYXJ5</description>
+  <sourcefile>portmidi-2.0.4.tar.gz</sourcefile>
+  <sourcedir>portmidi-2.0.4</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgICAuLg0KDQo=</configure>
+  <build>Y2QgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

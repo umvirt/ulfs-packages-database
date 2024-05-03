@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>vst3sdk</code>
+  <description>VlNUIDMgUGx1Zy1JbiBTREs=</description>
+  <sourcefile>vst3sdk-7d92338ae922db2d559ac458824a4df40f37e82e.tar.bz2</sourcefile>
+  <sourcedir>vst3sdk-7d92338ae922db2d559ac458824a4df40f37e82e</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>c2VkIC1lICJzL1ZFUlNJT04vMy43LjExX2J1aWxkXzEwLyIgLWkgdnN0M3Nkay5wYw0KDQoNCmluc3RhbGwgLXZkbSA3NTUgIi91c3Ivc3JjL3ZzdDNzZGsvIg0KcnN5bmMgLXIgLS1leGNsdWRlIGRvYyAtLWV4Y2x1ZGUgLmdpdCAtLWV4Y2x1ZGUgLmdpdGh1YiAtLWV4Y2x1ZGUgLmdpdGlnbm9yZSAtLWV4Y2x1ZGUgLmdpdGF0dHJpYnV0ZXMgLiAiL3Vzci9zcmMvdnN0M3Nkay8iDQoNCmluc3RhbGwgLXZEbSA2NDQgdnN0M3Nkay5wYyAtdCAiL3Vzci9saWIvcGtnY29uZmlnLyINCmluc3RhbGwgLXZEbSA2NDQgY21ha2UvbW9kdWxlcy8qLmNtYWtlIC10ICIvdXNyL2xpYi9jbWFrZS92c3Qzc2RrLyI=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>vst3sdk-3.7.9_build_61-cmake-build-type-none.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

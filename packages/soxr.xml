@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>soxr</code>
+  <description>SGlnaCBxdWFsaXR5LCBvbmUtZGltZW5zaW9uYWwgc2FtcGxlLXJhdGUgY29udmVyc2lvbiBsaWJyYXJ5Lg==</description>
+  <sourcefile>soxr-0.1.3-Source.tar.xz</sourcefile>
+  <sourcedir>soxr-0.1.3-Source</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC4uIC1HIE5pbmphIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtREJVSUxEX0VYQU1QTEVTPU9GRiBcDQogICAgLURCVUlMRF9TSEFSRURfTElCUz1PTg0K</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>wavpack</code>
+  <description>V2F2UGFjayBpcyBhIGNvbXBsZXRlbHkgb3BlbiBhdWRpbyBjb21wcmVzc2lvbiBmb3JtYXQgcHJvdmlkaW5nIGxvc3NsZXNzLCBoaWdoLXF1YWxpdHkgbG9zc3ksIGFuZCBhIHVuaXF1ZSBoeWJyaWQgY29tcHJlc3Npb24gbW9kZS4g</description>
+  <sourcefile>wavpack-5.7.0.tar.bz2</sourcefile>
+  <sourcedir>wavpack-5.7.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtYXNt</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
