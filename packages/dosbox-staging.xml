@@ -71,6 +71,10 @@
       <code>libmt32emu</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>openglide</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches>
     <patch>
