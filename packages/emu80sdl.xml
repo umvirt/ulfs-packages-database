@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>emu80sdl</code>
+  <description>U292aWV0IHJldHJvIGNvbXB1dGVyIGVtdWxhdG9yLiBTREwgdmVyc2lvbi4=</description>
+  <sourcefile>emu80v4-4.0.466.tar.gz</sourcefile>
+  <sourcedir>emu80v4-4.0.466</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICJzfH4vZW11ODB8L29wdC9lbXU4MHNkbHwiIC1pIE1ha2VmaWxlLnNkbHd4</configure>
+  <build>bWFrZSAtZiBNYWtlZmlsZS5zZGx3eA0K</build>
+  <install>bWFrZSBpbnN0YWxsIC1mIE1ha2VmaWxlLnNkbHd4DQoNCmNhdCA+IC91c3Ivc2hhcmUvYXBwbGljYXRpb25zL2VtdTgwc2RsLmRlc2t0b3AgPDwgRU9GDQpbRGVza3RvcCBFbnRyeV0NCk5hbWU9RW11ODBzZGwNCkNvbW1lbnQ9U292aWV0IHJldHJvIGNvbXB1dGVyIGVtdWxhdG9yDQpFeGVjPS9vcHQvZW11ODBzZGwvRW11ODANClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9U3lzdGVtDQpFT0YNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

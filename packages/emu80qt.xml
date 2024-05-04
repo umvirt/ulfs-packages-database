@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>emu80qt</code>
+  <description>U292aWV0IHJldHJvIGNvbXB1dGVyIGVtdWxhdG9yLiBRVCB2ZXJzaW9uLg==</description>
+  <sourcefile>emu80v4-4.0.466.tar.gz</sourcefile>
+  <sourcedir>emu80v4-4.0.466</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICJzfH4vZW11ODB8L29wdC9lbXU4MHF0fCIgLWkgc3JjL0VtdTgwcXQucHJvDQoNCnFtYWtlIHNyYy9FbXU4MHF0LnBybw==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQpjYXQgPiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9lbXU4MHF0LmRlc2t0b3AgPDwgRU9GDQpbRGVza3RvcCBFbnRyeV0NCk5hbWU9RW11ODBxdA0KQ29tbWVudD1Tb3ZpZXQgcmV0cm8gY29tcHV0ZXIgZW11bGF0b3INCkV4ZWM9L29wdC9lbXU4MHF0L0VtdTgwcXQNClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9U3lzdGVtDQpFT0Y=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

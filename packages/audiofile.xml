@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>audiofile</code>
+  <description>VGhlIEF1ZGlvIEZpbGUgTGlicmFyeSBpcyBhIEMtYmFzZWQgbGlicmFyeSBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBhdWRpbyBmaWxlcyBpbiBtYW55IGNvbW1vbiBmb3JtYXRzLg==</description>
+  <sourcefile>audiofile-0.3.6.tar.gz</sourcefile>
+  <sourcedir>audiofile-0.3.6</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>fuse-emulator</code>
+  <description>RnVzZSAodGhlIEZyZWUgVW5peCBTcGVjdHJ1bSBFbXVsYXRvcikgYSBaWCBTcGVjdHJ1bSBlbXVsYXRvciBmb3IgVW5peC4g</description>
+  <sourcefile>fuse-1.5.7.tar.gz</sourcefile>
+  <sourcedir>fuse-1.5.7</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libgcrypt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>audiofile</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libspectrum</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

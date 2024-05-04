@@ -929,5 +929,34 @@
     <package>vst3sdk</package>
     <package>libid3tag</package>
     <package>wavpack</package>
+    <package>spectemu</package>
+    <package>audiofile</package>
+    <package>svgalib</package>
+    <package>libspectrum</package>
+    <package>fuse-emulator</package>
+    <package>emu80sdl</package>
+    <package>emu80qt</package>
+    <package>vgmplay</package>
+    <package>qjoypad</package>
+    <package>fceux</package>
+    <package>minizip</package>
+    <package>fastfetch</package>
+    <package>pv</package>
+    <package>bb</package>
+    <package>libmikmod</package>
+    <package>aview</package>
+    <package>font-cursor-misc</package>
+    <package>font-daewoo-misc</package>
+    <package>font-dec-misc</package>
+    <package>font-isas-misc</package>
+    <package>font-jis-misc</package>
+    <package>font-micro-misc</package>
+    <package>font-mutt-misc</package>
+    <package>font-misc-misc</package>
+    <package>font-schumacher-misc</package>
+    <package>font-sony-misc</package>
+    <package>font-sun-misc</package>
+    <package>Xfonts-misc</package>
+    <package>mikmod</package>
   </packages>
 </packages>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>mikmod</code>
+  <description>TWlrbW9kIGlzIGEgbW9kdWxlIHBsYXllciBhbmQgbGlicmFyeSBzdXBwb3J0aW5nIG1hbnkgZm9ybWF0cywgaW5jbHVkaW5nIG1vZCwgczNtLCBpdCwgYW5kIHhtLg==</description>
+  <sourcefile>mikmod-3.2.8.tar.gz</sourcefile>
+  <sourcedir>mikmod-3.2.8</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libmikmod</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

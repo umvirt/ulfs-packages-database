@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>pv</code>
+  <description>cHYgLSBQaXBlIFZpZXdlciAtIGlzIGEgdGVybWluYWwtYmFzZWQgdG9vbCBmb3IgbW9uaXRvcmluZyB0aGUgcHJvZ3Jlc3Mgb2YgZGF0YSB0aHJvdWdoIGEgcGlwZWxpbmUu</description>
+  <sourcefile>pv-1.8.9.tar.gz</sourcefile>
+  <sourcedir>pv-1.8.9</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
