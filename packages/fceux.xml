@@ -20,7 +20,7 @@
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>minizip-ng</code>
+      <code>minizip</code>
       <weight>0</weight>
     </dependance>
   </dependances>
