@@ -958,5 +958,6 @@
     <package>font-sun-misc</package>
     <package>Xfonts-misc</package>
     <package>mikmod</package>
+    <package>mesa-libglvnd</package>
   </packages>
 </packages>
