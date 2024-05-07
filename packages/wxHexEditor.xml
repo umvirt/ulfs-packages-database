@@ -10,7 +10,16 @@
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>mhash</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>udis86</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches>
     <patch>
       <filename>wxHexEditor-0.25.patch</filename>
