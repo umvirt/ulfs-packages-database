@@ -7,8 +7,8 @@
   <sourcedir>xf86-video-ati-22.0.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
-  <build>Iw==</build>
-  <install>Iw==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
