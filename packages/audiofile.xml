@@ -11,7 +11,12 @@
   <install/>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>audiofile-mega.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
