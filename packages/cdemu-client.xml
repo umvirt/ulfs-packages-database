@@ -7,8 +7,8 @@
   <sourcedir>cdemu-client-3.2.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAuLg==</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphIA0K</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build>Y2QgYnVpbGQNCm1ha2UgDQo=</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
