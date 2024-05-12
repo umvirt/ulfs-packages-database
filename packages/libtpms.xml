@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>libtpms</code>
+  <description>VGhlIGxpYnRwbXMgbGlicmFyeSBwcm92aWRlcyBzb2Z0d2FyZSBlbXVsYXRpb24gb2YgYSBUcnVzdGVkIFBsYXRmb3JtIE1vZHVsZSAoVFBNIDEuMiBhbmQgVFBNIDIuMCk=</description>
+  <sourcefile>libtpms-0.9.6.tar.gz</sourcefile>
+  <sourcedir>libtpms-0.9.6</sourcedir>
+  <unpack/>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vYXV0b2dlbi5zaA0KDQouL2NvbmZpZ3VyZSAtLXdpdGgtb3BlbnNzbCAtLXdpdGgtdHBtMiAtLWVuYWJsZS1zYW5pdGl6ZXJzIC0tcHJlZml4PS91c3IgICRBUkdfU1RBVElD</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

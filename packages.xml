@@ -959,5 +959,7 @@
     <package>Xfonts-misc</package>
     <package>mikmod</package>
     <package>mesa-libglvnd</package>
+    <package>libtpms</package>
+    <package>swtpm</package>
   </packages>
 </packages>
