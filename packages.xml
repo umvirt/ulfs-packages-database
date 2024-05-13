@@ -961,5 +961,8 @@
     <package>mesa-libglvnd</package>
     <package>libtpms</package>
     <package>swtpm</package>
+    <package>wine-x86</package>
+    <package>winetricks</package>
+    <package>cabextract</package>
   </packages>
 </packages>

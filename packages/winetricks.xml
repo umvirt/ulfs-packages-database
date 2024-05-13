@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>winetricks</code>
+  <description>V2luZXRyaWNrcyBpcyBhbiBlYXN5IHdheSB0byB3b3JrIGFyb3VuZCBwcm9ibGVtcyBpbiBXaW5l</description>
+  <sourcefile>winetricks-20240105.tar.gz</sourcefile>
+  <sourcedir>winetricks-20240105</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWFrZSBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cabextract</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
