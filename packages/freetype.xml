@@ -17,4 +17,12 @@
   </addons>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>c2VkIC1yaSAiczouKihBVVhfTU9EVUxFUy4qdmFsaWQpOlwxOiIgbW9kdWxlcy5jZmcgJiYNCg0Kc2VkIC1yICJzOi4qKCMuKlNVQlBJWEVMX1JFTkRFUklORykgLio6XDE6IiBcDQogICAgLWkgaW5jbHVkZS9mcmVldHlwZS9jb25maWcvZnRvcHRpb24uaCAgJiYNCg0KQVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJRz0iaTY4Ni1wYy1saW51eC1nbnUtcGtnLWNvbmZpZyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgLS1lbmFibGUtZnJlZXR5cGUtY29uZmlnICRBUkdfU1RBVElDIFwNCiAgICAtLWhvc3Q9aTY4Ni1wYy1saW51eC1nbnUgXA0KICAgIC0tbGliZGlyPS91c3IvbGliMzI=</configure>
+      <build/>
+      <install/>
+    </archpackage>
+  </archpackages>
 </package>
