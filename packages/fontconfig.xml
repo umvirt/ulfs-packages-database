@@ -27,12 +27,12 @@
       <build/>
       <install/>
       <dependance>
-        <code>libxml2</code>
+        <code>freetype</code>
         <arch>lib32_amd64</arch>
-        <weight/>
+        <weight>0</weight>
       </dependance>
       <dependance>
-        <code>freetype</code>
+        <code>libxml2</code>
         <arch>lib32_amd64</arch>
         <weight>0</weight>
       </dependance>

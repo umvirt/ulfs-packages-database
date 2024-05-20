@@ -33,7 +33,7 @@
       <dependance>
         <code>libXau</code>
         <arch>lib32_amd64</arch>
-        <weight/>
+        <weight>0</weight>
       </dependance>
       <dependances/>
     </archpackage>
