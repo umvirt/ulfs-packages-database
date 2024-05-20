@@ -4,15 +4,15 @@
   <architectures>
     <architecture>
       <code>x86</code>
-      <code>SW50ZWwgMzItYml0IHg4Ng==</code>
+      <description>SW50ZWwgMzItYml0IHg4Ng==</description>
     </architecture>
     <architecture>
       <code>amd64</code>
-      <code>QU1EIDY0IG9yIEludGVsIHg4Nl82NA==</code>
+      <description>QU1EIDY0IG9yIEludGVsIHg4Nl82NA==</description>
     </architecture>
     <architecture>
       <code>lib32_amd64</code>
-      <code>SW50ZWwgMzItYml0IHg4NiBzdXBwb3J0IGZvciBhbWQ2NCAoeDg2XzY0KSAg</code>
+      <description>SW50ZWwgMzItYml0IHg4NiBzdXBwb3J0IGZvciBhbWQ2NCAoeDg2XzY0KSAg</description>
     </architecture>
   </architectures>
   <packages>
