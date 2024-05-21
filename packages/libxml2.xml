@@ -33,12 +33,13 @@
       <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICRBUkdfU1RBVElDIFwNCiAgICAtLWhvc3Q9aTY4Ni1wYy1saW51eC1nbnUgXA0KICAgIC0tbGliZGlyPS91c3IvbGliMzI=</configure>
       <build/>
       <install/>
-      <dependance>
-        <code>icu</code>
-        <arch>lib32_amd64</arch>
-        <weight>0</weight>
-      </dependance>
-      <dependances/>
+      <dependances>
+        <dependance>
+          <code>icu</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
     </archpackage>
   </archpackages>
 </package>

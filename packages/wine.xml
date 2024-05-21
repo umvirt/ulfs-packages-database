@@ -62,12 +62,13 @@
       <configure>cm0gLXJmIC4uL3dpbmU2NA0Kcm0gLXJmIC4uL3dpbmUzMg0KbWtkaXIgLXYgLi4vd2luZTY0DQpta2RpciAtdiAuLi93aW5lMzINCg0KI2J1aWxkIHdpbmU2NA0KDQpjZCAuLi93aW5lNjQNCg0KLi4vd2luZS05LjAvY29uZmlndXJlIC0tZW5hYmxlLXdpbjY0IC0tcHJlZml4PS91c3INCg0KbWFrZQ0KDQpleHBvcnQgV0lORTY0RElSPSRQV0QNCg0KI2J1aWxkIHdpbmUzMg0KDQpjZCAuLi93aW5lMzINCg0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KLi4vd2luZS05LjAvY29uZmlndXJlIC0td2l0aC13aW5lNjQ9JFdJTkU2NERJUiBcDQotLXByZWZpeD0vdXNyIC0tbGliZGlyPS91c3IvbGliMzI=</configure>
       <build>Y2QgLi4vd2luZTMyDQptYWtl</build>
       <install>Y2QgLi4vd2luZTMyDQptYWtlIGluc3RhbGwNCg0KY2QgLi4vd2luZTY0DQptYWtlIGluc3RhbGw=</install>
-      <dependance>
-        <code>Xlibs</code>
-        <arch>lib32_amd64</arch>
-        <weight>0</weight>
-      </dependance>
-      <dependances/>
+      <dependances>
+        <dependance>
+          <code>Xlibs</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
     </archpackage>
   </archpackages>
 </package>
