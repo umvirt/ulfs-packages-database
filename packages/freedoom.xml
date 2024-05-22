@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>freedoom</code>
+  <description>RnJlZURvb20gUGhhc2UgMSBhbmQgUGhhc2UgMiBXQUQgZmlsZXM=</description>
+  <sourcefile>freedoom-0.13.0.zip</sourcefile>
+  <sourcedir>freedoom-0.13.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWtkaXIgLXYgL3Vzci9zaGFyZS9nYW1lcy9kb29tDQpjcCBmcmVlZG9vbS0wLjEyLjEvZnJlZWRvb217MSwyfS53YWQgL3Vzci9zaGFyZS9nYW1lcy9kb28=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

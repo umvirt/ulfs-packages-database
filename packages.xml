@@ -978,5 +978,14 @@
     <package>wine</package>
     <package>winetricks</package>
     <package>cabextract</package>
+    <package>duckstation</package>
+    <package>chocolate-doom</package>
+    <package>freedoom</package>
+    <package>ZMusic</package>
+    <package>SFML</package>
+    <package>abuse-data</package>
+    <package>abuse</package>
+    <package>glew</package>
+    <package>cubeb</package>
   </packages>
 </packages>

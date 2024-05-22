@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>abuse</code>
+  <description>VGhpcyBpcyBhIGZvcmsgb2YgdGhlIG9yaWdpbmFsIEFidXNlIFNETCBwb3J0</description>
+  <sourcefile>abuse-0.9.1.tar.gz</sourcefile>
+  <sourcedir>abuse-0.9.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
