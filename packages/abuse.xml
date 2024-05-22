@@ -6,11 +6,24 @@
   <sourcefile>abuse-0.9.1.tar.gz</sourcefile>
   <sourcedir>abuse-0.9.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
-  <build/>
-  <install/>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQVNTRVRESVI9L3Vzci9zaGFyZS9nYW1lcy9hYnVzZS8gXA0KICAgICAgLi4=</configure>
+  <build>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2_mixer</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>abuse-data</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

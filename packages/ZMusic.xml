@@ -7,10 +7,15 @@
   <sourcedir>ZMusic-1.1.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgICAuLg==</configure>
-  <build/>
-  <install/>
+  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>TiMidity</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

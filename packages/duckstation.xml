@@ -8,7 +8,7 @@
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkIA0KDQpjbWFrZSAtRyBOaW5qYSBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS9vcHQvZHVja3N0YXRpb24gXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
   <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <install>Y2QgYnVpbGQNCg0KbWtkaXIgL29wdC9kdWNrc3RhdGlvbg0KY3AgLXJ2IGJpbi8qIC9vcHQvZHVja3N0YXRpb24=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

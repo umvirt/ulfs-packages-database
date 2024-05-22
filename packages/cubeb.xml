@@ -7,8 +7,8 @@
   <sourcedir>cubeb-6c1a6e151c1f981a2800d40af7c041cfcccc710e</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
-  <build/>
-  <install/>
+  <build>Y2QgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

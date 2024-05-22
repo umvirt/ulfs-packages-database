@@ -6,7 +6,7 @@
   <sourcefile>SFML-2.6.1.tar.gz</sourcefile>
   <sourcedir>SFML-2.6.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EU0ZNTF9QS0dDT05GSUdfSU5TVEFMTF9QUkVGSVg9L3Vzci9saWIvcGtnY29uZmlnLyBcDQogICAgICAuLg==</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>
   <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
