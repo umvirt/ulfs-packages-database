@@ -987,5 +987,8 @@
     <package>abuse</package>
     <package>glew</package>
     <package>cubeb</package>
+    <package>freedm</package>
+    <package>TiMidity</package>
+    <package>extremetuxracer</package>
   </packages>
 </packages>
