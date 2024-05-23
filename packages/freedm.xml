@@ -6,8 +6,8 @@
   <sourcefile>freedm-0.13.0.zip</sourcefile>
   <sourcedir>freedm-0.13.0</sourcedir>
   <unpack/>
-  <configure/>
-  <build/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
   <install>bWtkaXIgLXYgL3Vzci9zaGFyZS9nYW1lcy9kb29tDQpjcCBmcmVlZG0tMC4xMy4wL2ZyZWVkbS53YWQgL3Vzci9zaGFyZS9nYW1lcy9kb29t</install>
   <localbuild>0</localbuild>
   <dependances/>

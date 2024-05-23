@@ -16,7 +16,12 @@
       <weight>0</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>zmusic-1.1.4-gcc-13.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
