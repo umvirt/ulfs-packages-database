@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>ftgl</code>
+  <description>RlRHTCBpcyBhIGZyZWUgY3Jvc3MtcGxhdGZvcm0gT3BlbiBTb3VyY2UgQysrIGxpYnJhcnkgdGhhdCB1c2VzIEZyZWV0eXBlMiB0byBzaW1wbGlmeSByZW5kZXJpbmcgZm9udHMgaW4gT3BlbkdMIGFwcGxpY2F0aW9ucy4=</description>
+  <sourcefile>ftgl-2.4.0.tar.gz</sourcefile>
+  <sourcedir>ftgl-2.4.0</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

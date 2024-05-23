@@ -990,5 +990,8 @@
     <package>freedm</package>
     <package>TiMidity</package>
     <package>extremetuxracer</package>
+    <package>gzdoom</package>
+    <package>ftgl</package>
+    <package>mgba</package>
   </packages>
 </packages>
