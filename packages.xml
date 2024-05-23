@@ -993,5 +993,7 @@
     <package>gzdoom</package>
     <package>ftgl</package>
     <package>mgba</package>
+    <package>megaglest-data</package>
+    <package>megaglest</package>
   </packages>
 </packages>

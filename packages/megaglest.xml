@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>megaglest</code>
+  <description>TWVnYUdsZXN0IGlzIGFuIGVudGVydGFpbmluZyBmcmVlIChmcmVld2FyZSBhbmQgZnJlZSBzb2Z0d2FyZSkgYW5kIG9wZW4gc291cmNlIGNyb3NzLXBsYXRmb3JtIDNEIHJlYWwtdGltZSBzdHJhdGVneSAoUlRTKSBnYW1lLg==</description>
+  <sourcefile>megaglest-source-201457d9c86a8089a74b88c2846c4054d292ec42.tar.gz</sourcefile>
+  <sourcedir>megaglest-source-201457d9c86a8089a74b88c2846c4054d292ec42</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>SDL2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wxWidgets</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openal</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glew</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ftgl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>megaglest-data</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
