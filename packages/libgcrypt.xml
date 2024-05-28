@@ -20,4 +20,19 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>IyBVc2UgMzItYml0IGFzc2VtYmxlcg0Kc2VkICdzOmlcWzM0NTY3XF04NlwqLVwqLVwqOng4Nl82NC0qLSo6JyAtaSBtcGkvY29uZmlnLmxpbmtzDQpzZWQgJ3M6eDg2XzY0LVwqLVwqOmlnbm9yZTo7czppPzg2LVwqLVwqOng4Nl82NC0qLSo6JyAtaSBjb25maWd1cmUuYWMNCg0KYXV0b3JlY29uZiAtZmkNCg0KQ0M9ImdjYyAtbTMyIiBDWFg9ImcrKyAtbTMyIiBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1zdGF0aWMgLS1kaXNhYmxlLXBhZGxvY2stc3VwcG9ydCBcDQogICAgICAgICAgICAgIC0tbGliZGlyPS91c3IvbGliMzIgLS1lbmFibGUtc2hhcmU=</configure>
+      <build/>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMy</install>
+      <dependances>
+        <dependance>
+          <code>libgpg-error</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

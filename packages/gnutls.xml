@@ -36,4 +36,39 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>IyBkaXNhYmxlIGxpYmlkbiBmb3Igc2VjdXJpdHkgcmVhc29uczoNCiMgaHR0cDovL2xpc3RzLmdudXBnLm9yZy9waXBlcm1haWwvZ251dGxzLWRldmVsLzIwMTUtTWF5LzAwNzU4Mi5odG1sDQpDQz0iZ2NjIC1tMzIiIENYWD0iZysrIC1tMzIiXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWxpYmRpcj0vdXNyL2xpYjMyIC0tYnVpbGQ9aTY4Ni1wYy1saW51eC1nbnUgXA0KICAgIC0td2l0aC16bGliIFwNCiAgICAtLXdpdGgtaW5jbHVkZWQtdW5pc3RyaW5nIFwNCiAgICAtLWRpc2FibGUteWVhcjIwMzggXA0KICAgIC0tZGlzYWJsZS1zdGF0aWMgXA0KICAgIC0tZGlzYWJsZS12YWxncmluZC10ZXN0cw0K</configure>
+      <build/>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMy</install>
+      <dependances>
+        <dependance>
+          <code>nettle</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>brotli</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>p11-kit</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libidn2</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libtasn1</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

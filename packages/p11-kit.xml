@@ -20,4 +20,12 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>c2VkICcyMCwkIGQnIC1pIHRydXN0L3RydXN0LWV4dHJhY3QtY29tcGF0ICYmDQoNCmNhdCA+PiB0cnVzdC90cnVzdC1leHRyYWN0LWNvbXBhdCA8PCAiRU9GIg0KIyBDb3B5IGV4aXN0aW5nIGFuY2hvciBtb2RpZmljYXRpb25zIHRvIC9ldGMvc3NsL2xvY2FsDQovdXNyL2xpYmV4ZWMvbWFrZS1jYS9jb3B5LXRydXN0LW1vZGlmaWNhdGlvbnMNCg0KIyBVcGRhdGUgdHJ1c3Qgc3RvcmVzDQovdXNyL3NiaW4vbWFrZS1jYSAtcg0KRU9GDQoNCg0KbWtkaXIgcDExLWJ1aWxkICYmDQpjZCAgICBwMTEtYnVpbGQNCg0KQ0M9ImdjYyAtbTMyIiBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQpQS0dfQ09ORklHPSJpNjg2LXBjLWxpbnV4LWdudS1wa2ctY29uZmlnIiBcDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgIFwNCiAgICAgIC0tbGliZXhlY2RpciAvdXNyL2xpYjMyICBcDQogICAgICAtLWxpYmRpciAvdXNyL2xpYjMyICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgLUR0cnVzdF9wYXRocz0vZXRjL3BraS9hbmNob3JzDQo=</configure>
+      <build>Y2QgICAgcDExLWJ1aWxkDQoNCm1lc29uIGNvbXBpbGU=</build>
+      <install>Y2QgICAgcDExLWJ1aWxkDQoNCm1lc29uIGluc3RhbGwgLS1kZXN0ZGlyIERFU1RESVINCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
+    </archpackage>
+  </archpackages>
 </package>

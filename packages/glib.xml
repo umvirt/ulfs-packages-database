@@ -29,4 +29,19 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgICAgICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgLS1saWJleGVjZGlyIC91c3IvbGliMzIgIFwNCiAgICAgICAgICAgLUR0ZXN0cz1mYWxzZQ0KLi4NCg==</configure>
+      <build>Y2QgYnVpbGQNCm1lc29uIGNvbXBpbGU=</build>
+      <install>Y2QgYnVpbGQNCm1lc29uIGluc3RhbGwgLS1kZXN0ZGlyIERFU1RESVINCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
+      <dependances>
+        <dependance>
+          <code>pcre2</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>
