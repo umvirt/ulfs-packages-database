@@ -20,4 +20,24 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>Q0M9ImdjYyAtbTMyIiBDWFg9ImcrKyAtbTMyIiBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgXA0KICAgIC0tbGliZGlyPS91c3IvbGliMzIgXA0KICAgIC0tbGliZXhlY2Rpcj0vdXNyL2xpYi9kYnVzLTEuMCBcDQogICAgLS1ydW5zdGF0ZWRpcj0vcnVuIFwNCiAgICAtLXdpdGgtY29uc29sZS1hdXRoLWRpcj0vcnVuL2NvbnNvbGUvIFwNCiAgICAtLXdpdGgtZGJ1cy11c2VyPWRidXMgXA0KICAgIC0td2l0aC1zeXN0ZW0tcGlkLWZpbGU9L3J1bi9kYnVzL3BpZCBcDQogICAgLS13aXRoLXN5c3RlbS1zb2NrZXQ9L3J1bi9kYnVzL3N5c3RlbV9idXNfc29ja2V0IFwNCiAgICAtLXdpdGgtc3lzdGVtZHN5c3RlbXVuaXRkaXI9L3Vzci9saWIvc3lzdGVtZC9zeXN0ZW0gXA0KICAgIC0tZW5hYmxlLWlub3RpZnkgXA0KICAgIC0tZGlzYWJsZS1saWJhdWRpdCBcDQogICAgLS1lbmFibGUtc3lzdGVtZCBcDQogICAgLS1lbmFibGUtdXNlci1zZXNzaW9uIFwNCiAgICAtLWRpc2FibGUteG1sLWRvY3MgXA0KICAgIC0tZGlzYWJsZS1kb3h5Z2VuLWRvY3MgXA0KICAgIC0tZGlzYWJsZS1kdWNrdHlwZS1kb2NzIFwNCiAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAtLXdpdGhvdXQteCANCg0K</configure>
+      <build/>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMy</install>
+      <dependances>
+        <dependance>
+          <code>Xlibs</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>systemd</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

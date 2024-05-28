@@ -40,4 +40,29 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkxBTkc9ZW5fVVMuVVRGLTggICAgICAgICAgICAgICAgICAgXA0KQ0M9ImdjYyAtbTMyIC1tYXJjaD1pNjg2IiBDWFg9ImcrKyAtbTMyIC1tYXJjaD1pNjg2IiAgICAgICBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQptZXNvbiBzZXR1cCBcDQogICAgICAtLXByZWZpeD0vdXNyICAgXA0KICAgICAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgLURhdmFoaT1kaXNhYmxlZCBcDQogICAgLURiYXNoY29tcGxldGlvbmRpcj1ubyBcDQogICAgLURibHVlejUtZ3N0cmVhbWVyPWRpc2FibGVkIFwNCiAgICAtRGJsdWV6NT1kaXNhYmxlZCBcDQogICAgLURjb25zb2xla2l0PWRpc2FibGVkIFwNCiAgICAtRGRhZW1vbj1mYWxzZSBcDQogICAgLURkb3h5Z2VuPWZhbHNlIFwNCiAgICAtRGVsb2dpbmQ9ZGlzYWJsZWQgXA0KICAgIC1EZmZ0dz1kaXNhYmxlZCBcDQogICAgLURnc3RyZWFtZXI9ZGlzYWJsZWQgXA0KICAgIC1EamFjaz1kaXNhYmxlZCBcDQogICAgLURsaXJjPWRpc2FibGVkIFwNCiAgICAtRG1hbj1mYWxzZSBcDQogICAgLURvcmM9ZGlzYWJsZWQgXA0KICAgIC1EcHVsc2Vkc3AtbG9jYXRpb249Jy91c3IvXCRMSUIvcHVsc2VhdWRpbycgXA0KICAgIC1Ec294cj1kaXNhYmxlZCBcDQogICAgLURzdHJlYW0tcmVzdG9yZS1jbGVhci1vbGQtZGV2aWNlcz10cnVlIFwNCiAgICAtRHRjcHdyYXA9ZGlzYWJsZWQgXA0KICAgIC1EdGVzdHM9ZmFsc2UgXA0KICAgIC1EdWRldnJ1bGVzZGlyPS91c3IvbGliL3VkZXYvcnVsZXMuZCBcDQogICAgLUR3ZWJydGMtYWVjPWRpc2FibGVkIFwNCiAgICAtRHpzaGNvbXBsZXRpb25kaXI9bm8gXA0KLi4=</configure>
+      <build>Y2QgYnVpbGQNCg0KbWVzb24gY29tcGlsZQ==</build>
+      <install>Y2QgYnVpbGQNCg0KbWVzb24gaW5zdGFsbCAtLWRlc3RkaXIgREVTVERJUg0KY3AgLVJ2IERFU1RESVIvdXNyL2xpYjMyLyogL3Vzci9saWIzMg0K</install>
+      <dependances>
+        <dependance>
+          <code>alsa-lib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libsndfile</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>dbus</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>
