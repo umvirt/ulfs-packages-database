@@ -24,4 +24,24 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLi4gICAgICAgICAgICBcDQogICAgICAtLWxpYmV4ZWNkaXIgL3Vzci9saWIzMiAgXA0KICAgICAgLS1saWJkaXIgL3Vzci9saWIzMiAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgLUR1ZGV2PWZhbHNlIFwNCiAgICAtRG1hbi1wYWdlcz1kaXNhYmxlZCBcDQogICAgLURldG5hdml2PWRpc2FibGVkIFwNCiAgICAtRGZyZWVkcmVubz1kaXNhYmxlZCBcDQogICAgLUR2YzQ9ZGlzYWJsZWQgXA0KICAgIC1EdmFsZ3JpbmQ9ZGlzYWJsZWQNCg==</configure>
+      <build>Y2QgICAgICAgYnVpbGQNCm5pbmphDQo=</build>
+      <install>Y2QgICAgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
+      <dependances>
+        <dependance>
+          <code>libpciaccess</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>cairo</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

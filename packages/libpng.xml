@@ -17,4 +17,12 @@
   </addons>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>Z3ppcCAtY2QgLi4vbGlicG5nLTEuNi40MC1hcG5nLnBhdGNoLmd6IHwgcGF0Y2ggLXAxDQpDQz0iZ2NjIC1tMzIiIENYWD0iZysrIC1tMzIiIFwNClBLR19DT05GSUdfUEFUSD0iL3Vzci9saWIzMi9wa2djb25maWciIFwNCi4vY29uZmlndXJlIFwNCiAgICAgICAgLS1wcmVmaXg9L3VzciBcDQogICAgICAgIC0tbGliZGlyPS91c3IvbGliMzINCg==</configure>
+      <build>DQo=</build>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMy</install>
+    </archpackage>
+  </archpackages>
 </package>

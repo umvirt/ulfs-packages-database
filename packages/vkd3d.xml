@@ -10,7 +10,16 @@
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>Xlibs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Vulkan-Loader</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
@@ -21,6 +30,18 @@
       <configure>Q0M9ImdjYyAtbTMyIiBDWFg9ImcrKyAtbTMyIiBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQpMREZMQUdTPSIkTERGTEFHUyAtTC91c3IvbGliMzIiIFwNCi4vY29uZmlndXJlIFwNCiAgICAgICAgLS1wcmVmaXg9L3VzciBcDQogICAgICAgIC0tbGliZGlyPS91c3IvbGliMzINCg0K</configure>
       <build/>
       <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMyDQo=</install>
+      <dependances>
+        <dependance>
+          <code>Xlibs</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>Vulkan-Loader</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
     </archpackage>
   </archpackages>
 </package>

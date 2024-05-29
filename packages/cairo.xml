@@ -36,4 +36,39 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLi4gICAgICAgICAgICBcDQogICAgICAtLWxpYmV4ZWNkaXIgL3Vzci9saWIzMiAgXA0KICAgICAgLS1saWJkaXIgL3Vzci9saWIzMiAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgIC1EZHdyaXRlPWRpc2FibGVkIFwNCiAgICAtRGd0a19kb2M9ZmFsc2UgXA0KICAgIC1Ec3BlY3RyZT1kaXNhYmxlZCBcDQogICAgLURzeW1ib2wtbG9va3VwPWRpc2FibGVkIFwNCiAgICAtRHRlc3RzPWRpc2FibGVkDQo=</configure>
+      <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
+      <install>Y2QgICAgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
+      <dependances>
+        <dependance>
+          <code>freetype</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>fontconfig</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>glib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>pixman</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libpng</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

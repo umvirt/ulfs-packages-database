@@ -43,6 +43,10 @@
       <code>Vulkan-Loader</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>vkd3d</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
@@ -70,6 +74,26 @@
         </dependance>
         <dependance>
           <code>alsa-lib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>pulseaudio</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>mesa</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>vkd3d</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>SDL2</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
