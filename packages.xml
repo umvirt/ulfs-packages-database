@@ -995,5 +995,6 @@
     <package>mgba</package>
     <package>megaglest-data</package>
     <package>megaglest</package>
+    <package>vkd3d</package>
   </packages>
 </packages>
