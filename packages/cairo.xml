@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>lzo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>glib</code>
       <weight>1</weight>
     </dependance>
@@ -65,6 +69,11 @@
         </dependance>
         <dependance>
           <code>libpng</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>lzo</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
