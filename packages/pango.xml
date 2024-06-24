@@ -40,4 +40,34 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>c2VkIC1pICcvYXJyYXktYm91bmRzL2QnIG1lc29uLmJ1aWxkDQoNCm1rZGlyIGJ1aWxkDQpjZCBidWlsZA0KDQpDQz0iZ2NjIC1tMzIiIENYWD0iZysrIC1tMzIiIFwNClBLR19DT05GSUdfUEFUSD0iL3Vzci9saWIzMi9wa2djb25maWciIFwNCm1lc29uIHNldHVwIC0tbGliZGlyIC91c3IvbGliMzIgXA0KICAgIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICBcDQogICAgLS1saWJleGVjZGlyIC91c3IvbGliMzIgICAgIFwNCiAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgICAgXA0KICAgIC0td3JhcC1tb2RlPW5vZmFsbGJhY2sgICAgICBcDQogICAgLUQgaW50cm9zcGVjdGlvbj1kaXNhYmxlZCAgIFwNCiAgICAuLg0K</configure>
+      <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+      <install>Y2QgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzINCg0K</install>
+      <dependances>
+        <dependance>
+          <code>Xlibs</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>cairo</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>fribidi</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>harfbuzz</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

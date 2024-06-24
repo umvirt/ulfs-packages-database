@@ -40,4 +40,29 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgIFwNCiAgICAtLWxpYmV4ZWNkaXIgL3Vzci9saWIzMiAgICAgXA0KICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgICAgICBcDQogICAgLS13cmFwLW1vZGU9bm9mYWxsYmFjayAgICAgIFwNCiAgICAtRCBpbnRyb3NwZWN0aW9uPWRpc2FibGVkICAgXA0KICAgIC4uDQo=</configure>
+      <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
+      <install>Y2QgICAgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzINCg==</install>
+      <dependances>
+        <dependance>
+          <code>glib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libpng</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libjpeg-turbo</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

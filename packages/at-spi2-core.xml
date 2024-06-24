@@ -36,4 +36,29 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgIFwNCiAgICAtLWxpYmV4ZWNkaXIgL3Vzci9saWIzMiAgICAgXA0KICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgICAgICBcDQogICAgLUQgaW50cm9zcGVjdGlvbj1kaXNhYmxlZCAgIFwNCiAgICAuLg0K</configure>
+      <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
+      <install>Y2QgICAgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
+      <dependances>
+        <dependance>
+          <code>Xlibs</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>glib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>dbus</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

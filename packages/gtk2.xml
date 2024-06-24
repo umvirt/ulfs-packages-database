@@ -32,4 +32,39 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>c2VkIC1lICdzI2wgXChndGstLipcKS5zZ21sIyYgLW8gXDEjJyBcDQogICAgLWkgZG9jcy97ZmFxLHR1dG9yaWFsfS9NYWtlZmlsZS5pbiANCg0KQ0M9ImdjYyAtbTMyIiBDWFg9ImcrKyAtbTMyIiBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQouL2NvbmZpZ3VyZSBcDQogICAgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgIC0tc3lzY29uZmRpcj0vZXRjICAgIFwNCiAgICAtLWRpc2FibGUtc3RhdGljICAgICBcDQogICAgLS1saWJkaXI9L3Vzci9saWIzMg0K</configure>
+      <build/>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMyDQo=</install>
+      <dependances>
+        <dependance>
+          <code>Xlibs</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>glib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>pango</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>at-spi2-core</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>gdk-pixbuf</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>
