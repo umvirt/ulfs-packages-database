@@ -32,4 +32,19 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>Q0M9ImdjYyAtbTMyIiBDWFg9ImcrKyAtbTMyIiBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQouL2NvbmZpZ3VyZSBcDQogICAgICAgIC0td2l0aC1wbmdsaWJkaXI9L3Vzci9saWIzMiBcDQogICAgICAgIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgLS1saWJkaXI9L3Vzci9saWIzMiBcDQogICAgICAgICAgICAtLWVuYWJsZS1saWJ3ZWJwbXV4ICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1saWJ3ZWJwZGVtdXggICBcDQogICAgICAgICAgICAtLWVuYWJsZS1saWJ3ZWJwZGVjb2RlciBcDQogICAgICAgICAgICAtLWVuYWJsZS1saWJ3ZWJwZXh0cmFzICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zd2FwLTE2Yml0LWNzcA0K</configure>
+      <build/>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMy</install>
+      <dependances>
+        <dependance>
+          <code>libpng</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

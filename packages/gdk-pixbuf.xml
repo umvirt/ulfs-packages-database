@@ -62,6 +62,11 @@
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
+        <dependance>
+          <code>tiff</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
       </dependances>
     </archpackage>
   </archpackages>

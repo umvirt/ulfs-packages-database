@@ -28,4 +28,12 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>c2VkIC1lICcvX1hEYXRhMzIvczpyZWdpc3RlciBsb25nOnJlZ2lzdGVyIF9YY29uc3QgbG9uZzonIFwNCiAgICAtaSBzcmMvdmlkZW8veDExL1NETF94MTFzeW0uaA0KDQpDQz0iZ2NjIC1tMzIiIENYWD0iZysrIC1tMzIiIFwNCiAgICBQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQogICAgLi9jb25maWd1cmUgXA0KICAgICAgICAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyBcDQogICAgICAgIC0tbGliZGlyPS91c3IvbGliMzINCg==</configure>
+      <build/>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMyDQo=</install>
+    </archpackage>
+  </archpackages>
 </package>

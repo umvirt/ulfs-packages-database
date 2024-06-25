@@ -34,6 +34,13 @@
       <configure>bWtkaXIgLXAgbGlidGlmZi1idWlsZCAmJg0KY2QgICAgICAgbGlidGlmZi1idWlsZCAmJg0KDQpDQz0iZ2NjIC1tMzIiIENYWD0iZysrIC1tMzIiIFwNClBLR19DT05GSUdfUEFUSD0iL3Vzci9saWIzMi9wa2djb25maWciIFwNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9ET0NESVI9L3Vzci9zaGFyZS9kb2MvbGlidGlmZi00LjYuMCBcDQogICAgICAtRENNQUtFX0lOU1RBTExfTElCRElSPS91c3IvbGliMzIgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC1HIE5pbmphIC4u</configure>
       <build>Y2QgICAgICAgbGlidGlmZi1idWlsZA0KbmluamE=</build>
       <install>Y2QgICAgICAgbGlidGlmZi1idWlsZA0KREVTVERJUj1ERVNURElSIG5pbmphIGluc3RhbGwNCg0KY3AgLVJ2IERFU1RESVIvdXNyL2xpYjMyLyogL3Vzci9saWIzMg==</install>
+      <dependances>
+        <dependance>
+          <code>libwebp</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
     </archpackage>
   </archpackages>
 </package>
