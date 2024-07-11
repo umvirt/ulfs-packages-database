@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.1</release>
+  <code>mangohud</code>
+  <description>QSBWdWxrYW4gYW5kIE9wZW5HTCBvdmVybGF5IGZvciBtb25pdG9yaW5nIEZQUywgdGVtcGVyYXR1cmVzLCBDUFUvR1BVIGxvYWQgYW5kIG1vcmUu</description>
+  <sourcefile>MangoHud-0.7.2.tar.gz</sourcefile>
+  <sourcedir>MangoHud-0.7.2</sourcedir>
+  <unpack/>
+  <configure>dGFyIC14ZiAuLi9tYW5nb2h1ZC1zdWJwcm9qZWN0cy0wLjcuMi50YXIuZ3oNCmNwIC1ydiBtYW5nb2h1ZC1zdWJwcm9qZWN0cy0wLjcuMi8qIHN1YnByb2plY3RzDQoNCg0KbWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIHNldHVwIC1Ed2l0aF94bnZjdHJsPWRpc2FibGVkIC0tcHJlZml4PS91c3IgLi4=</configure>
+  <build>Y2QgYnVpbGQNCg0KbmluamE=</build>
+  <install>Y2QgYnVpbGQNCg0KbmluamEgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libxkbcommon</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>mangohud-subprojects-0.7.2.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>dGFyIC14ZiAuLi9tYW5nb2h1ZC1zdWJwcm9qZWN0cy0wLjcuMi50YXIuZ3oNCmNwIC1ydiBtYW5nb2h1ZC1zdWJwcm9qZWN0cy0wLjcuMi8qIHN1YnByb2plY3RzDQoNCg0KbWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgXA0KQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLUR3aXRoX3hudmN0cmw9ZGlzYWJsZWQgLS1wcmVmaXg9L3VzciAgLS1saWJkaXIgbGliMzIgLi4NCg0K</configure>
+      <build>Y2QgYnVpbGQNCg0KbmluamE=</build>
+      <install>Y2QgYnVpbGQNCg0KREVTVERJUj1ERVNURElSIG5pbmphIGluc3RhbGwNCg0KY3AgLXJ2IERFU1RESVIvdXNyL2xpYjMyIC91c3INCg==</install>
+      <dependances>
+        <dependance>
+          <code>libxkbcommon</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
+</package>

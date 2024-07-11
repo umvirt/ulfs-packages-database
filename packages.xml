@@ -996,5 +996,8 @@
     <package>megaglest-data</package>
     <package>megaglest</package>
     <package>vkd3d</package>
+    <package>winegui</package>
+    <package>mangohud</package>
+    <package>opentracker</package>
   </packages>
 </packages>
