@@ -999,5 +999,6 @@
     <package>winegui</package>
     <package>mangohud</package>
     <package>opentracker</package>
+    <package>libzip</package>
   </packages>
 </packages>
