@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>vamp-plugin-sdk</code>
   <description>VmFtcCBpcyBhbiBhdWRpbyBwcm9jZXNzaW5nIHBsdWdpbiBzeXN0ZW0gZm9yIHBsdWdpbnMgdGhhdCBleHRyYWN0IGRlc2NyaXB0aXZlIGluZm9ybWF0aW9uIGZyb20gYXVkaW8gZGF0YSDigJQgdHlwaWNhbGx5IHJlZmVycmVkIHRvIGFzIGF1ZGlvIGFuYWx5c2lzIHBsdWdpbnMgb3IgYXVkaW8gZmVhdHVyZSBleHRyYWN0aW9uIHBsdWdpbnMu</description>
   <sourcefile>vamp-plugin-sdk-2.10.0.tar.gz</sourcefile>

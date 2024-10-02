@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>zenity</code>
   <description>WmVuaXR5IGlzIGEgcmV3cml0ZSBvZiBnZGlhbG9nLCB0aGUgR05PTUUgcG9ydCBvZiBkaWFsb2cgd2hpY2ggYWxsb3dzIHlvdSB0byBkaXNwbGF5IEdUSysgZGlhbG9nIGJveGVzIGZyb20gdGhlIGNvbW1hbmQgbGluZSBhbmQgc2hlbGwgc2NyaXB0cy4=</description>
   <sourcefile>zenity-3.28.1.tar.xz</sourcefile>

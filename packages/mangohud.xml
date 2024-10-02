@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>mangohud</code>
   <description>QSBWdWxrYW4gYW5kIE9wZW5HTCBvdmVybGF5IGZvciBtb25pdG9yaW5nIEZQUywgdGVtcGVyYXR1cmVzLCBDUFUvR1BVIGxvYWQgYW5kIG1vcmUu</description>
   <sourcefile>MangoHud-0.7.2.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>libxkbcommon</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

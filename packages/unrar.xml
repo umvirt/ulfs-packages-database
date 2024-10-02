@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>unrar</code>
   <description>VGhlIFVuUmFyIHBhY2thZ2UgY29udGFpbnMgYSBSQVIgZXh0cmFjdGlvbiB1dGlsaXR5IHVzZWQgZm9yIGV4dHJhY3RpbmcgZmlsZXMgZnJvbSBSQVIgYXJjaGl2ZXMuIFJBUiBhcmNoaXZlcyBhcmUgdXN1YWxseSBjcmVhdGVkIHdpdGggV2luUkFSLCBwcmltYXJpbHkgaW4gYSBXaW5kb3dzIGVudmlyb25tZW50Lg==</description>
   <sourcefile>unrarsrc-7.0.8.tar.gz</sourcefile>

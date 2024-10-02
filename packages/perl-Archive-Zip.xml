@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>perl-Archive-Zip</code>
   <description>VGhlIEFyY2hpdmU6OlppcCBtb2R1bGUgYWxsb3dzIGEgUGVybCBwcm9ncmFtIHRvIGNyZWF0ZSwgbWFuaXB1bGF0ZSwgcmVhZCwgYW5kIHdyaXRlIFppcCBhcmNoaXZlIGZpbGVzLg==</description>
   <sourcefile>Archive-Zip-1.68.tar.gz</sourcefile>

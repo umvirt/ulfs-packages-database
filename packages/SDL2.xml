@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>SDL2</code>
   <description>VGhlIFNpbXBsZSBEaXJlY3RNZWRpYSBMYXllciBWZXJzaW9uIDIgKFNETDIgZm9yIHNob3J0KSBpcyBhIGNyb3NzLXBsYXRmb3JtIGxpYnJhcnkgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXN5IHRvIHdyaXRlIG11bHRpbWVkaWEgc29mdHdhcmUsIHN1Y2ggYXMgZ2FtZXMgYW5kIGVtdWxhdG9ycy4=</description>
-  <sourcefile>SDL2-2.30.0.tar.gz</sourcefile>
-  <sourcedir>SDL2-2.30.0</sourcedir>
+  <sourcefile>SDL2-2.30.6.tar.gz</sourcefile>
+  <sourcedir>SDL2-2.30.6</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICJcJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItLWVuYWJsZS1zdGF0aWMiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElD</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgZG9jcw0KDQpmaQ==</build>
-  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAmJg0KDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAgICAgICAgL3Vzci9zaGFyZS9kb2MvU0RMMi0yLjMwLjAvaHRtbCAmJg0KY3AgLVJ2ICBkb2NzL291dHB1dC9odG1sLyogL3Vzci9zaGFyZS9kb2MvU0RMMi0yLjMwLjAvaHRtbA0KDQpmaQ==</install>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAmJg0KDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAgICAgICAgL3Vzci9zaGFyZS9kb2MvU0RMMi0yLjMwLjYvaHRtbCAmJg0KY3AgLVJ2ICBkb2NzL291dHB1dC9odG1sLyogL3Vzci9zaGFyZS9kb2MvU0RMMi0yLjMwLjYvaHRtbA0KDQpmaQ==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

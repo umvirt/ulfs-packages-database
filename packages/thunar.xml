@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>thunar</code>
   <description>VGh1bmFyIGlzIHRoZSBYZmNlIGZpbGUgbWFuYWdlciwgYSBHVEsrIDMgR1VJIHRvIG9yZ2FuaXNlIHRoZSBmaWxlcyBvbiB5b3VyIGNvbXB1dGVyLg==</description>
-  <sourcefile>thunar-4.18.10.tar.bz2</sourcefile>
-  <sourcedir>thunar-4.18.10</sourcedir>
+  <sourcefile>thunar-4.18.11.tar.bz2</sourcefile>
+  <sourcedir>thunar-4.18.11</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy90aHVuYXItNC4xOC4xMA==</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy90aHVuYXItNC4xOC4xMQ==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>pcre2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>hicolor-icon-theme</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libexif</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libgudev</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gvfs</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>exo</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>tumbler</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

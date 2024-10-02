@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>AppStream</code>
   <description>QXBwU3RyZWFtIGlzIGEgY3Jvc3MtZGlzdHJpYnV0aW9uIGVmZm9ydCBmb3IgZW5oYW5jaW5nIHRoZSB3YXkgd2UgaW50ZXJhY3Qgd2l0aCB0aGUgc29mdHdhcmUgcmVwb3NpdG9yaWVzIHByb3ZpZGVkIGJ5IChMaW51eCkgZGlzdHJpYnV0aW9ucyBieSBzdGFuZGFyZGl6aW5nIHNvZnR3YXJlIGNvbXBvbmVudCBtZXRhZGF0YS4=</description>
-  <sourcefile>AppStream-1.0.1.tar.xz</sourcefile>
-  <sourcedir>AppStream-1.0.1</sourcedir>
+  <sourcefile>AppStream-1.0.3.tar.xz</sourcefile>
+  <sourcedir>AppStream-1.0.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgICAgICAgLURhcGlkb2NzPWZhbHNlICAgICBcDQogICAgICAgICAgICAtRHN0ZW1taW5nPWZhbHNlICAgIC4uIA==</configure>
   <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KbXYgLXYgL3Vzci9zaGFyZS9kb2MvYXBwc3RyZWFteywtMS4wLjF9</install>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KbXYgLXYgL3Vzci9zaGFyZS9kb2MvYXBwc3RyZWFteywtMS4wLjN9DQoNCmluc3RhbGwgLXZkbTc1NSAvdXNyL3NoYXJlL21ldGFpbmZvICYmDQpjYXQgPiAvdXNyL3NoYXJlL21ldGFpbmZvL29yZy5saW51eGZyb21zY3JhdGNoLmxmcy54bWwgPDwgRU9GDQo8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/Pg0KPGNvbXBvbmVudCB0eXBlPSJvcGVyYXRpbmctc3lzdGVtIj4NCiAgPGlkPm9yZy5saW51eGZyb21zY3JhdGNoLmxmczwvaWQ+DQogIDxuYW1lPkxpbnV4IEZyb20gU2NyYXRjaDwvbmFtZT4NCiAgPHN1bW1hcnk+QSBjdXN0b21pemVkIExpbnV4IHN5c3RlbSBidWlsdCBlbnRpcmVseSBmcm9tIHNvdXJjZTwvc3VtbWFyeT4NCiAgPGRlc2NyaXB0aW9uPg0KICAgIDxwPg0KICAgICAgTGludXggRnJvbSBTY3JhdGNoIChMRlMpIGlzIGEgcHJvamVjdCB0aGF0IHByb3ZpZGVzIHlvdSB3aXRoDQogICAgICBzdGVwLWJ5LXN0ZXAgaW5zdHJ1Y3Rpb25zIGZvciBidWlsZGluZyB5b3VyIG93biBjdXN0b21pemVkIExpbnV4DQogICAgICBzeXN0ZW0gZW50aXJlbHkgZnJvbSBzb3VyY2UuDQogICAgPC9wPg0KICA8L2Rlc2NyaXB0aW9uPg0KICA8dXJsIHR5cGU9ImhvbWVwYWdlIj5odHRwczovL3d3dy5saW51eGZyb21zY3JhdGNoLm9yZy9sZnMvPC91cmw+DQogIDxtZXRhZGF0YV9saWNlbnNlPk1JVDwvbWV0YWRhdGFfbGljZW5zZT4NCiAgPGRldmVsb3BlciBpZD0nbGludXhmcm9tc2NyYXRjaC5vcmcnPg0KICAgIDxuYW1lPlRoZSBMaW51eCBGcm9tIFNjcmF0Y2ggRWRpdG9yczwvbmFtZT4NCiAgPC9kZXZlbG9wZXI+DQoNCiAgPHJlbGVhc2VzPg0KICAgIDxyZWxlYXNlIHZlcnNpb249IjEyLjIiIHR5cGU9InJlbGVhc2UiIGRhdGU9IjIwMjQtMDQtMDEiPg0KICAgICAgPGRlc2NyaXB0aW9uPg0KICAgICAgICA8cD5Ob3cgY29udGFpbnMgQmludXRpbHMgMi40My4xLCBHQ0MtMTQuMi4wLCBHbGliYy0yLjQwLA0KICAgICAgICBhbmQgTGludXgga2VybmVsIDYuMTAuPC9wPg0KICAgICAgPC9kZXNjcmlwdGlvbj4NCiAgICA8L3JlbGVhc2U+DQoNCiAgICA8cmVsZWFzZSB2ZXJzaW9uPSIxMi4xIiB0eXBlPSJzdGFibGUiIGRhdGU9IjIwMjQtMDMtMDEiPg0KICAgICAgPGRlc2NyaXB0aW9uPg0KICAgICAgICA8cD5Ob3cgY29udGFpbnMgQmludXRpbHMgMi40MiwgR0NDLTEzLjIuMCwgR2xpYmMtMi4zOSwNCiAgICAgICAgYW5kIExpbnV4IGtlcm5lbCA2LjcuPC9wPg0KICAgICAgPC9kZXNjcmlwdGlvbj4NCiAgICA8L3JlbGVhc2U+DQogIDwvcmVsZWFzZXM+DQo8L2NvbXBvbmVudD4NCkVPRg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>itstool</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>glib</code>
+      <code>libxml2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>curl</code>
+      <code>glib</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gobject-introspection</code>
+      <code>curl</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>python3-gi-docgen</code>
+      <code>gobject-introspection</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>yaml</code>
+      <code>python3-gi-docgen</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>libxmlb</code>
+      <code>yaml</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>libstemmer</code>
+      <code>libxmlb</code>
       <weight>8</weight>
+    </dependance>
+    <dependance>
+      <code>libstemmer</code>
+      <weight>9</weight>
     </dependance>
   </dependances>
   <patches/>

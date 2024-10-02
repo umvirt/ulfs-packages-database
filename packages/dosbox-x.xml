@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>dosbox-x</code>
   <description>RE9TQm94LVggaXMgYW4gb3Blbi1zb3VyY2UgRE9TIGVtdWxhdG9yIGZvciBydW5uaW5nIERPUyBhcHBsaWNhdGlvbnMgYW5kIGdhbWVzLg0KRE9TLWJhc2VkIFdpbmRvd3Mgc3VjaCBhcyBXaW5kb3dzIDMueCBhbmQgV2luZG93cyA5eCBhcmUgb2ZmaWNpYWxseSBzdXBwb3J0ZWQu</description>
   <sourcefile>dosbox-x-v2024.03.01.tar.gz</sourcefile>
@@ -13,67 +13,67 @@
   <dependances>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>X</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>glu</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>sdl12-compat</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>speexdsp</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libslirp</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>SDL2_net</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>SDL</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>SDL_net</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>opusfile</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>iir1</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>zlib-ng</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>fluidsynth</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>libmt32emu</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>openglide</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
   </dependances>
   <patches>

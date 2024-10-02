@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>emu80sdl</code>
   <description>U292aWV0IHJldHJvIGNvbXB1dGVyIGVtdWxhdG9yLiBTREwgdmVyc2lvbi4=</description>
   <sourcefile>emu80v4-4.0.466.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>wxWidgets</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

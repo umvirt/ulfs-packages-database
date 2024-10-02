@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>glibmm</code>
   <description>VGhlIEdMaWJtbSBwYWNrYWdlIGlzIGEgc2V0IG9mIEMrKyBiaW5kaW5ncyBmb3IgR0xpYi4=</description>
-  <sourcefile>glibmm-2.66.5.tar.xz</sourcefile>
-  <sourcedir>glibmm-2.66.5</sourcedir>
+  <sourcefile>glibmm-2.66.7.tar.xz</sourcefile>
+  <sourcedir>glibmm-2.66.7</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uIA==</configure>
   <build>Y2QgICAgYmxkICYmDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>nmap</code>
   <description>Tm1hcCBpcyBhIHV0aWxpdHkgZm9yIG5ldHdvcmsgZXhwbG9yYXRpb24gYW5kIHNlY3VyaXR5IGF1ZGl0aW5nLiBJdCBzdXBwb3J0cyBwaW5nIHNjYW5uaW5nLCBwb3J0IHNjYW5uaW5nIGFuZCBUQ1AvSVAgZmluZ2VycHJpbnRpbmcu</description>
-  <sourcefile>nmap-7.94.tar.bz2</sourcefile>
-  <sourcedir>nmap-7.94</sourcedir>
+  <sourcefile>nmap-7.95.tar.bz2</sourcefile>
+  <sourcedir>nmap-7.95</sourcedir>
   <unpack/>
   <configure/>
   <build/>

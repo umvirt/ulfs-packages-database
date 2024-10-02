@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>alsa-utils</code>
   <description>VGhlIEFMU0EgVXRpbGl0aWVzIHBhY2thZ2UgY29udGFpbnMgdmFyaW91cyB1dGlsaXRpZXMgd2hpY2ggYXJlIHVzZWZ1bCBmb3IgY29udHJvbGxpbmcgeW91ciBzb3VuZCBjYXJkLg==</description>
-  <sourcefile>alsa-utils-1.2.11.tar.bz2</sourcefile>
-  <sourcedir>alsa-utils-1.2.11</sourcedir>
+  <sourcefile>alsa-utils-1.2.12.tar.bz2</sourcefile>
+  <sourcedir>alsa-utils-1.2.12</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1kaXNhYmxlLWFsc2Fjb25mIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1iYXQgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUteG1sdG8gICAgXA0KICAgICAgICAgICAgLS13aXRoLWN1cnNlcz1uY3Vyc2VzdyA=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ0K</build>

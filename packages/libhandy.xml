@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>libhandy</code>
   <description>VGhlIGxpYmhhbmR5IHBhY2thZ2UgcHJvdmlkZXMgYWRkaXRpb25hbCBHVEsgVUkgd2lkZ2V0cyBmb3IgdXNlIGluIGRldmVsb3BpbmcgdXNlciBpbnRlcmZhY2VzLg==</description>
   <sourcefile>libhandy-1.8.3.tar.xz</sourcefile>

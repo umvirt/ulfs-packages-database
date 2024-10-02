@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>cloud-utils</code>
   <description>VXNlZnVsIHNldCBvZiB1dGlsaXRpZXMgZm9yIGludGVyYWN0aW5nIHdpdGggYSBjbG91ZC4=</description>
   <sourcefile>cloud-utils-0.33.tar.gz</sourcefile>

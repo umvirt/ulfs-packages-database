@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xterm</code>
   <description>eHRlcm0gaXMgYSB0ZXJtaW5hbCBlbXVsYXRvciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4=</description>
-  <sourcefile>xterm-390.tgz</sourcefile>
-  <sourcedir>xterm-390</sourcedir>
+  <sourcefile>xterm-393.tgz</sourcefile>
+  <sourcedir>xterm-393</sourcedir>
   <unpack/>
   <configure>c2VkIC1pICcvdjAve247cy9uZXc6L25ldzprYj1ePzovfScgdGVybWNhcCAmJg0KcHJpbnRmICdcdGticz1cXDE3NyxcbicgPj4gdGVybWluZm8gJiYNCg0KVEVSTUlORk89L3Vzci9zaGFyZS90ZXJtaW5mbyBcDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcgICAgIFwNCiAgICAtLXdpdGgtYXBwLWRlZmF1bHRzPS9ldGMvWDExL2FwcC1kZWZhdWx0cyA=</configure>
   <build/>

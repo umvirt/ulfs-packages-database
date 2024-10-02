@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>jack2</code>
   <description>SkFDSyBBdWRpbyBDb25uZWN0aW9uIEtpdCAob3IgSkFDSykgaXMgYSBwcm9mZXNzaW9uYWwgc291bmQgc2VydmVyIEFQSSBhbmQgcGFpciBvZiBkYWVtb24gaW1wbGVtZW50YXRpb25zIHRvIHByb3ZpZGUgcmVhbC10aW1lLCBsb3ctbGF0ZW5jeSBjb25uZWN0aW9ucyBmb3IgYm90aCBhdWRpbyBhbmQgTUlESSBkYXRhIGJldHdlZW4gYXBwbGljYXRpb25zLg==</description>
   <sourcefile>jack2-c46c1b16e0eabbcf55ef69b0ffb96dfe16521cfa.tar.bz2</sourcefile>

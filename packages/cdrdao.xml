@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>cdrdao</code>
   <description>VGhlIENkcmRhbyBwYWNrYWdlIGNvbnRhaW5zIENEIHJlY29yZGluZyB1dGlsaXRpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGJ1cm5pbmcgYSBDRCBpbiBkaXNrLWF0LW9uY2UgbW9kZS4=</description>
   <sourcefile>cdrdao-1.2.4.tar.bz2</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>lame</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libmad</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libao</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

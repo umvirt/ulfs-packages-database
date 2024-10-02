@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
-  <code>libffi-x86-64</code>
+  <release>0.2.2</release>
+  <code>!libffi-x86-64</code>
   <description>VHVybiBvZmYgQ1BVIHNwZWNpZmljIG9wdGltaXphdGlvbnMuDQpBbGxvdyBjb2RlIGRpc3RyaWJ1dGlvbiBhbmQgZGlzdHJpYnV0ZWQgc291cmNlIGNvZGUgY29tcGlsYXRpb24u</description>
   <sourcefile>libffi-3.4.4.tar.gz</sourcefile>
   <sourcedir>libffi-3.4.4</sourcedir>

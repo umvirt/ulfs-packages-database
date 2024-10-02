@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>transmission</code>
   <description>VHJhbnNtaXNzaW9uIGlzIGEgY3Jvc3MtcGxhdGZvcm0sIG9wZW4gc291cmNlIEJpdFRvcnJlbnQgY2xpZW50Lg==</description>
-  <sourcefile>transmission-4.0.5.tar.xz</sourcefile>
-  <sourcedir>transmission-4.0.5</sourcedir>
+  <sourcefile>transmission-4.0.6.tar.xz</sourcefile>
+  <sourcedir>transmission-4.0.6</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX0RPQ0RJUj0vdXNyL3NoYXJlL2RvYy90cmFuc21pc3Npb24tNC4wLjUgXA0KICAgICAgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0RPQ0RJUj0vdXNyL3NoYXJlL2RvYy90cmFuc21pc3Npb24tNC4wLjYgXA0KICAgICAgLi4=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA0KDQpyc3ZnLWNvbnZlcnQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvci9zY2FsYWJsZS9hcHBzL3RyYW5zbWlzc2lvbi5zdmcgXA0KICAgLW8gL3Vzci9zaGFyZS9waXhtYXBzL3RyYW5zbWlzc2lvbi5wbmc=</install>
   <localbuild>0</localbuild>
@@ -32,7 +32,12 @@
       <weight>5</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>transmission-4.0.6-build_fix-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

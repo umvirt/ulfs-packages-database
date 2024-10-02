@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gtk3</code>
   <description>VGhlIEdUSysgMyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBjcmVhdGluZyBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzIGZvciBhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>gtk+-3.24.41.tar.xz</sourcefile>
-  <sourcedir>gtk+-3.24.41</sourcedir>
+  <sourcefile>gtk+-3.24.43.tar.xz</sourcefile>
+  <sourcedir>gtk+-3.24.43</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICBcDQogICAgICAgICAgICAtRG1hbj10cnVlICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtRGJyb2Fkd2F5X2JhY2tlbmQ9dHJ1ZSBcDQogICAgICAgICAgICAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

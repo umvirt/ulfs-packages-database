@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>luit</code>
-  <description/>
-  <sourcefile>luit-1.1.1.tar.bz2</sourcefile>
-  <sourcedir>luit-1.1.1</sourcedir>
+  <description>VGhlIGx1aXQgcGFja2FnZSBpcyBhIGZpbHRlciB0aGF0IGNhbiBiZSBydW4gYmV0d2VlbiBhbiBhcmJpdHJhcnkgYXBwbGljYXRpb24gYW5kIGEgVVRGLTggdGVybWluYWwgZW11bGF0b3IuIEl0IHdpbGwgY29udmVydCBhcHBsaWNhdGlvbiBvdXRwdXQgZnJvbSB0aGUgbG9jYWxl4oCZcyBlbmNvZGluZyBpbnRvIFVURuKAkDgsIGFuZCBjb252ZXJ0IHRlcm1pbmFsIGlucHV0IGZyb20gVVRG4oCQOCBpbnRvIHRoZSBsb2NhbGXigJlzIGVuY29kaW5nLg==</description>
+  <sourcefile>luit-20240102.tgz</sourcefile>
+  <sourcedir>luit-20240102</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pIC1lICIvRF9YT1BFTi9zLzUvNi8iIGNvbmZpZ3VyZQ0KDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcNCg==</configure>
+  <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

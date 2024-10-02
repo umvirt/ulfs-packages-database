@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>redland</code>
   <description>UmVkbGFuZCBpcyBhIHNldCBvZiBmcmVlIHNvZnR3YXJlIEMgbGlicmFyaWVzIHRoYXQgcHJvdmlkZSBzdXBwb3J0IGZvciB0aGUgUmVzb3VyY2UgRGVzY3JpcHRpb24gRnJhbWV3b3JrIChSREYpLg==</description>
   <sourcefile>redland-1.0.17.tar.gz</sourcefile>

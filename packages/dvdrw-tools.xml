@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>dvdrw-tools</code>
   <description>VGhlIGR2ZCtydy10b29scyBwYWNrYWdlIGNvbnRhaW5zIHNldmVyYWwgdXRpbGl0aWVzIHRvIG1hc3RlciB0aGUgRFZEIG1lZGlhLCBib3RoICtSVy8rUiBhbmQgLVJbV10uIFRoZSBwcmluY2lwbGUgdG9vbCBpcyBncm93aXNvZnMgd2hpY2ggcHJvdmlkZXMgYSB3YXkgdG8gYm90aCBsYXkgZG93biBhbmQgZ3JvdyBhbiBJU085NjYwIGZpbGUgc3lzdGVtIG9uIChhcyB3ZWxsIGFzIHRvIGJ1cm4gYW4gYXJiaXRyYXJ5IHByZS1tYXN0ZXJlZCBpbWFnZSB0bykgYWxsIHN1cHBvcnRlZCBEVkQgbWVkaWEuIFRoaXMgaXMgdXNlZnVsIGZvciBjcmVhdGluZyBhIG5ldyBEVkQgb3IgYWRkaW5nIHRvIGFuIGV4aXN0aW5nIGltYWdlIG9uIGEgcGFydGlhbGx5IGJ1cm5lZCBEVkQu</description>
   <sourcefile>dvd+rw-tools-7.1.tar.gz</sourcefile>
   <sourcedir>dvd+rw-tools-7.1</sourcedir>
   <unpack/>
-  <configure>Iw==</configure>
+  <configure>c2VkIC1pICcvc3RhdC5oL2EgI2luY2x1ZGUgPHN5cy9zeXNtYWNyb3MuaD4nIGdyb3dpc29mcy5jICYmDQpzZWQgLWkgJy9zdGRsaWIvYSAjaW5jbHVkZSA8bGltaXRzLmg+JyB0cmFuc3BvcnQuaHh4IA==</configure>
   <build>bWFrZSBhbGwgcnBsOCBidGNmbGFzaA==</build>
   <install>bWFrZSBwcmVmaXg9L3VzciBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLW02NDQgLUQgaW5kZXguaHRtbCBcDQogICAgL3Vzci9zaGFyZS9kb2MvZHZkK3J3LXRvb2xzLTcuMS9pbmRleC5odG1sDQoNCmZp</install>
   <localbuild>0</localbuild>

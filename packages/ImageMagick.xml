@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>ImageMagick</code>
   <description>SW1hZ2VNYWdpY2sgaXMgYSBjb2xsZWN0aW9uIG9mIHRvb2xzIGFuZCBsaWJyYXJpZXMgdG8gcmVhZCwgd3JpdGUsIGFuZCBtYW5pcHVsYXRlIGFuIGltYWdlIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
-  <sourcefile>ImageMagick-7.1.1-28.tar.xz</sourcefile>
-  <sourcedir>ImageMagick-7.1.1-28</sourcedir>
+  <sourcefile>ImageMagick-7.1.1-36.tar.xz</sourcefile>
+  <sourcedir>ImageMagick-7.1.1-36</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUtaGRyaSAgICAgXA0KICAgICAgICAgICAgLS13aXRoLW1vZHVsZXMgICAgXA0KICAgICAgICAgICAgLS13aXRoLXBlcmwgICAgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUM=</configure>
   <build/>

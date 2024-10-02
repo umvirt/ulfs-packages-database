@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gzdoom</code>
   <description>R1pEb29tIGlzIGEgZmVhdHVyZSBjZW50cmljIHBvcnQgZm9yIGFsbCBEb29tIGVuZ2luZSBnYW1lcywgYmFzZWQgb24gWkRvb20sIGFkZGluZyBhbiBPcGVuR0wgcmVuZGVyZXIgYW5kIHBvd2VyZnVsIHNjcmlwdGluZyBjYXBhYmlsaXRpZXM=</description>
   <sourcefile>gzdoom-g4.12.2.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>SDL2_net</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>SDL2_mixer</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>ZMusic</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xkeyboard-config</code>
   <description>VGhlIFhLZXlib2FyZENvbmZpZyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBrZXlib2FyZCBjb25maWd1cmF0aW9uIGRhdGFiYXNlIGZvciB0aGUgWCBXaW5kb3cgU3lzdGVtLg==</description>
-  <sourcefile>xkeyboard-config-2.41.tar.xz</sourcefile>
-  <sourcedir>xkeyboard-config-2.41</sourcedir>
+  <sourcefile>xkeyboard-config-2.42.tar.xz</sourcefile>
+  <sourcedir>xkeyboard-config-2.42</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiANCg0K</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>

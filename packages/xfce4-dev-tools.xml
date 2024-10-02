@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xfce4-dev-tools</code>
   <description>VGhlIFhmY2U0IERldmVsb3BtZW50IFRvb2xzIGFyZSBhIGNvbGxlY3Rpb24gb2YgdG9vbHMgYW5kIG1hY3JvcyBmb3IgYnVpbGRpbmcgc29tZSBYZmNlIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>xfce4-dev-tools-4.18.1.tar.bz2</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gnome-settings-daemon</code>
   <description>VGhlIEdOT01FIFNldHRpbmdzIERhZW1vbiBpcyByZXNwb25zaWJsZSBmb3Igc2V0dGluZyB2YXJpb3VzIHBhcmFtZXRlcnMgb2YgYSBHTk9NRSBTZXNzaW9uIGFuZCB0aGUgYXBwbGljYXRpb25zIHRoYXQgcnVuIHVuZGVyIGl0Lg==</description>
-  <sourcefile>gnome-settings-daemon-45.1.tar.xz</sourcefile>
-  <sourcedir>gnome-settings-daemon-45.1</sourcedir>
+  <sourcefile>gnome-settings-daemon-46.0.tar.xz</sourcefile>
+  <sourcedir>gnome-settings-daemon-46.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg==</build>
@@ -84,12 +84,7 @@
       <weight>18</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>gnome-settings-daemon-45.1-testsuite_fix-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

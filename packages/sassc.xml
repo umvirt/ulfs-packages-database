@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>sassc</code>
   <description>U2Fzc0MgaXMgYSB3cmFwcGVyIGFyb3VuZCBsaWJzYXNzLCBhIENTUyBwcmUtcHJvY2Vzc29yIGxhbmd1YWdlLg==</description>
   <sourcefile>sassc-3.6.2.tar.gz</sourcefile>

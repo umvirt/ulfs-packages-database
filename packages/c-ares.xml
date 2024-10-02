@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>c-ares</code>
   <description>Yy1hcmVzIGlzIGEgQyBsaWJyYXJ5IGZvciBhc3luY2hyb25vdXMgRE5TIHJlcXVlc3RzLg==</description>
-  <sourcefile>c-ares-1.26.0.tar.gz</sourcefile>
-  <sourcedir>c-ares-1.26.0</sourcedir>
+  <sourcefile>c-ares-1.33.0.tar.gz</sourcefile>
+  <sourcedir>c-ares-1.33.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4g</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>SDL2_net</code>
   <description>TmV0d29yayBsaWJyYXJ5IGZvciBTaW1wbGUgRGlyZWN0TWVkaWEgTGF5ZXIgMg==</description>
   <sourcefile>SDL2_net-2.2.0.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

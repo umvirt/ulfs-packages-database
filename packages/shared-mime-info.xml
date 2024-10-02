@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>shared-mime-info</code>
   <description>VGhlIFNoYXJlZCBNaW1lIEluZm8gcGFja2FnZSBjb250YWlucyBhIE1JTUUgZGF0YWJhc2Uu</description>
   <sourcefile>shared-mime-info-2.4.tar.gz</sourcefile>

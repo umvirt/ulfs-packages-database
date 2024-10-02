@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gcdemu</code>
   <description>Z0NERW11IGlzIGEgR1RLIGFwcGxpY2F0aW9uIGZvciBjb250cm9sbGluZyBDREVtdSBkYWVtb24u</description>
   <sourcefile>gcdemu-3.2.6.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cdemu-daemon</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>cdemu-client</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

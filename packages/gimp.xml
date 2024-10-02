@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gimp</code>
   <description>VGhlIEdpbXAgcGFja2FnZSBjb250YWlucyB0aGUgR05VIEltYWdlIE1hbmlwdWxhdGlvbiBQcm9ncmFtIHdoaWNoIGlzIHVzZWZ1bCBmb3IgcGhvdG8gcmV0b3VjaGluZywgaW1hZ2UgY29tcG9zaXRpb24gYW5kIGltYWdlIGF1dGhvcmluZy4=</description>
-  <sourcefile>gimp-2.10.36.tar.bz2</sourcefile>
-  <sourcedir>gimp-2.10.36</sourcedir>
+  <sourcefile>gimp3-20240711.tar.xz</sourcefile>
+  <sourcedir>gimp3-20240711</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
-  <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
-  <install>bWFrZSBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
+  <configure>bWtkaXIgZ2ltcC1idWlsZCAmJg0KY2QgICAgZ2ltcC1idWlsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgLi4=</configure>
+  <build>Y2QgICAgZ2ltcC1idWlsZA0KDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>
+  <install>Y2QgICAgZ2ltcC1idWlsZA0KbmluamEgaW5zdGFsbA0KDQpndGstdXBkYXRlLWljb24tY2FjaGUgLXF0ZiAvdXNyL3NoYXJlL2ljb25zL2hpY29sb3IgJiYNCnVwZGF0ZS1kZXNrdG9wLWRhdGFiYXNlIC1x</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

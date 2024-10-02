@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xfce4-pulseaudio-plugin</code>
   <description>VGhlIFhmY2U0IFB1bHNlYXVkaW8gUGx1Z2luIGlzIGEgcGx1Z2luIGZvciB0aGUgWGZjZSBwYW5lbCB3aGljaCBwcm92aWRlcyBhIGNvbnZlbmllbnQgd2F5IHRvIGFkanVzdCB0aGUgYXVkaW8gdm9sdW1lIG9mIHRoZSBQdWxzZUF1ZGlvIHNvdW5kIHN5c3RlbSBhbmQgdG8gYW4gYXV0byBtaXhlciB0b29sIGxpa2UgcGF2dWNvbnRyb2wuIEl0IGNhbiBvcHRpb25hbGx5IGhhbmRsZSBtdWx0aW1lZGlhIGtleXMgZm9yIGNvbnRyb2xsaW5nIHRoZSBhdWRpbyB2b2x1bWUu</description>
   <sourcefile>xfce4-pulseaudio-plugin-0.4.8.tar.bz2</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>keybinder</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>dbus-glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>pavucontrol</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>xfce4-panel</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

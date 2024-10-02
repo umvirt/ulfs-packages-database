@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>lilv</code>
   <description>TGlsdiBpcyBhIEMgbGlicmFyeSB0byBtYWtlIHRoZSB1c2Ugb2YgTFYyIHBsdWdpbnMgYXMgc2ltcGxlIGFzIHBvc3NpYmxlIGZvciBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>lilv-0.24.24.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>zix</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>serd</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>sord</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>lv2</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>sratom</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

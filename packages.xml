@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <architectures>
     <architecture>
       <code>x86</code>
@@ -293,16 +293,16 @@
     <package>GConf</package>
     <package>geocode-glib</package>
     <package>yasm</package>
-    <package>autoconf213</package>
+    <package>!autoconf213</package>
     <package>nspr</package>
-    <package>mozjs</package>
-    <package>gjs</package>
+    <package>!mozjs</package>
+    <package>!gjs</package>
     <package>gnome-autoar</package>
     <package>gnome-desktop</package>
     <package>libseccomp</package>
     <package>bubblewrap</package>
     <package>gnome-menus</package>
-    <package>gnome-video-effects</package>
+    <package>!gnome-video-effects</package>
     <package>systemd</package>
     <package>alsa-lib</package>
     <package>gstreamer</package>
@@ -495,10 +495,10 @@
     <package>icecc</package>
     <package>libcap-ng</package>
     <package>lzo</package>
-    <package>icecream-sundae</package>
+    <package>!icecream-sundae</package>
     <package>icemon</package>
     <package>extra-cmake-modules</package>
-    <package>libffi-x86-64</package>
+    <package>!libffi-x86-64</package>
     <package>mate-desktop</package>
     <package>Perl-XML-Simple</package>
     <package>icon-naming-utils</package>
@@ -607,7 +607,7 @@
     <package>cpio</package>
     <package>aufs</package>
     <package>aufs-util</package>
-    <package>lz4</package>
+    <package>!lz4</package>
     <package>linux-live</package>
     <package>lightdm-app</package>
     <package>libxfce4util</package>
@@ -699,7 +699,7 @@
     <package>postfix</package>
     <package>exim</package>
     <package>dovecot</package>
-    <package>libreoffice7</package>
+    <package>!libreoffice7</package>
     <package>perl-Archive-Zip</package>
     <package>clucene</package>
     <package>glm</package>
@@ -753,7 +753,7 @@
     <package>caja-extensions</package>
     <package>caja</package>
     <package>caja-actions</package>
-    <package>libreoffice24</package>
+    <package>!libreoffice24</package>
     <package>garcon</package>
     <package>xfce4-panel</package>
     <package>thunar</package>
@@ -891,7 +891,7 @@
     <package>abseil-cpp</package>
     <package>spdlog</package>
     <package>assimp</package>
-    <package>HackMatrix</package>
+    <package>!HackMatrix</package>
     <package>googletest</package>
     <package>obs-studio</package>
     <package>LuaJIT</package>
@@ -1000,5 +1000,10 @@
     <package>mangohud</package>
     <package>opentracker</package>
     <package>libzip</package>
+    <package>glib-gobject</package>
+    <package>libclc</package>
+    <package>SPIRV-LLVM-Translator</package>
+    <package>python3-ply</package>
+    <package>python3-trove_classifiers</package>
   </packages>
 </packages>

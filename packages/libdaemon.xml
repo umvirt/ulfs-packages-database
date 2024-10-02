@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>libdaemon</code>
   <description>VGhlIGxpYmRhZW1vbiBwYWNrYWdlIGlzIGEgbGlnaHR3ZWlnaHQgQyBsaWJyYXJ5IHRoYXQgZWFzZXMgdGhlIHdyaXRpbmcgb2YgVU5JWCBkYWVtb25zLg==</description>
   <sourcefile>libdaemon-0.14.tar.gz</sourcefile>

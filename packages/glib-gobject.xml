@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>glib-gobject</code>
+  <description>VGhlIEdMaWIgcGFja2FnZSBjb250YWlucyBsb3ctbGV2ZWwgbGlicmFyaWVzIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIGRhdGEgc3RydWN0dXJlIGhhbmRsaW5nIGZvciBDLCBwb3J0YWJpbGl0eSB3cmFwcGVycyBhbmQgaW50ZXJmYWNlcyBmb3IgcnVudGltZSBmdW5jdGlvbmFsaXR5IHN1Y2ggYXMgYW4gZXZlbnQgbG9vcCwgdGhyZWFkcywgZHluYW1pYyBsb2FkaW5nIGFuZCBhbiBvYmplY3Qgc3lzdGVtLg==</description>
+  <sourcefile>glib-2.80.4.tar.xz</sourcefile>
+  <sourcedir>glib-2.80.4</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgIFwNCiAgICAgIC1EIGludHJvc3BlY3Rpb249ZW5hYmxlZCAgXA0KICAgICAgLUQgbWFuLXBhZ2VzPWVuYWJsZWQgIA0KDQog</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

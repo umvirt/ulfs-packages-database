@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>OpenShadingLanguage</code>
   <description>QWR2YW5jZWQgc2hhZGluZyBsYW5ndWFnZSBmb3IgcHJvZHVjdGlvbiBHSSByZW5kZXJlcnM=</description>
   <sourcefile>OpenShadingLanguage-1.13.8.0.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>OpenImageIO</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-pybind11</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pugixml</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

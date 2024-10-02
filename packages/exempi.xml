@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>exempi</code>
   <description>RXhlbXBpIGlzIGFuIGltcGxlbWVudGF0aW9uIG9mIFhNUCAoQWRvYmUncyBFeHRlbnNpYmxlIE1ldGFkYXRhIFBsYXRmb3JtKS4=</description>
   <sourcefile>exempi-2.6.5.tar.xz</sourcefile>

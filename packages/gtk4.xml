@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gtk4</code>
   <description/>
-  <sourcefile>gtk-4.12.5.tar.xz</sourcefile>
-  <sourcedir>gtk-4.12.5</sourcedir>
+  <sourcefile>gtk-4.14.5.tar.xz</sourcefile>
+  <sourcedir>gtk-4.14.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgICAgICAgIC1EYnJvYWR3YXktYmFja2VuZD10cnVlIFwNCiAgICAgICAgICAgIC1EaW50cm9zcGVjdGlvbj1lbmFibGVkIFwNCiAgICAgICAgICAgIC4uDQo=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgXA0KICAgICAgICAgICAgLUQgYnJvYWR3YXktYmFja2VuZD10cnVlIFwNCiAgICAgICAgICAgIC1EIGludHJvc3BlY3Rpb249ZW5hYmxlZCBcDQogICAgICAgICAgICAuLg0K</configure>
+  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkICJzQCdkb2MnQCYgLyAnZ3RrLTQuMTQuNSdAIiAtaSAuLi9kb2NzL3JlZmVyZW5jZS9tZXNvbi5idWlsZCAmJg0KbWVzb24gY29uZmlndXJlIC1EIGRvY3VtZW50YXRpb249dHJ1ZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KbmluamENCg0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>
   <dependances>
@@ -49,11 +49,11 @@
     </dependance>
     <dependance>
       <code>librsvg</code>
-      <weight>11</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-bad</code>
-      <weight>12</weight>
+      <weight>11</weight>
     </dependance>
   </dependances>
   <patches/>

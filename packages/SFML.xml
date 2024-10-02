@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>SFML</code>
   <description>U0ZNTCBwcm92aWRlcyBhIHNpbXBsZSBpbnRlcmZhY2UgdG8gdGhlIHZhcmlvdXMgY29tcG9uZW50cyBvZiB5b3VyIFBDLCB0byBlYXNlIHRoZSBkZXZlbG9wbWVudCBvZiBnYW1lcyBhbmQgbXVsdGltZWRpYSBhcHBsaWNhdGlvbnMuIEl0IGlzIGNvbXBvc2VkIG9mIGZpdmUgbW9kdWxlczogc3lzdGVtLCB3aW5kb3csIGdyYXBoaWNzLCBhdWRpbyBhbmQgbmV0d29yay4=</description>
   <sourcefile>SFML-2.6.1.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>flac</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>openal</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

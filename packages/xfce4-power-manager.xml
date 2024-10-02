@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xfce4-power-manager</code>
   <description>VGhlIFhmY2U0IFBvd2VyIE1hbmFnZXIgaXMgYSBwb3dlciBtYW5hZ2VyIGZvciB0aGUgWGZjZSBkZXNrdG9wLCBYZmNlIHBvd2VyIG1hbmFnZXIgbWFuYWdlcyB0aGUgcG93ZXIgc291cmNlcyBvbiB0aGUgY29tcHV0ZXIgYW5kIHRoZSBkZXZpY2VzIHRoYXQgY2FuIGJlIGNvbnRyb2xsZWQgdG8gcmVkdWNlIHRoZWlyIHBvd2VyIGNvbnN1bXB0aW9uIChzdWNoIGFzIExDRCBicmlnaHRuZXNzIGxldmVsIG9yIG1vbml0b3Igc2xlZXApLiBJbiBhZGRpdGlvbiwgWGZjZTQgUG93ZXIgTWFuYWdlciBwcm92aWRlcyBhIHNldCBvZiBmcmVlZGVza3RvcC1jb21wbGlhbnQgREJ1cyBpbnRlcmZhY2VzIHRvIGluZm9ybSBvdGhlciBhcHBsaWNhdGlvbnMgYWJvdXQgY3VycmVudCBwb3dlciBsZXZlbCBzbyB0aGF0IHRoZXkgY2FuIGFkanVzdCB0aGVpciBwb3dlciBjb25zdW1wdGlvbi4=</description>
-  <sourcefile>xfce4-power-manager-4.18.3.tar.bz2</sourcefile>
-  <sourcedir>xfce4-power-manager-4.18.3</sourcedir>
+  <sourcefile>xfce4-power-manager-4.18.4.tar.bz2</sourcefile>
+  <sourcedir>xfce4-power-manager-4.18.4</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>polkit</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>upower</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>NetworkManager</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>xfce4-panel</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

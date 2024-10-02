@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-packaging</code>
   <description>VGhlIFBhY2thZ2luZyBsaWJyYXJ5IHByb3ZpZGVzIHV0aWxpdGllcyB0aGF0IGltcGxlbWVudCB0aGUgaW50ZXJvcGVyYWJpbGl0eSBzcGVjaWZpY2F0aW9ucyB3aGljaCBoYXZlIGNsZWFybHkgb25lIGNvcnJlY3QgYmVoYXZpb3VyIG9yIGJlbmVmaXQgZ3JlYXRseSBmcm9tIGhhdmluZyBhIHNpbmdsZSBzaGFyZWQgaW1wbGVtZW50YXRpb24u</description>
-  <sourcefile>packaging-23.2.tar.gz</sourcefile>
-  <sourcedir>packaging-23.2</sourcedir>
+  <sourcefile>packaging-24.1.tar.gz</sourcefile>
+  <sourcedir>packaging-24.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

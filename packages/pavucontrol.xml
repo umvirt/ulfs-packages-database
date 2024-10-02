@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>pavucontrol</code>
   <description>UHVsc2VBdWRpbyBWb2x1bWUgQ29udHJvbCAocGF2dWNvbnRyb2wpIGlzIGEgc2ltcGxlIEdUSyBiYXNlZCB2b2x1bWUgY29udHJvbCB0b29sICgibWl4ZXIiKSBmb3IgdGhlIFB1bHNlQXVkaW8gc291bmQgc2VydmVyLiBJbiBjb250cmFzdCB0byBjbGFzc2ljIG1peGVyIHRvb2xzLCB0aGlzIG9uZSBhbGxvd3MgeW91IHRvIGNvbnRyb2wgYm90aCB0aGUgdm9sdW1lIG9mIGhhcmR3YXJlIGRldmljZXMgYW5kIG9mIGVhY2ggcGxheWJhY2sgc3RyZWFtIHNlcGFyYXRlbHku</description>
-  <sourcefile>pavucontrol-5.0.tar.xz</sourcefile>
-  <sourcedir>pavucontrol-5.0</sourcedir>
+  <sourcefile>pavucontrol-6.1.tar.xz</sourcefile>
+  <sourcedir>pavucontrol-6.1</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9wYXZ1Y29udHJvbC01LjA=</configure>
-  <build/>
-  <install/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRCBseW54PWZhbHNlIC4u</configure>
+  <build>Y2QgICAgYnVpbGQgDQpuaW5qYQ==</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwgJiYNCm12IC91c3Ivc2hhcmUvZG9jL3BhdnVjb250cm9sIC91c3Ivc2hhcmUvZG9jL3BhdnVjb250cm9sLTYuMQ==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

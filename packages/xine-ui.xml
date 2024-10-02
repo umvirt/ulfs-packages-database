@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xine-ui</code>
   <description>VGhlIHhpbmUgVXNlciBJbnRlcmZhY2UgcGFja2FnZSBjb250YWlucyBhIG11bHRpbWVkaWEgcGxheWVyLiBJdCBwbGF5cyBiYWNrIENEcywgRFZEcyBhbmQgVkNEcy4gSXQgYWxzbyBkZWNvZGVzIG11bHRpbWVkaWEgZmlsZXMgbGlrZSBBVkksIE1PViwgV01WLCBNUEVHIGFuZCBNUDMgZnJvbSBsb2NhbCBkaXNrIGRyaXZlcywgYW5kIGRpc3BsYXlzIG11bHRpbWVkaWEgc3RyZWFtZWQgb3ZlciB0aGUgSW50ZXJuZXQu</description>
   <sourcefile>xine-ui-0.99.14.tar.xz</sourcefile>

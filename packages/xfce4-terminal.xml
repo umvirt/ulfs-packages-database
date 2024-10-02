@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xfce4-terminal</code>
   <description>WGZjZTQgVGVybWluYWwgaXMgYSBHVEsrMyB0ZXJtaW5hbCBlbXVsYXRvci4=</description>
-  <sourcefile>xfce4-terminal-1.1.2.tar.bz2</sourcefile>
-  <sourcedir>xfce4-terminal-1.1.2</sourcedir>
+  <sourcefile>xfce4-terminal-1.1.3.tar.bz2</sourcefile>
+  <sourcedir>xfce4-terminal-1.1.3</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>vte</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxfce4ui</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

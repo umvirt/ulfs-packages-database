@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>tracker-miners</code>
   <description>VGhlIFRyYWNrZXItbWluZXJzIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgZGF0YSBleHRyYWN0b3JzIGZvciBUcmFja2VyLg==</description>
-  <sourcefile>tracker-miners-3.6.2.tar.xz</sourcefile>
-  <sourcedir>tracker-miners-3.6.2</sourcedir>
+  <sourcefile>tracker-miners-3.7.3.tar.xz</sourcefile>
+  <sourcedir>tracker-miners-3.7.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRG1hbj1mYWxzZSAgICAgICAgIFwNCiAgICAgICAgICAgIC4uICAgICAgICA=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCBtYW49ZmFsc2UgICAgICAgIFwNCiAgICAgICAgICAgIC1EIG1pbmVyX3Jzcz1mYWxzZSAgXA0KICAgICAgICAgICAgLi4gICAgICAgIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
@@ -64,7 +64,12 @@
       <weight>13</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>tracker-miners-3.7.3-upstream_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>libxcvt</code>
   <description>bGlieGN2dCBpcyBhIGxpYnJhcnkgcHJvdmlkaW5nIGEgc3RhbmRhbG9uZSB2ZXJzaW9uIG9mIHRoZSBYIHNlcnZlciBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgVkVTQSBDVlQgc3RhbmRhcmQgdGltaW5nIG1vZGVsaW5lcyBnZW5lcmF0b3Iu</description>
   <sourcefile>libxcvt-0.1.2.tar.xz</sourcefile>

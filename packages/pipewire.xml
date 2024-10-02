@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>pipewire</code>
   <description>VGhlIHBpcGV3aXJlIHBhY2thZ2UgY29udGFpbnMgYSBzZXJ2ZXIgYW5kIHVzZXJzcGFjZSBBUEkgdG8gaGFuZGxlIG11bHRpbWVkaWEgcGlwZWxpbmVzLiBUaGlzIGluY2x1ZGVzIGEgdW5pdmVyc2FsIEFQSSB0byBjb25uZWN0IHRvIG11bHRpbWVkaWEgZGV2aWNlcywgYXMgd2VsbCBhcyBzaGFyaW5nIG11bHRpbWVkaWEgZmlsZXMgYmV0d2VlbiBhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>pipewire-1.0.3.tar.bz2</sourcefile>
-  <sourcedir>pipewire-1.0.3</sourcedir>
+  <sourcefile>pipewire-1.2.3.tar.bz2</sourcefile>
+  <sourcedir>pipewire-1.2.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgIC1Ec2Vzc2lvbi1tYW5hZ2Vycz0iW10iDQo=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>cdemu-daemon</code>
   <description>Q0RFbXUgZGFlbW9uIGlzIHRoZSB1c2Vyc3BhY2UgZGFlbW9uIHBhcnQgb2YgdGhlIGNkZW11IHN1aXRlLg==</description>
   <sourcefile>cdemu-daemon-3.2.6.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libao</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>vhba-module</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libmirage</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

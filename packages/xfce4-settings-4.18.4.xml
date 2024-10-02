@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xfce4-settings-4.18.4</code>
   <description>VGhlIFhmY2U0IFNldHRpbmdzIHBhY2thZ2UgY29udGFpbnMgYSBjb2xsZWN0aW9uIG9mIHByb2dyYW1zIHRoYXQgYXJlIHVzZWZ1bCBmb3IgYWRqdXN0aW5nIHlvdXIgWGZjZSBwcmVmZXJlbmNlcy4=</description>
-  <sourcefile>xfce4-settings-4.18.4.tar.bz2</sourcefile>
-  <sourcedir>xfce4-settings-4.18.4</sourcedir>
+  <sourcefile>xfce4-settings-4.18.6.tar.bz2</sourcefile>
+  <sourcedir>xfce4-settings-4.18.6</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>
@@ -13,43 +13,43 @@
   <dependances>
     <dependance>
       <code>libinput</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>lxde-icon-theme</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libcanberra</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>upower</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>colord</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>gnome-icon-theme</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libxklavier</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>exo</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>garcon</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
   </dependances>
   <patches/>

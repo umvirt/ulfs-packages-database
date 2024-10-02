@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>MPlayer</code>
   <description>TVBsYXllciBpcyBhIHBvd2VyZnVsIGF1ZGlvL3ZpZGVvIHBsYXllciBjb250cm9sbGVkIHZpYSB0aGUgY29tbWFuZCBsaW5lIG9yIGEgZ3JhcGhpY2FsIGludGVyZmFjZSB0aGF0IGlzIGFibGUgdG8gcGxheSBhbG1vc3QgZXZlcnkgcG9wdWxhciBhdWRpbyBhbmQgdmlkZW8gZmlsZSBmb3JtYXQuIFdpdGggc3VwcG9ydGVkIHZpZGVvIGhhcmR3YXJlIGFuZCBhZGRpdGlvbmFsIGRyaXZlcnMsIE1QbGF5ZXIgY2FuIHBsYXkgdmlkZW8gZmlsZXMgd2l0aG91dCBhbiBYIFdpbmRvdyBTeXN0ZW0gaW5zdGFsbGVkLg==</description>
   <sourcefile>MPlayer-1.5.tar.xz</sourcefile>
@@ -13,131 +13,131 @@
   <dependances>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>yasm</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>cdparanoia-III</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libtheora</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libdvdread</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libdvdnav</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>sdl12-compat</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>giflib</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>lame</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>x264</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>libvdpau</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>libvpx</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>mpg123</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>speex</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>libcdio</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>samba</code>
-      <weight>0</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>ALSA</code>
-      <weight>0</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>lzo</code>
-      <weight>0</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>a52dec</code>
-      <weight>0</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>libmad</code>
-      <weight>0</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>libdv</code>
-      <weight>0</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>libdvdcss</code>
-      <weight>0</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>faad2</code>
-      <weight>0</weight>
+      <weight>27</weight>
     </dependance>
     <dependance>
       <code>libmpeg2</code>
-      <weight>0</weight>
+      <weight>28</weight>
     </dependance>
     <dependance>
       <code>aalib</code>
-      <weight>0</weight>
+      <weight>29</weight>
     </dependance>
     <dependance>
       <code>libmng</code>
-      <weight>0</weight>
+      <weight>30</weight>
     </dependance>
     <dependance>
       <code>faac</code>
-      <weight>0</weight>
+      <weight>31</weight>
     </dependance>
     <dependance>
       <code>xvidcore</code>
-      <weight>0</weight>
+      <weight>32</weight>
     </dependance>
   </dependances>
   <patches>

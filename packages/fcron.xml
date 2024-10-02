@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>fcron</code>
   <description>VGhlIEZjcm9uIHBhY2thZ2UgY29udGFpbnMgYSBwZXJpb2RpY2FsIGNvbW1hbmQgc2NoZWR1bGVyIHdoaWNoIGFpbXMgYXQgcmVwbGFjaW5nIFZpeGllIENyb24uDQoNCg==</description>
   <sourcefile>fcron-3.2.1.src.tar.gz</sourcefile>

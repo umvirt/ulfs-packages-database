@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>mesa</code>
   <description>TWVzYSBpcyBhbiBPcGVuR0wgY29tcGF0aWJsZSAzRCBncmFwaGljcyBsaWJyYXJ5Lg==</description>
-  <sourcefile>mesa-24.0.1.tar.xz</sourcefile>
-  <sourcedir>mesa-24.0.1</sourcedir>
+  <sourcefile>mesa-24.1.5.tar.xz</sourcefile>
+  <sourcedir>mesa-24.1.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgIC1EcGxhdGZvcm1zPXgxMSx3YXlsYW5kIFwNCiAgICAgIC1EZ2FsbGl1bS1kcml2ZXJzPWF1dG8gIFwNCiAgICAgIC1EdnVsa2FuLWRyaXZlcnM9YXV0byAgIFwNCiAgICAgIC1EdmFsZ3JpbmQ9ZGlzYWJsZWQgICAgIFwNCiAgICAgIC1EbGlidW53aW5kPWRpc2FibGVkICAgIFwNCiAgICAgIC1Eb3NtZXNhPXRydWUgICAgICAgICAgIFwNCiAgICAgIC4uICAgICAgICAgICAgICAgICAgICAgIA==</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIHBsYXRmb3Jtcz14MTEsd2F5bGFuZCBcDQogICAgICAtRCBnYWxsaXVtLWRyaXZlcnM9a21zcm8scmFkZW9uc2kscjMwMCxyNjAwLHN3cmFzdCxzdmdhLHZpcmdsLGk5MTUsaXJpcyx6aW5rICBcDQogICAgICAtRCB2dWxrYW4tZHJpdmVycz1hbWQsc3dyYXN0LHZpcnRpbyxpbnRlbCxpbnRlbF9oYXN2ayAgIFwNCiAgICAgIC1EIHZhbGdyaW5kPWRpc2FibGVkICAgICBcDQogICAgICAtRCBnYWxsaXVtLXJ1c3RpY2w9ZmFsc2UgXA0KICAgICAgLUQgbGlidW53aW5kPWRpc2FibGVkIA==</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI0LjAuMQ0KDQpmaQ0K</install>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI0LjEuNQ0KDQpmaQ0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>libclc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-ply</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>glslang</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>Vulkan-Loader</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>llvm</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libdrm</code>
+      <code>Vulkan-Loader</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>python3-Mako</code>
+      <code>llvm</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>wayland-protocols</code>
+      <code>libdrm</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>python3-Mako</code>
+      <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>wayland-protocols</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches>
@@ -52,26 +60,6 @@
       <build>Y2QgYnVpbGQNCg0KbWVzb24gY29tcGlsZQ==</build>
       <install>Y2QgYnVpbGQNCg0KbWVzb24gaW5zdGFsbCAtLWRlc3RkaXIgREVTVERJUg0KY3AgLVJ2IERFU1RESVIvdXNyL2xpYjMyLyogL3Vzci9saWIzMg==</install>
       <dependances>
-        <dependance>
-          <code>llvm</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-        <dependance>
-          <code>Vulkan-Loader</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-        <dependance>
-          <code>wayland</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-        <dependance>
-          <code>libdrm</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
         <dependance>
           <code>xcb-util</code>
           <arch>lib32_amd64</arch>
@@ -99,6 +87,26 @@
         </dependance>
         <dependance>
           <code>xcb-util-cursor</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>llvm</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libdrm</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>wayland</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>Vulkan-Loader</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

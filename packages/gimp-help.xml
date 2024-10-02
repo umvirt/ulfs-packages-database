@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gimp-help</code>
   <description>R0lNUCBoZWxwIGZpbGVzLg==</description>
-  <sourcefile>gimp-help-2.10.34.tar.bz2</sourcefile>
-  <sourcedir>gimp-help-2.10.34</sourcedir>
+  <sourcefile>gimp3-help-20240711.tar.xz</sourcefile>
+  <sourcedir>gimp3-help-20240711</sourcedir>
   <unpack/>
-  <configure>QUxMX0xJTkdVQVM9ImNhIGNzIGRhIGRlIGVuIGVuX0dCIGVzIGZhIGZyIGhyIGtvIGx0IG5sIG5uIHB0IHB0X0JSIHJvIHNsIHN2IHVrIHpoX0NOIiBcDQouL2F1dG9nZW4uc2ggLS1wcmVmaXg9L3Vzcg==</configure>
+  <configure>YXV0b21ha2UgLS1hZGQtbWlzc2luZw0KDQpBTExfTElOR1VBUz0iY2EgY3MgZGEgZGUgZW4gZW5fR0IgZXMgZmEgZnIgaHIga28gbHQgbmwgbm4gcHQgcHRfQlIgcm8gc2wgc3YgdWsgemhfQ04iIFwNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsICYmDQpjaG93biAtUiByb290OnJvb3QgL3Vzci9zaGFyZS9naW1wLzIuMC9oZWxw</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQpjaG93biAtUiByb290OnJvb3QgL3Vzci9zaGFyZS9naW1wLzMuMC9oZWxw</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

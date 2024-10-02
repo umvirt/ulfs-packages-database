@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-Markdown</code>
   <description>TWFya2Rvd24gaXMgYSBQeXRob24gcGFyc2VyIGZvciBKb2huIEdydWJlcidzIE1hcmtkb3duIHNwZWNpZmljYXRpb24u</description>
-  <sourcefile>Markdown-3.4.1.tar.gz</sourcefile>
-  <sourcedir>Markdown-3.4.1</sourcedir>
+  <sourcefile>Markdown-3.6.tar.gz</sourcefile>
+  <sourcedir>Markdown-3.6</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

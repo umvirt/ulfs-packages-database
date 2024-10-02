@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>at-spi2-core</code>
   <description>VGhlIEF0LVNwaTIgQ29yZSBwYWNrYWdlIGNvbnRhaW5zIGEgY29tcHJlaGVuc2l2ZSBhY2Nlc3NpYmlsaXR5IGZyYW1ld29yayBmb3IgdGhlIEFzc2lzdGl2ZSBUZWNobm9sb2dpZXMgYXZhaWxhYmxlIG9uIHRoZSBHTk9NRSBwbGF0Zm9ybS4=</description>
-  <sourcefile>at-spi2-core-2.50.1.tar.xz</sourcefile>
-  <sourcedir>at-spi2-core-2.50.1</sourcedir>
+  <sourcefile>at-spi2-core-2.52.0.tar.xz</sourcefile>
+  <sourcedir>at-spi2-core-2.52.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
@@ -44,12 +44,12 @@
       <install>Y2QgICAgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
       <dependances>
         <dependance>
-          <code>Xlibs</code>
+          <code>glib</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
         <dependance>
-          <code>glib</code>
+          <code>Xlibs</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

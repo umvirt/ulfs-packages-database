@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>asciidoctor</code>
   <description>QXNjaWlkb2N0b3IgaXMgYSBmYXN0LCBvcGVuIHNvdXJjZSB0ZXh0IHByb2Nlc3NvciBhbmQgcHVibGlzaGluZyB0b29sY2hhaW4gZm9yIGNvbnZlcnRpbmcgQXNjaWlEb2MgY29udGVudCB0byBIVE1MNSwgRG9jQm9vaywgUERGLCBhbmQgb3RoZXIgZm9ybWF0cy4=</description>
-  <sourcefile>asciidoctor-2.0.20.tar.gz</sourcefile>
-  <sourcedir>asciidoctor-2.0.20</sourcedir>
+  <sourcefile>asciidoctor-2.0.23.tar.gz</sourcefile>
+  <sourcedir>asciidoctor-2.0.23</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Z2VtIGJ1aWxkIGFzY2lpZG9jdG9yLmdlbXNwZWM=</build>
-  <install>Z2VtIGluc3RhbGwgYXNjaWlkb2N0b3ItMi4wLjIwLmdlbSAmJg0KaW5zdGFsbCAtdm02NDQgbWFuL2FzY2lpZG9jdG9yLjEgL3Vzci9zaGFyZS9tYW4vbWFuMQ==</install>
+  <install>Z2VtIGluc3RhbGwgYXNjaWlkb2N0b3ItMi4wLjIzLmdlbSAmJg0KaW5zdGFsbCAtdm02NDQgbWFuL2FzY2lpZG9jdG9yLjEgL3Vzci9zaGFyZS9tYW4vbWFuMQ==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

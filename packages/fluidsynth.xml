@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>fluidsynth</code>
   <description>Rmx1aWRTeW50aCBpcyBhIHJlYWwtdGltZSBzb2Z0d2FyZSBzeW50aGVzaXplciBiYXNlZCBvbiB0aGUgU291bmRGb250IDIgc3BlY2lmaWNhdGlvbnMgYW5kIGhhcyByZWFjaGVkIHdpZGVzcHJlYWQgZGlzdHJpYnV0aW9uLg==</description>
   <sourcefile>fluidsynth-2.3.5.tar.gz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libsndfile</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

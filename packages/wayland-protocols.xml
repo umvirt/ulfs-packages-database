@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>wayland-protocols</code>
   <description>VGhlIFdheWxhbmQtUHJvdG9jb2xzIHBhY2thZ2UgY29udGFpbnMgYWRkaXRpb25hbCBXYXlsYW5kIHByb3RvY29scyB0aGF0IGFkZCBmdW5jdGlvbmFsaXR5IG91dHNpZGUgb2YgcHJvdG9jb2xzIGFscmVhZHkgaW4gdGhlIFdheWxhbmQgY29yZS4=</description>
-  <sourcefile>wayland-protocols-1.33.tar.xz</sourcefile>
-  <sourcedir>wayland-protocols-1.33</sourcedir>
+  <sourcefile>wayland-protocols-1.36.tar.xz</sourcefile>
+  <sourcedir>wayland-protocols-1.36</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZQ0KDQo=</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQoNCg==</build>

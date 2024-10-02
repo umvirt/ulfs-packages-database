@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gtk2</code>
   <description>VGhlIEdUSysgMiBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBjcmVhdGluZyBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzIGZvciBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>gtk+-2.24.33.tar.xz</sourcefile>
   <sourcedir>gtk+-2.24.33</sourcedir>
   <unpack/>
-  <configure>c2VkIC1lICdzI2wgXChndGstLipcKS5zZ21sIyYgLW8gXDEjJyBcDQogICAgLWkgZG9jcy97ZmFxLHR1dG9yaWFsfS9NYWtlZmlsZS5pbiAgICAgICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1zeXNjb25mZGlyPS9ldGMNCg==</configure>
-  <build/>
-  <install/>
+  <configure>c2xlZXAgMTAgDQoNCnJtIC12IGdkay9nZGttYXJzaGFsZXJzLntjLGh9IGd0ay9ndGttYXJzaGFsLntjLGh9IGd0ay9ndGttYXJzaGFsZXJzLntjLGh9IFwNCgkJcGVyZi9tYXJzaGFsZXJzLntjLGh9IGd0ay9ndGthbGlhc2RlZi5jIGd0ay9ndGthbGlhcy5oDQoNCnNlZCAtaSAnL0FNX0lOSVRfQVVUT01BS0Uvcy9dLyBmb3JlaWduXS8nIGNvbmZpZ3VyZS5hYw0KDQojc2VkIC1lICdzI2wgXChndGstLipcKS5zZ21sIyYgLW8gXDEjJyBcDQojICAgIC1pIGRvY3Mve2ZhcSx0dXRvcmlhbH0vTWFrZWZpbGUuaW4gICAgICAmJg0KDQphdXRvcmVjb25mIC1mdmkNCg0KI0NGTEFHUys9Ii1XZXJyb3I9aW1wbGljaXQtZnVuY3Rpb24tZGVjbGFyYXRpb24gLVdlcnJvcj1pbXBsaWNpdC1pbnQgLVdlcnJvcj1pbmNvbXBhdGlibGUtZnVuY3Rpb24tcG9pbnRlci10eXBlcyINCg0KDQpDRkxBR1MrPSIgLVduby1kZXByZWNhdGVkLWRlY2xhcmF0aW9ucyINCkNYWEZMQUdTKz0iIC1Xbm8tZGVwcmVjYXRlZC1kZWNsYXJhdGlvbnMiDQoNCmVjaG8gJENGTEFHUw0Kc2xlZXAgMTANCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgXA0KICAgIC0tZW5hYmxlLWludHJvc3BlY3Rpb249bm8gXA0KICAgIC0td2l0aC14aW5wdXQ9bm8gXA0KICAgIC0tZGlzYWJsZS1ndGstZG9jDQoNCg==</configure>
+  <build>I0NGTEFHUys9Ii1XZXJyb3I9aW1wbGljaXQtZnVuY3Rpb24tZGVjbGFyYXRpb24gLVdlcnJvcj1pbXBsaWNpdC1pbnQgLVdlcnJvcj1pbmNvbXBhdGlibGUtZnVuY3Rpb24tcG9pbnRlci10eXBlcyINCg0KQ0ZMQUdTKz0iIC1Xbm8tZGVwcmVjYXRlZC1kZWNsYXJhdGlvbnMiDQpDWFhGTEFHUys9IiAtV25vLWRlcHJlY2F0ZWQtZGVjbGFyYXRpb25zIg0KDQplY2hvICRDRkxBR1MNCnNsZWVwIDEwDQoNCm1ha2U=</build>
+  <install>Iw==</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>gtk-doc</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>at-spi2-core</code>
       <weight>1</weight>
@@ -28,7 +32,12 @@
       <weight>4</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>gtk+-2.24.33-Fix-casts.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
@@ -40,17 +49,12 @@
       <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMyDQo=</install>
       <dependances>
         <dependance>
-          <code>Xlibs</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-        <dependance>
           <code>glib</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
         <dependance>
-          <code>pango</code>
+          <code>Xlibs</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
@@ -61,6 +65,11 @@
         </dependance>
         <dependance>
           <code>gdk-pixbuf</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>pango</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

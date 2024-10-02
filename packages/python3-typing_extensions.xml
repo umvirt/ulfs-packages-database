@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-typing_extensions</code>
   <description>VGhlIFR5cGluZ19leHRlbnNpb25zIG1vZHVsZSBhbGxvd3MgdXNpbmcgbmV3IHR5cGUgc3lzdGVtIGZlYXR1cmVzIG5vdCB5ZXQgZGVmaW5lZCBvbiB0aGUgUHl0aG9uIHZlcnNpb24gaW4gdXNlIG9uIHRoZSBzeXN0ZW0u</description>
   <sourcefile>typing_extensions-4.4.0.tar.gz</sourcefile>

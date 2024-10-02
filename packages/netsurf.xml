@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>netsurf</code>
   <description>TmV0U3VyZiBpcyBhIGZyZWUsIG9wZW4gc291cmNlIHdlYiBicm93c2VyLg==</description>
   <sourcefile>netsurf-all-3.11.tar.gz</sourcefile>
@@ -13,83 +13,83 @@
   <dependances>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>glib</code>
+      <code>libxml2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>pcre2</code>
+      <code>glib</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>curl</code>
+      <code>pcre2</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>gobject-introspection</code>
+      <code>curl</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>fontconfig</code>
+      <code>gobject-introspection</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>Xlibs</code>
+      <code>fontconfig</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>Xlibs</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>pixman</code>
+      <code>libpng</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>graphite2</code>
+      <code>pixman</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>gtk2</code>
+      <code>graphite2</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>gtk2</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>gdk-pixbuf</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>fribidi</code>
+      <code>libjpeg-turbo</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>cairo</code>
+      <code>fribidi</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>pango</code>
+      <code>cairo</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>libcroco</code>
+      <code>pango</code>
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>libcroco</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>libwebp</code>
+      <code>librsvg</code>
       <weight>19</weight>
+    </dependance>
+    <dependance>
+      <code>libwebp</code>
+      <weight>20</weight>
     </dependance>
   </dependances>
   <patches/>

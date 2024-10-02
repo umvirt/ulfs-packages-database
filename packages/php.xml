@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>php</code>
   <description>UEhQIGlzIHRoZSBQSFAgSHlwZXJ0ZXh0IFByZXByb2Nlc3Nvci4gUHJpbWFyaWx5IHVzZWQgaW4gZHluYW1pYyB3ZWIgc2l0ZXMsIGl0IGFsbG93cyBmb3IgcHJvZ3JhbW1pbmcgY29kZSB0byBiZSBkaXJlY3RseSBlbWJlZGRlZCBpbnRvIHRoZSBIVE1MIG1hcmt1cC4gSXQgaXMgYWxzbyB1c2VmdWwgYXMgYSBnZW5lcmFsIHB1cnBvc2Ugc2NyaXB0aW5nIGxhbmd1YWdlLg==</description>
-  <sourcefile>php-8.3.3.tar.xz</sourcefile>
-  <sourcedir>php-8.3.3</sourcedir>
+  <sourcefile>php-8.3.10.tar.xz</sourcefile>
+  <sourcedir>php-8.3.10</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICAgICAgICAgXA0KICAgICAgICAgICAgLS1kYXRhZGlyPS91c3Ivc2hhcmUvcGhwICAgICBcDQogICAgICAgICAgICAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbiAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWZwbSAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRob3V0LXBlYXIgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtZnBtLXVzZXI9YXBhY2hlICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1mcG0tZ3JvdXA9YXBhY2hlICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWZwbS1zeXN0ZW1kICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtY29uZmlnLWZpbGUtcGF0aD0vZXRjIFwNCiAgICAgICAgICAgIC0td2l0aC16bGliICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtYmNtYXRoICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtYnoyICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWNhbGVuZGFyICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZGJhPXNoYXJlZCAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtZ2RibSAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1nbXAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZnRwICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtZ2V0dGV4dCAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLW1ic3RyaW5nICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLW1icmVnZXggICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtcmVhZGxpbmUgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWdkICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWZyZWV0eXBlICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtYXZpZiAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1qcGVnICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXhwbSAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtd2VicCAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1vcGVuc3NsICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWN1cmwgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtbGRhcCAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1teXNxbGkgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXBnc3FsICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtcGRvLW15c3FsICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1wZG8tcGdzcWwgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtc29hcCAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1pbnRsICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXNvY2tldHMgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXppcCAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1wY250bCAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC14c2wg</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQppbnN0YWxsIC12IC1tNjQ0IHBocC5pbmktcHJvZHVjdGlvbiAvZXRjL3BocC5pbmkgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy9waHAtOC4zLjMgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgQ09ESU5HX1NUQU5EQVJEUyogRVhURU5TSU9OUyBORVdTIFJFQURNRSogVVBHUkFESU5HKiBcDQogICAgICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL3BocC04LjMuMw==</install>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQppbnN0YWxsIC12IC1tNjQ0IHBocC5pbmktcHJvZHVjdGlvbiAvZXRjL3BocC5pbmkgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy9waHAtOC4zLjEwICYmDQppbnN0YWxsIC12IC1tNjQ0ICAgIENPRElOR19TVEFOREFSRFMqIEVYVEVOU0lPTlMgTkVXUyBSRUFETUUqIFVQR1JBRElORyogXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9waHAtOC4zLjEw</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libXpm</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libwebp</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libavif</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libzip</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libxslt</code>
+      <code>libwebp</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>curl</code>
+      <code>libavif</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>libzip</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>libxml2</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>tiff</code>
+      <code>libxslt</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>OpenLDAP-client</code>
+      <code>curl</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>httpd</code>
+      <code>libpng</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>mariadb-client</code>
+      <code>libjpeg-turbo</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>postgresql-client</code>
+      <code>tiff</code>
       <weight>10</weight>
+    </dependance>
+    <dependance>
+      <code>OpenLDAP-client</code>
+      <weight>11</weight>
+    </dependance>
+    <dependance>
+      <code>httpd</code>
+      <weight>12</weight>
+    </dependance>
+    <dependance>
+      <code>mariadb-client</code>
+      <weight>13</weight>
+    </dependance>
+    <dependance>
+      <code>postgresql-client</code>
+      <weight>14</weight>
     </dependance>
   </dependances>
   <patches/>

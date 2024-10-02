@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>mate-control-center</code>
   <description>TWF0ZSBDb250cm9sIENlbnRlcg==</description>
   <sourcefile>mate-control-center-1.26.1.tar.xz</sourcefile>
@@ -13,35 +13,35 @@
   <dependances>
     <dependance>
       <code>libgtop</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>udisks</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gtk3</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>dbus-glib</code>
+      <code>udisks</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>desktop-file-utils</code>
+      <code>gtk3</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>mate-menus</code>
+      <code>dbus-glib</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>marco</code>
+      <code>desktop-file-utils</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>mate-settings-daemon</code>
+      <code>mate-menus</code>
       <weight>6</weight>
+    </dependance>
+    <dependance>
+      <code>marco</code>
+      <weight>7</weight>
+    </dependance>
+    <dependance>
+      <code>mate-settings-daemon</code>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

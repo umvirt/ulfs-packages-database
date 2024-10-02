@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
-  <code>gjs</code>
+  <release>0.2.2</release>
+  <code>!gjs</code>
   <description>R2pzIGlzIGEgc2V0IG9mIEphdmFzY3JpcHQgYmluZGluZ3MgZm9yIEdOT01FLg==</description>
   <sourcefile>gjs-1.78.4.tar.xz</sourcefile>
   <sourcedir>gjs-1.78.4</sourcedir>
@@ -32,7 +32,7 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>mozjs</code>
+      <code>!mozjs</code>
       <weight>6</weight>
     </dependance>
   </dependances>

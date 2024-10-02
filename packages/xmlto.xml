@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xmlto</code>
   <description>VGhlIHhtbHRvIHBhY2thZ2UgaXMgYSBmcm9udC1lbmQgdG8gYSBYU0wgdG9vbGNoYWluLg==</description>
-  <sourcefile>xmlto-0.0.28.tar.bz2</sourcefile>
-  <sourcedir>xmlto-0.0.28</sourcedir>
+  <sourcefile>xmlto-0.0.29.tar.gz</sourcefile>
+  <sourcedir>xmlto-0.0.29</sourcedir>
   <unpack/>
-  <configure>TElOS1M9Ii91c3IvYmluL2xpbmtzIiBcDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <configure>YXV0b3JlY29uZiAtZml2DQoNCkxJTktTPSIvdXNyL2Jpbi9saW5rcyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
   <install>bWFrZSBpbnN0YWxsDQojYWRkIHByb3h5IHRvIHNraXAgdmFsaWRhdGlvbiB0byBidWlsZCBvZmZsaW5lDQptdiAvdXNyL2Jpbi94bWx0byAgL3Vzci9iaW4veG1sdG9fDQoNCmNhdCA+IC91c3IvYmluL3htbHRvIDw8ICJFT0YiDQovdXNyL2Jpbi94bWx0b18gLS1za2lwLXZhbGlkYXRpb24gJEANCkVPRg0KDQpjaG1vZCAreCAvdXNyL2Jpbi94bWx0byA=</install>
   <localbuild>0</localbuild>

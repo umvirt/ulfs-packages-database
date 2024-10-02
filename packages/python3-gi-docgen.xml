@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-gi-docgen</code>
   <description>R2ktRG9jR2VuIGlzIGEgZG9jdW1lbnQgZ2VuZXJhdG9yIGZvciBHT2JqZWN0LWJhc2VkIGxpYnJhcmllcy4gR09iamVjdCBpcyB0aGUgYmFzZSB0eXBlIHN5c3RlbSBvZiB0aGUgR05PTUUgcHJvamVjdC4gR0ktRG9jZ2VuIHJldXNlcyB0aGUgaW50cm9zcGVjdGlvbiBkYXRhIGdlbmVyYXRlZCBieSBHT2JqZWN0LWJhc2VkIGxpYnJhcmllcyB0byBnZW5lcmF0ZSB0aGUgQVBJIHJlZmVyZW5jZSBvZiB0aGVzZSBsaWJyYXJpZXMsIGFzIHdlbGwgYXMgb3RoZXIgYW5jaWxsYXJ5IGRvY3VtZW50YXRpb24u</description>
-  <sourcefile>gi-docgen-2023.3.tar.gz</sourcefile>
-  <sourcedir>gi-docgen-2023.3</sourcedir>
+  <sourcefile>gi_docgen-2024.1.tar.gz</sourcefile>
+  <sourcedir>gi_docgen-2024.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>ntfs-3g</code>
   <description>VGhlIE50ZnMtM2cgcGFja2FnZSBjb250YWlucyBhIHN0YWJsZSwgcmVhZC13cml0ZSBvcGVuIHNvdXJjZSBkcml2ZXIgZm9yIE5URlMgcGFydGl0aW9ucy4g</description>
   <sourcefile>ntfs-3g_ntfsprogs-2022.10.3.tgz</sourcefile>

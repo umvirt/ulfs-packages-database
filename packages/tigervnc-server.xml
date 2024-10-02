@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>tigervnc-server</code>
   <description>Vk5DIHNlcnZlciAmIGNsaWVudA==</description>
-  <sourcefile>tigervnc-1.13.1.tar.gz</sourcefile>
-  <sourcedir>tigervnc-1.13.1</sourcedir>
+  <sourcefile>tigervnc-1.14.0.tar.gz</sourcefile>
+  <sourcedir>tigervnc-1.14.0</sourcedir>
   <unpack/>
-  <configure>IyBQdXQgY29kZSBpbiBwbGFjZQ0KbWtkaXIgLXAgdW5peC94c2VydmVyICYmDQp0YXIgLXhmIC4uL3hvcmctc2VydmVyLTIxLjEuMTEudGFyLnh6IFwNCiAgICAtLXN0cmlwLWNvbXBvbmVudHM9MSAgICAgICAgICAgICAgXA0KICAgIC1DIHVuaXgveHNlcnZlciAgICAgICAgICAgICAgICAgICAmJg0KKCBjZCB1bml4L3hzZXJ2ZXIgJiYNCiAgcGF0Y2ggLU5wMSAtaSAuLi94c2VydmVyMjEuMS4xLnBhdGNoICkgJiYNCg0KIyBCdWlsZCB2aWV3ZXINCmNtYWtlIC1HICJVbml4IE1ha2VmaWxlcyIgICAgICAgICBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAgIC1Xbm8tZGV2IC4NCg0KDQojIEJ1aWxkIHNlcnZlcg0KcHVzaGQgdW5peC94c2VydmVyICYmDQogIGF1dG9yZWNvbmYgLWZpdiAgJiYNCg0KICBDUFBGTEFHUz0iLUkvdXNyL2luY2x1ZGUvZHJtIiAgICAgICBcDQogIC4vY29uZmlndXJlICRYT1JHX0NPTkZJRyAgICAgICAgICAgIFwNCiAgICAgIC0tZGlzYWJsZS14d2F5bGFuZCAgICAtLWRpc2FibGUtZHJpICAgICAgICAtLWRpc2FibGUtZG14ICAgICAgICAgXA0KICAgICAgLS1kaXNhYmxlLXhvcmcgICAgICAgIC0tZGlzYWJsZS14bmVzdCAgICAgIC0tZGlzYWJsZS14dmZiICAgICAgICBcDQogICAgICAtLWRpc2FibGUteHdpbiAgICAgICAgLS1kaXNhYmxlLXhlcGh5ciAgICAgLS1kaXNhYmxlLWtkcml2ZSAgICAgIFwNCiAgICAgIC0tZGlzYWJsZS1kZXZlbC1kb2NzICAtLWRpc2FibGUtY29uZmlnLWhhbCAtLWRpc2FibGUtY29uZmlnLXVkZXYgXA0KICAgICAgLS1kaXNhYmxlLXVuaXQtdGVzdHMgIC0tZGlzYWJsZS1zZWxlY3RpdmUtd2Vycm9yICAgICAgICAgICAgICAgICBcDQogICAgICAtLWRpc2FibGUtc3RhdGljICAgICAgLS1lbmFibGUtZHJpMyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC0td2l0aG91dC1kdHJhY2UgICAgICAtLWVuYWJsZS1kcmkyICAgICAgICAtLWVuYWJsZS1nbHggICAgICAgICAgXA0KICAgICAgLS13aXRoLXBpYyANCnBvcGQ=</configure>
+  <configure>IyBQdXQgY29kZSBpbiBwbGFjZQ0KbWtkaXIgLXAgdW5peC94c2VydmVyICYmDQp0YXIgLXhmIC4uL3hvcmctc2VydmVyLTIxLjEuMTMudGFyLnh6IFwNCiAgICAtLXN0cmlwLWNvbXBvbmVudHM9MSAgICAgICAgICAgICAgXA0KICAgIC1DIHVuaXgveHNlcnZlciAgICAgICAgICAgICAgICAgICAmJg0KKCBjZCB1bml4L3hzZXJ2ZXIgJiYNCiAgcGF0Y2ggLU5wMSAtaSAuLi94c2VydmVyMjEuMS4xLnBhdGNoICkgJiYNCg0KIyBCdWlsZCB2aWV3ZXINCmNtYWtlIC1HICJVbml4IE1ha2VmaWxlcyIgICAgICAgICBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAgIC1Xbm8tZGV2IC4NCg0KDQojIEJ1aWxkIHNlcnZlcg0KcHVzaGQgdW5peC94c2VydmVyICYmDQogIGF1dG9yZWNvbmYgLWZpdiAgJiYNCg0KICBDUFBGTEFHUz0iLUkvdXNyL2luY2x1ZGUvZHJtIiAgICAgICBcDQogIC4vY29uZmlndXJlICRYT1JHX0NPTkZJRyAgICAgICAgICAgIFwNCiAgICAgIC0tZGlzYWJsZS14d2F5bGFuZCAgICAtLWRpc2FibGUtZHJpICAgICAgICAtLWRpc2FibGUtZG14ICAgICAgICAgXA0KICAgICAgLS1kaXNhYmxlLXhvcmcgICAgICAgIC0tZGlzYWJsZS14bmVzdCAgICAgIC0tZGlzYWJsZS14dmZiICAgICAgICBcDQogICAgICAtLWRpc2FibGUteHdpbiAgICAgICAgLS1kaXNhYmxlLXhlcGh5ciAgICAgLS1kaXNhYmxlLWtkcml2ZSAgICAgIFwNCiAgICAgIC0tZGlzYWJsZS1kZXZlbC1kb2NzICAtLWRpc2FibGUtY29uZmlnLWhhbCAtLWRpc2FibGUtY29uZmlnLXVkZXYgXA0KICAgICAgLS1kaXNhYmxlLXVuaXQtdGVzdHMgIC0tZGlzYWJsZS1zZWxlY3RpdmUtd2Vycm9yICAgICAgICAgICAgICAgICBcDQogICAgICAtLWRpc2FibGUtc3RhdGljICAgICAgLS1lbmFibGUtZHJpMyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC0td2l0aG91dC1kdHJhY2UgICAgICAtLWVuYWJsZS1kcmkyICAgICAgICAtLWVuYWJsZS1nbHggICAgICAgICAgXA0KICAgICAgLS13aXRoLXBpYyANCnBvcGQ=</configure>
   <build>bWFrZQ0KDQojIEJ1aWxkIHNlcnZlcg0KcHVzaGQgdW5peC94c2VydmVyICYmDQogIG1ha2UNCnBvcGQ=</build>
   <install>I0luc3RhbGwgdmlld2VyDQptYWtlIGluc3RhbGwgJiYNCg0KI0luc3RhbGwgc2VydmVyDQooIGNkIHVuaXgveHNlcnZlci9ody92bmMgJiYgbWFrZSBpbnN0YWxsICkgJiYNCg0KWyAtZSAvdXNyL2Jpbi9Ydm5jIF0gfHwgbG4gLXN2ZiAkWE9SR19QUkVGSVgvYmluL1h2bmMgL3Vzci9iaW4vWHZuYw==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>AppStream</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>cmake</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>Xapps</code>
+      <code>cmake</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>pixman</code>
+      <code>Xapps</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>xinit</code>
+      <code>pixman</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>xinit</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>gnutls</code>
+      <code>libjpeg-turbo</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>libgcrypt</code>
+      <code>gnutls</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>systemd</code>
+      <code>libgcrypt</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>ImageMagick</code>
+      <code>systemd</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>fltk</code>
+      <code>ImageMagick</code>
       <weight>10</weight>
+    </dependance>
+    <dependance>
+      <code>fltk</code>
+      <weight>11</weight>
     </dependance>
   </dependances>
   <patches>
     <patch>
-      <filename>tigervnc-1.13.1-configuration_fixes-1.patch</filename>
+      <filename>tigervnc-1.14.0-configuration_fixes-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>
   <addons>
-    <addon>xorg-server-21.1.11.tar.xz</addon>
+    <addon>xorg-server-21.1.13.tar.xz</addon>
   </addons>
   <nestings/>
   <comments/>

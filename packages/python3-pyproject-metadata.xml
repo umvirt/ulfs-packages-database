@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-pyproject-metadata</code>
   <description>UEVQIDYyMSBtZXRhZGF0YSBwYXJzaW5n</description>
-  <sourcefile>pyproject-metadata-0.7.1.tar.gz</sourcefile>
-  <sourcedir>pyproject-metadata-0.7.1</sourcedir>
+  <sourcefile>pyproject_metadata-0.8.0.tar.gz</sourcefile>
+  <sourcedir>pyproject_metadata-0.8.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

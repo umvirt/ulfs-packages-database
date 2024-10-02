@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xfburn</code>
   <description>WGZidXJuIGlzIGEgR1RLKyAzIEdVSSBmcm9udGVuZCBmb3IgTGliaXNvYnVybi4=</description>
-  <sourcefile>xfburn-0.7.0.tar.bz2</sourcefile>
-  <sourcedir>xfburn-0.7.0</sourcedir>
+  <sourcefile>xfburn-0.7.2.tar.bz2</sourcefile>
+  <sourcedir>xfburn-0.7.2</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMNCg0K</configure>
   <build/>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>libisofs</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libburn</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-base</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libxfce4ui</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>exo</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>cdrdao</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

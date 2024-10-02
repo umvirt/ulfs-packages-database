@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>Xfonts-misc</code>
   <description/>
   <sourcefile/>
@@ -13,47 +13,47 @@
   <dependances>
     <dependance>
       <code>font-cursor-misc</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>font-daewoo-misc</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>font-dec-misc</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>font-isas-misc</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>font-jis-misc</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>font-micro-misc</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>font-mutt-misc</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>font-misc-misc</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>font-schumacher-misc</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>font-sony-misc</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>font-sun-misc</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
   </dependances>
   <patches/>

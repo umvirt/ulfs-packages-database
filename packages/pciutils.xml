@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>pciutils</code>
   <description>VGhlIFBDSSBVdGlscyBwYWNrYWdlIGNvbnRhaW5zIGEgc2V0IG9mIHByb2dyYW1zIGZvciBsaXN0aW5nIFBDSSBkZXZpY2VzLCBpbnNwZWN0aW5nIHRoZWlyIHN0YXR1cyBhbmQgc2V0dGluZyB0aGVpciBjb25maWd1cmF0aW9uIHJlZ2lzdGVycy4=</description>
-  <sourcefile>pciutils-3.10.0.tar.gz</sourcefile>
-  <sourcedir>pciutils-3.10.0</sourcedir>
+  <sourcefile>pciutils-3.13.0.tar.gz</sourcefile>
+  <sourcedir>pciutils-3.13.0</sourcedir>
   <unpack/>
   <configure>emNhdCAuLi9wY2kuaWRzLmd6ID4gcGNpLmlkcw==</configure>
   <build>bWFrZSBQUkVGSVg9L3VzciAgICAgICAgICAgICAgICBcDQogICAgIFNIQVJFRElSPS91c3Ivc2hhcmUvaHdkYXRhIFwNCiAgICAgWkxJQj1ubyAgICAgICAgICAgICAgICAgICAgXA0KICAgICBTSEFSRUQ9eWVz</build>

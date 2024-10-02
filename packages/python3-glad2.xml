@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-glad2</code>
   <description>VGhlIEdsYWQgcGFja2FnZSBjb250YWlucyBhIGdlbmVyYXRvciBmb3IgbG9hZGluZyBWdWxrYW4sIE9wZW5HTCwgRUdMLCBHTEVTLCBhbmQgR0xYIGNvbnRleHRzLg==</description>
   <sourcefile>glad-2.0.5.tar.gz</sourcefile>

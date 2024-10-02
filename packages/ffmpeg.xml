@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>ffmpeg</code>
   <description>RkZtcGVnIGlzIGEgc29sdXRpb24gdG8gcmVjb3JkLCBjb252ZXJ0IGFuZCBzdHJlYW0gYXVkaW8gYW5kIHZpZGVvLiBJdCBpcyBhIHZlcnkgZmFzdCB2aWRlbyBhbmQgYXVkaW8gY29udmVydGVyIGFuZCBpdCBjYW4gYWxzbyBhY3F1aXJlIGZyb20gYSBsaXZlIGF1ZGlvL3ZpZGVvIHNvdXJjZS4=</description>
-  <sourcefile>ffmpeg-6.1.1.tar.xz</sourcefile>
-  <sourcedir>ffmpeg-6.1.1</sourcedir>
+  <sourcefile>ffmpeg-7.0.2.tar.xz</sourcefile>
+  <sourcedir>ffmpeg-7.0.2</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZ3BsICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdmVyc2lvbjMgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbm9uZnJlZSAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVkICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYW9tICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYXNzICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZmRrLWFhYyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZnJlZXR5cGUgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlibXAzbGFtZSAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlib3B1cyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidm9yYmlzICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidnB4ICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NCAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NSAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtb3BlbnNzbCAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXZ1bGthbiAgICAgXA0KICAgICAgICAgICAgLS1pZ25vcmUtdGVzdHM9ZW5oYW5jZWQtZmx2LWF2MSBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9mZm1wZWctNi4xLjEg</configure>
-  <build>bWFrZQ0KDQpnY2MgdG9vbHMvcXQtZmFzdHN0YXJ0LmMgLW8gdG9vbHMvcXQtZmFzdHN0YXJ0DQo=</build>
-  <install>bWFrZSBpbnN0YWxsICYmDQoNCmluc3RhbGwgLXYgLW03NTUgICAgdG9vbHMvcXQtZmFzdHN0YXJ0IC91c3IvYmluICYmDQppbnN0YWxsIC12IC1tNzU1IC1kICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9mZm1wZWctNi4xLjEgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgZG9jLyoudHh0IC91c3Ivc2hhcmUvZG9jL2ZmbXBlZy02LjEuMQ==</install>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZ3BsICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdmVyc2lvbjMgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbm9uZnJlZSAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVkICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYW9tICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYXNzICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZmRrLWFhYyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZnJlZXR5cGUgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlibXAzbGFtZSAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlib3B1cyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidm9yYmlzICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidnB4ICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NCAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NSAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtb3BlbnNzbCAgICAgXA0KICAgICAgICAgICAgLS1pZ25vcmUtdGVzdHM9ZW5oYW5jZWQtZmx2LWF2MSBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9mZm1wZWctNy4wLjINCg==</configure>
+  <build>bWFrZSAmJg0KDQpnY2MgdG9vbHMvcXQtZmFzdHN0YXJ0LmMgLW8gdG9vbHMvcXQtZmFzdHN0YXJ0</build>
+  <install>bWFrZSBpbnN0YWxsICYmDQoNCmluc3RhbGwgLXYgLW03NTUgICAgdG9vbHMvcXQtZmFzdHN0YXJ0IC91c3IvYmluICYmDQppbnN0YWxsIC12IC1tNzU1IC1kICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9mZm1wZWctNy4wLjIgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgZG9jLyoudHh0IC91c3Ivc2hhcmUvZG9jL2ZmbXBlZy03LjAuMg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>xvidcore</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>freetype-stage2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>nasm</code>
+      <code>freetype-stage2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>yasm</code>
+      <code>nasm</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>alsa-lib</code>
+      <code>yasm</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libvorbis</code>
+      <code>alsa-lib</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libtheora</code>
+      <code>libvorbis</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>libtheora</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>libaom</code>
+      <code>SDL2</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>libass</code>
+      <code>libaom</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>fdk-aac</code>
+      <code>libass</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>lame</code>
+      <code>fdk-aac</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>opus</code>
+      <code>lame</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>x264</code>
+      <code>opus</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>x265</code>
+      <code>x264</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>libva</code>
+      <code>x265</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>libvdpau</code>
+      <code>libva</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>libvpx</code>
+      <code>libvdpau</code>
       <weight>17</weight>
+    </dependance>
+    <dependance>
+      <code>libvpx</code>
+      <weight>18</weight>
     </dependance>
   </dependances>
   <patches>

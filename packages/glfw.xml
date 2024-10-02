@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>glfw</code>
   <description>QSBtdWx0aS1wbGF0Zm9ybSBsaWJyYXJ5IGZvciBPcGVuR0wsIE9wZW5HTCBFUywgVnVsa2FuLCB3aW5kb3cgYW5kIGlucHV0</description>
   <sourcefile>glfw-3.4.tar.gz</sourcefile>

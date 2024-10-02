@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gst-libav</code>
   <description>VGhlIEdTdHJlYW1lciBMaWJhdiBwYWNrYWdlIGNvbnRhaW5zIEdTdHJlYW1lciBwbHVnaW5zIGZvciBMaWJhdiAoYSBmb3JrIG9mIEZGbXBlZyku</description>
-  <sourcefile>gst-libav-1.22.10.tar.xz</sourcefile>
-  <sourcedir>gst-libav-1.22.10</sourcedir>
+  <sourcefile>gst-libav-1.24.7.tar.xz</sourcefile>
+  <sourcedir>gst-libav-1.24.7</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uICBzZXR1cCAuLiAgICAgICAgICAgIFwNCiAgICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgICAtRHBhY2thZ2Utb3JpZ2luPWh0dHBzOi8vd3d3LmxpbnV4ZnJvbXNjcmF0Y2gub3JnL2JsZnMvdmlldy8xMi4xLXN5c3RlbWQvIFwNCiAgICAgICAtRHBhY2thZ2UtbmFtZT0iR1N0cmVhbWVyIDEuMjIuMTAgQkxGUyIgDQo=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlDQo=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>

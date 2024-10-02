@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
-  <code>mozjs</code>
+  <release>0.2.2</release>
+  <code>!mozjs</code>
   <description/>
   <sourcefile>mozjs-52.2.1gnome1.tar.gz</sourcefile>
   <sourcedir>mozjs-52.2.1gnome1</sourcedir>
@@ -28,7 +28,7 @@
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>autoconf213</code>
+      <code>!autoconf213</code>
       <weight>5</weight>
     </dependance>
     <dependance>

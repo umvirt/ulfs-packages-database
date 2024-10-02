@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
-  <code>HackMatrix</code>
+  <release>0.2.2</release>
+  <code>!HackMatrix</code>
   <description>QSAzZCBMaW51eCBkZXNrdG9wIGVudmlyb25tZW50IChhbmQgZ2FtZSBlbmdpbmUp</description>
   <sourcefile>HackMatrix-4f7723fc4a98678dcbd2f6293f3de071c87534cf.tar.xz</sourcefile>
   <sourcedir>HackMatrix-4f7723fc4a98678dcbd2f6293f3de071c87534cf</sourcedir>
@@ -13,35 +13,35 @@
   <dependances>
     <dependance>
       <code>Xlibs</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>fmt</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>glfw</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>zeromq</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>protobuf</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>spdlog</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>assimp</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches>

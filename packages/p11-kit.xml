@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>p11-kit</code>
   <description>VGhlIHAxMS1raXQgcGFja2FnZSBwcm92aWRlcyBhIHdheSB0byBsb2FkIGFuZCBlbnVtZXJhdGUgUEtDUyAjMTEgKGEgQ3J5cHRvZ3JhcGhpYyBUb2tlbiBJbnRlcmZhY2UgU3RhbmRhcmQpIG1vZHVsZXMu</description>
-  <sourcefile>p11-kit-0.25.3.tar.xz</sourcefile>
-  <sourcedir>p11-kit-0.25.3</sourcedir>
+  <sourcefile>p11-kit-0.25.5.tar.xz</sourcefile>
+  <sourcedir>p11-kit-0.25.5</sourcedir>
   <unpack/>
   <configure>c2VkICcyMCwkIGQnIC1pIHRydXN0L3RydXN0LWV4dHJhY3QtY29tcGF0ICYmDQoNCmNhdCA+PiB0cnVzdC90cnVzdC1leHRyYWN0LWNvbXBhdCA8PCAiRU9GIg0KIyBDb3B5IGV4aXN0aW5nIGFuY2hvciBtb2RpZmljYXRpb25zIHRvIC9ldGMvc3NsL2xvY2FsDQovdXNyL2xpYmV4ZWMvbWFrZS1jYS9jb3B5LXRydXN0LW1vZGlmaWNhdGlvbnMNCg0KIyBVcGRhdGUgdHJ1c3Qgc3RvcmVzDQovdXNyL3NiaW4vbWFrZS1jYSAtcg0KRU9GDQoNCg0KbWtkaXIgcDExLWJ1aWxkICYmDQpjZCAgICBwMTEtYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLi4gICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgLUR0cnVzdF9wYXRocz0vZXRjL3BraS9hbmNob3JzDQo=</configure>
   <build>Y2QgICAgcDExLWJ1aWxkDQpuaW5qYQ==</build>

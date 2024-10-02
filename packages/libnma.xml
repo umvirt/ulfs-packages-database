@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>libnma</code>
   <description>VGhlIGxpYm5tYSBwYWNrYWdlIGNvbnRhaW5zIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBOZXR3b3JrTWFuYWdlciBHVUkgZnVuY3Rpb25zLg==</description>
   <sourcefile>libnma-1.10.6.tar.xz</sourcefile>

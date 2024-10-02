@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>meld</code>
   <description>TWVsZCBoZWxwcyB5b3UgY29tcGFyZSBmaWxlcywgZGlyZWN0b3JpZXMsIGFuZCB2ZXJzaW9uIGNvbnRyb2xsZWQgcHJvamVjdHMuIEl0IHByb3ZpZGVzIHR3by0gYW5kIHRocmVlLXdheSBjb21wYXJpc29uIG9mIGJvdGggZmlsZXMgYW5kIGRpcmVjdG9yaWVzLCBhbmQgaGFzIHN1cHBvcnQgZm9yIG1hbnkgcG9wdWxhciB2ZXJzaW9uIGNvbnRyb2wgc3lzdGVtcy4=</description>
   <sourcefile>meld-3.22.2.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-pycairo</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>python3-pygobject</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gtksourceview</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

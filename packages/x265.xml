@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>x265</code>
   <description>eDI2NSBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSBmb3IgZW5jb2RpbmcgdmlkZW8gc3RyZWFtcyBpbnRvIHRoZSBILjI2NS9IRVZDIGZvcm1hdC4=</description>
-  <sourcefile>x265-20240216.tar.xz</sourcefile>
-  <sourcedir>x265-20240216</sourcedir>
+  <sourcefile>x265_3.6.tar.gz</sourcefile>
+  <sourcedir>x265_3.6</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1ER0lUX0FSQ0hFVFlQRT0xICAgICAgICAgICBcDQogICAgICAtV25vLWRldiAuLi9zb3VyY2Ug</configure>
+  <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KY21ha2UgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtVyBuby1kZXYgLi4vc291cmNl</configure>
   <build>Y2QgICAgYmxkICYmDQptYWtl</build>
   <install>Y2QgICAgYmxkICYmDQoNCm1ha2UgaW5zdGFsbCANCg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiICE9ICJZRVMiIF1dDQp0aGVuDQoNCnJtIC12ZiAvdXNyL2xpYi9saWJ4MjY1LmEgDQoNCmZpDQo=</install>
   <localbuild>0</localbuild>

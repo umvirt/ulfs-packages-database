@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>poppler-app</code>
   <description>VGhlIFBvcHBsZXIgcGFja2FnZSBjb250YWlucyBhIFBERiByZW5kZXJpbmcgbGlicmFyeSBhbmQgY29tbWFuZCBsaW5lIHRvb2xzIHVzZWQgdG8gbWFuaXB1bGF0ZSBQREYgZmlsZXMuIFRoaXMgaXMgdXNlZnVsIGZvciBwcm92aWRpbmcgUERGIHJlbmRlcmluZyBmdW5jdGlvbmFsaXR5IGFzIGEgc2hhcmVkIGxpYnJhcnku</description>
-  <sourcefile>poppler-24.02.0.tar.xz</sourcefile>
-  <sourcedir>poppler-24.02.0</sourcedir>
+  <sourcefile>poppler-24.08.0.tar.xz</sourcefile>
+  <sourcedir>poppler-24.08.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmNkICAgIGJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAgICYmDQoNCmNtYWtlICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgICAtRFRFU1REQVRBRElSPSRQV0QvdGVzdGZpbGVzIFwNCiAgICAgICAtREVOQUJMRV9RVDU9T0ZGICAgICAgICAgICAgIFwNCiAgICAgICAtREVOQUJMRV9RVDY9T0ZGICAgICAgICAgICAgIFwNCiAgICAgICAtREVOQUJMRV9VTlNUQUJMRV9BUElfQUJJX0hFQURFUlM9T04gXA0KICAgICAgIC4uICAgICAgICAgICAgICAgICA=</configure>
+  <configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmNkICAgIGJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAgICYmDQoNCmNtYWtlIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EIFRFU1REQVRBRElSPSRQV0QvdGVzdGZpbGVzIFwNCiAgICAgIC1EIEVOQUJMRV9RVDU9T0ZGICAgICAgICAgICAgIFwNCiAgICAgIC1EIEVOQUJMRV9VTlNUQUJMRV9BUElfQUJJX0hFQURFUlM9T04gXA0KICAgICAgLUcgTmluamEgLi4gICAgICAgICAgICAgICAgIA0K</configure>
   <build>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm1ha2U=</build>
-  <install>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm1ha2UgaW5zdGFsbA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLW03NTUgLWQgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL3BvcHBsZXItMjQuMDIuMCAmJg0KY3AgLXZyIC4uL2dsaWIvcmVmZXJlbmNlL2h0bWwgL3Vzci9zaGFyZS9kb2MvcG9wcGxlci0yNC4wMi4wDQoNCmZpDQo=</install>
+  <install>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm1ha2UgaW5zdGFsbA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLW03NTUgLWQgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL3BvcHBsZXItMjQuMDguMCAmJg0KY3AgLXZyIC4uL2dsaWIvcmVmZXJlbmNlL2h0bWwgL3Vzci9zaGFyZS9kb2MvcG9wcGxlci0yNC4wOC4wDQoNCmZpDQo=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>gpgme</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gobject-introspection</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>cmake</code>
+      <code>gobject-introspection</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>fontconfig</code>
+      <code>cmake</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>fontconfig</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>libpng</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>cairo</code>
+      <code>libjpeg-turbo</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>openjpeg</code>
+      <code>cairo</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>lcms2</code>
+      <code>openjpeg</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>nss</code>
+      <code>lcms2</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>boost</code>
+      <code>nss</code>
       <weight>10</weight>
+    </dependance>
+    <dependance>
+      <code>boost</code>
+      <weight>11</weight>
     </dependance>
   </dependances>
   <patches/>

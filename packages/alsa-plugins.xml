@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>alsa-plugins</code>
   <description>VGhlIEFMU0EgUGx1Z2lucyBwYWNrYWdlIGNvbnRhaW5zIHBsdWdpbnMgZm9yIHZhcmlvdXMgYXVkaW8gbGlicmFyaWVzIGFuZCBzb3VuZCBzZXJ2ZXJzLg==</description>
-  <sourcefile>alsa-plugins-1.2.7.1.tar.bz2</sourcefile>
-  <sourcedir>alsa-plugins-1.2.7.1</sourcedir>
+  <sourcefile>alsa-plugins-1.2.12.tar.bz2</sourcefile>
+  <sourcedir>alsa-plugins-1.2.12</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1zeXNjb25mZGlyPS9ldGM=</configure>
   <build/>

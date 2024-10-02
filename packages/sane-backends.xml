@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>sane-backends</code>
   <description>U0FORSBpcyBzaG9ydCBmb3IgU2Nhbm5lciBBY2Nlc3MgTm93IEVhc3kuIFRoZSBiYWNrIGVuZHMgYXJlIGRyaXZlcnMgZm9yIHRoZSBzdXBwb3J0ZWQgc2Nhbm5lcnMgYW5kIGNhbWVyYXMu</description>
   <sourcefile>sane-backends-1.2.1.tar.gz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>tiff</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>avahi</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libusb</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>cups</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>v4l-utils</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

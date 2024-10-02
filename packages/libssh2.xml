@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>libssh2</code>
   <description>TGlic3NoMiBwYWNrYWdlIGlzIGEgY2xpZW50LXNpZGUgQyBsaWJyYXJ5IGltcGxlbWVudGluZyB0aGUgU1NIMiBwcm90b2NvbC4=</description>
   <sourcefile>libssh2-1.11.0.tar.gz</sourcefile>
@@ -11,7 +11,12 @@
   <install/>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>libssh2-1.11.0-security_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

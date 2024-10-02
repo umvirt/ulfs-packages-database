@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xwayland</code>
   <description>VGhlIFh3YXlsYW5kIHBhY2thZ2UgaXMgYW4gWG9yZyBzZXJ2ZXIgcnVubmluZyBvbiB0b3Agb2YgdGhlIHdheWxhbmQgc2VydmVyLg==</description>
-  <sourcefile>xwayland-23.2.4.tar.xz</sourcefile>
-  <sourcedir>xwayland-23.2.4</sourcedir>
+  <sourcefile>xwayland-24.1.2.tar.xz</sourcefile>
+  <sourcedir>xwayland-24.1.2</sourcedir>
   <unpack/>
   <configure>c2VkIC1pICcvaW5zdGFsbF9tYW4vLCRkJyBtZXNvbi5idWlsZCAmJg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9JFhPUkdfUFJFRklYICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgICAgICAgXA0KICAgICAgICAgICAgLUR4a2Jfb3V0cHV0X2Rpcj0vdmFyL2xpYi94a2IgXA0KICAgICAgICAgICAgLi4gICAgICAgICAgICAgICANCg==</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>

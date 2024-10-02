@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>SDL</code>
   <description>aGUgU2ltcGxlIERpcmVjdE1lZGlhIExheWVyIChTREwgZm9yIHNob3J0KSBpcyBhIGNyb3NzLXBsYXRmb3JtIGxpYnJhcnkgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXN5IHRvIHdyaXRlIG11bHRpbWVkaWEgc29mdHdhcmUsIHN1Y2ggYXMgZ2FtZXMgYW5kIGVtdWxhdG9ycy4NCg==</description>
   <sourcefile>SDL-1.2.15.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>X</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

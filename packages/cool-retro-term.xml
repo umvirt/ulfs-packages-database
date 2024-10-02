@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>cool-retro-term</code>
   <description>VGVybWluYWwgZW11bGF0b3Igd2hpY2ggbWltaWNzIHRoZSBsb29rIGFuZCBmZWVsIG9mIHRoZSBvbGQgY2F0aG9kZSB0dWJlIHNjcmVlbnMu</description>
   <sourcefile>cool-retro-term-1.2.0-git.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>qt5</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>Vulkan-Headers</code>
   <description>VGhlIFZ1bGthbi1IZWFkZXJzIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgaGVhZGVyIGZpbGVzIG5lY2Vzc2FyeSB0byBidWlsZCBhbmQgbGluayBhcHBsaWNhdGlvbnMgYWdhaW5zdCB0aGUgVnVsa2FuIEFQSS4=</description>
-  <sourcefile>Vulkan-Headers-1.3.277.tar.gz</sourcefile>
-  <sourcedir>Vulkan-Headers-1.3.277</sourcedir>
+  <sourcefile>Vulkan-Headers-1.3.294.tar.gz</sourcefile>
+  <sourcedir>Vulkan-Headers-1.3.294</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRyBOaW5qYSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

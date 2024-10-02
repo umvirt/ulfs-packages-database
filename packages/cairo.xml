@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>cairo</code>
   <description>Q2Fpcm8gaXMgYSAyRCBncmFwaGljcyBsaWJyYXJ5IHdpdGggc3VwcG9ydCBmb3IgbXVsdGlwbGUgb3V0cHV0IGRldmljZXMuIA==</description>
   <sourcefile>cairo-1.18.0.tar.xz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>lzo</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>glib</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>fontconfig</code>
+      <code>glib</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>Xlibs</code>
+      <code>fontconfig</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>Xlibs</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>pixman</code>
+      <code>libpng</code>
       <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>pixman</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>
@@ -48,6 +48,11 @@
       <install>Y2QgICAgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
       <dependances>
         <dependance>
+          <code>glib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
           <code>freetype</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
@@ -58,17 +63,12 @@
           <weight>0</weight>
         </dependance>
         <dependance>
-          <code>glib</code>
+          <code>libpng</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
         <dependance>
           <code>pixman</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-        <dependance>
-          <code>libpng</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-idna</code>
   <description>VGhlIElkbmEgbW9kdWxlIHByb3ZpZGVzIHN1cHBvcnQgZm9yIHRoZSBJbnRlcm5hdGlvbmFsaXplZCBEb21haW4gTmFtZXMgaW4gQXBwbGljYXRpb25zIChJRE5BKSBwcm90b2NvbCBhcyBzcGVjaWZpZWQgaW4gUkZDIDU4OTEu</description>
-  <sourcefile>idna-3.4.tar.gz</sourcefile>
-  <sourcedir>idna-3.4</sourcedir>
+  <sourcefile>idna-3.7.tar.gz</sourcefile>
+  <sourcedir>idna-3.7</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

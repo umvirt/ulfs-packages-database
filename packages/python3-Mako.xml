@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-Mako</code>
   <description>TWFrbyBpcyBhIFB5dGhvbiBtb2R1bGUgdGhhdCBpbXBsZW1lbnRzIGh5cGVyZmFzdCBhbmQgbGlnaHR3ZWlnaHQgdGVtcGxhdGluZyBmb3IgdGhlIFB5dGhvbiBwbGF0Zm9ybS4=</description>
-  <sourcefile>Mako-1.3.2.tar.gz</sourcefile>
-  <sourcedir>Mako-1.3.2</sourcedir>
+  <sourcefile>Mako-1.3.5.tar.gz</sourcefile>
+  <sourcedir>Mako-1.3.5</sourcedir>
   <unpack/>
   <configure>Iw0K</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAvc291cmNlcy9NYWtvLTEuMy4yDQo=</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIE1ha28NCg==</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdEDQo=</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzPWRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIE1ha28NCg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

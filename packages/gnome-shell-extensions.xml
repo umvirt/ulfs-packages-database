@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gnome-shell-extensions</code>
   <description>VGhlIEdOT01FIFNoZWxsIEV4dGVuc2lvbnMgcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgZXh0ZW5zaW9ucyBwcm92aWRpbmcgYWRkaXRpb25hbCBhbmQgb3B0aW9uYWwgZnVuY3Rpb25hbGl0eSB0byB0aGUgR05PTUUgU2hlbGwu</description>
-  <sourcefile>gnome-shell-extensions-45.2.tar.xz</sourcefile>
-  <sourcedir>gnome-shell-extensions-45.2</sourcedir>
+  <sourcefile>gnome-shell-extensions-46.2.tar.xz</sourcefile>
+  <sourcedir>gnome-shell-extensions-46.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLi4g</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

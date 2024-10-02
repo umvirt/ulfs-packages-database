@@ -1,163 +1,163 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>vlc</code>
   <description>VkxDIGlzIGEgbWVkaWEgcGxheWVyLCBzdHJlYW1lciwgYW5kIGVuY29kZXIuIEl0IGNhbiBwbGF5IGZyb20gbWFueSBpbnB1dHMsIHN1Y2ggYXMgZmlsZXMsIG5ldHdvcmsgc3RyZWFtcywgY2FwdHVyZSBkZXZpY2VzLCBkZXNrdG9wcywgb3IgRFZELCBTVkNELCBWQ0QsIGFuZCBhdWRpbyBDRC4gSXQgY2FuIHVzZSBtb3N0IGF1ZGlvIGFuZCB2aWRlbyBjb2RlY3MgKE1QRUcgMS8yLzQsIEgyNjQsIFZDLTEsIERpdlgsIFdNViwgVm9yYmlzLCBBQzMsIEFBQywgZXRjLiksIGFuZCBpdCBjYW4gYWxzbyBjb252ZXJ0IHRvIGRpZmZlcmVudCBmb3JtYXRzIGFuZC9vciBzZW5kIHN0cmVhbXMgdGhyb3VnaCB0aGUgbmV0d29yay4NCg==</description>
-  <sourcefile>vlc-3.0.20.tar.xz</sourcefile>
-  <sourcedir>vlc-3.0.20</sourcedir>
+  <sourcefile>vlc-3.0.21.tar.xz</sourcefile>
+  <sourcedir>vlc-3.0.21</sourcedir>
   <unpack/>
-  <configure>QlVJTERDQz1nY2MgLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtbGlicGxhY2Vibw==</configure>
+  <configure>ZXhwb3J0IExVQUM9L3Vzci9iaW4vbHVhYzUuMiAgICAgICAgICAgICAgICAgICAmJg0KZXhwb3J0IExVQV9MSUJTPSIkKHBrZy1jb25maWcgLS1saWJzIGx1YTUyKSIgICAmJg0KZXhwb3J0IENQUEZMQUdTPSIkKHBrZy1jb25maWcgLS1jZmxhZ3MgbHVhNTIpIg0KDQpCVUlMRENDPWdjYyAuL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1saWJwbGFjZWJv</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
-  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvdmxjLTMuMC4yMCBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
+  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvdmxjLTMuMC4yMSBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>lua-5.4</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libssh2</code>
+      <code>libxml2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>freetype</code>
+      <code>libssh2</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libarchive</code>
+      <code>freetype</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>fontconfig</code>
+      <code>libarchive</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>fontconfig</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>dbus</code>
+      <code>libpng</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>fribidi</code>
+      <code>dbus</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>desktop-file-utils</code>
+      <code>fribidi</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>gnutls</code>
+      <code>desktop-file-utils</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>libgcrypt</code>
+      <code>gnutls</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>alsa-lib</code>
+      <code>libgcrypt</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>libogg</code>
+      <code>alsa-lib</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>libvorbis</code>
+      <code>libogg</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>libtheora</code>
+      <code>libvorbis</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>libdvdread</code>
+      <code>libtheora</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>libdvdnav</code>
+      <code>libdvdread</code>
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>sdl12-compat</code>
+      <code>libdvdnav</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>avahi</code>
+      <code>sdl12-compat</code>
       <weight>19</weight>
     </dependance>
     <dependance>
-      <code>libaom</code>
+      <code>avahi</code>
       <weight>20</weight>
     </dependance>
     <dependance>
-      <code>ffmpeg</code>
+      <code>libaom</code>
       <weight>21</weight>
     </dependance>
     <dependance>
-      <code>libass</code>
+      <code>ffmpeg</code>
       <weight>22</weight>
     </dependance>
     <dependance>
-      <code>opus</code>
+      <code>libass</code>
       <weight>23</weight>
     </dependance>
     <dependance>
-      <code>x264</code>
+      <code>opus</code>
       <weight>24</weight>
     </dependance>
     <dependance>
-      <code>libva</code>
+      <code>x264</code>
       <weight>25</weight>
     </dependance>
     <dependance>
-      <code>libvpx</code>
+      <code>libva</code>
       <weight>26</weight>
     </dependance>
     <dependance>
-      <code>flac</code>
+      <code>libvpx</code>
       <weight>27</weight>
     </dependance>
     <dependance>
-      <code>speex</code>
+      <code>flac</code>
       <weight>28</weight>
     </dependance>
     <dependance>
-      <code>pulseaudio</code>
+      <code>speex</code>
       <weight>29</weight>
     </dependance>
     <dependance>
-      <code>libcddb</code>
+      <code>pulseaudio</code>
       <weight>30</weight>
     </dependance>
     <dependance>
-      <code>libnotify</code>
+      <code>libcddb</code>
       <weight>31</weight>
     </dependance>
     <dependance>
-      <code>xdg-utils</code>
+      <code>libnotify</code>
       <weight>32</weight>
     </dependance>
     <dependance>
-      <code>samba</code>
+      <code>xdg-utils</code>
       <weight>33</weight>
     </dependance>
     <dependance>
-      <code>v4l-utils</code>
+      <code>samba</code>
       <weight>34</weight>
     </dependance>
     <dependance>
-      <code>a52dec</code>
+      <code>v4l-utils</code>
       <weight>35</weight>
     </dependance>
     <dependance>
-      <code>libmad</code>
+      <code>a52dec</code>
       <weight>36</weight>
+    </dependance>
+    <dependance>
+      <code>libmad</code>
+      <weight>37</weight>
     </dependance>
     <dependance>
       <code>libidn1</code>
@@ -194,7 +194,11 @@
   </dependances>
   <patches>
     <patch>
-      <filename>vlc-3.0.20-taglib-1.patch</filename>
+      <filename>vlc-3.0.21-taglib-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+    <patch>
+      <filename>vlc-3.0.21-fedora_ffmpeg7-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>freeglut</code>
   <description>RnJlZWdsdXQgaXMgaW50ZW5kZWQgdG8gYmUgYSAxMDAlIGNvbXBhdGlibGUsIGNvbXBsZXRlbHkgb3BlbnNvdXJjZWQgY2xvbmUgb2YgdGhlIEdMVVQgbGlicmFyeS4g</description>
-  <sourcefile>freeglut-3.4.0.tar.gz</sourcefile>
-  <sourcedir>freeglut-3.4.0</sourcedir>
+  <sourcefile>freeglut-3.6.0.tar.gz</sourcefile>
+  <sourcedir>freeglut-3.6.0</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLURGUkVFR0xVVF9CVUlMRF9TVEFUSUNfTElCUz1PRkYiDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItREZSRUVHTFVUX0JVSUxEX1NUQVRJQ19MSUJTPU9OIg0KZmkNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgICAgICBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgXA0KICAgICAgLURGUkVFR0xVVF9CVUlMRF9ERU1PUz1PRkYgICAgICAgIFwNCiAgICAgICRBUkdfU1RBVElDICBcDQogICAgICAtV25vLWRldiAuLg0K</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>

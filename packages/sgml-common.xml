@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>sgml-common</code>
   <description>VGhlIFNHTUwgQ29tbW9uIHBhY2thZ2UgY29udGFpbnMgaW5zdGFsbC1jYXRhbG9nLiBUaGlzIGlzIHVzZWZ1bCBmb3IgY3JlYXRpbmcgYW5kIG1haW50YWluaW5nIGNlbnRyYWxpemVkIFNHTUwgY2F0YWxvZ3Mu</description>
   <sourcefile>sgml-common-0.6.3.tgz</sourcefile>

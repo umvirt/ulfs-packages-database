@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>vala</code>
   <description>VmFsYSBpcyBhIG5ldyBwcm9ncmFtbWluZyBsYW5ndWFnZSB0aGF0IGFpbXMgdG8gYnJpbmcgbW9kZXJuIHByb2dyYW1taW5nIGxhbmd1YWdlIGZlYXR1cmVzIHRvIEdOT01FIGRldmVsb3BlcnMgd2l0aG91dCBpbXBvc2luZyBhbnkgYWRkaXRpb25hbCBydW50aW1lIHJlcXVpcmVtZW50cyBhbmQgd2l0aG91dCB1c2luZyBhIGRpZmZlcmVudCBBQkkgY29tcGFyZWQgdG8gYXBwbGljYXRpb25zIGFuZCBsaWJyYXJpZXMgd3JpdHRlbiBpbiBDLg==</description>
-  <sourcefile>vala-0.56.14.tar.xz</sourcefile>
-  <sourcedir>vala-0.56.14</sourcedir>
+  <sourcefile>vala-0.56.17.tar.xz</sourcefile>
+  <sourcedir>vala-0.56.17</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvZ3ZjLmgvYSNkZWZpbmUgVFJVRSAxJyBsaWJ2YWxhZG9jL2d2Yy1jb21wYXQuYw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIA==</configure>
+  <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>

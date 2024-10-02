@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>libXcursor</code>
   <description/>
-  <sourcefile>libXcursor-1.2.1.tar.xz</sourcefile>
-  <sourcedir>libXcursor-1.2.1</sourcedir>
+  <sourcefile>libXcursor-1.2.2.tar.xz</sourcefile>
+  <sourcedir>libXcursor-1.2.2</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
   <build/>

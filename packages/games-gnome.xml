@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>games-gnome</code>
   <description>R2FtZXMgZnJvbSBHbm9tZSBkZXNrdG9wIGVudmlyb25tZW50Lg==</description>
   <sourcefile/>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>gnome-chess</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gnome-mines</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gnome-sudoku</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>quadrapassel</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gnome-nibbles</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>five-or-more</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

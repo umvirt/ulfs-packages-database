@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>OpenSP</code>
   <description>VGhlIE9wZW5TUCBwYWNrYWdlIGNvbnRhaW5zIGEgQysrIGxpYnJhcnkgZm9yIHVzaW5nIFNHTUwvWE1MIGZpbGVzLiBUaGlzIGlzIHVzZWZ1bCBmb3IgdmFsaWRhdGluZywgcGFyc2luZyBhbmQgbWFuaXB1bGF0aW5nIFNHTUwgYW5kIFhNTCBkb2N1bWVudHMu</description>
   <sourcefile>OpenSP-1.5.2.tar.gz</sourcefile>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>wget</code>
   <description>VGhlIFdnZXQgcGFja2FnZSBjb250YWlucyBhIHV0aWxpdHkgdXNlZnVsIGZvciBub24taW50ZXJhY3RpdmUgZG93bmxvYWRpbmcgb2YgZmlsZXMgZnJvbSB0aGUgV2ViLg==</description>
-  <sourcefile>wget-1.21.4.tar.gz</sourcefile>
-  <sourcedir>wget-1.21.4</sourcedir>
+  <sourcefile>wget-1.24.5.tar.gz</sourcefile>
+  <sourcedir>wget-1.24.5</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICBcDQogICAgICAgICAgICAtLXdpdGgtc3NsPW9wZW5zc2w=</configure>
   <build/>

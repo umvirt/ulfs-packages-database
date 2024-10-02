@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>pcsc-lite</code>
   <description>TWlkZGxld2FyZSB0byBhY2Nlc3MgYSBzbWFydCBjYXJkIHVzaW5nIFNDYXJkIEFQSSAoUEMvU0MpLg==</description>
   <sourcefile>pcsc-lite-2.1.0.tar.bz2</sourcefile>

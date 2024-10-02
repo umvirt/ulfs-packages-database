@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>popt</code>
   <description>VGhlIHBvcHQgcGFja2FnZSBjb250YWlucyB0aGUgcG9wdCBsaWJyYXJpZXMgd2hpY2ggYXJlIHVzZWQgYnkgc29tZSBwcm9ncmFtcyB0byBwYXJzZSBjb21tYW5kLWxpbmUgb3B0aW9ucy4=</description>
   <sourcefile>popt-1.19.tar.gz</sourcefile>

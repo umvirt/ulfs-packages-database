@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>mate-applets</code>
   <description>TWF0ZSBBcHBsZXRz</description>
   <sourcefile>mate-applets-1.28.0.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>gtksourceview4</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>upower</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libnl</code>
+      <code>upower</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gtksourceview</code>
+      <code>libnl</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>mate-panel</code>
+      <code>gtksourceview</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>mate-panel</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

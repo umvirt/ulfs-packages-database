@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gnome-desktop</code>
   <description>VGhlIEdOT01FIERlc2t0b3AgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCBwcm92aWRlcyBhbiBBUEkgc2hhcmVkIGJ5IHNldmVyYWwgYXBwbGljYXRpb25zIG9uIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
-  <sourcefile>gnome-desktop-44.0.tar.xz</sourcefile>
-  <sourcedir>gnome-desktop-44.0</sourcedir>
+  <sourcefile>gnome-desktop-44.1.tar.xz</sourcefile>
+  <sourcedir>gnome-desktop-44.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAuLiAgICAg</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

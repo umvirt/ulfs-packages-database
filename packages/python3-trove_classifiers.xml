@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>python3-trove_classifiers</code>
+  <description>VHJvdmUtQ2xhc3NpZmllcnMgaXMgYSBQeXRob24gbGlicmFyeSB0byBlbmNvbXBhc3MgYWxsIHZhbGlkIFB5UEkgY2xhc3NpZmllcnMgdXNlZCB0byBjYXRlZ29yaXplIHByb2plY3RzIGFuZCByZWxlYXNlcyBwZXIgUEVQIDMwMSwgZm9yIGV4YW1wbGUgVG9waWMgOjogU3lzdGVtIDo6IEZpbGVzeXN0ZW1zIGFuZCBEZXZlbG9wbWVudCBTdGF0dXMgOjogNiAtIE1hdHVyZS4=</description>
+  <sourcefile>trove_classifiers-2024.7.2.tar.gz</sourcefile>
+  <sourcedir>trove_classifiers-2024.7.2</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICcvY2FsdmVyL3MvXi8jLzskaXZlcnNpb249IjIwMjQuNy4yIicgc2V0dXAucHk=</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzPWRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHRyb3ZlLWNsYXNzaWZpZXJz</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

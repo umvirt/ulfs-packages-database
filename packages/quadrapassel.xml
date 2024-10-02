@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>quadrapassel</code>
   <description>VGV0cmlzIGdhbWU=</description>
   <sourcefile>quadrapassel-3.38.6.tar.xz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>clutter</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>clutter-gtk</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gsound</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libmanette</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

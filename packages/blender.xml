@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>blender</code>
   <description>RnJlZSBhbmQgT3BlbiAzRCBDcmVhdGlvbiBTb2Z0d2FyZS4=</description>
   <sourcefile>blender-4.1.0.tar.xz</sourcefile>
@@ -13,75 +13,75 @@
   <dependances>
     <dependance>
       <code>libwebp</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>openal</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>freetype-stage3</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>openexr</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>fftw-single</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>OpenCOLLADA</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>fftw-double</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>fftw-longdouble</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>fftw-quad</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>jemalloc</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libspnav</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>OpenShadingLanguage</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>openvdb</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>nanovdb</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>alembic</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>MaterialX</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>embree</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
   </dependances>
   <patches/>

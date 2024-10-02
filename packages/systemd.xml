@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>systemd</code>
   <description>V2hpbGUgc3lzdGVtZCB3YXMgaW5zdGFsbGVkIHdoZW4gYnVpbGRpbmcgTEZTLCB0aGVyZSBhcmUgbWFueSBmZWF0dXJlcyBwcm92aWRlZCBieSB0aGUgcGFja2FnZSB0aGF0IHdlcmUgbm90IGluY2x1ZGVkIGluIHRoZSBpbml0aWFsIGluc3RhbGxhdGlvbiBiZWNhdXNlIExpbnV4LVBBTSB3YXMgbm90IHlldCBpbnN0YWxsZWQuIFRoZSBzeXN0ZW1kIHBhY2thZ2UgbmVlZHMgdG8gYmUgcmVidWlsdCB0byBwcm92aWRlIGEgd29ya2luZyBzeXN0ZW1kLWxvZ2luZCBzZXJ2aWNlLCB3aGljaCBwcm92aWRlcyBtYW55IGFkZGl0aW9uYWwgZmVhdHVyZXMgZm9yIGRlcGVuZGVudCBwYWNrYWdlcy4=</description>
-  <sourcefile>systemd-255.tar.gz</sourcefile>
-  <sourcedir>systemd-255</sourcedir>
+  <sourcefile>systemd-256.4.tar.gz</sourcefile>
+  <sourcedir>systemd-256.4</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pIC1lICdzL0dST1VQPSJyZW5kZXIiL0dST1VQPSJ2aWRlbyIvJyBcDQogICAgICAgLWUgJ3MvR1JPVVA9InNneCIsIC8vJyBydWxlcy5kLzUwLXVkZXYtZGVmYXVsdC5ydWxlcy5pbg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgIC1EZGVmYXVsdC1kbnNzZWM9bm8gICAgIFwNCiAgICAgIC1EZmlyc3Rib290PWZhbHNlICAgICAgIFwNCiAgICAgIC1EaW5zdGFsbC10ZXN0cz1mYWxzZSAgIFwNCiAgICAgIC1EbGRjb25maWc9ZmFsc2UgICAgICAgIFwNCiAgICAgIC1EbWFuPWF1dG8gICAgICAgICAgICAgIFwNCiAgICAgIC1Ec3lzdXNlcnM9ZmFsc2UgICAgICAgIFwNCiAgICAgIC1EcnBtbWFjcm9zZGlyPW5vICAgICAgIFwNCiAgICAgIC1EaG9tZWQ9ZGlzYWJsZWQgICAgICAgIFwNCiAgICAgIC1EdXNlcmRiPWZhbHNlICAgICAgICAgIFwNCiAgICAgIC1EbW9kZT1yZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1EcGFtPWVuYWJsZWQgICAgICAgICAgIFwNCiAgICAgIC1EcGFtY29uZmRpcj0vZXRjL3BhbS5kIFwNCiAgICAgIC1EZGV2LWt2bS1tb2RlPTA2NjAgICAgIFwNCiAgICAgIC1Ebm9ib2R5LWdyb3VwPW5vZ3JvdXAgIFwNCiAgICAgIC1Ec3lzdXBkYXRlPWRpc2FibGVkICAgIFwNCiAgICAgIC1EdWtpZnk9ZGlzYWJsZWQgICAgICAgIFwNCiAgICAgIC1EZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3N5c3RlbWQtMjU1DQo=</configure>
+  <configure>c2VkIC1pIC1lICdzL0dST1VQPSJyZW5kZXIiL0dST1VQPSJ2aWRlbyIvJyBcDQogICAgICAgLWUgJ3MvR1JPVVA9InNneCIsIC8vJyBydWxlcy5kLzUwLXVkZXYtZGVmYXVsdC5ydWxlcy5pbg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLi4gICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgXA0KICAgICAgLUQgZGVmYXVsdC1kbnNzZWM9bm8gICAgIFwNCiAgICAgIC1EIGZpcnN0Ym9vdD1mYWxzZSAgICAgICBcDQogICAgICAtRCBpbnN0YWxsLXRlc3RzPWZhbHNlICAgXA0KICAgICAgLUQgbGRjb25maWc9ZmFsc2UgICAgICAgIFwNCiAgICAgIC1EIG1hbj1hdXRvICAgICAgICAgICAgICBcDQogICAgICAtRCBzeXN1c2Vycz1mYWxzZSAgICAgICAgXA0KICAgICAgLUQgcnBtbWFjcm9zZGlyPW5vICAgICAgIFwNCiAgICAgIC1EIGhvbWVkPWRpc2FibGVkICAgICAgICBcDQogICAgICAtRCB1c2VyZGI9ZmFsc2UgICAgICAgICAgXA0KICAgICAgLUQgbW9kZT1yZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1EIHBhbT1lbmFibGVkICAgICAgICAgICBcDQogICAgICAtRCBwYW1jb25mZGlyPS9ldGMvcGFtLmQgXA0KICAgICAgLUQgZGV2LWt2bS1tb2RlPTA2NjAgICAgIFwNCiAgICAgIC1EIG5vYm9keS1ncm91cD1ub2dyb3VwICBcDQogICAgICAtRCBzeXN1cGRhdGU9ZGlzYWJsZWQgICAgXA0KICAgICAgLUQgdWtpZnk9ZGlzYWJsZWQgICAgICAgIFwNCiAgICAgIC1EIGRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9zeXN0ZW1kLTI1Ni40DQoNCg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg==</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KZ3JlcCAncGFtX3N5c3RlbWQnIC9ldGMvcGFtLmQvc3lzdGVtLXNlc3Npb24gfHwNCmNhdCA+PiAvZXRjL3BhbS5kL3N5c3RlbS1zZXNzaW9uIDw8ICJFT0YiDQojIEJlZ2luIFN5c3RlbWQgYWRkaXRpb24NCg0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2xvZ2ludWlkLnNvDQpzZXNzaW9uICBvcHRpb25hbCAgICBwYW1fc3lzdGVtZC5zbw0KDQojIEVuZCBTeXN0ZW1kIGFkZGl0aW9uDQpFT0YNCg0KY2F0ID4gL2V0Yy9wYW0uZC9zeXN0ZW1kLXVzZXIgPDwgIkVPRiINCiMgQmVnaW4gL2V0Yy9wYW0uZC9zeXN0ZW1kLXVzZXINCg0KYWNjb3VudCAgcmVxdWlyZWQgICAgcGFtX2FjY2Vzcy5zbw0KYWNjb3VudCAgaW5jbHVkZSAgICAgc3lzdGVtLWFjY291bnQNCg0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2Vudi5zbw0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2xpbWl0cy5zbw0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2xvZ2ludWlkLnNvDQpzZXNzaW9uICBvcHRpb25hbCAgICBwYW1fa2V5aW5pdC5zbyBmb3JjZSByZXZva2UNCnNlc3Npb24gIG9wdGlvbmFsICAgIHBhbV9zeXN0ZW1kLnNvDQoNCmF1dGggICAgIHJlcXVpcmVkICAgIHBhbV9kZW55LnNvDQpwYXNzd29yZCByZXF1aXJlZCAgICBwYW1fZGVueS5zbw0KDQojIEVuZCAvZXRjL3BhbS5kL3N5c3RlbWQtdXNlcg0KRU9GDQoNCg==</install>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KZ3JlcCAncGFtX3N5c3RlbWQnIC9ldGMvcGFtLmQvc3lzdGVtLXNlc3Npb24gfHwNCmNhdCA+PiAvZXRjL3BhbS5kL3N5c3RlbS1zZXNzaW9uIDw8ICJFT0YiDQojIEJlZ2luIFN5c3RlbWQgYWRkaXRpb24NCg0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2xvZ2ludWlkLnNvDQpzZXNzaW9uICBvcHRpb25hbCAgICBwYW1fc3lzdGVtZC5zbw0KDQojIEVuZCBTeXN0ZW1kIGFkZGl0aW9uDQpFT0YNCg0KY2F0ID4gL2V0Yy9wYW0uZC9zeXN0ZW1kLXVzZXIgPDwgIkVPRiINCiMgQmVnaW4gL2V0Yy9wYW0uZC9zeXN0ZW1kLXVzZXINCg0KYWNjb3VudCAgcmVxdWlyZWQgICAgcGFtX2FjY2Vzcy5zbw0KYWNjb3VudCAgaW5jbHVkZSAgICAgc3lzdGVtLWFjY291bnQNCg0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2Vudi5zbw0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2xpbWl0cy5zbw0Kc2Vzc2lvbiAgcmVxdWlyZWQgICAgcGFtX2xvZ2ludWlkLnNvDQpzZXNzaW9uICBvcHRpb25hbCAgICBwYW1fa2V5aW5pdC5zbyBmb3JjZSByZXZva2UNCnNlc3Npb24gIG9wdGlvbmFsICAgIHBhbV9zeXN0ZW1kLnNvDQoNCmF1dGggICAgIHJlcXVpcmVkICAgIHBhbV9kZW55LnNvDQpwYXNzd29yZCByZXF1aXJlZCAgICBwYW1fZGVueS5zbw0KDQojIEVuZCAvZXRjL3BhbS5kL3N5c3RlbWQtdXNlcg0KRU9GDQo=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>libgcrypt</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>polkit</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>Linux-PAM</code>
+      <code>polkit</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches>
@@ -41,17 +41,17 @@
       <install>Y2QgYnVpbGQNCg0KbWVzb24gaW5zdGFsbCAtLWRlc3RkaXIgREVTVERJUg0KY3AgLVJ2IERFU1RESVIvdXNyL2xpYjMyLyogL3Vzci9saWIzMg==</install>
       <dependances>
         <dependance>
+          <code>glib</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
           <code>gnutls</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
         <dependance>
           <code>libgcrypt</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-        <dependance>
-          <code>glib</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

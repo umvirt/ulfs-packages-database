@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>dia</code>
   <description>RGlhZ3JhbSBFZGl0b3I=</description>
   <sourcefile>dia-0.97.3.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>glib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>freetype-stage2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>fontconfig</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>X</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>pango</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

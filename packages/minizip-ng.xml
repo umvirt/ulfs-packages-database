@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>minizip-ng</code>
   <description>Rm9yayBvZiB0aGUgcG9wdWxhciB6aXAgbWFuaXB1bGF0aW9uIGxpYnJhcnkgZm91bmQgaW4gdGhlIHpsaWIgZGlzdHJpYnV0aW9uLg==</description>
   <sourcefile>minizip-ng-4.0.5.tar.gz</sourcefile>

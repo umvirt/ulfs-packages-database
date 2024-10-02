@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>grub2efi</code>
   <description>VGhlIEdSVUIgcGFja2FnZSBwcm92aWRlcyBHUmFuZCBVbmlmaWVkIEJvb3Rsb2FkZXIgd2l0aCBVRUZJIHN1cHBvcnQsIHdoaWNoIGlzIG5vdCBlbmFibGVkIGZvciBHUlVCIGJ1aWx0IGluIExGUy4NCg0K</description>
   <sourcefile>grub-2.12.tar.xz</sourcefile>
   <sourcedir>grub-2.12</sourcedir>
   <unpack/>
-  <configure>ZWNobyBkZXBlbmRzIGJsaSBwYXJ0X2dwdCA+IGdydWItY29yZS9leHRyYV9kZXBzLmxzdA0KDQpta2RpciAtcHYgL3Vzci9zaGFyZS9mb250cy91bmlmb250ICYmDQpndW56aXAgLWMgLi4vdW5pZm9udC0xNS4xLjA0LnBjZi5neiA+IC91c3Ivc2hhcmUvZm9udHMvdW5pZm9udC91bmlmb250LnBjZg0KDQp1bnNldCB7QyxDUFAsQ1hYLExEfUZMQUdTDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1lZmllbXUgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWdydWItbWtmb250IFwNCiAgICAgICAgICAgIC0td2l0aC1wbGF0Zm9ybT1lZmkgIFwNCiAgICAgICAgICAgIC0tdGFyZ2V0PXg4Nl82NCAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS13ZXJyb3INCg0K</configure>
+  <configure>ZWNobyBkZXBlbmRzIGJsaSBwYXJ0X2dwdCA+IGdydWItY29yZS9leHRyYV9kZXBzLmxzdA0KDQpta2RpciAtcHYgL3Vzci9zaGFyZS9mb250cy91bmlmb250ICYmDQpndW56aXAgLWMgLi4vdW5pZm9udC0xNS4xLjA1LnBjZi5neiA+IC91c3Ivc2hhcmUvZm9udHMvdW5pZm9udC91bmlmb250LnBjZg0KDQp1bnNldCB7QyxDUFAsQ1hYLExEfUZMQUdTDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1lZmllbXUgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWdydWItbWtmb250IFwNCiAgICAgICAgICAgIC0td2l0aC1wbGF0Zm9ybT1lZmkgIFwNCiAgICAgICAgICAgIC0tdGFyZ2V0PXg4Nl82NCAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS13ZXJyb3INCg0K</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQptdiAtdiAvZXRjL2Jhc2hfY29tcGxldGlvbi5kL2dydWIgL3Vzci9zaGFyZS9iYXNoLWNvbXBsZXRpb24vY29tcGxldGlvbnMNCg==</install>
   <localbuild>0</localbuild>
@@ -26,7 +26,7 @@
   </dependances>
   <patches/>
   <addons>
-    <addon>unifont-15.1.04.pcf.gz</addon>
+    <addon>unifont-15.1.05.pcf.gz</addon>
   </addons>
   <nestings/>
   <comments/>

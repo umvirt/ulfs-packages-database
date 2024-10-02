@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>shotcut</code>
   <description>U2hvdGN1dCBpcyBhIGZyZWUsIG9wZW4gc291cmNlLCBjcm9zcy1wbGF0Zm9ybSB2aWRlbyBlZGl0b3Iu</description>
   <sourcefile>shotcut-24.04.28.tar.gz</sourcefile>
@@ -13,115 +13,115 @@
   <dependances>
     <dependance>
       <code>libepoxy</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cairo</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libexif</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libogg</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libtheora</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libwebp</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libaom</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>lame</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>opus</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>x264</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>x265</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>dav1d</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>qt6</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>fftw-single</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>fftw-double</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>fftw-longdouble</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>fftw-quad</code>
-      <weight>0</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>mlt</code>
-      <weight>0</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>frei0r-plugins</code>
-      <weight>0</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>glaxnimate</code>
-      <weight>0</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>ladspa</code>
-      <weight>0</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>cmt</code>
-      <weight>0</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>swh-ladspa</code>
-      <weight>0</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>movit</code>
-      <weight>0</weight>
+      <weight>27</weight>
     </dependance>
     <dependance>
       <code>jack2</code>
-      <weight>0</weight>
+      <weight>28</weight>
     </dependance>
   </dependances>
   <patches/>

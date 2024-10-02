@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xfce4-notifyd</code>
   <description>VGhlIFhmY2U0IE5vdGlmaWNhdGlvbiBEYWVtb24gaXMgYSBzbWFsbCBwcm9ncmFtIHRoYXQgaW1wbGVtZW50cyB0aGUgInNlcnZlci1zaWRlIiBwb3J0aW9uIG9mIHRoZSBGcmVlZGVza3RvcCBkZXNrdG9wIG5vdGlmaWNhdGlvbnMgc3BlY2lmaWNhdGlvbi4g</description>
-  <sourcefile>xfce4-notifyd-0.9.4.tar.bz2</sourcefile>
-  <sourcedir>xfce4-notifyd-0.9.4</sourcedir>
+  <sourcefile>xfce4-notifyd-0.9.6.tar.bz2</sourcefile>
+  <sourcedir>xfce4-notifyd-0.9.6</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>libcanberra</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libxfce4ui</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>xfce4-panel</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>xfce4-dev-tools</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

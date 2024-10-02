@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>itstool</code>
   <description>SXRzdG9vbCBleHRyYWN0cyBtZXNzYWdlcyBmcm9tIFhNTCBmaWxlcyBhbmQgb3V0cHV0cyBQTyB0ZW1wbGF0ZSBmaWxlcywgdGhlbiBtZXJnZXMgdHJhbnNsYXRpb25zIGZyb20gTU8gZmlsZXMgdG8gY3JlYXRlIHRyYW5zbGF0ZWQgWE1MIGZpbGVzLg==</description>
   <sourcefile>itstool-2.0.7.tar.bz2</sourcefile>

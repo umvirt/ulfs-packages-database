@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>spice-server</code>
   <description>U1BJQ0UgcHJvdG9jb2wgc2VydmVy</description>
   <sourcefile>spice-0.15.2.tar.bz2</sourcefile>
@@ -32,7 +32,7 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>lz4</code>
+      <code>!lz4</code>
       <weight>6</weight>
     </dependance>
     <dependance>

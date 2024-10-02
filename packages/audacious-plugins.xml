@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>audacious-plugins</code>
   <description>QXVkYWNpb3VzIHBsdWdpbnM=</description>
-  <sourcefile>audacious-plugins-4.3.1.tar.bz2</sourcefile>
-  <sourcedir>audacious-plugins-4.3.1</sourcedir>
+  <sourcefile>audacious-plugins-4.4.tar.bz2</sourcefile>
+  <sourcedir>audacious-plugins-4.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICBcDQogIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgLURndGszPXRydWUgICAgICAgICBcDQogIC4uICAgICAgICAgICAg</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

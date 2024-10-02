@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>python3-pyside6</code>
   <description>UHl0aG9uIGJpbmRpbmdzIGZvciB0aGUgUXQgY3Jvc3MtcGxhdGZvcm0gYXBwbGljYXRpb24gYW5kIFVJIGZyYW1ld29yaw==</description>
-  <sourcefile>pyside-setup-everywhere-src-6.6.2.tar.xz</sourcefile>
-  <sourcedir>pyside-setup-everywhere-src-6.6.2</sourcedir>
+  <sourcefile>pyside-setup-everywhere-src-6.7.3.tar.xz</sourcefile>
+  <sourcedir>pyside-setup-everywhere-src-6.7.3</sourcedir>
   <unpack/>
   <configure>I21rZGlyIC12IGJ1aWxkICYmDQojY2QgICAgICAgYnVpbGQgJiYNCg0KY21ha2UgLUIgYnVpbGQgLUcgTmluamEgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EUFlUSE9OX0VYRUNVVEFCTEU6U1RSSU5HPXB5dGhvbjMgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPU5vbmUgXA0KICAgICAgLURTSElCT0tFTl9QWVRIT05fTElCUkFSSUVTPWBwa2djb25mIHB5dGhvbjMtZW1iZWQgLS1saWJzYCBcDQogICAgICAtREZPUkNFX0xJTUlURURfQVBJPW5vIFwNCiAgICAgIC1ETk9fUVRfVE9PTFM9eWVzIFwNCiAgICAgIC1EQlVJTERfVEVTVFM9T0ZGIFwNCiAgICAgIFBZVEhPTlBBVEg9IiRQV0QiL2J1aWxkL3NvdXJjZXM=</configure>
   <build>I2NkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtLWJ1aWxkIGJ1aWxk</build>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>qt6</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches>

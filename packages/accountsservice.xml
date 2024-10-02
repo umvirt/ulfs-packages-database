@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>accountsservice</code>
   <description>VGhlIEFjY291bnRzU2VydmljZSBwYWNrYWdlIHByb3ZpZGVzIGEgc2V0IG9mIEQtQnVzIGludGVyZmFjZXMgZm9yIHF1ZXJ5aW5nIGFuZCBtYW5pcHVsYXRpbmcgdXNlciBhY2NvdW50IGluZm9ybWF0aW9uIGFuZCBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aG9zZSBpbnRlcmZhY2VzIGJhc2VkIG9uIHRoZSB1c2VybW9kKDgpLCB1c2VyYWRkKDgpIGFuZCB1c2VyZGVsKDgpIGNvbW1hbmRzLg==</description>
   <sourcefile>accountsservice-23.13.9.tar.xz</sourcefile>

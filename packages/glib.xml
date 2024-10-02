@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>glib</code>
   <description>VGhlIEdMaWIgcGFja2FnZSBjb250YWlucyBsb3ctbGV2ZWwgbGlicmFyaWVzIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIGRhdGEgc3RydWN0dXJlIGhhbmRsaW5nIGZvciBDLCBwb3J0YWJpbGl0eSB3cmFwcGVycyBhbmQgaW50ZXJmYWNlcyBmb3Igc3VjaCBydW50aW1lIGZ1bmN0aW9uYWxpdHkgYXMgYW4gZXZlbnQgbG9vcCwgdGhyZWFkcywgZHluYW1pYyBsb2FkaW5nIGFuZCBhbiBvYmplY3Qgc3lzdGVtLg==</description>
-  <sourcefile>glib-2.78.4.tar.xz</sourcefile>
-  <sourcedir>glib-2.78.4</sourcedir>
+  <sourcefile>glib-2.80.4.tar.xz</sourcefile>
+  <sourcedir>glib-2.80.4</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EbWFuPXRydWUgICAgICAgICAg</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwgJiYNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpta2RpciAtcCAvdXNyL3NoYXJlL2RvYy9nbGliLTIuNzguNCAmJg0KY3AgLXIgLi4vZG9jcy9yZWZlcmVuY2Uve2dpbyxnbGliLGdvYmplY3R9IC91c3Ivc2hhcmUvZG9jL2dsaWItMi43OC40DQoNCmZp</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgIFwNCiAgICAgIC1EIGludHJvc3BlY3Rpb249ZGlzYWJsZWQgXA0KICAgICAgLUQgbWFuLXBhZ2VzPWVuYWJsZWQgICAgICAg</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkICdzL2dsaWItMi4wL2dsaWItMi44MC40LycgICAgICAgIFwNCiAgICAtaSAuLi9kb2NzL3JlZmVyZW5jZS9tZXNvbi5idWlsZCAmJg0KbWVzb24gY29uZmlndXJlIC1EIGRvY3VtZW50YXRpb249dHJ1ZSAmJg0KbmluamENCg0KZmk=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwg</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>python3-docutils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-packaging</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libxslt</code>
       <weight>1</weight>

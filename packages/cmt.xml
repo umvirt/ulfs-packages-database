@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>cmt</code>
   <description>Q29tcHV0ZXIgTXVzaWMgVG9vbGtpdCBMQURTUEEgcGx1Z2luIGNvbGxlY3Rpb24=</description>
   <sourcefile>cmt_1.18.tgz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>ladspa</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

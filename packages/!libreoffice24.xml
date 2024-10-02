@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
-  <code>libreoffice24</code>
+  <release>0.2.2</release>
+  <code>!libreoffice24</code>
   <description>TGlicmVPZmZpY2UgaXMgYSBmdWxsLWZlYXR1cmVkIG9mZmljZSBzdWl0ZS4gSXQgaXMgbGFyZ2VseSBjb21wYXRpYmxlIHdpdGggTWljcm9zb2Z0IE9mZmljZSBhbmQgaXMgZGVzY2VuZGVkIGZyb20gT3Blbk9mZmljZS5vcmcu</description>
   <sourcefile>libreoffice-24.2.2.2.tar.xz</sourcefile>
   <sourcedir>libreoffice-24.2.2.2</sourcedir>
@@ -13,155 +13,155 @@
   <dependances>
     <dependance>
       <code>gettext</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>icu</code>
+      <code>libxml2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libxslt</code>
+      <code>icu</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>unzip</code>
+      <code>libxslt</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>zip</code>
+      <code>unzip</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>curl</code>
+      <code>zip</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>harfbuzz</code>
+      <code>curl</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>llvm</code>
+      <code>harfbuzz</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>mesa</code>
+      <code>llvm</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>libepoxy</code>
+      <code>mesa</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>graphite2</code>
+      <code>libepoxy</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>graphite2</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>glu</code>
+      <code>libjpeg-turbo</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>tiff</code>
+      <code>glu</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>gtk3</code>
+      <code>tiff</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>dbus-glib</code>
+      <code>gtk3</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>desktop-file-utils</code>
+      <code>dbus-glib</code>
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>OpenLDAP-client</code>
+      <code>desktop-file-utils</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>OpenLDAP-client</code>
       <weight>19</weight>
     </dependance>
     <dependance>
-      <code>gst-plugins-base</code>
+      <code>librsvg</code>
       <weight>20</weight>
     </dependance>
     <dependance>
-      <code>libwebp</code>
+      <code>gst-plugins-base</code>
       <weight>21</weight>
     </dependance>
     <dependance>
-      <code>lcms2</code>
+      <code>libwebp</code>
       <weight>22</weight>
     </dependance>
     <dependance>
-      <code>which</code>
+      <code>lcms2</code>
       <weight>23</weight>
     </dependance>
     <dependance>
-      <code>nss</code>
+      <code>which</code>
       <weight>24</weight>
     </dependance>
     <dependance>
-      <code>boost</code>
+      <code>nss</code>
       <weight>25</weight>
     </dependance>
     <dependance>
-      <code>poppler</code>
+      <code>boost</code>
       <weight>26</weight>
     </dependance>
     <dependance>
-      <code>cups</code>
+      <code>poppler</code>
       <weight>27</weight>
     </dependance>
     <dependance>
-      <code>gpgme</code>
+      <code>cups</code>
       <weight>28</weight>
     </dependance>
     <dependance>
-      <code>python3-lxml</code>
+      <code>gpgme</code>
       <weight>29</weight>
     </dependance>
     <dependance>
-      <code>mariadb-client</code>
+      <code>python3-lxml</code>
       <weight>30</weight>
     </dependance>
     <dependance>
-      <code>unixODBC</code>
+      <code>mariadb-client</code>
       <weight>31</weight>
     </dependance>
     <dependance>
-      <code>postgresql-client</code>
+      <code>unixODBC</code>
       <weight>32</weight>
     </dependance>
     <dependance>
-      <code>perl-Archive-Zip</code>
+      <code>postgresql-client</code>
       <weight>33</weight>
     </dependance>
     <dependance>
-      <code>clucene</code>
+      <code>perl-Archive-Zip</code>
       <weight>34</weight>
     </dependance>
     <dependance>
-      <code>glm</code>
+      <code>clucene</code>
       <weight>35</weight>
     </dependance>
     <dependance>
-      <code>libatomic_ops</code>
+      <code>glm</code>
       <weight>36</weight>
     </dependance>
     <dependance>
-      <code>redland</code>
+      <code>libatomic_ops</code>
       <weight>37</weight>
+    </dependance>
+    <dependance>
+      <code>redland</code>
+      <weight>38</weight>
     </dependance>
   </dependances>
   <patches/>

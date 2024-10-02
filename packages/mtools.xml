@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>mtools</code>
   <description>TXRvb2xzIGlzIGEgY29sbGVjdGlvbiBvZiB1dGlsaXRpZXMgdG8gYWNjZXNzIE1TLURPUyBkaXNrcyBmcm9tIEdOVSBhbmQgVW5peCB3aXRob3V0IG1vdW50aW5nIHRoZW0u</description>
   <sourcefile>mtools-4.0.43.tar.bz2</sourcefile>

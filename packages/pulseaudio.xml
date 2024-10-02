@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>pulseaudio</code>
   <description>UHVsc2VBdWRpbyBpcyBhIHNvdW5kIHN5c3RlbSBmb3IgUE9TSVggT1NlcywgbWVhbmluZyB0aGF0IGl0IGlzIGEgcHJveHkgZm9yIHNvdW5kIGFwcGxpY2F0aW9ucy4g</description>
   <sourcefile>pulseaudio-17.0.tar.xz</sourcefile>
@@ -48,17 +48,17 @@
       <install>Y2QgYnVpbGQNCg0KbWVzb24gaW5zdGFsbCAtLWRlc3RkaXIgREVTVERJUg0KY3AgLVJ2IERFU1RESVIvdXNyL2xpYjMyLyogL3Vzci9saWIzMg0K</install>
       <dependances>
         <dependance>
+          <code>dbus</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
           <code>alsa-lib</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>
         <dependance>
           <code>libsndfile</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-        <dependance>
-          <code>dbus</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>tmux</code>
   <description>dG11eCBpcyBhIHRlcm1pbmFsIG11bHRpcGxleGVyOiBpdCBlbmFibGVzIGEgbnVtYmVyIG9mIHRlcm1pbmFscyB0byBiZSBjcmVhdGVkLCBhY2Nlc3NlZCwgYW5kIGNvbnRyb2xsZWQgZnJvbSBhIHNpbmdsZSBzY3JlZW4uIHRtdXggbWF5IGJlIGRldGFjaGVkIGZyb20gYSBzY3JlZW4gYW5kIGNvbnRpbnVlIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQsIHRoZW4gbGF0ZXIgcmVhdHRhY2hlZC4=</description>
   <sourcefile>tmux-3.4.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>libevent</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

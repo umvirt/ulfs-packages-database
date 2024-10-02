@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>qemu</code>
   <description>cWVtdSBpcyBhIGZ1bGwgdmlydHVhbGl6YXRpb24gc29sdXRpb24gZm9yIExpbnV4IG9uIHg4NiBoYXJkd2FyZSBjb250YWluaW5nIHZpcnR1YWxpemF0aW9uIGV4dGVuc2lvbnMgKEludGVsIFZUIG9yIEFNRC1WKS4=</description>
-  <sourcefile>qemu-8.2.1.tar.xz</sourcefile>
-  <sourcedir>qemu-8.2.1</sourcedir>
+  <sourcefile>qemu-9.0.2.tar.xz</sourcefile>
+  <sourcedir>qemu-9.0.2</sourcedir>
   <unpack/>
-  <configure>aWYgWyAkKHVuYW1lIC1tKSA9IGk2ODYgXTsgdGhlbg0KICAgUUVNVV9BUkNIPWkzODYtc29mdG1tdQ0KZWxzZQ0KICAgUUVNVV9BUkNIPXg4Nl82NC1zb2Z0bW11DQpmaQ0KDQoNCm1rZGlyIC12cCBidWlsZCAmJg0KY2QgICAgICAgIGJ1aWxkICYmDQoNCi4uL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLWxvY2Fsc3RhdGVkaXI9L3ZhciAgICAgICAgIFwNCiAgICAgICAgICAgICAtLXRhcmdldC1saXN0PSRRRU1VX0FSQ0ggICAgIFwNCiAgICAgICAgICAgICAtLWF1ZGlvLWRydi1saXN0PWFsc2EscGEsc2RsIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS1zbGlycCAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS1zcGljZSAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS12aXJnbHJlbmRlcmVyICAgICAgIFwNCiAgICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9xZW11LTguMi4xDQoNCnVuc2V0IFFFTVVfQVJDSA==</configure>
+  <configure>aWYgWyAkKHVuYW1lIC1tKSA9IGk2ODYgXTsgdGhlbg0KICAgUUVNVV9BUkNIPWkzODYtc29mdG1tdQ0KZWxzZQ0KICAgUUVNVV9BUkNIPXg4Nl82NC1zb2Z0bW11DQpmaQ0KDQoNCm1rZGlyIC12cCBidWlsZCAmJg0KY2QgICAgICAgIGJ1aWxkICYmDQoNCi4uL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLWxvY2Fsc3RhdGVkaXI9L3ZhciAgICAgICAgIFwNCiAgICAgICAgICAgICAtLXRhcmdldC1saXN0PSRRRU1VX0FSQ0ggICAgIFwNCiAgICAgICAgICAgICAtLWF1ZGlvLWRydi1saXN0PWFsc2EscGEsc2RsIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS1zbGlycCAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS1zcGljZSAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS12aXJnbHJlbmRlcmVyICAgICAgIFwNCiAgICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9xZW11LTkuMC4yDQoNCnVuc2V0IFFFTVVfQVJDSA==</configure>
   <build>Y2QgICAgICAgIGJ1aWxkICYmDQptYWtl</build>
   <install>Y2QgICAgICAgIGJ1aWxkICYmDQptYWtlIGluc3RhbGwNCg0KY2hncnAga3ZtICAvdXNyL2xpYmV4ZWMvcWVtdS1icmlkZ2UtaGVscGVyICYmDQpjaG1vZCA0NzUwIC91c3IvbGliZXhlYy9xZW11LWJyaWRnZS1oZWxwZXINCg0KbG4gLXN2IHFlbXUtc3lzdGVtLWB1bmFtZSAtbWAgL3Vzci9iaW4vcWVtdQ0KDQpjYXQgPj4gL2V0Yy9zeXNjdGwuZC82MC1uZXQtZm9yd2FyZC5jb25mIDw8IEVPRg0KbmV0LmlwdjQuaXBfZm9yd2FyZD0xDQpFT0YNCg0KaW5zdGFsbCAtdmRtIDc1NSAvZXRjL3FlbXUgJiYNCmVjaG8gYWxsb3cgYnIwID4gL2V0Yy9xZW11L2JyaWRnZS5jb25m</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>virglrenderer</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>glib</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libssh2</code>
+      <code>glib</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>curl</code>
+      <code>libssh2</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>mesa</code>
+      <code>curl</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>gtk2</code>
+      <code>mesa</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>gtk3</code>
+      <code>gtk2</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>vte</code>
+      <code>gtk3</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>nettle</code>
+      <code>vte</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>gnutls</code>
+      <code>nettle</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>vte-gtk2</code>
+      <code>gnutls</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>libgcrypt</code>
+      <code>vte-gtk2</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>cyrus-sasl</code>
+      <code>libgcrypt</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>alsa-lib</code>
+      <code>cyrus-sasl</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>alsa-lib</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>pulseaudio</code>
+      <code>SDL2</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>libusb</code>
+      <code>pulseaudio</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>bluez</code>
+      <code>libusb</code>
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>ALSA</code>
+      <code>bluez</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>lzo</code>
+      <code>ALSA</code>
       <weight>19</weight>
     </dependance>
     <dependance>
-      <code>libslirp</code>
+      <code>lzo</code>
       <weight>20</weight>
     </dependance>
     <dependance>
-      <code>spice-server</code>
+      <code>libslirp</code>
       <weight>21</weight>
     </dependance>
     <dependance>
-      <code>usbredir</code>
+      <code>spice-server</code>
       <weight>22</weight>
+    </dependance>
+    <dependance>
+      <code>usbredir</code>
+      <weight>23</weight>
     </dependance>
   </dependances>
   <patches/>

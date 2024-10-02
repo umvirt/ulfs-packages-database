@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>gnome-shell</code>
   <description>VGhlIEdOT01FIFNoZWxsIGlzIHRoZSBjb3JlIHVzZXIgaW50ZXJmYWNlIG9mIHRoZSBHTk9NRSBEZXNrdG9wIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>gnome-shell-45.4.tar.xz</sourcefile>
-  <sourcedir>gnome-shell-45.4</sourcedir>
+  <sourcefile>gnome-shell-46.4.tar.xz</sourcefile>
+  <sourcedir>gnome-shell-46.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRHRlc3RzPWZhbHNlICAgICAgIFwNCiAgICAgICAgICAgIC4uICAgICA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
@@ -28,7 +28,7 @@
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>gjs</code>
+      <code>!gjs</code>
       <weight>5</weight>
     </dependance>
     <dependance>

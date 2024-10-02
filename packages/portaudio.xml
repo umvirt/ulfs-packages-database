@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>portaudio</code>
   <description>UG9ydEF1ZGlvIGlzIGEgY3Jvc3MtcGxhdGZvcm0sIG9wZW4tc291cmNlIEMgbGFuZ3VhZ2UgbGlicmFyeSBmb3IgcmVhbC10aW1lIGF1ZGlvIGlucHV0IGFuZCBvdXRwdXQu</description>
   <sourcefile>portaudio-19.7.0.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>jack2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

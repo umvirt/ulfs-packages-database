@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>v4l-utils</code>
   <description>djRsLXV0aWxzIHByb3ZpZGVzIGEgc2VyaWVzIG9mIHV0aWxpdGllcyBmb3IgbWVkaWEgZGV2aWNlcywgYWxsb3dpbmcgdG8gaGFuZGxlIHRoZSBwcm9wcmlldGFyeSBmb3JtYXRzIGF2YWlsYWJsZSBhdCBtb3N0IHdlYmNhbXMgKGxpYnY0bCksIGFuZCBwcm92aWRpbmcgdG9vbHMgdG8gdGVzdCBWNEwgZGV2aWNlcy4=</description>
-  <sourcefile>v4l-utils-1.26.1.tar.xz</sourcefile>
-  <sourcedir>v4l-utils-1.26.1</sourcedir>
+  <sourcefile>v4l-utils-1.28.1.tar.xz</sourcefile>
+  <sourcedir>v4l-utils-1.28.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgXA0KICAgICAgICAgICAgLURkb3h5Z2VuLWRvYz1kaXNhYmxlZCBcDQogICAgICAgICAgICAtRGdjb252PWRpc2FibGVkICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgLi4NCg==</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIGdjb252PWRpc2FibGVkICAgXA0KICAgICAgLUQgZG94eWdlbi1kb2M9ZGlzYWJsZWQNCg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KZm9yIHByb2cgaW4gdjRsMmdsIHY0bDJncmFiDQpkbw0KICAgY3AgLXYgY29udHJpYi90ZXN0LyRwcm9nIC91c3IvYmluDQpkb25lDQo=</install>
   <localbuild>0</localbuild>

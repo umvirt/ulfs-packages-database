@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>cryptsetup</code>
   <description>Y3J5cHRzZXR1cCBpcyB1c2VkIHRvIHNldCB1cCB0cmFuc3BhcmVudCBlbmNyeXB0aW9uIG9mIGJsb2NrIGRldmljZXMgdXNpbmcgdGhlIGtlcm5lbCBjcnlwdG8gQVBJLg==</description>
-  <sourcefile>cryptsetup-2.7.0.tar.xz</sourcefile>
-  <sourcedir>cryptsetup-2.7.0</sourcedir>
+  <sourcefile>cryptsetup-2.7.4.tar.xz</sourcefile>
+  <sourcedir>cryptsetup-2.7.4</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3NoLXRva2VuIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1hc2NpaWRvYyANCg==</configure>
   <build/>

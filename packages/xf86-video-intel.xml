@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xf86-video-intel</code>
   <description>SW50ZWwgR1BVIFhvcmcgZHJpdmVy</description>
   <sourcefile>xf86-video-intel_2.99.917-git20210115.tar.gz</sourcefile>

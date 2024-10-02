@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>xorg-server</code>
   <description>VGhlIFhvcmcgU2VydmVyIGlzIHRoZSBjb3JlIG9mIHRoZSBYIFdpbmRvdyBzeXN0ZW0u</description>
-  <sourcefile>xorg-server-21.1.11.tar.xz</sourcefile>
-  <sourcedir>xorg-server-21.1.11</sourcedir>
+  <sourcefile>xorg-server-21.1.13.tar.xz</sourcefile>
+  <sourcedir>xorg-server-21.1.13</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggXA0KICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgIFwNCiAgICAgIC1EZ2xhbW9yPXRydWUgICAgICAgICBcDQogICAgICAtRHhrYl9vdXRwdXRfZGlyPS92YXIvbGliL3hrYiANCg0K</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg0K</build>
@@ -38,7 +38,7 @@
   </dependances>
   <patches>
     <patch>
-      <filename>xorg-server-21.1.11-tearfree_backport-1.patch</filename>
+      <filename>xorg-server-21.1.13-tearfree_backport-2.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

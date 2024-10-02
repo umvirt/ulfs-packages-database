@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>openmpi</code>
   <description>SGlnaCBwZXJmb3JtYW5jZSBtZXNzYWdlIHBhc3NpbmcgbGlicmFyeSAoTVBJKQ==</description>
   <sourcefile>openmpi-5.0.3.tar.bz2</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>openssh</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libnl</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>hwloc</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>gcc</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>valgrind</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>prrte</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

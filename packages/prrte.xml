@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>prrte</code>
   <description>UE1JeCBSZWZlcmVuY2UgUnVuVGltZSBFbnZpcm9ubWVudCAoUFJSVEUp</description>
   <sourcefile>prrte-3.0.5.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>pmix</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

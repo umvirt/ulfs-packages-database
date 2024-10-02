@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>hwloc</code>
   <description>UG9ydGFibGUgSGFyZHdhcmUgTG9jYWxpdHk=</description>
   <sourcefile>hwloc-2.10.0.tar.bz2</sourcefile>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>alsa-lib</code>
   <description>VGhlIEFMU0EgTGlicmFyeSBwYWNrYWdlIGNvbnRhaW5zIHRoZSBBTFNBIGxpYnJhcnkgdXNlZCBieSBwcm9ncmFtcyAoaW5jbHVkaW5nIEFMU0EgVXRpbGl0aWVzKSByZXF1aXJpbmcgYWNjZXNzIHRvIHRoZSBBTFNBIHNvdW5kIGludGVyZmFjZS4=</description>
-  <sourcefile>alsa-lib-1.2.11.tar.bz2</sourcefile>
-  <sourcedir>alsa-lib-1.2.11</sourcedir>
+  <sourcefile>alsa-lib-1.2.12.tar.bz2</sourcefile>
+  <sourcedir>alsa-lib-1.2.12</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmU=</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgZG9jDQoNCmZp</build>
-  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtZCAtbTc1NSAvdXNyL3NoYXJlL2RvYy9hbHNhLWxpYi0xLjIuMTEvaHRtbC9zZWFyY2ggJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2RveHlnZW4vaHRtbC8qLiogXA0KICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xMS9odG1sICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy9kb3h5Z2VuL2h0bWwvc2VhcmNoLyogXA0KICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xMS9odG1sL3NlYXJjaA0KDQpmaQ==</install>
+  <install>bWFrZSBpbnN0YWxsDQoNCnRhciAtQyAvdXNyL3NoYXJlL2Fsc2EgLS1zdHJpcC1jb21wb25lbnRzPTEgLXhmIC4uL2Fsc2EtdWNtLWNvbmYtMS4yLjEyLnRhci5iejINCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQppbnN0YWxsIC12IC1kIC1tNzU1IC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xMi9odG1sL3NlYXJjaCAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2MvZG94eWdlbi9odG1sLyouKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjEyL2h0bWwgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2RveHlnZW4vaHRtbC9zZWFyY2gvKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjEyL2h0bWwvc2VhcmNoDQoNCmZp</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -17,7 +17,9 @@
     </dependance>
   </dependances>
   <patches/>
-  <addons/>
+  <addons>
+    <addon>alsa-ucm-conf-1.2.12.tar.bz2</addon>
+  </addons>
   <nestings/>
   <comments/>
   <archpackages>

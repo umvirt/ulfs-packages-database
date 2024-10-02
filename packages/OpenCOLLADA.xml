@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>OpenCOLLADA</code>
   <description>Q09MTEFEQU1heCBhbmQgQ09MTEFEQU1heWEgYXJlIG5ldyBpbXBsZW1lbnRhdGlvbiBvZiBhIDNkcyBNYXggb3IgTWF5YSBwbHVnLWlucyB0byBleHBvcnQgc2NlbmUgb3IgcGFydHMgb2YgaXQgdG8gYSBDT0xMQURBIGZpbGUsIHJlbGVhc2VkIHVuZGVyIGFuIE1JVC1saWNlbnNlLg==</description>
   <sourcefile>OpenCOLLADA-1.6.68.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>pcre</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>VeraCrypt</code>
   <description>VmVyYUNyeXB0IGlzIGZyZWUgb3Blbi1zb3VyY2UgZGlzayBlbmNyeXB0aW9uIHNvZnR3YXJlIGZvciBXaW5kb3dzLCBNYWMgT1MgWCBhbmQgTGludXgu</description>
   <sourcefile>VeraCrypt_1.26.7_Source.tar.bz2</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>fuse</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>wxWidgets</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pcsc-lite</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>fuse2</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

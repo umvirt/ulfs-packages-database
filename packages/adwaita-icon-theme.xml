@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>adwaita-icon-theme</code>
   <description>VGhlIEFkd2FpdGEgSWNvbiBUaGVtZSBwYWNrYWdlIGNvbnRhaW5zIGFuIGljb24gdGhlbWUgZm9yIEdUSysgMyBhbmQgR1RLIDRhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>adwaita-icon-theme-45.0.tar.xz</sourcefile>
-  <sourcedir>adwaita-icon-theme-45.0</sourcedir>
+  <sourcefile>adwaita-icon-theme-46.2.tar.xz</sourcefile>
+  <sourcedir>adwaita-icon-theme-46.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLi4=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>gtk4</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>git</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gtk2</code>
+      <code>git</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gtk3</code>
+      <code>gtk2</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>gtk3</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>librsvg</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

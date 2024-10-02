@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>aufs</code>
   <description>QVVGUyBMaW51eCBrZXJuZWwgcGF0Y2g=</description>
-  <sourcefile>aufs-6.7.tar.gz</sourcefile>
-  <sourcedir>aufs-6.7</sourcedir>
+  <sourcefile>aufs-6.10.tar.gz</sourcefile>
+  <sourcedir>aufs-6.10</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>

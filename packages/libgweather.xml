@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>libgweather</code>
   <description>VGhlIGxpYmd3ZWF0aGVyIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHVzZWQgdG8gYWNjZXNzIHdlYXRoZXIgaW5mb3JtYXRpb24gZnJvbSBvbmxpbmUgc2VydmljZXMgZm9yIG51bWVyb3VzIGxvY2F0aW9ucy4=</description>
-  <sourcefile>libgweather-4.4.0.tar.xz</sourcefile>
-  <sourcedir>libgweather-4.4.0</sourcedir>
+  <sourcefile>libgweather-4.4.2.tar.xz</sourcefile>
+  <sourcedir>libgweather-4.4.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0a19kb2M9ZmFsc2UgICAgIFwNCiAgICAgICAgICAgIC4uICAgICAgICAgIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

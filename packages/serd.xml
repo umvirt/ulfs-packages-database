@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>serd</code>
   <description>U2VyZCBpcyBhIGxpZ2h0d2VpZ2h0IEMgbGlicmFyeSBmb3Igd29ya2luZyB3aXRoIFJERiBkYXRhLg==</description>
   <sourcefile>serd-0.32.2.tar.xz</sourcefile>

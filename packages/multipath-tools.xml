@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.1</release>
+  <release>0.2.2</release>
   <code>multipath-tools</code>
   <description>UGFydGl0aW9uIG1vdW50IG9uIGJsb2NrZGV2aWNlcy4gS3BhcnR4IHRvb2wu</description>
   <sourcefile>multipath-tools-0.9.8.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>json-c</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libaio</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libblockdev</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>liburcu</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>
