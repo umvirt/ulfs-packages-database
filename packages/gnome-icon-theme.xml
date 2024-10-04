@@ -12,10 +12,6 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>gtk2</code>
-      <weight>1</weight>
-    </dependance>
-    <dependance>
       <code>hicolor-icon-theme</code>
       <weight>2</weight>
     </dependance>

@@ -16,10 +16,6 @@
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gtk2</code>
-      <weight>2</weight>
-    </dependance>
-    <dependance>
       <code>vala</code>
       <weight>3</weight>
     </dependance>

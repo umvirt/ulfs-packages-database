@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>gtkmm4</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>json-glib</code>
       <weight>1</weight>
     </dependance>
