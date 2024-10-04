@@ -6,7 +6,7 @@
   <sourcefile>pygtk-2.24.0.tar.bz2</sourcefile>
   <sourcedir>pygtk-2.24.0</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcxMzk0LDE0MDIgZCcgcGFuZ28uZGVmcw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyDQo=</configure>
+  <configure>c2VkIC1pICcxMzk0LDE0MDIgZCcgcGFuZ28uZGVmcw0KDQpDRkxBR1MrPSIgLVduby1lcnJvcj1pbXBsaWNpdC1mdW5jdGlvbi1kZWNsYXJhdGlvbiAtV25vLWVycm9yPWludC1jb252ZXJzaW9uIg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICANCmV4cG9ydCBDRkxBR1MNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

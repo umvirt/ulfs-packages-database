@@ -6,7 +6,7 @@
   <sourcefile>lxpanel-0.10.1.tar.xz</sourcefile>
   <sourcedir>lxpanel-0.10.1</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9aW5jb21wYXRpYmxlLXBvaW50ZXItdHlwZXMiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KZXhwb3J0IENGTEFHUw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIA==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
