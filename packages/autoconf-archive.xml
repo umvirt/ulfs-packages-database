@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>autoconf-archive</code>
+  <description>QSBjb2xsZWN0aW9uIG9mIGZyZWVseSByZS11c2FibGUgQXV0b2NvbmYgbWFjcm9zLg==</description>
+  <sourcefile>autoconf-archive-2023.02.20.tar.xz</sourcefile>
+  <sourcedir>autoconf-archive-2023.02.20</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

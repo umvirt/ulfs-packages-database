@@ -1010,5 +1010,7 @@
     <package>libsigcpp3</package>
     <package>pangomm-2.54</package>
     <package>glibmm-2.80</package>
+    <package>gnome-common</package>
+    <package>autoconf-archive</package>
   </packages>
 </packages>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>gnome-common</code>
+  <description>Q29tbW9uIGRldmVsb3BtZW50IG1hY3JvcyBmb3IgR05PTUU=</description>
+  <sourcefile>gnome-common-3.18.0.tar.xz</sourcefile>
+  <sourcedir>gnome-common-3.18.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgLS13aXRoLWF1dG9jb25mLWFyY2hpdmU=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gettext</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>autoconf-archive</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
