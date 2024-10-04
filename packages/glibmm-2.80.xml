@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>glibmm-2.80</code>
+  <description>VGhlIEdMaWJtbSBwYWNrYWdlIGlzIGEgc2V0IG9mIEMrKyBiaW5kaW5ncyBmb3IgR0xpYi4gVGhpcyB2ZXJzaW9uIGlzIHBhcnQgb2YgYSBuZXcgQVBJIGZvciBzdXBwb3J0aW5nIGd0a21tLTQu</description>
+  <sourcefile>glibmm-2.80.0.tar.xz</sourcefile>
+  <sourcedir>glibmm-2.80.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
+  <build>Y2QgICAgYmxkICYmDQpuaW5qYQ==</build>
+  <install>Y2QgICAgYmxkICYmDQpuaW5qYSBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libsigcpp3</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

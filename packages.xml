@@ -1005,5 +1005,10 @@
     <package>SPIRV-LLVM-Translator</package>
     <package>python3-ply</package>
     <package>python3-trove_classifiers</package>
+    <package>gtkmm4</package>
+    <package>cairomm16</package>
+    <package>libsigcpp3</package>
+    <package>pangomm-2.54</package>
+    <package>glibmm-2.80</package>
   </packages>
 </packages>
