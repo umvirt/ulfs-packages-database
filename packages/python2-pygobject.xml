@@ -3,12 +3,12 @@
   <release>0.2.2</release>
   <code>python2-pygobject</code>
   <description>UHlHT2JqZWN0LTIuMjguNyBwcm92aWRlcyBQeXRob24gMiBiaW5kaW5ncyB0byB0aGUgR09iamVjdCBjbGFzcyBmcm9tIEdMaWIu</description>
-  <sourcefile>pygobject-3.48.2.tar.xz</sourcefile>
-  <sourcedir>pygobject-3.48.2</sourcedir>
+  <sourcefile>pygobject-2.28.7.tar.xz</sourcefile>
+  <sourcedir>pygobject-2.28.7</sourcedir>
   <unpack/>
-  <configure>bXYgLXYgdGVzdHMvdGVzdF9nZGJ1cy5weXssLm5vdXNlfSAgICAgICAgICYmDQptdiAtdiB0ZXN0cy90ZXN0X292ZXJyaWRlc19ndGsucHl7LC5ub3VzZX0NCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure>ZmluZCAuIFwoIC1uYW1lICcqLnB5JyAtbyAtbmFtZSAnKi5weS5pbicgXCkgLWV4ZWMgc2VkIC1pICcxc3xweXRob24kfCYyfCcge30gKw0KYXV0b3JlY29uZiAtZnZpDQoNCkNGTEFHUys9IiAtV25vLWVycm9yPWltcGxpY2l0LWZ1bmN0aW9uLWRlY2xhcmF0aW9uIg0KZXhwb3J0IENGTEFHUw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1pbnRyb3NwZWN0aW9uIFBZVEhPTj0vdXNyL2Jpbi9weXRob24y</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

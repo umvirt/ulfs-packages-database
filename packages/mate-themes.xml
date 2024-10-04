@@ -3,8 +3,8 @@
   <release>0.2.2</release>
   <code>mate-themes</code>
   <description>TWF0ZSB0aGVtZXM=</description>
-  <sourcefile>mate-themes-3.22.24.tar.xz</sourcefile>
-  <sourcedir>mate-themes-3.22.24</sourcedir>
+  <sourcefile>mate-themes-3.22.26.tar.xz</sourcefile>
+  <sourcedir>mate-themes-3.22.26</sourcedir>
   <unpack/>
   <configure/>
   <build/>
