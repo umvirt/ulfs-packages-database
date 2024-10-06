@@ -6,7 +6,7 @@
   <sourcefile>libao-1.2.0.tar.gz</sourcefile>
   <sourcedir>libao-1.2.0</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>c2VkIC1pICcvbGltaXRzLmgvYSAjaW5jbHVkZSA8dGltZS5oPicgc3JjL3BsdWdpbnMvcHVsc2UvYW9fcHVsc2UuYw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNjQ0IFJFQURNRSAvdXNyL3NoYXJlL2RvYy9saWJhby0xLjIuMA==</install>
   <localbuild>0</localbuild>
