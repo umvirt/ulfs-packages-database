@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>gcr4</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>glib</code>
       <weight>1</weight>
     </dependance>
