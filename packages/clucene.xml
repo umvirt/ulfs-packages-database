@@ -25,10 +25,6 @@
       <filename>clucene-2.3.3.4-contribs_lib-1.patch</filename>
       <mode>1</mode>
     </patch>
-    <patch>
-      <filename>clucene-2.3.3.4-contribs_lib-1.patch</filename>
-      <mode>1</mode>
-    </patch>
   </patches>
   <addons/>
   <nestings/>
