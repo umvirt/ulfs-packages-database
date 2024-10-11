@@ -10,12 +10,7 @@
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQoNCmZpbmQgZG9jIC1uYW1lICJNYWtlZmlsZSoiIC1kZWxldGUgICAgICAgICAgICAgICAgJiYNCmNobW9kIDY0NCBkb2Mve2xzdCxQcm9ncmFtbWVyTWFudWFsL1R1dG9yaWFsfS8qICAgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy91bml4T0RCQy0yLjMuMTIgJiYNCmNwICAgICAgLXYgLVIgZG9jLyogL3Vzci9zaGFyZS9kb2MvdW5peE9EQkMtMi4zLjEyDQo=</install>
   <localbuild>0</localbuild>
-  <dependances>
-    <dependance>
-      <code>pth</code>
-      <weight>1</weight>
-    </dependance>
-  </dependances>
+  <dependances/>
   <patches/>
   <addons/>
   <nestings/>

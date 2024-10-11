@@ -28,10 +28,6 @@
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>pth</code>
-      <weight>5</weight>
-    </dependance>
-    <dependance>
       <code>postgresql-client</code>
       <weight>6</weight>
     </dependance>
