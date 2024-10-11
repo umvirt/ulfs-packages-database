@@ -753,7 +753,7 @@
     <package>caja-extensions</package>
     <package>caja</package>
     <package>caja-actions</package>
-    <package>!libreoffice24</package>
+    <package>libreoffice</package>
     <package>garcon</package>
     <package>xfce4-panel</package>
     <package>thunar</package>
