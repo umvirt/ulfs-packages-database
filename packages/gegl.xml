@@ -6,7 +6,7 @@
   <sourcefile>gegl-0.4.48.tar.xz</sourcefile>
   <sourcedir>gegl-0.4.48</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCg0KI21lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgLURsaWJyc3ZnPWRpc2FibGVk</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgICAgICAgIC1EbGlicnN2Zz1kaXNhYmxlZCAgXA0KICAgICAgICAgICAgLUQgbGliYXY9ZGlzYWJsZWQgICBcDQogICAgICAgICAgICAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>

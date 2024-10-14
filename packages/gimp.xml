@@ -3,14 +3,34 @@
   <release>0.2.2</release>
   <code>gimp</code>
   <description>VGhlIEdpbXAgcGFja2FnZSBjb250YWlucyB0aGUgR05VIEltYWdlIE1hbmlwdWxhdGlvbiBQcm9ncmFtIHdoaWNoIGlzIHVzZWZ1bCBmb3IgcGhvdG8gcmV0b3VjaGluZywgaW1hZ2UgY29tcG9zaXRpb24gYW5kIGltYWdlIGF1dGhvcmluZy4=</description>
-  <sourcefile>gimp3-20240711.tar.xz</sourcefile>
-  <sourcedir>gimp3-20240711</sourcedir>
+  <sourcefile>gimp-2.10.38.tar.bz2</sourcefile>
+  <sourcedir>gimp-2.10.38</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgZ2ltcC1idWlsZCAmJg0KY2QgICAgZ2ltcC1idWlsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgLi4=</configure>
-  <build>Y2QgICAgZ2ltcC1idWlsZA0KDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>
-  <install>Y2QgICAgZ2ltcC1idWlsZA0KbmluamEgaW5zdGFsbA0KDQpndGstdXBkYXRlLWljb24tY2FjaGUgLXF0ZiAvdXNyL3NoYXJlL2ljb25zL2hpY29sb3IgJiYNCnVwZGF0ZS1kZXNrdG9wLWRhdGFiYXNlIC1x</install>
+  <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9aW5jb21wYXRpYmxlLXBvaW50ZXItdHlwZXMiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KZXhwb3J0IENGTEFHUw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tc3lzY29uZmRpcj0vZXRj</configure>
+  <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ0K</build>
+  <install>bWFrZSBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>python2-pycairo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pycairo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libheif</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libde265</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>appstream-glib</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libxml2</code>
       <weight>1</weight>

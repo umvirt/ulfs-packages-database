@@ -1012,5 +1012,6 @@
     <package>glibmm-2.80</package>
     <package>gnome-common</package>
     <package>autoconf-archive</package>
+    <package>appstream-glib</package>
   </packages>
 </packages>
