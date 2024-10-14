@@ -3,8 +3,8 @@
   <release>0.2.2</release>
   <code>python3-charset-normalizer</code>
   <description>aGUgY2hhcnNldC1ub3JtYWxpemVyIGxpYnJhcnkgaGVscHMgcmVhZGluZyB0ZXh0IGZyb20gYW4gdW5rbm93biBjaGFyYWN0ZXIgZW5jb2Rpbmcu</description>
-  <sourcefile>charset-normalizer-3.0.1.tar.gz</sourcefile>
-  <sourcedir>charset-normalizer-3.0.1</sourcedir>
+  <sourcefile>charset-normalizer-3.3.2.tar.gz</sourcefile>
+  <sourcedir>charset-normalizer-3.3.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
