@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>dtc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>virglrenderer</code>
       <weight>1</weight>
     </dependance>

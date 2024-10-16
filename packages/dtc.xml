@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>dtc</code>
+  <description>VGhlIGR0YyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBEZXZpY2UgVHJlZSBDb21waWxlciBmb3Igd29ya2luZyB3aXRoIGRldmljZSB0cmVlIHNvdXJjZSBhbmQgYmluYXJ5IGZpbGVzIGFuZCBhbHNvIGxpYmZkdCwgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIHJlYWRpbmcgYW5kIG1hbmlwdWxhdGluZyBkZXZpY2UgdHJlZXMgaW4gdGhlIGJpbmFyeSBmb3JtYXQu</description>
+  <sourcefile>dtc-1.7.1.tar.xz</sourcefile>
+  <sourcedir>dtc-1.7.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgXA0KICAgICAgICAgICAgLUQgcHl0aG9uPWRpc2FibGVkIC4u</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphIA0K</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiICE9ICJZRVMiIF1dDQp0aGVuDQoNCnJtIC91c3IvbGliL2xpYmZkdC5hDQoNCmZpDQoNCnBpcDMgd2hlZWwgLXcgZGlzdCAtLW5vLWJ1aWxkLWlzb2xhdGlvbiAtLW5vLWRlcHMgLS1uby1jYWNoZS1kaXIgLi4NCg0KcGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzPWRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGxpYmZkdA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>yaml</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>swig</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
