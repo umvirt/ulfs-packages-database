@@ -32,10 +32,6 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>!lz4</code>
-      <weight>6</weight>
-    </dependance>
-    <dependance>
       <code>spice-protocol</code>
       <weight>7</weight>
     </dependance>

@@ -15,10 +15,6 @@
       <code>lzo</code>
       <weight>1</weight>
     </dependance>
-    <dependance>
-      <code>!lz4</code>
-      <weight>2</weight>
-    </dependance>
   </dependances>
   <patches/>
   <addons/>
