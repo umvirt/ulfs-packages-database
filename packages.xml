@@ -1014,5 +1014,6 @@
     <package>autoconf-archive</package>
     <package>appstream-glib</package>
     <package>dtc</package>
+    <package>simh</package>
   </packages>
 </packages>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>simh</code>
+  <description>U2ltSCAoSGlzdG9yeSBTaW11bGF0b3IpIGlzIGEgY29sbGVjdGlvbiBvZiBzaW11bGF0b3JzIGZvciBoaXN0b3JpY2FsbHkgc2lnbmlmaWNhbnQgb3IganVzdCBwbGFpbiBpbnRlcmVzdGluZyBjb21wdXRlciBoYXJkd2FyZSBhbmQgc29mdHdhcmUgZnJvbSB0aGUgcGFzdC4=</description>
+  <sourcefile>simhv312-5.zip</sourcefile>
+  <sourcedir>sim</sourcedir>
+  <unpack>dW56aXAgc2ltaHYzMTItNS56aXA=</unpack>
+  <configure>c2VkIC1pICcvUmV0cnkgeW91ciBidWlsZCB3aXRob3V0IHNwZWNpZnlpbmcgVVNFX05FVFdPUksvZCcgbWFrZWZpbGU=</configure>
+  <build>bWtkaXIgLXAgQklODQptYWtlIFVTRV9TSEFSRUQ9MSBVU0VfTkVUV09SSz0xIE5FVFdPUktfT1BUPSctRFVTRV9ORVRXT1JLIC1ESEFWRV9UQVBfTkVUV09SSycNCg==</build>
+  <install>Y2QgQklODQpybWRpciBidWlsZHRvb2xzDQoNCmZvciBpIGluICo7IGRvDQoNCmluc3RhbGwgLUQgJGkgIi91c3IvYmluL3NpbWgtJGkiDQoNCmRvbmUNCg0KY2QgLi4vVkFYDQpta2RpciAtcHYgL3Vzci9saWIvc2ltaA0KY3AgLXYgKi5iaW4gL3Vzci9saWIvc2ltaA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>unzip</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pcre</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpcap</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>simh-gcc14.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
