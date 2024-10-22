@@ -3,9 +3,9 @@
   <release>0.2.2</release>
   <code>VeraCrypt</code>
   <description>VmVyYUNyeXB0IGlzIGZyZWUgb3Blbi1zb3VyY2UgZGlzayBlbmNyeXB0aW9uIHNvZnR3YXJlIGZvciBXaW5kb3dzLCBNYWMgT1MgWCBhbmQgTGludXgu</description>
-  <sourcefile>VeraCrypt_1.26.7_Source.tar.bz2</sourcefile>
-  <sourcedir>VeraCrypt</sourcedir>
-  <unpack>bWtkaXIgVmVyYUNyeXB0DQp0YXIgLXhmIFZlcmFDcnlwdF8xLjI2LjdfU291cmNlLnRhci5iejIgIC1DIFZlcmFDcnlwdA==</unpack>
+  <sourcefile>VeraCrypt_1.26.15.tar.gz</sourcefile>
+  <sourcedir>VeraCrypt_1.26.15</sourcedir>
+  <unpack/>
   <configure>Iw==</configure>
   <build>Y2Qgc3JjDQptYWtl</build>
   <install>Y2Qgc3JjDQppbnN0YWxsIC12IC1tNzU1IE1haW4vdmVyYWNyeXB0IC91c3IvYmluDQoNCmNhdCA+PiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9WZXJhQ3J5cHQuZGVza3RvcCA8PCBFT0YNCltEZXNrdG9wIEVudHJ5XQ0KTmFtZT1WZXJhQ3J5cHQNCkNvbW1lbnQ9VHJ1ZUNyeXB0IGZvcmsNCkV4ZWM9L3Vzci9iaW4vdmVyYWNyeXB0DQpUZXJtaW5hbD1mYWxzZQ0KVHlwZT1BcHBsaWNhdGlvbg0KSWNvbj1ub25lDQpDYXRlZ29yaWVzPVN5c3RlbQ0KRU9G</install>
