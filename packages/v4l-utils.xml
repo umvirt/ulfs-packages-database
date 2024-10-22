@@ -6,7 +6,7 @@
   <sourcefile>v4l-utils-1.28.1.tar.xz</sourcefile>
   <sourcedir>v4l-utils-1.28.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIGdjb252PWRpc2FibGVkICAgXA0KICAgICAgLUQgZG94eWdlbi1kb2M9ZGlzYWJsZWQNCg==</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC0tbGliZGlyPS91c3IvbGliICAgXA0KICAgICAgLUQgZ2NvbnY9ZGlzYWJsZWQgICBcDQogICAgICAtRCBkb3h5Z2VuLWRvYz1kaXNhYmxlZA0K</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KZm9yIHByb2cgaW4gdjRsMmdsIHY0bDJncmFiDQpkbw0KICAgY3AgLXYgY29udHJpYi90ZXN0LyRwcm9nIC91c3IvYmluDQpkb25lDQo=</install>
   <localbuild>0</localbuild>

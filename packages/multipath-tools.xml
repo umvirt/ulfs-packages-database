@@ -7,8 +7,8 @@
   <sourcedir>multipath-tools-0.9.8</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build/>
-  <install/>
+  <build>bWFrZSBMSUI9bGli</build>
+  <install>bWFrZSBMSUI9bGliIGluc3RhbGw=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
