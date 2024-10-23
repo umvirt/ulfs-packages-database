@@ -6,7 +6,7 @@
   <sourcefile>audacious-plugins-4.4.tar.bz2</sourcefile>
   <sourcedir>audacious-plugins-4.4</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICBcDQogIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgLURndGszPXRydWUgICAgICAgICBcDQogIC4uICAgICAgICAgICAg</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICBcDQogIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgLUQgZ3RrPXRydWUgICAgICAgICBcDQogIC1EIHF0PXRydWUgICAgICAgICAgXA0KICAuLiAgICAgICAgICAgIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
