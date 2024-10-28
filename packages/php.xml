@@ -16,6 +16,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libwebp</code>
       <weight>0</weight>
     </dependance>
