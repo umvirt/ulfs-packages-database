@@ -1015,5 +1015,8 @@
     <package>appstream-glib</package>
     <package>dtc</package>
     <package>simh</package>
+    <package>coolreader</package>
+    <package>libunibreak</package>
+    <package>utf8proc</package>
   </packages>
 </packages>

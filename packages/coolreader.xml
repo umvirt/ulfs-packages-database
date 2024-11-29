@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.2</release>
+  <code>coolreader</code>
+  <description/>
+  <sourcefile>coolreader-cr3.2.58.tar.gz</sourcefile>
+  <sourcedir>coolreader-cr3.2.58</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgcXRidWlsZA0KY2QgcXRidWlsZA0KY21ha2UgLUQgR1VJPVFUNSBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLUQgTUFYX0lNQUdFX1NDQUxFX01VTD0yIFwNCiAgICAgIC1EIERPQ19EQVRBX0NPTVBSRVNTSU9OX0xFVkVMPTMgXA0KICAgICAgLUQgRE9DX0JVRkZFUl9TSVpFPTB4MTQwMDAwMCBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC4u</configure>
+  <build>Y2QgcXRidWlsZA0KbWFrZQ==</build>
+  <install>Y2QgcXRidWlsZA0KbWFrZSBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>freetype</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>harfbuzz</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fribidi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libunibreak</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>utf8proc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
