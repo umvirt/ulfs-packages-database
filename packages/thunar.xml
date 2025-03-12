@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>thunar</code>
   <description>VGh1bmFyIGlzIHRoZSBYZmNlIGZpbGUgbWFuYWdlciwgYSBHVEsrIDMgR1VJIHRvIG9yZ2FuaXNlIHRoZSBmaWxlcyBvbiB5b3VyIGNvbXB1dGVyLg==</description>
   <sourcefile>thunar-4.18.11.tar.bz2</sourcefile>

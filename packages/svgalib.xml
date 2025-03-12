@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>svgalib</code>
   <description>U1ZHQWxpYiBpcyBhIGxvdy1sZXZlbCBncmFwaGljcyBsaWJyYXJ5IGZvciBMaW51eC4gSXQgYXVnbWVudHMgdGhlIEMgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2UsIHdoaWNoIGRvZXNuJ3QgcHJvdmlkZSBzdXBwb3J0IGZvciBncmFwaGljcy4=</description>
   <sourcefile>svgalib-1.9.25.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libevent</code>
   <description>bGliZXZlbnQgaXMgYW4gYXN5bmNocm9ub3VzIGV2ZW50IG5vdGlmaWNhdGlvbiBzb2Z0d2FyZSBsaWJyYXJ5LiA=</description>
   <sourcefile>libevent-2.1.12-stable.tar.gz</sourcefile>

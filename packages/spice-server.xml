@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>spice-server</code>
   <description>U1BJQ0UgcHJvdG9jb2wgc2VydmVy</description>
   <sourcefile>spice-0.15.2.tar.bz2</sourcefile>
@@ -33,11 +33,11 @@
     </dependance>
     <dependance>
       <code>spice-protocol</code>
-      <weight>7</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>orc</code>
-      <weight>8</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>clutter-gtk</code>
   <description>VGhlIENsdXR0ZXIgR3RrIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHByb3ZpZGluZyBmYWNpbGl0aWVzIHRvIGludGVncmF0ZSBDbHV0dGVyIGludG8gR1RLKyBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>clutter-gtk-1.8.4.tar.xz</sourcefile>

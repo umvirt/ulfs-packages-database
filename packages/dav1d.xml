@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>dav1d</code>
   <description>ZGF2MWQgaXMgdGhlIGZhc3Rlc3QgQVYxIGRlY29kZXIgb24gYWxsIHBsYXRmb3Jtcy4gVGFyZ2V0ZWQgdG8gYmUgc21hbGwsIHBvcnRhYmxlIGFuZCB2ZXJ5IGZhc3Qu</description>
   <sourcefile>dav1d-1.4.0.tar.xz</sourcefile>

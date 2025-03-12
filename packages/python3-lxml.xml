@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>python3-lxml</code>
   <description>bHhtbCBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgZm9yIGxpYnhzbHQgYW5kIGxpYnhtbDIu</description>
   <sourcefile>lxml-5.3.0.tar.gz</sourcefile>

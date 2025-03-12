@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libXxf86vm</code>
   <description/>
   <sourcefile>libXxf86vm-1.1.5.tar.xz</sourcefile>

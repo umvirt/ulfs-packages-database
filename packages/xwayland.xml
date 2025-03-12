@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>xwayland</code>
   <description>VGhlIFh3YXlsYW5kIHBhY2thZ2UgaXMgYW4gWG9yZyBzZXJ2ZXIgcnVubmluZyBvbiB0b3Agb2YgdGhlIHdheWxhbmQgc2VydmVyLg==</description>
   <sourcefile>xwayland-24.1.2.tar.xz</sourcefile>

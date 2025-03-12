@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>appstream-glib</code>
   <description>VGhlIGFwcHN0cmVhbS1nbGliIHByb3ZpZGVzIEdPYmplY3RzIGFuZCBoZWxwZXIgbWV0aG9kcyB0byBtYWtlIGl0IGVhc3kgdG8gcmVhZCBhbmQgd3JpdGUgQXBwU3RyZWFtIG1ldGFkYXRhLiBJdCBhbHNvIHByb3ZpZGVzIGEgc2ltcGxlIERPTSAoRG9jdW1lbnQgT2JqZWN0IE1vZGVsKSBpbXBsZW1lbnRhdGlvbiB0aGF0IG1ha2VzIGl0IGVhc3kgdG8gZWRpdCBub2RlcyBhbmQgY29udmVydCB0byBhbmQgZnJvbSB0aGUgc3RhbmRhcmRpemVkIFhNTCByZXByZXNlbnRhdGlvbi4=</description>
   <sourcefile>appstream-glib-0.8.3.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>curl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libarchive</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gdk-pixbuf</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

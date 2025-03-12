@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>python3-charset-normalizer</code>
   <description>aGUgY2hhcnNldC1ub3JtYWxpemVyIGxpYnJhcnkgaGVscHMgcmVhZGluZyB0ZXh0IGZyb20gYW4gdW5rbm93biBjaGFyYWN0ZXIgZW5jb2Rpbmcu</description>
   <sourcefile>charset-normalizer-3.3.2.tar.gz</sourcefile>

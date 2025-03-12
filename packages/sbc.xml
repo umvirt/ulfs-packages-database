@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>sbc</code>
   <description>VGhlIFNCQyBpcyBhIGRpZ2l0YWwgYXVkaW8gZW5jb2RlciBhbmQgZGVjb2RlciB1c2VkIHRvIHRyYW5zZmVyIGRhdGEgdG8gQmx1ZXRvb3RoIGF1ZGlvIG91dHB1dCBkZXZpY2VzIGxpa2UgaGVhZHBob25lcyBvciBsb3Vkc3BlYWtlcnMu</description>
   <sourcefile>sbc-2.0.tar.xz</sourcefile>

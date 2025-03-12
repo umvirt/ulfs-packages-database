@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>beep</code>
   <description>YmVlcCBpcyBhIGNvbW1hbmQgbGluZSB0b29sIGZvciBsaW51eCB0aGF0IGJlZXBzIHRoZSBQQyBzcGVha2Vy</description>
   <sourcefile>beep-1.4.12.tar.gz</sourcefile>

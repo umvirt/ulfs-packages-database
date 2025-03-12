@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>xdg-utils</code>
   <description>eGRnLXV0aWxzIGlzIGEgc2V0IG9mIGNvbW1hbmQgbGluZSB0b29scyB0aGF0IGFzc2lzdCBhcHBsaWNhdGlvbnMgd2l0aCBhIHZhcmlldHkgb2YgZGVza3RvcCBpbnRlZ3JhdGlvbiB0YXNrcy4gSXQgaXMgcmVxdWlyZWQgZm9yIExpbnV4IFN0YW5kYXJkcyBCYXNlIChMU0IpIGNvbmZvcm1hbmNlLg0KDQo=</description>
   <sourcefile>xdg-utils-v1.2.1.tar.gz</sourcefile>

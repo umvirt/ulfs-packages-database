@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>convmv</code>
   <description>Y29udm12IGlzIG1lYW50IHRvIGhlbHAgY29udmVydCBhIHNpbmdsZSBmaWxlbmFtZSwgYSBkaXJlY3RvcnkgdHJlZSBhbmQgdGhlIGNvbnRhaW5lZCBmaWxlcyBvciBhIHdob2xlIGZpbGVzeXN0ZW0gaW50byBhIGRpZmZlcmVudCBlbmNvZGluZy4NCg==</description>
   <sourcefile>convmv-2.05.tar.gz</sourcefile>

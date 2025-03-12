@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>potrace</code>
   <description>UG90cmFjZeKEoiBpcyBhIHRvb2wgZm9yIHRyYW5zZm9ybWluZyBhIGJpdG1hcCAoUEJNLCBQR00sIFBQTSwgb3IgQk1QIGZvcm1hdCkgaW50byBvbmUgb2Ygc2V2ZXJhbCB2ZWN0b3IgZmlsZSBmb3JtYXRzLg==</description>
   <sourcefile>potrace-1.16.tar.gz</sourcefile>

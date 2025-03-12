@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>assimp</code>
   <description>VGhlIG9mZmljaWFsIE9wZW4tQXNzZXQtSW1wb3J0ZXItTGlicmFyeSBSZXBvc2l0b3J5LiBMb2FkcyA0MCsgM0QtZmlsZS1mb3JtYXRzIGludG8gb25lIHVuaWZpZWQgYW5kIGNsZWFuIGRhdGEgc3RydWN0dXJlLg==</description>
   <sourcefile>assimp-5.4.0.tar.gz</sourcefile>

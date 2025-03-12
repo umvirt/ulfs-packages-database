@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>coolreader</code>
   <description/>
   <sourcefile>coolreader-cr3.2.58.tar.gz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>freetype</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>harfbuzz</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>fribidi</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libunibreak</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>utf8proc</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

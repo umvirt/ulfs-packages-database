@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>json-c</code>
   <description>VGhlIEpTT04tQyBpbXBsZW1lbnRzIGEgcmVmZXJlbmNlIGNvdW50aW5nIG9iamVjdCBtb2RlbCB0aGF0IGFsbG93cyB5b3UgdG8gZWFzaWx5IGNvbnN0cnVjdCBKU09OIG9iamVjdHMgaW4gQywgb3V0cHV0IHRoZW0gYXMgSlNPTiBmb3JtYXR0ZWQgc3RyaW5ncyBhbmQgcGFyc2UgSlNPTiBmb3JtYXR0ZWQgc3RyaW5ncyBiYWNrIGludG8gdGhlIEMgcmVwcmVzZW50YXRpb24gb2YgSlNPTiBvYmplY3RzLg==</description>
   <sourcefile>json-c-0.17.tar.gz</sourcefile>

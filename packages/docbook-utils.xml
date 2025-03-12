@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>docbook-utils</code>
   <description>VGhlIERvY0Jvb2stdXRpbHMgcGFja2FnZSBpcyBhIGNvbGxlY3Rpb24gb2YgdXRpbGl0eSBzY3JpcHRzIHVzZWQgdG8gY29udmVydCBhbmQgYW5hbHl6ZSBTR01MIGRvY3VtZW50cyBpbiBnZW5lcmFsLCBhbmQgRG9jQm9vayBmaWxlcyBpbiBwYXJ0aWN1bGFyLg==</description>
   <sourcefile>docbook-utils-0.6.14.tar.gz</sourcefile>

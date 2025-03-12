@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>docbook-3.1-dtd</code>
   <description>VGhlIERvY0Jvb2sgU0dNTCBEVEQgcGFja2FnZSBjb250YWlucyBkb2N1bWVudCB0eXBlIGRlZmluaXRpb25zIGZvciB2ZXJpZmljYXRpb24gb2YgU0dNTCBkYXRhIGZpbGVzIGFnYWluc3QgdGhlIERvY0Jvb2sgcnVsZSBzZXQuIA==</description>
   <sourcefile>docbk31.zip</sourcefile>

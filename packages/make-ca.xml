@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>make-ca</code>
   <description>bWFrZS1jYSBpcyBhIHV0aWxpdHkgdG8gZGVsaXZlciBhbmQgbWFuYWdlIGEgY29tcGxldGUgUEtJIGNvbmZpZ3VyYXRpb24gZm9yDQp3b3Jrc3RhdGlvbnMgYW5kIHNlcnZlcnMgdXNpbmcgb25seSBzdGFuZGFyZCBVbml4IHV0aWxpdGllcywgT3BlblNTTCwgYW5kDQpwMTEta2l0LCB1c2luZyBhIE1vemlsbGEgY2FjZXJ0cy50eHQgb3IgbGlrZSBmaWxlIGFzIHRoZSB0cnVzdCBzb3VyY2Uu</description>
-  <sourcefile>make-ca-1.14.tar.gz</sourcefile>
-  <sourcedir>make-ca-1.14</sourcedir>
+  <sourcefile>make-ca-1.15.tar.gz</sourcefile>
+  <sourcedir>make-ca-1.15</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>

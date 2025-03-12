@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>duktape</code>
   <description>ZHVrdGFwZSBpcyBhbiBlbWJlZGRhYmxlIEphdmFzY3JpcHQgZW5naW5lLCB3aXRoIGEgZm9jdXMgb24gcG9ydGFiaWxpdHkgYW5kIGNvbXBhY3QgZm9vdHByaW50Lg==</description>
   <sourcefile>duktape-2.7.0.tar.xz</sourcefile>

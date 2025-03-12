@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libdeflate</code>
   <description>SGVhdmlseSBvcHRpbWl6ZWQgbGlicmFyeSBmb3IgREVGTEFURS96bGliL2d6aXAgY29tcHJlc3Npb24gYW5kIGRlY29tcHJlc3Npb24=</description>
   <sourcefile>libdeflate-1.20.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>cubeb</code>
   <description>Q3Jvc3MgcGxhdGZvcm0gYXVkaW8gbGlicmFyeQ==</description>
   <sourcefile>cubeb-6c1a6e151c1f981a2800d40af7c041cfcccc710e.tar.gz</sourcefile>

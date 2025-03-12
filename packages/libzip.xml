@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libzip</code>
   <description>QSBDIGxpYnJhcnkgZm9yIHJlYWRpbmcsIGNyZWF0aW5nLCBhbmQgbW9kaWZ5aW5nIHppcCBhcmNoaXZlcy4=</description>
   <sourcefile>libzip-1.10.1.tar.xz</sourcefile>

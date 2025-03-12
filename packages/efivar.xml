@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>efivar</code>
   <description>VGhlIGVmaXZhciBwYWNrYWdlIHByb3ZpZGVzIHRvb2xzIGFuZCBsaWJyYXJpZXMgdG8gbWFuaXB1bGF0ZSBFRkkgdmFyaWFibGVzLg==</description>
   <sourcefile>efivar-39.tar.gz</sourcefile>

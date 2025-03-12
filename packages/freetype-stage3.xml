@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>freetype-stage3</code>
   <description>VGhlIEZyZWVUeXBlMiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB3aGljaCBhbGxvd3MgYXBwbGljYXRpb25zIHRvIHByb3Blcmx5IHJlbmRlciBUcnVlVHlwZSBmb250cy4=</description>
   <sourcefile>freetype-2.13.3.tar.xz</sourcefile>

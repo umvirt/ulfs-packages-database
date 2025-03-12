@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>efibootmgr</code>
   <description>VGhlIGVmaWJvb3RtZ3IgcGFja2FnZSBwcm92aWRlcyB0b29scyBhbmQgbGlicmFyaWVzIHRvIG1hbmlwdWxhdGUgRUZJIHZhcmlhYmxlcy4=</description>
   <sourcefile>efibootmgr-18.tar.gz</sourcefile>

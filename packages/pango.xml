@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>pango</code>
   <description>UGFuZ28gaXMgYSBsaWJyYXJ5IGZvciBsYXlpbmcgb3V0IGFuZCByZW5kZXJpbmcgdGV4dCwgd2l0aCBhbiBlbXBoYXNpcyBvbiBpbnRlcm5hdGlvbmFsaXphdGlvbi4=</description>
   <sourcefile>pango-1.54.0.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>!gnome-video-effects</code>
   <description>VGhlIEdOT01FIFZpZGVvIEVmZmVjdHMgcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgR1N0cmVhbWVyIGVmZmVjdHMu</description>
   <sourcefile>gnome-video-effects-0.6.0.tar.xz</sourcefile>

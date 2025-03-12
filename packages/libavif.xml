@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libavif</code>
   <description>VGhlIGxpYmF2aWYgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCBmb3IgZW5jb2RpbmcgYW5kIGRlY29kaW5nIEFWSUYgZmlsZXMu</description>
   <sourcefile>libavif-1.1.1.tar.gz</sourcefile>

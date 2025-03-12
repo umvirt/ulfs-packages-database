@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gstreamer</code>
   <description>Z3N0cmVhbWVyIGlzIGEgc3RyZWFtaW5nIG1lZGlhIGZyYW1ld29yayB0aGF0IGVuYWJsZXMgYXBwbGljYXRpb25zIHRvIHNoYXJlIGEgY29tbW9uIHNldCBvZiBwbHVnaW5zIGZvciB0YXNrcyBzdWNoIGFzIHZpZGVvIGVuY29kaW5nIGFuZCBkZWNvZGluZywgYXVkaW8gZW5jb2RpbmcgYW5kIGRlY29kaW5nLCBhdWRpbyBhbmQgdmlkZW8gZmlsdGVycywgYXVkaW8gdmlzdWFsaXNhdGlvbiwgd2ViIHN0cmVhbWluZyBhbmQgYW55dGhpbmcgZWxzZSB0aGF0IHN0cmVhbXMgaW4gcmVhbC10aW1lIG9yIG90aGVyd2lzZS4gVGhpcyBwYWNrYWdlIG9ubHkgcHJvdmlkZXMgYmFzZSBmdW5jdGlvbmFsaXR5IGFuZCBsaWJyYXJpZXMu</description>
   <sourcefile>gstreamer-1.24.7.tar.xz</sourcefile>

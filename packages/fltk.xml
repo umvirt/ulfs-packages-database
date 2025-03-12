@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>fltk</code>
   <description>RkxUSyAocHJvbm91bmNlZCAiZnVsbHRpY2siKSBpcyBhIGNyb3NzLXBsYXRmb3JtIEMrKyBHVUkgdG9vbGtpdC4gRkxUSyBwcm92aWRlcyBtb2Rlcm4gR1VJIGZ1bmN0aW9uYWxpdHkgYW5kIHN1cHBvcnRzIDNEIGdyYXBoaWNzIHZpYSBPcGVuR0wgYW5kIGl0cyBidWlsdC1pbiBHTFVUIGVtdWxhdGlvbiBsaWJyYXJpZXMgdXNlZCBmb3IgY3JlYXRpbmcgZ3JhcGhpY2FsIHVzZXIgaW50ZXJmYWNlcyBmb3IgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>fltk-1.3.9-source.tar.gz</sourcefile>

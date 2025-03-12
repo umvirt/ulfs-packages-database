@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>docbook-dsssl</code>
   <description>VGhlIERvY0Jvb2sgRFNTU0wgU3R5bGVzaGVldHMgcGFja2FnZSBjb250YWlucyBEU1NTTCBzdHlsZXNoZWV0cy4gVGhlc2UgYXJlIHVzZWQgYnkgT3BlbkphZGUgb3Igb3RoZXIgdG9vbHMgdG8gdHJhbnNmb3JtIFNHTUwgYW5kIFhNTCBEb2NCb29rIGZpbGVzLg==</description>
   <sourcefile>docbook-dsssl-1.79.tar.bz2</sourcefile>

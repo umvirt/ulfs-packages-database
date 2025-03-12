@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>python3-msgpack</code>
   <description>TWVzc2FnZVBhY2sgaXMgYW4gZWZmaWNpZW50IGJpbmFyeSBzZXJpYWxpemF0aW9uIGZvcm1hdC4=</description>
   <sourcefile>msgpack-1.0.8.tar.gz</sourcefile>

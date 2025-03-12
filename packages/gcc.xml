@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gcc</code>
   <description>VGhlIEdDQyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBHTlUgQ29tcGlsZXIgQ29sbGVjdGlvbi4=</description>
   <sourcefile>gcc-14.2.0.tar.xz</sourcefile>

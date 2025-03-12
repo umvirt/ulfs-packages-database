@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libunistring</code>
   <description>bGlidW5pc3RyaW5nIGlzIGEgbGlicmFyeSB0aGF0IHByb3ZpZGVzIGZ1bmN0aW9ucyBmb3IgbWFuaXB1bGF0aW5nIFVuaWNvZGUgc3RyaW5ncyBhbmQgZm9yIG1hbmlwdWxhdGluZyBDIHN0cmluZ3MgYWNjb3JkaW5nIHRvIHRoZSBVbmljb2RlIHN0YW5kYXJkLg==</description>
   <sourcefile>libunistring-1.2.tar.xz</sourcefile>

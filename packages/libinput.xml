@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libinput</code>
   <description>bGliaW5wdXQgaXMgYSBsaWJyYXJ5IHRoYXQgaGFuZGxlcyBpbnB1dCBkZXZpY2VzIGZvciBkaXNwbGF5IHNlcnZlcnMgYW5kIG90aGVyIGFwcGxpY2F0aW9ucyB0aGF0IG5lZWQgdG8gZGlyZWN0bHkgZGVhbCB3aXRoIGlucHV0IGRldmljZXMu</description>
   <sourcefile>libinput-1.26.1.tar.gz</sourcefile>

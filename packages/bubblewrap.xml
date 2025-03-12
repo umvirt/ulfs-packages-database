@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>bubblewrap</code>
   <description>QnViYmxld3JhcCBpcyBhIHNldHVpZCBpbXBsZW1lbnRhdGlvbiBvZiB1c2VyIG5hbWVzcGFjZXMsIG9yIHNhbmRib3hpbmcsIHRoYXQgcHJvdmlkZXMgYWNjZXNzIHRvIGEgc3Vic2V0IG9mIGtlcm5lbCB1c2VyIG5hbWVzcGFjZSBmZWF0dXJlcy4gQnViYmxld3JhcCBhbGxvd3MgdXNlciBvd25lZCBwcm9jZXNzZXMgdG8gcnVuIGluIGFuIGlzb2xhdGVkIGVudmlyb25tZW50IHdpdGggbGltaXRlZCBhY2Nlc3MgdG8gdGhlIHVuZGVybHlpbmcgZmlsZXN5c3RlbS4=</description>
   <sourcefile>bubblewrap-0.9.0.tar.xz</sourcefile>

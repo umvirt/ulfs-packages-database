@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>eom</code>
   <description>ZW9tIG9yIHRoZSBFeWUgb2YgTUFURSBpcyBhIHNpbXBsZSBncmFwaGljcyB2aWV3ZXIgZm9yIHRoZSBNQVRFIGRlc2t0b3Agd2hpY2ggdXNlcyB0aGUgZ2RrLXBpeGJ1ZiBsaWJyYXJ5Lg0K</description>
   <sourcefile>eom-1.28.0.tar.xz</sourcefile>

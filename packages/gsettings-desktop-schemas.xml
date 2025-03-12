@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gsettings-desktop-schemas</code>
   <description>VGhlIEdTZXR0aW5ncyBEZXNrdG9wIFNjaGVtYXMgcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgR1NldHRpbmdzIHNjaGVtYXMgZm9yIHNldHRpbmdzIHNoYXJlZCBieSB2YXJpb3VzIGNvbXBvbmVudHMgb2YgYSBHTk9NRSBEZXNrdG9wLg==</description>
   <sourcefile>gsettings-desktop-schemas-46.1.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>glib-gobject</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gobject-introspection</code>
-      <weight>1</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

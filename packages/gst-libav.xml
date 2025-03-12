@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gst-libav</code>
   <description>VGhlIEdTdHJlYW1lciBMaWJhdiBwYWNrYWdlIGNvbnRhaW5zIEdTdHJlYW1lciBwbHVnaW5zIGZvciBMaWJhdiAoYSBmb3JrIG9mIEZGbXBlZyku</description>
   <sourcefile>gst-libav-1.24.7.tar.xz</sourcefile>

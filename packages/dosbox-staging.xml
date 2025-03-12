@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>dosbox-staging</code>
   <description>RE9TQm94IFN0YWdpbmcgaXMgYSBtb2Rlcm4gY29udGludWF0aW9uIG9mIERPU0JveCB3aXRoIGFkdmFuY2VkIGZlYXR1cmVzIGFuZCBjdXJyZW50IGRldmVsb3BtZW50IHByYWN0aWNlcy4=</description>
   <sourcefile>dosbox-staging-0.81.2.tar.gz</sourcefile>

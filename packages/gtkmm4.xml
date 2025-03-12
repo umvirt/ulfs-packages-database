@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gtkmm4</code>
   <description>VGhlIEd0a21tIHBhY2thZ2UgcHJvdmlkZXMgYSBDKysgaW50ZXJmYWNlIHRvIEdUSy00Lg0KDQo=</description>
   <sourcefile>gtkmm-4.14.0.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gtk4</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cairomm16</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pangomm-2.54</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

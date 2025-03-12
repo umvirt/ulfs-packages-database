@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>x11vnc</code>
   <description>YSBWTkMgc2VydmVyIGZvciByZWFsIFggZGlzcGxheXM=</description>
   <sourcefile>x11vnc-0.9.16.tar.gz</sourcefile>

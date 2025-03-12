@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libdvdnav</code>
   <description>bGliZHZkbmF2IGlzIGEgbGlicmFyeSB0aGF0IGFsbG93cyBlYXN5IHVzZSBvZiBzb3BoaXN0aWNhdGVkIERWRCBuYXZpZ2F0aW9uIGZlYXR1cmVzIHN1Y2ggYXMgRFZEIG1lbnVzLCBtdWx0aWFuZ2xlIHBsYXliYWNrIGFuZCBldmVuIGludGVyYWN0aXZlIERWRCBnYW1lcy4=</description>
   <sourcefile>libdvdnav-6.1.1.tar.bz2</sourcefile>

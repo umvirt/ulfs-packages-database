@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>links</code>
   <description>TGlua3MgaXMgYSB0ZXh0IGFuZCBncmFwaGljcyBtb2RlIFdXVyBicm93c2VyLg==</description>
   <sourcefile>links-2.30.tar.bz2</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>ImageMagick</code>
   <description>SW1hZ2VNYWdpY2sgaXMgYSBjb2xsZWN0aW9uIG9mIHRvb2xzIGFuZCBsaWJyYXJpZXMgdG8gcmVhZCwgd3JpdGUsIGFuZCBtYW5pcHVsYXRlIGFuIGltYWdlIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
   <sourcefile>ImageMagick-7.1.1-36.tar.xz</sourcefile>

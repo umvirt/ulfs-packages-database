@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>mandoc</code>
   <description>bWFuZG9jIGlzIGFuIHV0aWxpdHkgdG8gZm9ybWF0IG1hbnVhbCBwYWdlcy4=</description>
   <sourcefile>mandoc-1.14.6.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libgdata</code>
   <description>VGhlIGxpYmdkYXRhIHBhY2thZ2UgaXMgYSBHTGliLWJhc2VkIGxpYnJhcnkgZm9yIGFjY2Vzc2luZyBvbmxpbmUgc2VydmljZSBBUElzIHVzaW5nIHRoZSBHRGF0YSBwcm90b2NvbCwgbW9zdCBub3RhYmx5LCBHb29nbGUncyBzZXJ2aWNlcy4gSXQgcHJvdmlkZXMgQVBJcyB0byBhY2Nlc3MgdGhlIGNvbW1vbiBHb29nbGUgc2VydmljZXMgYW5kIGhhcyBmdWxsIGFzeW5jaHJvbm91cyBzdXBwb3J0Lg==</description>
   <sourcefile>libgdata-0.18.1.tar.xz</sourcefile>

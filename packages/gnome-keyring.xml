@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gnome-keyring</code>
   <description>VGhlIEdOT01FIEtleXJpbmcgcGFja2FnZSBjb250YWlucyBhIGRhZW1vbiB0aGF0IGtlZXBzIHBhc3N3b3JkcyBhbmQgb3RoZXIgc2VjcmV0cyBmb3IgdXNlcnMuDQoNCg==</description>
   <sourcefile>gnome-keyring-46.2.tar.xz</sourcefile>

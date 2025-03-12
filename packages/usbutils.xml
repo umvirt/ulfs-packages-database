@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>usbutils</code>
   <description>VGhlIFVTQiBVdGlscyBwYWNrYWdlIGNvbnRhaW5zIHV0aWxpdGllcyB1c2VkIHRvIGRpc3BsYXkgaW5mb3JtYXRpb24gYWJvdXQgVVNCIGJ1c2VzIGluIHRoZSBzeXN0ZW0gYW5kIHRoZSBkZXZpY2VzIGNvbm5lY3RlZCB0byB0aGVtLg==</description>
   <sourcefile>usbutils-017.tar.xz</sourcefile>

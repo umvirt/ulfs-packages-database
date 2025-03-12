@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>robin-map</code>
   <description>QysrIGltcGxlbWVudGF0aW9uIG9mIGEgZmFzdCBoYXNoIG1hcCBhbmQgaGFzaCBzZXQgdXNpbmcgcm9iaW4gaG9vZCBoYXNoaW5n</description>
   <sourcefile>robin-map-1.2.2.tar.gz</sourcefile>

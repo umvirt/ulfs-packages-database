@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libunique</code>
   <description>VGhlIGxpYnVuaXF1ZSBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSBmb3Igd3JpdGluZyBzaW5nbGUgaW5zdGFuY2UgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>libunique-1.1.6.tar.bz2</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gtk2</code>
   <description>VGhlIEdUSysgMiBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBjcmVhdGluZyBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzIGZvciBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>gtk+-2.24.33.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>gtk-doc</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>at-spi2-core</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>at-spi2-core</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>pango</code>
+      <code>gdk-pixbuf</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>hicolor-icon-theme</code>
+      <code>pango</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>hicolor-icon-theme</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches>

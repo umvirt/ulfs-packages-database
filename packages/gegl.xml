@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gegl</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBHRW5lcmljIEdyYXBoaWNzIExpYnJhcnksIHdoaWNoIGlzIGEgZ3JhcGggYmFzZWQgaW1hZ2UgcHJvY2Vzc2luZyBmb3JtYXQu</description>
   <sourcefile>gegl-0.4.48.tar.xz</sourcefile>

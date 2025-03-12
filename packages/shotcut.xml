@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>shotcut</code>
   <description>U2hvdGN1dCBpcyBhIGZyZWUsIG9wZW4gc291cmNlLCBjcm9zcy1wbGF0Zm9ybSB2aWRlbyBlZGl0b3Iu</description>
   <sourcefile>shotcut-24.04.28.tar.gz</sourcefile>

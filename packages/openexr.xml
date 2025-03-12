@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>openexr</code>
   <description>VGhlIE9wZW5FWFIgcHJvamVjdCBwcm92aWRlcyB0aGUgc3BlY2lmaWNhdGlvbiBhbmQgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBFWFIgZmlsZSBmb3JtYXQsIHRoZSBwcm9mZXNzaW9uYWwtZ3JhZGUgaW1hZ2Ugc3RvcmFnZSBmb3JtYXQgb2YgdGhlIG1vdGlvbiBwaWN0dXJlIGluZHVzdHJ5Lg==</description>
   <sourcefile>openexr-v3.2.4.tar.gz</sourcefile>

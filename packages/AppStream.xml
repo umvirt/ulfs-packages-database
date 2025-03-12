@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>AppStream</code>
   <description>QXBwU3RyZWFtIGlzIGEgY3Jvc3MtZGlzdHJpYnV0aW9uIGVmZm9ydCBmb3IgZW5oYW5jaW5nIHRoZSB3YXkgd2UgaW50ZXJhY3Qgd2l0aCB0aGUgc29mdHdhcmUgcmVwb3NpdG9yaWVzIHByb3ZpZGVkIGJ5IChMaW51eCkgZGlzdHJpYnV0aW9ucyBieSBzdGFuZGFyZGl6aW5nIHNvZnR3YXJlIGNvbXBvbmVudCBtZXRhZGF0YS4=</description>
   <sourcefile>AppStream-1.0.3.tar.xz</sourcefile>

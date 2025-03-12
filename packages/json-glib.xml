@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>json-glib</code>
   <description>VGhlIEpTT04gR0xpYiBwYWNrYWdlIGlzIGEgbGlicmFyeSBwcm92aWRpbmcgc2VyaWFsaXphdGlvbiBhbmQgZGVzZXJpYWxpemF0aW9uIHN1cHBvcnQgZm9yIHRoZSBKYXZhU2NyaXB0IE9iamVjdCBOb3RhdGlvbiAoSlNPTikgZm9ybWF0IGRlc2NyaWJlZCBieSBSRkMgNDYyNy4=</description>
   <sourcefile>json-glib-1.8.0.tar.xz</sourcefile>

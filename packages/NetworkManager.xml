@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>NetworkManager</code>
   <description>TmV0d29ya01hbmFnZXIgaXMgYSBzZXQgb2YgY28tb3BlcmF0aXZlIHRvb2xzIHRoYXQgbWFrZSBuZXR3b3JraW5nIHNpbXBsZSBhbmQgc3RyYWlnaHRmb3J3YXJkLiBXaGV0aGVyIHlvdSB1c2UgV2lGaSwgd2lyZWQsIDNHLCBvciBCbHVldG9vdGgsIE5ldHdvcmtNYW5hZ2VyIGFsbG93cyB5b3UgdG8gcXVpY2tseSBtb3ZlIGZyb20gb25lIG5ldHdvcmsgdG8gYW5vdGhlcjogT25jZSBhIG5ldHdvcmsgaGFzIGJlZW4gY29uZmlndXJlZCBhbmQgam9pbmVkIG9uY2UsIGl0IGNhbiBiZSBkZXRlY3RlZCBhbmQgcmUtam9pbmVkIGF1dG9tYXRpY2FsbHkgdGhlIG5leHQgdGltZSBpdCdzIGF2YWlsYWJsZS4=</description>
   <sourcefile>NetworkManager-1.48.8.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>OpenImageIO</code>
   <description>UmVhZGluZywgd3JpdGluZywgYW5kIHByb2Nlc3NpbmcgaW1hZ2VzIGluIGEgd2lkZSB2YXJpZXR5IG9mIGZpbGUgZm9ybWF0cywgdXNpbmcgYSBmb3JtYXQtYWdub3N0aWMgQVBJLCBhaW1lZCBhdCBWRlggYXBwbGljYXRpb25zLg==</description>
   <sourcefile>OpenImageIO-2.5.9.0.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>php</code>
   <description>UEhQIGlzIHRoZSBQSFAgSHlwZXJ0ZXh0IFByZXByb2Nlc3Nvci4gUHJpbWFyaWx5IHVzZWQgaW4gZHluYW1pYyB3ZWIgc2l0ZXMsIGl0IGFsbG93cyBmb3IgcHJvZ3JhbW1pbmcgY29kZSB0byBiZSBkaXJlY3RseSBlbWJlZGRlZCBpbnRvIHRoZSBIVE1MIG1hcmt1cC4gSXQgaXMgYWxzbyB1c2VmdWwgYXMgYSBnZW5lcmFsIHB1cnBvc2Ugc2NyaXB0aW5nIGxhbmd1YWdlLg==</description>
   <sourcefile>php-8.3.10.tar.xz</sourcefile>
@@ -13,63 +13,63 @@
   <dependances>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libXpm</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libwebp</code>
+      <code>libXpm</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libavif</code>
+      <code>libwebp</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libzip</code>
+      <code>libavif</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libxml2</code>
+      <code>libzip</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libxslt</code>
+      <code>libxml2</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>curl</code>
+      <code>libxslt</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>curl</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>libpng</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>tiff</code>
+      <code>libjpeg-turbo</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>OpenLDAP-client</code>
+      <code>tiff</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>httpd</code>
+      <code>OpenLDAP-client</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>mariadb-client</code>
+      <code>httpd</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>postgresql-client</code>
+      <code>mariadb-client</code>
       <weight>14</weight>
+    </dependance>
+    <dependance>
+      <code>postgresql-client</code>
+      <weight>15</weight>
     </dependance>
   </dependances>
   <patches/>

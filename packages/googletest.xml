@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>googletest</code>
   <description>R29vZ2xlVGVzdCAtIEdvb2dsZSBUZXN0aW5nIGFuZCBNb2NraW5nIEZyYW1ld29yaw==</description>
   <sourcefile>googletest-1.14.0.tar.gz</sourcefile>

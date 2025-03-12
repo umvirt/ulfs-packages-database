@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libksba</code>
   <description>VGhlIExpYmtzYmEgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCB0byBtYWtlIFguNTA5IGNlcnRpZmljYXRlcyBhcyB3ZWxsIGFzIG1ha2luZyB0aGUgQ01TIChDcnlwdG9ncmFwaGljIE1lc3NhZ2UgU3ludGF4KSBlYXNpbHkgYWNjZXNzaWJsZSBieSBvdGhlciBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>libksba-1.6.7.tar.bz2</sourcefile>

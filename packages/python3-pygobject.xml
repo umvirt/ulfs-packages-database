@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>python3-pygobject</code>
   <description>UHlHT2JqZWN0MyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gdGhlIEdPYmplY3QgY2xhc3MgZnJvbSBHTGliLg0KDQo=</description>
   <sourcefile>pygobject-3.48.2.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>glib-gobject</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gobject-introspection</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>python3-pycairo</code>
+      <code>gobject-introspection</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pycairo</code>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

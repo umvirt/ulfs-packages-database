@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>keybinder3</code>
   <description>VGhlIGtleWJpbmRlci0zLjAgcGFja2FnZSBjb250YWlucyBhIHV0aWxpdHkgbGlicmFyeSByZWdpc3RlcmluZyBnbG9iYWwgWCBrZXlib2FyZCBzaG9ydGN1dHMgZm9yIEdUSystMy4=</description>
   <sourcefile>keybinder-3.0-0.3.2.tar.gz</sourcefile>

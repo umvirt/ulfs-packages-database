@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>swtpm</code>
   <description>TGlidHBtcy1iYXNlZCBUUE0gZW11bGF0b3Igd2l0aCBzb2NrZXQsIGNoYXJhY3RlciBkZXZpY2UsIGFuZCBMaW51eCBDVVNFIGludGVyZmFjZS4=</description>
   <sourcefile>swtpm-0.8.2.tar.gz</sourcefile>

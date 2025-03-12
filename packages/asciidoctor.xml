@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>asciidoctor</code>
   <description>QXNjaWlkb2N0b3IgaXMgYSBmYXN0LCBvcGVuIHNvdXJjZSB0ZXh0IHByb2Nlc3NvciBhbmQgcHVibGlzaGluZyB0b29sY2hhaW4gZm9yIGNvbnZlcnRpbmcgQXNjaWlEb2MgY29udGVudCB0byBIVE1MNSwgRG9jQm9vaywgUERGLCBhbmQgb3RoZXIgZm9ybWF0cy4=</description>
   <sourcefile>asciidoctor-2.0.23.tar.gz</sourcefile>

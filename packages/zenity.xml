@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>zenity</code>
   <description>WmVuaXR5IGlzIGEgcmV3cml0ZSBvZiBnZGlhbG9nLCB0aGUgR05PTUUgcG9ydCBvZiBkaWFsb2cgd2hpY2ggYWxsb3dzIHlvdSB0byBkaXNwbGF5IEdUSysgZGlhbG9nIGJveGVzIGZyb20gdGhlIGNvbW1hbmQgbGluZSBhbmQgc2hlbGwgc2NyaXB0cy4=</description>
   <sourcefile>zenity-9522e22e1ade339f4a63d0773eb5768ca5bdc5a1.tar.gz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>help2man</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libadwaita</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxslt</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gtk3</code>
+      <code>libadwaita</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>itstool</code>
+      <code>libxslt</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libnotify</code>
+      <code>gtk3</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>itstool</code>
+      <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>libnotify</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

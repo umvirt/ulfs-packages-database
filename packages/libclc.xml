@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libclc</code>
   <description>VGhlIGxpYmNsYyBwYWNrYWdlIGNvbnRhaW5zIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBsaWJyYXJ5IHJlcXVpcmVtZW50cyBvZiB0aGUgT3BlbkNMIEMgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2UsIGFzIHNwZWNpZmllZCBieSB0aGUgT3BlbkNMIDEuMSBTcGVjaWZpY2F0aW9uLg==</description>
   <sourcefile>libclc-18.1.7.src.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>SPIRV-LLVM-Translator</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

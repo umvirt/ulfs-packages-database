@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libunibreak</code>
   <description>bGlidW5pYnJlYWsgaXMgaW1wbGVtZW50YXRpb24gb2YgdGhlIGxpbmUgYnJlYWtpbmcgYW5kIHdvcmQvZ3JhcGhlbWUgYnJlYWtpbmcgYWxnb3JpdGhtcyBhcyBkZXNjcmliZWQgaW4gVW5pY29kZSBTdGFuZGFyZCBBbm5leCAxNCAoVUFYICMxNCkgYW5kIFVuaWNvZGUgU3RhbmRhcmQgQW5uZXggMjkgKFVBWCAjMjkpLg==</description>
   <sourcefile>libunibreak-6.1.tar.gz</sourcefile>

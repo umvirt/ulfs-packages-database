@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gpicview</code>
   <description>VGhlIEdQaWNWaWV3IHBhY2thZ2UgY29udGFpbnMgYSBsaWdodHdlaWdodCBpbWFnZSB2aWV3ZXIu</description>
   <sourcefile>gpicview-0.2.5.tar.xz</sourcefile>

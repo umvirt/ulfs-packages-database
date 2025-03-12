@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libwacom</code>
   <description>VGhlIGxpYndhY29tIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHVzZWQgdG8gaWRlbnRpZnkgd2Fjb20gdGFibGV0cyBhbmQgdGhlaXIgbW9kZWwtc3BlY2lmaWMgZmVhdHVyZXMu</description>
   <sourcefile>libwacom-2.12.2.tar.xz</sourcefile>

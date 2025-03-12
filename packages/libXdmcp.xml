@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libXdmcp</code>
   <description>VGhlIGxpYlhkbWNwIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IGltcGxlbWVudGluZyB0aGUgWCBEaXNwbGF5IE1hbmFnZXIgQ29udHJvbCBQcm90b2NvbC4=</description>
   <sourcefile>libXdmcp-1.1.5.tar.xz</sourcefile>

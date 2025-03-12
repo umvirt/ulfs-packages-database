@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libwnck2</code>
   <description>VGhlIGxpYnduY2sgcGFja2FnZSBjb250YWlucyBhIFdpbmRvdyBOYXZpZ2F0b3IgQ29uc3RydWN0aW9uIEtpdC4=</description>
   <sourcefile>libwnck-2.30.7.tar.xz</sourcefile>

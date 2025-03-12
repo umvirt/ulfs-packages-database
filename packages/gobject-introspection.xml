@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gobject-introspection</code>
   <description>VGhlIEdPYmplY3QgSW50cm9zcGVjdGlvbiBpcyB1c2VkIHRvIGRlc2NyaWJlIHRoZSBwcm9ncmFtIEFQSXMgYW5kIGNvbGxlY3QgdGhlbSBpbiBhIHVuaWZvcm0sIG1hY2hpbmUgcmVhZGFibGUgZm9ybWF0Lg==</description>
-  <sourcefile>gobject-introspection-1.80.1.tar.xz</sourcefile>
-  <sourcedir>gobject-introspection-1.80.1</sourcedir>
+  <sourcefile>gobject-introspection-1.82.0.tar.xz</sourcefile>
+  <sourcedir>gobject-introspection-1.82.0</sourcedir>
   <unpack/>
   <configure>bWVzb24gc2V0dXAgZ2ktYnVpbGQgXA0KICAgICAgICAgICAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlICANCg==</configure>
   <build>bmluamEgLUMgZ2ktYnVpbGQNCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgICAgICBuaW5qYSAtQyBnaS1idWlsZCB0ZXN0DQpmaQ0K</build>

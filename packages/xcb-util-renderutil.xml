@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>xcb-util-renderutil</code>
   <description>VGhlIHhjYi11dGlsLXJlbmRlcnV0aWwgcGFja2FnZSBwcm92aWRlcyBhZGRpdGlvbmFsIGV4dGVuc2lvbnMgdG8gdGhlIFhDQiBsaWJyYXJ5Lg==</description>
   <sourcefile>xcb-util-renderutil-0.3.10.tar.xz</sourcefile>

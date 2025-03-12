@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gptfdisk</code>
   <description>VGhlIGdwdGZkaXNrIHBhY2thZ2UgaXMgYSBzZXQgb2YgcHJvZ3JhbXMgZm9yIGNyZWF0aW9uIGFuZCBtYWludGVuYW5jZSBvZiBHVUlEIFBhcnRpdGlvbiBUYWJsZSAoR1BUKSBkaXNrIGRyaXZlcy4gQSBHUFQgcGFydGl0aW9uZWQgZGlzayBpcyByZXF1aXJlZCBmb3IgZHJpdmVzIGdyZWF0ZXIgdGhhbiAyIFRCIGFuZCBpcyBhIG1vZGVybiByZXBsYWNlbWVudCBmb3IgbGVnYWN5IFBDLUJJT1MgcGFydGl0aW9uZWQgZGlzayBkcml2ZXMgdGhhdCB1c2UgYSBNYXN0ZXIgQm9vdCBSZWNvcmQgKE1CUikuIFRoZSBtYWluIHByb2dyYW0sIGdkaXNrLCBoYXMgYW4gaW50ZXJmYWNlIHNpbWlsYXIgdG8gdGhlIGNsYXNzaWMgZmRpc2sgcHJvZ3JhbS4NCg0K</description>
   <sourcefile>gptfdisk-1.0.10.tar.gz</sourcefile>

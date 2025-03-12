@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>cmake</code>
   <description>VGhlIENNYWtlIHBhY2thZ2UgY29udGFpbnMgYSBtb2Rlcm4gdG9vbHNldCB1c2VkIGZvciBnZW5lcmF0aW5nIE1ha2VmaWxlcw==</description>
   <sourcefile>cmake-3.30.2.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>nghttp2</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>curl</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>git</code>
+      <code>curl</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libarchive</code>
+      <code>git</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libuv</code>
+      <code>libarchive</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>libuv</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>glaxnimate</code>
   <description>R2xheG5pbWF0ZSBpcyBhIHNpbXBsZSBhbmQgZmFzdCB2ZWN0b3IgZ3JhcGhpY3MgYW5pbWF0aW9uIHByb2dyYW0u</description>
   <sourcefile>glaxnimate-src.tar.gz</sourcefile>

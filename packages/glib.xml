@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>glib</code>
   <description>VGhlIEdMaWIgcGFja2FnZSBjb250YWlucyBsb3ctbGV2ZWwgbGlicmFyaWVzIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIGRhdGEgc3RydWN0dXJlIGhhbmRsaW5nIGZvciBDLCBwb3J0YWJpbGl0eSB3cmFwcGVycyBhbmQgaW50ZXJmYWNlcyBmb3Igc3VjaCBydW50aW1lIGZ1bmN0aW9uYWxpdHkgYXMgYW4gZXZlbnQgbG9vcCwgdGhyZWFkcywgZHluYW1pYyBsb2FkaW5nIGFuZCBhbiBvYmplY3Qgc3lzdGVtLg==</description>
-  <sourcefile>glib-2.80.4.tar.xz</sourcefile>
-  <sourcedir>glib-2.80.4</sourcedir>
+  <sourcefile>glib-2.82.5.tar.xz</sourcefile>
+  <sourcedir>glib-2.82.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgIFwNCiAgICAgIC1EIGludHJvc3BlY3Rpb249ZGlzYWJsZWQgXA0KICAgICAgLUQgbWFuLXBhZ2VzPWVuYWJsZWQgICAgICAg</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkICdzL2dsaWItMi4wL2dsaWItMi44MC40LycgICAgICAgIFwNCiAgICAtaSAuLi9kb2NzL3JlZmVyZW5jZS9tZXNvbi5idWlsZCAmJg0KbWVzb24gY29uZmlndXJlIC1EIGRvY3VtZW50YXRpb249dHJ1ZSAmJg0KbmluamENCg0KZmk=</build>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgIFwNCiAgICAgIC1EIGludHJvc3BlY3Rpb249ZGlzYWJsZWQgXA0KICAgICAgLUQgZ2xpYl9kZWJ1Zz1kaXNhYmxlZCAgICBcDQogICAgICAtRCBtYW4tcGFnZXM9ZW5hYmxlZCAgICAgIFwNCiAgICAgIC1EIHN5c3Byb2Y9ZGlzYWJsZWQNCg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkICIvZG9jc19kaXIgPS9zfCR8IC8gJ2dsaWItJyArIG1lc29uLnByb2plY3RfdmVyc2lvbigpfCIgXA0KICAgIC1pIC4uL2RvY3MvcmVmZXJlbmNlL21lc29uLmJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm1lc29uIGNvbmZpZ3VyZSAtRCBkb2N1bWVudGF0aW9uPXRydWUgICAgICAgICAgICAgICAgICAgICAgICYmDQpuaW5qYQ0KDQpmaQ==</build>
   <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwg</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
       <code>python3-docutils</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>python3-packaging</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxslt</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>pcre2</code>
+      <code>python3-packaging</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>libxslt</code>
+      <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>pcre2</code>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches>

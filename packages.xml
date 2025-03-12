@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <architectures>
     <architecture>
       <code>x86</code>
@@ -46,7 +46,7 @@
     <package>git</package>
     <package>popt</package>
     <package>rsync</package>
-    <package>p7zip</package>
+    <package>7zip</package>
     <package>libisofs</package>
     <package>libburn</package>
     <package>libisoburn</package>

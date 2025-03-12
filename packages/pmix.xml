@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>pmix</code>
   <description>T3BlblBNSXggUHJvamVjdCBSZXBvc2l0b3J5</description>
   <sourcefile>pmix-5.0.2.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>dtc</code>
   <description>VGhlIGR0YyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBEZXZpY2UgVHJlZSBDb21waWxlciBmb3Igd29ya2luZyB3aXRoIGRldmljZSB0cmVlIHNvdXJjZSBhbmQgYmluYXJ5IGZpbGVzIGFuZCBhbHNvIGxpYmZkdCwgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIHJlYWRpbmcgYW5kIG1hbmlwdWxhdGluZyBkZXZpY2UgdHJlZXMgaW4gdGhlIGJpbmFyeSBmb3JtYXQu</description>
   <sourcefile>dtc-1.7.1.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>yaml</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>swig</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

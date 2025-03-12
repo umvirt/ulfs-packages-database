@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>xscreensaver</code>
   <description>VGhlIFhTY3JlZW5TYXZlciBwYWNrYWdlIGlzIGEgbW9kdWxhciBzY3JlZW4gc2F2ZXIgYW5kIGxvY2tlciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4g</description>
   <sourcefile>xscreensaver-6.09.tar.gz</sourcefile>

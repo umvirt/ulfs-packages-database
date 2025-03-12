@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>cpio</code>
   <description>VGhlIGNwaW8gcGFja2FnZSBjb250YWlucyB0b29scyBmb3IgYXJjaGl2aW5nLg==</description>
   <sourcefile>cpio-2.15.tar.bz2</sourcefile>

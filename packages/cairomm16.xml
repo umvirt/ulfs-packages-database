@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>cairomm16</code>
   <description>VGhlIGxpYmNhaXJvbW0tMS4xNiBwYWNrYWdlIHByb3ZpZGVzIGEgQysrIGludGVyZmFjZSB0byBDYWlyby4gVGhpcyB2ZXJzaW9uIG9mIHRoZSBBUEkgaXMgbmVlZGVkIHRvIHN1cHBvcnQgZ3RrbW0tNC4=</description>
   <sourcefile>cairomm-1.18.0.tar.xz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>cairo</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>boost</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pangomm</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libsigcpp3</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libspectrum</code>
   <description>bGlic3BlY3RydW0gaXMgYSBsaWJyYXJ5IGRlc2lnbmVkIHRvIG1ha2UgdGhlIGlucHV0IGFuZCBvdXRwdXQgb2Ygc29tZSBaWCBTcGVjdHJ1bSBlbXVsYXRvciBmaWxlcyBzbGlnaHRseSBlYXNpZXIu</description>
   <sourcefile>libspectrum-1.5.0.tar.gz</sourcefile>

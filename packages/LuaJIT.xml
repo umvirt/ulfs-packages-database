@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>LuaJIT</code>
   <description>SnVzdC1Jbi1UaW1lIENvbXBpbGVyIGZvciBMdWEu</description>
   <sourcefile>LuaJIT-2.1.ROLLING.tar.gz</sourcefile>

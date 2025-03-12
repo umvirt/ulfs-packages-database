@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>graphviz</code>
   <description>VGhlIEdyYXBodml6IHBhY2thZ2UgY29udGFpbnMgZ3JhcGggdmlzdWFsaXphdGlvbiBzb2Z0d2FyZS4=</description>
   <sourcefile>graphviz-12.1.0.tar.bz2</sourcefile>

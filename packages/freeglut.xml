@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>freeglut</code>
   <description>RnJlZWdsdXQgaXMgaW50ZW5kZWQgdG8gYmUgYSAxMDAlIGNvbXBhdGlibGUsIGNvbXBsZXRlbHkgb3BlbnNvdXJjZWQgY2xvbmUgb2YgdGhlIEdMVVQgbGlicmFyeS4g</description>
   <sourcefile>freeglut-3.6.0.tar.gz</sourcefile>

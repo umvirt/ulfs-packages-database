@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libreoffice</code>
   <description>TGlicmVPZmZpY2UgaXMgYSBmdWxsLWZlYXR1cmVkIG9mZmljZSBzdWl0ZS4gSXQgaXMgbGFyZ2VseSBjb21wYXRpYmxlIHdpdGggTWljcm9zb2Z0IE9mZmljZSBhbmQgaXMgZGVzY2VuZGVkIGZyb20gT3Blbk9mZmljZS5vcmcu</description>
   <sourcefile>libreoffice-24.8.0.3.tar.xz</sourcefile>

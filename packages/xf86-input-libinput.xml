@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>xf86-input-libinput</code>
   <description>VGhlIFguT3JnIExpYmlucHV0IERyaXZlciBpcyBhIHRoaW4gd3JhcHBlciBhcm91bmQgbGliaW5wdXQgYW5kIGFsbG93cyBmb3IgbGliaW5wdXQgdG8gYmUgdXNlZCBmb3IgaW5wdXQgZGV2aWNlcyBpbiBYLg==</description>
   <sourcefile>xf86-input-libinput-1.4.0.tar.xz</sourcefile>

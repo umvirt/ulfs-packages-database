@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>aalib</code>
   <description>QUFsaWIgaXMgYSBsaWJyYXJ5IHRvIHJlbmRlciBhbnkgZ3JhcGhpYyBpbnRvIEFTQ0lJIEFydC4=</description>
   <sourcefile>aalib-1.4rc5.tar.gz</sourcefile>

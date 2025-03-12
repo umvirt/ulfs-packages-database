@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libsndfile</code>
   <description>TGlic25kZmlsZSBpcyBhIGxpYnJhcnkgb2YgQyByb3V0aW5lcyBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBmaWxlcyBjb250YWluaW5nIHNhbXBsZWQgYXVkaW8gZGF0YS4=</description>
   <sourcefile>libsndfile-1.2.2.tar.xz</sourcefile>

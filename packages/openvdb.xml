@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>openvdb</code>
   <description>T3BlblZEQiAtIFNwYXJzZSB2b2x1bWUgZGF0YSBzdHJ1Y3R1cmUgYW5kIHRvb2xzLg==</description>
   <sourcefile>openvdb-11.0.0.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>MaterialX</code>
   <description>TWF0ZXJpYWxYIGlzIGFuIG9wZW4gc3RhbmRhcmQgZm9yIHRoZSBleGNoYW5nZSBvZiByaWNoIG1hdGVyaWFsIGFuZCBsb29rLWRldmVsb3BtZW50IGNvbnRlbnQgYWNyb3NzIGFwcGxpY2F0aW9ucyBhbmQgcmVuZGVyZXJzLg==</description>
   <sourcefile>MaterialX-1.38.10.tar.gz</sourcefile>

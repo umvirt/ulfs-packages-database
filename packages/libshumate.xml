@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libshumate</code>
   <description>VGhlIGxpYnNodW1hdGUgcGFja2FnZSBjb250YWlucyBhIEdUSy00IHdpZGdldCB0byBkaXNwbGF5IG1hcHMu</description>
   <sourcefile>libshumate-1.2.3.tar.xz</sourcefile>

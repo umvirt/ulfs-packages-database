@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>openal</code>
   <description>T3BlbkFMIFNvZnQgaXMgYSBzb2Z0d2FyZSBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgT3BlbkFMIDNEIGF1ZGlvIEFQSS4=</description>
   <sourcefile>openal-soft-1.23.1.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>nghttp2</code>
   <description>bmdodHRwMiBpcyBhbiBpbXBsZW1lbnRhdGlvbiBvZiBIVFRQLzIgYW5kIGl0cyBoZWFkZXIgY29tcHJlc3Npb24gYWxnb3JpdGhtLCBIUEFDSy4=</description>
   <sourcefile>nghttp2-1.62.1.tar.xz</sourcefile>

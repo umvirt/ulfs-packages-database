@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>python3-dateutil</code>
   <description>RXh0ZW5zaW9ucyB0byB0aGUgc3RhbmRhcmQgUHl0aG9uIGRhdGV0aW1lIG1vZHVsZQ==</description>
   <sourcefile>python-dateutil-2.9.0.post0.tar.gz</sourcefile>

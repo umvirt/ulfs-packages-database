@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>dosbox</code>
   <description>eDg2IGVtdWxhdG9yIHdpdGggVGFuZHkvSGVyYy9DR0EvRUdBL1ZHQS9TVkdBIGdyYXBoaWNzLCBzb3VuZCBhbmQgRE9T</description>
   <sourcefile>dosbox-0.74-3.tar.gz</sourcefile>

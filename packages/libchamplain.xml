@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libchamplain</code>
   <description>VGhlIGxpYmNoYW1wbGFpbiBwYWNrYWdlIGNvbnRhaW5zIGEgQ2x1dHRlci1iYXNlZCB3aWRnZXQgdGhhdCBpcyB1c2VkIHRvIGRpc3BsYXkgcmljaCBhbmQgaW50ZXJhY3RpdmUgbWFwcy4=</description>
   <sourcefile>libchamplain-0.12.21.tar.xz</sourcefile>

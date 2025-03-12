@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libassuan</code>
   <description>VGhlIGxpYmFzc3VhbiBwYWNrYWdlIGNvbnRhaW5zIGFuIGludGVyIHByb2Nlc3MgY29tbXVuaWNhdGlvbiBsaWJyYXJ5IHVzZWQgYnkgc29tZSBvZiB0aGUgb3RoZXIgR251UEcgcmVsYXRlZCBwYWNrYWdlcy4gbGliYXNzdWFuJ3MgcHJpbWFyeSB1c2UgaXMgdG8gYWxsb3cgYSBjbGllbnQgdG8gaW50ZXJhY3Qgd2l0aCBhIG5vbi1wZXJzaXN0ZW50IHNlcnZlci4g</description>
   <sourcefile>libassuan-3.0.1.tar.bz2</sourcefile>

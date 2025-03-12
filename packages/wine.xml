@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>wine</code>
   <description>V2luZSAob3JpZ2luYWxseSBhbiBhY3JvbnltIGZvciAiV2luZSBJcyBOb3QgYW4gRW11bGF0b3IiKSBpcyBhIGNvbXBhdGliaWxpdHkgbGF5ZXIgY2FwYWJsZSBvZiBydW5uaW5nIFdpbmRvd3MgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>wine-10.0.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>qt6</code>
   <description>UXQ2IGlzIGEgY3Jvc3MtcGxhdGZvcm0gYXBwbGljYXRpb24gZnJhbWV3b3JrIHRoYXQgaXMgd2lkZWx5IHVzZWQgZm9yIGRldmVsb3BpbmcgYXBwbGljYXRpb24gc29mdHdhcmUgd2l0aCBhIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZSAoR1VJKSAoaW4gd2hpY2ggY2FzZXMgUXQ2IGlzIGNsYXNzaWZpZWQgYXMgYSB3aWRnZXQgdG9vbGtpdCksIGFuZCBhbHNvIHVzZWQgZm9yIGRldmVsb3Bpbmcgbm9uLUdVSSBwcm9ncmFtcyBzdWNoIGFzIGNvbW1hbmQtbGluZSB0b29scyBhbmQgY29uc29sZXMgZm9yIHNlcnZlcnMuDQoNCg==</description>
   <sourcefile>qt-everywhere-src-6.7.2.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libXrender</code>
   <description/>
   <sourcefile>libXrender-0.9.11.tar.xz</sourcefile>

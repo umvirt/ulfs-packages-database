@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>yelp</code>
   <description>VGhlIFllbHAgcGFja2FnZSBjb250YWlucyBhIGhlbHAgYnJvd3NlciB1c2VkIGZvciB2aWV3aW5nIGhlbHAgZmlsZXMu</description>
   <sourcefile>yelp-42.2.tar.xz</sourcefile>

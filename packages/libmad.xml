@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libmad</code>
   <description>bGlibWFkIGlzIGEgaGlnaC1xdWFsaXR5IE1QRUcgYXVkaW8gZGVjb2RlciBjYXBhYmxlIG9mIDI0LWJpdCBvdXRwdXQu</description>
   <sourcefile>libmad-0.15.1b.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gimp</code>
   <description>VGhlIEdpbXAgcGFja2FnZSBjb250YWlucyB0aGUgR05VIEltYWdlIE1hbmlwdWxhdGlvbiBQcm9ncmFtIHdoaWNoIGlzIHVzZWZ1bCBmb3IgcGhvdG8gcmV0b3VjaGluZywgaW1hZ2UgY29tcG9zaXRpb24gYW5kIGltYWdlIGF1dGhvcmluZy4=</description>
   <sourcefile>gimp-2.10.38.tar.bz2</sourcefile>
@@ -13,107 +13,107 @@
   <dependances>
     <dependance>
       <code>python2-pycairo</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>python3-pycairo</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libheif</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libde265</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>appstream-glib</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>harfbuzz</code>
+      <code>python3-pycairo</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>X</code>
+      <code>libheif</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gtk2</code>
+      <code>libde265</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>appstream-glib</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>tiff</code>
+      <code>libxml2</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>pygtk2</code>
+      <code>harfbuzz</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>dbus-glib</code>
+      <code>X</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>graphviz</code>
+      <code>gtk2</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>iso-codes</code>
+      <code>libjpeg-turbo</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>tiff</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>glib-networking</code>
+      <code>pygtk2</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>libgudev</code>
+      <code>dbus-glib</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>lcms2</code>
+      <code>graphviz</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>gexiv2</code>
+      <code>iso-codes</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>poppler</code>
+      <code>librsvg</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>xdg-utils</code>
+      <code>glib-networking</code>
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>ghostscript</code>
+      <code>libgudev</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>gegl</code>
+      <code>lcms2</code>
       <weight>19</weight>
     </dependance>
     <dependance>
-      <code>libmypaint</code>
+      <code>gexiv2</code>
       <weight>20</weight>
     </dependance>
     <dependance>
-      <code>mypaint-brushes</code>
+      <code>poppler</code>
       <weight>21</weight>
+    </dependance>
+    <dependance>
+      <code>xdg-utils</code>
+      <weight>22</weight>
+    </dependance>
+    <dependance>
+      <code>ghostscript</code>
+      <weight>23</weight>
+    </dependance>
+    <dependance>
+      <code>gegl</code>
+      <weight>24</weight>
+    </dependance>
+    <dependance>
+      <code>libmypaint</code>
+      <weight>25</weight>
+    </dependance>
+    <dependance>
+      <code>mypaint-brushes</code>
+      <weight>26</weight>
     </dependance>
   </dependances>
   <patches/>

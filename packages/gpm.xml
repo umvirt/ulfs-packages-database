@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gpm</code>
   <description>VGhlIEdQTSAoR2VuZXJhbCBQdXJwb3NlIE1vdXNlIGRhZW1vbikgcGFja2FnZSBjb250YWlucyBhIG1vdXNlIHNlcnZlciBmb3IgdGhlIGNvbnNvbGUgYW5kIHh0ZXJtLg==</description>
   <sourcefile>gpm-1.20.7.tar.bz2</sourcefile>

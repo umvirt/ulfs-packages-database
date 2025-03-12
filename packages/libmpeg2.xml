@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libmpeg2</code>
   <description/>
   <sourcefile>libmpeg2-0.5.1.tar.gz</sourcefile>

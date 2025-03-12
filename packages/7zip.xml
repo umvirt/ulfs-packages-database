@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>7zip</code>
+  <description>cDd6aXAgaXMgdGhlIFVuaXggY29tbWFuZC1saW5lIHBvcnQgb2YgNy1aaXAsIGEgZmlsZSBhcmNoaXZlciB0aGF0IGFyY2hpdmVzIHdpdGggaGlnaCBjb21wcmVzc2lvbiByYXRpb3Mu</description>
+  <sourcefile>7zip-24.09.tar.gz</sourcefile>
+  <sourcedir>7zip-24.09</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Zm9yIGkgaW4gQnVuZGxlcy97QWxvbmUsQWxvbmU3eixGb3JtYXQ3ekYsU0ZYQ29ufSBVSS9Db25zb2xlOyBkbw0KICAgIG1ha2UgLUMgQ1BQLzd6aXAvJGkgLWYgLi4vLi4vY21wbF9nY2MubWFrDQpkb25l</build>
+  <install>aW5zdGFsbCAtdkRtNzU1IENQUC83emlwL0J1bmRsZXMvQWxvbmV7L2IvZy83emEsN3ovYi9nLzd6cn0gXA0KICAgICAgICAgICAgICAgIENQUC83emlwL0J1bmRsZXMvRm9ybWF0N3pGL2IvZy83ei5zbyAgICAgICAgXA0KICAgICAgICAgICAgICAgIENQUC83emlwL1VJL0NvbnNvbGUvYi9nLzd6ICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgICAgIC10IC91c3IvbGliLzd6aXAvICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCg0KaW5zdGFsbCAtdm03NTUgQ1BQLzd6aXAvQnVuZGxlcy9TRlhDb24vYi9nLzd6Q29uIFwNCiAgICAgICAgICAgICAgIC91c3IvbGliLzd6aXAvN3pDb24uc2Z4ICAgICAgICAgICAmJg0KDQooQVJWPSckQCcNCmZvciBpIGluIDd6IDd6YSA3enI7IGRvDQogICAgLy9lY2hvICRpDQogICAgZWNobyAnIyEvYmluL3NoJyA+IC91c3IvYmluLyRpDQogICAgZWNobyBleGVjIC91c3IvbGliLzd6aXAvJGkgXCIkQVJWXCIgPj4gL3Vzci9iaW4vJGkNCiAgICBjaG1vZCA3NTUgL3Vzci9iaW4vJGkgfHwgZXhpdA0KZG9uZSkgJiYNCg0KY3AgLXJ2IERPQyAtVCAvdXNyL3NoYXJlL2RvYy83emlwLTI0LjA5</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libndp</code>
   <description>VGhlIGxpYm5kcCBwYWNrYWdlIHByb3ZpZGVzIGEgd3JhcHBlciBmb3IgSVB2NiBOZWlnaGJvciBEaXNjb3ZlcnkgUHJvdG9jb2wuIEl0IGFsc28gcHJvdmlkZXMgYSB0b29sIG5hbWVkIG5kcHRvb2wgZm9yIHNlbmRpbmcgYW5kIHJlY2VpdmluZyBORFAgbWVzc2FnZXMu</description>
   <sourcefile>libndp-1.9.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libgnome-keyring</code>
   <description>R05PTUUga2V5cmluZyBzZXJ2aWNlcyBsaWJyYXJ5</description>
   <sourcefile>libgnome-keyring-23438cc767a744f29aeaf8cb8746f8d5ce9cdb32.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>gnome-common</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

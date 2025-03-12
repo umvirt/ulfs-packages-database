@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>embree</code>
   <description>RW1icmVlIHJheSB0cmFjaW5nIGtlcm5lbHMgcmVwb3NpdG9yeS4=</description>
   <sourcefile>embree-4.3.1.tar.gz</sourcefile>

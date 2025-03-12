@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libportal</code>
   <description>VGhlIGxpYnBvcnRhbCBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSB0aGF0IGNvbnRhaW5zIEdJTy1zdHlsZSBhc3luYyBBUElzIGZvciBtb3N0IEZsYXRwYWsgcG9ydGFscy4=</description>
   <sourcefile>libportal-0.7.1.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>startup-notification</code>
   <description>VGhlIHN0YXJ0dXAtbm90aWZpY2F0aW9uIHBhY2thZ2UgY29udGFpbnMgc3RhcnR1cC1ub3RpZmljYXRpb24gbGlicmFyaWVzLg==</description>
   <sourcefile>startup-notification-0.12.tar.gz</sourcefile>

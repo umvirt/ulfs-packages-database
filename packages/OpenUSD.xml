@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>OpenUSD</code>
   <description>VW5pdmVyc2FsIFNjZW5lIERlc2NyaXB0aW9uIChVU0QpIGlzIGFuIGVmZmljaWVudCwgc2NhbGFibGUgc3lzdGVtIGZvciBhdXRob3JpbmcsIHJlYWRpbmcsIGFuZCBzdHJlYW1pbmcgdGltZS1zYW1wbGVkIHNjZW5lIGRlc2NyaXB0aW9uIGZvciBpbnRlcmNoYW5nZSBiZXR3ZWVuIGdyYXBoaWNzIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>OpenUSD-24.03.tar.gz</sourcefile>

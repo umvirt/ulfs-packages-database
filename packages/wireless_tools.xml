@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>wireless_tools</code>
   <description>VGhlIFdpcmVsZXNzIEV4dGVuc2lvbiAoV0UpIGlzIGEgZ2VuZXJpYyBBUEkgaW4gdGhlIExpbnV4IGtlcm5lbCBhbGxvd2luZyBhIGRyaXZlciB0byBleHBvc2UgY29uZmlndXJhdGlvbiBhbmQgc3RhdGlzdGljcyBzcGVjaWZpYyB0byBjb21tb24gV2lyZWxlc3MgTEFOcyB0byB1c2Vyc3BhY2Uu</description>
   <sourcefile>wireless_tools.29.tar.gz</sourcefile>

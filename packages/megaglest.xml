@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>megaglest</code>
   <description>TWVnYUdsZXN0IGlzIGFuIGVudGVydGFpbmluZyBmcmVlIChmcmVld2FyZSBhbmQgZnJlZSBzb2Z0d2FyZSkgYW5kIG9wZW4gc291cmNlIGNyb3NzLXBsYXRmb3JtIDNEIHJlYWwtdGltZSBzdHJhdGVneSAoUlRTKSBnYW1lLg==</description>
   <sourcefile>megaglest-source-201457d9c86a8089a74b88c2846c4054d292ec42.tar.gz</sourcefile>

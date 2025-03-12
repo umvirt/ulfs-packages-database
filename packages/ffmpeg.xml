@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>ffmpeg</code>
   <description>RkZtcGVnIGlzIGEgc29sdXRpb24gdG8gcmVjb3JkLCBjb252ZXJ0IGFuZCBzdHJlYW0gYXVkaW8gYW5kIHZpZGVvLiBJdCBpcyBhIHZlcnkgZmFzdCB2aWRlbyBhbmQgYXVkaW8gY29udmVydGVyIGFuZCBpdCBjYW4gYWxzbyBhY3F1aXJlIGZyb20gYSBsaXZlIGF1ZGlvL3ZpZGVvIHNvdXJjZS4=</description>
   <sourcefile>ffmpeg-7.0.2.tar.xz</sourcefile>

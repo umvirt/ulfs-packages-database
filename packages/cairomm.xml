@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>cairomm</code>
   <description>VGhlIENhaXJvbW0gcGFja2FnZSBwcm92aWRlcyBhIEMrKyBpbnRlcmZhY2UgdG8gQ2Fpcm8u</description>
   <sourcefile>cairomm-1.14.5.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>librsvg</code>
   <description>VGhlIGxpYnJzdmcgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHRvb2xzIHVzZWQgdG8gbWFuaXB1bGF0ZSwgY29udmVydCBhbmQgdmlldyBTY2FsYWJsZSBWZWN0b3IgR3JhcGhpYyAoU1ZHKSBpbWFnZXMu</description>
   <sourcefile>librsvg-2.40.21.tar.xz</sourcefile>

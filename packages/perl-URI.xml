@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>perl-URI</code>
   <description>VGhpcyBtb2R1bGUgaW1wbGVtZW50cyB0aGUgVVJJIGNsYXNzLiBPYmplY3RzIG9mIHRoaXMgY2xhc3MgcmVwcmVzZW50ICJVbmlmb3JtIFJlc291cmNlIElkZW50aWZpZXIgcmVmZXJlbmNlcyIgYXMgc3BlY2lmaWVkIGluIFJGQyAyMzk2IChhbmQgdXBkYXRlZCBieSBSRkMgMjczMik=</description>
   <sourcefile>URI-5.28.tar.gz</sourcefile>

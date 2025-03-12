@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>cairo</code>
   <description>Q2Fpcm8gaXMgYSAyRCBncmFwaGljcyBsaWJyYXJ5IHdpdGggc3VwcG9ydCBmb3IgbXVsdGlwbGUgb3V0cHV0IGRldmljZXMuIA==</description>
   <sourcefile>cairo-1.18.0.tar.xz</sourcefile>

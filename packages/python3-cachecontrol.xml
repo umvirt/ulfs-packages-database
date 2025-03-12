@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>python3-cachecontrol</code>
   <description>Q2FjaGVDb250cm9sIGlzIGEgcG9ydCBvZiB0aGUgY2FjaGluZyBhbGdvcml0aG1zIGluIGh0dHBsaWIyIGZvciB1c2Ugd2l0aCByZXF1ZXN0cyBzZXNzaW9uIG9iamVjdC4=</description>
   <sourcefile>cachecontrol-0.14.0.tar.gz</sourcefile>

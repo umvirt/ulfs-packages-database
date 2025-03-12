@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>fceux</code>
   <description>RkNFVVggaXMgYSBOaW50ZW5kbyBFbnRlcnRhaW5tZW50IFN5c3RlbSAoTkVTKSwgRmFtaWNvbSwgRmFtaWNvbSBEaXNrIFN5c3RlbSAoRkRTKSwgYW5kIERlbmR5IGVtdWxhdG9yLiA=</description>
   <sourcefile>fceux-2.6.6.tar.gz</sourcefile>

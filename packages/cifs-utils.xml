@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>cifs-utils</code>
   <description>VGhlIGNpZnMtdXRpbHMgcGFja2FnZSBwcm92aWRlcyBhIG1lYW5zIGZvciBtb3VudGluZyBTTUIvQ0lGUyBzaGFyZXMgb24gYSBMaW51eCBzeXN0ZW0u</description>
   <sourcefile>cifs-utils-7.0.tar.bz2</sourcefile>

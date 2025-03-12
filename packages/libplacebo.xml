@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libplacebo</code>
   <description>VGhlIGxpYnBsYWNlYm8gcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHByb2Nlc3NpbmcgaW1hZ2UgYW5kIHZpZGVvIHByaW1pdGl2ZXMgYW5kIHNoYWRlcnMuIEl0IGFsc28gaW5jbHVkZXMgYSBoaWdoIHF1YWxpdHkgcmVuZGVyaW5nIHBpcGVsaW5lIHRoYXQgc3VwcG9ydHMgT3BlbkdMIGFuZCBWdWxrYW4u</description>
   <sourcefile>libplacebo-6.338.2.tar.gz</sourcefile>

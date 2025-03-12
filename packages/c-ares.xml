@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>c-ares</code>
   <description>Yy1hcmVzIGlzIGEgQyBsaWJyYXJ5IGZvciBhc3luY2hyb25vdXMgRE5TIHJlcXVlc3RzLg==</description>
   <sourcefile>c-ares-1.33.0.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>libxslt</code>
   <description>VGhlIGxpYnhzbHQgcGFja2FnZSBjb250YWlucyBYU0xUIGxpYnJhcmllcyB1c2VkIGZvciBleHRlbmRpbmcgbGlieG1sMiBsaWJyYXJpZXMgdG8gc3VwcG9ydCBYU0xUIGZpbGVzLg==</description>
   <sourcefile>libxslt-1.1.42.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>gnome-autoar</code>
   <description>VGhlIGdub21lLWF1dG9hciBwYWNrYWdlIHByb3ZpZGVzIGEgZnJhbWV3b3JrIGZvciBhdXRvbWF0aWMgYXJjaGl2ZSBleHRyYWN0aW9uLCBjb21wcmVzc2lvbiwgYW5kIG1hbmFnZW1lbnQu</description>
   <sourcefile>gnome-autoar-0.4.4.tar.xz</sourcefile>

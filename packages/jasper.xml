@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>jasper</code>
   <description>VGhlIEphc1BlciBQcm9qZWN0IGlzIGFuIG9wZW4tc291cmNlIGluaXRpYXRpdmUgdG8gcHJvdmlkZSBhIGZyZWUgc29mdHdhcmUtYmFzZWQgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBKUEVHLTIwMDAgY29kZWMu</description>
   <sourcefile>jasper-4.2.4.tar.gz</sourcefile>

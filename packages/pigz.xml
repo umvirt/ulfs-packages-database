@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>pigz</code>
   <description>QSBwYXJhbGxlbCBpbXBsZW1lbnRhdGlvbiBvZiBnemlwIGZvciBtb2Rlcm4gbXVsdGktcHJvY2Vzc29yLCBtdWx0aS1jb3JlIG1hY2hpbmVzLg==</description>
   <sourcefile>pigz-2.8.tar.gz</sourcefile>

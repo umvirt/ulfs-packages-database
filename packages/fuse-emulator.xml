@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>fuse-emulator</code>
   <description>RnVzZSAodGhlIEZyZWUgVW5peCBTcGVjdHJ1bSBFbXVsYXRvcikgYSBaWCBTcGVjdHJ1bSBlbXVsYXRvciBmb3IgVW5peC4g</description>
   <sourcefile>fuse-1.5.7.tar.gz</sourcefile>

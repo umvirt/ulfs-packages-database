@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>spectemu</code>
   <description>U3BlY3RlbXUgaXMgYSBmYXN0IGFuZCBhY2N1cmF0ZSBlbXVsYXRvciBvZiB0aGUgb3JpZ2luYWwgNDhrIFpYIHNwZWN0cnVtLiBGZWF0dXJlcyBpbmNsdWRlIHNvdW5kIGVtdWxhdGlvbiwgdGFwZSBsb2FkaW5nIHdpdGggYm9yZGVyIHN0cmlwZXMgYW5kIG11Y2ggbW9yZS4=</description>
   <sourcefile>spectemu-0.94.tar.gz</sourcefile>

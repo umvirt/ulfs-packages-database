@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>x265</code>
   <description>eDI2NSBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSBmb3IgZW5jb2RpbmcgdmlkZW8gc3RyZWFtcyBpbnRvIHRoZSBILjI2NS9IRVZDIGZvcm1hdC4=</description>
   <sourcefile>x265_3.6.tar.gz</sourcefile>

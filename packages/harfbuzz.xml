@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.2</release>
+  <release>0.2.3</release>
   <code>harfbuzz</code>
   <description>VGhlIEhhcmZCdXp6IHBhY2thZ2UgY29udGFpbnMgYW4gT3BlblR5cGUgdGV4dCBzaGFwaW5nIGVuZ2luZS4NCg==</description>
   <sourcefile>harfbuzz-9.0.0.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>glib-gobject</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>icu</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>freetype</code>
+      <code>icu</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gobject-introspection</code>
+      <code>freetype</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>graphite2</code>
+      <code>gobject-introspection</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>graphite2</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>
