@@ -8,7 +8,7 @@
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>
-  <install>Y2QgLi4NCm12IGJsZnMtc3lzdGVtZC11bml0cy0yMDI0MTIxMSAvdXNyL3NoYXJlL2JsZnMtc3lzdGVtZC11bml0cw0K</install>
+  <install>I3Jlc2V0IGRhdGUgdG8gZmluZCBpbnN0YWxsZWQgZmlsZXMNCmZpbmQgKiAtZXhlYyB0b3VjaCAtbSB7fSArDQoNCm1rZGlyIC91c3Ivc2hhcmUvYmxmcy1zeXN0ZW1kLXVuaXRzDQpjcCAtcnYgYmxmcyBMSUNFTlNFIE1ha2VmaWxlIENoYW5nZUxvZyBNQUlOVEFJTkVSUyBSRUFETUUgL3Vzci9zaGFyZS9ibGZzLXN5c3RlbWQtdW5pdHMNCg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
