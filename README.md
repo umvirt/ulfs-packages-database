@@ -2,7 +2,7 @@
 
 Version:  0.2.1 
 
-Based on: Linux From Scratch 12.2 (March 2024)
+Based on: Linux From Scratch 12.1 (March 2024)
 
 Status: Almost stable. Last release with nouveau driver. 
 
@@ -66,6 +66,8 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 -  multiarch packages
 -  WINE subsystem
 -  Last release with "nouveau" driver 
+-  QEMU with SPICE support
+
 
 ### Differences with BLFS
 
@@ -76,3 +78,4 @@ Modified packages
 Additional packages
 - LXDE
 - MATE
+- SPICE
