@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libxshmfence</code>
   <description/>
-  <sourcefile>libxshmfence-1.3.2.tar.xz</sourcefile>
-  <sourcedir>libxshmfence-1.3.2</sourcedir>
+  <sourcefile>libxshmfence-1.3.3.tar.xz</sourcefile>
+  <sourcedir>libxshmfence-1.3.3</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
   <build/>

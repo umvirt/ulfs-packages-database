@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>python3-Mako</code>
   <description>TWFrbyBpcyBhIFB5dGhvbiBtb2R1bGUgdGhhdCBpbXBsZW1lbnRzIGh5cGVyZmFzdCBhbmQgbGlnaHR3ZWlnaHQgdGVtcGxhdGluZyBmb3IgdGhlIFB5dGhvbiBwbGF0Zm9ybS4=</description>
-  <sourcefile>Mako-1.3.5.tar.gz</sourcefile>
-  <sourcedir>Mako-1.3.5</sourcedir>
+  <sourcefile>mako-1.3.9.tar.gz</sourcefile>
+  <sourcedir>mako-1.3.9</sourcedir>
   <unpack/>
   <configure>Iw0K</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdEDQo=</build>

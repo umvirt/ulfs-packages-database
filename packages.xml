@@ -1018,5 +1018,6 @@
     <package>coolreader</package>
     <package>libunibreak</package>
     <package>utf8proc</package>
+    <package>python3-pyyaml</package>
   </packages>
 </packages>

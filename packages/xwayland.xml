@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>xwayland</code>
   <description>VGhlIFh3YXlsYW5kIHBhY2thZ2UgaXMgYW4gWG9yZyBzZXJ2ZXIgcnVubmluZyBvbiB0b3Agb2YgdGhlIHdheWxhbmQgc2VydmVyLg==</description>
-  <sourcefile>xwayland-24.1.2.tar.xz</sourcefile>
-  <sourcedir>xwayland-24.1.2</sourcedir>
+  <sourcefile>xwayland-24.1.6.tar.xz</sourcefile>
+  <sourcedir>xwayland-24.1.6</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvaW5zdGFsbF9tYW4vLCRkJyBtZXNvbi5idWlsZCAmJg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9JFhPUkdfUFJFRklYICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgICAgICAgXA0KICAgICAgICAgICAgLUR4a2Jfb3V0cHV0X2Rpcj0vdmFyL2xpYi94a2IgXA0KICAgICAgICAgICAgLi4gICAgICAgICAgICAgICANCg==</configure>
+  <configure>c2VkIC1pICcvaW5zdGFsbF9tYW4vLCRkJyBtZXNvbi5idWlsZCAmJg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLi4gICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgICAgICAgXA0KICAgICAgLUQgeGtiX291dHB1dF9kaXI9L3Zhci9saWIveGtiIA0KICAgICAgICAgICAgDQo=</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>

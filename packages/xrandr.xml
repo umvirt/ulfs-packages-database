@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xrandr</code>
   <description/>
-  <sourcefile>xrandr-1.5.2.tar.xz</sourcefile>
-  <sourcedir>xrandr-1.5.2</sourcedir>
+  <sourcefile>xrandr-1.5.3.tar.xz</sourcefile>
+  <sourcedir>xrandr-1.5.3</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

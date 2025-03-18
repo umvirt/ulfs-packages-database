@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xf86-input-synaptics</code>
   <description>VGhlIFhvcmcgU3luYXB0aWNzIERyaXZlciBwYWNrYWdlIGNvbnRhaW5zIHRoZSBYLk9yZyBJbnB1dCBEcml2ZXIsIHN1cHBvcnQgcHJvZ3JhbXMgYW5kIFNESyBmb3IgU3luYXB0aWNzIHRvdWNocGFkcy4=</description>
-  <sourcefile>xf86-input-synaptics-1.9.2.tar.xz</sourcefile>
-  <sourcedir>xf86-input-synaptics-1.9.2</sourcedir>
+  <sourcefile>xf86-input-synaptics-1.10.0.tar.xz</sourcefile>
+  <sourcedir>xf86-input-synaptics-1.10.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIA0K</configure>
   <build/>

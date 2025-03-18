@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>glslang</code>
   <description>VGhlIEdsc2xhbmcgcGFja2FnZSBjb250YWlucyBhbiBmcm9udGVuZCBhbmQgdmFsaWRhdG9yIGZvciBPcGVuR0wsIE9wZW5HTCBFUywgYW5kIFZ1bGthbiBzaGFkZXJzLg==</description>
-  <sourcefile>glslang-14.3.0.tar.gz</sourcefile>
-  <sourcedir>glslang-14.3.0</sourcedir>
+  <sourcefile>glslang-15.1.0.tar.gz</sourcefile>
+  <sourcedir>glslang-15.1.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgICAgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICBcDQogICAgICAtREFMTE9XX0VYVEVSTkFMX1NQSVJWX1RPT0xTPU9OIFwNCiAgICAgIC1EQlVJTERfU0hBUkVEX0xJQlM9T04gICAgICAgICAgXA0KICAgICAgLURHTFNMQU5HX1RFU1RTPU9OICAgICAgICAgICAgICBcDQogICAgICAtRyBOaW5qYSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>

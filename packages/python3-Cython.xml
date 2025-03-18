@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>python3-Cython</code>
   <description>VGhlIEN5dGhvbiBjb21waWxlciBmb3Igd3JpdGluZyBDIGV4dGVuc2lvbnMgaW4gdGhlIFB5dGhvbiBsYW5ndWFnZS4=</description>
-  <sourcefile>Cython-3.0.6.tar.gz</sourcefile>
-  <sourcedir>Cython-3.0.6</sourcedir>
+  <sourcefile>cython-3.0.12.tar.gz</sourcefile>
+  <sourcedir>cython-3.0.12</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

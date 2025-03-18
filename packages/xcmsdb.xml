@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xcmsdb</code>
   <description/>
-  <sourcefile>xcmsdb-1.0.6.tar.xz</sourcefile>
-  <sourcedir>xcmsdb-1.0.6</sourcedir>
+  <sourcefile>xcmsdb-1.0.7.tar.xz</sourcefile>
+  <sourcedir>xcmsdb-1.0.7</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

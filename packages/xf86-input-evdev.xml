@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xf86-input-evdev</code>
   <description>VGhlIFhvcmcgRXZkZXYgRHJpdmVyIHBhY2thZ2UgY29udGFpbnMgYSBHZW5lcmljIExpbnV4IGlucHV0IGRyaXZlciBmb3IgdGhlIFhvcmcgWCBzZXJ2ZXIu</description>
-  <sourcefile>xf86-input-evdev-2.10.6.tar.bz2</sourcefile>
-  <sourcedir>xf86-input-evdev-2.10.6</sourcedir>
+  <sourcefile>xf86-input-evdev-2.11.0.tar.xz</sourcefile>
+  <sourcedir>xf86-input-evdev-2.11.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

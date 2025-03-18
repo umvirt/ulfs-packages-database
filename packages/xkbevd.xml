@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xkbevd</code>
   <description/>
-  <sourcefile>xkbevd-1.1.5.tar.xz</sourcefile>
-  <sourcedir>xkbevd-1.1.5</sourcedir>
+  <sourcefile>xkbevd-1.1.6.tar.xz</sourcefile>
+  <sourcedir>xkbevd-1.1.6</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

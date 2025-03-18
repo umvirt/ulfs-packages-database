@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xhost</code>
   <description/>
-  <sourcefile>xhost-1.0.9.tar.xz</sourcefile>
-  <sourcedir>xhost-1.0.9</sourcedir>
+  <sourcefile>xhost-1.0.10.tar.xz</sourcefile>
+  <sourcedir>xhost-1.0.10</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

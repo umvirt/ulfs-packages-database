@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>libXau</code>
   <description>VGhlIGxpYlhhdSBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSBpbXBsZW1lbnRpbmcgdGhlIFgxMSBBdXRob3JpemF0aW9uIFByb3RvY29sLg==</description>
-  <sourcefile>libXau-1.0.11.tar.xz</sourcefile>
-  <sourcedir>libXau-1.0.11</sourcedir>
+  <sourcefile>libXau-1.0.12.tar.xz</sourcefile>
+  <sourcedir>libXau-1.0.12</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElD</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZpDQo=</build>
-  <install>bWFrZSBpbnN0YWxsCg==</install>
+  <install>bWFrZSBpbnN0YWxsDQo=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

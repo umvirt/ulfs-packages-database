@@ -32,10 +32,6 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>luit</code>
-      <weight>6</weight>
-    </dependance>
-    <dependance>
       <code>mkfontscale</code>
       <weight>7</weight>
     </dependance>
@@ -50,10 +46,6 @@
     <dependance>
       <code>smproxy</code>
       <weight>10</weight>
-    </dependance>
-    <dependance>
-      <code>x11perf</code>
-      <weight>11</weight>
     </dependance>
     <dependance>
       <code>xauth</code>

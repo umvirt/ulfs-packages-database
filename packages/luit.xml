@@ -3,14 +3,19 @@
   <release>0.2.3</release>
   <code>luit</code>
   <description>VGhlIGx1aXQgcGFja2FnZSBpcyBhIGZpbHRlciB0aGF0IGNhbiBiZSBydW4gYmV0d2VlbiBhbiBhcmJpdHJhcnkgYXBwbGljYXRpb24gYW5kIGEgVVRGLTggdGVybWluYWwgZW11bGF0b3IuIEl0IHdpbGwgY29udmVydCBhcHBsaWNhdGlvbiBvdXRwdXQgZnJvbSB0aGUgbG9jYWxl4oCZcyBlbmNvZGluZyBpbnRvIFVURuKAkDgsIGFuZCBjb252ZXJ0IHRlcm1pbmFsIGlucHV0IGZyb20gVVRG4oCQOCBpbnRvIHRoZSBsb2NhbGXigJlzIGVuY29kaW5nLg==</description>
-  <sourcefile>luit-20240102.tgz</sourcefile>
-  <sourcedir>luit-20240102</sourcedir>
+  <sourcefile>luit-20240910.tgz</sourcefile>
+  <sourcedir>luit-20240910</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>Xapps</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

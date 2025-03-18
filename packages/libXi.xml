@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libXi</code>
   <description/>
-  <sourcefile>libXi-1.8.1.tar.xz</sourcefile>
-  <sourcedir>libXi-1.8.1</sourcedir>
+  <sourcefile>libXi-1.8.2.tar.xz</sourcefile>
+  <sourcedir>libXi-1.8.2</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
   <build/>

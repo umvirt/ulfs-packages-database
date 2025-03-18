@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>libxcvt</code>
   <description>bGlieGN2dCBpcyBhIGxpYnJhcnkgcHJvdmlkaW5nIGEgc3RhbmRhbG9uZSB2ZXJzaW9uIG9mIHRoZSBYIHNlcnZlciBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgVkVTQSBDVlQgc3RhbmRhcmQgdGltaW5nIG1vZGVsaW5lcyBnZW5lcmF0b3Iu</description>
-  <sourcefile>libxcvt-0.1.2.tar.xz</sourcefile>
-  <sourcedir>libxcvt-0.1.2</sourcedir>
+  <sourcefile>libxcvt-0.1.3.tar.xz</sourcefile>
+  <sourcedir>libxcvt-0.1.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQKY2QgICAgYnVpbGQgCgptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgLi4K</configure>
-  <build>Y2QgICAgYnVpbGQKbmluamEK</build>
-  <install>Y2QgICAgYnVpbGQKbmluamEgaW5zdGFsbAo=</install>
+  <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkIA0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgLi4NCg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

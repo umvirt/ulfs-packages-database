@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libclc</code>
   <description>VGhlIGxpYmNsYyBwYWNrYWdlIGNvbnRhaW5zIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBsaWJyYXJ5IHJlcXVpcmVtZW50cyBvZiB0aGUgT3BlbkNMIEMgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2UsIGFzIHNwZWNpZmllZCBieSB0aGUgT3BlbkNMIDEuMSBTcGVjaWZpY2F0aW9uLg==</description>
-  <sourcefile>libclc-18.1.7.src.tar.xz</sourcefile>
-  <sourcedir>libclc-18.1.7.src</sourcedir>
+  <sourcefile>libclc-19.1.7.src.tar.xz</sourcefile>
+  <sourcedir>libclc-19.1.7.src</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRyBOaW5qYSAuLiAg</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphIA0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>

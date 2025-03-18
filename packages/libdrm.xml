@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libdrm</code>
   <description>TGliZHJtIHByb3ZpZGVzIGEgdXNlcnNwYWNlIGxpYnJhcnkgZm9yIGFjY2Vzc2luZyB0aGUgZGlyZWN0IHJlbmRlcmluZyBtYW5hZ2VyIChEUk0pIG9uIG9wZXJhdGluZyBzeXN0ZW1zIHRoYXQgc3VwcG9ydCB0aGUgaW9jdGwgaW50ZXJmYWNlLiA=</description>
-  <sourcefile>libdrm-2.4.122.tar.xz</sourcefile>
-  <sourcedir>libdrm-2.4.122</sourcedir>
+  <sourcefile>libdrm-2.4.124.tar.xz</sourcefile>
+  <sourcedir>libdrm-2.4.124</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgXA0KICAgICAgICAgICAgLUR1ZGV2PXRydWUgICAgICAgICAgIFwNCiAgICAgICAgICAgIC1EdmFsZ3JpbmQ9ZGlzYWJsZWQgICBcDQogICAgICAgICAgICAuLiAgICAg</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg==</build>
