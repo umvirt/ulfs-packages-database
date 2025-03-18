@@ -60,6 +60,12 @@ CPU:
 
 Memory: Some packages are need 3GB per CPU core or more. If you don't have enough memory, you have to reduce CPU cores quantity.
 
+### Features
+
+-  multiarch packages
+-  WINE subsystem
+-  QEMU with SPICE support
+
 ### Regressions
 
 -  GCC14 is broke many packages installation scripts
@@ -74,3 +80,4 @@ Modified packages
 Additional packages
 - LXDE
 - MATE
+- SPICE
