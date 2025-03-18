@@ -58,4 +58,16 @@ CPU:
 - qemu64 - for common CPUs builds
 - amd64 - for specific CPUs builds
 
-Memory: Some packages are need 3GB per CPU core or more. If you not have enough memory reduce CPU cores quantity.
+Memory: Some packages are need 3GB per CPU core or more. If you don't have enough memory, you have to reduce CPU cores quantity.
+
+### Features
+
+- amdgpu_virtio support in MESA
+
+### Differences with BLFS
+
+- glib - splited in 2 packages: glib & glib-gobject
+- xmlto - skip validation to work offline
+- 7zip - modified "for" loop in install script
+- mesa - new version to support amdgpu_virtio
+
