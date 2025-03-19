@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>lxinput</code>
   <description>VGhlIExYSW5wdXQgcGFja2FnZSBjb250YWlucyBhIHNtYWxsIHByb2dyYW0gdXNlZCB0byBjb25maWd1cmUga2V5Ym9hcmQgYW5kIG1vdXNlIGZvciBMWERFLg==</description>
-  <sourcefile>lxinput-0.3.5.tar.xz</sourcefile>
-  <sourcedir>lxinput-0.3.5</sourcedir>
+  <sourcefile>lxinput-0.3.6.tar.gz</sourcefile>
+  <sourcedir>lxinput-0.3.6</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9hdXRvZ2VuLnNoDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

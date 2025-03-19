@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>fribidi</code>
   <description>VGhlIEZyaUJpZGkgcGFja2FnZSBpcyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgVW5pY29kZSBCaWRpcmVjdGlvbmFsIEFsZ29yaXRobSAoQklESSku</description>
-  <sourcefile>fribidi-1.0.15.tar.xz</sourcefile>
-  <sourcedir>fribidi-1.0.15</sourcedir>
+  <sourcefile>fribidi-1.0.16.tar.xz</sourcefile>
+  <sourcedir>fribidi-1.0.16</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

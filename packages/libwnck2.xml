@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libwnck2</code>
   <description>VGhlIGxpYnduY2sgcGFja2FnZSBjb250YWlucyBhIFdpbmRvdyBOYXZpZ2F0b3IgQ29uc3RydWN0aW9uIEtpdC4=</description>
-  <sourcefile>libwnck-2.30.7.tar.xz</sourcefile>
-  <sourcedir>libwnck-2.30.7</sourcedir>
+  <sourcefile>libwnck-2.31.0.tar.xz</sourcefile>
+  <sourcedir>libwnck-2.31.0</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyBcDQogICAgICAgICAgICAtLXByb2dyYW0tc3VmZml4PS0x</configure>
   <build>bWFrZSBHRVRURVhUX1BBQ0tBR0U9bGlid25jay0x</build>

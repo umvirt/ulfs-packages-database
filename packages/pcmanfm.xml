@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>pcmanfm</code>
   <description>VGhlIFBDTWFuRk0gcGFja2FnZSBjb250YWlucyBhbiBleHRyZW1lbHkgZmFzdCwgbGlnaHR3ZWlnaHQsIHlldCBmZWF0dXJlLXJpY2ggZmlsZSBtYW5hZ2VyIHdpdGggdGFiYmVkIGJyb3dzaW5nLg==</description>
-  <sourcefile>pcmanfm-1.3.2.tar.xz</sourcefile>
-  <sourcedir>pcmanfm-1.3.2</sourcedir>
+  <sourcefile>pcmanfm-1.4.0.tar.gz</sourcefile>
+  <sourcedir>pcmanfm-1.4.0</sourcedir>
   <unpack/>
-  <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9aW5jb21wYXRpYmxlLXBvaW50ZXItdHlwZXMiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KZXhwb3J0IENGTEFHUw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICBcDQogICAgICAgICAgICAtLXdpdGgtZ3RrPTIgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
+  <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9aW5jb21wYXRpYmxlLXBvaW50ZXItdHlwZXMiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KZXhwb3J0IENGTEFHUw0KDQouL2F1dG9nZW4uc2gNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWd0az0yICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGM=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

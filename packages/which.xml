@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>which</code>
   <description>d2hpY2ggc2hvd3MgdGhlIGZ1bGwgcGF0aCBvZiAoc2hlbGwpIGNvbW1hbmRzIGluc3RhbGxlZCBpbiB5b3VyIFBBVEgNCg0K</description>
-  <sourcefile>which-2.21.tar.gz</sourcefile>
-  <sourcedir>which-2.21</sourcedir>
+  <sourcefile>which-2.23.tar.gz</sourcefile>
+  <sourcedir>which-2.23</sourcedir>
   <unpack/>
   <configure/>
   <build/>

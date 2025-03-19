@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>libexif</code>
   <description>VGhlIGxpYmV4aWYgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHBhcnNpbmcsIGVkaXRpbmcsIGFuZCBzYXZpbmcgRVhJRiBkYXRhLg==</description>
-  <sourcefile>libexif-0.6.24.tar.bz2</sourcefile>
-  <sourcedir>libexif-0.6.24</sourcedir>
+  <sourcefile>libexif-0.6.25.tar.bz2</sourcefile>
+  <sourcedir>libexif-0.6.25</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS13aXRoLWRvYy1kaXI9L3Vzci9zaGFyZS9kb2MvbGliZXhpZi0wLjYuMjQ=</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS13aXRoLWRvYy1kaXI9L3Vzci9zaGFyZS9kb2MvbGliZXhpZi0wLjYuMjU=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>gsettings-desktop-schemas</code>
   <description>VGhlIEdTZXR0aW5ncyBEZXNrdG9wIFNjaGVtYXMgcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgR1NldHRpbmdzIHNjaGVtYXMgZm9yIHNldHRpbmdzIHNoYXJlZCBieSB2YXJpb3VzIGNvbXBvbmVudHMgb2YgYSBHTk9NRSBEZXNrdG9wLg==</description>
-  <sourcefile>gsettings-desktop-schemas-46.1.tar.xz</sourcefile>
-  <sourcedir>gsettings-desktop-schemas-46.1</sourcedir>
+  <sourcefile>gsettings-desktop-schemas-47.1.tar.xz</sourcefile>
+  <sourcedir>gsettings-desktop-schemas-47.1</sourcedir>
   <unpack/>
   <configure>c2VkIC1pIC1yICdzOiIoL3N5c3RlbSk6Ii9vcmcvZ25vbWVcMTpnJyBzY2hlbWFzLyouaW4gJiYNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>gpicview</code>
   <description>VGhlIEdQaWNWaWV3IHBhY2thZ2UgY29udGFpbnMgYSBsaWdodHdlaWdodCBpbWFnZSB2aWV3ZXIu</description>
-  <sourcefile>gpicview-0.2.5.tar.xz</sourcefile>
-  <sourcedir>gpicview-0.2.5</sourcedir>
+  <sourcefile>gpicview-0.2.6.tar.gz</sourcefile>
+  <sourcedir>gpicview-0.2.6</sourcedir>
   <unpack/>
-  <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9cmV0dXJuLW1pc21hdGNoIg0KDQpleHBvcnQgQ0ZMQUdTOw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tc3lzY29uZmRpcj0vZXRjIA==</configure>
+  <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9cmV0dXJuLW1pc21hdGNoIg0KDQpleHBvcnQgQ0ZMQUdTOw0KDQouL2F1dG9nZW4uc2gNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyA=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQpzZWQgLWkgJ3MvVXRpbGl0eTsvLycgL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvZ3BpY3ZpZXcuZGVza3RvcA==</install>
   <localbuild>0</localbuild>

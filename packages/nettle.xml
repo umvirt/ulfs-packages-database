@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>nettle</code>
   <description>VGhlIE5ldHRsZSBwYWNrYWdlIGNvbnRhaW5zIGEgbG93LWxldmVsIGNyeXB0b2dyYXBoaWMgbGlicmFyeSB0aGF0IGlzIGRlc2lnbmVkIHRvIGZpdCBlYXNpbHkgaW4gbWFueSBjb250ZXh0cy4=</description>
-  <sourcefile>nettle-3.10.tar.gz</sourcefile>
-  <sourcedir>nettle-3.10</sourcedir>
+  <sourcefile>nettle-3.10.1.tar.gz</sourcefile>
+  <sourcedir>nettle-3.10.1</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQyANCg0K</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
-  <install>bWFrZSBpbnN0YWxsICYmDQpjaG1vZCAgIC12ICAgNzU1IC91c3IvbGliL2xpYntob2d3ZWVkLG5ldHRsZX0uc28gJiYNCmluc3RhbGwgLXYgLW03NTUgLWQgL3Vzci9zaGFyZS9kb2MvbmV0dGxlLTMuMTAgJiYNCmluc3RhbGwgLXYgLW02NDQgbmV0dGxlLntodG1sLHBkZn0gL3Vzci9zaGFyZS9kb2MvbmV0dGxlLTMuMTA=</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQpjaG1vZCAgIC12ICAgNzU1IC91c3IvbGliL2xpYntob2d3ZWVkLG5ldHRsZX0uc28gJiYNCmluc3RhbGwgLXYgLW03NTUgLWQgL3Vzci9zaGFyZS9kb2MvbmV0dGxlLTMuMTAuMSAmJg0KaW5zdGFsbCAtdiAtbTY0NCBuZXR0bGUue2h0bWwscGRmfSAvdXNyL3NoYXJlL2RvYy9uZXR0bGUtMy4xMC4xDQo=</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
