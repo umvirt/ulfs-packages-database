@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>alsa-lib</code>
   <description>VGhlIEFMU0EgTGlicmFyeSBwYWNrYWdlIGNvbnRhaW5zIHRoZSBBTFNBIGxpYnJhcnkgdXNlZCBieSBwcm9ncmFtcyAoaW5jbHVkaW5nIEFMU0EgVXRpbGl0aWVzKSByZXF1aXJpbmcgYWNjZXNzIHRvIHRoZSBBTFNBIHNvdW5kIGludGVyZmFjZS4=</description>
-  <sourcefile>alsa-lib-1.2.12.tar.bz2</sourcefile>
-  <sourcedir>alsa-lib-1.2.12</sourcedir>
+  <sourcefile>alsa-lib-1.2.13.tar.bz2</sourcefile>
+  <sourcedir>alsa-lib-1.2.13</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmU=</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgZG9jDQoNCmZp</build>
-  <install>bWFrZSBpbnN0YWxsDQoNCnRhciAtQyAvdXNyL3NoYXJlL2Fsc2EgLS1zdHJpcC1jb21wb25lbnRzPTEgLXhmIC4uL2Fsc2EtdWNtLWNvbmYtMS4yLjEyLnRhci5iejINCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQppbnN0YWxsIC12IC1kIC1tNzU1IC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xMi9odG1sL3NlYXJjaCAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2MvZG94eWdlbi9odG1sLyouKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjEyL2h0bWwgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2RveHlnZW4vaHRtbC9zZWFyY2gvKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjEyL2h0bWwvc2VhcmNoDQoNCmZp</install>
+  <install>bWFrZSBpbnN0YWxsDQoNCnRhciAtQyAvdXNyL3NoYXJlL2Fsc2EgLS1zdHJpcC1jb21wb25lbnRzPTEgLXhmIC4uL2Fsc2EtdWNtLWNvbmYtMS4yLjEzLnRhci5iejINCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQppbnN0YWxsIC12IC1kIC1tNzU1IC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xMy9odG1sL3NlYXJjaCAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2MvZG94eWdlbi9odG1sLyouKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjEzL2h0bWwgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2RveHlnZW4vaHRtbC9zZWFyY2gvKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjEzL2h0bWwvc2VhcmNoDQoNCmZp</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -18,7 +18,7 @@
   </dependances>
   <patches/>
   <addons>
-    <addon>alsa-ucm-conf-1.2.12.tar.bz2</addon>
+    <addon>alsa-ucm-conf-1.2.13.tar.bz2</addon>
   </addons>
   <nestings/>
   <comments/>

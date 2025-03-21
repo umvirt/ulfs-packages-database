@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libcap-ng</code>
+      <code>libcap</code>
       <weight>3</weight>
     </dependance>
     <dependance>

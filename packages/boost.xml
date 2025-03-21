@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>boost</code>
   <description>Qm9vc3QgcHJvdmlkZXMgYSBzZXQgb2YgZnJlZSBwZWVyLXJldmlld2VkIHBvcnRhYmxlIEMrKyBzb3VyY2UgbGlicmFyaWVzLiBJdCBpbmNsdWRlcyBsaWJyYXJpZXMgZm9yIGxpbmVhciBhbGdlYnJhLCBwc2V1ZG9yYW5kb20gbnVtYmVyIGdlbmVyYXRpb24sIG11bHRpdGhyZWFkaW5nLCBpbWFnZSBwcm9jZXNzaW5nLCByZWd1bGFyIGV4cHJlc3Npb25zIGFuZCB1bml0IHRlc3Rpbmcu</description>
-  <sourcefile>boost-1.86.0-b2-nodocs.tar.xz</sourcefile>
-  <sourcedir>boost-1.86.0</sourcedir>
+  <sourcefile>boost-1.87.0-b2-nodocs.tar.xz</sourcefile>
+  <sourcedir>boost-1.87.0</sourcedir>
   <unpack/>
   <configure>Y2FzZSAkKHVuYW1lIC1tKSBpbg0KICAgaT84NikNCiAgICAgIHNlZCAtZSAicy9kZWZpbmVkKF9fTUlOR1czMl9fKS8mIHx8IGRlZmluZWQoX19pMzg2X18pLyIgXA0KICAgICAgICAgIC1pIC4vbGlicy9zdGFja3RyYWNlL3NyYy9leGNlcHRpb25faGVhZGVycy5oIDs7DQplc2FjDQoNCi4vYm9vdHN0cmFwLnNoIC0tcHJlZml4PS91c3IgLS13aXRoLXB5dGhvbj1weXRob24zIA0K</configure>
   <build>Li9iMiBzdGFnZSAtamBucHJvY2AgdGhyZWFkaW5nPW11bHRpIGxpbms9c2hhcmVk</build>
@@ -20,12 +20,7 @@
       <weight>2</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>boost-1.86.0-upstream_fixes-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

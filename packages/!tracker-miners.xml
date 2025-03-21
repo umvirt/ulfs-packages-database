@@ -1,74 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>gnome-shell</code>
-  <description>VGhlIEdOT01FIFNoZWxsIGlzIHRoZSBjb3JlIHVzZXIgaW50ZXJmYWNlIG9mIHRoZSBHTk9NRSBEZXNrdG9wIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>gnome-shell-46.4.tar.xz</sourcefile>
-  <sourcedir>gnome-shell-46.4</sourcedir>
+  <code>!tracker-miners</code>
+  <description>VGhlIFRyYWNrZXItbWluZXJzIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgZGF0YSBleHRyYWN0b3JzIGZvciBUcmFja2VyLg==</description>
+  <sourcefile>tracker-miners-3.7.3.tar.xz</sourcefile>
+  <sourcedir>tracker-miners-3.7.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRHRlc3RzPWZhbHNlICAgICAgIFwNCiAgICAgICAgICAgIC4uICAgICA=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCBtYW49ZmFsc2UgICAgICAgIFwNCiAgICAgICAgICAgIC1EIG1pbmVyX3Jzcz1mYWxzZSAgXA0KICAgICAgICAgICAgLi4gICAgICAgIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>startup-notification</code>
+      <code>icu</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>polkit</code>
+      <code>libexif</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>desktop-file-utils</code>
+      <code>libseccomp</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gcr4</code>
+      <code>gst-plugins-base</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>!gjs</code>
+      <code>!tracker</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>gnome-autoar</code>
+      <code>!exempi</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>gnome-desktop</code>
+      <code>gexiv2</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>gst-plugins-base</code>
+      <code>giflib</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>evolution-data-server</code>
+      <code>gst-libav</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>gnome-bluetooth</code>
+      <code>!libgrss</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>NetworkManager</code>
+      <code>libgxps</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>ibus</code>
+      <code>poppler</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>mutter</code>
+      <code>upower</code>
       <weight>13</weight>
     </dependance>
-    <dependance>
-      <code>sassc</code>
-      <weight>14</weight>
-    </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>tracker-miners-3.7.3-upstream_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

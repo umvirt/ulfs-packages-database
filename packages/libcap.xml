@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libcap</code>
+  <description>VGhlIGxpYmNhcCBwYWNrYWdlIHdhcyBpbnN0YWxsZWQgaW4gTEZTLCBidXQgaWYgTGludXgtUEFNIHN1cHBvcnQgaXMgZGVzaXJlZCwgdGhlIFBBTSBtb2R1bGUgbXVzdCBiZSBidWlsdCAoYWZ0ZXIgaW5zdGFsbGF0aW9uIG9mIExpbnV4LVBBTSku</description>
+  <sourcefile>libcap-2.73.tar.xz</sourcefile>
+  <sourcedir>libcap-2.73</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyBwYW1fY2FwDQo=</build>
+  <install>aW5zdGFsbCAtdiAtbTc1NSBwYW1fY2FwL3BhbV9jYXAuc28gL3Vzci9saWIvc2VjdXJpdHkgJiYNCmluc3RhbGwgLXYgLW02NDQgcGFtX2NhcC9jYXBhYmlsaXR5LmNvbmYgL2V0Yy9zZWN1cml0eQ0KDQptdiAtdiAvZXRjL3BhbS5kL3N5c3RlbS1hdXRoeywuYmFrfSAmJg0KY2F0ID4gL2V0Yy9wYW0uZC9zeXN0ZW0tYXV0aCA8PCAiRU9GIiAmJg0KIyBCZWdpbiAvZXRjL3BhbS5kL3N5c3RlbS1hdXRoDQoNCmF1dGggICAgICBvcHRpb25hbCAgICBwYW1fY2FwLnNvDQpFT0YNCnRhaWwgLW4gKzMgL2V0Yy9wYW0uZC9zeXN0ZW0tYXV0aC5iYWsgPj4gL2V0Yy9wYW0uZC9zeXN0ZW0tYXV0aA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

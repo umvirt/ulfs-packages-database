@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>python3-six</code>
   <description>U2l4IGlzIGEgUHl0aG9uIDIgdG8gMyBjb21wYXRpYmlsaXR5IGxpYnJhcnku</description>
-  <sourcefile>six-1.16.0.tar.gz</sourcefile>
-  <sourcedir>six-1.16.0</sourcedir>
+  <sourcefile>six-1.17.0.tar.gz</sourcefile>
+  <sourcedir>six-1.17.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

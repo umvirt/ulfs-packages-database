@@ -1,87 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>gnome-settings-daemon</code>
-  <description>VGhlIEdOT01FIFNldHRpbmdzIERhZW1vbiBpcyByZXNwb25zaWJsZSBmb3Igc2V0dGluZyB2YXJpb3VzIHBhcmFtZXRlcnMgb2YgYSBHTk9NRSBTZXNzaW9uIGFuZCB0aGUgYXBwbGljYXRpb25zIHRoYXQgcnVuIHVuZGVyIGl0Lg==</description>
-  <sourcefile>gnome-settings-daemon-46.0.tar.xz</sourcefile>
-  <sourcedir>gnome-settings-daemon-46.0</sourcedir>
+  <code>!gnome-control-center</code>
+  <description>VGhlIEdOT01FIENvbnRyb2wgQ2VudGVyIHBhY2thZ2UgY29udGFpbnMgdGhlIEdOT01FIHNldHRpbmdzIG1hbmFnZXIu</description>
+  <sourcefile>gnome-control-center-46.4.tar.xz</sourcefile>
+  <sourcedir>gnome-control-center-46.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg==</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <build>Y2QgICAgYnVpbGQgDQpuaW5qYQ0K</build>
+  <install>Y2QgICAgYnVpbGQgDQpuaW5qYSBpbnN0YWxsDQo=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>fontconfig</code>
+      <code>krb5</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>wayland</code>
+      <code>shared-mime-info</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gcr4</code>
+      <code>ModemManager</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>geocode-glib</code>
+      <code>gnome-online-accounts</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>gnome-desktop</code>
+      <code>libgtop</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>alsa-lib</code>
+      <code>gsound</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>lcms2</code>
+      <code>udisks</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>geoclue</code>
+      <code>libadwaita</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>libgweather</code>
+      <code>gnome-bluetooth</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>nss</code>
+      <code>cups</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>libcanberra</code>
+      <code>!gnome-settings-daemon</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>pulseaudio</code>
+      <code>accountsservice</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>libnotify</code>
+      <code>colord-gtk</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>upower</code>
+      <code>libpwquality</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>colord</code>
+      <code>samba</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>libwacom</code>
+      <code>libnma</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>cups</code>
+      <code>ibus</code>
       <weight>17</weight>
-    </dependance>
-    <dependance>
-      <code>NetworkManager</code>
-      <weight>18</weight>
     </dependance>
   </dependances>
   <patches/>

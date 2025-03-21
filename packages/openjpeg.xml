@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>openjpeg</code>
   <description>T3BlbkpQRUcgaXMgYW4gb3Blbi1zb3VyY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIEpQRUctMjAwMCBzdGFuZGFyZC4gT3BlbkpQRUcgZnVsbHkgcmVzcGVjdHMgdGhlIEpQRUctMjAwMCBzcGVjaWZpY2F0aW9ucyBhbmQgY2FuIGNvbXByZXNzL2RlY29tcHJlc3MgbG9zc2xlc3MgMTYtYml0IGltYWdlcy4=</description>
-  <sourcefile>openjpeg-2.5.2.tar.gz</sourcefile>
-  <sourcedir>openjpeg-2.5.2</sourcedir>
+  <sourcefile>openjpeg-2.5.3.tar.gz</sourcefile>
+  <sourcedir>openjpeg-2.5.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCkFSR19TVEFUSUM9Ii1EQlVJTERfU1RBVElDX0xJQlM9T0ZGIg0KaWYgW1sgIiRVTEZTX1BLR19TVEFUSUMiID09ICJZRVMiIF1dDQp0aGVuDQogICAgQVJHX1NUQVRJQz0iLURCVUlMRF9TVEFUSUNfTElCUz1PTiINCmZpDQoNCg0KY21ha2UgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICRBUkdfU1RBVElDIC4u</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2Ug</build>

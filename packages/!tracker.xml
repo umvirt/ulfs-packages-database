@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>tracker</code>
+  <code>!tracker</code>
   <description>VHJhY2tlciBpcyB0aGUgZmlsZSBpbmRleGluZyBhbmQgc2VhcmNoIHByb3ZpZGVyIHVzZWQgaW4gdGhlIEdOT01FIGRlc2t0b3AgZW52aXJvbm1lbnQu</description>
   <sourcefile>tracker-3.7.3.tar.xz</sourcefile>
   <sourcedir>tracker-3.7.3</sourcedir>

@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>gnome-bluetooth</code>
   <description>VGhlIEdOT01FIEJsdWV0b290aCBwYWNrYWdlIGNvbnRhaW5zIHRvb2xzIGZvciBtYW5hZ2luZyBhbmQgbWFuaXB1bGF0aW5nIEJsdWV0b290aCBkZXZpY2VzIHVzaW5nIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
-  <sourcefile>gnome-bluetooth-46.1.tar.xz</sourcefile>
-  <sourcedir>gnome-bluetooth-46.1</sourcedir>
+  <sourcefile>gnome-bluetooth-47.1.tar.xz</sourcefile>
+  <sourcedir>gnome-bluetooth-47.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiAmJg0KbmluamE=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

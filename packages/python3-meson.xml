@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>python3-meson</code>
   <description>TWVzb24gUHl0aG9uIGJ1aWxkIGJhY2tlbmQ=</description>
-  <sourcefile>meson_python-0.16.0.tar.gz</sourcefile>
-  <sourcedir>meson_python-0.16.0</sourcedir>
+  <sourcefile>meson_python-0.17.1.tar.gz</sourcefile>
+  <sourcedir>meson_python-0.17.1</sourcedir>
   <unpack/>
-  <configure>c2VkIC1lICcvbmluamEvZCcgLWkgcHlwcm9qZWN0LnRvbWw=</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>I3BpcDMgaW5zdGFsbCAtLW5vLWluZGV4IC0tbm8tY2FjaGUtZGlyIC0tbm8tdXNlciBtZXNvbi1weXRob24NCg0KcHl0aG9uMyAtbSBpbnN0YWxsZXIgZGlzdC8qLndobA==</install>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIG1lc29uX3B5dGhvbg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

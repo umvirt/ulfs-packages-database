@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>wpebackend-fdo</code>
-  <description>VGhlIHdwZWJhY2tlbmQtZmRvIHBhY2thZ2UgY29udGFpbnMgdGhlIEZyZWVkZXNrdG9wLm9yZyBiYWNrZW5kIGZvciBXUEUgV2ViS2l0IGFuZCB0aGUgV1BFIHJlbmRlcmVyLg0KDQo=</description>
-  <sourcefile>wpebackend-fdo-1.14.2.tar.xz</sourcefile>
-  <sourcedir>wpebackend-fdo-1.14.2</sourcedir>
+  <code>!libwpe</code>
+  <description>VGhlIGxpYndwZSBwYWNrYWdlIGNvbnRhaW5zIGEgZ2VuZXJhbCBwdXJwb3NlIGxpYnJhcnkgZm9yIFdQRSBXZWJLaXQgYW5kIHRoZSBXUEUgUmVuZGVyZXIu</description>
+  <sourcefile>libwpe-1.14.2.tar.xz</sourcefile>
+  <sourcedir>libwpe-1.14.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
@@ -12,16 +12,12 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>wayland-protocols</code>
+      <code>mesa</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libepoxy</code>
+      <code>libxkbcommon</code>
       <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>libwpe</code>
-      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>SDL2</code>
   <description>VGhlIFNpbXBsZSBEaXJlY3RNZWRpYSBMYXllciBWZXJzaW9uIDIgKFNETDIgZm9yIHNob3J0KSBpcyBhIGNyb3NzLXBsYXRmb3JtIGxpYnJhcnkgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXN5IHRvIHdyaXRlIG11bHRpbWVkaWEgc29mdHdhcmUsIHN1Y2ggYXMgZ2FtZXMgYW5kIGVtdWxhdG9ycy4=</description>
-  <sourcefile>SDL2-2.30.6.tar.gz</sourcefile>
-  <sourcedir>SDL2-2.30.6</sourcedir>
+  <sourcefile>SDL2-2.30.11.tar.gz</sourcefile>
+  <sourcedir>SDL2-2.30.11</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICJcJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItLWVuYWJsZS1zdGF0aWMiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElD</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgZG9jcw0KDQpmaQ==</build>
-  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAmJg0KDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAgICAgICAgL3Vzci9zaGFyZS9kb2MvU0RMMi0yLjMwLjYvaHRtbCAmJg0KY3AgLVJ2ICBkb2NzL291dHB1dC9odG1sLyogL3Vzci9zaGFyZS9kb2MvU0RMMi0yLjMwLjYvaHRtbA0KDQpmaQ==</install>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAmJg0KDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAgICAgICAgL3Vzci9zaGFyZS9kb2MvU0RMMi0yLjMwLjExL2h0bWwgJiYNCmNwIC1SdiAgZG9jcy9vdXRwdXQvaHRtbC8qIC91c3Ivc2hhcmUvZG9jL1NETDItMi4zMC4xMS9odG1sDQoNCmZp</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>bluez</code>
   <description>VGhlIEJsdWVaIHBhY2thZ2UgY29udGFpbnMgdGhlIEJsdWV0b290aCBwcm90b2NvbCBzdGFjayBmb3IgTGludXgu</description>
-  <sourcefile>bluez-5.77.tar.xz</sourcefile>
-  <sourcedir>bluez-5.77</sourcedir>
+  <sourcefile>bluez-5.79.tar.xz</sourcefile>
+  <sourcedir>bluez-5.79</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICBcDQogICAgICAgICAgICAtLWxvY2Fsc3RhdGVkaXI9L3ZhciAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLW1hbnBhZ2VzICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWxpYnJhcnkgIA==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>

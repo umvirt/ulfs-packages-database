@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>flac</code>
   <description>RkxBQyBpcyBhbiBhdWRpbyBDT0RFQyBzaW1pbGFyIHRvIE1QMywgYnV0IGxvc3NsZXNzLCBtZWFuaW5nIHRoYXQgYXVkaW8gaXMgY29tcHJlc3NlZCB3aXRob3V0IGxvc2luZyBhbnkgaW5mb3JtYXRpb24u</description>
-  <sourcefile>flac-1.4.3.tar.xz</sourcefile>
-  <sourcedir>flac-1.4.3</sourcedir>
+  <sourcefile>flac-1.5.0.tar.xz</sourcefile>
+  <sourcedir>flac-1.5.0</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXRob3JvdWdoLXRlc3RzICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZmxhYy0xLjQuMyA=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXRob3JvdWdoLXRlc3RzICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZmxhYy0xLjUuMCA=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

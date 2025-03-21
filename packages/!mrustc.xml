@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>mrustc</code>
+  <code>!mrustc</code>
   <description>TXV0YWJhaCdzIFJ1c3QgQ29tcGlsZXIgaXMgaW4tcHJvZ3Jlc3MgYWx0ZXJuYXRpdmUgcnVzdCBjb21waWxlci4gQ2FwYWJsZSBvZiBidWlsZGluZyBhIGZ1bGx5LXdvcmtpbmcgY29weSBvZiBydXN0YywgYnV0IG5vdCBzdWl0YWJsZSBmb3IgZXZlcnlkYXkgdXNlIChkdWUgdG8gdGVycmlibGUgZXJyb3IgbWVzc2FnZXMpLg==</description>
   <sourcefile>mrust-bf20f57582638fcaef5fd3428ec819b22708aff6.tar.xz</sourcefile>
   <sourcedir>mrust-bf20f57582638fcaef5fd3428ec819b22708aff6</sourcedir>

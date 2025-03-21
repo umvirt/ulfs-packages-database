@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>upower</code>
   <description>VGhlIFVQb3dlciBwYWNrYWdlIHByb3ZpZGVzIGFuIGludGVyZmFjZSBmb3IgZW51bWVyYXRpbmcgcG93ZXIgZGV2aWNlcywgbGlzdGVuaW5nIHRvIGRldmljZSBldmVudHMgYW5kIHF1ZXJ5aW5nIGhpc3RvcnkgYW5kIHN0YXRpc3RpY3MuIEFueSBhcHBsaWNhdGlvbiBvciBzZXJ2aWNlIG9uIHRoZSBzeXN0ZW0gY2FuIGFjY2VzcyB0aGUgb3JnLmZyZWVkZXNrdG9wLlVQb3dlciBzZXJ2aWNlIHZpYSB0aGUgc3lzdGVtIG1lc3NhZ2UgYnVzLg==</description>
-  <sourcefile>upower-v1.90.4.tar.bz2</sourcefile>
-  <sourcedir>upower-v1.90.4</sourcedir>
+  <sourcefile>upower-v1.90.7.tar.bz2</sourcefile>
+  <sourcedir>upower-v1.90.7</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmNkICAgIGJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAgICYmDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAtRCBndGstZG9jPWZhbHNlICAgIFwNCiAgICAgIC1EIG1hbj1mYWxzZSAg</configure>
   <build>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgTENfQUxMPUMgbmluamEgdGVzdA0KZmk=</build>

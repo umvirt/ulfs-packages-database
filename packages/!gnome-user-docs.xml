@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>gnome-user-docs</code>
+  <code>!gnome-user-docs</code>
   <description>VGhlIEdOT01FIFVzZXIgRG9jcyBwYWNrYWdlIGNvbnRhaW5zIGRvY3VtZW50YXRpb24gZm9yIEdOT01FLg==</description>
   <sourcefile>gnome-user-docs-46.4.tar.xz</sourcefile>
   <sourcedir>gnome-user-docs-46.4</sourcedir>

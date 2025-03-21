@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>nautilus</code>
+  <code>!nautilus</code>
   <description/>
   <sourcefile>nautilus-46.2.tar.xz</sourcefile>
   <sourcedir>nautilus-46.2</sourcedir>
@@ -44,11 +44,11 @@
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>tracker</code>
+      <code>!tracker</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>exempi</code>
+      <code>!exempi</code>
       <weight>10</weight>
     </dependance>
     <dependance>
@@ -60,7 +60,7 @@
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>libcloudproviders</code>
+      <code>!libcloudproviders</code>
       <weight>13</weight>
     </dependance>
     <dependance>
@@ -68,7 +68,7 @@
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>libportal</code>
+      <code>!libportal</code>
       <weight>15</weight>
     </dependance>
   </dependances>

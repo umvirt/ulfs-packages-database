@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libnl</code>
   <description>VGhlIGxpYm5sIHN1aXRlIGlzIGEgY29sbGVjdGlvbiBvZiBsaWJyYXJpZXMgcHJvdmlkaW5nIEFQSXMgdG8gbmV0bGluayBwcm90b2NvbCBiYXNlZCBMaW51eCBrZXJuZWwgaW50ZXJmYWNlcy4=</description>
-  <sourcefile>libnl-3.10.0.tar.gz</sourcefile>
-  <sourcedir>libnl-3.10.0</sourcedir>
+  <sourcefile>libnl-3.11.0.tar.gz</sourcefile>
+  <sourcedir>libnl-3.11.0</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElD</configure>
   <build/>
@@ -13,7 +13,7 @@
   <dependances/>
   <patches/>
   <addons>
-    <addon>libnl-doc-3.10.0.tar.gz</addon>
+    <addon>libnl-doc-3.11.0.tar.gz</addon>
   </addons>
   <nestings/>
   <comments/>

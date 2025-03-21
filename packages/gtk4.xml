@@ -2,11 +2,11 @@
 <package>
   <release>0.2.3</release>
   <code>gtk4</code>
-  <description/>
-  <sourcefile>gtk-4.14.5.tar.xz</sourcefile>
-  <sourcedir>gtk-4.14.5</sourcedir>
+  <description>VGhlIEdUSyA0IHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHVzZWQgZm9yIGNyZWF0aW5nIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZXMgZm9yIGFwcGxpY2F0aW9ucy4=</description>
+  <sourcefile>gtk-4.16.12.tar.xz</sourcefile>
+  <sourcedir>gtk-4.16.12.tar.xz</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgXA0KICAgICAgICAgICAgLUQgYnJvYWR3YXktYmFja2VuZD10cnVlIFwNCiAgICAgICAgICAgIC1EIGludHJvc3BlY3Rpb249ZW5hYmxlZCBcDQogICAgICAgICAgICAtRCB2dWxrYW49ZGlzYWJsZWQgICAgICAgXA0KICAgICAgICAgICAgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgXA0KICAgICAgICAgICAgLUQgYnJvYWR3YXktYmFja2VuZD10cnVlIFwNCiAgICAgICAgICAgIC1EIGludHJvc3BlY3Rpb249ZW5hYmxlZCBcDQogICAgICAgICAgICAtRCB2dWxrYW49ZW5hYmxlZCAgICAgICAgXA0KICAgICAgICAgICAgLi4g</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkICJzQCdkb2MnQCYgLyAnZ3RrLTQuMTQuNSdAIiAtaSAuLi9kb2NzL3JlZmVyZW5jZS9tZXNvbi5idWlsZCAmJg0KbWVzb24gY29uZmlndXJlIC1EIGRvY3VtZW50YXRpb249dHJ1ZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KbmluamENCg0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>

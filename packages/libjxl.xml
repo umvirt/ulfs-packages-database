@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libjxl</code>
+  <description>VGhlIGxpYmp4bCBwYWNrYWdlIGNvbnRhaW5zIHRoZSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIEpQRUcgWEwgaW1hZ2UgZm9ybWF0Lg==</description>
+  <sourcefile>libjxl-0.11.1.tar.gz</sourcefile>
+  <sourcedir>libjxl-0.11.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgICAgICBcDQogICAgICAtRCBCVUlMRF9URVNUSU5HPU9GRiAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgICAgICAgICAgXA0KICAgICAgLUQgSlBFR1hMX0VOQUJMRV9TS0NNUz1PRkYgICAgICAgICAgICAgICBcDQogICAgICAtRCBKUEVHWExfRU5BQkxFX1NKUEVHPU9GRiAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEpQRUdYTF9FTkFCTEVfUExVR0lOUz1PTiAgICAgICAgICAgICAgXA0KICAgICAgLUQgSlBFR1hMX0lOU1RBTExfSkFSRElSPS91c3Ivc2hhcmUvamF2YSBcDQogICAgICAtRyBOaW5qYSAuLiA=</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQNCg0KbmluamEgaW5zdGFsbCAmJg0KZ2RrLXBpeGJ1Zi1xdWVyeS1sb2FkZXJzIC0tdXBkYXRlLWNhY2hl</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gdk-pixbuf</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>brotli</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>giflib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>highway</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

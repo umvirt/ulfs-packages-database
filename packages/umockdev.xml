@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>umockdev</code>
   <description/>
-  <sourcefile>umockdev-0.18.3.tar.xz</sourcefile>
-  <sourcedir>umockdev-0.18.3</sourcedir>
+  <sourcefile>umockdev-0.19.1.tar.xz</sourcefile>
+  <sourcedir>umockdev-0.19.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

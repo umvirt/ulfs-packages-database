@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>gnome-autoar</code>
   <description>VGhlIGdub21lLWF1dG9hciBwYWNrYWdlIHByb3ZpZGVzIGEgZnJhbWV3b3JrIGZvciBhdXRvbWF0aWMgYXJjaGl2ZSBleHRyYWN0aW9uLCBjb21wcmVzc2lvbiwgYW5kIG1hbmFnZW1lbnQu</description>
-  <sourcefile>gnome-autoar-0.4.4.tar.xz</sourcefile>
-  <sourcedir>gnome-autoar-0.4.4</sourcedir>
+  <sourcefile>gnome-autoar-0.4.5.tar.xz</sourcefile>
+  <sourcedir>gnome-autoar-0.4.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRHZhcGk9dHJ1ZSAgICAgICAgIFwNCiAgICAgICAgICAgIC1EdGVzdHM9dHJ1ZSAgICAgICAgXA0KICAgICAgICAgICAgLi4gICAgICAg</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

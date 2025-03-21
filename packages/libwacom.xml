@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libwacom</code>
   <description>VGhlIGxpYndhY29tIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHVzZWQgdG8gaWRlbnRpZnkgd2Fjb20gdGFibGV0cyBhbmQgdGhlaXIgbW9kZWwtc3BlY2lmaWMgZmVhdHVyZXMu</description>
-  <sourcefile>libwacom-2.12.2.tar.xz</sourcefile>
-  <sourcedir>libwacom-2.12.2</sourcedir>
+  <sourcefile>libwacom-2.14.0.tar.xz</sourcefile>
+  <sourcedir>libwacom-2.14.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EdGVzdHM9ZGlzYWJsZWQg</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

@@ -325,8 +325,8 @@
     <package>ruby</package>
     <package>unifdef</package>
     <package>which</package>
-    <package>libwpe</package>
-    <package>wpebackend-fdo</package>
+    <package>!libwpe</package>
+    <package>!wpebackend-fdo</package>
     <package>aspell-app</package>
     <package>aspell-en</package>
     <package>aspell</package>
@@ -344,25 +344,25 @@
     <package>webkitgtk4</package>
     <package>webkitgtk</package>
     <package>gnome-online-accounts</package>
-    <package>grilo</package>
+    <package>!grilo</package>
     <package>cogl</package>
     <package>clutter</package>
     <package>clutter-gtk</package>
-    <package>libchamplain</package>
-    <package>libgdata</package>
+    <package>!libchamplain</package>
+    <package>!libgdata</package>
     <package>libgee</package>
     <package>libgtop</package>
-    <package>libgweather</package>
+    <package>!libgweather</package>
     <package>libpeas</package>
-    <package>libshumate</package>
+    <package>!libshumate</package>
     <package>libwnck3</package>
     <package>libical</package>
     <package>nss</package>
     <package>libcanberra</package>
-    <package>evolution-data-server</package>
-    <package>tracker</package>
+    <package>!evolution-data-server</package>
+    <package>!tracker</package>
     <package>boost</package>
-    <package>exempi</package>
+    <package>!exempi</package>
     <package>brotli</package>
     <package>inih</package>
     <package>exiv2</package>
@@ -379,12 +379,12 @@
     <package>libvdpau</package>
     <package>libvpx</package>
     <package>gst-libav</package>
-    <package>libgrss</package>
+    <package>!libgrss</package>
     <package>libgxps</package>
     <package>poppler-app</package>
     <package>poppler-data</package>
     <package>poppler</package>
-    <package>tracker-miners</package>
+    <package>!tracker-miners</package>
     <package>flac</package>
     <package>mpg123</package>
     <package>libsndfile</package>
@@ -418,10 +418,10 @@
     <package>udisks</package>
     <package>gvfs</package>
     <package>libadwaita</package>
-    <package>libcloudproviders</package>
+    <package>!libcloudproviders</package>
     <package>libnotify</package>
-    <package>libportal</package>
-    <package>nautilus</package>
+    <package>!libportal</package>
+    <package>!nautilus</package>
     <package>upower</package>
     <package>bluez</package>
     <package>gnome-bluetooth</package>
@@ -446,7 +446,7 @@
     <package>newt</package>
     <package>wpa_supplicant</package>
     <package>NetworkManager</package>
-    <package>gnome-settings-daemon</package>
+    <package>!gnome-settings-daemon</package>
     <package>accountsservice</package>
     <package>colord-gtk</package>
     <package>cracklib</package>
@@ -458,25 +458,25 @@
     <package>gpgme</package>
     <package>samba</package>
     <package>libnma</package>
-    <package>gnome-control-center</package>
+    <package>!gnome-control-center</package>
     <package>ibus</package>
     <package>sbc</package>
     <package>v4l-utils</package>
     <package>pipewire</package>
-    <package>mutter</package>
+    <package>!mutter</package>
     <package>libsass</package>
     <package>sassc</package>
-    <package>gnome-shell</package>
-    <package>gnome-shell-extensions</package>
-    <package>gnome-session</package>
+    <package>!gnome-shell</package>
+    <package>!gnome-shell-extensions</package>
+    <package>!gnome-session</package>
     <package>sound-theme-freedesktop</package>
-    <package>gnome-tweaks</package>
-    <package>gnome-user-docs</package>
+    <package>!gnome-tweaks</package>
+    <package>!gnome-user-docs</package>
     <package>yelp</package>
     <package>doxygen</package>
     <package>AppStream</package>
     <package>libxmlb</package>
-    <package>libstemmer</package>
+    <package>!libstemmer</package>
     <package>qt5</package>
     <package>alsa-plugins</package>
     <package>alsa-utils</package>
@@ -489,11 +489,11 @@
     <package>python3-numpy</package>
     <package>python3-cffi</package>
     <package>python3-pycparser</package>
-    <package>mrustc</package>
+    <package>!mrustc</package>
     <package>distcc</package>
     <package>libiberty</package>
     <package>icecc</package>
-    <package>libcap-ng</package>
+    <package>libcap</package>
     <package>lzo</package>
     <package>!icecream-sundae</package>
     <package>icemon</package>
@@ -1019,5 +1019,8 @@
     <package>libunibreak</package>
     <package>utf8proc</package>
     <package>python3-pyyaml</package>
+    <package>LMDB</package>
+    <package>highway</package>
+    <package>libjxl</package>
   </packages>
 </packages>

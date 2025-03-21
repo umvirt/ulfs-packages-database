@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>ruby</code>
   <description>VGhlIFJ1YnkgcGFja2FnZSBjb250YWlucyB0aGUgUnVieSBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4gVGhpcyBpcyB1c2VmdWwgZm9yIG9iamVjdC1vcmllbnRlZCBzY3JpcHRpbmcu</description>
-  <sourcefile>ruby-3.3.4.tar.xz</sourcefile>
-  <sourcedir>ruby-3.3.4</sourcedir>
+  <sourcefile>ruby-3.4.2.tar.xz</sourcefile>
+  <sourcedir>ruby-3.4.2</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1ycGF0aCAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgICAgICAgXA0KICAgICAgICAgICAgLS13aXRob3V0LXZhbGdyaW5kICAgIFwNCiAgICAgICAgICAgIC0td2l0aG91dC1iYXNlcnVieSAgICBcDQogICAgICAgICAgICBhY19jdl9mdW5jX3Fzb3J0X3I9bm8gXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvcnVieS0zLjMuNCA=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1ycGF0aCAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgICAgICAgXA0KICAgICAgICAgICAgLS13aXRob3V0LXZhbGdyaW5kICAgIFwNCiAgICAgICAgICAgIC0td2l0aG91dC1iYXNlcnVieSAgICBcDQogICAgICAgICAgICBhY19jdl9mdW5jX3Fzb3J0X3I9bm8gXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvcnVieS0zLjQuMg0K</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgY2FwaQ0KDQpmaQ==</build>
   <install/>
   <localbuild>0</localbuild>
