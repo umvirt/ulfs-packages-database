@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>glslc</code>
+  <description>VGhlIGdsc2xjIHByb2dyYW0gaXMgR29vZ2xlJ3MgY29tbWFuZCBsaW5lIGNvbXBpbGVyIGZvciBPcGVuR0wgU2hhZGluZyBMYW5ndWFnZS9IaWdoIExldmVsIFNoYWRpbmcgTGFuZ3VhZ2UgKEdMU0wvSExTTCkgdG8gU3RhbmRhcmQgUG9ydGFibGUgSW50ZXJtZWRpYXRlIFJlcHJlc2VudGF0aW9uIChTUElSLVYpLg==</description>
+  <sourcefile>shaderc-2024.4.tar.gz</sourcefile>
+  <sourcedir>shaderc-2024.4</sourcedir>
+  <unpack/>
+  <configure>c2VkICcvYnVpbGQtdmVyc2lvbi9kJyAgIC1pIGdsc2xjL0NNYWtlTGlzdHMudHh0ICAgICAgICAgICAgJiYNCnNlZCAnL3RoaXJkX3BhcnR5L2QnICAgICAtaSBDTWFrZUxpc3RzLnR4dCAgICAgICAgICAgICAgICAgICYmDQpzZWQgJ3N8U1BJUlZ8Z2xzbGFuZy8mfCcgLWkgbGlic2hhZGVyY191dGlsL3NyYy9jb21waWxlci5jYyAmJg0KDQplY2hvICciMjAyNC40IicgPiBnbHNsYy9zcmMvYnVpbGQtdmVyc2lvbi5pbmMNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBTSEFERVJDX1NLSVBfVEVTVFM9T04gICAgIFwNCiAgICAgIC1HIE5pbmphIC4u</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQNCmluc3RhbGwgLXZtNzU1IGdsc2xjL2dsc2xjIC91c3IvYmlu</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SPIRV-Tools</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glslang</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

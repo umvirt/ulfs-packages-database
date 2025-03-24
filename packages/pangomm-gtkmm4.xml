@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>pangomm-2.54</code>
+  <code>pangomm-gtkmm4</code>
   <description>VGhlIFBhbmdvbW0gcGFja2FnZSBwcm92aWRlcyBhIEMrKyBpbnRlcmZhY2UgdG8gUGFuZ28uIFRoaXMgdmVyc2lvbiBpcyBwYXJ0IG9mIGEgbmV3IEFQSSBmb3Igc3VwcG9ydGluZyBndGttbS00Lg==</description>
-  <sourcefile>pangomm-2.54.0.tar.xz</sourcefile>
-  <sourcedir>pangomm-2.54.0</sourcedir>
+  <sourcefile>pangomm-2.56.1.tar.xz</sourcefile>
+  <sourcedir>pangomm-2.56.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
@@ -16,11 +16,11 @@
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>cairomm16</code>
+      <code>cairomm-gtkmm4</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>glibmm-2.80</code>
+      <code>glibmm-gtkmm4</code>
       <weight>3</weight>
     </dependance>
   </dependances>

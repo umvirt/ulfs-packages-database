@@ -12,6 +12,14 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>pluma-plugins</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mate-user-guide</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>X</code>
       <weight>1</weight>
     </dependance>
@@ -92,7 +100,7 @@
       <weight>20</weight>
     </dependance>
     <dependance>
-      <code>mate-user-guide</code>
+      <code>mate-user-share</code>
       <weight>21</weight>
     </dependance>
     <dependance>

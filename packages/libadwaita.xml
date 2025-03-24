@@ -12,6 +12,14 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>libsass</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>sassc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>vala</code>
       <weight>1</weight>
     </dependance>

@@ -2,20 +2,15 @@
 <package>
   <release>0.2.3</release>
   <code>mate-user-guide</code>
-  <description>TWF0ZSB1c2VyIGd1aWRl</description>
-  <sourcefile>mate-user-share-1.28.0.tar.xz</sourcefile>
-  <sourcedir>mate-user-share-1.28.0</sourcedir>
+  <description>VGhpcyBwYWNrYWdlIGNvbnRhaW5zIGRvY3VtZW50cyB3aGljaCB3aWxsIGJlIHBhY2thZ2VkIHRvZ2V0aGVyIGFuZA0Kc2hpcHBlZCBhcyBtYXRlLXVzZXItZ3VpZGUgaW4gdGhlIGNvcmUgTUFURSBkaXN0cmlidXRpb24u</description>
+  <sourcefile>mate-user-guide-1.28.0.tar.xz</sourcefile>
+  <sourcedir>mate-user-guide-1.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <dependances>
-    <dependance>
-      <code>caja</code>
-      <weight>1</weight>
-    </dependance>
-  </dependances>
+  <dependances/>
   <patches/>
   <addons/>
   <nestings/>

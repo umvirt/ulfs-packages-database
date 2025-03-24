@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>libgnome-keyring</code>
   <description>R05PTUUga2V5cmluZyBzZXJ2aWNlcyBsaWJyYXJ5</description>
-  <sourcefile>libgnome-keyring-23438cc767a744f29aeaf8cb8746f8d5ce9cdb32.tar.gz</sourcefile>
-  <sourcedir>libgnome-keyring-23438cc767a744f29aeaf8cb8746f8d5ce9cdb32</sourcedir>
+  <sourcefile>libgnome-keyring-3.12.0.tar.xz</sourcefile>
+  <sourcedir>libgnome-keyring-3.12.0</sourcedir>
   <unpack/>
-  <configure>Tk9DT05GSUdVUkU9MSAuL2F1dG9nZW4uc2gNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg0K</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS12YWxhPW5v</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

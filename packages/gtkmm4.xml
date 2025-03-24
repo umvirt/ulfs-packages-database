@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>gtkmm4</code>
   <description>VGhlIEd0a21tIHBhY2thZ2UgcHJvdmlkZXMgYSBDKysgaW50ZXJmYWNlIHRvIEdUSy00Lg0KDQo=</description>
-  <sourcefile>gtkmm-4.14.0.tar.xz</sourcefile>
-  <sourcedir>gtkmm-4.14.0</sourcedir>
+  <sourcefile>gtkmm-4.16.0.tar.xz</sourcefile>
+  <sourcedir>gtkmm-4.16.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgZ3RrbW00LWJ1aWxkICYmDQpjZCAgICBndGttbTQtYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
   <build>Y2QgICAgZ3RrbW00LWJ1aWxkDQpuaW5qYQ==</build>
@@ -16,11 +16,11 @@
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>cairomm16</code>
+      <code>cairomm-gtkmm4</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>pangomm-2.54</code>
+      <code>pangomm-gtkmm4</code>
       <weight>3</weight>
     </dependance>
   </dependances>

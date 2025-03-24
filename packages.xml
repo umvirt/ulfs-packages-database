@@ -540,7 +540,7 @@
     <package>gtkmm3</package>
     <package>mate-system-monitor</package>
     <package>mate-terminal</package>
-    <package>mate-user-guide</package>
+    <package>mate-user-share</package>
     <package>mozo</package>
     <package>caja-app</package>
     <package>djvulibre</package>
@@ -1006,10 +1006,10 @@
     <package>python3-ply</package>
     <package>python3-trove_classifiers</package>
     <package>gtkmm4</package>
-    <package>cairomm16</package>
+    <package>cairomm-gtkmm4</package>
     <package>libsigcpp3</package>
-    <package>pangomm-2.54</package>
-    <package>glibmm-2.80</package>
+    <package>pangomm-gtkmm4</package>
+    <package>glibmm-gtkmm4</package>
     <package>gnome-common</package>
     <package>autoconf-archive</package>
     <package>appstream-glib</package>
@@ -1022,5 +1022,8 @@
     <package>LMDB</package>
     <package>highway</package>
     <package>libjxl</package>
+    <package>pluma-plugins</package>
+    <package>mate-user-guide</package>
+    <package>glslc</package>
   </packages>
 </packages>
