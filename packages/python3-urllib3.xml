@@ -3,14 +3,18 @@
   <release>0.2.3</release>
   <code>python3-urllib3</code>
   <description>VGhlIFVybGxpYjMgbW9kdWxlIGlzIGEgcG93ZXJmdWwsIHVzZXItZnJpZW5kbHkgSFRUUCBjbGllbnQgZm9yIFB5dGhvbi4=</description>
-  <sourcefile>urllib3-2.2.2.tar.gz</sourcefile>
-  <sourcedir>urllib3-2.2.2</sourcedir>
+  <sourcefile>urllib3-2.3.0.tar.gz</sourcefile>
+  <sourcedir>urllib3-2.3.0</sourcedir>
   <unpack/>
-  <configure>cm0gLXYgdGVzdC90ZXN0X3JldHJ5LnB5IFwNCiAgICAgIHRlc3QvY29udHJpYi90ZXN0X3B5b3BlbnNzbC5weSBcDQogICAgICB0ZXN0L2NvbnRyaWIvdGVzdF9zZWN1cmV0cmFuc3BvcnQucHkgXA0KICAgICAgdGVzdC93aXRoX2R1bW15c2VydmVyL3Rlc3Rfc29ja2V0bGV2ZWwucHkNCg0K</configure>
+  <configure>Iw0KDQo=</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
   <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHVybGxpYjM=</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>python3-hatch_vcs</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>python3-hatchling</code>
       <weight>1</weight>

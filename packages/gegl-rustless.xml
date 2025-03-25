@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>gegl</code>
+  <code>gegl-rustless</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBHRW5lcmljIEdyYXBoaWNzIExpYnJhcnksIHdoaWNoIGlzIGEgZ3JhcGggYmFzZWQgaW1hZ2UgcHJvY2Vzc2luZyBmb3JtYXQu</description>
-  <sourcefile>gegl-0.4.48.tar.xz</sourcefile>
-  <sourcedir>gegl-0.4.48</sourcedir>
+  <sourcefile>gegl-0.4.58.tar.xz</sourcefile>
+  <sourcedir>gegl-0.4.58</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgICAgICAgIC1EbGlicnN2Zz1kaXNhYmxlZCAgXA0KICAgICAgICAgICAgLUQgbGliYXY9ZGlzYWJsZWQgICBcDQogICAgICAgICAgICAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

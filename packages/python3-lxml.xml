@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>python3-lxml</code>
   <description>bHhtbCBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgZm9yIGxpYnhzbHQgYW5kIGxpYnhtbDIu</description>
-  <sourcefile>lxml-5.3.0.tar.gz</sourcefile>
-  <sourcedir>lxml-5.3.0</sourcedir>
+  <sourcefile>lxml-5.3.1.tar.gz</sourcefile>
+  <sourcedir>lxml-5.3.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

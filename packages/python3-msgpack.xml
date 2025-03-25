@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>python3-msgpack</code>
   <description>TWVzc2FnZVBhY2sgaXMgYW4gZWZmaWNpZW50IGJpbmFyeSBzZXJpYWxpemF0aW9uIGZvcm1hdC4=</description>
-  <sourcefile>msgpack-1.0.8.tar.gz</sourcefile>
-  <sourcedir>msgpack-1.0.8</sourcedir>
+  <sourcefile>msgpack-1.1.0.tar.gz</sourcefile>
+  <sourcedir>msgpack-1.1.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

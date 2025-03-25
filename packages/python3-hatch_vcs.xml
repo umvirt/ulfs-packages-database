@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-hatch_vcs</code>
+  <description>SGF0Y2hfdmNzIGlzIGEgSGF0Y2ggcGx1Z2luIGZvciB2ZXJzaW9uaW5nIHdpdGggc2V2ZXJhbCBWZXJzaW9uIENvbnRyb2wgU3lzdGVtcyAoIFZDUyApLg==</description>
+  <sourcefile>hatch_vcs-0.4.0.tar.gz</sourcefile>
+  <sourcedir>hatch_vcs-0.4.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIGhhdGNoX3Zjcw==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-setuptools_scm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-hatchling</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>dav1d</code>
   <description>ZGF2MWQgaXMgdGhlIGZhc3Rlc3QgQVYxIGRlY29kZXIgb24gYWxsIHBsYXRmb3Jtcy4gVGFyZ2V0ZWQgdG8gYmUgc21hbGwsIHBvcnRhYmxlIGFuZCB2ZXJ5IGZhc3Qu</description>
-  <sourcefile>dav1d-1.4.0.tar.xz</sourcefile>
-  <sourcedir>dav1d-1.4.0</sourcedir>
+  <sourcefile>dav1d-1.5.1.tar.xz</sourcefile>
+  <sourcedir>dav1d-1.5.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYgDQpjZCBidWlsZA0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAgLi4=</configure>
   <build>Y2QgYnVpbGQNCm5pbmph</build>

@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libheif</code>
   <description>bGliaGVpZiBpcyBhbiBIRUlGIGFuZCBBVklGIGZpbGUgZm9ybWF0IGRlY29kZXIgYW5kIGVuY29kZXIu</description>
-  <sourcefile>libheif-1.17.6.tar.gz</sourcefile>
-  <sourcedir>libheif-1.17.6</sourcedir>
+  <sourcefile>libheif-1.19.7.tar.gz</sourcefile>
+  <sourcedir>libheif-1.19.7</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtLXByZXNldD1yZWxlYXNlIC4u</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>
