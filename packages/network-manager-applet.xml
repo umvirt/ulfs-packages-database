@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>network-manager-applet</code>
   <description>VGhlIE5ldHdvcmtNYW5hZ2VyIEFwcGxldCBwcm92aWRlcyBhIHRvb2wgYW5kIGEgcGFuZWwgYXBwbGV0IHVzZWQgdG8gY29uZmlndXJlIHdpcmVkIGFuZCB3aXJlbGVzcyBuZXR3b3JrIGNvbm5lY3Rpb25zIHRocm91Z2ggR1VJLiBJdCdzIGRlc2lnbmVkIGZvciB1c2Ugd2l0aCBhbnkgZGVza3RvcCBlbnZpcm9ubWVudCB0aGF0IHVzZXMgR1RLKywgc3VjaCBhcyBYZmNlIGFuZCBMWERFLg==</description>
-  <sourcefile>network-manager-applet-1.34.0.tar.xz</sourcefile>
-  <sourcedir>network-manager-applet-1.34.0</sourcedir>
+  <sourcefile>network-manager-applet-1.36.0.tar.xz</sourcefile>
+  <sourcedir>network-manager-applet-1.36.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EYXBwaW5kaWNhdG9yPW5vICAgXA0KICAgICAgLURzZWxpbnV4PWZhbHNlIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

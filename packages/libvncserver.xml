@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libvncserver</code>
   <description>TGliVk5DU2VydmVyL0xpYlZOQ0NsaWVudCBhcmUgY3Jvc3MtcGxhdGZvcm0gQyBsaWJyYXJpZXMgdGhhdCBhbGxvdyB5b3UgdG8gZWFzaWx5IGltcGxlbWVudCBWTkMgc2VydmVyIG9yIGNsaWVudCBmdW5jdGlvbmFsaXR5IGluIHlvdXIgcHJvZ3JhbS4=</description>
-  <sourcefile>libvncserver-LibVNCServer-0.9.14.tar.gz</sourcefile>
-  <sourcedir>libvncserver-LibVNCServer-0.9.14</sourcedir>
+  <sourcefile>LibVNCServer-0.9.15.tar.gz</sourcefile>
+  <sourcedir>libvncserver-LibVNCServer-0.9.15</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
   <build>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1ha2U=</build>

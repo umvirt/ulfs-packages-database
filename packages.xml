@@ -712,7 +712,7 @@
     <package>network-manager-applet</package>
     <package>a52dec</package>
     <package>libmad</package>
-    <package>lua-5.2</package>
+    <package>!lua-5.2</package>
     <package>vlc</package>
     <package>libidn1</package>
     <package>libdv</package>
@@ -1027,5 +1027,6 @@
     <package>glslc</package>
     <package>gimp3-rustless</package>
     <package>python3-hatch_vcs</package>
+    <package>talloc</package>
   </packages>
 </packages>

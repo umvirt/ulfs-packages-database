@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>nfs-utils</code>
   <description>VGhlIE5GUyBVdGlsaXRpZXMgcGFja2FnZSBjb250YWlucyB0aGUgdXNlcnNwYWNlIHNlcnZlciBhbmQgY2xpZW50IHRvb2xzIG5lY2Vzc2FyeSB0byB1c2UgdGhlIGtlcm5lbCdzIE5GUyBhYmlsaXRpZXMuIE5GUyBpcyBhIHByb3RvY29sIHRoYXQgYWxsb3dzIHNoYXJpbmcgZmlsZSBzeXN0ZW1zIG92ZXIgdGhlIG5ldHdvcmsuDQoNCg==</description>
-  <sourcefile>nfs-utils-2.6.4.tar.xz</sourcefile>
-  <sourcedir>nfs-utils-2.6.4</sourcedir>
+  <sourcefile>nfs-utils-2.8.2.tar.xz</sourcefile>
+  <sourcedir>nfs-utils-2.8.2</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgIFwNCiAgICAgICAgICAgIC0tc2JpbmRpcj0vdXNyL3NiaW4gICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLW5mc3Y0ICAgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtZ3NzICAgICAgICAgIFwNCiAgICAgICAgICAgIExJQlM9Ii1sc3FsaXRlMyAtbGV2ZW50X2NvcmUi</configure>
   <build/>

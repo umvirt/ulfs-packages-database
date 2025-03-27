@@ -3,24 +3,15 @@
   <release>0.2.3</release>
   <code>dmidecode</code>
   <description>RG1pZGVjb2RlIHJlcG9ydHMgaW5mb3JtYXRpb24gYWJvdXQgeW91ciBzeXN0ZW0ncyBoYXJkd2FyZSBhcyBkZXNjcmliZWQgaW4geW91ciBzeXN0ZW0gQklPUyBhY2NvcmRpbmcgdG8gdGhlIFNNQklPUy9ETUkgc3RhbmRhcmQu</description>
-  <sourcefile>dmidecode-3.5.tar.xz</sourcefile>
-  <sourcedir>dmidecode-3.5</sourcedir>
+  <sourcefile>dmidecode-3.6.tar.xz</sourcefile>
+  <sourcedir>dmidecode-3.6</sourcedir>
   <unpack/>
   <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIE1ha2VmaWxl</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches>
-    <patch>
-      <filename>dmidecode-80de376231e903d2cbea95e51ffea31860502159.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>dmidecode-c76ddda0ba0aa99a55945e3290095c2ec493c892.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

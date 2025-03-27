@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>dnsmasq</code>
   <description>RG5zbWFzcSBwcm92aWRlcyBuZXR3b3JrIGluZnJhc3RydWN0dXJlIGZvciBzbWFsbCBuZXR3b3JrczogRE5TLCBESENQLCByb3V0ZXIgYWR2ZXJ0aXNlbWVudCBhbmQgbmV0d29yayBib290Lg==</description>
-  <sourcefile>dnsmasq-2.89.tar.xz</sourcefile>
-  <sourcedir>dnsmasq-2.89</sourcedir>
+  <sourcefile>dnsmasq-2.91.tar.xz</sourcefile>
+  <sourcedir>dnsmasq-2.91</sourcedir>
   <unpack/>
   <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIE1ha2VmaWxlDQo=</configure>
   <build/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>talloc</code>
+  <description>VGFsbG9jIHByb3ZpZGVzIGEgaGllcmFyY2hpY2FsLCByZWZlcmVuY2UgY291bnRlZCBtZW1vcnkgcG9vbCBzeXN0ZW0gd2l0aCBkZXN0cnVjdG9ycy4gSXQgaXMgdGhlIGNvcmUgbWVtb3J5IGFsbG9jYXRvciB1c2VkIGluIFNhbWJhLg==</description>
+  <sourcefile>talloc-2.4.3.tar.gz</sourcefile>
+  <sourcedir>talloc-2.4.3</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

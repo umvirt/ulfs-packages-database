@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xf86-video-fbdev</code>
   <description>RnJhbWVidWZmZXIgWG9yZyBkcml2ZXI=</description>
-  <sourcefile>xf86-video-fbdev-0.5.0.tar.bz2</sourcefile>
-  <sourcedir>xf86-video-fbdev-0.5.0</sourcedir>
+  <sourcefile>xf86-video-fbdev-0.5.1.tar.xz</sourcefile>
+  <sourcedir>xf86-video-fbdev-0.5.1</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>

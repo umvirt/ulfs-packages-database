@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>audacious-plugins</code>
   <description>QXVkYWNpb3VzIHBsdWdpbnM=</description>
-  <sourcefile>audacious-plugins-4.4.tar.bz2</sourcefile>
-  <sourcedir>audacious-plugins-4.4</sourcedir>
+  <sourcefile>audacious-plugins-4.4.2.tar.bz2</sourcefile>
+  <sourcedir>audacious-plugins-4.4.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICBcDQogIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgLUQgZ3RrPXRydWUgICAgICAgICBcDQogIC1EIHF0PXRydWUgICAgICAgICAgXA0KICAuLiAgICAgICAgICAgIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

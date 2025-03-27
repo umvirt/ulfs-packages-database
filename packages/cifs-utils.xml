@@ -3,25 +3,29 @@
   <release>0.2.3</release>
   <code>cifs-utils</code>
   <description>VGhlIGNpZnMtdXRpbHMgcGFja2FnZSBwcm92aWRlcyBhIG1lYW5zIGZvciBtb3VudGluZyBTTUIvQ0lGUyBzaGFyZXMgb24gYSBMaW51eCBzeXN0ZW0u</description>
-  <sourcefile>cifs-utils-7.0.tar.bz2</sourcefile>
-  <sourcedir>cifs-utils-7.0</sourcedir>
+  <sourcefile>cifs-utils-7.2.tar.bz2</sourcefile>
+  <sourcedir>cifs-utils-7.2</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRpc2FibGUtcGFtDQo=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtcGFtZGlyPS91c3IvbGliL3NlY3VyaXR5DQoNCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>Linux-PAM</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>keyutils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>talloc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>krb5</code>
       <weight>1</weight>
-    </dependance>
-    <dependance>
-      <code>libtirpc</code>
-      <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>xwayland</code>
-      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

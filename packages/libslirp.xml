@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libslirp</code>
   <description>TGlic2xpcnAgaXMgYSB1c2VyLW1vZGUgbmV0d29ya2luZyBsaWJyYXJ5IHVzZWQgYnkgdmlydHVhbCBtYWNoaW5lcywgY29udGFpbmVycyBvciB2YXJpb3VzIHRvb2xzLg0KDQo=</description>
-  <sourcefile>libslirp-v4.8.0.tar.bz2</sourcefile>
-  <sourcedir>libslirp-v4.8.0</sourcedir>
+  <sourcefile>libslirp-v4.9.0.tar.bz2</sourcefile>
+  <sourcedir>libslirp-v4.9.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

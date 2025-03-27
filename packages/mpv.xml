@@ -60,7 +60,7 @@
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>lua-5.2</code>
+      <code>!lua-5.2</code>
       <weight>13</weight>
     </dependance>
     <dependance>

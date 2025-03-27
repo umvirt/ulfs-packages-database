@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>orc</code>
   <description>T3JjIC0gT3B0aW1pemVkIElubmVyIExvb3AgUnVudGltZSBDb21waWxlci4=</description>
-  <sourcefile>orc-0.4.36.tar.xz</sourcefile>
-  <sourcedir>orc-0.4.36</sourcedir>
+  <sourcefile>orc-0.4.41.tar.xz</sourcefile>
+  <sourcedir>orc-0.4.41</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

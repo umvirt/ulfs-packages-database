@@ -3,14 +3,22 @@
   <release>0.2.3</release>
   <code>wireshark</code>
   <description>VGhlIFdpcmVzaGFyayBwYWNrYWdlIGNvbnRhaW5zIGEgbmV0d29yayBwcm90b2NvbCBhbmFseXplciwgYWxzbyBrbm93biBhcyBhIOKAnHNuaWZmZXLigJ0uIFRoaXMgaXMgdXNlZnVsIGZvciBhbmFseXppbmcgZGF0YSBjYXB0dXJlZCDigJxvZmYgdGhlIHdpcmXigJ0gZnJvbSBhIGxpdmUgbmV0d29yayBjb25uZWN0aW9uLCBvciBkYXRhIHJlYWQgZnJvbSBhIGNhcHR1cmUgZmlsZS4=</description>
-  <sourcefile>wireshark-4.2.6.tar.xz</sourcefile>
-  <sourcedir>wireshark-4.2.6</sourcedir>
+  <sourcefile>wireshark-4.4.5.tar.xz</sourcefile>
+  <sourcedir>wireshark-4.4.5</sourcedir>
   <unpack/>
-  <configure>Z3JvdXBhZGQgLWcgNjIgd2lyZXNoYXJrDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9ET0NESVI9L3Vzci9zaGFyZS9kb2Mvd2lyZXNoYXJrLTQuMi42IFwNCiAgICAgIC1HIE5pbmphIFwNCiAgICAgIC4u</configure>
+  <configure>Z3JvdXBhZGQgLWcgNjIgd2lyZXNoYXJrDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9ET0NESVI9L3Vzci9zaGFyZS9kb2Mvd2lyZXNoYXJrLTQuNC41IFwNCiAgICAgIC1HIE5pbmphIFwNCiAgICAgIC4u</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy93aXJlc2hhcmstNC4yLjYgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgLi4vUkVBRE1FLmxpbnV4IC4uL2RvYy9SRUFETUUuKiAuLi9kb2MvcmFuZHBrdC50eHQgXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy93aXJlc2hhcmstNC4yLjYgJiYNCg0KcHVzaGQgL3Vzci9zaGFyZS9kb2Mvd2lyZXNoYXJrLTQuMi42ICYmDQogICBmb3IgRklMRU5BTUUgaW4gLi4vLi4vd2lyZXNoYXJrLyouaHRtbDsgZG8NCiAgICAgIGxuIC1zIC12IC1mICRGSUxFTkFNRSAuDQogICBkb25lICYmDQpwb3BkDQp1bnNldCBGSUxFTkFNRQ0KDQoNCmNob3duIC12IHJvb3Q6d2lyZXNoYXJrIC91c3IvYmluL3t0c2hhcmssZHVtcGNhcH0gJiYNCmNobW9kIC12IDY1NTAgL3Vzci9iaW4ve3RzaGFyayxkdW1wY2FwfQ==</install>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy93aXJlc2hhcmstNC40LjUgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgLi4vUkVBRE1FLmxpbnV4IC4uL2RvYy9SRUFETUUuKiAuLi9kb2MvcmFuZHBrdC50eHQgXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy93aXJlc2hhcmstNC40LjUgJiYNCg0KcHVzaGQgL3Vzci9zaGFyZS9kb2Mvd2lyZXNoYXJrLTQuNC41ICYmDQogICBmb3IgRklMRU5BTUUgaW4gLi4vLi4vd2lyZXNoYXJrLyouaHRtbDsgZG8NCiAgICAgIGxuIC1zIC12IC1mICRGSUxFTkFNRSAuDQogICBkb25lICYmDQpwb3BkDQp1bnNldCBGSUxFTkFNRQ0KDQoNCmNob3duIC12IHJvb3Q6d2lyZXNoYXJrIC91c3IvYmluL3RzaGFyayAmJg0KY2htb2QgLXYgNjU1MCAvdXNyL2Jpbi90c2hhcms=</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>lua-5.4</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libxml2</code>
       <weight>1</weight>
@@ -66,14 +74,6 @@
     <dependance>
       <code>sbc</code>
       <weight>14</weight>
-    </dependance>
-    <dependance>
-      <code>qt5</code>
-      <weight>15</weight>
-    </dependance>
-    <dependance>
-      <code>lua-5.2</code>
-      <weight>16</weight>
     </dependance>
     <dependance>
       <code>c-ares</code>

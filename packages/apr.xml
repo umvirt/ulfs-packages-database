@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>apr</code>
   <description>VGhlIEFwYWNoZSBQb3J0YWJsZSBSdW50aW1lIChBUFIpIGlzIGEgc3VwcG9ydGluZyBsaWJyYXJ5IGZvciB0aGUgQXBhY2hlIHdlYiBzZXJ2ZXIu</description>
-  <sourcefile>apr-1.7.4.tar.bz2</sourcefile>
-  <sourcedir>apr-1.7.4</sourcedir>
+  <sourcefile>apr-1.7.5.tar.bz2</sourcefile>
+  <sourcedir>apr-1.7.5</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtaW5zdGFsbGJ1aWxkZGlyPS91c3Ivc2hhcmUvYXByLTEvYnVpbGQ=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIHRlc3QNCmZp</build>

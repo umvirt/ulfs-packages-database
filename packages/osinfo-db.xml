@@ -8,12 +8,12 @@
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCkNGTEFHUys9IiAtV25vLWVycm9yPWluY29tcGF0aWJsZS1wb2ludGVyLXR5cGVzIg0KZXhwb3J0IENGTEFHUw0KDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICANCg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphIA==</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgDQoNCm9zaW5mby1kYi1pbXBvcnQgLS1zeXN0ZW0gLi4vLi4vb3NpbmZvLWRiLTIwMjQwNzAxLnRhci54eg==</install>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgDQoNCm9zaW5mby1kYi1pbXBvcnQgLS1zeXN0ZW0gLi4vLi4vb3NpbmZvLWRiLTIwMjUwMTI0LnRhci54eg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons>
-    <addon>osinfo-db-20240701.tar.xz</addon>
+    <addon>osinfo-db-20250124.tar.xz</addon>
   </addons>
   <nestings/>
   <comments/>

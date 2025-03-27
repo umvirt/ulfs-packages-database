@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>linux-firmware</code>
   <description>TGludXgga2VybmVsIGZpcm13YXJlIHJvbXMgY29sbGVjdGlvbiBpcyBuZWVkZWQgZm9yIGhhcmR3YXJlIHN1cHBvcnQ=</description>
-  <sourcefile>linux-firmware-20240909.tar.gz</sourcefile>
-  <sourcedir>linux-firmware-20240909</sourcedir>
+  <sourcefile>linux-firmware-20250311.tar.bz2</sourcefile>
+  <sourcedir>linux-firmware-20250311</sourcedir>
   <unpack/>
-  <configure>Iw==</configure>
+  <configure>I3Jlc2V0IGRhdGUgdG8gZmluZCBpbnN0YWxsZWQgZmlsZXMNCmZpbmQgKiAtZXhlYyB0b3VjaCAtbSB7fSArDQo=</configure>
   <build>Iw==</build>
-  <install>bWtkaXIgLXYgL2xpYi9maXJtd2FyZQ0KY3AgLXJ2ZiAqIC9saWIvZmlybXdhcmUvDQo=</install>
+  <install>bWtkaXIgLXYgL2xpYi9maXJtd2FyZQ0KY3AgLXJ2ZiAqIC9saWIvZmlybXdhcmUvDQojcmVtb3ZlIHVsZnMgc2NyaXB0cw0Kcm0gLXYgL2xpYi9maXJtd2FyZS91bGZzXyo=</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
