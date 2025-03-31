@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>xfwm4</code>
   <description>WGZ3bTQgaXMgdGhlIHdpbmRvdyBtYW5hZ2VyIGZvciBYZmNlLg==</description>
-  <sourcefile>xfwm4-4.18.0.tar.bz2</sourcefile>
-  <sourcedir>xfwm4-4.18.0</sourcedir>
+  <sourcefile>xfwm4-4.20.0.tar.bz2</sourcefile>
+  <sourcedir>xfwm4-4.20.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

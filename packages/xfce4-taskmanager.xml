@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>xfce4-taskmanager</code>
+  <description>VGhlIHhmY2U0LXRhc2ttYW5hZ2VyIGNvbXBvbmVudCBpcyBhbiBlYXN5IHRvIHVzZSBncmFwaGljYWwgdGFzayBtYW5hZ2Vy</description>
+  <sourcefile>xfce4-taskmanager-1.5.8.tar.bz2</sourcefile>
+  <sourcedir>xfce4-taskmanager-1.5.8</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libxfce4ui</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>garcon</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

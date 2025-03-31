@@ -762,7 +762,7 @@
     <package>libgsf</package>
     <package>xfce4-appfinder</package>
     <package>xfce4-power-manager</package>
-    <package>xfce4-settings-4.18.4</package>
+    <package>xfce4-settings</package>
     <package>xfdesktop</package>
     <package>xfwm4</package>
     <package>xfce4-session</package>
@@ -1028,5 +1028,13 @@
     <package>gimp3-rustless</package>
     <package>python3-hatch_vcs</package>
     <package>talloc</package>
+    <package>libxfce4windowing</package>
+    <package>hwdata</package>
+    <package>libdisplay-info</package>
+    <package>xfce4-screenshooter</package>
+    <package>mousepad</package>
+    <package>gspell</package>
+    <package>xfce4-taskmanager</package>
+    <package>xfce4-screensaver</package>
   </packages>
 </packages>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libxfce4windowing</code>
+  <description>VGhlIGxpYnhmY2U0d2luZG93aW5nIHBhY2thZ2UgY29udGFpbnMgYSB3aW5kb3dpbmcgY29uY2VwdCBhYnN0cmFjdGlvbiBsaWJyYXJ5IGZvciBYMTEgYW5kIFdheWxhbmQu</description>
+  <sourcefile>libxfce4windowing-4.20.2.tar.bz2</sourcefile>
+  <sourcedir>libxfce4windowing-4.20.2</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUteDExICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnDQo=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libwnck3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xfce4-dev-tools</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libdisplay-info</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

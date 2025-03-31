@@ -56,7 +56,7 @@
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>xfce4-settings-4.18.4</code>
+      <code>xfce4-settings</code>
       <weight>12</weight>
     </dependance>
     <dependance>
@@ -94,6 +94,22 @@
     <dependance>
       <code>xfce4-pulseaudio-plugin</code>
       <weight>21</weight>
+    </dependance>
+    <dependance>
+      <code>xfce4-screenshooter</code>
+      <weight>22</weight>
+    </dependance>
+    <dependance>
+      <code>mousepad</code>
+      <weight>23</weight>
+    </dependance>
+    <dependance>
+      <code>xfce4-taskmanager</code>
+      <weight>24</weight>
+    </dependance>
+    <dependance>
+      <code>xfce4-screensaver</code>
+      <weight>25</weight>
     </dependance>
   </dependances>
   <patches/>

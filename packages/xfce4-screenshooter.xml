@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>xfce4-screenshooter</code>
+  <description>WGZjZTQtc2NyZWVuc2hvb3RlciBhbGxvd3MgeW91IHRvIGNhcHR1cmUgdGhlIGVudGlyZSBzY3JlZW4sIHRoZSBhY3RpdmUNCndpbmRvdyBvciBhIHNlbGVjdGVkIHJlZ2lvbi4gWW91IGNhbiBzZXQgdGhlIGRlbGF5IHRoYXQgZWxhcHNlcw0KYmVmb3JlIHRoZSBzY3JlZW5zaG90IGlzIHRha2VuIGFuZCB0aGUgYWN0aW9uIHRoYXQgd2lsbCBiZSBkb25lIHdpdGgNCnRoZSBzY3JlZW5zaG90OiBzYXZlIGl0IHRvIGEgZmlsZSwgY29weSBpdCB0byB0aGUgY2xpcGJvYXJkLCBvcGVuDQppdCB1c2luZyBhbm90aGVyIGFwcGxpY2F0aW9uIG9yIHVzZSB5b3VyIGNyZWF0aXZpdHkgd2l0aCBjdXN0b20gYWN0aW9ucw0Kc2NyaXB0cy4=</description>
+  <sourcefile>xfce4-screenshooter-1.11.1.tar.bz2</sourcefile>
+  <sourcedir>xfce4-screenshooter-1.11.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libxfce4ui</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>garcon</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xfce4-panel</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
