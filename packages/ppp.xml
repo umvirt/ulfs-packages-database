@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>ppp</code>
   <description>cHBwIChQYXVsJ3MgUFBQIFBhY2thZ2UpIGlzIGFuIG9wZW4gc291cmNlIHBhY2thZ2Ugd2hpY2ggaW1wbGVtZW50cyB0aGUgUG9pbnQtdG8tUG9pbnQgUHJvdG9jb2wgKFBQUCkgb24gTGludXggYW5kIFNvbGFyaXMgc3lzdGVtcy4=</description>
-  <sourcefile>ppp-2.5.0.tar.xz</sourcefile>
-  <sourcedir>ppp-2.5.0</sourcedir>
+  <sourcefile>ppp-2.5.2.tar.gz</sourcefile>
+  <sourcedir>ppp-2.5.2</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>

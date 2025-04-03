@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>liburcu</code>
   <description>VGhlIHVzZXJzcGFjZS1yY3UgcGFja2FnZSBwcm92aWRlcyBhIHNldCBvZiB1c2Vyc3BhY2UgUkNVIChyZWFkLWNvcHktdXBkYXRlKSBsaWJyYXJpZXMu</description>
-  <sourcefile>userspace-rcu-0.14.0.tar.bz2</sourcefile>
-  <sourcedir>userspace-rcu-0.14.0</sourcedir>
+  <sourcefile>userspace-rcu-0.15.1.tar.bz2</sourcefile>
+  <sourcedir>userspace-rcu-0.15.1</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGlidXJjdS0wLjE0LjANCg==</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvMC4xNS4xDQo=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
   <install/>
   <localbuild>0</localbuild>

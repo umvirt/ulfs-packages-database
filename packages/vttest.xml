@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>vttest</code>
   <description>dnR0ZXN0IHRlc3RzIHRoZSBmdW5jdGlvbmFsaXR5IG9mIGEgVlQxMDAvVlQyMjAvVlQ0MjAgdGVybWluYWwgKG9yIGVtdWxhdG9yLCBpbiBwYXJ0aWN1bGFyIHh0ZXJtKSB3aXRoIG1lbnVzIGFuZCBkZW1vIHNjcmVlbnMu</description>
-  <sourcefile>vttest-20240218.tar.gz</sourcefile>
-  <sourcedir>vttest-20240218</sourcedir>
+  <sourcefile>vttest-20241208.tgz</sourcefile>
+  <sourcedir>vttest-20241208</sourcedir>
   <unpack/>
   <configure/>
   <build/>

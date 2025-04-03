@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>openal</code>
   <description>T3BlbkFMIFNvZnQgaXMgYSBzb2Z0d2FyZSBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgT3BlbkFMIDNEIGF1ZGlvIEFQSS4=</description>
-  <sourcefile>openal-soft-1.23.1.tar.gz</sourcefile>
-  <sourcedir>openal-soft-1.23.1</sourcedir>
+  <sourcefile>openal-soft-1.24.3.tar.gz</sourcefile>
+  <sourcedir>openal-soft-1.24.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC4u</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>

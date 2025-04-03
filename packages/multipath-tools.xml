@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>multipath-tools</code>
   <description>UGFydGl0aW9uIG1vdW50IG9uIGJsb2NrZGV2aWNlcy4gS3BhcnR4IHRvb2wu</description>
-  <sourcefile>multipath-tools-0.9.8.tar.gz</sourcefile>
-  <sourcedir>multipath-tools-0.9.8</sourcedir>
+  <sourcefile>multipath-tools-0.11.1.tar.gz</sourcefile>
+  <sourcedir>multipath-tools-0.11.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZSBMSUI9bGli</build>
