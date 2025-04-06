@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>oidn</code>
+  <description>SW50ZWzCriBPcGVuIEltYWdlIERlbm9pc2UgbGlicmFyeQ==</description>
+  <sourcefile>oidn-2.3.2.src.tar.gz</sourcefile>
+  <sourcedir>oidn-2.3.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC4uIFwNCiAgICAtRyBOaW5qYSBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZQ0KDQo=</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>oneTBB</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ispc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

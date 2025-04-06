@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>OpenCOLLADA</code>
   <description>Q09MTEFEQU1heCBhbmQgQ09MTEFEQU1heWEgYXJlIG5ldyBpbXBsZW1lbnRhdGlvbiBvZiBhIDNkcyBNYXggb3IgTWF5YSBwbHVnLWlucyB0byBleHBvcnQgc2NlbmUgb3IgcGFydHMgb2YgaXQgdG8gYSBDT0xMQURBIGZpbGUsIHJlbGVhc2VkIHVuZGVyIGFuIE1JVC1saWNlbnNlLg==</description>
-  <sourcefile>OpenCOLLADA-1.6.68.tar.gz</sourcefile>
-  <sourcedir>OpenCOLLADA-1.6.68</sourcedir>
+  <sourcefile>opencollada-dfc341ab0b3b23ee307ab8660c0213e64da1eac6.tar.gz</sourcefile>
+  <sourcedir>opencollada-dfc341ab0b3b23ee307ab8660c0213e64da1eac6</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KDQpjbWFrZSAuLiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRFVTRV9TSEFSRUQ9T04gXA0KICAgIC1EVVNFX1NUQVRJQz1PRkY=</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>

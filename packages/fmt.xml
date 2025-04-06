@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>fmt</code>
   <description>QSBtb2Rlcm4gZm9ybWF0dGluZyBsaWJyYXJ5</description>
-  <sourcefile>fmt-10.2.1.tar.gz</sourcefile>
-  <sourcedir>fmt-10.2.1</sourcedir>
+  <sourcefile>fmt-11.1.4.tar.gz</sourcefile>
+  <sourcedir>fmt-11.1.4</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgLi4NCg==</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRElSPS91c3IvbGliIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgIFwNCiAgICAgIC1EIEZNVF9URVNUPU9GRiAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4u</configure>
+  <build>Y2QgICAgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

@@ -6,14 +6,14 @@
   <sourcefile>fftw-3.3.10.tar.gz</sourcefile>
   <sourcedir>fftw-3.3.10</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1zaGFyZWQgLS1lbmFibGUtdGhyZWFkcyAtLWVuYWJsZS1tcGkgLS1lbmFibGUtb3Blbm1wIFwNCi0tZW5hYmxlLWxvbmctZG91Ymxl</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgXA0KICAgICAgICAgICAgLS1lbmFibGUtdGhyZWFkcyBcDQogICAgICAgICAgICAtLWVuYWJsZS1sb25nLWRvdWJsZSA=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>openmpi</code>
-      <weight>1</weight>
+      <code>fftw-single</code>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>

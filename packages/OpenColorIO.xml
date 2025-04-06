@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>OpenColorIO</code>
   <description>QSBjb2xvciBtYW5hZ2VtZW50IGZyYW1ld29yayBmb3IgdmlzdWFsIGVmZmVjdHMgYW5kIGFuaW1hdGlvbi4=</description>
-  <sourcefile>OpenColorIO-2.3.2.tar.gz</sourcefile>
-  <sourcedir>OpenColorIO-2.3.2</sourcedir>
+  <sourcefile>OpenColorIO-2.4.1.tar.gz</sourcefile>
+  <sourcedir>OpenColorIO-2.4.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAtRENNQUtFX0lOU1RBTExfTElCRElSPWxpYiBcDQogICAgLURDTUFLRV9TS0lQX0lOU1RBTExfUlBBVEg9WUVTIFwNCi4u</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>

@@ -3,14 +3,19 @@
   <release>0.2.3</release>
   <code>oneTBB</code>
   <description>b25lQVBJIFRocmVhZGluZyBCdWlsZGluZyBCbG9ja3MgKG9uZVRCQik=</description>
-  <sourcefile>oneTBB-2021.12.0.tar.gz</sourcefile>
-  <sourcedir>oneTBB-2021.12.0</sourcedir>
+  <sourcefile>oneTBB-v2021.13.0.tar.gz</sourcefile>
+  <sourcedir>oneTBB-2021.13.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgLi4=</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAgIC4uIFwNCiAgICAgICAgLUcgJ1VuaXggTWFrZWZpbGVzJyBcDQogICAgICAgIC1EQ01BS0VfQlVJTERfVFlQRTpTVFJJTkc9J05vbmUnIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWDpQQVRIPScvdXNyJyBcDQogICAgICAgIC1EVEJCX1NUUklDVDpCT09MPSdPRkYnIFwNCiAgICAgICAgLURUQkI0UFlfQlVJTEQ6Qk9PTD0nT04nIFwNCiAgICAgICAgLVduby1kZXYNCg==</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
   <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>hwloc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>blender</code>
   <description>RnJlZSBhbmQgT3BlbiAzRCBDcmVhdGlvbiBTb2Z0d2FyZS4=</description>
-  <sourcefile>blender-4.1.0.tar.xz</sourcefile>
-  <sourcedir>blender-4.1.0</sourcedir>
+  <sourcefile>blender-4.4.0.tar.xz</sourcefile>
+  <sourcedir>blender-4.4.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIFwNCiAgICAtR05pbmphIFwNCiAgICAtQy4uL2J1aWxkX2ZpbGVzL2NtYWtlL2NvbmZpZy9ibGVuZGVyX3JlbGVhc2UuY21ha2UgLi4gXA0KICAgIC1EV0lUSF9VU0Q9T0ZGIFwNCiAgICAtRFdJVEhfT1BFTkNPTE9SSU89T0ZGIFwNCiAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlIFwNCiAgICAtRFdJVEhfSU5TVEFMTF9QT1JUQUJMRT1PRkYgXA0KICAgIC1EV0lUSF9QWVRIT05fSU5TVEFMTD1PRkYgXA0KICAgIC1EV0lUSF9TVEFUSUNfTElCUz1PRkYgXA0KICAgIC1EUFlUSE9OX1ZFUlNJT049My4xMiBcDQogICAgLURQWVRIT05fTElCUEFUSD0vdXNyL2xpYiBcDQogICAgLURQWVRIT05fTElCUkFSWT1weXRob24zLjEyIFwNCiAgICAtRFBZVEhPTl9JTkNMVURFX0RJUlM9L3Vzci9pbmNsdWRlL3B5dGhvbjMuMTI=</configure>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIFwNCiAgICAtR05pbmphIFwNCiAgICAtQy4uL2J1aWxkX2ZpbGVzL2NtYWtlL2NvbmZpZy9ibGVuZGVyX3JlbGVhc2UuY21ha2UgLi4gXA0KICAgIC1EVVNEX1JPT1RfRElSPS91c3IgXA0KICAgIC1EV0lUSF9VU0Q9T04gXA0KICAgIC1EV0lUSF9PUEVOQ09MT1JJTz1PTiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgLURXSVRIX0lOU1RBTExfUE9SVEFCTEU9T0ZGIFwNCiAgICAtRFdJVEhfUFlUSE9OX0lOU1RBTEw9T0ZGIFwNCiAgICAtRFdJVEhfU1RBVElDX0xJQlM9T0ZGIFwNCiAgICAtRFBZVEhPTl9WRVJTSU9OPTMuMTMgXA0KICAgIC1EUFlUSE9OX0xJQlBBVEg9L3Vzci9saWIgXA0KICAgIC1EUFlUSE9OX0xJQlJBUlk9cHl0aG9uMy4xMyBcDQogICAgLURQWVRIT05fSU5DTFVERV9ESVJTPS91c3IvaW5jbHVkZS9weXRob24zLjEz</configure>
   <build>Y2QgYnVpbGQNCm5pbmph</build>
   <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>
@@ -82,6 +82,18 @@
     <dependance>
       <code>embree</code>
       <weight>18</weight>
+    </dependance>
+    <dependance>
+      <code>oidn</code>
+      <weight>19</weight>
+    </dependance>
+    <dependance>
+      <code>OpenUSD</code>
+      <weight>20</weight>
+    </dependance>
+    <dependance>
+      <code>shaderc</code>
+      <weight>21</weight>
     </dependance>
   </dependances>
   <patches/>

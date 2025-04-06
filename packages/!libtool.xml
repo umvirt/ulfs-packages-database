@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>libtool</code>
+  <code>!libtool</code>
   <description>R05VIExpYnRvb2wgaXMgYSBnZW5lcmljIGxpYnJhcnkgc3VwcG9ydCBzY3JpcHQgdGhhdCBoaWRlcyB0aGUgY29tcGxleGl0eSBvZiB1c2luZyBzaGFyZWQgbGlicmFyaWVzIGJlaGluZCBhIGNvbnNpc3RlbnQsIHBvcnRhYmxlIGludGVyZmFjZS4=</description>
   <sourcefile>libtool-2.4.7.tar.gz</sourcefile>
   <sourcedir>libtool-2.4.7</sourcedir>

@@ -818,7 +818,7 @@
     <package>openmpi</package>
     <package>gcc</package>
     <package>valgrind</package>
-    <package>libtool</package>
+    <package>!libtool</package>
     <package>prrte</package>
     <package>pmix</package>
     <package>OpenCOLLADA</package>
@@ -835,7 +835,7 @@
     <package>pugixml</package>
     <package>openvdb</package>
     <package>oneTBB</package>
-    <package>c-blosc2</package>
+    <package>!c-blosc2</package>
     <package>c-blosc</package>
     <package>nanovdb</package>
     <package>alembic</package>
@@ -1036,5 +1036,9 @@
     <package>gspell</package>
     <package>xfce4-taskmanager</package>
     <package>xfce4-screensaver</package>
+    <package>shaderc</package>
+    <package>python3-pyopengl</package>
+    <package>oidn</package>
+    <package>ispc</package>
   </packages>
 </packages>

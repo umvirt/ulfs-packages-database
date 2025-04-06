@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>embree</code>
   <description>RW1icmVlIHJheSB0cmFjaW5nIGtlcm5lbHMgcmVwb3NpdG9yeS4=</description>
-  <sourcefile>embree-4.3.1.tar.gz</sourcefile>
-  <sourcedir>embree-4.3.1</sourcedir>
+  <sourcefile>embree-4.4.0.tar.gz</sourcefile>
+  <sourcedir>embree-4.4.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIC4u</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCg==</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <install>Y2QgICAgICAgYnVpbGQgJiYNCkRFU1RESVI9b3V0IG1ha2UgaW5zdGFsbA0KDQpjcCAtcnYgb3V0L3Vzci9iaW4gL3Vzcg0KY3AgLXJ2IG91dC91c3IvbGliIC91c3INCmNwIC1ydiBvdXQvdXNyL2luY2x1ZGUgL3Vzcg0KY3AgLXJ2IG91dC91c3Ivc2hhcmUgL3Vzcg0KY3AgLXYgb3V0L3Vzci9lbWJyZWUtdmFycy4qIC91c3IvYmluLw==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
