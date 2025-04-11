@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>netcat-openbsd</code>
   <description>TmV0Y2F0IE9wZW5CU0QgdmVyc2lvbg==</description>
-  <sourcefile>netcat-openbsd-1.226.tar.gz</sourcefile>
-  <sourcedir>netcat-openbsd-1.226</sourcedir>
+  <sourcefile>netcat-openbsd-debian-1.228-1.tar.bz2</sourcefile>
+  <sourcedir>netcat-openbsd-debian-1.228-1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build/>

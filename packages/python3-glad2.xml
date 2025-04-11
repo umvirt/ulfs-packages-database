@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>python3-glad2</code>
   <description>VGhlIEdsYWQgcGFja2FnZSBjb250YWlucyBhIGdlbmVyYXRvciBmb3IgbG9hZGluZyBWdWxrYW4sIE9wZW5HTCwgRUdMLCBHTEVTLCBhbmQgR0xYIGNvbnRleHRzLg==</description>
-  <sourcefile>glad-2.0.5.tar.gz</sourcefile>
-  <sourcedir>glad-2.0.5</sourcedir>
+  <sourcefile>glad-2.0.8.tar.gz</sourcefile>
+  <sourcedir>glad-2.0.8</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>

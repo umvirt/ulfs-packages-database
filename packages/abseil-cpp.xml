@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>abseil-cpp</code>
   <description>QWJzZWlsIENvbW1vbiBMaWJyYXJpZXMgKEMrKyk=</description>
-  <sourcefile>abseil-cpp-20240116.2.tar.gz</sourcefile>
-  <sourcedir>abseil-cpp-20240116.2</sourcedir>
+  <sourcefile>abseil-cpp-20250127.0.tar.gz</sourcefile>
+  <sourcedir>abseil-cpp-20250127.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQogICAgICAtREFCU0xfQlVJTERfVEVTVF9IRUxQRVJTPU9OIFwNCiAgICAgIC1EQUJTTF9VU0VfRVhURVJOQUxfR09PR0xFVEVTVD1PTiBcDQogICAgICAtREFCU0xfRklORF9HT09HTEVURVNUPU9OIFwNCiAgICAgIC1EQUJTTF9CVUlMRF9URVNUSU5HPU9OIFwNCiAgICAgIC4uDQo=</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBBQlNMX1BST1BBR0FURV9DWFhfU1REPU9OIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgXA0KICAgICAgLUcgTmluamEgLi4NCg==</configure>
+  <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -16,12 +16,7 @@
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>abseil-cpp-protobuf.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

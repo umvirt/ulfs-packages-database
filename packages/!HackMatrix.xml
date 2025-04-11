@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>!HackMatrix</code>
   <description>QSAzZCBMaW51eCBkZXNrdG9wIGVudmlyb25tZW50IChhbmQgZ2FtZSBlbmdpbmUp</description>
-  <sourcefile>HackMatrix-4f7723fc4a98678dcbd2f6293f3de071c87534cf.tar.xz</sourcefile>
-  <sourcedir>HackMatrix-4f7723fc4a98678dcbd2f6293f3de071c87534cf</sourcedir>
+  <sourcefile>HackMatrix-1.stable.tar.gz</sourcefile>
+  <sourcedir>HackMatrix-1.stable</sourcedir>
   <unpack/>
   <configure/>
   <build/>

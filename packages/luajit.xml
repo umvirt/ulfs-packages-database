@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>luajit</code>
+  <description>VGhlIGx1YWppdCBwYWNrYWdlIGNvbnRhaW5zIGEgSnVzdC1Jbi1UaW1lIGNvbXBpbGVyIGZvciBMdWEuIEl0IGlzIG9mdGVuIHVzZWQgYXMgc2NyaXB0aW5nIG1pZGRsZXdhcmUsIGFuZCBpdCBpcyBoaWdoIHBlcmZvcm1hbmNlIHdoaWxlIGFsc28gaGF2aW5nIGEgbG93IG1lbW9yeSBmb290cHJpbnQu</description>
+  <sourcefile>luajit-20250212.tar.xz</sourcefile>
+  <sourcedir>luajit-20250212</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBQUkVGSVg9L3VzciBhbWFsZw==</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgIT0gIllFUyIgXV0NCnRoZW4NCg0Kcm0gLXYgL3Vzci9saWIvbGlibHVhaml0LTUuMS5hDQoNCmZpDQo=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

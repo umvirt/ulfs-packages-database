@@ -6,7 +6,7 @@
   <sourcefile>vlc-3.0.21.tar.xz</sourcefile>
   <sourcedir>vlc-3.0.21</sourcedir>
   <unpack/>
-  <configure>ZXhwb3J0IExVQUM9L3Vzci9iaW4vbHVhYzUuMiAgICAgICAgICAgICAgICAgICAmJg0KZXhwb3J0IExVQV9MSUJTPSIkKHBrZy1jb25maWcgLS1saWJzIGx1YTUyKSIgICAmJg0KZXhwb3J0IENQUEZMQUdTPSIkKHBrZy1jb25maWcgLS1jZmxhZ3MgbHVhNTIpIg0KDQpCVUlMRENDPWdjYyAuL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1saWJwbGFjZWJv</configure>
+  <configure>QlVJTERDQz1nY2MgLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtbGlicGxhY2Vibw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
   <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvdmxjLTMuMC4yMSBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
   <localbuild>0</localbuild>

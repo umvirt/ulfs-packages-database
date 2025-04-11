@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>libplacebo</code>
   <description>VGhlIGxpYnBsYWNlYm8gcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHByb2Nlc3NpbmcgaW1hZ2UgYW5kIHZpZGVvIHByaW1pdGl2ZXMgYW5kIHNoYWRlcnMuIEl0IGFsc28gaW5jbHVkZXMgYSBoaWdoIHF1YWxpdHkgcmVuZGVyaW5nIHBpcGVsaW5lIHRoYXQgc3VwcG9ydHMgT3BlbkdMIGFuZCBWdWxrYW4u</description>
-  <sourcefile>libplacebo-6.338.2.tar.gz</sourcefile>
-  <sourcedir>libplacebo-6.338.2</sourcedir>
+  <sourcefile>libplacebo-7.349.0.tar.gz</sourcefile>
+  <sourcedir>libplacebo-7.349.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EdGVzdHM9dHJ1ZSAgICAgICAgXA0KICAgICAgLURkZW1vcz1mYWxzZSA=</configure>
+  <configure>c2VkIC1lICIyMHMvJC8sLyIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAtZSAiMjFpIGN4eC5maW5kX2xpYnJhcnkoJ2dsc2xhbmcnLCByZXF1aXJlZDogZmFsc2UpIiBcDQogICAgLWkgc3JjL2dsc2wvbWVzb24uYnVpbGQNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EdGVzdHM9dHJ1ZSAgICAgICAgXA0KICAgICAgLURkZW1vcz1mYWxzZSA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>

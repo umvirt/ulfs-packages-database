@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>assimp</code>
   <description>VGhlIG9mZmljaWFsIE9wZW4tQXNzZXQtSW1wb3J0ZXItTGlicmFyeSBSZXBvc2l0b3J5LiBMb2FkcyA0MCsgM0QtZmlsZS1mb3JtYXRzIGludG8gb25lIHVuaWZpZWQgYW5kIGNsZWFuIGRhdGEgc3RydWN0dXJlLg==</description>
-  <sourcefile>assimp-5.4.0.tar.gz</sourcefile>
-  <sourcedir>assimp-5.4.0</sourcedir>
+  <sourcefile>assimp-5.4.3.tar.gz</sourcefile>
+  <sourcedir>assimp-5.4.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQouLg==</configure>
   <build>Y2QgICAgICAgYnVpbGQNCm1ha2UNCg==</build>

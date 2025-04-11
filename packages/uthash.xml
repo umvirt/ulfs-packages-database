@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>uthash</code>
+  <description>QyBtYWNyb3MgZm9yIGhhc2ggdGFibGVzIGFuZCBtb3Jl</description>
+  <sourcefile>uthash-2.3.0.tar.gz</sourcefile>
+  <sourcedir>uthash-2.3.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Y2Qgc3JjDQoNCmluc3RhbGwgLWRtNzU1IC91c3IvaW5jbHVkZS8NCg0KIyBpbnN0YWxsIGhlYWRlciBmaWxlcyBpbiAvdXNyL2luY2x1ZGUNCmZvciBoIGluICouaDsgZG8NCg0KaW5zdGFsbCAtbSA2NDQgJHtofSAvdXNyL2luY2x1ZGUvDQoNCmRvbmUNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

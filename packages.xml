@@ -881,7 +881,7 @@
     <package>mtools</package>
     <package>tmux</package>
     <package>hdparm</package>
-    <package>netcat</package>
+    <package>netcat-gnu</package>
     <package>netcat-openbsd</package>
     <package>socat</package>
     <package>libmd</package>
@@ -894,11 +894,11 @@
     <package>!HackMatrix</package>
     <package>googletest</package>
     <package>obs-studio</package>
-    <package>LuaJIT</package>
+    <package>luajit</package>
     <package>libglvnd</package>
     <package>libvpl</package>
     <package>mlt</package>
-    <package>frei0r-plugins</package>
+    <package>frei0r</package>
     <package>shotcut</package>
     <package>glaxnimate</package>
     <package>ladspa</package>
@@ -1040,5 +1040,12 @@
     <package>python3-pyopengl</package>
     <package>oidn</package>
     <package>ispc</package>
+    <package>uthash</package>
+    <package>nv-codec-headers</package>
+    <package>mbedtls</package>
+    <package>nlohman-json</package>
+    <package>QR-Code-generator</package>
+    <package>websocketpp</package>
+    <package>asio</package>
   </packages>
 </packages>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>QR-Code-generator</code>
+  <description>SGlnaC1xdWFsaXR5IFFSIENvZGUgZ2VuZXJhdG9yIGxpYnJhcnkgaW4gSmF2YSwgVHlwZVNjcmlwdC9KYXZhU2NyaXB0LCBQeXRob24sIFJ1c3QsIEMrKywgQy4=</description>
+  <sourcefile>QR-Code-generator-1.8.0.tar.gz</sourcefile>
+  <sourcedir>QR-Code-generator-1.8.0</sourcedir>
+  <unpack/>
+  <configure>dGFyIC14ZiAuLi9xcmNvZGVnZW4tY21ha2UtMS44LjAtY21ha2UzLnRhci5neg0KDQpjcCAtcnYgcXJjb2RlZ2VuLWNtYWtlLTEuOC4wLWNtYWtlMy97Y21ha2UsQ01ha2VMaXN0cy50eHR9IC4NCg0KbWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC4uICBcDQogICAgLURDTUFLRV9CVUlMRF9UWVBFPU5vbmUgXA0KICAgIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgLURDTUFLRV9JTlNUQUxMX0xJQkRJUj1saWIgXA0KICAgIC1EQlVJTERfU0hBUkVEX0xJQlM9T04gXA0KICAgIC1HIE5pbmphDQoNCg0K</configure>
+  <build>Y2QgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons>
+    <addon>qrcodegen-cmake-1.8.0-cmake3.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

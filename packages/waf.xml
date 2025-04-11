@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>waf</code>
   <description>V0FGIGJ1aWxkIHN5c3RlbQ0K</description>
-  <sourcefile>waf-2.0.27.tar.bz2</sourcefile>
-  <sourcedir>waf-2.0.27</sourcedir>
+  <sourcefile>waf-2.1.5.tar.bz2</sourcefile>
+  <sourcedir>waf-2.1.5</sourcedir>
   <unpack/>
   <configure>c2VkIC1lICJzL2VudiBweXRob24vZW52IHB5dGhvbjMvIiAtaSB3YWYtbGlnaHQNCi4vd2FmLWxpZ2h0IGNvbmZpZ3VyZSAtLXByZWZpeD0vdXNyDQo=</configure>
   <build>Li93YWYtbGlnaHQgYnVpbGQ=</build>

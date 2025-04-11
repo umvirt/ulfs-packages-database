@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>glaxnimate</code>
   <description>R2xheG5pbWF0ZSBpcyBhIHNpbXBsZSBhbmQgZmFzdCB2ZWN0b3IgZ3JhcGhpY3MgYW5pbWF0aW9uIHByb2dyYW0u</description>
-  <sourcefile>glaxnimate-src.tar.gz</sourcefile>
-  <sourcedir>glaxnimate</sourcedir>
+  <sourcefile>glaxnimate-0.5.4.tar.bz2</sourcefile>
+  <sourcedir>glaxnimate-0.5.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
   <build>Y2QgICAgICAgYnVpbGQNCm1ha2UNCg==</build>

@@ -3,14 +3,50 @@
   <release>0.2.3</release>
   <code>obs-studio</code>
   <description>T0JTIFN0dWRpbyAtIEZyZWUgYW5kIG9wZW4gc291cmNlIHNvZnR3YXJlIGZvciBsaXZlIHN0cmVhbWluZyBhbmQgc2NyZWVuIHJlY29yZGluZw==</description>
-  <sourcefile>obs-studio-30.1.2.tar.gz</sourcefile>
-  <sourcedir>obs-studio-30.1.2</sourcedir>
+  <sourcefile>OBS-Studio-31.0.3-Sources.tar.gz</sourcefile>
+  <sourcedir>obs-studio-31.0.3-sources</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1HIE5pbmphIFwNCiAgICAgICAgLURFTkFCTEVfTkVXX01QRUdUU19PVVRQVVQ9T0ZGIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICAgLURFTkFCTEVfQlJPV1NFUj1PRkYgXA0KCS1ERU5BQkxFX1BJUEVXSVJFPU9GRiBcDQoJLURFTkFCTEVfQUpBPTAgXA0KICAgICAgICAtREVOQUJMRV9XRUJSVEM9MCBcDQoJLURRVF9WRVJTSU9OPTYgXA0KICAgICAgICAuLg0K</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmV4cG9ydCBDRkxBR1MrPSIgLVduby1lcnJvcj1kZXByZWNhdGVkLWRlY2xhcmF0aW9ucyINCmNtYWtlIC1HIE5pbmphIFwNCiAgICAgICAgLURFTkFCTEVfTkVXX01QRUdUU19PVVRQVVQ9T0ZGIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICAgLURFTkFCTEVfQlJPV1NFUj1PRkYgXA0KCS1ERU5BQkxFX1BJUEVXSVJFPU9GRiBcDQoJLURFTkFCTEVfQUpBPTAgXA0KICAgICAgICAtREVOQUJMRV9XRUJSVEM9MCBcDQoJLURRVF9WRVJTSU9OPTYgXA0KICAgICAgICAtV25vLWRldiBcDQogICAgICAgIC4uDQo=</configure>
   <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
   <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>pciutils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mesa-libglvnd</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>uthash</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nv-codec-headers</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>mbedtls</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nlohman-json</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>QR-Code-generator</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>websocketpp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>asio</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>freetype-stage2</code>
       <weight>1</weight>
@@ -68,24 +104,15 @@
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>LuaJIT</code>
+      <code>luajit</code>
       <weight>15</weight>
-    </dependance>
-    <dependance>
-      <code>libglvnd</code>
-      <weight>16</weight>
     </dependance>
     <dependance>
       <code>libvpl</code>
       <weight>17</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>obs-studio-no-browser.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>
