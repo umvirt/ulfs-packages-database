@@ -3,12 +3,12 @@
   <release>0.2.3</release>
   <code>pcsc-lite</code>
   <description>TWlkZGxld2FyZSB0byBhY2Nlc3MgYSBzbWFydCBjYXJkIHVzaW5nIFNDYXJkIEFQSSAoUEMvU0MpLg==</description>
-  <sourcefile>pcsc-lite-2.1.0.tar.bz2</sourcefile>
-  <sourcedir>pcsc-lite-2.1.0</sourcedir>
+  <sourcefile>pcsc-lite-2.3.3.tar.xz</sourcefile>
+  <sourcedir>pcsc-lite-2.3.3</sourcedir>
   <unpack/>
-  <configure/>
-  <build/>
-  <install/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVgg</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

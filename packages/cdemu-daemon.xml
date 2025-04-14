@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>cdemu-daemon</code>
   <description>Q0RFbXUgZGFlbW9uIGlzIHRoZSB1c2Vyc3BhY2UgZGFlbW9uIHBhcnQgb2YgdGhlIGNkZW11IHN1aXRlLg==</description>
-  <sourcefile>cdemu-daemon-3.2.6.tar.xz</sourcefile>
-  <sourcedir>cdemu-daemon-3.2.6</sourcedir>
+  <sourcefile>cdemu-daemon-3.2.7.tar.xz</sourcefile>
+  <sourcedir>cdemu-daemon-3.2.7</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRFNZU1RFTV9CVVNfU0VSVklDRT0xIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlIC4u</configure>
   <build>Y2QgYnVpbGQNCm1ha2UgDQo=</build>

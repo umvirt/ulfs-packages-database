@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>VeraCrypt</code>
   <description>VmVyYUNyeXB0IGlzIGZyZWUgb3Blbi1zb3VyY2UgZGlzayBlbmNyeXB0aW9uIHNvZnR3YXJlIGZvciBXaW5kb3dzLCBNYWMgT1MgWCBhbmQgTGludXgu</description>
-  <sourcefile>VeraCrypt_1.26.15.tar.gz</sourcefile>
-  <sourcedir>VeraCrypt_1.26.15</sourcedir>
+  <sourcefile>VeraCrypt_1.26.20.tar.gz</sourcefile>
+  <sourcedir>VeraCrypt_1.26.20</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Y2Qgc3JjDQptYWtl</build>

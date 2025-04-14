@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libmirage</code>
   <description>bGliTWlyYWdlIGlzIGEgQ0QtUk9NIGltYWdlIGFjY2VzcyBsaWJyYXJ5LiBJdCBpcyB3cml0dGVuIGluIEMgYW5kIGJhc2VkIG9uIEdMaWIuIEl0J3MgYWltIGlzIHRvIHByb3ZpZGUgdW5pZm9ybSBhY2Nlc3MgdG8gdGhlIGRhdGEgc3RvcmVkIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
-  <sourcefile>libmirage-3.2.7.tar.xz</sourcefile>
-  <sourcedir>libmirage-3.2.7</sourcedir>
+  <sourcefile>libmirage-3.2.9.tar.xz</sourcefile>
+  <sourcedir>libmirage-3.2.9</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAuLg==</configure>
   <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>

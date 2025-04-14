@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>suil</code>
   <description/>
-  <sourcefile>suil-0.10.20.tar.xz</sourcefile>
-  <sourcedir>suil-0.10.20</sourcedir>
+  <sourcefile>suil-0.10.22.tar.xz</sourcefile>
+  <sourcedir>suil-0.10.22</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmph</build>

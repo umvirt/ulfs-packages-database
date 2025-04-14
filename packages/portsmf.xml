@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>portsmf</code>
   <description>cG9ydHNtZiAoc2hvcnQgZm9yIFBvcnRhYmxlIFN0YW5kYXJkIE1pZGkgRmlsZSBMaWJyYXJ5KSwgYSBzdWJwcm9qZWN0IG9mIHBvcnRtZWRpYSwgaXMgYSBsaWJyYXJ5IGZvciByZWFkaW5nLCB3cml0aW5nLCBhbmQgbWFuaXB1bGF0aW5nIHN0YW5kYXJkIG1pZGkgZmlsZXMu</description>
-  <sourcefile>portsmf-220.tar.gz</sourcefile>
-  <sourcedir>portsmf-220</sourcedir>
+  <sourcefile>portsmf-276.tar.gz</sourcefile>
+  <sourcedir>portsmf-276</sourcedir>
   <unpack/>
   <configure>YXV0b3JlY29uZiAtdmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgICAtLWxpYmRpcj0vdXNyL2xpYiBcDQogICAgICAgICAgICAgIC0taW5jbHVkZWRpcj0vdXNyL2luY2x1ZGUvcG9ydHNtZg0K</configure>
   <build/>

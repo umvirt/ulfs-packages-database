@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>wavpack</code>
   <description>V2F2UGFjayBpcyBhIGNvbXBsZXRlbHkgb3BlbiBhdWRpbyBjb21wcmVzc2lvbiBmb3JtYXQgcHJvdmlkaW5nIGxvc3NsZXNzLCBoaWdoLXF1YWxpdHkgbG9zc3ksIGFuZCBhIHVuaXF1ZSBoeWJyaWQgY29tcHJlc3Npb24gbW9kZS4g</description>
-  <sourcefile>wavpack-5.7.0.tar.bz2</sourcefile>
-  <sourcedir>wavpack-5.7.0</sourcedir>
+  <sourcefile>wavpack-5.8.1.tar.bz2</sourcefile>
+  <sourcedir>wavpack-5.8.1</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtYXNt</configure>
   <build/>

@@ -3,15 +3,20 @@
   <release>0.2.3</release>
   <code>rapidjson</code>
   <description>QSBmYXN0IEpTT04gcGFyc2VyL2dlbmVyYXRvciBmb3IgQysrIHdpdGggYm90aCBTQVgvRE9NIHN0eWxlIEFQSQ==</description>
-  <sourcefile>rapidjson-858451e5b7d1c56cf8f6d58f88cf958351837e53.tar.gz</sourcefile>
-  <sourcedir>rapidjson-858451e5b7d1c56cf8f6d58f88cf958351837e53</sourcedir>
+  <sourcefile>rapidjson-1.1.0.tar.gz</sourcefile>
+  <sourcedir>rapidjson-1.1.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1Ob25lIFwNCiAgICAgIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg6UEFUSD0vdXNyIFwNCiAgICAgIC1EUkFQSURKU09OX0hBU19TVERTVFJJTkc9T04gXA0KICAgICAgLURSQVBJREpTT05fQlVJTERfQ1hYMTE9T04gXA0KICAgICAgLURSQVBJREpTT05fQlVJTERfRE9DPU9GRiBcDQogICAgICAtRFJBUElESlNPTl9CVUlMRF9FWEFNUExFUz1PRkYgXA0KICAgICAgLURSQVBJREpTT05fQlVJTERfVEVTVFM9T0ZGIFwNCiAgICAgIC1EUkFQSURKU09OX0JVSUxEX1RISVJEUEFSVFlfR1RFU1Q9T0ZGIFwNCiAgICAgIC4uDQoNCg==</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>
   <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>rapidjson-3b2441b8.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
