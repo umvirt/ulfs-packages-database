@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>mangohud</code>
   <description>QSBWdWxrYW4gYW5kIE9wZW5HTCBvdmVybGF5IGZvciBtb25pdG9yaW5nIEZQUywgdGVtcGVyYXR1cmVzLCBDUFUvR1BVIGxvYWQgYW5kIG1vcmUu</description>
-  <sourcefile>MangoHud-0.7.2.tar.gz</sourcefile>
-  <sourcedir>MangoHud-0.7.2</sourcedir>
+  <sourcefile>MangoHud-v0.8.1-Source.tar.xz</sourcefile>
+  <sourcedir>MangoHud-v0.8.1</sourcedir>
   <unpack/>
-  <configure>dGFyIC14ZiAuLi9tYW5nb2h1ZC1zdWJwcm9qZWN0cy0wLjcuMi50YXIuZ3oNCmNwIC1ydiBtYW5nb2h1ZC1zdWJwcm9qZWN0cy0wLjcuMi8qIHN1YnByb2plY3RzDQoNCg0KbWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIHNldHVwIC1Ed2l0aF94bnZjdHJsPWRpc2FibGVkIC0tcHJlZml4PS91c3IgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIHNldHVwIC1Ed2l0aF94bnZjdHJsPWRpc2FibGVkIC0tcHJlZml4PS91c3IgLi4=</configure>
   <build>Y2QgYnVpbGQNCg0KbmluamE=</build>
   <install>Y2QgYnVpbGQNCg0KbmluamEgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
@@ -17,9 +17,7 @@
     </dependance>
   </dependances>
   <patches/>
-  <addons>
-    <addon>mangohud-subprojects-0.7.2.tar.gz</addon>
-  </addons>
+  <addons/>
   <nestings/>
   <comments/>
   <archpackages>

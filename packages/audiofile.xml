@@ -13,7 +13,7 @@
   <dependances/>
   <patches>
     <patch>
-      <filename>audiofile-mega.patch</filename>
+      <filename>audiofile-0.3.6-consolidated_patches-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

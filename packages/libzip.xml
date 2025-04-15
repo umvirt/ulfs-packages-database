@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>libzip</code>
   <description>QSBDIGxpYnJhcnkgZm9yIHJlYWRpbmcsIGNyZWF0aW5nLCBhbmQgbW9kaWZ5aW5nIHppcCBhcmNoaXZlcy4=</description>
-  <sourcefile>libzip-1.10.1.tar.xz</sourcefile>
-  <sourcedir>libzip-1.10.1</sourcedir>
+  <sourcefile>libzip-1.11.3.tar.xz</sourcefile>
+  <sourcedir>libzip-1.11.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1HTmluamEgXA0KICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgIC4u</configure>
   <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>

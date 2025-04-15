@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>socat</code>
   <description>Im5ldGNhdCsrIiAoZXh0ZW5kZWQgZGVzaWduLCBuZXcgaW1wbGVtZW50YXRpb24p</description>
-  <sourcefile>socat-1.8.0.0.tar.gz</sourcefile>
-  <sourcedir>socat-1.8.0.0</sourcedir>
+  <sourcefile>socat-1.8.0.3.tar.gz</sourcefile>
+  <sourcedir>socat-1.8.0.3</sourcedir>
   <unpack/>
   <configure/>
   <build/>

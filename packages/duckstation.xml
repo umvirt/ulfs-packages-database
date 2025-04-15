@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>duckstation</code>
   <description>RmFzdCBQbGF5U3RhdGlvbiAxIGVtdWxhdG9yIGZvciB4ODYtNjQvQUFyY2gzMi9BQXJjaDY0L1JWNjQ=</description>
-  <sourcefile>duckstation-0.1-6461.tar.gz</sourcefile>
-  <sourcedir>duckstation-0.1-6461</sourcedir>
+  <sourcefile>duckstation-0.1-8861.tar.gz</sourcefile>
+  <sourcedir>duckstation-0.1-8861</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkIA0KDQpjbWFrZSAtRyBOaW5qYSBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS9vcHQvZHVja3N0YXRpb24gXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
   <build>Y2QgYnVpbGQNCm5pbmph</build>

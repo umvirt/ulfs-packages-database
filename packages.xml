@@ -712,7 +712,7 @@
     <package>network-manager-applet</package>
     <package>a52dec</package>
     <package>libmad</package>
-    <package>!lua-5.2</package>
+    <package>lua-5.2</package>
     <package>vlc</package>
     <package>libidn1</package>
     <package>libdv</package>
@@ -945,7 +945,7 @@
     <package>wavpack</package>
     <package>spectemu</package>
     <package>audiofile</package>
-    <package>svgalib</package>
+    <package>!svgalib</package>
     <package>libspectrum</package>
     <package>fuse-emulator</package>
     <package>emu80sdl</package>
@@ -1047,5 +1047,6 @@
     <package>QR-Code-generator</package>
     <package>websocketpp</package>
     <package>asio</package>
+    <package>opencv</package>
   </packages>
 </packages>

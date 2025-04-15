@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>fuse-emulator</code>
   <description>RnVzZSAodGhlIEZyZWUgVW5peCBTcGVjdHJ1bSBFbXVsYXRvcikgYSBaWCBTcGVjdHJ1bSBlbXVsYXRvciBmb3IgVW5peC4g</description>
-  <sourcefile>fuse-1.5.7.tar.gz</sourcefile>
-  <sourcedir>fuse-1.5.7</sourcedir>
+  <sourcefile>fuse-1.6.0.tar.gz</sourcefile>
+  <sourcedir>fuse-1.6.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>gzdoom</code>
   <description>R1pEb29tIGlzIGEgZmVhdHVyZSBjZW50cmljIHBvcnQgZm9yIGFsbCBEb29tIGVuZ2luZSBnYW1lcywgYmFzZWQgb24gWkRvb20sIGFkZGluZyBhbiBPcGVuR0wgcmVuZGVyZXIgYW5kIHBvd2VyZnVsIHNjcmlwdGluZyBjYXBhYmlsaXRpZXM=</description>
-  <sourcefile>gzdoom-g4.12.2.tar.gz</sourcefile>
-  <sourcedir>gzdoom-g4.12.2</sourcedir>
+  <sourcefile>gzdoom-g4.14.1.tar.gz</sourcefile>
+  <sourcedir>gzdoom-g4.14.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>

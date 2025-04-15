@@ -6,11 +6,16 @@
   <sourcefile>aview-1.3.0rc1.tar.gz</sourcefile>
   <sourcedir>aview-1.3.0</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9aW1wbGljaXQtZnVuY3Rpb24tZGVjbGFyYXRpb24iDQoNCmV4cG9ydCBDRkxBR1MNCg0KYXV0b3JlY29uZiAtZml2DQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>aalib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

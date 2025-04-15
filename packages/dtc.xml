@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>dtc</code>
   <description>VGhlIGR0YyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBEZXZpY2UgVHJlZSBDb21waWxlciBmb3Igd29ya2luZyB3aXRoIGRldmljZSB0cmVlIHNvdXJjZSBhbmQgYmluYXJ5IGZpbGVzIGFuZCBhbHNvIGxpYmZkdCwgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIHJlYWRpbmcgYW5kIG1hbmlwdWxhdGluZyBkZXZpY2UgdHJlZXMgaW4gdGhlIGJpbmFyeSBmb3JtYXQu</description>
-  <sourcefile>dtc-1.7.1.tar.xz</sourcefile>
-  <sourcedir>dtc-1.7.1</sourcedir>
+  <sourcefile>dtc-1.7.2.tar.xz</sourcefile>
+  <sourcedir>dtc-1.7.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgXA0KICAgICAgICAgICAgLUQgcHl0aG9uPWRpc2FibGVkIC4u</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphIA0K</build>

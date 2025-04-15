@@ -2,15 +2,23 @@
 <package>
   <release>0.2.3</release>
   <code>abuse</code>
-  <description>VGhpcyBpcyBhIGZvcmsgb2YgdGhlIG9yaWdpbmFsIEFidXNlIFNETCBwb3J0</description>
-  <sourcefile>abuse-0.9.1.tar.gz</sourcefile>
-  <sourcedir>abuse-0.9.1</sourcedir>
+  <description>VGhpcyBpcyBhIGZvcmsgb2YgdGhlIG9yaWdpbmFsIEFidXNlIFNETCBwb3J0LiBGUFMgbG9jayBmcmVlIHZlcnNpb24u</description>
+  <sourcefile>Abuse_1996-1.0.2.tar.gz</sourcefile>
+  <sourcedir>Abuse_1996-1.0.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQVNTRVRESVI9L3Vzci9zaGFyZS9nYW1lcy9hYnVzZS8gXA0KICAgICAgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQVNTRVRESVI9L3NoYXJlL2dhbWVzL2FidXNlLyBcDQogICAgICAuLg==</configure>
   <build>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</build>
   <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>glew</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>opencv</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>SDL2</code>
       <weight>1</weight>

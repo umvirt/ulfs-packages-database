@@ -3,8 +3,8 @@
   <release>0.2.3</release>
   <code>wine</code>
   <description>V2luZSAob3JpZ2luYWxseSBhbiBhY3JvbnltIGZvciAiV2luZSBJcyBOb3QgYW4gRW11bGF0b3IiKSBpcyBhIGNvbXBhdGliaWxpdHkgbGF5ZXIgY2FwYWJsZSBvZiBydW5uaW5nIFdpbmRvd3MgYXBwbGljYXRpb25zLg==</description>
-  <sourcefile>wine-10.0.tar.xz</sourcefile>
-  <sourcedir>wine-10.0</sourcedir>
+  <sourcefile>wine-10.5.tar.xz</sourcefile>
+  <sourcedir>wine-10.5</sourcedir>
   <unpack/>
   <configure>aWYgWyAkKHVuYW1lIC1tKSA9IGk2ODYgXTsgdGhlbg0KICAgV0lORTY0PSIiDQplbHNlDQogICBXSU5FNjQ9Ii0tZW5hYmxlLXdpbjY0Ig0KZmkNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkV0lORTY0</configure>
   <build/>
