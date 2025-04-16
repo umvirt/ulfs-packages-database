@@ -6,7 +6,7 @@
   <sourcefile>xfce4-screensaver-4.18.4.tar.bz2</sourcefile>
   <sourcedir>xfce4-screensaver-4.18.4</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

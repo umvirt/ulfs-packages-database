@@ -6,7 +6,7 @@
   <sourcefile>pce-20241018-86b4a1a0.tar.gz</sourcefile>
   <sourcedir>pce-20241018-86b4a1a0</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtc2RsIC0tZW5hYmxlLW1hY3BsdXMgLS1kaXNhYmxlLXN0YXRpYw==</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLXdpdGgtc2RsIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLW1hY3BsdXMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyA=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

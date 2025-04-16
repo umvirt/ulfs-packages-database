@@ -6,7 +6,7 @@
   <sourcefile>gettext-0.24.tar.xz</sourcefile>
   <sourcedir>gettext-0.24</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
