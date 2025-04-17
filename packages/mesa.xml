@@ -72,7 +72,7 @@
   <archpackages>
     <archpackage>
       <arch>lib32_amd64</arch>
-      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgICAgICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tbGliZXhlY2RpciAvdXNyL2xpYjMyICBcDQogICAgICAgICAgICAtRHBsYXRmb3Jtcz14MTEsd2F5bGFuZCBcDQogICAgICAgICAgICAtRCBnYWxsaXVtLWRyaXZlcnM9a21zcm8scmFkZW9uc2kscjMwMCxyNjAwLHN3cmFzdCxzdmdhLHZpcmdsLGk5MTUsaXJpcyx6aW5rICBcDQogICAgICAgICAgICAtRCB2dWxrYW4tZHJpdmVycz1hbWQsc3dyYXN0LHZpcnRpbyxpbnRlbCxpbnRlbF9oYXN2ayAgIFwNCiAgICAgICAgICAgIC1EIGdhbGxpdW0tcnVzdGljbD1mYWxzZSBcDQogICAgICAgICAgICAtRHZhbGdyaW5kPWRpc2FibGVkICAgICBcDQogICAgICAgICAgICAtRGxpYnVud2luZD1kaXNhYmxlZCAgICBcDQogICAgICAgICAgICAtRG9zbWVzYT10cnVlICAgICAgICAgICBcDQogICAgICAgICAgICAuLiAgICAgICAgICAgICAgICAgICAgICA=</configure>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KTExWTV9MSUJfRElSPS91c3IvbGliMzIgXA0KTExWTV9DT05GSUc9L3Vzci9iaW4vbGx2bS1jb25maWczMiBcDQptZXNvbiBzZXR1cCAtLWxpYmRpciAvdXNyL2xpYjMyIFwNCiAgICAgICAgICAgIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1saWJleGVjZGlyIC91c3IvbGliMzIgIFwNCiAgICAgICAgICAgIC1EcGxhdGZvcm1zPXgxMSx3YXlsYW5kIFwNCiAgICAgICAgICAgIC1EIGdhbGxpdW0tZHJpdmVycz1yYWRlb25zaSxyMzAwLHI2MDAsc3dyYXN0LHN2Z2EsdmlyZ2wsaTkxNSxpcmlzLHppbmsgIFwNCiAgICAgICAgICAgIC1EIHZ1bGthbi1kcml2ZXJzPWFtZCxzd3Jhc3QsdmlydGlvLGludGVsLGludGVsX2hhc3ZrIFwNCiAgICAgICAgICAgIC1EIGdhbGxpdW0tcnVzdGljbD1mYWxzZSBcDQogICAgICAgICAgICAtRHZhbGdyaW5kPWRpc2FibGVkICAgICBcDQogICAgICAgICAgICAtRGxpYnVud2luZD1kaXNhYmxlZCAgICBcDQogICAgICAgICAgICAtRGFtZGdwdS12aXJ0aW89dHJ1ZSBcDQogICAgICAgICAgICAtRG9zbWVzYT10cnVlICAgICAgICAgICBcDQogICAgICAgICAgICAuLiAgICAgICAgICAgICAgICAgICAgICA=</configure>
       <build>Y2QgYnVpbGQNCg0KbWVzb24gY29tcGlsZQ==</build>
       <install>Y2QgYnVpbGQNCg0KbWVzb24gaW5zdGFsbCAtLWRlc3RkaXIgREVTVERJUg0KY3AgLVJ2IERFU1RESVIvdXNyL2xpYjMyLyogL3Vzci9saWIzMg==</install>
       <dependances>
@@ -122,7 +122,17 @@
           <weight>0</weight>
         </dependance>
         <dependance>
+          <code>systemd</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
           <code>Vulkan-Loader</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>libclc</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

@@ -20,7 +20,7 @@
       <arch>lib32_amd64</arch>
       <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICRBUkdfU1RBVElDIFwNCiAgICAtLWhvc3Q9aTY4Ni1wYy1saW51eC1nbnUgXA0KICAgIC0tbGliZGlyPS91c3IvbGliMzI=</configure>
       <build/>
-      <install/>
+      <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMyDQo=</install>
     </archpackage>
   </archpackages>
 </package>

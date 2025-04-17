@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>json-c</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>freetype-stage2</code>
       <weight>1</weight>
     </dependance>
@@ -23,9 +27,9 @@
   <archpackages>
     <archpackage>
       <arch>lib32_amd64</arch>
-      <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICRBUkdfU1RBVElDIFwNCiAgICAtLWhvc3Q9aTY4Ni1wYy1saW51eC1nbnUgXA0KICAgIC0tZW5hYmxlLWxpYnhtbDIgXA0KICAgIC0tbGliZGlyPS91c3IvbGliMzI=</configure>
+      <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyBcDQogICAgICAgICAgICAtLWhvc3Q9aTY4Ni1wYy1saW51eC1nbnUgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieG1sMiBcDQogICAgICAgICAgICAtLWxpYmRpcj0vdXNyL2xpYjMy</configure>
       <build/>
-      <install/>
+      <install>Y2QgICAgICAgYnVpbGQgDQoNCm1ha2UgREVTVERJUj0kUFdEL0RFU1RESVIgaW5zdGFsbA0KDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMy</install>
       <dependances>
         <dependance>
           <code>libxml2</code>

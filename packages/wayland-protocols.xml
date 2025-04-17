@@ -20,19 +20,4 @@
   <addons/>
   <nestings/>
   <comments/>
-  <archpackages>
-    <archpackage>
-      <arch>lib32_amd64</arch>
-      <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLi4gICAgICAgICAgICBcDQogICAgICAtLWxpYmV4ZWNkaXIgL3Vzci9saWIzMiAgXA0KICAgICAgLS1saWJkaXIgL3Vzci9saWIzMiAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlDQo=</configure>
-      <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
-      <install>Y2QgICAgICAgYnVpbGQNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
-      <dependances>
-        <dependance>
-          <code>wayland</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-      </dependances>
-    </archpackage>
-  </archpackages>
 </package>

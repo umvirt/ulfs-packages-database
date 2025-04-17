@@ -28,4 +28,24 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>c2VkICdzfGFkZF9zdWJkaXJlY3RvcnkodG9vbHMvbGx2bS1zcGlydil8fCcgLWkgQ01ha2VMaXN0cy50eHQNCg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQNCg0KZXhwb3J0IENDPSJnY2MgLW0zMiINCmV4cG9ydCBDWFg9ImcrKyAtbTMyIg0KZXhwb3J0IFBLR19DT05GSUdfUEFUSD0iL3Vzci9saWIzMi9wa2djb25maWciDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICAgICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgICAgICAgICAgICBcDQogICAgICAtRCBCVUlMRF9TSEFSRURfTElCUz1PTiAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX1NLSVBfSU5TVEFMTF9SUEFUSD1PTiAgICAgICAgICAgICAgICAgXA0KICAgICAgLUQgTExWTV9FWFRFUk5BTF9TUElSVl9IRUFERVJTX1NPVVJDRV9ESVI9L3VzciBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRElSPS91c3IvbGliMzIgICAgICAgICAgICAgXA0KICAgICAgLUcgTmluamEgLi4=</configure>
+      <build>Y2QgICAgICAgYnVpbGQgDQoNCm5pbmphIGluc3RhbGw=</build>
+      <install>Y2QgICAgICAgYnVpbGQgDQoNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
+      <dependances>
+        <dependance>
+          <code>llvm</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>SPIRV-Tools</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

@@ -20,4 +20,19 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkDQoNCmV4cG9ydCBDQz0iZ2NjIC1tMzIiDQpleHBvcnQgQ1hYPSJnKysgLW0zMiINCmV4cG9ydCBQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIg0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgICAgICAgICAgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYjMyICAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4uICANCg==</configure>
+      <build>Y2QgICAgYnVpbGQNCm5pbmphIA0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZp</build>
+      <install>Y2QgICAgICAgYnVpbGQgDQoNCkRFU1RESVI9REVTVERJUiBuaW5qYSBpbnN0YWxsDQoNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
+      <dependances>
+        <dependance>
+          <code>SPIRV-LLVM-Translator</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>
