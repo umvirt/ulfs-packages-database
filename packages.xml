@@ -1048,5 +1048,8 @@
     <package>websocketpp</package>
     <package>asio</package>
     <package>opencv</package>
+    <package>docbook-xsl-ns</package>
+    <package>tidy-html5</package>
+    <package>lynx</package>
   </packages>
 </packages>
