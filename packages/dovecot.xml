@@ -44,16 +44,7 @@
       <weight>8</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>dovecot-2.3.21-openssl3_fixes-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>dovecot-2.3.21-security_fix-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

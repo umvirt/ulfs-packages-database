@@ -20,16 +20,7 @@
       <weight>2</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>opencollada-pcre.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>opencollada-novalidator.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>
