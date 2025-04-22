@@ -4,7 +4,7 @@ Version:  0.2.3
 
 Based on: Linux From Scratch 12.3 (March 2025)
 
-Status: Under development. Many packages are broken or missing. 
+Status: Under development. Some packages are broken or missing.
 
 ## About
 
@@ -18,6 +18,8 @@ Source packages license information can be found on source packages files and th
 
 ## Installation or update
 
+### Database
+
 - Go to ULFS Packages directory
 
 - Copy contents of this directory in tmp/0.2.3 directory
@@ -28,7 +30,35 @@ Source packages license information can be found on source packages files and th
 
         ./load_data --path=../tmp/0.2.3 --release=0.2.3 --format=xml
 
-## Edit
+### Files
+
+- Download source package files. 
+    - To download release specific files with wget go to temporary directory and run: 
+
+            wget -x -i http://%repository_name%/linux/packages/files/0.2.3/wget
+
+    - then copy files to storage directory with path "0.2.3/packages".
+
+- Download source package patches. 
+    - To download release specific patches with wget go to temporary directory and run: 
+
+            wget -x -i http://%repository_name%/linux/packages/patches/0.2.3/wget
+
+    - then copy patches to storage directory with path "0.2.3/patches".
+
+- Scan files and add it to database
+
+        ./scan_files
+
+- Scan patches and add it to database
+
+        ./scan_patches
+
+- Update database links to files
+
+        ./updatelinks2files
+
+## Editing
 
 To edit this database to meet your needs you can use:
 
@@ -66,8 +96,51 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 
 ### Differences with BLFS
 
-- glib - splited in 2 packages: glib & glib-gobject
-- xmlto - skip validation to work offline
-- 7zip - modified "for" loop in install script
-- mesa - new version to support amdgpu_virtio
+- glib - Splited in 2 packages: glib & glib-gobject
+- xmlto - Skip validation to work offline
+- 7zip - Modified "for" loop in install script
+- mesa 
+    - New version to support amdgpu_virtio. 
+    - Drivers which need rust compiler is disabled (nouveau)
+- samba - Modified to offline build
+- poppler-app - Disable qt support
+- doxygen - Disable qt support
+- gimp - New release against rc1. + rustless patches
+- babl - New release to build gimp
+- gegl - New release to build gimp
+- network-manager-applet - obsolete. new version
+- libreoffice 
+    - build offline
+    - build without java and gstreamer
+- sane-backends - New version 1.3.1
 
+### Additional packages not mentioned in BLFS
+
+#### Emulation
+
+- Bochs
+- DosBoxes
+- PCE
+- PCEM
+- Simh
+- Fuse
+- Spectemu
+- Fceux
+
+#### Software
+
+- Audacity
+- Blender
+- Wine
+- Shotcut
+- OBS
+
+#### Games
+
+- Abuse 
+- Glest
+- GzDoom
+
+### Known bugs
+
+- OBS is broke Mesa OpenGL
