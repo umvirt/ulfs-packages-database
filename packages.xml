@@ -1051,5 +1051,6 @@
     <package>docbook-xsl-ns</package>
     <package>tidy-html5</package>
     <package>lynx</package>
+    <package>LibreCAD</package>
   </packages>
 </packages>
