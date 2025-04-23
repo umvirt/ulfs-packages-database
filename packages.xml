@@ -1054,5 +1054,7 @@
     <package>LibreCAD</package>
     <package>seahorse</package>
     <package>epiphany</package>
+    <package>whisper.cpp</package>
+    <package>OpenBLAS</package>
   </packages>
 </packages>
