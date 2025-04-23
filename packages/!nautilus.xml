@@ -68,7 +68,7 @@
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>!libportal</code>
+      <code>libportal</code>
       <weight>15</weight>
     </dependance>
   </dependances>
