@@ -93,6 +93,7 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 ### Features
 
 - amdgpu_virtio support in MESA
+- Spice protocol support in QEMU
 
 ### Differences with BLFS
 
@@ -134,13 +135,18 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 - Wine
 - Shotcut
 - OBS
+- LibreCAD
+- Libvirt
+- Virt-Manager
 
 #### Games
 
 - Abuse 
 - Glest
 - GzDoom
+- Extreme Tux Racer
 
 ### Known bugs
 
-- OBS is broke Mesa OpenGL
+- OBS package is broke Mesa. Some OpenGL software and games are start refuse to work properly.
+- Aufs Linux kerel patch which used by default and allows to make Live CD/DVD/USB is broke NFSv4: [https://aufs.sourceforge.net/](https://aufs.sourceforge.net/).
