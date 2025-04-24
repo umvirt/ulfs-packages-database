@@ -3,10 +3,10 @@
   <release>0.2.3</release>
   <code>!HackMatrix</code>
   <description>QSAzZCBMaW51eCBkZXNrdG9wIGVudmlyb25tZW50IChhbmQgZ2FtZSBlbmdpbmUp</description>
-  <sourcefile>HackMatrix-1.stable.tar.gz</sourcefile>
-  <sourcedir>HackMatrix-1.stable</sourcedir>
+  <sourcefile>HackMatrix-2304df21ec0c5904b9dc8661503d51af21135567.tar.xz</sourcefile>
+  <sourcedir>HackMatrix-2304df21ec0c5904b9dc8661503d51af21135567</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Iw==</configure>
   <build/>
   <install>Iw0K</install>
   <localbuild>0</localbuild>
@@ -44,12 +44,7 @@
       <weight>8</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>HackMatrix-DSO.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>
