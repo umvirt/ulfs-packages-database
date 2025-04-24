@@ -1056,5 +1056,8 @@
     <package>epiphany</package>
     <package>whisper.cpp</package>
     <package>OpenBLAS</package>
+    <package>espeak-ng</package>
+    <package>sonic</package>
+    <package>pcaudiolib</package>
   </packages>
 </packages>

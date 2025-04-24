@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>sonic</code>
+  <description>U2ltcGxlIGxpYnJhcnkgdG8gc3BlZWQgdXAgb3Igc2xvdyBkb3duIHNwZWVjaA==</description>
+  <sourcefile>sonic-fda30fba867c08c82dbbecbcc72120652e40d5cb.tar.gz</sourcefile>
+  <sourcedir>sonic-fda30fba867c08c82dbbecbcc72120652e40d5cb</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
