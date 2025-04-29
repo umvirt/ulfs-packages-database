@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>leafpad</code>
+  <description>R1RLKyBiYXNlZCBzaW1wbGUgdGV4dCBlZGl0b3I=</description>
+  <sourcefile>leafpad-0.8.19.tar.gz</sourcefile>
+  <sourcedir>leafpad-0.8.19</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgXA0KICAgIC0tcHJlZml4PS91c3IgXA0KICAgIC0tZW5hYmxlLWNob29zZXINCg==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQplY2hvICdTdGFydHVwTm90aWZ5PXRydWUnID4+IC91c3Ivc2hhcmUvYXBwbGljYXRpb25zL2xlYWZwYWQuZGVza3RvcA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>leafpad-gcc.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

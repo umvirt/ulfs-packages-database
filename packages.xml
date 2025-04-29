@@ -1059,5 +1059,20 @@
     <package>espeak-ng</package>
     <package>sonic</package>
     <package>pcaudiolib</package>
+    <package>leafpad</package>
+    <package>xdelta</package>
+    <package>hexchat</package>
+    <package>scummvm</package>
+    <package>knock</package>
+    <package>squid</package>
+    <package>otp</package>
+    <package>keepassxc</package>
+    <package>argon2</package>
+    <package>libsodium</package>
+    <package>FileZilla</package>
+    <package>libfilezilla</package>
+    <package>msgpack-c</package>
+    <package>Botan</package>
+    <package>aria2</package>
   </packages>
 </packages>

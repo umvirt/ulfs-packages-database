@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>hexchat</code>
+  <description>SVJDIGNsaWVudA==</description>
+  <sourcefile>hexchat-2.16.2.tar.xz</sourcefile>
+  <sourcedir>hexchat-2.16.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIC0tcHJlZml4PS91c3IgICAgICAgICAgXA0KICAgICAgLUR3aXRoLWx1YT1sdWEgICAgICAgICBcDQogICAgICAtRHRleHQtZnJvbnRlbmQ9J3RydWUnIFwNCiAgICAgIC4u</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libcanberra</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnotify</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-cffi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lua-5.4</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
