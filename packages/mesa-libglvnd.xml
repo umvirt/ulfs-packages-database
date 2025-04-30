@@ -54,10 +54,6 @@
   </dependances>
   <patches>
     <patch>
-      <filename>mesa-add_xdemos-4.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
       <filename>mesa-radv-amdgpu-fix-device-deduplication.patch</filename>
       <mode>1</mode>
     </patch>
