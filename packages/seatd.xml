@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>seatd</code>
+  <description>VGhlIHNlYXRkIHBhY2thZ2UgcHJvdmlkZXMgYSB1bml2ZXJzYWwgc2VhdCBtYW5hZ2VtZW50IGxpYnJhcnkuIEl0IGlzIHdoYXQgYSBsb3Qgb2YgV2F5bGFuZCBjb21wb3NpdG9ycyB1c2UgdG8gbWFuYWdlIHNlYXRzLCBhIHNlc3Npb24gZm9yIGEgdXNlciBpbiB3aGljaCBhcHBsaWNhdGlvbnMgY2FuIGludGVyYWN0IHdpdGgu</description>
+  <sourcefile>seatd-0.9.1.tar.gz</sourcefile>
+  <sourcedir>seatd-0.9.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cGxhaW4gICAgICAgICAgIFwNCiAgICAgICAgICAgICAtRGV4YW1wbGVzPSJkaXNhYmxlZCIgICAgICBcDQogICAgICAgICAgICAgLURzZXJ2ZXI9ImVuYWJsZWQiICAgICAgICAgXA0KICAgICAgICAgICAgIC1EbGlic2VhdC1sb2dpbmQ9InN5c3RlbWQiIFwNCiAgICAgICAgICAgIC4u</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KY2QgLi4NCg0KaW5zdGFsbCAtRG02NDQgImNvbnRyaWIvc3lzdGVtZC9zZWF0ZC5zZXJ2aWNlIiBcDQogICAgICAgICAgICAtdCAiL3Vzci9saWIvc3lzdGVtZC9zeXN0ZW0vIg0KDQojdG9kbyBvbiBuZXh0IHJlbGVhc2UNCiNlY2hvICJnIHNlYXQgLSAtIiA+IC91c3IvbGliL3N5c3VzZXJzLmQvc2VhdGQuY29uZg0KDQpncm91cGFkZCAtZyA5NDggc2VhdA0K</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

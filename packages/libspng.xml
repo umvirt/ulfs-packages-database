@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libspng</code>
+  <description>U2ltcGxlLCBtb2Rlcm4gbGlicG5nIGFsdGVybmF0aXZl</description>
+  <sourcefile>libspng-0.7.4.tar.gz</sourcefile>
+  <sourcedir>libspng-0.7.4</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICANCg==</configure>
+  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

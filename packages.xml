@@ -1074,5 +1074,23 @@
     <package>msgpack-c</package>
     <package>Botan</package>
     <package>aria2</package>
+    <package>aquamarine</package>
+    <package>hyprwayland-scanner</package>
+    <package>seatd</package>
+    <package>hyprutils</package>
+    <package>hyprlang</package>
+    <package>hyprcursor-rustless</package>
+    <package>tomlplusplus</package>
+    <package>hyprgraphics</package>
+    <package>libspng</package>
+    <package>re2</package>
+    <package>xcb-util-errors</package>
+    <package>glaze</package>
+    <package>ut</package>
+    <package>hyprland</package>
+    <package>hyprland-qtutils</package>
+    <package>hyprpaper</package>
+    <package>hyprsysteminfo</package>
+    <package>hyprland-qt-support</package>
   </packages>
 </packages>

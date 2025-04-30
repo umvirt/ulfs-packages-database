@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>tomlplusplus</code>
+  <description>SGVhZGVyLW9ubHkgVE9NTCBjb25maWcgZmlsZSBwYXJzZXIgYW5kIHNlcmlhbGl6ZXIgZm9yIEMrKzE3Lg==</description>
+  <sourcefile>tomlplusplus-3.4.0.tar.gz</sourcefile>
+  <sourcedir>tomlplusplus-3.4.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9JFhPUkdfUFJFRklYIA==</configure>
+  <build>Y2QgYnVpbGQNCm5pbmphDQoNCg==</build>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

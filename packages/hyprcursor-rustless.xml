@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>hyprcursor-rustless</code>
+  <description>VGhlIGh5cHJsYW5kIGN1cnNvciBmb3JtYXQsIGxpYnJhcnkgYW5kIHV0aWxpdGllcy4=</description>
+  <sourcefile>hyprcursor-0.1.12.tar.gz</sourcefile>
+  <sourcedir>hyprcursor-0.1.12</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLVduby1kZXYgXA0KICAgICAgLi4=</configure>
+  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cairo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libzip</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>hyprlang</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tomlplusplus</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>hyprcursor-disable-svg.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

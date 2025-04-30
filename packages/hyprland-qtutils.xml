@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>hyprland-qtutils</code>
+  <description>SHlwcmxhbmQgUVQvcW1sIHV0aWxpdHkgYXBwcw==</description>
+  <sourcefile>hyprland-qtutils-0.1.4.tar.gz</sourcefile>
+  <sourcedir>hyprland-qtutils-0.1.4</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLVduby1kZXYgXA0KICAgICAgLi4NCg==</configure>
+  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>wayland</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wayland-protocols</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libxkbcommon</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>jasper</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>hyprwayland-scanner</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>hyprutils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
