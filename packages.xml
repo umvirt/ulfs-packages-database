@@ -1092,5 +1092,10 @@
     <package>hyprpaper</package>
     <package>hyprsysteminfo</package>
     <package>hyprland-qt-support</package>
+    <package>weston</package>
+    <package>freerdp</package>
+    <package>SDL2_ttf</package>
+    <package>neatvnc</package>
+    <package>aml</package>
   </packages>
 </packages>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>aml</code>
+  <description>QW5vdGhlciBNYWluIExvb3A=</description>
+  <sourcefile>aml-0.3.0.tar.gz</sourcefile>
+  <sourcedir>aml-0.3.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3Vzcg0K</configure>
+  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

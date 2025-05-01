@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>weston</code>
+  <description>QSBsaWdodHdlaWdodCBhbmQgZnVuY3Rpb25hbCBXYXlsYW5kIGNvbXBvc2l0b3Iu</description>
+  <sourcefile>weston-14.0.2.tar.xz</sourcefile>
+  <sourcedir>weston-14.0.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3Vzcg0K</configure>
+  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>pipewire</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>seatd</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>freerdp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>neatvnc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
