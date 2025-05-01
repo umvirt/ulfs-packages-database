@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libglibutil</code>
+  <description>TGlicmFyeSBvZiBnbGliIHV0aWxpdGllcw==</description>
+  <sourcefile>libglibutil-1.0.79.tar.gz</sourcefile>
+  <sourcedir>libglibutil-1.0.79</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBLRUVQX1NZTUJPTFM9MSByZWxlYXNlIHBrZ2NvbmZpZw0K</build>
+  <install>bWFrZSBpbnN0YWxsLWRldg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>glib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

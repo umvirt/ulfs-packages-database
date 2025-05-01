@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libnftnl</code>
+  <description>QSB1c2Vyc3BhY2UgbGlicmFyeSBwcm92aWRpbmcgYSBsb3ctbGV2ZWwgbmV0bGluayBwcm9ncmFtbWluZyBpbnRlcmZhY2UgKEFQSSkgdG8gdGhlIGluLWtlcm5lbCBuZl90YWJsZXMgc3Vic3lzdGVtLg==</description>
+  <sourcefile>libnftnl-1.2.9.tar.xz</sourcefile>
+  <sourcedir>libnftnl-1.2.9</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libmnl</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

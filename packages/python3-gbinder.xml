@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-gbinder</code>
+  <description>UHl0aG9uIGJpbmRpbmdzIGZvciBsaWJnYmluZGVy</description>
+  <sourcefile>gbinder-python-1.1.2.tar.gz</sourcefile>
+  <sourcedir>gbinder-python-1.1.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZCAtLWN5dGhvbg==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tcHJlZml4PS91c3I=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libgbinder</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libglibutil</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

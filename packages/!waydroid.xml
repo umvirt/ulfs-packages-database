@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>!waydroid</code>
+  <description>QSBjb250YWluZXItYmFzZWQgYXBwcm9hY2ggdG8gYm9vdCBhIGZ1bGwgQW5kcm9pZCBzeXN0ZW0gb24gcmVndWxhciBHTlUvTGludXggc3lzdGVtcyBydW5uaW5nIFdheWxhbmQgYmFzZWQgZGVza3RvcCBlbnZpcm9ubWVudHMu</description>
+  <sourcefile>waydroid-1.5.1.tar.gz</sourcefile>
+  <sourcedir>waydroid-1.5.1</sourcedir>
+  <unpack/>
+  <configure>IyBSZW1vdmUgbGluayBmb3IgUk9NIGZpbGVzDQpzZWQgLWkgLWUgJy8ic3lzdGVtX2NoYW5uZWwiOi8gcy86ICIuKiIvOiAiIi8nIHRvb2xzL2NvbmZpZy9fX2luaXRfXy5weQ0Kc2VkIC1pIC1lICcvInZlbmRvcl9jaGFubmVsIjovIHMvOiAiLioiLzogIiIvJyB0b29scy9jb25maWcvX19pbml0X18ucHkNCg==</configure>
+  <build>Iw==</build>
+  <install>bWFrZSBpbnN0YWxsIFVTRV9ORlRBQkxFUz0xIFVTRV9TWVNURU1EPTEgVVNFX0RCVVNfQUNUSVZBVElPTj0x</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pygobject</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dnsmasq</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lxc</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nftables</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-gbinder</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

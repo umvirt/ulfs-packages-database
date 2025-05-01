@@ -12,6 +12,14 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>libseccomp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nftables</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>gnupg</code>
       <weight>1</weight>
     </dependance>
