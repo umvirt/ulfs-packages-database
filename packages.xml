@@ -1105,5 +1105,11 @@
     <package>libnftnl</package>
     <package>!dbus-waydroid</package>
     <package>xdg-user-dirs</package>
+    <package>pyclip</package>
+    <package>xclip</package>
+    <package>mailcap</package>
+    <package>wl-clipboard</package>
+    <package>dkms</package>
+    <package>ashmem-module</package>
   </packages>
 </packages>

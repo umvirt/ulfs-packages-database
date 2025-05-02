@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>dkms</code>
+  <description>RHluYW1pYyBLZXJuZWwgTW9kdWxlIFN1cHBvcnQ=</description>
+  <sourcefile>dkms-3.1.8.tar.gz</sourcefile>
+  <sourcedir>dkms-3.1.8</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>bWFrZSBcDQogICAgU0JJTj0vdXNyL2JpbiBcDQogICAgS0NPTkY9Ly4uL3RyYXNoIFwNCiAgICBMSUJESVI9Ly4uL3RyYXNoIFwNCiAgICBNT0RESVI9L3Vzci9saWIvbW9kdWxlcyBcDQogICAgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -39,8 +39,21 @@
       <code>python3-gbinder</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>pyclip</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ashmem-module</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>waydroid-no-apparmor.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

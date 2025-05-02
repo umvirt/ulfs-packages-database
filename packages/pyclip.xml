@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>pyclip</code>
+  <description>Q3Jvc3MtcGxhdGZvcm0gQ2xpcGJvYXJkIG1vZHVsZSBmb3IgUHl0aG9uIHdpdGggYmluYXJ5IHN1cHBvcnQu</description>
+  <sourcefile>pyclip-0.7.0.tar.gz</sourcefile>
+  <sourcedir>pyclip-0.7.0</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzfGRvY3MvUkVBRE1FLm1kfFJFQURNRS5tZHwnIHNldHVwLnB5</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZA==</build>
+  <install>cHl0aG9uMyBzZXR1cC5weSBpbnN0YWxsIC0tc2tpcC1idWlsZCAtLW9wdGltaXplPTENCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>xclip</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>wl-clipboard</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

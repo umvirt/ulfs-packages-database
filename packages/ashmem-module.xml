@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>ashmem-module</code>
+  <description>QXNobWVtIEtlcm5lbCBtb2R1bGU=</description>
+  <sourcefile>anbox-modules-ee4c25f064d89f08136d5814bf2368512973017f.tar.gz</sourcefile>
+  <sourcedir>anbox-modules-ee4c25f064d89f08136d5814bf2368512973017f</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>IyBGaXJzdCBpbnN0YWxsIHRoZSBjb25maWd1cmF0aW9uIGZpbGVzOg0KY3AgYW5ib3guY29uZiAvZXRjL21vZHVsZXMtbG9hZC5kLw0KY3AgOTktYW5ib3gucnVsZXMgL2xpYi91ZGV2L3J1bGVzLmQvDQoNCiMgVGhlbiBjb3B5IHRoZSBtb2R1bGUgc291cmNlcyB0byAvdXNyL3NyYy86DQpjcCAtclQgYXNobWVtIC91c3Ivc3JjL2FuYm94LWFzaG1lbS0xDQojY3AgLXJUIGJpbmRlciAvdXNyL3NyYy9hbmJveC1iaW5kZXItMQ0KDQojIEZpbmFsbHkgdXNlIGRrbXMgdG8gYnVpbGQgYW5kIGluc3RhbGw6DQpka21zIGluc3RhbGwgYW5ib3gtYXNobWVtLzENCiNka21zIGluc3RhbGwgYW5ib3gtYmluZGVyLzENCg0KIyBWZXJpZnkgYnkgbG9hZGluZyB0aGVzZSBtb2R1bGVzIGFuZCBjaGVja2luZyB0aGUgY3JlYXRlZCBkZXZpY2VzOg0KbW9kcHJvYmUgYXNobWVtX2xpbnV4DQojbW9kcHJvYmUgYmluZGVyX2xpbnV4DQpsc21vZCB8IGdyZXAgLWUgYXNobWVtX2xpbnV4DQpscyAtYWxoIC9kZXYvYXNobWVtDQoNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>dkms</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>ashmem-module-gcc.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
