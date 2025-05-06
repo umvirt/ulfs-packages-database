@@ -1097,13 +1097,12 @@
     <package>SDL2_ttf</package>
     <package>neatvnc</package>
     <package>aml</package>
-    <package>!waydroid</package>
+    <package>waydroid</package>
     <package>nftables</package>
     <package>libgbinder</package>
     <package>libglibutil</package>
     <package>python3-gbinder</package>
     <package>libnftnl</package>
-    <package>!dbus-waydroid</package>
     <package>xdg-user-dirs</package>
     <package>pyclip</package>
     <package>xclip</package>
