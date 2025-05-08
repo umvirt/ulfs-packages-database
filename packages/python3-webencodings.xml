@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-webencodings</code>
+  <description>VGhlIHdlYmVuY29kaW5ncyBtb2R1bGUgaXMgYSBQeXRob24gaW1wbGVtZW50YXRpb24gb2YgdGhlIFdIQVRXRyBFbmNvZGluZyBzdGFuZGFyZC4=</description>
+  <sourcefile>webencodings-0.5.1.tar.gz</sourcefile>
+  <sourcedir>webencodings-0.5.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHdlYmVuY29kaW5ncw==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
