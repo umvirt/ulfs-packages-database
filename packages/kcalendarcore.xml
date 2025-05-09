@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kcalendarcore</code>
+  <description/>
+  <sourcefile>kcalendarcore-6.11.0.tar.xz</sourcefile>
+  <sourcedir>kcalendarcore-6.11.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkVYRUNESVI9bGliZXhlYyBcDQogICAgLUQgQ01BS0VfUFJFRklYX1BBVEg9JFFUNkRJUiAgICAgICAgXA0KICAgIC1EIENNQUtFX1NLSVBfSU5TVEFMTF9SUEFUSD1PTiAgICAgIFwNCiAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgICBcDQogICAgLUQgQlVJTERfVEVTVElORz1PRkYgICAgICAgICAgICAgICAgXA0KICAgIC1XIG5vLWRldiAuLg0K</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

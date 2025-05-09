@@ -6,5 +6,6 @@
     <command>kernel_install</command>
     <command>enable_patch_making</command>
     <command>zerofill</command>
+    <command>init_kf6</command>
   </commands>
 </packages>

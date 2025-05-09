@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-kapidox</code>
+  <description/>
+  <sourcefile>kapidox-6.11.0.tar.xz</sourcefile>
+  <sourcedir>kapidox-6.11.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIGthcGlkb3g=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>doxygen</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-requests</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-doxypypy</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-doxyqml</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
