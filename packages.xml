@@ -1193,5 +1193,6 @@
     <package>python3-chardet</package>
     <package>python3-doxyqml</package>
     <package>libraw</package>
+    <package>falkon</package>
   </packages>
 </packages>
