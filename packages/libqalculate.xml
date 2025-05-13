@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libqalculate</code>
+  <description>VGhlIGxpYnFhbGN1bGF0ZSBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0aGF0IHByb3ZpZGVzIGZ1bmN0aW9ucyBmb3IgYSBtdWx0aS1wdXJwb3NlIGNhbGN1bGF0b3Iu</description>
+  <sourcefile>libqalculate-5.5.1.tar.gz</sourcefile>
+  <sourcedir>libqalculate-5.5.1</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnFhbGN1bGF0ZS01LjUuMQ==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQpybSAtdiAvdXNyL2xpYi9saWJxYWxjdWxhdGUubGE=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

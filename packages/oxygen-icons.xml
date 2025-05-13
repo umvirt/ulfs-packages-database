@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>oxygen-icons</code>
+  <description>VGhlIG94eWdlbiBpY29ucyB0aGVtZSBpcyBhIHBob3RvLXJlYWxpc3RpYyBpY29uIHN0eWxlLCB3aXRoIGEgaGlnaCBzdGFuZGFyZCBvZiBncmFwaGljcyBxdWFsaXR5Lg==</description>
+  <sourcefile>oxygen-icons-6.0.0.tar.xz</sourcefile>
+  <sourcedir>oxygen-icons-6.0.0</sourcedir>
+  <unpack/>
+  <configure>I3Jlc2V0IGRhdGUgdG8gZmluZCBpbnN0YWxsZWQgZmlsZXMNCmZpbmQgKiAtZXhlYyB0b3VjaCAtbSB7fSArDQoNCnNlZCAtaSAnLyggb3h5Z2VuLyBzLykvc2NhbGFibGUgKS8nIENNYWtlTGlzdHMudHh0DQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC1XIG5vLWRldiAuLg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>extra-cmake-modules</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>power-profiles-daemon</code>
+  <description>VGhlIFBvd2VyLXByb2ZpbGVzLWRhZW1vbiBwYWNrYWdlIHByb3ZpZGVzIGEgcHJvZ3JhbSB0aGF0IGFsbG93cyBtb2RpZmljYXRpb24gb2YgdGhlIHN5c3RlbSBwb3dlci9iZWhhdmlvciBzdGF0ZS4gVGhpcyBpcyB1c2VkIG9uIG1hbnkgbGFwdG9wcyBhbmQgY2FuIGJlIHVzZWQgYnkgYSBEZXNrdG9wIEVudmlyb25tZW50IHRvIGFjdGl2YXRlIHBvd2VyIHNhdmluZyBvciBwZXJmb3JtYW5jZSBDUFUgZ292ZXJub3JzIHRocm91Z2ggZGJ1cy4gT24gb3RoZXIgc3lzdGVtcywgUG93ZXItcHJvZmlsZXMtZGFlbW9uIGNhbiBiZSB1c2VkIGFzIGEgc3RyZWFtbGluZWQgd2F5IHRvIHNldCB0aGUgQ1BVIGdvdmVybm9yIGluIG9yZGVyIHRvIGluY3JlYXNlIHN5c3RlbSBwZXJmb3JtYW5jZSBhdCB0aGUgY29zdCBvZiBlbmVyZ3kgdXNhZ2UuDQoNCg==</description>
+  <sourcefile>power-profiles-daemon-0.30.tar.gz</sourcefile>
+  <sourcedir>power-profiles-daemon-0.30</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgIFwNCiAgICAgIC1EIGd0a19kb2M9ZmFsc2UgICAgIFwNCiAgICAgIC1EIHRlc3RzPWZhbHNlICAgICAgIFwNCiAgICAgIC4uDQo=</configure>
+  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>polkit</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pygobject</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>upower</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

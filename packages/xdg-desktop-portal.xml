@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>xdg-desktop-portal</code>
+  <description>eGRnLWRlc2t0b3AtcG9ydGFsIGlzIGEgRC1CdXMgc2VydmljZSB0aGF0IGFsbG93cyBhcHBsaWNhdGlvbnMgdG8gaW50ZXJhY3Qgd2l0aCB0aGUgZGVza3RvcCBpbiBhIHNhZmUgd2F5LiBTZXZlcmFsIGFzcGVjdHMgb2YgZGVza3RvcCBpbnRlcmFjdGlvbiwgbGlrZSBmaWxlIGNob29zZXIsIGRlc2t0b3Agc3R5bGUsIGV0YyBhcmUgaW1wbGVtZW50ZWQgaW4gZGlmZmVyZW50IEQtQnVzIEFQSXMsIGtub3duIGFzIHBvcnRhbHMuIFNhbmRib3hlZCBhcHBsaWNhdGlvbnMgYmVuZWZpdCB0aGUgbW9zdCBmcm9tIHRoaXMgc2VydmljZSBzaW5jZSB0aGV5IGRvbid0IG5lZWQgc3BlY2lhbCBwZXJtaXNzaW9ucyB0byB1c2UgdGhlIHBvcnRhbCBBUElzLCBidXQgYW55IGFwcGxpY2F0aW9uIGNhbiB1c2UgaXQuIHhkZy1kZXNrdG9wLXBvcnRhbCBzYWZlZ3VhcmRzIG1hbnkgcmVzb3VyY2VzIGFuZCBmZWF0dXJlcyB3aXRoIGEgdXNlci1jb250cm9sbGVkIHBlcm1pc3Npb24gc3lzdGVtLiBUaGlzIHNlcnZpY2UgbmVlZHMgYSBiYWNrZW5kIGltcGxlbWVudGluZyBkZXNrdG9wLXNwZWNpZmljIHBvcnRhbCBpbnRlcmZhY2VzLg==</description>
+  <sourcefile>xdg-desktop-portal-1.20.0.tar.xz</sourcefile>
+  <sourcedir>xdg-desktop-portal-1.20.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRCB0ZXN0cz1kaXNhYmxlZCAuLiANCg0K</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gdk-pixbuf</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>json-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fuse</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pipewire</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
