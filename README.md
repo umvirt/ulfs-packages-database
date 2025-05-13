@@ -117,6 +117,13 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 
 ### Additional packages not mentioned in BLFS
 
+#### Desktop Environments
+
+- LXDE
+- MATE
+- Hyprland
+- Weston
+
 #### Emulation
 
 - Bochs
@@ -127,8 +134,15 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 - Fuse
 - Spectemu
 - Fceux
+- LXC
+- Waydroid
 
-#### Software
+#### Libs
+
+- WxWidgets
+- QT5
+
+#### Apps
 
 - Audacity
 - Blender
@@ -148,5 +162,7 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 
 ### Known bugs
 
-- OBS package is broke Mesa. Some OpenGL software and games are start refuse to work properly.
+- OBS, Hyprland packages are broke Mesa. Some OpenGL software and games are start refuse to work properly.
 - Aufs Linux kerel patch which used by default and allows to make Live CD/DVD/USB is broke NFSv4: [https://aufs.sourceforge.net/](https://aufs.sourceforge.net/).
+- LXC and Waydroid packages are need kernel reconfigure and rebuild.
+- Falkon have issues with sound playback on some videos.
