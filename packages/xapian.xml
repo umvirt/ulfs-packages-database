@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>xapian</code>
+  <description>WGFwaWFuIGlzIGFuIG9wZW4gc291cmNlIHNlYXJjaCBlbmdpbmUgbGlicmFyeS4=</description>
+  <sourcefile>xapian-core-1.4.27.tar.xz</sourcefile>
+  <sourcedir>xapian-core-1.4.27</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3hhcGlhbi1jb3JlLTEuNC4yNw==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

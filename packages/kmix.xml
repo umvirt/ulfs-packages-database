@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kmix</code>
+  <description>VGhlIEtNaXggcGFja2FnZSBjb250YWlucyBhIEtGNiBiYXNlZCBTb3VuZCBNaXhlciBhcHBsaWNhdGlvbi4=</description>
+  <sourcefile>kmix-24.12.2.tar.xz</sourcefile>
+  <sourcedir>kmix-24.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>KF6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

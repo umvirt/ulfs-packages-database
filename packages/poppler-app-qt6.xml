@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>poppler-app-qt6</code>
+  <description>VGhlIFBvcHBsZXIgcGFja2FnZSBRVDYgdmVyc2lvbg==</description>
+  <sourcefile>poppler-25.02.0.tar.xz</sourcefile>
+  <sourcedir>poppler-25.02.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmNkICAgIGJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAgICYmDQoNCmNtYWtlIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EIFRFU1REQVRBRElSPVwkUFdEL3Rlc3RmaWxlcyBcDQogICAgICAtRCBFTkFCTEVfUVQ1PU9GRiAgICAgICAgICAgICBcDQogICAgICAtRCBFTkFCTEVfUVQ2PU9OICAgICAgICAgICAgIFwNCiAgICAgIC1EIEVOQUJMRV9VTlNUQUJMRV9BUElfQUJJX0hFQURFUlM9T04gXA0KICAgICAgLUcgTmluamEgLi4gIA==</configure>
+  <build>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>poppler</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

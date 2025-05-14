@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libkexiv2</code>
+  <description>TGlia2V4aXYyIGlzIGEgS0RFIHdyYXBwZXIgYXJvdW5kIHRoZSBFeGl2MiBsaWJyYXJ5IGZvciBtYW5pcHVsYXRpbmcgaW1hZ2UgbWV0YWRhdGEu</description>
+  <sourcefile>libkexiv2-24.12.2.tar.xz</sourcefile>
+  <sourcedir>libkexiv2-24.12.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1dJVEhfUVQ2PU9OICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0KDQo=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>exiv2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>KF6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

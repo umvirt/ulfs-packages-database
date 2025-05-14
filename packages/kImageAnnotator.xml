@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kImageAnnotator</code>
+  <description>a0ltYWdlQW5ub3RhdG9yIGlzIGEgdG9vbCBmb3IgYW5ub3RhdGluZyBpbWFnZXMu</description>
+  <sourcefile>kImageAnnotator-0.7.1.tar.gz</sourcefile>
+  <sourcedir>kImageAnnotator-0.7.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBCVUlMRF9TSEFSRURfTElCUz1PTiAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1dJVEhfUVQ2PU9OICAgICAgICAgXA0KICAgICAgLi4NCg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>kColorPicker</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

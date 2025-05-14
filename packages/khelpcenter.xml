@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>khelpcenter</code>
+  <description>S2hlbHBjZW50ZXIgaXMgYW4gYXBwbGljYXRpb24gdG8gc2hvdyBLREUgQXBwbGljYXRpb25zJyBkb2N1bWVudGF0aW9uLg==</description>
+  <sourcefile>khelpcenter-24.12.2.tar.xz</sourcefile>
+  <sourcedir>khelpcenter-24.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qtwebengine6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>KF6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xapian</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

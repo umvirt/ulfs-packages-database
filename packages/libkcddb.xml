@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libkcddb</code>
+  <description>VGhlIGxpYmtjZGRiIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHVzZWQgdG8gcmV0cmlldmUgYXVkaW8gQ0QgbWV0YSBkYXRhIGZyb20gdGhlIGludGVybmV0Lg==</description>
+  <sourcefile>libkcddb-24.12.2.tar.xz</sourcefile>
+  <sourcedir>libkcddb-24.12.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIFFUX01BSk9SX1ZFUlNJT049NiAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLiANCg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>KF6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libmusicbrainz</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

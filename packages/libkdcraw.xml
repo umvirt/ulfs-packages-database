@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libkdcraw</code>
+  <description>TGlia2RjcmF3IGlzIGEgS0RFIHdyYXBwZXIgYXJvdW5kIHRoZSBsaWJyYXcgbGlicmFyeSBmb3IgbWFuaXB1bGF0aW5nIGltYWdlIG1ldGFkYXRhLg==</description>
+  <sourcefile>libkdcraw-24.12.2.tar.xz</sourcefile>
+  <sourcedir>libkdcraw-24.12.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIFFUX01BSk9SX1ZFUlNJT049NiAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>KF6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libraw</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

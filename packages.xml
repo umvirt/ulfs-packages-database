@@ -30,6 +30,13 @@
       <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
       <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
     </template>
+    <template>
+      <code>kde-apps</code>
+      <description>VGVtcGxhdGUgZm9yIEtERSA2IEFwcHM=</description>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
+      <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+      <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+    </template>
   </templates>
   <packages>
     <package>wget</package>
@@ -1280,5 +1287,28 @@
     <package>wacomtablet</package>
     <package>oxygen</package>
     <package>spectacle</package>
+    <package>ark</package>
+    <package>dolphin</package>
+    <package>dolphin-plugins</package>
+    <package>kdenlive</package>
+    <package>kmix</package>
+    <package>xapian</package>
+    <package>khelpcenter</package>
+    <package>konsole</package>
+    <package>konversation</package>
+    <package>libkexiv2</package>
+    <package>kio-extras</package>
+    <package>kdsoap</package>
+    <package>kdsoap-ws-discovery-client</package>
+    <package>poppler-app-qt6</package>
+    <package>okular</package>
+    <package>libkdcraw</package>
+    <package>kColorPicker</package>
+    <package>kImageAnnotator</package>
+    <package>gwenview</package>
+    <package>libkcddb</package>
+    <package>libmusicbrainz</package>
+    <package>k3b</package>
+    <package>KDE-apps</package>
   </packages>
 </packages>
