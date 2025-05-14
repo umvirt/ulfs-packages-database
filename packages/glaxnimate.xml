@@ -3,14 +3,18 @@
   <release>0.2.3</release>
   <code>glaxnimate</code>
   <description>R2xheG5pbWF0ZSBpcyBhIHNpbXBsZSBhbmQgZmFzdCB2ZWN0b3IgZ3JhcGhpY3MgYW5pbWF0aW9uIHByb2dyYW0u</description>
-  <sourcefile>glaxnimate-0.5.4.tar.bz2</sourcefile>
-  <sourcedir>glaxnimate-0.5.4</sourcedir>
+  <sourcefile>glaxnimate-d76ea6103aa9cb8fe69c60b664560e0e84163564.tar.bz2</sourcefile>
+  <sourcedir>glaxnimate-d76ea6103aa9cb8fe69c60b664560e0e84163564</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAgIC1EQlVJTERfV0lUSF9RVDY9T24gICAgICAgICBcDQogICAgICAuLg==</configure>
   <build>Y2QgICAgICAgYnVpbGQNCm1ha2UNCg==</build>
   <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0KaW5zdGFsbCAtdiAtbTY0NCBzaGFyZS9nbGF4bmltYXRlL2dsYXhuaW1hdGUvZ2xheG5pbWF0ZS5kZXNrdG9wIC91c3Ivc2hhcmUvYXBwbGljYXRpb25z</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libarchive</code>
       <weight>1</weight>
@@ -22,10 +26,6 @@
     <dependance>
       <code>libavif</code>
       <weight>3</weight>
-    </dependance>
-    <dependance>
-      <code>qt5</code>
-      <weight>4</weight>
     </dependance>
     <dependance>
       <code>potrace</code>

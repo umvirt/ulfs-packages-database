@@ -6,7 +6,7 @@
   <sourcefile>mlt-7.30.0.tar.gz</sourcefile>
   <sourcedir>mlt-7.30.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCgktRE1PRF9HTEFYTklNQVRFPU9OIFwNCgktRE1PRF9HTEFYTklNQVRFX1FUNj1PTiBcDQoJLURNT0RfUVQ2PU9OIFwNCgktRE1PRF9NT1ZJVD1PTiBcDQoJLURTV0lHX1BZVEhPTj1PTiBcDQogICAgICAgIC4u</configure>
   <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
   <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
