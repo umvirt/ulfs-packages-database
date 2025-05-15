@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>obconf-qt</code>
+  <description>VGhlIG9iY29uZi1xdCBwYWNrYWdlIGlzIGEgUXQtYmFzZWQgY29uZmlndXJhdGlvbiB0b29sIGZvciBPcGVuYm94Lg==</description>
+  <sourcefile>obconf-qt-0.16.5.tar.xz</sourcefile>
+  <sourcedir>obconf-qt-0.16.5</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>hicolor-icon-theme</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openbox</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lxqt-build-tools</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

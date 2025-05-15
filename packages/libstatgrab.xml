@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libstatgrab</code>
+  <description>VGhpcyBpcyBhIGxpYnJhcnkgdGhhdCBwcm92aWRlcyBjcm9zcyBwbGF0Zm9ybSBhY2Nlc3MgdG8gc3RhdGlzdGljcyBhYm91dCB0aGUgc3lzdGVtIG9uIHdoaWNoIGl0J3MgcnVuLiBJdCdzIHdyaXR0ZW4gaW4gQyBhbmQgcHJlc2VudHMgYSBzZWxlY3Rpb24gb2YgdXNlZnVsIGludGVyZmFjZXMgd2hpY2ggY2FuIGJlIHVzZWQgdG8gYWNjZXNzIGtleSBzeXN0ZW0gc3RhdGlzdGljcy4gVGhlIGN1cnJlbnQgbGlzdCBvZiBzdGF0aXN0aWNzIGluY2x1ZGVzIENQVSB1c2FnZSwgbWVtb3J5IHV0aWxpc2F0aW9uLCBkaXNrIHVzYWdlLCBwcm9jZXNzIGNvdW50cywgbmV0d29yayB0cmFmZmljLCBkaXNrIEkvTywgYW5kIG1vcmUu</description>
+  <sourcefile>libstatgrab-0.92.1.tar.gz</sourcefile>
+  <sourcedir>libstatgrab-0.92.1</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGlic3RhdGdyYWItMC45Mi4x</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

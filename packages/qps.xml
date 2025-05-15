@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>qps</code>
+  <description>VGhlIHFwcyBwYWNrYWdlIGNvbnRhaW5zIGEgUXQgcHJvY2VzcyBtYW5hZ2VyLg==</description>
+  <sourcefile>qps-2.10.0.tar.xz</sourcefile>
+  <sourcedir>qps-2.10.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0KDQp4ZGctaWNvbi1yZXNvdXJjZSBmb3JjZXVwZGF0ZSAtLXRoZW1lIGhpY29sb3INCg==</install>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>liblxqt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

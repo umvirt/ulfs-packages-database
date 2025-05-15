@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>lxqt-session</code>
+  <description>VGhlIGx4cXQtc2Vzc2lvbiBwYWNrYWdlIGNvbnRhaW5zIHRoZSBkZWZhdWx0IHNlc3Npb24gbWFuYWdlciBmb3IgTFhRdC4=</description>
+  <sourcefile>lxqt-session-2.1.1.tar.xz</sourcefile>
+  <sourcedir>lxqt-session-2.1.1</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICcvVHJ5RXhlYy9zfD18PS91c3IvYmluL3wnIFwNCiAgICAtaSB4c2Vzc2lvbi9seHF0LmRlc2t0b3AuaW4gJiYNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLiAgDQo=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>xdg-user-dirs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>liblxqt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qtxdg-tools</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

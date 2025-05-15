@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>pavucontrol-qt</code>
+  <description>cGF2dWNvbnRyb2wtcXQgaXMgdGhlIFF0IHBvcnQgb2YgdGhlIHZvbHVtZSBjb250cm9sIHV0aWxpdHkgcGF2dWNvbnRyb2wsIHdoaWNoIGlzIHVzZWQgdG8gYWRqdXN0IGF1ZGlvIGxldmVscyBpbiBQdWxzZWF1ZGlvLiBJdCBpcyBkZXNrdG9wIGVudmlyb25tZW50IGFnbm9zdGljLg==</description>
+  <sourcefile>pavucontrol-qt-2.1.0.tar.xz</sourcefile>
+  <sourcedir>pavucontrol-qt-2.1.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>pulseaudio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>liblxqt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

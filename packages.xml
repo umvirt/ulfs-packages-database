@@ -37,6 +37,13 @@
       <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
       <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
     </template>
+    <template>
+      <code>lxqt</code>
+      <description>VGVtcGxhdGUgZm9yIGx4cXQgcGFja2FnZXM=</description>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg==</configure>
+      <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+      <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+    </template>
   </templates>
   <packages>
     <package>wget</package>
@@ -1310,5 +1317,40 @@
     <package>libmusicbrainz</package>
     <package>k3b</package>
     <package>KDE-apps</package>
+    <package>lxqt-build-tools</package>
+    <package>libdbusmenu-lxqt</package>
+    <package>libqtxdg</package>
+    <package>lxqt-menu-data</package>
+    <package>liblxqt</package>
+    <package>libsysstat</package>
+    <package>qtxdg-tools</package>
+    <package>libfm-qt</package>
+    <package>lxqt-globalkeys</package>
+    <package>lxqt-qtplugin</package>
+    <package>lxqt-panel</package>
+    <package>libstatgrab</package>
+    <package>pcmanfm-qt</package>
+    <package>lxqt-powermanagement</package>
+    <package>muparser</package>
+    <package>lxqt-runner</package>
+    <package>lxqt-themes</package>
+    <package>lxqt-admin</package>
+    <package>lxqt-about</package>
+    <package>lxqt-config</package>
+    <package>lxqt-policykit</package>
+    <package>lxqt-sudo</package>
+    <package>lxqt-openssh-askpass</package>
+    <package>lxqt-session</package>
+    <package>xdg-desktop-portal-lxqt</package>
+    <package>obconf-qt</package>
+    <package>lximage-qt</package>
+    <package>lxqt-archiver</package>
+    <package>lxqt-notificationd</package>
+    <package>pavucontrol-qt</package>
+    <package>qps</package>
+    <package>qtermwidget</package>
+    <package>qterminal</package>
+    <package>screengrab</package>
+    <package>!LXQT</package>
   </packages>
 </packages>

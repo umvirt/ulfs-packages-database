@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libsysstat</code>
+  <description>VGhlIGxpYnN5c3N0YXQgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCB0byBxdWVyeSBzeXN0ZW0gaW5mb3JtYXRpb24gYW5kIHN0YXRpc3RpY3Mu</description>
+  <sourcefile>libsysstat-1.1.0.tar.xz</sourcefile>
+  <sourcedir>libsysstat-1.1.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>lxqt-build-tools</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

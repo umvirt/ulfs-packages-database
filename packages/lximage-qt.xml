@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>lximage-qt</code>
+  <description>VGhlIGx4aW1hZ2UtcXQgcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IGltYWdlIHZpZXdlciBhbmQgc2NyZWVuc2hvdCBwcm9ncmFtLg==</description>
+  <sourcefile>lximage-qt-2.1.1.tar.xz</sourcefile>
+  <sourcedir>lximage-qt-2.1.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0KDQp4ZGctaWNvbi1yZXNvdXJjZSBmb3JjZXVwZGF0ZSAtLXRoZW1lIGhpY29sb3INCg==</install>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>libfm-qt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>lxqt-config</code>
+  <description>VGhlIGx4cXQtY29uZmlnIHBhY2thZ2UgcHJvdmlkZXMgdGhlIExYUXQgQ29uZmlndXJhdGlvbiBDZW50ZXIu</description>
+  <sourcefile>lxqt-config-2.1.1.tar.xz</sourcefile>
+  <sourcedir>lxqt-config-2.1.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>xf86-input-libinput</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>KF6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>plasma</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>liblxqt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

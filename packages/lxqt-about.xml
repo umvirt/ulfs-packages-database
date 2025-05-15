@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>lxqt-about</code>
+  <description>VGhlIGx4cXQtYWJvdXQgcGFja2FnZSBwcm92aWRlcyB0aGUgc3RhbmRhbG9uZSBMWFF0IOKAnEFib3V04oCdIGRpYWxvZy4=</description>
+  <sourcefile>lxqt-about-2.1.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-about-2.1.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>lxqt</template>
+  <dependances>
+    <dependance>
+      <code>liblxqt</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
