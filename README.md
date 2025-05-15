@@ -88,12 +88,27 @@ CPU:
 - qemu64 - for common CPUs builds
 - amd64 - for specific CPUs builds
 
-Memory: Some packages are need 3GB per CPU core or more. If you don't have enough memory, you have to reduce CPU cores quantity.
+Memory: 
+
+Some packages are need 3GB per CPU core or more. If you don't have enough memory, you have to reduce CPU cores quantity.
+
+If you wish to build qtwebengine6, kf6 and plasma you have to use formula:
+
+        (2+CPU)*3GB
+
+We use virtual machine with 4 Virtual CPUs and 20GB of RAM.
+
+More info at [BLFS](https://umvirt.com/linux/doc/ulfs/0.2.3/blfs/x/qtwebengine.html) book.
+
+Disk:
+
+At least 100GB to build qt6, qtwebengine6, kf6 and plasma.
 
 ### Features
 
 - amdgpu_virtio support in MESA
 - Spice protocol support in QEMU
+- Android container emulation with Waydroid and Lineage OS
 
 ### Differences with BLFS
 
@@ -105,7 +120,7 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
     - Drivers which need rust compiler is disabled (nouveau)
 - samba - Modified to offline build
 - poppler-app - Disable qt support
-- doxygen - Disable qt support
+- doxygen - Disable qt support2
 - gimp - New release against rc1. + rustless patches
 - babl - New release to build gimp
 - gegl - New release to build gimp
@@ -153,6 +168,11 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 - Libvirt
 - Virt-Manager
 
+#### AI
+
+- Whisper.cpp (speach-to-text)
+- Espeak-ng (text-to-speech)
+
 #### Games
 
 - Abuse 
@@ -166,3 +186,43 @@ Memory: Some packages are need 3GB per CPU core or more. If you don't have enoug
 - Aufs Linux kerel patch which used by default and allows to make Live CD/DVD/USB is broke NFSv4: [https://aufs.sourceforge.net/](https://aufs.sourceforge.net/).
 - LXC and Waydroid packages are need kernel reconfigure and rebuild.
 - Falkon have issues with sound playback on some videos.
+
+### Xorg Desktop Environments build roadmap
+
+Building Xorg Desktop Environments is not simple task. In order to increase failover, to reduce complexity and costs packages should be built step-by-step.
+
+* X
+* LXDE
+* MATE
+* XFCE
+* qt6 (!)
+* qtwebengine6 (!)
+* KF6 (!)
+* falkon
+* plasma (!)
+* KDE_apps
+* !LXQT
+
+(!) - expensive packages, their building is consumes a lot of time.
+
+After each step creating backup or snapshot is required to restore after failure.
+
+If you wish to use ULFS in server you can stop at "X" or any other step.
+
+If you wish to use ULFS in desktop without Falkon browser you can stop after building "qt6" (Qt6 is required by many applications).
+
+If you wish to use ULFS in desktop with Falkon browser you can stop after building "falkon".
+
+If you wish to run applications for KDE you can stop after "KDE_apps".
+
+### Wayland Desktop Environments
+
+Wayland Desktop Environments support is experimental.
+
+You can try to build Weston and Hyprland after installing qt6 package.
+
+Some additional Wayland packages are need Go compiler. 
+You can use precompiled Go compiler [binary](https://go.dev/) or bootstrap Go compiler from GCC with [ULFS Autobuilds](https://umvirt.com/autobuilds/go).
+
+Also you can play with [Waydroid](https://umvirt.com/waydroid) in Weston.
+
