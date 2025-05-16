@@ -24,6 +24,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>bubblewrap</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>fuse</code>
       <weight>0</weight>
     </dependance>
