@@ -6,7 +6,7 @@
   <sourcefile>ocean-sound-theme-6.3.2.tar.xz</sourcefile>
   <sourcedir>ocean-sound-theme-6.3.2</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>I3Jlc2V0IGRhdGUgdG8gZmluZCBpbnN0YWxsZWQgZmlsZXMNCmZpbmQgKiAtZXhlYyB0b3VjaCAtbSB7fSArDQoNCm1rZGlyIGJ1aWxkDQpjZCAgICBidWlsZA0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0kS0Y2X1BSRUZJWCBcDQogICAgIC1EIENNQUtFX0lOU1RBTExfTElCRVhFQ0RJUj1saWJleGVjIFwNCiAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgXA0KICAgICAtRCBCVUlMRF9RVDU9T0ZGICAgICAgICAgICAgICAgICAgICBcDQogICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgLVcgbm8tZGV2IC4uDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
