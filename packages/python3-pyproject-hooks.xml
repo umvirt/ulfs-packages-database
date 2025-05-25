@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-pyproject-hooks</code>
+  <description>QSBsb3ctbGV2ZWwgbGlicmFyeSBmb3IgY2FsbGluZyBidWlsZC1iYWNrZW5kcyBpbiBgcHlwcm9qZWN0LnRvbWxgLWJhc2VkIHByb2plY3Q=</description>
+  <sourcefile>pyproject-hooks-1.2.0.tar.gz</sourcefile>
+  <sourcedir>pyproject-hooks-1.2.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHB5cHJvamVjdC1ob29rcw==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1352,5 +1352,7 @@
     <package>qterminal</package>
     <package>screengrab</package>
     <package>!LXQT</package>
+    <package>python3-build</package>
+    <package>python3-pyproject-hooks</package>
   </packages>
 </packages>
