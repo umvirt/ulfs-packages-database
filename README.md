@@ -168,9 +168,9 @@ At least 100GB to build qt6, qtwebengine6, kf6 and plasma.
 - Libvirt
 - Virt-Manager
 
-#### AI
-
-- Whisper.cpp (speach-to-text)
+#### Artificial Intelligence (AI)
+ 
+- Whisper.cpp (speech-to-text)
 - Espeak-ng (text-to-speech)
 
 #### Games
@@ -186,6 +186,7 @@ At least 100GB to build qt6, qtwebengine6, kf6 and plasma.
 - Aufs Linux kerel patch which used by default and allows to make Live CD/DVD/USB is broke NFSv4: [https://aufs.sourceforge.net/](https://aufs.sourceforge.net/).
 - LXC and Waydroid packages are need kernel reconfigure and rebuild.
 - Falkon have issues with sound playback on some videos.
+- Libvirt should use iptables as network filter because Firewalld is conflicts with nftables [https://github.com/firewalld/firewalld/issues/1370](https://github.com/firewalld/firewalld/issues/1370)
 
 ### Xorg Desktop Environments build roadmap
 
