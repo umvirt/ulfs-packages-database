@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>gtk-recordmydesktop</code>
+  <description>cmVjb3JkTXlEZXNrdG9wIEdUSyBmcm9udC1lbmQ=</description>
+  <sourcefile>gtk-recordmydesktop-0.3.8.tar.gz</sourcefile>
+  <sourcedir>gtk-recordmydesktop-0.3.8</sourcedir>
+  <unpack/>
+  <configure>c2VkICdzL3VzclwvYmluXC9weXRob24vdXNyXC9iaW5cL3B5dGhvbjIvJyAtaSBzcmMvZ3RrLXJlY29yZE15RGVza3RvcC5pbg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>Python2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pygtk2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>recordmydesktop</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1354,5 +1354,7 @@
     <package>!LXQT</package>
     <package>python3-build</package>
     <package>python3-pyproject-hooks</package>
+    <package>recordmydesktop</package>
+    <package>gtk-recordmydesktop</package>
   </packages>
 </packages>
