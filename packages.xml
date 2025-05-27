@@ -1356,5 +1356,9 @@
     <package>python3-pyproject-hooks</package>
     <package>recordmydesktop</package>
     <package>gtk-recordmydesktop</package>
+    <package>sshpass</package>
+    <package>ansible</package>
+    <package>python3-jinja2</package>
+    <package>python3-resolvelib</package>
   </packages>
 </packages>

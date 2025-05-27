@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-jinja2</code>
+  <description>SmluamEgaXMgYSBzYW5kYm94ZWQgdGVtcGxhdGUgZW5naW5lIHdyaXR0ZW4gaW4gcHVyZSBQeXRob24uIEl0IHByb3ZpZGVzIGEgRGphbmdvIGxpa2Ugbm9uLVhNTCBzeW50YXggYW5kIGNvbXBpbGVzIHRlbXBsYXRlcyBpbnRvIGV4ZWN1dGFibGUgcHl0aG9uIGNvZGUuIEl04oCZcyBiYXNpY2FsbHkgYSBjb21iaW5hdGlvbiBvZiBEamFuZ28gdGVtcGxhdGVzIGFuZCBweXRob24gY29kZS4=</description>
+  <sourcefile>jinja2-3.1.6.tar.gz</sourcefile>
+  <sourcedir>jinja2-3.1.6</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGppbmphMg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
