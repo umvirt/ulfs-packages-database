@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>perl-sys-meminfo</code>
+  <description>U3lzOjpNZW1JbmZvIC0gcXVlcnkgdGhlIHRvdGFsIGZyZWUgYW5kIHVzZWQgcGh5c2ljYWwgbWVtb3J5</description>
+  <sourcefile>Sys-MemInfo-0.99.tar.gz</sourcefile>
+  <sourcedir>Sys-MemInfo-0.99</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

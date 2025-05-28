@@ -1360,5 +1360,30 @@
     <package>ansible</package>
     <package>python3-jinja2</package>
     <package>python3-resolvelib</package>
+    <package>ZoneMinder</package>
+    <package>perl-dbi</package>
+    <package>perl-devel-checklib</package>
+    <package>perl-dbd-mariadb</package>
+    <package>perl-test-inter</package>
+    <package>perl-date-manip</package>
+    <package>perl-libwww</package>
+    <package>perl-http-message</package>
+    <package>perl-clone</package>
+    <package>perl-b-cow</package>
+    <package>perl-encode</package>
+    <package>perl-encode-locale</package>
+    <package>perl-http-date</package>
+    <package>perl-time-local</package>
+    <package>perl-timedate</package>
+    <package>perl-io-html</package>
+    <package>perl-lwp-medatypes</package>
+    <package>perl-test-fatal</package>
+    <package>perl-try-tiny</package>
+    <package>perl-test-needs</package>
+    <package>perl-sys-mmap</package>
+    <package>libjwt</package>
+    <package>mosquitto</package>
+    <package>perl-sys-meminfo</package>
+    <package>perl-number-bytes-human</package>
   </packages>
 </packages>
