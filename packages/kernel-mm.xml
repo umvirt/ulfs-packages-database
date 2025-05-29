@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kernel-mm</code>
+  <description>bWlzYyBtbSB0b29scw==</description>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyB0b29scy8gbW0=</build>
+  <install>bWFrZSAtQyB0b29scy8gbW1faW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

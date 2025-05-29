@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kernel-leds</code>
+  <description>TEVEcyAgdG9vbHM=</description>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyB0b29scy8gbGVkcw0K</build>
+  <install>Y2QgdG9vbHMvbGVkcw0KDQpjcCAtdiBnZXRfbGVkX2RldmljZV9pbmZvLnNoIFwNCmxlZF9od19icmlnaHRuZXNzX21vbiBcDQp1bGVkbW9uIC91c3IvYmlu</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

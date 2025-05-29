@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kernel-tmon</code>
+  <description>dGhlcm1hbCBtb25pdG9yaW5nIGFuZCB0dW5pbmcgdG9vbA==</description>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyB0b29scy8gdG1vbg==</build>
+  <install>bWFrZSAtQyB0b29scy8gdG1vbl9pbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

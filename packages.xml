@@ -1385,5 +1385,38 @@
     <package>mosquitto</package>
     <package>perl-sys-meminfo</package>
     <package>perl-number-bytes-human</package>
+    <package>kernel-cpupower</package>
+    <package>kernel-debugging</package>
+    <package>kernel-acpi</package>
+    <package>kernel-bpf</package>
+    <package>kernel-counter</package>
+    <package>kernel-firewire</package>
+    <package>kernel-firmware</package>
+    <package>kernel-freefall</package>
+    <package>kernel-gpio</package>
+    <package>kernel-hv</package>
+    <package>kernel-iio</package>
+    <package>kernel-intel-speed-select</package>
+    <package>kernel-kvm_stat</package>
+    <package>kernel-leds</package>
+    <package>kernel-nolibc</package>
+    <package>kernel-objtool</package>
+    <package>kernel-pci</package>
+    <package>kernel-bootconfig</package>
+    <package>kernel-spi</package>
+    <package>kernel-tmon</package>
+    <package>kernel-thermometer</package>
+    <package>kernel-thermal-engine</package>
+    <package>kernel-thermal</package>
+    <package>libconfig</package>
+    <package>kernel-thermal-tools</package>
+    <package>kernel-tracing</package>
+    <package>libtraceevent</package>
+    <package>libtracefs</package>
+    <package>kernel-turbostat</package>
+    <package>kernel-usb</package>
+    <package>kernel-mm</package>
+    <package>kernel-wmi</package>
+    <package>kernel-x86_energy_perf_policy</package>
   </packages>
 </packages>

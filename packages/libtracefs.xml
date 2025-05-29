@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libtracefs</code>
+  <description>TGludXgga2VybmVsIHRyYWNlIGZpbGUgc3lzdGVtIGxpYnJhcnk=</description>
+  <sourcefile>libtracefs-1.8.2.tar.gz</sourcefile>
+  <sourcedir>libtracefs-1.8.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBsaWJkaXJfcmVsYXRpdmU9bGliIHByZWZpeD0vdXNyIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

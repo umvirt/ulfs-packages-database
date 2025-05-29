@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kernel-bootconfig</code>
+  <description>Ym9vdCBjb25maWcgdG9vbA==</description>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyB0b29scy8gYm9vdGNvbmZpZw==</build>
+  <install>bWFrZSAtQyB0b29scy8gYm9vdGNvbmZpZ19pbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

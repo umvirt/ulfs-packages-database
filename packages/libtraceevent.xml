@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libtraceevent</code>
+  <description>TGlicmFyeSB0byBwYXJzZSByYXcgdHJhY2UgZXZlbnQgZm9ybWF0cw==</description>
+  <sourcefile>libtraceevent-1.8.4.tar.gz</sourcefile>
+  <sourcedir>libtraceevent-1.8.4</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsIGxpYmRpcl9yZWxhdGl2ZT1saWIgcHJlZml4PS91c3I=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

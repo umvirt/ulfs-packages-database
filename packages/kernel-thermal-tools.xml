@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kernel-thermal-tools</code>
+  <description/>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Y2QgdG9vbHMvdGhlcm1hbC9saWINCm1ha2UgTFA2ND0w</build>
+  <install>Y2QgdG9vbHMvdGhlcm1hbC9saWINCm1ha2UgaW5zdGFsbF9saWIgTFA2ND0wIA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>kernel-thermal</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

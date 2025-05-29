@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kernel-tracing</code>
+  <description/>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyB0b29scy8gdHJhY2luZw==</build>
+  <install>bWFrZSAtQyB0b29scy8gdHJhY2luZ19pbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>kernel-cpupower</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libtraceevent</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libtracefs</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

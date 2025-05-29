@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kernel-intel-speed-select</code>
+  <description>SW50ZWwgU3BlZWQgU2VsZWN0IHRvb2w=</description>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyB0b29scy8gaW50ZWwtc3BlZWQtc2VsZWN0DQo=</build>
+  <install>bWFrZSAtQyB0b29scy8gaW50ZWwtc3BlZWQtc2VsZWN0X2luc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
