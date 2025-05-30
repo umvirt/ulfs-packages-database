@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>eb</code>
+  <description>RUIgTGlicmFyeSBpcyBhIEMgbGlicmFyeSBmb3IgYWNjZXNzaW5nIENELVJPTSBib29rcy4=</description>
+  <sourcefile>eb-4.4.3.tar.bz2</sourcefile>
+  <sourcedir>eb-4.4.3</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICdzLy1saWNvbnYvL2cnIFwNCiAgICAgIC1pICdtNC9nZXR0ZXh0Lm00JyBcDQogICAgICAtaSAnY29uZmlndXJlJw0Kc2VkIC1lICdzLy1sbnNsLy9nJyBcDQogICAgICAtZSAncy8tbHJlc29sdi8vZycgXA0KICAgICAgLWkgJ2NvbmZpZ3VyZScNCnNlZCAtZSAnL0FDX0NIRUNLX0xJQihuc2wvYy8nIFwNCiAgICAgIC1lICcvQUNfQ0hFQ0tfTElCKHJlc29sdi9jLycgXA0KICAgICAgLWkgJ2NvbmZpZ3VyZS5hYycNCg0KYXV0b3VwZGF0ZSAtLWZvcmNlDQoNCmF1dG9yZWNvbmYgLXZmaQ0KDQpDRkxBR1MrPSIgLVduby1lcnJvcj1pbmNvbXBhdGlibGUtcG9pbnRlci10eXBlcyINCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQpleHBvcnQgQ0ZMQUdTOw0KDQouL2NvbmZpZ3VyZSBcDQogICAgLS1wcmVmaXg9Jy91c3InIFwNCiAgICAtLWxpYmV4ZWNkaXI9Ii91c3IvbGliL2ViIiBcDQogICAgLS1sb2NhbHN0YXRlZGlyPSIvdmFyL2xpYi9lYiIgXA0KICAgIC0tc3lzY29uZmRpcj0nL2V0YycgXA0KICAgIC0td2l0aC1wa2dkb2NkaXI9Ii91c3Ivc2hhcmUvZG9jL2h0bWwvZWIiIFwNCiAgICAtLWRpc2FibGUtc2lsZW50LXJ1bGVzIFwNCiAgICAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>eb-debian.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

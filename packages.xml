@@ -1418,5 +1418,10 @@
     <package>kernel-mm</package>
     <package>kernel-wmi</package>
     <package>kernel-x86_energy_perf_policy</package>
+    <package>goldendict-ng</package>
+    <package>libzim</package>
+    <package>hunspell</package>
+    <package>OpenCC</package>
+    <package>eb</package>
   </packages>
 </packages>

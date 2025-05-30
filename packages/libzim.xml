@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libzim</code>
+  <description>UmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBaSU0gc3BlY2lmaWNhdGlvbg==</description>
+  <sourcefile>libzim-9.3.0.tar.gz</sourcefile>
+  <sourcedir>libzim-9.3.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphIA0K</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>icu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>googletest</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xapian</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>libzim-9.2.3-icu76-build-fix.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
