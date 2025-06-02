@@ -1423,5 +1423,12 @@
     <package>hunspell</package>
     <package>OpenCC</package>
     <package>eb</package>
+    <package>xzoom</package>
+    <package>imake-base</package>
+    <package>gccmakedep</package>
+    <package>lndir</package>
+    <package>makedepend</package>
+    <package>xorg-cf-files</package>
+    <package>imake</package>
   </packages>
 </packages>

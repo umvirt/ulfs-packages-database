@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>imake</code>
+  <description>aW1ha2UgaXMgYSBidWlsZCBhdXRvbWF0aW9uIHN5c3RlbSB3cml0dGVuIGZvciB0aGUgWCBXaW5kb3cgU3lzdGVtLiBJdCB3YXMgdXNlZCBieSBYIGZyb20gWDExUjEgKDE5ODcpIHRvIFgxMVI2LjkgKDIwMDUpLCBhbmQgY29udGludWVkIHRvIGJlIHVzZWQgaW4gWEZyZWU4NiAobGFzdCBjb21taXQgMjAwOSk=</description>
+  <sourcefile/>
+  <sourcedir/>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>imake-base</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gccmakedep</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lndir</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>makedepend</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xorg-cf-files</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
