@@ -1430,5 +1430,7 @@
     <package>makedepend</package>
     <package>xorg-cf-files</package>
     <package>imake</package>
+    <package>gst-rtsp-server</package>
+    <package>gst-plugins-ugly</package>
   </packages>
 </packages>
