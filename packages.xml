@@ -1489,5 +1489,29 @@
     <package>plasmatube</package>
     <package>mpvqt</package>
     <package>KDE6-apps-multimedia</package>
+    <package>alligator</package>
+    <package>angelfish</package>
+    <package>kdeconnect-kde</package>
+    <package>kdenetwork-filesharing</package>
+    <package>kget</package>
+    <package>gpgme-qt6</package>
+    <package>kio-gdrive</package>
+    <package>libkgapi</package>
+    <package>kio-zeroconf</package>
+    <package>konqueror</package>
+    <package>krdc</package>
+    <package>freerdp2</package>
+    <package>krfb</package>
+    <package>ktorrent</package>
+    <package>libktorrent</package>
+    <package>neochat</package>
+    <package>libQuotient</package>
+    <package>olm</package>
+    <package>cmark</package>
+    <package>tokodon</package>
+    <package>KDE6-apps-network</package>
+    <package>calligra</package>
+    <package>ghostwriter</package>
+    <package>KDE6-apps-office</package>
   </packages>
 </packages>

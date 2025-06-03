@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kio-gdrive</code>
+  <description/>
+  <sourcefile>kio-gdrive-24.12.2.tar.xz</sourcefile>
+  <sourcedir>kio-gdrive-24.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>libkgapi</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

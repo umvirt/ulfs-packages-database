@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libQuotient</code>
+  <description>QSBRdCBsaWJyYXJ5IHRvIHdyaXRlIGNyb3NzLXBsYXRmb3JtIGNsaWVudHMgZm9yIE1hdHJpeA==</description>
+  <sourcefile>libQuotient-0.9.3.tar.gz</sourcefile>
+  <sourcedir>libQuotient-0.9.3</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>olm</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
