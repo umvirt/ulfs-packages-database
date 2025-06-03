@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>KDE6-apps-accessibility</code>
+  <description/>
+  <sourcefile/>
+  <sourcedir/>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>accessibility-inspector</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kmag</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kmousetool</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kmouth</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kontrast</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

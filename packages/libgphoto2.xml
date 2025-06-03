@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libgphoto2</code>
+  <description>Z1Bob3RvMiBpcyBhIGZyZWUsIHJlZGlzdHJpYnV0YWJsZSwgcmVhZHkgdG8gdXNlIHNldCBvZiBkaWdpdGFsIGNhbWVyYSBzb2Z0d2FyZSBhcHBsaWNhdGlvbnMgZm9yIFVuaXgtbGlrZSBzeXN0ZW1zLCB3cml0dGVuIGJ5IGEgd2hvbGUgdGVhbSBvZiBkZWRpY2F0ZWQgdm9sdW50ZWVycyBhcm91bmQgdGhlIHdvcmxkLiBJdCBzdXBwb3J0cyBtb3JlIHRoYW4gMjcwMCBjYW1lcmFzIGFuZCBtZWRpYSBwbGF5ZXJzLg==</description>
+  <sourcefile>libgphoto2-2.5.31.tar.xz</sourcefile>
+  <sourcedir>libgphoto2-2.5.31</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgICAgICAgICAgICAgICAgIFwNCiAgICAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgXA0KICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICAgIFwNCiAgICAtLWRpc2FibGUtcnBhdGgNCg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libexif</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libusb</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

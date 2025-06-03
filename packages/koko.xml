@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>koko</code>
+  <description/>
+  <sourcefile>koko-24.12.2.tar.xz</sourcefile>
+  <sourcedir>koko-24.12.2</sourcedir>
+  <unpack/>
+  <configure>Y3AgLXYgLi4ve2FkbWluMUNvZGVzQVNDSUkudHh0LGFkbWluMkNvZGVzLnR4dCxjaXRpZXMxMDAwLnppcH0gc3JjLw0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KY21ha2UgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9JEtGNl9QUkVGSVggXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgXA0KICAgICAgLUQgQlVJTERfVEVTVElORz1PRkYgICAgICAgICAgICAgICAgXA0KICAgICAgLVcgbm8tZGV2IC4u</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>kquickimageeditor</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>cities1000.zip</addon>
+    <addon>admin2Codes.txt</addon>
+    <addon>admin1CodesASCII.txt</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>kmplot</code>
+  <description/>
+  <sourcefile>kmplot-24.12.2.tar.xz</sourcefile>
+  <sourcedir>kmplot-24.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>audiocd-kio</code>
+  <description/>
+  <sourcefile>audiocd-kio-24.12.2.tar.xz</sourcefile>
+  <sourcedir>audiocd-kio-24.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>cdparanoia-III</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libkcompactdisc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>futuresql-qt6</code>
+  <description/>
+  <sourcefile>futuresql-0.1.1.tar.xz</sourcefile>
+  <sourcedir>futuresql-0.1.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIFFUX01BSk9SX1ZFUlNJT049NiAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

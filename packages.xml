@@ -1432,5 +1432,62 @@
     <package>imake</package>
     <package>gst-rtsp-server</package>
     <package>gst-plugins-ugly</package>
+    <package>accessibility-inspector</package>
+    <package>kmag</package>
+    <package>kmousetool</package>
+    <package>kmouth</package>
+    <package>kontrast</package>
+    <package>libqaccessibilityclient-qt6</package>
+    <package>futuresql-qt6</package>
+    <package>KDE6-apps-accessibility</package>
+    <package>blinken</package>
+    <package>cantor</package>
+    <package>kalgebra</package>
+    <package>analitza</package>
+    <package>kanagram</package>
+    <package>libkeduvocdocument</package>
+    <package>kbruch</package>
+    <package>kgeography</package>
+    <package>khangman</package>
+    <package>kiten</package>
+    <package>klettres</package>
+    <package>kmplot</package>
+    <package>kturtle</package>
+    <package>kwordquiz</package>
+    <package>marble</package>
+    <package>parley</package>
+    <package>KDE6-apps-education</package>
+    <package>arianna</package>
+    <package>colord-kde</package>
+    <package>kamera</package>
+    <package>libgphoto2</package>
+    <package>kcolorchooser</package>
+    <package>kgraphviewer</package>
+    <package>kimagemapeditor</package>
+    <package>koko</package>
+    <package>kquickimageeditor</package>
+    <package>kolourpaint</package>
+    <package>kruler</package>
+    <package>skanlite</package>
+    <package>ksanecore</package>
+    <package>svgpart</package>
+    <package>KDE6-apps-graphics</package>
+    <package>audex</package>
+    <package>audiocd-kio</package>
+    <package>libkcompactdisc</package>
+    <package>audiotube</package>
+    <package>python3-yt-dlp</package>
+    <package>python3-ytmusicapi</package>
+    <package>dragon</package>
+    <package>elisa</package>
+    <package>ffmpegthumbs</package>
+    <package>juk</package>
+    <package>kasts</package>
+    <package>qtkeychain-qt6</package>
+    <package>kwave</package>
+    <package>id3lib</package>
+    <package>plasmatube</package>
+    <package>mpvqt</package>
+    <package>KDE6-apps-multimedia</package>
   </packages>
 </packages>
