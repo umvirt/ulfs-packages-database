@@ -1564,5 +1564,6 @@
     <package>korganizer</package>
     <package>merkuro</package>
     <package>zanshin</package>
+    <package>KDE6-apps-pim</package>
   </packages>
 </packages>
