@@ -1513,5 +1513,56 @@
     <package>calligra</package>
     <package>ghostwriter</package>
     <package>KDE6-apps-office</package>
+    <package>akonadi</package>
+    <package>akonadi-contacts</package>
+    <package>akonadi-mime</package>
+    <package>akonadi-calendar-tools</package>
+    <package>akonadi-calendar</package>
+    <package>akonadi-search</package>
+    <package>akonadiconsole</package>
+    <package>calendarsupport</package>
+    <package>kmime</package>
+    <package>grantleetheme</package>
+    <package>ktextaddons</package>
+    <package>kmailtransport</package>
+    <package>ksmtp</package>
+    <package>kidentitymanagement</package>
+    <package>kpimtextedit</package>
+    <package>kcalutils</package>
+    <package>messagelib</package>
+    <package>libgravatar</package>
+    <package>pimcommon</package>
+    <package>kimap</package>
+    <package>kldap</package>
+    <package>libkdepim</package>
+    <package>libkleo</package>
+    <package>kmbox</package>
+    <package>akregator</package>
+    <package>kontactinterface</package>
+    <package>grantlee-editor</package>
+    <package>itinerary</package>
+    <package>kpkpass</package>
+    <package>kitinerary</package>
+    <package>kpublictransport</package>
+    <package>kosmindoormap</package>
+    <package>kopeninghours</package>
+    <package>kaddressbook</package>
+    <package>kalarm</package>
+    <package>kdepim-addons</package>
+    <package>akonadi-import-wizard</package>
+    <package>mailcommon</package>
+    <package>mailimporter</package>
+    <package>incidenceeditor</package>
+    <package>kdiagram</package>
+    <package>eventviews</package>
+    <package>libksieve</package>
+    <package>ktnef</package>
+    <package>kleopatra</package>
+    <package>mimetreeparser</package>
+    <package>kmail</package>
+    <package>kontact</package>
+    <package>korganizer</package>
+    <package>merkuro</package>
+    <package>zanshin</package>
   </packages>
 </packages>

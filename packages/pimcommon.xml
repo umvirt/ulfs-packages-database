@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>pimcommon</code>
+  <description/>
+  <sourcefile>pimcommon-24.12.2.tar.xz</sourcefile>
+  <sourcedir>pimcommon-24.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>kimap</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kldap</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libkdepim</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

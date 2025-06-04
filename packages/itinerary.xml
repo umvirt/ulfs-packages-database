@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>itinerary</code>
+  <description/>
+  <sourcefile>itinerary-24.12.2.tar.xz</sourcefile>
+  <sourcedir>itinerary-24.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>kpkpass</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kitinerary</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kpublictransport</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kosmindoormap</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
