@@ -1565,5 +1565,26 @@
     <package>merkuro</package>
     <package>zanshin</package>
     <package>KDE6-apps-pim</package>
+    <package>kapptemplate</package>
+    <package>kcachegrind</package>
+    <package>kde-dev-scripts</package>
+    <package>kde-dev-utils</package>
+    <package>kdesdk-kio</package>
+    <package>kdesdk-thumbnailers</package>
+    <package>kirigami-gallery</package>
+    <package>kompare</package>
+    <package>libkomparediff2</package>
+    <package>lokalize</package>
+    <package>massif-visualizer</package>
+    <package>poxml</package>
+    <package>KDE6-apps-sdk</package>
+    <package>kcron</package>
+    <package>kde-inotify-survey</package>
+    <package>kio-admin</package>
+    <package>kjournald</package>
+    <package>ksystemlog</package>
+    <package>partitionmanager</package>
+    <package>kpmcore</package>
+    <package>KDE6-apps-system</package>
   </packages>
 </packages>
