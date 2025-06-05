@@ -1622,5 +1622,66 @@
     <package>kdevelop-pg-qt</package>
     <package>kdev-python</package>
     <package>kdevelop</package>
+    <package>bomber</package>
+    <package>libkdegames</package>
+    <package>bovo</package>
+    <package>granatier</package>
+    <package>kajongg</package>
+    <package>libkmahjongg</package>
+    <package>python3-twisted</package>
+    <package>python3-hatch_fancy_pypi_readme</package>
+    <package>python3-attrs</package>
+    <package>python3-automat</package>
+    <package>python3-constantly</package>
+    <package>python3-versioneer</package>
+    <package>python3-hyperlink</package>
+    <package>python3-incremental</package>
+    <package>python3-zope.interface</package>
+    <package>kapman</package>
+    <package>katomic</package>
+    <package>kblackbox</package>
+    <package>kblocks</package>
+    <package>kbounce</package>
+    <package>kbreakout</package>
+    <package>kdiamond</package>
+    <package>kfourinline</package>
+    <package>kgoldrunner</package>
+    <package>kigo</package>
+    <package>killbots</package>
+    <package>kiriki</package>
+    <package>kjumpingcube</package>
+    <package>klickety</package>
+    <package>klines</package>
+    <package>kmahjongg</package>
+    <package>kmines</package>
+    <package>knavalbattle</package>
+    <package>knetwalk</package>
+    <package>knights</package>
+    <package>kolf</package>
+    <package>kollision</package>
+    <package>konquest</package>
+    <package>kpat</package>
+    <package>black-hole-solver</package>
+    <package>freecell-solver</package>
+    <package>perl-Moo</package>
+    <package>perl-Class-Method-Modifiers</package>
+    <package>perl-Path-Tiny</package>
+    <package>perl-Sub-Quote</package>
+    <package>python3-pysol_cards</package>
+    <package>perl-Template-Toolkit</package>
+    <package>kreversi</package>
+    <package>kshisen</package>
+    <package>ksirk</package>
+    <package>ksnakeduel</package>
+    <package>kspaceduel</package>
+    <package>ksquares</package>
+    <package>ksudoku</package>
+    <package>ktuberling</package>
+    <package>kubrick</package>
+    <package>lskat</package>
+    <package>palapeli</package>
+    <package>picmi</package>
+    <package>skladnik</package>
+    <package>KDE6-games</package>
   </packages>
 </packages>

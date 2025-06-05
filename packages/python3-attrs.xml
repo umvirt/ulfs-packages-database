@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-attrs</code>
+  <description>Q2xhc3NlcyBXaXRob3V0IEJvaWxlcnBsYXRl</description>
+  <sourcefile>attrs-25.3.0.tar.gz</sourcefile>
+  <sourcedir>attrs-25.3.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGF0dHJz</install>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>python3-hatchling</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-hatch_vcs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-hatch_fancy_pypi_readme</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

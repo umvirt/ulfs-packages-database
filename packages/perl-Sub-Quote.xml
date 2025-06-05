@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>perl-Sub-Quote</code>
+  <description>U3ViOjpRdW90ZSAtIEVmZmljaWVudCBnZW5lcmF0aW9uIG9mIHN1YnJvdXRpbmVzIHZpYSBzdHJpbmcgZXZhbA==</description>
+  <sourcefile>Sub-Quote-2.006008.tar.gz</sourcefile>
+  <sourcedir>Sub-Quote-2.006008</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

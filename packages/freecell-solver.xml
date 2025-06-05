@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>freecell-solver</code>
+  <description>QSBwcm9ncmFtIHRoYXQgYXV0b21hdGljYWxseSBzb2x2ZXMgbGF5b3V0cyBvZiBGcmVlY2VsbCBhbmQgc2ltaWxhciB2YXJpYW50cyBvZiBDYXJkIFNvbGl0YWlyZS4=</description>
+  <sourcefile>freecell-solver-6.12.0.tar.xz</sourcefile>
+  <sourcedir>freecell-solver-6.12.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBGQ1NfV0lUSF9URVNUX1NVSVRFPU9GRiAgIFwNCiAgICAgIC1EIEJVSUxEX1NUQVRJQ19MSUJSQVJZPU9GRiAgXA0KICAgICAgLi4NCg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>perl-Moo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-Path-Tiny</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-Sub-Quote</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pysol_cards</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-Template-Toolkit</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>freecell-solver-no-random2.patch</filename>
+      <mode>3</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

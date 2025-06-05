@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>perl-Path-Tiny</code>
+  <description>UGF0aDo6VGlueSAtIEZpbGUgcGF0aCB1dGlsaXR5</description>
+  <sourcefile>Path-Tiny-0.148.tar.gz</sourcefile>
+  <sourcedir>Path-Tiny-0.148</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

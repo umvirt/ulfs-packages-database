@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-automat</code>
+  <description>U2VsZi1zZXJ2aWNlIGZpbml0ZS1zdGF0ZSBtYWNoaW5lcyBmb3IgdGhlIHByb2dyYW1tZXIgb24gdGhlIGdvLg==</description>
+  <sourcefile>automat-25.4.16.tar.gz</sourcefile>
+  <sourcedir>automat-25.4.16</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGF1dG9tYXQ=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-setuptools_scm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-hatch_vcs</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>perl-Template-Toolkit</code>
+  <description>VGVtcGxhdGUgLSBGcm9udC1lbmQgbW9kdWxlIHRvIHRoZSBUZW1wbGF0ZSBUb29sa2l0Lg==</description>
+  <sourcefile>Template-Toolkit-3.102.tar.gz</sourcefile>
+  <sourcedir>Template-Toolkit-3.102</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTCANCg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
