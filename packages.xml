@@ -1586,5 +1586,36 @@
     <package>partitionmanager</package>
     <package>kpmcore</package>
     <package>KDE6-apps-system</package>
+    <package>filelight</package>
+    <package>francis</package>
+    <package>isoimagewriter</package>
+    <package>kalk</package>
+    <package>kalm</package>
+    <package>kate</package>
+    <package>kbackup</package>
+    <package>kcalc</package>
+    <package>kcharselect</package>
+    <package>kclock</package>
+    <package>kdebugsettings</package>
+    <package>kdf</package>
+    <package>kdialog</package>
+    <package>keditbookmarks</package>
+    <package>keysmith</package>
+    <package>kfind</package>
+    <package>kgpg</package>
+    <package>kongress</package>
+    <package>krecorder</package>
+    <package>kteatime</package>
+    <package>ktimer</package>
+    <package>ktrip</package>
+    <package>kwalletmanager</package>
+    <package>kweather</package>
+    <package>kweathercore</package>
+    <package>markdownpart</package>
+    <package>skanpage</package>
+    <package>sweeper</package>
+    <package>telly-skout</package>
+    <package>yakuake</package>
+    <package>KDE6-apps-utils</package>
   </packages>
 </packages>
