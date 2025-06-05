@@ -1617,5 +1617,10 @@
     <package>telly-skout</package>
     <package>yakuake</package>
     <package>KDE6-apps-utils</package>
+    <package>kdevelop-base</package>
+    <package>kdev-php</package>
+    <package>kdevelop-pg-qt</package>
+    <package>kdev-python</package>
+    <package>kdevelop</package>
   </packages>
 </packages>
