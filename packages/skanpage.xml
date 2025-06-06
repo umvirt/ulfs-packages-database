@@ -10,7 +10,7 @@
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>plasma</template>
+  <template>kde-apps</template>
   <dependances>
     <dependance>
       <code>kquickimageeditor</code>
