@@ -109,6 +109,8 @@ At least 100GB to build qt6, qtwebengine6, kf6 and plasma.
 - amdgpu_virtio support in MESA
 - Spice protocol support in QEMU
 - Android container emulation with Waydroid and Lineage OS
+- ULFS Packages Templates support
+- KDE6 with additional applications
 
 ### Differences with BLFS
 
@@ -129,6 +131,8 @@ At least 100GB to build qt6, qtwebengine6, kf6 and plasma.
     - build offline
     - build without java and gstreamer
 - sane-backends - New version 1.3.1
+- kirigami-addons - updated to 1.6.0 which needed by some additional KDE applications.
+- mpv - is should build with libmpv support which needed by some additional KDE applications.
 
 ### Additional packages not mentioned in BLFS
 
@@ -215,6 +219,72 @@ If you wish to use ULFS in desktop without Falkon browser you can stop after bui
 If you wish to use ULFS in desktop with Falkon browser you can stop after building "falkon".
 
 If you wish to run applications for KDE you can stop after "KDE_apps".
+
+### Additional KDE applications
+
+It's possible to build KDE additional applications.
+
+#### Skipped applications
+
+Currently only KF6 KDE applications are supported.
+
+KF5 applications are skipped:
+
+- Education
+ - artikulate
+ - kalzium
+ - kig
+ - ktouch
+ - minuet
+ - rocs
+ - step
+- Graphics
+ - kdegraphics-thumbnailers
+- Multiedia
+ - kamoso
+- SDK
+ - cervisia
+ - umbrello
+
+#### Preparation
+
+If you built ULFS 0.2.3 before june 2025 you should to update "kirigami-addons" and "mpv" packages:
+
+        chimp install kirigami-addons
+        chimp install mpv
+
+Using old versions of this packages will cause build failures.
+
+#### Installation
+
+Additional KDE applications is separated in groups and can be installed at once with virtual packages:
+
+- KDE6-apps-accessibility (2 min)
+- KDE6-apps-education  (30 min)
+- KDE6-apps-graphics (11 min)
+- KDE6-apps-multimedia (22 min)
+- KDE6-apps-network (59 min)
+- KDE6-apps-office (65 min)
+- KDE6-apps-pim (133 min)
+- KDE6-apps-sdk (10 min)
+- KDE6-apps-system (8 min)
+- KDE6-apps-utils (60 min)
+- Kdevelop (22 min)
+- KDE6-games (26 min)
+
+Approximate build time on 4xCPU virtual machine is shown in braces.
+
+Individual packages installation is not recommended.
+
+All packages should be installed after KDE_apps or !LXQT steps mentioned before.
+
+You can install KDE-apps virtual packages in any order. After any virtual package installation backup or snapshot creation is recomended.
+
+#### Additional information
+
+- [https://archlinux.org/packages/extra/any/kde-applications-meta/](https://archlinux.org/packages/extra/any/kde-applications-meta/)
+- [https://apps.kde.org/](https://apps.kde.org/)
+- [https://api.kde.org/](https://api.kde.org/)
 
 ### Wayland Desktop Environments
 
