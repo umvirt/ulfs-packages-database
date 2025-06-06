@@ -11,7 +11,12 @@
   <install/>
   <localbuild>0</localbuild>
   <template>kde-apps</template>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>kpublictransport</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

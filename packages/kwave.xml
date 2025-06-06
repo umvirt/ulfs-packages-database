@@ -13,11 +13,11 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
-      <code>libid3tag</code>
+      <code>audiofile</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>audiofile</code>
+      <code>id3lib</code>
       <weight>0</weight>
     </dependance>
   </dependances>

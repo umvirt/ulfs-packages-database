@@ -13,6 +13,10 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
+      <code>qtwebengine6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>qtkeychain-qt6</code>
       <weight>0</weight>
     </dependance>
@@ -33,6 +37,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>messagelib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libgravatar</code>
       <weight>0</weight>
     </dependance>
@@ -46,6 +54,10 @@
     </dependance>
     <dependance>
       <code>mailcommon</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libksieve</code>
       <weight>0</weight>
     </dependance>
     <dependance>

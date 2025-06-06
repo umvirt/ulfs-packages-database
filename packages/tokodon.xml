@@ -16,6 +16,10 @@
       <code>qtkeychain-qt6</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>mpvqt</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

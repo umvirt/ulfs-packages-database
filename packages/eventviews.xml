@@ -11,7 +11,16 @@
   <install/>
   <localbuild>0</localbuild>
   <template>kde-apps</template>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>akonadi-calendar</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>calendarsupport</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

@@ -17,6 +17,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>akonadi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>akonadi-mime</code>
       <weight>0</weight>
     </dependance>

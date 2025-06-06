@@ -10,7 +10,12 @@
   <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
   <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>perl-Path-Tiny</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

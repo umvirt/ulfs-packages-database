@@ -11,7 +11,16 @@
   <install/>
   <localbuild>0</localbuild>
   <template>plasma</template>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>kquickimageeditor</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ksanecore</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

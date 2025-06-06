@@ -25,6 +25,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>kmailtransport</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>eventviews</code>
       <weight>0</weight>
     </dependance>

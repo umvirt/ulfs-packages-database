@@ -13,6 +13,10 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
+      <code>libkgapi</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>ksmtp</code>
       <weight>0</weight>
     </dependance>

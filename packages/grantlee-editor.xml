@@ -16,6 +16,10 @@
       <code>akonadi-contacts</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>messagelib</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
