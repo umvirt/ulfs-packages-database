@@ -6,7 +6,7 @@
   <sourcefile>black-hole-solver-1.14.0.tar.xz</sourcefile>
   <sourcedir>black-hole-solver-1.14.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBCVUlMRF9TVEFUSUNfTElCUkFSWT1PRkYgIFwNCiAgICAgIC4uDQo=</configure>
+  <configure>dGFyIC14ZiAuLi9yaW51dGlscy00YzhkMjhhNmJiOWNmMDU1MTgzYzk3MzYzMDczZGM1YjMxZTJkNWNlLnRhci5neg0KbXYgcmludXRpbHMtNGM4ZDI4YTZiYjljZjA1NTE4M2M5NzM2MzA3M2RjNWIzMWUyZDVjZSByaW51dGlscw0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQNCg0KY21ha2UgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAgIC1EIEJVSUxEX1NUQVRJQ19MSUJSQVJZPU9GRiAgXA0KICAgICAgLi4NCg==</configure>
   <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
   <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>
@@ -17,7 +17,9 @@
     </dependance>
   </dependances>
   <patches/>
-  <addons/>
+  <addons>
+    <addon>rinutils-4c8d28a6bb9cf055183c97363073dc5b31e2d5ce.tar.gz</addon>
+  </addons>
   <nestings/>
   <comments/>
 </package>
