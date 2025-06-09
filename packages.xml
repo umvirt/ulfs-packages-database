@@ -1683,5 +1683,6 @@
     <package>picmi</package>
     <package>skladnik</package>
     <package>KDE6-games</package>
+    <package>libksane</package>
   </packages>
 </packages>
