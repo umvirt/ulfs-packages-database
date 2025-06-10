@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-pysqlite3</code>
+  <description>REItQVBJIDIuMCBpbnRlcmZhY2UgZm9yIFNxbGl0ZSAzLng=</description>
+  <sourcefile>pysqlite3-0.5.4.tar.gz</sourcefile>
+  <sourcedir>pysqlite3-0.5.4</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHB5c3FsaXRlMw==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

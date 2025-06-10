@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3</code>
+  <description>VGhlIFB5dGhvbiAzIHBhY2thZ2UgY29udGFpbnMgdGhlIFB5dGhvbiBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4gVGhpcyBpcyB1c2VmdWwgZm9yIG9iamVjdC1vcmllbnRlZCBwcm9ncmFtbWluZywgd3JpdGluZyBzY3JpcHRzLCBwcm90b3R5cGluZyBsYXJnZSBwcm9ncmFtcyBvciBkZXZlbG9waW5nIGVudGlyZSBhcHBsaWNhdGlvbnMu</description>
+  <sourcefile>Python-3.13.2.tar.xz</sourcefile>
+  <sourcedir>Python-3.13.2</sourcedir>
+  <unpack/>
+  <configure>Q1hYPSIvdXNyL2Jpbi9nKysiICAgICAgICAgICAgICAgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVkICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbS1leHBhdCAgXA0KICAgICAgICAgICAgLS1lbmFibGUtb3B0aW1pemF0aW9ucw==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnsl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>bluez</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tk</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>valgrind</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

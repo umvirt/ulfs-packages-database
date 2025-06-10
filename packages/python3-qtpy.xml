@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-qtpy</code>
+  <description>UHJvdmlkZXMgYW4gdW5pZm9ybSBsYXllciB0byBzdXBwb3J0IFB5UXQ1LCBQeVNpZGUyLCBQeVF0NiwgUHlTaWRlNiB3aXRoIGEgc2luZ2xlIGNvZGViYXNl</description>
+  <sourcefile>qtpy-2.4.3.tar.gz</sourcefile>
+  <sourcedir>qtpy-2.4.3</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHF0cHk=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-pyside6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

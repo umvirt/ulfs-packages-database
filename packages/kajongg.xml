@@ -16,6 +16,22 @@
       <code>libkmahjongg</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>python3-twisted</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-qtpy</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>vorbis-tools</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches>
     <patch>

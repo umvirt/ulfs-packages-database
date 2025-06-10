@@ -1693,5 +1693,9 @@
     <package>kmail-account-wizard</package>
     <package>libproxy</package>
     <package>kdepim-runtime</package>
+    <package>python3-qtpy</package>
+    <package>python3-pysqlite3</package>
+    <package>python3</package>
+    <package>vorbis-tools</package>
   </packages>
 </packages>
