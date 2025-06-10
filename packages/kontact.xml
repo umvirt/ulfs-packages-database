@@ -32,6 +32,10 @@
       <code>zanshin</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>kmail-account-wizard</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

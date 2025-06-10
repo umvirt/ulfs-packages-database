@@ -1684,5 +1684,14 @@
     <package>skladnik</package>
     <package>KDE6-games</package>
     <package>libksane</package>
+    <package>libaccounts-qt6</package>
+    <package>libaccounts-glib</package>
+    <package>kaccounts-integration</package>
+    <package>kaccounts-providers</package>
+    <package>signon-ui-qt6</package>
+    <package>signond-qt6</package>
+    <package>kmail-account-wizard</package>
+    <package>libproxy</package>
+    <package>kdepim-runtime</package>
   </packages>
 </packages>

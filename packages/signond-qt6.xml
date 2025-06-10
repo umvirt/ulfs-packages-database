@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>signond-qt6</code>
+  <description>U2lnbk9uIERhZW1vbiAoUXQp</description>
+  <sourcefile>signond-c8ad98249af541514ff7a81634d3295e712f1a39.tar.bz2</sourcefile>
+  <sourcedir>signond-c8ad98249af541514ff7a81634d3295e712f1a39</sourcedir>
+  <unpack/>
+  <configure>cW1ha2U2IFwNCiAgICBQUkVGSVg9L3VzciBcDQogICAgTElCRElSPS91c3IvbGliDQo=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

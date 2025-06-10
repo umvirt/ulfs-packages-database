@@ -32,6 +32,10 @@
       <code>eventviews</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>kdepim-runtime</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

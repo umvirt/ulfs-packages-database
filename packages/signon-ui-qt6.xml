@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>signon-ui-qt6</code>
+  <description>T25saW5lIEFjY291bnRzIFNpZ24tb24gVUk=</description>
+  <sourcefile>signon-ui-eef943f0edf3beee8ecb85d4a9dae3656002fc24.tar.bz2</sourcefile>
+  <sourcedir>signon-ui-eef943f0edf3beee8ecb85d4a9dae3656002fc24</sourcedir>
+  <unpack/>
+  <configure>IyBEbyBub3QgaW5zdGFsbCB0ZXN0cw0Kc2VkIC1lICdzfHNyYyBcXHxzcmN8JyAtZSAnL3Rlc3RzL2QnIC1pIHNpZ25vbi11aS5wcm8NCg0KDQpxbWFrZTYgXA0KICAgIFBSRUZJWD0vdXNyIFwNCiAgICBMSUJESVI9L3Vzci9saWINCg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libnotify</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libaccounts-qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>signond-qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libproxy</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

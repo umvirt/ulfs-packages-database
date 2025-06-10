@@ -20,6 +20,14 @@
       <code>libkgapi</code>
       <weight>0</weight>
     </dependance>
+    <dependance>
+      <code>libaccounts-qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kaccounts-integration</code>
+      <weight>0</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>akonadi</code>
+  <code>kmail-account-wizard</code>
   <description/>
-  <sourcefile>akonadi-24.12.2.tar.xz</sourcefile>
-  <sourcedir>akonadi-24.12.2</sourcedir>
+  <sourcefile>kmail-account-wizard-24.12.2.tar.xz</sourcefile>
+  <sourcedir>kmail-account-wizard-24.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -13,11 +13,7 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
-      <code>libaccounts-qt6</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>kaccounts-integration</code>
+      <code>akonadi</code>
       <weight>0</weight>
     </dependance>
   </dependances>

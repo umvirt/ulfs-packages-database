@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.3</release>
-  <code>akonadi</code>
+  <code>kaccounts-providers</code>
   <description/>
-  <sourcefile>akonadi-24.12.2.tar.xz</sourcefile>
-  <sourcedir>akonadi-24.12.2</sourcedir>
+  <sourcefile>kaccounts-providers-24.12.2.tar.xz</sourcefile>
+  <sourcedir>kaccounts-providers-24.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -12,10 +12,6 @@
   <localbuild>0</localbuild>
   <template>kde-apps</template>
   <dependances>
-    <dependance>
-      <code>libaccounts-qt6</code>
-      <weight>0</weight>
-    </dependance>
     <dependance>
       <code>kaccounts-integration</code>
       <weight>0</weight>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libaccounts-qt6</code>
+  <description>UXQtYmFzZWQgY2xpZW50IGxpYnJhcnkgZm9yIHRoZSBhY2NvdW50cyBkYXRhYmFzZQ==</description>
+  <sourcefile>libaccounts-qt-VERSION_1.17.tar.bz2</sourcefile>
+  <sourcedir>libaccounts-qt-VERSION_1.17</sourcedir>
+  <unpack/>
+  <configure>cW1ha2U2IFBSRUZJWD0vdXNyIExJQkRJUj0vdXNyL2xpYg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libaccounts-glib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
