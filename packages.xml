@@ -1697,5 +1697,6 @@
     <package>python3-pysqlite3</package>
     <package>python3</package>
     <package>vorbis-tools</package>
+    <package>KDE-apps-all</package>
   </packages>
 </packages>
