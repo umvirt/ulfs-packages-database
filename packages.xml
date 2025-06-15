@@ -1699,5 +1699,6 @@
     <package>vorbis-tools</package>
     <package>KDE-apps-all</package>
     <package>sshfs</package>
+    <package>Markdown</package>
   </packages>
 </packages>
