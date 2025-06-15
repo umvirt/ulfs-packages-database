@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>sshfs</code>
+  <description>QSBuZXR3b3JrIGZpbGVzeXN0ZW0gY2xpZW50IHRvIGNvbm5lY3QgdG8gU1NIIHNlcnZlcnM=</description>
+  <sourcefile>sshfs-3.7.3.tar.xz</sourcefile>
+  <sourcedir>sshfs-3.7.3</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>fuse</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

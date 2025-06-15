@@ -1698,5 +1698,6 @@
     <package>python3</package>
     <package>vorbis-tools</package>
     <package>KDE-apps-all</package>
+    <package>sshfs</package>
   </packages>
 </packages>
