@@ -16,6 +16,18 @@ This database is licensed under GNU GENERAL PUBLIC LICENSE Version 3, 29 June 20
 
 Source packages license information can be found on source packages files and their official sites.
 
+## Screenshot
+
+![livedvd](livedvd.jpg)
+
+## Demo
+
+It's possible to try ULFS 0.2.3 on Live DVD/USB. 
+
+No installation is needed. Just download and run.
+
+Download: [http://downloads.umvirt.com/ulfsvm/0.2.3/samples/demo/](http://downloads.umvirt.com/ulfsvm/0.2.3/samples/demo/)
+
 ## Installation or update
 
 ### Database
@@ -254,6 +266,11 @@ If you built ULFS 0.2.3 before june 2025 you should to update "kirigami-addons" 
         chimp install mpv
 
 Using old versions of this packages will cause build failures.
+
+Also python3 module typing_extension is should be [updated](https://github.com/python/typing_extensions/issues/243):
+
+        rm -rv /usr/lib/python3.13/site-packages/typing_extensions*
+        chimp install python3-typing_extensions 
 
 #### Installation
 
