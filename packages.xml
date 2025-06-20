@@ -1702,5 +1702,7 @@
     <package>Markdown</package>
     <package>sox</package>
     <package>durdraw</package>
+    <package>esco</package>
+    <package>bfc</package>
   </packages>
 </packages>
