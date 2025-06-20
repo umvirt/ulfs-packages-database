@@ -1701,5 +1701,6 @@
     <package>sshfs</package>
     <package>Markdown</package>
     <package>sox</package>
+    <package>durdraw</package>
   </packages>
 </packages>
