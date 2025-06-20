@@ -1700,5 +1700,6 @@
     <package>KDE-apps-all</package>
     <package>sshfs</package>
     <package>Markdown</package>
+    <package>sox</package>
   </packages>
 </packages>
