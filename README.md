@@ -203,6 +203,7 @@ At least 100GB to build qt6, qtwebengine6, kf6 and plasma.
 - LXC and Waydroid packages are need kernel reconfigure and rebuild.
 - Falkon have issues with sound playback on some videos.
 - Libvirt should use iptables as network filter because Firewalld is conflicts with nftables [https://github.com/firewalld/firewalld/issues/1370](https://github.com/firewalld/firewalld/issues/1370)
+- Some apps like cool-retro-term is intended to build with Qt5. If Qt6 is detected then broken binary will be built. It's possible to write many sophisticated instructions to remove links to /opt/qt6 but simplest way is to rename /opt/qt6 before install and then rename it back after install.
 
 ### Xorg Desktop Environments build roadmap
 
