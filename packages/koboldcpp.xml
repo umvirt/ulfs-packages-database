@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>koboldcpp</code>
+  <description>UnVuIEdHVUYgbW9kZWxzIGVhc2lseSB3aXRoIGEgS29ib2xkQUkgVUk=</description>
+  <sourcefile>koboldcpp-24127ebf987dff67d7e1604bf768096f0364c30f.tar.bz2</sourcefile>
+  <sourcedir>koboldcpp-24127ebf987dff67d7e1604bf768096f0364c30f</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBMTEFNQV9PUEVOQkxBUz0x</build>
+  <install>aW5zdGFsbCAtdiAtZCAiL3Vzci9zaGFyZS9rb2JvbGRjcHAiDQppbnN0YWxsIC12IC1EbTY0NCAuLyouc28gIi91c3Ivc2hhcmUva29ib2xkY3BwLyINCmluc3RhbGwgLXYgLURtNjQ0IC4vKi5lbWJkICIvdXNyL3NoYXJlL2tvYm9sZGNwcC8iDQppbnN0YWxsIC12IC1EbTY0NCAia29ib2xkY3BwLnB5IiAiL3Vzci9zaGFyZS9rb2JvbGRjcHAva29ib2xkY3BwLnB5Ig0KZWNobyAnIyEvYmluL3NoJyA+a29ib2xkY3BwDQplY2hvICdweXRob24zIC91c3Ivc2hhcmUva29ib2xkY3BwL2tvYm9sZGNwcC5weSAiJEAiJyA+PmtvYm9sZGNwcA0KaW5zdGFsbCAtdiAtRG03NTUga29ib2xkY3BwICIvdXNyL2Jpbi9rb2JvbGRjcHAiDQo=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>OpenBLAS</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1705,5 +1705,7 @@
     <package>esco</package>
     <package>bfc</package>
     <package>brasero</package>
+    <package>llama.cpp</package>
+    <package>koboldcpp</package>
   </packages>
 </packages>
