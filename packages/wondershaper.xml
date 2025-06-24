@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>wondershaper</code>
+  <description>Q29tbWFuZC1saW5lIHV0aWxpdHkgZm9yIGxpbWl0aW5nIGFuIGFkYXB0ZXIncyBiYW5kd2lkdGg=</description>
+  <sourcefile>wondershaper-98792b55c2ebf4ab4cafffb0780e0c4185fdc03d.tar.bz2</sourcefile>
+  <sourcedir>wondershaper-98792b55c2ebf4ab4cafffb0780e0c4185fdc03d</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1pICdzIS9ldGMvc3lzdGVtZC93b25kZXJzaGFwZXIuY29uZiEvZXRjL3dvbmRlcnNoYXBlci5jb25mIScgd29uZGVyc2hhcGVyLnNlcnZpY2UNCnNlZCAtaSAncyEvdXNyL3NiaW4vd29uZGVyc2hhcGVyIS91c3IvYmluL3dvbmRlcnNoYXBlciEnIHdvbmRlcnNoYXBlci5zZXJ2aWNl</configure>
+  <build>Iw==</build>
+  <install>aW5zdGFsbCAtRCAtbTc1NSB3b25kZXJzaGFwZXIgIi91c3IvYmluL3dvbmRlcnNoYXBlciINCmluc3RhbGwgLUQgLW02NDQgd29uZGVyc2hhcGVyLnNlcnZpY2UgIi91c3IvbGliL3N5c3RlbWQvc3lzdGVtL3dvbmRlcnNoYXBlci5zZXJ2aWNlIg0KaW5zdGFsbCAtRCAtbTY0NCB3b25kZXJzaGFwZXIuY29uZiAiL2V0Yy93b25kZXJzaGFwZXIuY29uZiI=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
