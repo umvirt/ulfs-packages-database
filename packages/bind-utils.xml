@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>bind-utils</code>
+  <description>VGhlIEJJTkQgcGFja2FnZSBpbmNsdWRlcyB0aGUgY2xpZW50IHNpZGUgcHJvZ3JhbXMgbnNsb29rdXAsIGRpZyBhbmQgaG9zdC4gSWYgeW91IGluc3RhbGwgQklORCBzZXJ2ZXIsIHRoZXNlIHByb2dyYW1zIHdpbGwgYmUgaW5zdGFsbGVkIGF1dG9tYXRpY2FsbHku</description>
+  <sourcefile>bind-9.20.6.tar.xz</sourcefile>
+  <sourcedir>bind-9.20.6</sourcedir>
+  <unpack/>
+  <configure/>
+  <build>bWFrZSAtQyBsaWIvaXNjICAgICAgJiYNCm1ha2UgLUMgbGliL2RucyAgICAgICYmDQptYWtlIC1DIGxpYi9ucyAgICAgICAmJg0KbWFrZSAtQyBsaWIvaXNjY2ZnICAgJiYNCm1ha2UgLUMgbGliL2lzY2NjICAgICYmDQptYWtlIC1DIGJpbi9kaWcgICAgICAmJg0KbWFrZSAtQyBiaW4vbnN1cGRhdGUgJiYNCm1ha2UgLUMgYmluL3JuZGMgICAgICYmDQptYWtlIC1DIGRvYw==</build>
+  <install>bWFrZSAtQyBsaWIvaXNjICAgICAgaW5zdGFsbCAmJg0KbWFrZSAtQyBsaWIvZG5zICAgICAgaW5zdGFsbCAmJg0KbWFrZSAtQyBsaWIvbnMgICAgICAgaW5zdGFsbCAmJg0KbWFrZSAtQyBsaWIvaXNjY2ZnICAgaW5zdGFsbCAmJg0KbWFrZSAtQyBsaWIvaXNjY2MgICAgaW5zdGFsbCAmJg0KbWFrZSAtQyBiaW4vZGlnICAgICAgaW5zdGFsbCAmJg0KbWFrZSAtQyBiaW4vbnN1cGRhdGUgaW5zdGFsbCAmJg0KbWFrZSAtQyBiaW4vcm5kYyAgICAgaW5zdGFsbCAmJg0KY3AgLXYgZG9jL21hbi97ZGlnLjEsaG9zdC4xLG5zbG9va3VwLjEsbnN1cGRhdGUuMX0gL3Vzci9zaGFyZS9tYW4vbWFuMSAmJg0KY3AgLXYgZG9jL21hbi9ybmRjLjggL3Vzci9zaGFyZS9tYW4vbWFuOA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libxml2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libuv</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nghttp2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>json-c</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libcap</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>liburcu</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1708,5 +1708,8 @@
     <package>llama.cpp</package>
     <package>koboldcpp</package>
     <package>wondershaper</package>
+    <package>whois</package>
+    <package>bind-utils</package>
+    <package>bind</package>
   </packages>
 </packages>
