@@ -1712,5 +1712,6 @@
     <package>bind-utils</package>
     <package>bind</package>
     <package>vtm</package>
+    <package>fbgrab</package>
   </packages>
 </packages>
