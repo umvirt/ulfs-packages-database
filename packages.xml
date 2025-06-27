@@ -1711,5 +1711,6 @@
     <package>whois</package>
     <package>bind-utils</package>
     <package>bind</package>
+    <package>vtm</package>
   </packages>
 </packages>
