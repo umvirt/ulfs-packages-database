@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>minicom</code>
+  <description>TWluaWNvbSBpcyBhIHNlcmlhbCBjb21tdW5pY2F0aW9uIHByb2dyYW0=</description>
+  <sourcefile>minicom-2.10.tar.gz</sourcefile>
+  <sourcedir>minicom-2.10</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>c-kermit</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lrzsz</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

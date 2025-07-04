@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>lrzsz</code>
+  <description/>
+  <sourcefile>lrzsz_0.12.21.orig.tar.gz</sourcefile>
+  <sourcedir>lrzsz-990823</sourcedir>
+  <unpack/>
+  <configure>ZXhwb3J0IENGTEFHUz0iLVduby1lcnJvcj1pbXBsaWNpdC1pbnQgLVduby1lcnJvcj1pbXBsaWNpdC1mdW5jdGlvbi1kZWNsYXJhdGlvbiINCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgIC0tcHJvZ3JhbS10cmFuc2Zvcm0tbmFtZT1zL2wvLw0KDQp0b3VjaCBzdGFtcC1oLmluICMgdG8gc3RvcCBhdXRvaGVhZGVyIGZyb20gcnVubmluZw0KdG91Y2ggLWQgeWVzdGVyZGF5IGFjbG9jYWwubTQgIyB0byBzdG9wIGF1dG9tYWtlIGZyb20gcnVubmluZw0K</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>lrzsz-debian-comulative.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

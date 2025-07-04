@@ -1713,5 +1713,8 @@
     <package>bind</package>
     <package>vtm</package>
     <package>fbgrab</package>
+    <package>c-kermit</package>
+    <package>minicom</package>
+    <package>lrzsz</package>
   </packages>
 </packages>
