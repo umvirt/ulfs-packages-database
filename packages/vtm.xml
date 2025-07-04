@@ -16,6 +16,10 @@
       <weight>0</weight>
     </dependance>
     <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libinput</code>
       <weight>0</weight>
     </dependance>
