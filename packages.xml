@@ -1716,5 +1716,6 @@
     <package>c-kermit</package>
     <package>minicom</package>
     <package>lrzsz</package>
+    <package>cdrkit</package>
   </packages>
 </packages>
