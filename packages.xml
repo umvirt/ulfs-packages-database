@@ -1717,5 +1717,7 @@
     <package>minicom</package>
     <package>lrzsz</package>
     <package>cdrkit</package>
+    <package>mkp224o</package>
+    <package>torsocks</package>
   </packages>
 </packages>

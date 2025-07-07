@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>mkp224o</code>
+  <description>VmFuaXR5IGFkZHJlc3MgZ2VuZXJhdG9yIGZvciB0b3Igb25pb24gdjMgKGVkMjU1MTkpIGhpZGRlbiBzZXJ2aWNlcw==</description>
+  <sourcefile>mkp224o-1.7.0-src.tar.gz</sourcefile>
+  <sourcedir>mkp224o-1.7.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>aW5zdGFsbCAtdm0gNzU1IG1rcDIyNG8gL3Vzci9iaW4=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>argon2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libsodium</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
