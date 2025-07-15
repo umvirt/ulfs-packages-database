@@ -24,7 +24,12 @@
       <weight>3</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>OpenSP-1.5.2-gcc14-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
