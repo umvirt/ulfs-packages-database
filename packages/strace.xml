@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>strace</code>
+  <description>TGludXggc3lzY2FsbCB0cmFjZXI=</description>
+  <sourcefile>strace-6.15.tar.xz</sourcefile>
+  <sourcedir>strace-6.15</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

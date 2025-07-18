@@ -1719,5 +1719,6 @@
     <package>cdrkit</package>
     <package>mkp224o</package>
     <package>torsocks</package>
+    <package>strace</package>
   </packages>
 </packages>
