@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>ibus-pinyin</code>
+  <description>UGluWWluIGVuZ2luZSBmb3IgSUJ1cw==</description>
+  <sourcefile>ibus-pinyin-1.5.1.tar.gz</sourcefile>
+  <sourcedir>ibus-pinyin-1.5.1</sourcedir>
+  <unpack/>
+  <configure>ICAuL2F1dG9nZW4uc2ggXA0KICAgIC0tcHJlZml4PS91c3IgXA0KICAgIC0tbGliZXhlY2Rpcj0vdXNyL2xpYi9pYnVz</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ibus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lua-5.4</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pyzy</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

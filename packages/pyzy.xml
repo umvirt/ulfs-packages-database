@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>pyzy</code>
+  <description>VGhlIENoaW5lc2UgUGluWWluIGFuZCBCb3BvbW9mbyBjb252ZXJzaW9uIGxpYnJhcnk=</description>
+  <sourcefile>pyzy-1.1.tar.gz</sourcefile>
+  <sourcedir>pyzy-1.1</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoIC0tcHJlZml4PS91c3I=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>pyzy-fail-on-error.patch.patch</filename>
+      <mode>1</mode>
+    </patch>
+    <patch>
+      <filename>pyzy-py3-fix.patch.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

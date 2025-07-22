@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>fcitx5-chinese-addons</code>
+  <description>cGlueWluIGFuZCB0YWJsZSBpbnB1dCBtZXRob2Qgc3VwcG9ydCBmb3IgZmNpdHg1</description>
+  <sourcefile>fcitx5-chinese-addons-5.1.9.tar.gz</sourcefile>
+  <sourcedir>fcitx5-chinese-addons-5.1.9</sourcedir>
+  <unpack/>
+  <configure>Y3AgLXYgLi4vcHlfc3Ryb2tlLTIwMjUwMzI5LnRhci5neiBtb2R1bGVzL3BpbnlpbmhlbHBlcg0KY3AgLXYgLi4vcHlfdGFibGUtMjAxMjExMjQudGFyLmd6IG1vZHVsZXMvcGlueWluaGVscGVyDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtR05pbmphIFwNCi1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYiAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>OpenCC</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fcitx5-qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fcitx5-lua</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libime</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>py_stroke-20250329.tar.gz</addon>
+    <addon>py_table-20121124.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

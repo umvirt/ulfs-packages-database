@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>fcitx5-qt6</code>
+  <description>UXQgbGlicmFyeSBhbmQgSU0gbW9kdWxlIGZvciBmY2l0eDU=</description>
+  <sourcefile>fcitx5-qt-5.1.10.tar.gz</sourcefile>
+  <sourcedir>fcitx5-qt-5.1.10</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYiAgICAgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9MSUJFWEVDRElSPS91c3IvbGliIFwNCiAgICAgIC1EIEVOQUJMRV9RVDY9T24gICAgICAgICAgICAgICAgICAgICBcDQogICAgICAtRCBFTkFCTEVfUVQ1PU9mZiAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg0K</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>fcitx5-base</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

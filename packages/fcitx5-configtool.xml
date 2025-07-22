@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>fcitx5-configtool</code>
+  <description>ZmNpdHg1LWNvbmZpZ3Rvb2wgaXMgYSBRdC1iYXNlZCBHVUkgdG9vbCB0aGF0IHByb3ZpZGVzIGEgdXNlci1mcmllbmRseSBjb25maWd1cmF0aW9uIGludGVyZmFjZSBmb3IgRmNpdHggNQ==</description>
+  <sourcefile>fcitx5-configtool-5.1.10.tar.gz</sourcefile>
+  <sourcedir>fcitx5-configtool-5.1.10</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1HTmluamEgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgICBcDQogICAgICAtVyBuby1kZXYgLi4=</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>fcitx5-qt6</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

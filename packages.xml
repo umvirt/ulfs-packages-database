@@ -1720,5 +1720,16 @@
     <package>mkp224o</package>
     <package>torsocks</package>
     <package>strace</package>
+    <package>xcb-imdkit</package>
+    <package>expat</package>
+    <package>fcitx5-base</package>
+    <package>fcitx5-qt6</package>
+    <package>fcitx5-chinese-addons</package>
+    <package>fcitx5-lua</package>
+    <package>libime</package>
+    <package>fcitx5-configtool</package>
+    <package>ibus-pinyin</package>
+    <package>pyzy</package>
+    <package>fcitx5</package>
   </packages>
 </packages>

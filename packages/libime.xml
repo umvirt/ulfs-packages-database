@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libime</code>
+  <description>QSBsaWJyYXJ5IHRvIHN1cHBvcnQgZ2VuZXJpYyBpbnB1dCBtZXRob2QgaW1wbGVtZW50YXRpb24u</description>
+  <sourcefile>libime-a6609b1206bb036dffe8c2d8829f1448e54a97ad.tar.gz</sourcefile>
+  <sourcedir>libime-a6609b1206bb036dffe8c2d8829f1448e54a97ad</sourcedir>
+  <unpack/>
+  <configure>Y3AgLXYgLi4vdGFibGUtMjAyNDAxMDgudGFyLnpzdCBkYXRhDQpjcCAtdiAuLi9kaWN0LTIwMjUwMzI3LnRhci56c3QgZGF0YQ0KY3AgLXYgLi4vbG1fc2MuYXJwYS0yMDI1MDExMy50YXIuenN0IGRhdGENCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYiAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>fcitx5-base</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>dict-20250327.tar.zst</addon>
+    <addon>table-20240108.tar.zst</addon>
+    <addon>lm_sc.arpa-20250113.tar.zst</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>
