@@ -1731,5 +1731,8 @@
     <package>ibus-pinyin</package>
     <package>pyzy</package>
     <package>fcitx5</package>
+    <package>open-isns</package>
+    <package>open-iscsi</package>
+    <package>libiscsi</package>
   </packages>
 </packages>

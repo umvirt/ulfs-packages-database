@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>open-isns</code>
+  <description>aVNOUyBzZXJ2ZXIgYW5kIGNsaWVudCBmb3IgTGludXg=</description>
+  <sourcefile>open-isns-0.103.tar.gz</sourcefile>
+  <sourcedir>open-isns-0.103</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgICAgXA0KICAgICAgLS1kZWZhdWx0LWxpYnJhcnk9c2hhcmVkIFwNCiAgICAgIC1EIHNscD1kaXNhYmxlZCAgICAgICAgICBcDQogICAgICAtRCBsaWJkaXI9bGliDQoNCiAgIA0K</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
