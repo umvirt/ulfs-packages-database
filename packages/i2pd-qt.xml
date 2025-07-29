@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>i2pd-qt</code>
+  <description>aTJwZCB3aXRoIFF0IGJhc2VkIEdVSQ==</description>
+  <sourcefile>i2pd-qt-2.56.0.tar.gz</sourcefile>
+  <sourcedir>i2pd-qt-2.56.0</sourcedir>
+  <unpack/>
+  <configure>dGFyIC14ZiAuLi9pMnBkLTIuNTcuMC50YXIuZ3oNCmNwIC1ydiBpMnBkLTIuNTcuMC8qIHNyYy9pMnBkDQoNCnFtYWtl</configure>
+  <build>bWFrZSBVU0VfVVBOUD15ZXM=</build>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>boost</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>miniupnpc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>i2pd-2.57.0.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

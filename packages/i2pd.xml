@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>i2pd</code>
+  <description>RW5kLXRvLUVuZCBlbmNyeXB0ZWQgYW5kIGFub255bW91cyBJbnRlcm5ldA==</description>
+  <sourcefile>i2pd-2.57.0.tar.gz</sourcefile>
+  <sourcedir>i2pd-2.57.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQvYnVpbGQgDQpjZCAgICBidWlsZC9idWlsZA0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgICAgXA0KICAgICAgLUQgV0lUSF9VUE5QPU9OICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfU1lTQ09ORkRJUj0vZXRjICAgICBcDQogICAgICAtRCBCVUlMRF9TSEFSRURfTElCUz1PTiAgICAgICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
+  <build>Y2QgICAgYnVpbGQvYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgICAgYnVpbGQvYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>boost</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>miniupnpc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

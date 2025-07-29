@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>miniupnpc</code>
+  <description>U21hbGwgVVBuUCBjbGllbnQgbGlicmFyeS90b29sIHRvIGFjY2VzcyBJbnRlcm5ldCBHYXRld2F5IERldmljZXM=</description>
+  <sourcefile>miniupnpc-2.3.3.tar.gz</sourcefile>
+  <sourcedir>miniupnpc-2.3.3</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZQ0KcHl0aG9uMyBzZXR1cC5weSBidWlsZA0K</build>
+  <install>bWFrZSBpbnN0YWxsDQppbnN0YWxsIC1EbSA2NDQgbWFuMy9taW5pdXBucGMuMyAtdCAvdXNyL3NoYXJlL21hbi9tYW4zDQoNCnB5dGhvbjMgc2V0dXAucHkgaW5zdGFsbCAtLW9wdGltaXplPTEgLS1za2lwLWJ1aWxk</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
