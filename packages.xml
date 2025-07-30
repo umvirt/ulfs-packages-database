@@ -1737,5 +1737,7 @@
     <package>miniupnpc</package>
     <package>i2pd</package>
     <package>i2pd-qt</package>
+    <package>libtorrent-rasterbar</package>
+    <package>qbittorrent</package>
   </packages>
 </packages>
