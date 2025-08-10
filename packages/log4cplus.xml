@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>log4cplus</code>
+  <description>bG9nNGNwbHVzIGlzIGFuIGVhc3kgdG8gdXNlIEMrKzIwIGxvZ2dpbmcgQVBJIHByb3ZpZGluZyB0aHJlYWQtc2FmZSwgZmxleGlibGUsIGFuZCBhcmJpdHJhcmlseSBncmFudWxhciBjb250cm9sIG92ZXIgbG9nIG1hbmFnZW1lbnQgYW5kIGNvbmZpZ3VyYXRpb24u</description>
+  <sourcefile>log4cplus-2.1.2.tar.xz</sourcefile>
+  <sourcedir>log4cplus-2.1.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

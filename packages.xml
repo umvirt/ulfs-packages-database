@@ -1739,5 +1739,8 @@
     <package>i2pd-qt</package>
     <package>libtorrent-rasterbar</package>
     <package>qbittorrent</package>
+    <package>kea</package>
+    <package>log4cplus</package>
+    <package>tftp-hpa</package>
   </packages>
 </packages>

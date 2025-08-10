@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>tftp-hpa</code>
+  <description>T2ZmaWNpYWwgdGZ0cCBzZXJ2ZXI=</description>
+  <sourcefile>tftp-hpa-5.2.tar.xz</sourcefile>
+  <sourcedir>tftp-hpa-5.2</sourcedir>
+  <unpack/>
+  <configure>ZXhwb3J0IENGTEFHUys9JyAtV25vLWVycm9yPWltcGxpY2l0LWZ1bmN0aW9uLWRlY2xhcmF0aW9uIC1mY29tbW9uJyAjIGh0dHBzOi8vd2lraS5nZW50b28ub3JnL3dpa2kvR2NjXzEwX3BvcnRpbmdfbm90ZXMvZm5vX2NvbW1vbg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tbWFuZGlyPS91c3Ivc2hhcmUvbWFuIC0tc2JpbmRpcj0vdXNyL2JpbiAtLXdpdGhvdXQtdGNwd3JhcHBlcnM=</configure>
+  <build>bWFrZSA=</build>
+  <install>bWFrZSBpbnN0YWxsDQoNCmVjaG8gVEZUUERfQVJHUz1cIi0tc2VjdXJlIC9zcnYvdGZ0cC9cIiA+IC9ldGMvY29uZi5kL3RmdHBkICANCiAgDQojaW5zdGFsbCBzZXJ2aWNlDQpjYXQgPiAvdXNyL2xpYi9zeXN0ZW1kL3N5c3RlbS90ZnRwZC5zZXJ2aWNlIDw8ICJFT0YiDQpbVW5pdF0NCkRlc2NyaXB0aW9uPWhwYSdzIG9yaWdpbmFsIFRGVFAgZGFlbW9uDQpBZnRlcj1uZXR3b3JrLnRhcmdldA0KDQpbU2VydmljZV0NClR5cGU9Zm9ya2luZw0KRW52aXJvbm1lbnRGaWxlPS9ldGMvY29uZi5kL3RmdHBkDQpFeGVjU3RhcnQ9L3Vzci9iaW4vaW4udGZ0cGQgLS1saXN0ZW4gJFRGVFBEX0FSR1MNCg0KW0luc3RhbGxdDQpXYW50ZWRCeT1tdWx0aS11c2VyLnRhcmdldA0KDQpFT0YNCg0KDQojaW5zdGFsbCBzb2NrZXQNCmNhdCA+IC91c3IvbGliL3N5c3RlbWQvc3lzdGVtL3RmdHBkLnNvY2tldCA8PCAiRU9GIg0KW1VuaXRdDQpEZXNjcmlwdGlvbj1ocGEncyBvcmlnaW5hbCBURlRQIGRhZW1vbg0KQ29uZmxpY3RzPXRmdHBkLnNlcnZpY2UNCg0KW1NvY2tldF0NCkxpc3RlbkRhdGFncmFtPTY5DQoNCltJbnN0YWxsXQ0KV2FudGVkQnk9c29ja2V0cy50YXJnZXQNCg0KRU9G</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>tftp-hpa-0.49-fortify-strcpy-crash.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
