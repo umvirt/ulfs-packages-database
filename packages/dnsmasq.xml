@@ -6,11 +6,24 @@
   <sourcefile>dnsmasq-2.91.tar.xz</sourcefile>
   <sourcedir>dnsmasq-2.91</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIE1ha2VmaWxlDQo=</configure>
-  <build/>
-  <install/>
+  <configure>I2FkZCBncm91cA0KZ3JvdXBhZGQgLWZnIDE3OSBkbnNtYXNxIA0KDQojYWRkIHVzZXINCnVzZXJhZGQgLWMgImRuc21hc3EgZGFlbW9uIiAtZCAvdmFyL3J1bi9kbnNtYXNxIC11IDE3OSBcDQogICAgICAgIC1nIGRuc21hc3EgLXMgL2Jpbi9mYWxzZSBkbnNtYXNxDQoNCg0KI3NlZCAtaSAicy9cL3VzclwvbG9jYWwvXC91c3IvIiBNYWtlZmlsZQ0K</configure>
+  <build>bWFrZSBQUkVGSVg9L3VzciBCSU5ESVI9L3Vzci9iaW4gQ09QVFM9Jy1ESEFWRV9ETlNTRUMgLURIQVZFX0RCVVMgLURIQVZFX0xJQklETjIgLURIQVZFX05GVFNFVCc=</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBCSU5ESVI9L3Vzci9iaW4gQ09QVFM9Jy1ESEFWRV9ETlNTRUMgLURIQVZFX0RCVVMgLURIQVZFX0xJQklETjIgLURIQVZFX05GVFNFVCcgaW5zdGFsbA0KDQppbnN0YWxsIC1EbTA2NDQgImRidXMvZG5zbWFzcS5jb25mIiAvdXNyL3NoYXJlL2RidXMtMS9zeXN0ZW0uZC9kbnNtYXNxLmNvbmYNCmluc3RhbGwgLURtMDY0NCAiZG5zbWFzcS5jb25mLmV4YW1wbGUiIC9ldGMvZG5zbWFzcS5jb25mDQoNCg0KI2luc3RhbGwgc2VydmljZQ0KY2F0ID4gL3Vzci9saWIvc3lzdGVtZC9zeXN0ZW0vZG5zbWFzcS5zZXJ2aWNlIDw8ICJFT0YiDQoNCltVbml0XQ0KRGVzY3JpcHRpb249ZG5zbWFzcSAtIEEgbGlnaHR3ZWlnaHQgREhDUCBhbmQgY2FjaGluZyBETlMgc2VydmVyDQpEb2N1bWVudGF0aW9uPW1hbjpkbnNtYXNxKDgpDQpBZnRlcj1uZXR3b3JrLnRhcmdldA0KQmVmb3JlPW5ldHdvcmstb25saW5lLnRhcmdldCBuc3MtbG9va3VwLnRhcmdldA0KV2FudHM9bnNzLWxvb2t1cC50YXJnZXQNCg0KW1NlcnZpY2VdDQpUeXBlPWRidXMNCkJ1c05hbWU9dWsub3JnLnRoZWtlbGxleXMuZG5zbWFzcQ0KRXhlY1N0YXJ0UHJlPS91c3IvYmluL2Ruc21hc3EgLS10ZXN0DQpFeGVjU3RhcnQ9L3Vzci9iaW4vZG5zbWFzcSAtayAtLWVuYWJsZS1kYnVzIC0tdXNlcj1kbnNtYXNxIC0tcGlkLWZpbGUNCkV4ZWNSZWxvYWQ9L2Jpbi9raWxsIC1IVVAgJE1BSU5QSUQNClJlc3RhcnQ9b24tZmFpbHVyZQ0KUHJpdmF0ZURldmljZXM9dHJ1ZQ0KUHJvdGVjdFN5c3RlbT1mdWxsDQoNCltJbnN0YWxsXQ0KV2FudGVkQnk9bXVsdGktdXNlci50YXJnZXQNCg0KRU9G</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>dbus</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libidn2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nftables</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
