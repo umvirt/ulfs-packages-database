@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-pyudev</code>
+  <description>QSBwdXJlIFB5dGhvbiBiaW5kaW5nIGZvciBsaWJ1ZGV2LCB0aGUgZGV2aWNlIGFuZCBoYXJkd2FyZSBtYW5hZ2VtZW50IGFuZCBpbmZvcm1hdGlvbiBsaWJyYXJ5IGZvciBMaW51eC4g</description>
+  <sourcefile>pyudev-0.24.3.tar.gz</sourcefile>
+  <sourcedir>pyudev-0.24.3</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyAtbSBidWlsZCAtbnc=</build>
+  <install>cHl0aG9uMyAtbSBpbnN0YWxsZXIgZGlzdC8qLndobA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-installer</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-build</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

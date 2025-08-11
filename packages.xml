@@ -1742,5 +1742,9 @@
     <package>kea</package>
     <package>log4cplus</package>
     <package>tftp-hpa</package>
+    <package>targetcli-fb</package>
+    <package>python3-configshell-fb</package>
+    <package>python3-rtslib-fb</package>
+    <package>python3-pyudev</package>
   </packages>
 </packages>

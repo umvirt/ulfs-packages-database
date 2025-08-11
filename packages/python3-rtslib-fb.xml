@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-rtslib-fb</code>
+  <description>QSBvYmplY3QtYmFzZWQgUHl0aG9uIGxpYnJhcnkgZm9yIGNvbmZpZ3VyaW5nIHRoZSBMSU8gZ2VuZXJpYyBTQ1NJIHRhcmdldCwgcHJlc2VudCBpbiBMaW51eCBrZXJuZWwu</description>
+  <sourcefile>rtslib-fb-2.2.3.tar.gz</sourcefile>
+  <sourcedir>rtslib-fb-2.2.3</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>U0VUVVBUT09MU19TQ01fUFJFVEVORF9WRVJTSU9OPTIuMi4zIHBpcDMgd2hlZWwgLXcgZGlzdCAtLW5vLWJ1aWxkLWlzb2xhdGlvbiAtLW5vLWRlcHMgJFBXRA==</build>
+  <install>cHl0aG9uMyAtbSBpbnN0YWxsZXIgZGlzdC8qLndobA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-hatchling</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-installer</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-hatch_vcs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-build</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pyudev</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
