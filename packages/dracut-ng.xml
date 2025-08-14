@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>dracut-ng</code>
+  <description>QSBtb2R1bGFyIHRvb2wgd2hpY2ggZ2VuZXJhdGVzIGFuIGluaXRpYWwgaW1hZ2UgY2FwYWJsZSBvZiBsb2FkaW5nIG5lY2Vzc2FyeSBkcml2ZXJzIGFuZCBwZXJmb3JtaW5nIG90aGVyIGNvbmZpZ3VyYXRpb24gZHVyaW5nIGVhcmx5IExpbnV4IGJvb3Qu</description>
+  <sourcefile>dracut-ng-108.tar.gz</sourcefile>
+  <sourcedir>dracut-ng-108</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQotLXN5c2NvbmZkaXI9L2V0Yw0KLS1zYmluZGlyPS9zYmlu</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQo=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>cpio</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>asciidoctor</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>dracut-ng-disable-xattr.patch</filename>
+      <mode>1</mode>
+    </patch>
+    <patch>
+      <filename>dracut-ng-remove-systemd-sysusers.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1746,5 +1746,6 @@
     <package>python3-configshell-fb</package>
     <package>python3-rtslib-fb</package>
     <package>python3-pyudev</package>
+    <package>dracut-ng</package>
   </packages>
 </packages>
