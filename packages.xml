@@ -1750,5 +1750,6 @@
     <package>openvswitch</package>
     <package>zfs-utils</package>
     <package>zfs-linux</package>
+    <package>dgen-sdl</package>
   </packages>
 </packages>
