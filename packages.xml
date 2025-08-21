@@ -1748,5 +1748,7 @@
     <package>python3-pyudev</package>
     <package>dracut-ng</package>
     <package>openvswitch</package>
+    <package>zfs-utils</package>
+    <package>zfs-linux</package>
   </packages>
 </packages>
