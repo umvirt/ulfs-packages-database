@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>python3-tinycss2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libxslt</code>
       <weight>1</weight>
     </dependance>

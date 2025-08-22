@@ -1751,5 +1751,6 @@
     <package>zfs-utils</package>
     <package>zfs-linux</package>
     <package>dgen-sdl</package>
+    <package>python3-tinycss2</package>
   </packages>
 </packages>
