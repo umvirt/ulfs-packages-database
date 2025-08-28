@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-PyQt-builder</code>
+  <description>VGhlIFB5UXQgYnVpbGQgc3lzdGVt</description>
+  <sourcefile>PyQt-builder-1.17.1.tar.gz</sourcefile>
+  <sourcedir>PyQt-builder-1.17.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>U0VUVVBUT09MU19TQ01fUFJFVEVORF9WRVJTSU9OPTEuMTcuMSBwaXAzIHdoZWVsIC13IGRpc3QgLS1uby1idWlsZC1pc29sYXRpb24gLS1uby1kZXBzICRQV0Q=</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIFB5UXQtYnVpbGRlcg==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-sip</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

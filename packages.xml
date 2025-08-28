@@ -1752,5 +1752,13 @@
     <package>zfs-linux</package>
     <package>dgen-sdl</package>
     <package>python3-tinycss2</package>
+    <package>hplip</package>
+    <package>net-snmp</package>
+    <package>perl-TermReadKey</package>
+    <package>perl-Tk</package>
+    <package>python3-sip</package>
+    <package>python3-PyQt-builder</package>
+    <package>python3-PyQt5</package>
+    <package>python-pyqt5_sip</package>
   </packages>
 </packages>

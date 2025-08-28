@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>perl-TermReadKey</code>
+  <description>UHJvdmlkZXMgc2ltcGxlIGNvbnRyb2wgb3ZlciB0ZXJtaW5hbCBkcml2ZXIgbW9kZXM=</description>
+  <sourcefile>TermReadKey-2.38.tar.gz</sourcefile>
+  <sourcedir>TermReadKey-2.38</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTCBJTlNUQUxMRElSUz12ZW5kb3I=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

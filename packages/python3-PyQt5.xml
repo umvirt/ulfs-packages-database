@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-PyQt5</code>
+  <description/>
+  <sourcefile>PyQt5-5.15.11.tar.gz</sourcefile>
+  <sourcedir>PyQt5-5.15.11</sourcedir>
+  <unpack/>
+  <configure>c2lwLWJ1aWxkIFwNCiAgICAtLWNvbmZpcm0tbGljZW5zZSBcDQogICAgLS1uby1tYWtlIFwNCiAgICAtLWFwaS1kaXIgL3Vzci9zaGFyZS9xdC9xc2NpL2FwaS9weXRob24gXA0KICAgIC0tcGVwNDg0LXB5aQ0K</configure>
+  <build>Y2QgYnVpbGQNCg0KbWFrZQ0K</build>
+  <install>Y2QgYnVpbGQNCg0KbWFrZSBJTlNUQUxMX1JPT1Q9JFBXRC9ERVNURElSIGluc3RhbGwNCg0KIyBSZW1vdmUgdW51c2VkIHB5MiB2ZXJzaW9uIG9mIHVpYyBtb2R1bGVzOg0Kcm0gLXIgREVTVERJUi91c3IvbGliL3B5dGhvbiovc2l0ZS1wYWNrYWdlcy9QeVF0NS91aWMvcG9ydF92Mg0KDQojIGNvbXBpbGUgUHl0aG9uIGJ5dGVjb2RlDQpweXRob24zIC1tIGNvbXBpbGVhbGwgLWQgLyBERVNURElSL3Vzci9saWINCnB5dGhvbjMgLU8gLW0gY29tcGlsZWFsbCAtZCAvIERFU1RESVIvdXNyL2xpYg0KDQpjcCAtcnYgREVTVERJUi91c3IvKiAvdXNyDQo=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-PyQt-builder</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

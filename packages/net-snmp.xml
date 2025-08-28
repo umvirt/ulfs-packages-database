@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>net-snmp</code>
+  <description>QSBzdWl0ZSBvZiBhcHBsaWNhdGlvbnMgdXNlZCB0byBpbXBsZW1lbnQgU05NUCB2MSwgU05NUCB2MmMgYW5kIFNOTVAgdjMgdXNpbmcgYm90aCBJUHY0IGFuZCBJUHY2</description>
+  <sourcefile>net-snmp-7d38b8299e26708ee92c9fe1628e5a000bc23e17-backports.tar.bz2</sourcefile>
+  <sourcedir>net-snmp-7d38b8299e26708ee92c9fe1628e5a000bc23e17-backports</sourcedir>
+  <unpack/>
+  <configure>YXV0b3JlY29uZiAtaQ0KDQouL2NvbmZpZ3VyZSBcDQogICAgLS1wcmVmaXg9Jy91c3InIFwNCiAgICAtLXN5c2NvbmZkaXI9Jy9ldGMnIFwNCiAgICAtLXNiaW5kaXI9Jy91c3IvYmluJyBcDQogICAgLS1tYW5kaXI9Jy91c3Ivc2hhcmUvbWFuJyBcDQogICAgLS1lbmFibGUtYmx1bWVudGhhbC1hZXMgXA0KICAgIC0tZW5hYmxlLWlwdjYgXA0KICAgIC0tZW5hYmxlLXVjZC1zbm1wLWNvbXBhdGliaWxpdHkgXA0KICAgIC0td2l0aC1weXRob24tbW9kdWxlcyBcDQogICAgLS13aXRoLWRlZmF1bHQtc25tcC12ZXJzaW9uPSczJyBcDQogICAgLS13aXRoLXN5cy1jb250YWN0PSdyb290QGxvY2FsaG9zdCcgXA0KICAgIC0td2l0aC1zeXMtbG9jYXRpb249J1Vua25vd24nIFwNCiAgICAtLXdpdGgtbG9nZmlsZT0nL3Zhci9sb2cvc25tcGQubG9nJyBcDQogICAgLS13aXRoLW1pYi1tb2R1bGVzPSdob3N0IG1pc2MvaXBmd2FjYyB1Y2Qtc25tcC9kaXNraW8gdHVubmVsIHVjZC1zbm1wL2RsbW9kIHVjZC1zbm1wL2xtc2Vuc29yc01pYicgXA0KICAgIC0td2l0aC1wZXJzaXN0ZW50LWRpcmVjdG9yeT0nL3Zhci9uZXQtc25tcCcNCg==</configure>
+  <build>bWFrZSBORVRTTk1QX0RPTlRfQ0hFQ0tfVkVSU0lPTj0x</build>
+  <install>bWFrZSBJTlNUQUxMRElSUz12ZW5kb3IgaW5zdGFsbA0KaW5zdGFsbCAtRCAtbTY0NCBzbm1wZC5zZXJ2aWNlIiAvdXNyL2xpYi9zeXN0ZW1kL3N5c3RlbS9zbm1wZC5zZXJ2aWNlDQppbnN0YWxsIC1EIC1tNjQ0IHNubXB0cmFwZC5zZXJ2aWNlIiAvdXNyL2xpYi9zeXN0ZW1kL3N5c3RlbS9zbm1wdHJhcGQuc2VydmljZQ0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>pcre2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpcap</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pciutils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>lm-sensors</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-TermReadKey</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>perl-Tk</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>perl-Tk</code>
+  <description>QSBncmFwaGljYWwgdXNlciBpbnRlcmZhY2UgdG9vbGtpdCBmb3IgUGVybA==</description>
+  <sourcefile>Tk-804.036.tar.gz</sourcefile>
+  <sourcedir>Tk-804.036</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTCBJTlNUQUxMRElSUz12ZW5kb3INCnNlZCAtRSAnc3woXk9QVElNSVpFLiopfFwxIC1Xbm8taW5jb21wYXRpYmxlLXBvaW50ZXItdHlwZXMgLVduby1pbXBsaWNpdC1pbnQgLXN0ZD1nbnUxN3wnIC1pIE1ha2VmaWxlDQoNCg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>Xlibs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tk</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>perl-tk-gcc-14.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
