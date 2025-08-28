@@ -6,9 +6,9 @@
   <sourcefile>usbutils-018.tar.xz</sourcefile>
   <sourcedir>usbutils-018</sourcedir>
   <unpack/>
-  <configure>YXV0b3JlY29uZiAtZml2ICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1kYXRhZGlyPS91c3Ivc2hhcmUvaHdkYXRh</configure>
-  <build/>
-  <install>bWFrZSBpbnN0YWxsDQppbnN0YWxsIC1kbTc1NSAvdXNyL3NoYXJlL2h3ZGF0YS8NCmd1bnppcCAtayAuLi91c2IuaWRzLmd6DQpjcCAtdiAuLi91c2IuaWRzIC91c3Ivc2hhcmUvaHdkYXRhLw==</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNl</configure>
+  <build>Y2QgICAgYnVpbGQNCm5pbmphIA==</build>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KY2QgLi4NCmluc3RhbGwgLWRtNzU1IC91c3Ivc2hhcmUvaHdkYXRhLw0KZ3VuemlwIC1rIC4uL3VzYi5pZHMuZ3oNCmNwIC12IC4uL3VzYi5pZHMgL3Vzci9zaGFyZS9od2RhdGEv</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
