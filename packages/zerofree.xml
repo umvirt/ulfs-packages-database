@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>zerofree</code>
+  <description>WmVyb2ZyZWUgZmluZHMgdGhlIHVuYWxsb2NhdGVkLCBub24temVyb2VkIGJsb2NrcyBpbiBhbiBleHQyIG9yIGV4dDMgZmlsZS1zeXN0ZW0gYW5kIGZpbGxzIHRoZW0gd2l0aCB6ZXJvZXMuIA==</description>
+  <sourcefile>zerofree-1.1.1.tgz</sourcefile>
+  <sourcedir>zerofree-1.1.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZQ==</build>
+  <install>aW5zdGFsbCAtdiAtbTc1NSB6ZXJvZnJlZSAvdXNyL3NiaW4NCg==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

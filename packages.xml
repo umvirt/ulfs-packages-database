@@ -1760,5 +1760,6 @@
     <package>python3-PyQt-builder</package>
     <package>python3-PyQt5</package>
     <package>python-pyqt5_sip</package>
+    <package>zerofree</package>
   </packages>
 </packages>
