@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>fcitx5-base</code>
   <description>RmNpdHggNSBpcyBhIGdlbmVyaWMgaW5wdXQgbWV0aG9kIGZyYW1ld29yayByZWxlYXNlZCB1bmRlciBMR1BMLTIuMSsu</description>
   <sourcefile>fcitx5-39fe0437e49fe39472d4f37b17335a32138d2e28.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>xcb-imdkit</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

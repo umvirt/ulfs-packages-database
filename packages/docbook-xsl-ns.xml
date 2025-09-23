@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>docbook-xsl-ns</code>
   <description>VGhlIERvY0Jvb2sgWFNMIFN0eWxlc2hlZXRzIChOYW1lc3BhY2VkKSBwYWNrYWdlIGNvbnRhaW5zIFhTTCBzdHlsZXNoZWV0cy4gVGhlc2UgYXJlIHVzZWZ1bCBmb3IgcGVyZm9ybWluZyB0cmFuc2Zvcm1hdGlvbnMgb24gWE1MIERvY0Jvb2sgNS4wIGZpbGVzLg==</description>
   <sourcefile>docbook-xsl-1.79.2.tar.bz2</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

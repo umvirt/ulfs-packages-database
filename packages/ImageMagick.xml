@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ImageMagick</code>
   <description>SW1hZ2VNYWdpY2sgaXMgYSBjb2xsZWN0aW9uIG9mIHRvb2xzIGFuZCBsaWJyYXJpZXMgdG8gcmVhZCwgd3JpdGUsIGFuZCBtYW5pcHVsYXRlIGFuIGltYWdlIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
   <sourcefile>ImageMagick-7.1.1-43.tar.xz</sourcefile>
@@ -13,75 +13,75 @@
   <dependances>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libjpeg-turbo</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>tiff</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libwebp</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>openjpeg</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libgxps</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libheif</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libde265</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>jasper</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libjxl</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>curl</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>Xlibs</code>
+      <code>libjpeg-turbo</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>llvm</code>
+      <code>tiff</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gnupg</code>
+      <code>libwebp</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>openjpeg</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>lcms2</code>
+      <code>libgxps</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>ffmpeg</code>
+      <code>libheif</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>cups</code>
+      <code>libde265</code>
       <weight>8</weight>
+    </dependance>
+    <dependance>
+      <code>jasper</code>
+      <weight>9</weight>
+    </dependance>
+    <dependance>
+      <code>libjxl</code>
+      <weight>10</weight>
+    </dependance>
+    <dependance>
+      <code>curl</code>
+      <weight>11</weight>
+    </dependance>
+    <dependance>
+      <code>Xlibs</code>
+      <weight>12</weight>
+    </dependance>
+    <dependance>
+      <code>llvm</code>
+      <weight>13</weight>
+    </dependance>
+    <dependance>
+      <code>gnupg</code>
+      <weight>14</weight>
+    </dependance>
+    <dependance>
+      <code>librsvg</code>
+      <weight>15</weight>
+    </dependance>
+    <dependance>
+      <code>lcms2</code>
+      <weight>16</weight>
+    </dependance>
+    <dependance>
+      <code>ffmpeg</code>
+      <weight>17</weight>
+    </dependance>
+    <dependance>
+      <code>cups</code>
+      <weight>18</weight>
     </dependance>
   </dependances>
   <patches/>

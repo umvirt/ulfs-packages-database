@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>p11-kit</code>
   <description>VGhlIHAxMS1raXQgcGFja2FnZSBwcm92aWRlcyBhIHdheSB0byBsb2FkIGFuZCBlbnVtZXJhdGUgUEtDUyAjMTEgKGEgQ3J5cHRvZ3JhcGhpYyBUb2tlbiBJbnRlcmZhY2UgU3RhbmRhcmQpIG1vZHVsZXMu</description>
   <sourcefile>p11-kit-0.25.5.tar.xz</sourcefile>

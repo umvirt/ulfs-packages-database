@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-sip</code>
   <description>QSBQeXRob24gYmluZGluZ3MgZ2VuZXJhdG9yIGZvciBDL0MrKyBsaWJyYXJpZXM=</description>
   <sourcefile>sip-6.9.1.tar.gz</sourcefile>
@@ -12,16 +12,12 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>python3-packaging</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
       <code>python3-setuptools_scm</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-installer</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

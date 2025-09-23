@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>fdk-aac</code>
   <description>ZmRrLWFhYyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBGcmF1bmhvZmVyIEZESyBBQUMgbGlicmFyeSwgd2hpY2ggaXMgcHVycG9ydGVkIHRvIGJlIGEgaGlnaCBxdWFsaXR5IEFkdmFuY2VkIEF1ZGlvIENvZGluZyBpbXBsZW1lbnRhdGlvbi4NCg0K</description>
   <sourcefile>fdk-aac-2.0.3.tar.gz</sourcefile>

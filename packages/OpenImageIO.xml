@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>OpenImageIO</code>
   <description>UmVhZGluZywgd3JpdGluZywgYW5kIHByb2Nlc3NpbmcgaW1hZ2VzIGluIGEgd2lkZSB2YXJpZXR5IG9mIGZpbGUgZm9ybWF0cywgdXNpbmcgYSBmb3JtYXQtYWdub3N0aWMgQVBJLCBhaW1lZCBhdCBWRlggYXBwbGljYXRpb25zLg==</description>
   <sourcefile>OpenImageIO-v3.0.3.1.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>OpenColorIO</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>python3-pybind11</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>robin-map</code>
+      <code>python3-pybind11</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>fmt</code>
+      <code>robin-map</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>pugixml</code>
+      <code>fmt</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>pugixml</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

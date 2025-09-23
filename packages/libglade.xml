@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libglade</code>
   <description>VGhlIGxpYmdsYWRlIHBhY2thZ2UgY29udGFpbnMgbGliZ2xhZGUgbGlicmFyaWVzLiA=</description>
   <sourcefile>libglade-2.6.4.tar.bz2</sourcefile>

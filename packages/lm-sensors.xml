@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lm-sensors</code>
   <description>VGhlIGxtLXNlbnNvcnMgcGFja2FnZSBwcm92aWRlcyB1c2Vyc3BhY2Ugc3VwcG9ydCBmb3IgdGhlIGhhcmR3YXJlIG1vbml0b3JpbmcgZHJpdmVycyBpbiB0aGUgTGludXgga2VybmVsLiBUaGlzIGlzIHVzZWZ1bCBmb3IgbW9uaXRvcmluZyB0aGUgdGVtcGVyYXR1cmUgb2YgdGhlIENQVSBhbmQgYWRqdXN0aW5nIHRoZSBwZXJmb3JtYW5jZSBvZiBzb21lIGhhcmR3YXJlIChzdWNoIGFzIGNvb2xpbmcgZmFucyku</description>
   <sourcefile>lm-sensors-3-6-0.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>which</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

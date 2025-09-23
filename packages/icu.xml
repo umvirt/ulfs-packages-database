@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>icu</code>
   <description>VGhlIEludGVybmF0aW9uYWwgQ29tcG9uZW50cyBmb3IgVW5pY29kZSAoSUNVKSBwYWNrYWdlIGlzIGEgbWF0dXJlLCB3aWRlbHkgdXNlZCBzZXQgb2YgQy9DKysgbGlicmFyaWVzIHByb3ZpZGluZyBVbmljb2RlIGFuZCBHbG9iYWxpemF0aW9uIHN1cHBvcnQgZm9yIHNvZnR3YXJlIGFwcGxpY2F0aW9ucy4gSUNVIGlzIHdpZGVseSBwb3J0YWJsZSBhbmQgZ2l2ZXMgYXBwbGljYXRpb25zIHRoZSBzYW1lIHJlc3VsdHMgb24gYWxsIHBsYXRmb3Jtcy4=</description>
-  <sourcefile>icu4c-76_1-src.tgz</sourcefile>
+  <sourcefile>icu4c-77_1-src.tgz</sourcefile>
   <sourcedir>icu</sourcedir>
   <unpack/>
-  <configure>Y2Qgc291cmNlDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3Ig</configure>
+  <configure>Y2FzZSAkKHVuYW1lIC1tKSBpbg0KICBpPzg2KSBzZWQgLWUgInMvVV9QTEFURk9STV9JU19MSU5VWF9CQVNFRC9fX1g4Nl82NF9fIFwmXCYgJi8iIFwNCiAgICAgICAgICAgIC1pIHNvdXJjZS90ZXN0L2ludGx0ZXN0L3VzdHJ0ZXN0LmNwcCA7Ow0KZXNhYw0KDQpjZCBzb3VyY2UNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciA=</configure>
   <build>Y2Qgc291cmNlDQptYWtlDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbWFrZSBjaGVjaw0KZmk=</build>
   <install>Y2Qgc291cmNlDQptYWtlIGluc3RhbGw=</install>
   <localbuild>1</localbuild>

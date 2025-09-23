@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-power-manager</code>
   <description>VGhlIFhmY2U0IFBvd2VyIE1hbmFnZXIgaXMgYSBwb3dlciBtYW5hZ2VyIGZvciB0aGUgWGZjZSBkZXNrdG9wLCBYZmNlIHBvd2VyIG1hbmFnZXIgbWFuYWdlcyB0aGUgcG93ZXIgc291cmNlcyBvbiB0aGUgY29tcHV0ZXIgYW5kIHRoZSBkZXZpY2VzIHRoYXQgY2FuIGJlIGNvbnRyb2xsZWQgdG8gcmVkdWNlIHRoZWlyIHBvd2VyIGNvbnN1bXB0aW9uIChzdWNoIGFzIExDRCBicmlnaHRuZXNzIGxldmVsIG9yIG1vbml0b3Igc2xlZXApLiBJbiBhZGRpdGlvbiwgWGZjZTQgUG93ZXIgTWFuYWdlciBwcm92aWRlcyBhIHNldCBvZiBmcmVlZGVza3RvcC1jb21wbGlhbnQgREJ1cyBpbnRlcmZhY2VzIHRvIGluZm9ybSBvdGhlciBhcHBsaWNhdGlvbnMgYWJvdXQgY3VycmVudCBwb3dlciBsZXZlbCBzbyB0aGF0IHRoZXkgY2FuIGFkanVzdCB0aGVpciBwb3dlciBjb25zdW1wdGlvbi4=</description>
   <sourcefile>xfce4-power-manager-4.20.0.tar.bz2</sourcefile>

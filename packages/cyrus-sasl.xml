@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>cyrus-sasl</code>
   <description>VGhlIEN5cnVzIFNBU0wgcGFja2FnZSBjb250YWlucyBhIFNpbXBsZSBBdXRoZW50aWNhdGlvbiBhbmQgU2VjdXJpdHkgTGF5ZXIgaW1wbGVtZW50YXRpb24sIGEgbWV0aG9kIGZvciBhZGRpbmcgYXV0aGVudGljYXRpb24gc3VwcG9ydCB0byBjb25uZWN0aW9uLWJhc2VkIHByb3RvY29scy4=</description>
   <sourcefile>cyrus-sasl-2.1.28.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>LMDB</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>berkeleydb</code>
-      <weight>1</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

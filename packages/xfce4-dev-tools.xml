@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-dev-tools</code>
   <description>VGhlIFhmY2U0IERldmVsb3BtZW50IFRvb2xzIGFyZSBhIGNvbGxlY3Rpb24gb2YgdG9vbHMgYW5kIG1hY3JvcyBmb3IgYnVpbGRpbmcgc29tZSBYZmNlIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>xfce4-dev-tools-4.20.0.tar.bz2</sourcefile>

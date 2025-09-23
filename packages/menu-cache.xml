@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>menu-cache</code>
   <description>VGhlIE1lbnUgQ2FjaGUgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIGNyZWF0aW5nIGFuZCB1dGlsaXppbmcgY2FjaGVzIHRvIHNwZWVkIHVwIHRoZSBtYW5pcHVsYXRpb24gZm9yIGZyZWVkZXNrdG9wLm9yZyBkZWZpbmVkIGFwcGxpY2F0aW9uIG1lbnVzLg==</description>
   <sourcefile>menu-cache-1.1.1.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>gtk-doc</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libfm-extra</code>
-      <weight>1</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

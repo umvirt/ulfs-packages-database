@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xcb-util-cursor</code>
   <description>VGhlIHhjYi11dGlsLWN1cnNvciBwYWNrYWdlIHByb3ZpZGVzIGEgbW9kdWxlIHRoYXQgaW1wbGVtZW50cyB0aGUgWENCIGN1cnNvciBsaWJyYXJ5LiBJdCBpcyB0aGUgWENCIHJlcGxhY2VtZW50IGZvciBsaWJYY3Vyc29yLg==</description>
   <sourcefile>xcb-util-cursor-0.1.5.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>qtwebengine6</code>
   <description>UXRXZWJFbmdpbmUgaW50ZWdyYXRlcyBjaHJvbWl1bSdzIHdlYiBjYXBhYmlsaXRpZXMgaW50byBRdC4gSXQgc2hpcHMgd2l0aCBpdHMgb3duIGNvcHkgb2YgbmluamEgd2hpY2ggaXQgdXNlcyBmb3IgdGhlIGJ1aWxkIGlmIGl0IGNhbm5vdCBmaW5kIGEgc3lzdGVtIGNvcHksIGFuZCB2YXJpb3VzIGNvcGllcyBvZiBsaWJyYXJpZXMgZnJvbSBmZm1wZWcsIGljdSwgbGlidnB4LCBhbmQgemxpYiAoaW5jbHVkaW5nIGxpYm1pbml6aXApIHdoaWNoIGhhdmUgYmVlbiBmb3JrZWQgYnkgdGhlIGNocm9taXVtIGRldmVsb3BlcnMu</description>
   <sourcefile>qtwebengine-everywhere-src-6.8.2.tar.xz</sourcefile>
@@ -13,71 +13,71 @@
   <dependances>
     <dependance>
       <code>icu</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libevent</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>krb5</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libwebp</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>nss</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>opus</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>poppler</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>cups</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>pipewire</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>pciutils</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>nodejs</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>qt6</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>python3-html5lib</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
   </dependances>
   <patches/>

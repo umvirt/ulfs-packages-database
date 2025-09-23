@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>epiphany</code>
   <description>RXBpcGhhbnkgaXMgYSBzaW1wbGUgeWV0IHBvd2VyZnVsIEdOT01FIHdlYiBicm93c2VyIHRhcmdldGVkIGF0IG5vbi10ZWNobmljYWwgdXNlcnMuIEl0cyBwcmluY2lwbGVzIGFyZSBzaW1wbGljaXR5IGFuZCBzdGFuZGFyZHMgY29tcGxpYW5jZS4=</description>
   <sourcefile>epiphany-47.3.1.tar.xz</sourcefile>
@@ -13,43 +13,43 @@
   <dependances>
     <dependance>
       <code>nettle</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>iso-codes</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gcr4</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>json-glib</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gnome-desktop</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>webkitgtk</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libadwaita</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libportal</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>gnome-keyring</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>appstream-glib</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
   </dependances>
   <patches/>

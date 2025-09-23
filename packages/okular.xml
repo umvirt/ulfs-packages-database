@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>okular</code>
   <description>T2t1bGFyIGlzIGEgZG9jdW1lbnQgdmlld2VyIGZvciBLREUuIEl0IGNhbiB2aWV3IGRvY3VtZW50cyBvZiBtYW55IHR5cGVzIGluY2x1ZGluZyBQREYsIFBvc3RTY3JpcHQsIFRJRkYsIERqVnUsIERWSSwgWFBTLCBhbmQgZVB1Yi4=</description>
   <sourcefile>okular-24.12.2.tar.xz</sourcefile>
@@ -14,31 +14,31 @@
   <dependances>
     <dependance>
       <code>tiff</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>qca</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>plasma</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>phonon</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libkexiv2</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>poppler-app-qt6</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

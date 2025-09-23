@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>transmission</code>
   <description>VHJhbnNtaXNzaW9uIGlzIGEgY3Jvc3MtcGxhdGZvcm0sIG9wZW4gc291cmNlIEJpdFRvcnJlbnQgY2xpZW50Lg==</description>
   <sourcefile>transmission-4.0.6.tar.xz</sourcefile>

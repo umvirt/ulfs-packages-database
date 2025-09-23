@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>kea</code>
   <description>VGhlIElTQyBLZWEgcGFja2FnZSBjb250YWlucyB0aGUgc2VydmVyIHByb2dyYW1zIGZvciBESENQLiBJdCBpcyB0aGUgc3VjY2Vzc29yIG9mIHRoZSBvbGQgSVNDIERIQ1Agc2VydmVyIHdoaWNoIGlzIGVuZC1vZi1saWZlIHNpbmNlIERlY2VtYmVyIDIwMjIu</description>
   <sourcefile>kea-2.6.1.tar.gz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>krb5</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>boost</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>mariadb-client</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>postgresql-client</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>valgrind</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>log4cplus</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-meson</code>
   <description>TWVzb24gUHl0aG9uIGJ1aWxkIGJhY2tlbmQ=</description>
   <sourcefile>meson_python-0.17.1.tar.gz</sourcefile>
@@ -11,10 +11,6 @@
   <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIG1lc29uX3B5dGhvbg==</install>
   <localbuild>0</localbuild>
   <dependances>
-    <dependance>
-      <code>python3-packaging</code>
-      <weight>1</weight>
-    </dependance>
     <dependance>
       <code>python3-pyproject-metadata</code>
       <weight>2</weight>

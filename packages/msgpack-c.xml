@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>msgpack-c</code>
   <description>TWVzc2FnZVBhY2sgaW1wbGVtZW50YXRpb24gZm9yIEM=</description>
   <sourcefile>msgpack-c-6.1.0.tar.gz</sourcefile>

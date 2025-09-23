@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libatasmart</code>
   <description>VGhlIGxpYmF0YXNtYXJ0IHBhY2thZ2UgaXMgYSBkaXNrIHJlcG9ydGluZyBsaWJyYXJ5LiBJdCBvbmx5IHN1cHBvcnRzIGEgc3Vic2V0IG9mIHRoZSBBVEEgUy5NLkEuUi5ULiBmdW5jdGlvbmFsaXR5Lg==</description>
   <sourcefile>libatasmart-0.19.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>soundtouch</code>
   <description>VGhlIFNvdW5kVG91Y2ggcGFja2FnZSBjb250YWlucyBhbiBvcGVuLXNvdXJjZSBhdWRpbyBwcm9jZXNzaW5nIGxpYnJhcnkgdGhhdCBhbGxvd3MgY2hhbmdpbmcgdGhlIHNvdW5kIHRlbXBvLCBwaXRjaCBhbmQgcGxheWJhY2sgcmF0ZSBwYXJhbWV0ZXJzIGluZGVwZW5kZW50bHkgZnJvbSBlYWNoIG90aGVyLg==</description>
   <sourcefile>soundtouch-2.3.3.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-psutil</code>
   <description>cHN1dGlsIChwcm9jZXNzIGFuZCBzeXN0ZW0gdXRpbGl0aWVzKSBpcyBhIGNyb3NzLXBsYXRmb3JtIGxpYnJhcnkgZm9yIHJldHJpZXZpbmcgaW5mb3JtYXRpb24gb24gcnVubmluZyBwcm9jZXNzZXMgYW5kIHN5c3RlbSB1dGlsaXphdGlvbiAoQ1BVLCBtZW1vcnksIGRpc2tzLCBuZXR3b3JrLCBzZW5zb3JzKSBpbiBQeXRob24uIEl0IGlzIHVzZWZ1bCBtYWlubHkgZm9yIHN5c3RlbSBtb25pdG9yaW5nLCBwcm9maWxpbmcgYW5kIGxpbWl0aW5nIHByb2Nlc3MgcmVzb3VyY2VzIGFuZCBtYW5hZ2VtZW50IG9mIHJ1bm5pbmcgcHJvY2Vzc2VzLiBJdCBpbXBsZW1lbnRzIG1hbnkgZnVuY3Rpb25hbGl0aWVzIG9mZmVyZWQgYnkgY2xhc3NpYyBVTklYIGNvbW1hbmQgbGluZSB0b29scyBzdWNoIGFzIHBzLCB0b3AsIGlvdG9wLCBsc29mLCBuZXRzdGF0LCBpZmNvbmZpZywgZnJlZSBhbmQgb3RoZXJzLg0KDQo=</description>
   <sourcefile>psutil-7.0.0.tar.gz</sourcefile>

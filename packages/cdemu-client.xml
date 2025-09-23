@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>cdemu-client</code>
   <description>Q0RFbXUgY2xpZW50IGlzIGEgc2ltcGxlIGNvbW1hbmQtbGluZSBjbGllbnQgZm9yIGNvbnRyb2xsaW5nIENERW11IGRhZW1vbi4=</description>
   <sourcefile>cdemu-client-3.2.5.tar.xz</sourcefile>

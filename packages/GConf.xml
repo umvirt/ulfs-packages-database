@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>GConf</code>
   <description>VGhlIEdDb25mIHBhY2thZ2UgY29udGFpbnMgYSBjb25maWd1cmF0aW9uIGRhdGFiYXNlIHN5c3RlbSB1c2VkIGJ5IG1hbnkgR05PTUUgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>GConf-3.2.6.tar.xz</sourcefile>

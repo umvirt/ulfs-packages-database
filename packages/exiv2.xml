@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>exiv2</code>
   <description>RXhpdjIgaXMgYSBDKysgbGlicmFyeSBhbmQgYSBjb21tYW5kIGxpbmUgdXRpbGl0eSBmb3IgbWFuYWdpbmcgaW1hZ2UgYW5kIHZpZGVvIG1ldGFkYXRhLg==</description>
   <sourcefile>exiv2-0.28.5.tar.gz</sourcefile>

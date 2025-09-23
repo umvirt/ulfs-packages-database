@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>LibreCAD</code>
   <description>TGlicmVDQUQgaXMgYSBjcm9zcy1wbGF0Zm9ybSAyRCBDQUQgcHJvZ3JhbSB3cml0dGVuIGluIEMrKzE3LiBJdCBjYW4gcmVhZCBEWEYvRFdHIGZpbGVzIGFuZCBjYW4gd3JpdGUgRFhGL1BERi9TVkcgZmlsZXMuIEl0IHN1cHBvcnRzIHBvaW50L2xpbmUvY2lyY2xlL2VsbGlwc2UvcGFyYWJvbGEvc3BsaW5lIHByaW1pdGl2ZXMuIFRoZSB1c2VyIGludGVyZmFjZSBpcyBoaWdobHkgY3VzdG9taXphYmxlLCBhbmQgaGFzIGRvemVucyBvZiB0cmFuc2xhdGlvbnMu</description>
   <sourcefile>LibreCAD-2.2.1.1.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>boost</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>qt5</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>ImageMagick</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>inkscape</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

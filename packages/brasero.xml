@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>brasero</code>
   <description>QnJhc2VybyBpcyBhbiBhcHBsaWNhdGlvbiB1c2VkIHRvIGJ1cm4gQ0RzIGFuZCBEVkRzIG9uIHRoZSBHTk9NRSBEZXNrdG9wLiBJdCBpcyBkZXNpZ25lZCB0byBiZSBhcyBzaW1wbGUgYXMgcG9zc2libGUgYW5kIGhhcyBzb21lIHVuaXF1ZSBmZWF0dXJlcyB0aGF0IGVuYWJsZSB1c2VycyB0byBjcmVhdGUgdGhlaXIgZGlzY3MgZWFzaWx5IGFuZCBxdWlja2x5Lg==</description>
   <sourcefile>brasero-3.12.3.tar.xz</sourcefile>
@@ -13,55 +13,55 @@
   <dependances>
     <dependance>
       <code>libburn</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libisoburn</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>cdrtools</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>dvdrw-tools</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>itstool</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>totem-pl-parser</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-base</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libcanberra</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>gvfs</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>libdvdcss</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>cdrdao</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>glib-gobject</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
   </dependances>
   <patches>

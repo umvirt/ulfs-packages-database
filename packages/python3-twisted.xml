@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-twisted</code>
   <description>QW4gYXN5bmNocm9ub3VzIG5ldHdvcmtpbmcgZnJhbWV3b3JrIHdyaXR0ZW4gaW4gUHl0aG9u</description>
   <sourcefile>twisted-24.3.0.tar.gz</sourcefile>
@@ -13,43 +13,43 @@
   <dependances>
     <dependance>
       <code>python3-typing_extensions</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-idna</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-hatchling</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>python3-hatch_fancy_pypi_readme</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>python3-attrs</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>python3-automat</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>python3-constantly</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>python3-hyperlink</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>python3-incremental</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>python3-zope.interface</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
   </dependances>
   <patches/>

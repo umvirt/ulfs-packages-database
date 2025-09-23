@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>flac</code>
   <description>RkxBQyBpcyBhbiBhdWRpbyBDT0RFQyBzaW1pbGFyIHRvIE1QMywgYnV0IGxvc3NsZXNzLCBtZWFuaW5nIHRoYXQgYXVkaW8gaXMgY29tcHJlc3NlZCB3aXRob3V0IGxvc2luZyBhbnkgaW5mb3JtYXRpb24u</description>
   <sourcefile>flac-1.5.0.tar.xz</sourcefile>

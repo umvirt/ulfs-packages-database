@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>OpenColorIO</code>
   <description>QSBjb2xvciBtYW5hZ2VtZW50IGZyYW1ld29yayBmb3IgdmlzdWFsIGVmZmVjdHMgYW5kIGFuaW1hdGlvbi4=</description>
   <sourcefile>OpenColorIO-2.4.1.tar.gz</sourcefile>

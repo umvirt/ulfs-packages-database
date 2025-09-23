@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>fcitx5-lua</code>
   <description>QW4gYWRkb24gbG9hZGVyIGZvciBsdWEgYW5kIGdvb2dsZXBpbnlpbiBhcGksIHdoaWNoIGlzIHByb3ZpZGVkIGJ5IGltZWFwaSBhZGRvbi4=</description>
   <sourcefile>fcitx5-lua-5.0.15.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>lua-5.4</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>fcitx5-base</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

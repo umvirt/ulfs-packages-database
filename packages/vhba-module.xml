@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>vhba-module</code>
   <description>VkhCQSBtb2R1bGUgcHJvdmlkZXMgYSBWaXJ0dWFsIChTQ1NJKSBIQkEsIHdoaWNoIGlzIHRoZSBsaW5rIGJldHdlZW4gdXNlcnNwYWNlIGRhZW1vbiBhbmQgbGludXgga2VybmVsLg==</description>
   <sourcefile>vhba-module-20240917.tar.xz</sourcefile>

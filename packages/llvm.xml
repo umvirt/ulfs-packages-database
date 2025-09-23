@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>llvm</code>
   <description>VGhlIExMVk0gcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgbW9kdWxhciBhbmQgcmV1c2FibGUgY29tcGlsZXIgYW5kIHRvb2xjaGFpbiB0ZWNobm9sb2dpZXMu</description>
   <sourcefile>llvm-19.1.7.src.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>!evolution-data-server</code>
   <description>VGhlIEV2b2x1dGlvbiBEYXRhIFNlcnZlciBwYWNrYWdlIHByb3ZpZGVzIGEgdW5pZmllZCBiYWNrZW5kIGZvciBwcm9ncmFtcyB0aGF0IHdvcmsgd2l0aCBjb250YWN0cywgdGFza3MsIGFuZCBjYWxlbmRhciBpbmZvcm1hdGlvbi4gSXQgd2FzIG9yaWdpbmFsbHkgZGV2ZWxvcGVkIGZvciBFdm9sdXRpb24gKGhlbmNlIHRoZSBuYW1lKSwgYnV0IGlzIG5vdyB1c2VkIGJ5IG90aGVyIHBhY2thZ2VzIGFzIHdlbGwu</description>
   <sourcefile>evolution-data-server-3.52.4.tar.xz</sourcefile>

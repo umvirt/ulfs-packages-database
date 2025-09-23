@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>dgen-sdl</code>
   <description>TXVsdGnigJBwbGF0Zm9ybSBHZW5lc2lzL01lZ2EgRHJpdmUgRW11bGF0b3I=</description>
   <sourcefile>dgen-sdl-1.33.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>sdl12-compat</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>SDL</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

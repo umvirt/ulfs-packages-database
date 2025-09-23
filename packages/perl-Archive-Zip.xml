@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-Archive-Zip</code>
   <description>VGhlIEFyY2hpdmU6OlppcCBtb2R1bGUgYWxsb3dzIGEgUGVybCBwcm9ncmFtIHRvIGNyZWF0ZSwgbWFuaXB1bGF0ZSwgcmVhZCwgYW5kIHdyaXRlIFppcCBhcmNoaXZlIGZpbGVzLg==</description>
   <sourcefile>Archive-Zip-1.68.tar.gz</sourcefile>
@@ -12,8 +12,8 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>unzip</code>
-      <weight>1</weight>
+      <code>libarchive</code>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>

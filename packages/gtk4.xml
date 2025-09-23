@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gtk4</code>
   <description>VGhlIEdUSyA0IHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHVzZWQgZm9yIGNyZWF0aW5nIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZXMgZm9yIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>gtk-4.16.12.tar.xz</sourcefile>
@@ -13,51 +13,51 @@
   <dependances>
     <dependance>
       <code>glslc</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gobject-introspection</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>wayland-protocols</code>
+      <code>gobject-introspection</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libepoxy</code>
+      <code>wayland-protocols</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>libepoxy</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>fribidi</code>
+      <code>gdk-pixbuf</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>pango</code>
+      <code>fribidi</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>libxkbcommon</code>
+      <code>pango</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>graphene</code>
+      <code>libxkbcommon</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>iso-codes</code>
+      <code>graphene</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>iso-codes</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>gst-plugins-bad</code>
+      <code>librsvg</code>
       <weight>11</weight>
+    </dependance>
+    <dependance>
+      <code>gst-plugins-bad</code>
+      <weight>12</weight>
     </dependance>
   </dependances>
   <patches/>

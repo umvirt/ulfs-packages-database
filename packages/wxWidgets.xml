@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>wxWidgets</code>
   <description>d3hXaWRnZXRzIGlzIGEgQysrIGxpYnJhcnkgdGhhdCBsZXRzIGRldmVsb3BlcnMgY3JlYXRlIGFwcGxpY2F0aW9ucyBmb3IgV2luZG93cywgbWFjT1MsIExpbnV4IGFuZCBvdGhlciBwbGF0Zm9ybXMgd2l0aCBhIHNpbmdsZSBjb2RlIGJhc2Uu</description>
   <sourcefile>wxWidgets-3.2.7.tar.bz2</sourcefile>

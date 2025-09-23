@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>giflib</code>
   <description>VGhlIGdpZmxpYiBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyBmb3IgcmVhZGluZyBhbmQgd3JpdGluZyBHSUZzIGFzIHdlbGwgYXMgcHJvZ3JhbXMgZm9yIGNvbnZlcnRpbmcgYW5kIHdvcmtpbmcgd2l0aCBHSUYgZmlsZXMu</description>
   <sourcefile>giflib-5.2.2.tar.gz</sourcefile>

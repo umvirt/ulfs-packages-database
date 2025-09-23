@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>zbar</code>
   <description>WkJhciBpcyBhbiBvcGVuIHNvdXJjZSBzb2Z0d2FyZSBzdWl0ZSBmb3IgcmVhZGluZyBiYXIgY29kZXMgZnJvbSB2YXJpb3VzIHNvdXJjZXMsIHN1Y2ggYXMgdmlkZW8gc3RyZWFtcywgaW1hZ2UgZmlsZXMgYW5kIHJhdyBpbnRlbnNpdHkgc2Vuc29ycy4NCg==</description>
   <sourcefile>zbar-0.23.93.tar.gz</sourcefile>

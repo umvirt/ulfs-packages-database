@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-encode-locale</code>
   <description>RGV0ZXJtaW5lIHRoZSBsb2NhbGUgZW5jb2Rpbmc=</description>
   <sourcefile>Encode-Locale-1.05.tar.gz</sourcefile>

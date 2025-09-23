@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>cdrdao</code>
   <description>VGhlIENkcmRhbyBwYWNrYWdlIGNvbnRhaW5zIENEIHJlY29yZGluZyB1dGlsaXRpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGJ1cm5pbmcgYSBDRCBpbiBkaXNrLWF0LW9uY2UgbW9kZS4=</description>
   <sourcefile>cdrdao-1.2.4.tar.bz2</sourcefile>

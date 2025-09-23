@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfdesktop</code>
   <description>WGZkZXNrdG9wIGlzIGEgZGVza3RvcCBtYW5hZ2VyIGZvciB0aGUgWGZjZSBEZXNrdG9wIEVudmlyb25tZW50LiBYZmRlc2t0b3Agc2V0cyB0aGUgYmFja2dyb3VuZCBpbWFnZSAvIGNvbG9yLCBjcmVhdGVzIHRoZSByaWdodCBjbGljayBtZW51IGFuZCB3aW5kb3cgbGlzdCBhbmQgZGlzcGxheXMgdGhlIGZpbGUgaWNvbnMgb24gdGhlIGRlc2t0b3AgdXNpbmcgVGh1bmFyIGxpYnJhcmllcy4=</description>
   <sourcefile>xfdesktop-4.20.1.tar.bz2</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>libxfce4windowing</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>startup-notification</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libwnck3</code>
+      <code>startup-notification</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libnotify</code>
+      <code>libwnck3</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>exo</code>
+      <code>libnotify</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>thunar</code>
+      <code>exo</code>
       <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>thunar</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

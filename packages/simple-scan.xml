@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>simple-scan</code>
   <description>VGhlIFNpbXBsZS1zY2FuIHBhY2thZ2UgY29udGFpbnMgYSBtb2Rlcm4gZG9jdW1lbnQgc2Nhbm5pbmcgYXBwbGljYXRpb24uIEl0IGNhcHR1cmVzIGltYWdlcyB1c2luZyBTQU5FLCBhbmQgc3VwcG9ydHMgdGhlIGxhdGVzdCBjb2xvciBtYW5hZ2VtZW50IGFuZCBncmFwaGljcyBzdGFuZGFyZHMuDQoNCg==</description>
   <sourcefile>simple-scan-46.0.tar.xz</sourcefile>

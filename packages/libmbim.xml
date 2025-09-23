@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libmbim</code>
   <description>VGhlIGxpYm1iaW0gcGFja2FnZSBjb250YWlucyBhIEdMaWItYmFzZWQgbGlicmFyeSBmb3IgdGFsa2luZyB0byBXV0FOIG1vZGVtcyBhbmQgZGV2aWNlcyB3aGljaCBzcGVhayB0aGUgTW9iaWxlIEludGVyZmFjZSBCcm9hZGJhbmQgTW9kZWwgKE1CSU0pIHByb3RvY29sLg==</description>
   <sourcefile>libmbim-1.26.4.tar.xz</sourcefile>

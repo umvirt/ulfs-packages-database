@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>swig</code>
   <description>U1dJRyAoU2ltcGxpZmllZCBXcmFwcGVyIGFuZCBJbnRlcmZhY2UgR2VuZXJhdG9yKSBpcyBhIGNvbXBpbGVyIHRoYXQgaW50ZWdyYXRlcyBDIGFuZCBDKysgd2l0aCBsYW5ndWFnZXMgaW5jbHVkaW5nIFBlcmwsIFB5dGhvbiwgVGNsLCBSdWJ5LCBQSFAsIEphdmEsIEphdmFTY3JpcHQsIEMjLCBELCBHbywgTHVhLCBPY3RhdmUsIFIsIFJhY2tldCwgU2NpbGFiLCBTY2hlbWUsIGFuZCBPY2FtbC4gU1dJRyBjYW4gYWxzbyBleHBvcnQgaXRzIHBhcnNlIHRyZWUgaW50byBMaXNwIHMtZXhwcmVzc2lvbnMgYW5kIFhNTC4=</description>
   <sourcefile>swig-4.3.0.tar.gz</sourcefile>

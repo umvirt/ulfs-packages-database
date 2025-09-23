@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxde-common</code>
   <description>aGUgTFhERSBDb21tb24gcGFja2FnZSBwcm92aWRlcyBhIHNldCBvZiBkZWZhdWx0IGNvbmZpZ3VyYXRpb24gZm9yIExYREUu</description>
   <sourcefile>lxde-common-0.99.2.tar.xz</sourcefile>

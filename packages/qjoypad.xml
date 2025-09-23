@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>qjoypad</code>
   <description>UUpveVBhZCB0YWtlcyBpbnB1dCBmcm9tIGEgZ2FtZXBhZCBvciBqb3lzdGljayBhbmQgdHJhbnNsYXRlcyBpdCBpbnRvIGtleSBzdHJva2VzIG9yIG1vdXNlIGFjdGlvbnMsIGxldHRpbmcgeW91IGNvbnRyb2wgYW55IFhXaW5kb3dzIHByb2dyYW0gd2l0aCB5b3VyIGdhbWUgY29udHJvbGxlci4NCg==</description>
   <sourcefile>qjoypad-4.3.1.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libvpl</code>
   <description>SW50ZWzCriBWaWRlbyBQcm9jZXNzaW5nIExpYnJhcnkgKEludGVswq4gVlBMKSBkaXNwYXRjaGVyLCB0b29scywgYW5kIGV4YW1wbGVz</description>
   <sourcefile>libvpl-2.14.0.tar.gz</sourcefile>

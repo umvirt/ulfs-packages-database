@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gst-rtsp-server</code>
   <description>UlRTUCBzZXJ2ZXIgYmFzZWQgb24gR1N0cmVhbWVyLiBUaGlzIG1vZHVsZSBoYXMgYmVlbiBtZXJnZWQgaW50byB0aGUgbWFpbiBHU3RyZWFtZXIgcmVwbyBmb3IgZnVydGhlciBkZXZlbG9wbWVudC4=</description>
   <sourcefile>gst-rtsp-server-1.18.6.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gstreamer</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-good</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gst-plugins-ugly</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>re2</code>
   <description>UkUyIGlzIGEgZmFzdCwgc2FmZSwgdGhyZWFkLWZyaWVuZGx5IGFsdGVybmF0aXZlIHRvIGJhY2t0cmFja2luZyByZWd1bGFyIGV4cHJlc3Npb24gZW5naW5lcyBsaWtlIHRob3NlIHVzZWQgaW4gUENSRSwgUGVybCwgYW5kIFB5dGhvbi4gSXQgaXMgYSBDKysgbGlicmFyeS4=</description>
   <sourcefile>re2-2024-07-02.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>abseil-cpp</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

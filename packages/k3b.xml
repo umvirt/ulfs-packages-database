@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>k3b</code>
   <description>VGhlIEszYiBwYWNrYWdlIGNvbnRhaW5zIGEgS0Y2LWJhc2VkIGdyYXBoaWNhbCBpbnRlcmZhY2UgdG8gdGhlIENkcnRvb2xzIGFuZCBkdmQrcnctdG9vbHMgQ0QvRFZEIG1hbmlwdWxhdGlvbiB0b29scy4gSXQgYWxzbyBjb21iaW5lcyB0aGUgY2FwYWJpbGl0aWVzIG9mIG1hbnkgb3RoZXIgbXVsdGltZWRpYSBwYWNrYWdlcyBpbnRvIG9uZSBjZW50cmFsIGludGVyZmFjZSB0byBwcm92aWRlIGEgc2ltcGxlLXRvLW9wZXJhdGUgYXBwbGljYXRpb24gdGhhdCBjYW4gYmUgdXNlZCB0byBoYW5kbGUgbWFueSBvZiB5b3VyIENEL0RWRCByZWNvcmRpbmcgYW5kIGZvcm1hdHRpbmcgcmVxdWlyZW1lbnRzLiBJdCBpcyB1c2VkIGZvciBjcmVhdGluZyBhdWRpbywgZGF0YSwgdmlkZW8gYW5kIG1peGVkLW1vZGUgQ0RzIGFzIHdlbGwgYXMgY29weWluZywgcmlwcGluZyBhbmQgYnVybmluZyBDRHMgYW5kIERWRHMu</description>
   <sourcefile>k3b-24.12.2.tar.xz</sourcefile>
@@ -14,71 +14,71 @@
   <dependances>
     <dependance>
       <code>libburn</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cdrtools</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>dvdrw-tools</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>shared-mime-info</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libdvdread</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>lame</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>flac</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libsndfile</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>udisks</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libmad</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>libsamplerate</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>taglib</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>cdrdao</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>libkcddb</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
   </dependances>
   <patches/>

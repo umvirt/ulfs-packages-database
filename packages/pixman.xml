@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>pixman</code>
   <description>VGhlIFBpeG1hbiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0aGF0IHByb3ZpZGVzIGxvdy1sZXZlbCBwaXhlbCBtYW5pcHVsYXRpb24gZmVhdHVyZXMgc3VjaCBhcyBpbWFnZSBjb21wb3NpdGluZyBhbmQgdHJhcGV6b2lkIHJhc3Rlcml6YXRpb24u</description>
   <sourcefile>pixman-0.44.2.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xcb-imdkit</code>
   <description>eGNiLWltZGtpdCBpcyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB4aW0gcHJvdG9jb2wgaW4geGNiLCBjb21wYXJpbmcgd2l0aCB0aGUgaW1wbGVtZW50YXRpb24gb2YgSU1Ea2l0IHdpdGggWGxpYiwgYW5kIHhpbSBpbnNpZGUgWGxpYi4=</description>
   <sourcefile>xcb-imdkit-1.0.9.tar.gz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>xcb-proto</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxcb</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>json-c</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>extra-cmake-modules</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>fmt</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>expat</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

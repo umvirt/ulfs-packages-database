@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ipset</code>
   <description>YWRtaW5pc3RyYXRpb24gdG9vbCBmb3Iga2VybmVsIElQIHNldHM=</description>
   <sourcefile>ipset-7.23.tar.bz2</sourcefile>

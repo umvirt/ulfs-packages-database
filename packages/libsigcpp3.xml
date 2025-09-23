@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libsigcpp3</code>
   <description>VGhlIGxpYnNpZ2MrKyBwYWNrYWdlIGltcGxlbWVudHMgYSB0eXBlc2FmZSBjYWxsYmFjayBzeXN0ZW0gZm9yIHN0YW5kYXJkIEMrKy4gVGhpcyB2ZXJzaW9uIGlzIHBhcnQgb2YgYSBuZXcgQVBJIGZvciBzdXBwb3J0aW5nIGd0a21tLTQuDQoNCg==</description>
   <sourcefile>libsigc++-3.6.0.tar.xz</sourcefile>

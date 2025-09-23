@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>hdf5</code>
   <description>SGlnaC1wZXJmb3JtYW5jZSBkYXRhIG1hbmFnZW1lbnQgYW5kIHN0b3JhZ2Ugc3VpdGUu</description>
   <sourcefile>hdf5-1.14.3.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>gcc</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>black-hole-solver</code>
   <description>QSBzb2x2ZXIsIHdyaXR0ZW4gaW4gQywgdG8gc29sdmUgR29sZiBzb2xpdGFpcmUsIHRoZSBTb2xpdGFpcmUgdmFyaWFudCBjYWxsZWQg4oCcQmxhY2sgSG9sZeKAnSBhbmQgdGhlIG9uZSBjYWxsZWQg4oCcQWxsIGluIGEgUm934oCdLg==</description>
   <sourcefile>black-hole-solver-1.14.0.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>perl-Path-Tiny</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

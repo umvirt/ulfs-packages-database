@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>phonon-backend-vlc</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgUGhvbm9uIGJhY2tlbmQgd2hpY2ggdXRpbGl6ZXMgdGhlIFZMQyBtZWRpYSBmcmFtZXdvcmsu</description>
   <sourcefile>phonon-backend-vlc-0.12.0.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>vlc</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>phonon-base</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

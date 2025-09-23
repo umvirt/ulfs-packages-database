@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-terminal</code>
   <description>WGZjZTQgVGVybWluYWwgaXMgYSBHVEsrMyB0ZXJtaW5hbCBlbXVsYXRvci4=</description>
   <sourcefile>xfce4-terminal-1.1.4.tar.bz2</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>krb5</code>
   <description>TUlUIEtlcmJlcm9zIFY1IGlzIGEgZnJlZSBpbXBsZW1lbnRhdGlvbiBvZiBLZXJiZXJvcyA1LiBLZXJiZXJvcyBpcyBhIG5ldHdvcmsgYXV0aGVudGljYXRpb24gcHJvdG9jb2wuIA==</description>
   <sourcefile>krb5-1.21.3.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>garcon</code>
   <description>VGhlIEdhcmNvbiBwYWNrYWdlIGNvbnRhaW5zIGEgZnJlZWRlc2t0b3Aub3JnIGNvbXBsaWFudCBtZW51IGltcGxlbWVudGF0aW9uIGJhc2VkIG9uIEdMaWIgYW5kIEdJTy4=</description>
   <sourcefile>garcon-4.20.0.tar.bz2</sourcefile>

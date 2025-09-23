@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-typogrify</code>
   <description>VHlwb2dyaWZ5IHByb3ZpZGVzIGZpbHRlcnMgdG8gZW5oYW5jZSB3ZWIgdHlwb2dyYXBoeSwgaW5jbHVkaW5nIHN1cHBvcnQgZm9yIERqYW5nbyBhbmQgSmluamEgdGVtcGxhdGVzLg==</description>
   <sourcefile>typogrify-2.1.0.tar.gz</sourcefile>

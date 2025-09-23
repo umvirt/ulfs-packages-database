@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>grub2efi</code>
   <description>VGhlIEdSVUIgcGFja2FnZSBwcm92aWRlcyBHUmFuZCBVbmlmaWVkIEJvb3Rsb2FkZXIgd2l0aCBVRUZJIHN1cHBvcnQsIHdoaWNoIGlzIG5vdCBlbmFibGVkIGZvciBHUlVCIGJ1aWx0IGluIExGUy4NCg0K</description>
   <sourcefile>grub-2.12.tar.xz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>llvm</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>LVM2</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>fuse</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>X</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>freetype</code>
+      <code>LVM2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>efibootmgr</code>
+      <code>fuse</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>X</code>
+      <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>freetype</code>
+      <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>efibootmgr</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mate-user-guide</code>
   <description>VGhpcyBwYWNrYWdlIGNvbnRhaW5zIGRvY3VtZW50cyB3aGljaCB3aWxsIGJlIHBhY2thZ2VkIHRvZ2V0aGVyIGFuZA0Kc2hpcHBlZCBhcyBtYXRlLXVzZXItZ3VpZGUgaW4gdGhlIGNvcmUgTUFURSBkaXN0cmlidXRpb24u</description>
   <sourcefile>mate-user-guide-1.28.0.tar.xz</sourcefile>

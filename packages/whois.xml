@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>whois</code>
   <description>V2hvaXMgaXMgYSBjbGllbnQtc2lkZSBhcHBsaWNhdGlvbiB3aGljaCBxdWVyaWVzIHRoZSB3aG9pcyBkaXJlY3Rvcnkgc2VydmljZSBmb3IgaW5mb3JtYXRpb24gcGVydGFpbmluZyB0byBhIHBhcnRpY3VsYXIgZG9tYWluIG5hbWUu</description>
   <sourcefile>whois-5.4.3.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libidn2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libidn1</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

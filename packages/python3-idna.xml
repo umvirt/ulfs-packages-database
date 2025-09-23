@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-idna</code>
   <description>VGhlIElkbmEgbW9kdWxlIHByb3ZpZGVzIHN1cHBvcnQgZm9yIHRoZSBJbnRlcm5hdGlvbmFsaXplZCBEb21haW4gTmFtZXMgaW4gQXBwbGljYXRpb25zIChJRE5BKSBwcm90b2NvbCBhcyBzcGVjaWZpZWQgaW4gUkZDIDU4OTEu</description>
   <sourcefile>idna-3.10.tar.gz</sourcefile>

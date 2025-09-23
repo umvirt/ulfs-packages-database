@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libreoffice</code>
   <description>TGlicmVPZmZpY2UgaXMgYSBmdWxsLWZlYXR1cmVkIG9mZmljZSBzdWl0ZS4gSXQgaXMgbGFyZ2VseSBjb21wYXRpYmxlIHdpdGggTWljcm9zb2Z0IE9mZmljZSBhbmQgaXMgZGVzY2VuZGVkIGZyb20gT3Blbk9mZmljZS5vcmcu</description>
   <sourcefile>libreoffice-25.2.1.2.tar.xz</sourcefile>
@@ -11,6 +11,10 @@
   <install>ZXhwb3J0IExPX1BSRUZJWD0vb3B0L2xpYnJlb2ZmaWNlLTI1LjIuMS4yDQoNCm1ha2UgZGlzdHJvLXBhY2staW5zdGFsbA0KDQppZiBbICIkTE9fUFJFRklYIiAhPSAiL3VzciIgXTsgdGhlbg0KDQogICMgVGhpcyBzeW1saW5rIGlzIG5lY2Vzc2FyeSBmb3IgdGhlIGRlc2t0b3AgbWVudSBlbnRyaWVzDQogIGxuIC1zdmYgJExPX1BSRUZJWC9saWIvbGlicmVvZmZpY2UvcHJvZ3JhbS9zb2ZmaWNlIC91c3IvYmluL2xpYnJlb2ZmaWNlICYmDQoNCiAgIyBTZXQgdXAgYSBnZW5lcmljIGxvY2F0aW9uIGluZGVwZW5kZW50IG9mIHZlcnNpb24gbnVtYmVyDQogIGxuIC1zZnYgJExPX1BSRUZJWCAvb3B0L2xpYnJlb2ZmaWNlDQoNCiAgIyBJY29ucw0KICBta2RpciAtdnAgL3Vzci9zaGFyZS9waXhtYXBzDQogIGZvciBpIGluICRMT19QUkVGSVgvc2hhcmUvaWNvbnMvaGljb2xvci8zMngzMi9hcHBzLyo7IGRvDQogICAgbG4gLXN2ZiAkaSAvdXNyL3NoYXJlL3BpeG1hcHMNCiAgZG9uZSAmJg0KDQogICMgRGVza3RvcCBtZW51IGVudHJpZXMNCiAgZm9yIGkgaW4gJExPX1BSRUZJWC9saWIvbGlicmVvZmZpY2Uvc2hhcmUveGRnLyo7IGRvDQogICAgbG4gLXN2ZiAkaSAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9saWJyZW9mZmljZS0kKGJhc2VuYW1lICRpKQ0KICBkb25lICYmDQoNCiAgIyBNYW4gcGFnZXMNCiAgZm9yIGkgaW4gJExPX1BSRUZJWC9zaGFyZS9tYW4vbWFuMS8qOyBkbw0KICAgIGxuIC1zdmYgJGkgL3Vzci9zaGFyZS9tYW4vbWFuMS8NCiAgZG9uZQ0KDQogIHVuc2V0IGkNCmZpDQoNCnVwZGF0ZS1kZXNrdG9wLWRhdGFiYXNl</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>libarchive</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>gettext</code>
       <weight>1</weight>
@@ -26,10 +30,6 @@
     <dependance>
       <code>libxslt</code>
       <weight>4</weight>
-    </dependance>
-    <dependance>
-      <code>unzip</code>
-      <weight>5</weight>
     </dependance>
     <dependance>
       <code>zip</code>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>rapidjson</code>
   <description>QSBmYXN0IEpTT04gcGFyc2VyL2dlbmVyYXRvciBmb3IgQysrIHdpdGggYm90aCBTQVgvRE9NIHN0eWxlIEFQSQ==</description>
   <sourcefile>rapidjson-1.1.0.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>fcitx5-chinese-addons</code>
   <description>cGlueWluIGFuZCB0YWJsZSBpbnB1dCBtZXRob2Qgc3VwcG9ydCBmb3IgZmNpdHg1</description>
   <sourcefile>fcitx5-chinese-addons-5.1.9.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>OpenCC</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>fcitx5-qt6</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>fcitx5-lua</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libime</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

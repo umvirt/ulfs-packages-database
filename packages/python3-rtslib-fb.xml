@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-rtslib-fb</code>
   <description>QSBvYmplY3QtYmFzZWQgUHl0aG9uIGxpYnJhcnkgZm9yIGNvbmZpZ3VyaW5nIHRoZSBMSU8gZ2VuZXJpYyBTQ1NJIHRhcmdldCwgcHJlc2VudCBpbiBMaW51eCBrZXJuZWwu</description>
   <sourcefile>rtslib-fb-2.2.3.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>python3-hatchling</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-installer</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-hatch_vcs</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>python3-build</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>python3-pyudev</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

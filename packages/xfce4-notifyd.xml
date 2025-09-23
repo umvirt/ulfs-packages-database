@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-notifyd</code>
   <description>VGhlIFhmY2U0IE5vdGlmaWNhdGlvbiBEYWVtb24gaXMgYSBzbWFsbCBwcm9ncmFtIHRoYXQgaW1wbGVtZW50cyB0aGUgInNlcnZlci1zaWRlIiBwb3J0aW9uIG9mIHRoZSBGcmVlZGVza3RvcCBkZXNrdG9wIG5vdGlmaWNhdGlvbnMgc3BlY2lmaWNhdGlvbi4g</description>
   <sourcefile>xfce4-notifyd-0.9.7.tar.bz2</sourcefile>

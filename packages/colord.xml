@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>colord</code>
   <description>Q29sb3JkIGlzIGEgc3lzdGVtIHNlcnZpY2UgdGhhdCBtYWtlcyBpdCBlYXN5IHRvIG1hbmFnZSwgaW5zdGFsbCwgYW5kIGdlbmVyYXRlIGNvbG9yIHByb2ZpbGVzLiA=</description>
   <sourcefile>colord-1.4.7.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>webkitgtk4</code>
   <description>R1RLKy00IHZlcnNpb24gb2YgV2ViS2l0R1RL</description>
   <sourcefile>webkitgtk-2.46.6.tar.xz</sourcefile>
@@ -97,19 +97,19 @@
     </dependance>
     <dependance>
       <code>enchant</code>
-      <weight>23</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>geoclue</code>
-      <weight>24</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>libavif</code>
-      <weight>25</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>xdg-dbus-proxy</code>
-      <weight>26</weight>
+      <weight>25</weight>
     </dependance>
   </dependances>
   <patches/>

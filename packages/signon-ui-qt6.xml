@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>signon-ui-qt6</code>
   <description>T25saW5lIEFjY291bnRzIFNpZ24tb24gVUk=</description>
   <sourcefile>signon-ui-eef943f0edf3beee8ecb85d4a9dae3656002fc24.tar.bz2</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>libnotify</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>qt6</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libaccounts-qt6</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>signond-qt6</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libproxy</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

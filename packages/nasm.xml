@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>nasm</code>
   <description>TkFTTSAoTmV0d2lkZSBBc3NlbWJsZXIpIGlzIGFuIDgweDg2IGFzc2VtYmxlciBkZXNpZ25lZCBmb3IgcG9ydGFiaWxpdHkgYW5kIG1vZHVsYXJpdHku</description>
   <sourcefile>nasm-2.16.03.tar.xz</sourcefile>

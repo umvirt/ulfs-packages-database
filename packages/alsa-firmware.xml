@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>alsa-firmware</code>
   <description>VGhlIEFMU0EgRmlybXdhcmUgcGFja2FnZSBjb250YWlucyBmaXJtd2FyZSBmb3IgY2VydGFpbiBzb3VuZCBjYXJkcy4=</description>
   <sourcefile>alsa-firmware-1.2.4.tar.bz2</sourcefile>

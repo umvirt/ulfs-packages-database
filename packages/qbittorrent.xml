@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>qbittorrent</code>
   <description>VGhlIHFCaXR0b3JyZW50IHByb2plY3QgYWltcyB0byBwcm92aWRlIGFuIG9wZW4tc291cmNlIHNvZnR3YXJlIGFsdGVybmF0aXZlIHRvIMK1VG9ycmVudC4=</description>
   <sourcefile>qbittorrent-5.1.2.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>qt6</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libtorrent-rasterbar</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

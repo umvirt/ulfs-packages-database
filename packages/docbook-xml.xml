@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>docbook-xml</code>
   <description>VGhlIERvY0Jvb2stNC41IFhNTCBEVEQtNC41IHBhY2thZ2UgY29udGFpbnMgZG9jdW1lbnQgdHlwZSBkZWZpbml0aW9ucyBmb3IgdmVyaWZpY2F0aW9uIG9mIFhNTCBkYXRhIGZpbGVzIGFnYWluc3QgdGhlIERvY0Jvb2sgcnVsZSBzZXQuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIHN0cnVjdHVyaW5nIGJvb2tzIGFuZCBzb2Z0d2FyZSBkb2N1bWVudGF0aW9uIHRvIGEgc3RhbmRhcmQgYWxsb3dpbmcgeW91IHRvIHV0aWxpemUgdHJhbnNmb3JtYXRpb25zIGFscmVhZHkgd3JpdHRlbiBmb3IgdGhhdCBzdGFuZGFyZC4=</description>
   <sourcefile>docbook-xml-4.5.zip</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libarchive</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>sgml-common</code>
+      <code>libxml2</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>sgml-common</code>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

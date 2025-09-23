@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxterminal</code>
   <description>VGhlIExYVGVybWluYWwgcGFja2FnZSBjb250YWlucyBhIFZURS1iYXNlZCB0ZXJtaW5hbCBlbXVsYXRvciBmb3IgTFhERSB3aXRoIHN1cHBvcnQgZm9yIG11bHRpcGxlIHRhYnMuDQoNCg==</description>
   <sourcefile>lxterminal-0.4.0.tar.xz</sourcefile>

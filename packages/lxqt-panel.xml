@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxqt-panel</code>
   <description>VGhlIGx4cXQtcGFuZWwgcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IFgxMSBkZXNrdG9wIHBhbmVsLg==</description>
   <sourcefile>lxqt-panel-2.1.4.tar.xz</sourcefile>
@@ -14,51 +14,51 @@
   <dependances>
     <dependance>
       <code>menu-cache</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxkbcommon</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>plasma</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>lm-sensors</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libdbusmenu-lxqt</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>lxqt-menu-data</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>liblxqt</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libsysstat</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>lxqt-globalkeys</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libstatgrab</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
   </dependances>
   <patches/>

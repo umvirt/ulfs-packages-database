@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>nodejs</code>
   <description>Tm9kZS5qcyBpcyBhIEphdmFTY3JpcHQgcnVudGltZSBidWlsdCBvbiBDaHJvbWUncyBWOCBKYXZhU2NyaXB0IGVuZ2luZS4NCg0K</description>
   <sourcefile>node-v22.14.0.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>brotli</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libuv</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>nghttp2</code>
+      <code>libuv</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>which</code>
+      <code>nghttp2</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>c-ares</code>
+      <code>which</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>c-ares</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

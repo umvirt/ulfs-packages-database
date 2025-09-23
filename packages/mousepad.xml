@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mousepad</code>
   <description>TW91c2VwYWQgaXMgYSBzaW1wbGUgR1RLKyAzIHRleHQgZWRpdG9yIGZvciB0aGUgWGZjZSBkZXNrdG9wIGVudmlyb25tZW50Lg==</description>
   <sourcefile>mousepad-0.6.3.tar.bz2</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>gtksourceview4</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libxfce4ui</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>gspell</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

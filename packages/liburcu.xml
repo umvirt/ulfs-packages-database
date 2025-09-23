@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>liburcu</code>
   <description>VGhlIHVzZXJzcGFjZS1yY3UgcGFja2FnZSBwcm92aWRlcyBhIHNldCBvZiB1c2Vyc3BhY2UgUkNVIChyZWFkLWNvcHktdXBkYXRlKSBsaWJyYXJpZXMu</description>
   <sourcefile>userspace-rcu-0.15.1.tar.bz2</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>SDL2_ttf</code>
   <description>V3JhcHBlciBhcm91bmQgdGhlIEZyZWVUeXBlIGFuZCBIYXJmYnV6eiBsaWJyYXJpZXMsIGFsbG93aW5nIHlvdSB0byB1c2UgVHJ1ZVR5cGUgZm9udHMgdG8gcmVuZGVyIHRleHQgaW4gU0RMIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>SDL2_ttf-2.24.0.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>freetype-stage2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>a52dec</code>
   <description>bGliYTUyIGlzIGEgZnJlZSBsaWJyYXJ5IGZvciBkZWNvZGluZyBBVFNDIEEvNTIgKGFsc28ga25vd24gYXMgQUMtMykgc3RyZWFtcy4gVGhlIEEvNTIgc3RhbmRhcmQgaXMgdXNlZCBpbiBhIHZhcmlldHkgb2YgYXBwbGljYXRpb25zLCBpbmNsdWRpbmcgZGlnaXRhbCB0ZWxldmlzaW9uIGFuZCBEVkQu</description>
   <sourcefile>a52dec-0.8.0.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>!libgweather</code>
   <description>VGhlIGxpYmd3ZWF0aGVyIHBhY2thZ2UgaXMgYSBsaWJyYXJ5IHVzZWQgdG8gYWNjZXNzIHdlYXRoZXIgaW5mb3JtYXRpb24gZnJvbSBvbmxpbmUgc2VydmljZXMgZm9yIG51bWVyb3VzIGxvY2F0aW9ucy4=</description>
   <sourcefile>libgweather-4.4.2.tar.xz</sourcefile>

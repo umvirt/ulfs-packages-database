@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>udis86</code>
   <description>RGlzYXNzZW1ibGVyIExpYnJhcnkgZm9yIHg4NiBhbmQgeDg2LTY0</description>
   <sourcefile>udis86-1.7.2.tar.gz</sourcefile>

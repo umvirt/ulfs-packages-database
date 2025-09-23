@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>firewalld</code>
   <description>U3RhdGVmdWwgem9uZSBiYXNlZCBmaXJld2FsbCBkYWVtb24gd2l0aCBELUJ1cyBpbnRlcmZhY2UNCg0KVG9waWNzDQo=</description>
   <sourcefile>firewalld-2.3.0.tar.bz2</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>nftables</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>iptables</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>ebtables</code>
+      <code>iptables</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>ipset</code>
+      <code>ebtables</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>python3-dbus</code>
+      <code>ipset</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>python3-dbus</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

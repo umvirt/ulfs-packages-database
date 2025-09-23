@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xdg-dbus-proxy</code>
   <description>VGhlIHhkZy1kYnVzLXByb3h5IHBhY2thZ2UgY29udGFpbnMgYSBmaWx0ZXJpbmcgcHJveHkgZm9yIEQtQnVzIGNvbm5lY3Rpb25zLiBUaGlzIGlzIHVzZWZ1bCBmb3IgZm9yd2FyZGluZyBkYXRhIGluIGFuZCBvdXQgb2YgYSBzYW5kYm94Lg==</description>
   <sourcefile>xdg-dbus-proxy-0.1.6.tar.xz</sourcefile>

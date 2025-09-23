@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mailcap</code>
   <description>SGVscGVyIGFwcGxpY2F0aW9uIGFuZCBNSU1FIHR5cGUgYXNzb2NpYXRpb25zIGZvciBmaWxlIHR5cGVz</description>
   <sourcefile>mailcap-r2-1-54.tar.gz</sourcefile>

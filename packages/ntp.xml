@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ntp</code>
   <description>VGhlIG50cCBwYWNrYWdlIGNvbnRhaW5zIGEgY2xpZW50IGFuZCBzZXJ2ZXIgdG8ga2VlcCB0aGUgdGltZSBzeW5jaHJvbml6ZWQgYmV0d2VlbiB2YXJpb3VzIGNvbXB1dGVycyBvdmVyIGEgbmV0d29yay4gVGhpcyBwYWNrYWdlIGlzIHRoZSBvZmZpY2lhbCByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIE5UUCBwcm90b2NvbC4=</description>
   <sourcefile>ntp-4.2.8p18.tar.gz</sourcefile>

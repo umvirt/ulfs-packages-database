@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>kamera</code>
   <description/>
   <sourcefile>kamera-24.12.2.tar.xz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>libgphoto2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

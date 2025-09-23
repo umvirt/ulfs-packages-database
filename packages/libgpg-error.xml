@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libgpg-error</code>
   <description>VGhlIGxpYmdwZy1lcnJvciBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0aGF0IGRlZmluZXMgY29tbW9uIGVycm9yIHZhbHVlcyBmb3IgYWxsIEdudVBHIGNvbXBvbmVudHMu</description>
   <sourcefile>libgpg-error-1.51.tar.bz2</sourcefile>

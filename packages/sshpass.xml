@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>sshpass</code>
   <description>Tm9uLWludGVyYWN0aXZlIHNzaCBwYXNzd29yZCBhdXRoZW50aWNhdGlvbg==</description>
   <sourcefile>sshpass-1.10.tar.gz</sourcefile>

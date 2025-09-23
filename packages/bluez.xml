@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>bluez</code>
   <description>VGhlIEJsdWVaIHBhY2thZ2UgY29udGFpbnMgdGhlIEJsdWV0b290aCBwcm90b2NvbCBzdGFjayBmb3IgTGludXgu</description>
   <sourcefile>bluez-5.79.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>seatd</code>
   <description>VGhlIHNlYXRkIHBhY2thZ2UgcHJvdmlkZXMgYSB1bml2ZXJzYWwgc2VhdCBtYW5hZ2VtZW50IGxpYnJhcnkuIEl0IGlzIHdoYXQgYSBsb3Qgb2YgV2F5bGFuZCBjb21wb3NpdG9ycyB1c2UgdG8gbWFuYWdlIHNlYXRzLCBhIHNlc3Npb24gZm9yIGEgdXNlciBpbiB3aGljaCBhcHBsaWNhdGlvbnMgY2FuIGludGVyYWN0IHdpdGgu</description>
   <sourcefile>seatd-0.9.1.tar.gz</sourcefile>

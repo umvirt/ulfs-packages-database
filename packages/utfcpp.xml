@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>utfcpp</code>
   <description>VGhlIHV0ZmNwcCBwYWNrYWdlIGNvbnRhaW5zIGEgc2V0IG9mIGluY2x1ZGUgZmlsZXMgdG8gcHJvdmlkZSBVVEYtOCB3aXRoIEMrKyBpbiBhIFBvcnRhYmxlIFdheS4=</description>
   <sourcefile>utfcpp-4.0.6.tar.gz</sourcefile>

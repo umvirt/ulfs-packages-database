@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ristretto</code>
   <description>UmlzdHJldHRvIGlzIGEgZmFzdCBhbmQgbGlnaHR3ZWlnaHQgaW1hZ2Ugdmlld2VyIGZvciB0aGUgWGZjZSBkZXNrdG9wLg==</description>
   <sourcefile>ristretto-0.13.3.tar.bz2</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gnome-bluetooth</code>
   <description>VGhlIEdOT01FIEJsdWV0b290aCBwYWNrYWdlIGNvbnRhaW5zIHRvb2xzIGZvciBtYW5hZ2luZyBhbmQgbWFuaXB1bGF0aW5nIEJsdWV0b290aCBkZXZpY2VzIHVzaW5nIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
   <sourcefile>gnome-bluetooth-47.1.tar.xz</sourcefile>

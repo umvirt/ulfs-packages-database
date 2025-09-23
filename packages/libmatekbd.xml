@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libmatekbd</code>
   <description>TUFURSBsaWJyYXJ5IHRvIG1hbmFnZSBrZXlib2FyZCBjb25maWd1cmF0aW9u</description>
   <sourcefile>libmatekbd-1.28.0.tar.xz</sourcefile>

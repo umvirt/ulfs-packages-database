@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>fftw-double</code>
   <description>RkZUVyBpcyBhIEMgc3Vicm91dGluZSBsaWJyYXJ5IGZvciBjb21wdXRpbmcgdGhlIGRpc2NyZXRlIEZvdXJpZXIgdHJhbnNmb3JtIChERlQpIGluIG9uZSBvciBtb3JlIGRpbWVuc2lvbnMsIG9mIGFyYml0cmFyeSBpbnB1dCBzaXplLCBhbmQgb2YgYm90aCByZWFsIGFuZCBjb21wbGV4IGRhdGEgKGFzIHdlbGwgYXMgb2YgZXZlbi9vZGQgZGF0YSwgaS5lLiB0aGUgZGlzY3JldGUgY29zaW5lL3NpbmUgdHJhbnNmb3JtcyBvciBEQ1QvRFNUKS4NCg0K</description>
   <sourcefile>fftw-3.3.10.tar.gz</sourcefile>

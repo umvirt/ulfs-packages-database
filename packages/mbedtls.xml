@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mbedtls</code>
   <description>QW4gb3BlbiBzb3VyY2UsIHBvcnRhYmxlLCBlYXN5IHRvIHVzZSwgcmVhZGFibGUgYW5kIGZsZXhpYmxlIFRMUyBsaWJyYXJ5LCBhbmQgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBQU0EgQ3J5cHRvZ3JhcGh5IEFQSS4g</description>
   <sourcefile>mbedtls-3.6.3.tar.bz2</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>glslang</code>
   <description>VGhlIEdsc2xhbmcgcGFja2FnZSBjb250YWlucyBhbiBmcm9udGVuZCBhbmQgdmFsaWRhdG9yIGZvciBPcGVuR0wsIE9wZW5HTCBFUywgYW5kIFZ1bGthbiBzaGFkZXJzLg==</description>
   <sourcefile>glslang-15.1.0.tar.gz</sourcefile>

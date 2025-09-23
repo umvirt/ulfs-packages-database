@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>aria2</code>
   <description>YXJpYTIgaXMgYSBsaWdodHdlaWdodCBtdWx0aS1wcm90b2NvbCAmIG11bHRpLXNvdXJjZSwgY3Jvc3MgcGxhdGZvcm0gZG93bmxvYWQgdXRpbGl0eSBvcGVyYXRlZCBpbiBjb21tYW5kLWxpbmUuIEl0IHN1cHBvcnRzIEhUVFAvSFRUUFMsIEZUUCwgU0ZUUCwgQml0VG9ycmVudCBhbmQgTWV0YWxpbmsu</description>
   <sourcefile>aria2-1.37.0.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libssh2</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>nettle</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>gnutls</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libgcrypt</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>c-ares</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

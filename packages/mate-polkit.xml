@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mate-polkit</code>
   <description>TUFURSBhdXRoZW50aWNhdGlvbiBhZ2VudCBmb3IgUG9saWN5S2l0LTENCg==</description>
   <sourcefile>mate-polkit-1.28.1.tar.xz</sourcefile>

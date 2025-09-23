@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>leafpad</code>
   <description>R1RLKyBiYXNlZCBzaW1wbGUgdGV4dCBlZGl0b3I=</description>
   <sourcefile>leafpad-0.8.19.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>gtk2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches>

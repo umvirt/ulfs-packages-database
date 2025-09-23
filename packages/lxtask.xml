@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxtask</code>
   <description>VGhlIExYVGFzayBwYWNrYWdlIGNvbnRhaW5zIGEgbGlnaHR3ZWlnaHQgYW5kIGRlc2t0b3AtaW5kZXBlbmRlbnQgdGFzayBtYW5hZ2VyLg==</description>
   <sourcefile>lxtask-0.1.11.tar.gz</sourcefile>

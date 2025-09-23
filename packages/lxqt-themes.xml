@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxqt-themes</code>
   <description>VGhlIGx4cXQtdGhlbWVzIHBhY2thZ2UgcHJvdmlkZXMgYSBudW1iZXIgb2YgZ3JhcGhpY3MgZmlsZXMgYW5kIHRoZW1lcyBmb3IgdGhlIExYUXQgZGVza3RvcC4=</description>
   <sourcefile>lxqt-themes-2.1.0.tar.xz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>lxqt-build-tools</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xclock</code>
   <description>VGhlIHhjbG9jayBwYWNrYWdlIGNvbnRhaW5zIGEgc2ltcGxlIGNsb2NrIGFwcGxpY2F0aW9uIHdoaWNoIGlzIHVzZWQgaW4gdGhlIGRlZmF1bHQgeGluaXQgY29uZmlndXJhdGlvbi4NCg0K</description>
   <sourcefile>xclock-1.1.1.tar.xz</sourcefile>

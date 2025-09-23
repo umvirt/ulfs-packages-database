@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>tidy-html5</code>
   <description>VGhlIFRpZHkgSFRNTDUgcGFja2FnZSBjb250YWlucyBhIGNvbW1hbmQgbGluZSB0b29sIGFuZCBsaWJyYXJpZXMgdXNlZCB0byByZWFkIEhUTUwsIFhIVE1MIGFuZCBYTUwgZmlsZXMgYW5kIHdyaXRlIGNsZWFuZWQgdXAgbWFya3VwLiBJdCBkZXRlY3RzIGFuZCBjb3JyZWN0cyBtYW55IGNvbW1vbiBjb2RpbmcgZXJyb3JzIGFuZCBzdHJpdmVzIHRvIHByb2R1Y2UgdmlzdWFsbHkgZXF1aXZhbGVudCBtYXJrdXAgdGhhdCBpcyBib3RoIFczQyBjb21wbGlhbnQgYW5kIGNvbXBhdGlibGUgd2l0aCBtb3N0IGJyb3dzZXJzLg==</description>
   <sourcefile>tidy-html5-5.8.0.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libxslt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

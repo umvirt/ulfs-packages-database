@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>durdraw</code>
   <description>VmVyc2F0aWxlIEFTQ0lJIGFuZCBBTlNJIEFydCB0ZXh0IGVkaXRvciBmb3IgZHJhd2luZyBpbiB0aGUgTGludXgvVW5peC9tYWNPUyB0ZXJtaW5hbCwgd2l0aCBhbmltYXRpb24sIDI1NiBhbmQgMTYgY29sb3JzLCBVbmljb2RlIGFuZCBDUDQzNywgYW5kIGN1c3RvbWl6YWJsZSB0aGVtZXM=</description>
   <sourcefile>durdraw-0.29.0.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>neofetch</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

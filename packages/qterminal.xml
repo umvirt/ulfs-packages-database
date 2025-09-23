@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>qterminal</code>
   <description>VGhlIHF0ZXJtaW5hbCBwYWNrYWdlIGNvbnRhaW5zIGEgUXQgd2lkZ2V0IGJhc2VkIHRlcm1pbmFsIGVtdWxhdG9yIGZvciBRdCB3aXRoIHN1cHBvcnQgZm9yIG11bHRpcGxlIHRhYnMu</description>
   <sourcefile>qterminal-2.1.0.tar.xz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>qtermwidget</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

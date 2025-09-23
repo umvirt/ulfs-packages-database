@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>khelpcenter</code>
   <description>S2hlbHBjZW50ZXIgaXMgYW4gYXBwbGljYXRpb24gdG8gc2hvdyBLREUgQXBwbGljYXRpb25zJyBkb2N1bWVudGF0aW9uLg==</description>
   <sourcefile>khelpcenter-24.12.2.tar.xz</sourcefile>
@@ -14,19 +14,19 @@
   <dependances>
     <dependance>
       <code>libxml2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>qtwebengine6</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>xapian</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

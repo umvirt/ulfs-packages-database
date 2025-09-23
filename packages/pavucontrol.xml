@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>pavucontrol</code>
   <description>UHVsc2VBdWRpbyBWb2x1bWUgQ29udHJvbCAocGF2dWNvbnRyb2wpIGlzIGEgc2ltcGxlIEdUSyBiYXNlZCB2b2x1bWUgY29udHJvbCB0b29sICgibWl4ZXIiKSBmb3IgdGhlIFB1bHNlQXVkaW8gc291bmQgc2VydmVyLiBJbiBjb250cmFzdCB0byBjbGFzc2ljIG1peGVyIHRvb2xzLCB0aGlzIG9uZSBhbGxvd3MgeW91IHRvIGNvbnRyb2wgYm90aCB0aGUgdm9sdW1lIG9mIGhhcmR3YXJlIGRldmljZXMgYW5kIG9mIGVhY2ggcGxheWJhY2sgc3RyZWFtIHNlcGFyYXRlbHku</description>
   <sourcefile>pavucontrol-6.1.tar.xz</sourcefile>

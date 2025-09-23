@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3</code>
   <description>VGhlIFB5dGhvbiAzIHBhY2thZ2UgY29udGFpbnMgdGhlIFB5dGhvbiBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4gVGhpcyBpcyB1c2VmdWwgZm9yIG9iamVjdC1vcmllbnRlZCBwcm9ncmFtbWluZywgd3JpdGluZyBzY3JpcHRzLCBwcm90b3R5cGluZyBsYXJnZSBwcm9ncmFtcyBvciBkZXZlbG9waW5nIGVudGlyZSBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>Python-3.13.2.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libnsl</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>bluez</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>tk</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>valgrind</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

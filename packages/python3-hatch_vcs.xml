@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-hatch_vcs</code>
   <description>SGF0Y2hfdmNzIGlzIGEgSGF0Y2ggcGx1Z2luIGZvciB2ZXJzaW9uaW5nIHdpdGggc2V2ZXJhbCBWZXJzaW9uIENvbnRyb2wgU3lzdGVtcyAoIFZDUyApLg==</description>
   <sourcefile>hatch_vcs-0.4.0.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>python3-setuptools_scm</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-hatchling</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

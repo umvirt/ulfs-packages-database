@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-appfinder</code>
   <description>WGZjZTQgQXBwZmluZGVyIGlzIGEgdG9vbCB0byBmaW5kIGFuZCBsYXVuY2ggaW5zdGFsbGVkIGFwcGxpY2F0aW9ucyBieSBzZWFyY2hpbmcgdGhlIC5kZXNrdG9wIGZpbGVzIGluc3RhbGxlZCBvbiB5b3VyIHN5c3RlbS4NCg0K</description>
   <sourcefile>xfce4-appfinder-4.20.0.tar.bz2</sourcefile>

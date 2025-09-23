@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>abuse</code>
   <description>VGhpcyBpcyBhIGZvcmsgb2YgdGhlIG9yaWdpbmFsIEFidXNlIFNETCBwb3J0LiBGUFMgbG9jayBmcmVlIHZlcnNpb24u</description>
   <sourcefile>Abuse_1996-1.0.2.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>glew</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>opencv</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>SDL2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>SDL2_mixer</code>
+      <code>opencv</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>abuse-data</code>
+      <code>SDL2</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>SDL2_mixer</code>
+      <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>abuse-data</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

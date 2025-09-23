@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>double-conversion</code>
   <description>VGhlIERvdWJsZS1jb252ZXJzaW9uIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHRoYXQgZmFjaWxpdGF0ZXMgYmluYXJ5LXRvLWRlY2ltYWwgYW5kIGRlY2ltYWwtdG8tYmluYXJ5IHJvdXRpbmVzIGZvciBJRUVFIGRvdWJsZXMu</description>
   <sourcefile>double-conversion-3.3.1.tar.gz</sourcefile>

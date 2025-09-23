@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>FileZilla</code>
   <description>RmlsZVppbGxhwq4sIHRoZSBmcmVlIEZUUCBzb2x1dGlvbi4gVGhlIEZpbGVaaWxsYSBDbGllbnQgbm90IG9ubHkgc3VwcG9ydHMgRlRQLCBidXQgYWxzbyBGVFAgb3ZlciBUTFMgKEZUUFMpIGFuZCBTRlRQLg==</description>
   <sourcefile>FileZilla_3.69.1_src.tar.xz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>xdg-utils</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>wxWidgets</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pugixml</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libfilezilla</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

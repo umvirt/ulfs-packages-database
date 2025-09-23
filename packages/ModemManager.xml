@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ModemManager</code>
   <description>TW9kZW1NYW5hZ2VyIHByb3ZpZGVzIGEgdW5pZmllZCBoaWdoIGxldmVsIEFQSSBmb3IgY29tbXVuaWNhdGluZyB3aXRoIG1vYmlsZSBicm9hZGJhbmQgbW9kZW1zLCByZWdhcmRsZXNzIG9mIHRoZSBwcm90b2NvbCB1c2VkIHRvIGNvbW11bmljYXRlIHdpdGggdGhlIGFjdHVhbCBkZXZpY2Uu</description>
   <sourcefile>ModemManager-1.18.12.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lximage-qt</code>
   <description>VGhlIGx4aW1hZ2UtcXQgcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IGltYWdlIHZpZXdlciBhbmQgc2NyZWVuc2hvdCBwcm9ncmFtLg==</description>
   <sourcefile>lximage-qt-2.1.1.tar.xz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>libfm-qt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

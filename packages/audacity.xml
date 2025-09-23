@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>audacity</code>
   <description>QXVkYWNpdHkgaXMgYSBmcmVlLCBlYXN5LXRvLXVzZSwgbXVsdGktdHJhY2sgYXVkaW8gZWRpdG9yIGFuZCByZWNvcmRlciBmb3IgV2luZG93cywgTWFjIE9TIFgsIEdOVS9MaW51eCBhbmQgb3RoZXIgb3BlcmF0aW5nIHN5c3RlbXMu</description>
   <sourcefile>audacity-sources-3.7.3.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>hplip</code>
   <description>SFBMSVAgaXMgYSBzb2Z0d2FyZSB0aGF0IHN1cHBvcnRzIGEgdG90YWwgb2YgMzQzMyBIUCBwcmludGVyLHNjYW5uZXIgYW5kIGZheCBkZXZpY2VzIG9uIG5lYXJseSBhbnkgTGludXggZGlzdHJpYnV0aW9uIGF2YWlsYWJsZSB0b2RheS4=</description>
   <sourcefile>hplip-3.25.6.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>avahi</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>cups</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>qt5</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>net-snmp</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>python-pyqt5_sip</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>falkon</code>
   <description>RmFsa29uIGlzIGEgS0RFIHdlYiBicm93c2VyIHVzaW5nIHRoZSBRdFdlYkVuZ2luZSByZW5kZXJpbmcgZW5naW5lLiBJdCB3YXMgcHJldmlvdXNseSBrbm93biBhcyBRdXBaaWxsYS4gSXQgYWltcyB0byBiZSBhIGxpZ2h0d2VpZ2h0IHdlYiBicm93c2VyIGF2YWlsYWJsZSB0aHJvdWdoIGFsbCBtYWpvciBwbGF0Zm9ybXMu</description>
   <sourcefile>falkon-24.12.2.tar.xz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>gnome-keyring</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>extra-cmake-modules</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>qtwebengine6</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

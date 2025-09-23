@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>wine</code>
   <description>V2luZSAob3JpZ2luYWxseSBhbiBhY3JvbnltIGZvciAiV2luZSBJcyBOb3QgYW4gRW11bGF0b3IiKSBpcyBhIGNvbXBhdGliaWxpdHkgbGF5ZXIgY2FwYWJsZSBvZiBydW5uaW5nIFdpbmRvd3MgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>wine-10.5.tar.xz</sourcefile>
@@ -13,43 +13,43 @@
   <dependances>
     <dependance>
       <code>systemd</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gnutls</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gst-plugins-base</code>
+      <code>gnutls</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>gst-plugins-base</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>pulseaudio</code>
+      <code>SDL2</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libusb</code>
+      <code>pulseaudio</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libpcap</code>
+      <code>libusb</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>v4l-utils</code>
+      <code>libpcap</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>Vulkan-Loader</code>
+      <code>v4l-utils</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>vkd3d</code>
+      <code>Vulkan-Loader</code>
       <weight>9</weight>
+    </dependance>
+    <dependance>
+      <code>vkd3d</code>
+      <weight>10</weight>
     </dependance>
   </dependances>
   <patches/>

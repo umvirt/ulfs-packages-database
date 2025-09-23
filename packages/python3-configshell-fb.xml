@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-configshell-fb</code>
   <description>QSBQeXRob24gbGlicmFyeSB0aGF0IHByb3ZpZGVzIGEgZnJhbWV3b3JrIGZvciBidWlsZGluZyBzaW1wbGUgYnV0IG5pY2UgQ0xJLWJhc2VkIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>configshell-fb-2.0.2.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>python3-pyparsing</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-rtslib-fb</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

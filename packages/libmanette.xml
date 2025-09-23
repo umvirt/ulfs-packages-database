@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libmanette</code>
   <description>VGhlIHNpbXBsZSBHT2JqZWN0IGdhbWUgY29udHJvbGxlciBsaWJyYXJ5Lg==</description>
   <sourcefile>libmanette-0.2.7.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>dmidecode</code>
   <description>RG1pZGVjb2RlIHJlcG9ydHMgaW5mb3JtYXRpb24gYWJvdXQgeW91ciBzeXN0ZW0ncyBoYXJkd2FyZSBhcyBkZXNjcmliZWQgaW4geW91ciBzeXN0ZW0gQklPUyBhY2NvcmRpbmcgdG8gdGhlIFNNQklPUy9ETUkgc3RhbmRhcmQu</description>
   <sourcefile>dmidecode-3.6.tar.xz</sourcefile>

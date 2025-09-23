@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <command>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <name>zerofill</name>
   <info>RmlsbCBmcmVlIHNwYWNlIGJ5IHplcm9lcy4gUmVkdWNlcyBjb21wcmVzc2VkIHJhdyBkaXNrIGltYWdlIHNpemUu</info>
   <commands>ZGQgaWY9L2Rldi96ZXJvIG9mPXplcm8gYnM9MTYzODQgc3RhdHVzPXByb2dyZXNzDQpybSAtdiB6ZXJv</commands>

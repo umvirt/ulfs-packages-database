@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-pyopengl</code>
   <description>U3RhbmRhcmQgT3BlbkdMIGJpbmRpbmdzIGZvciBQeXRob24=</description>
   <sourcefile>pyopengl-3.1.9.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>freeglut</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

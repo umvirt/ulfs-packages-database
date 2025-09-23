@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-IO-Socket-SSL</code>
   <description>SU86OlNvY2tldDo6U1NMIG1ha2VzIHVzaW5nIFNTTC9UTFMgbXVjaCBlYXNpZXIgYnkgd3JhcHBpbmcgdGhlIG5lY2Vzc2FyeSBmdW5jdGlvbmFsaXR5IGludG8gdGhlIGZhbWlsaWFyIElPOjpTb2NrZXQgaW50ZXJmYWNlIGFuZCBwcm92aWRpbmcgc2VjdXJlIGRlZmF1bHRzIHdoZW5ldmVyIHBvc3NpYmxlLg==</description>
   <sourcefile>IO-Socket-SSL-2.089.tar.gz</sourcefile>

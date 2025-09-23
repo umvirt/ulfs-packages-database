@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gdk-pixbuf</code>
   <description>VGhlIEdkayBQaXhidWYgcGFja2FnZSBpcyBhIHRvb2xraXQgZm9yIGltYWdlIGxvYWRpbmcgYW5kIHBpeGVsIGJ1ZmZlciBtYW5pcHVsYXRpb24uIEl0IGlzIHVzZWQgYnkgR1RLKyAyIGFuZCBHVEsrIDMgdG8gbG9hZCBhbmQgbWFuaXB1bGF0ZSBpbWFnZXMu</description>
   <sourcefile>gdk-pixbuf-2.42.12.tar.xz</sourcefile>

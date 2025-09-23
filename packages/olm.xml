@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>olm</code>
   <description>SW1wbGVtZW50YXRpb24gb2YgdGhlIG9sbSBhbmQgbWVnb2xtIGNyeXB0b2dyYXBoaWMgcmF0Y2hldHM=</description>
   <sourcefile>olm-3.2.16.tar.bz2</sourcefile>

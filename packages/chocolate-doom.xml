@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>chocolate-doom</code>
   <description>Q2hvY29sYXRlIERvb20gaXMgYSBEb29tIHNvdXJjZSBwb3J0IHRoYXQgYWNjdXJhdGVseSByZXByb2R1Y2VzIHRoZSBleHBlcmllbmNlIG9mIERvb20gYXMgaXQgd2FzIHBsYXllZCBpbiB0aGUgMTk5MHMu</description>
   <sourcefile>chocolate-doom-2ea764fed6a266e291cf37375f52bc92260f686c.tar.gz</sourcefile>

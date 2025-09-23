@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-pygdbmi</code>
   <description>R0RCL01JIGlzIGEgbGluZSBiYXNlZCBtYWNoaW5lIG9yaWVudGVkIHRleHQgaW50ZXJmYWNlIHRvIEdEQiBhbmQgaXMgYWN0aXZhdGVkIGJ5IHNwZWNpZnlpbmcgdXNpbmcgdGhlIC0taW50ZXJwcmV0ZXIgY29tbWFuZCBsaW5lIG9wdGlvbiAoc2VlIE1vZGUgT3B0aW9ucykuIEl0IGlzIHNwZWNpZmljYWxseSBpbnRlbmRlZCB0byBzdXBwb3J0IHRoZSBkZXZlbG9wbWVudCBvZiBzeXN0ZW1zIHdoaWNoIHVzZSB0aGUgZGVidWdnZXIgYXMganVzdCBvbmUgc21hbGwgY29tcG9uZW50IG9mIGEgbGFyZ2VyIHN5c3RlbS4=</description>
   <sourcefile>pygdbmi-0.11.0.0.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>dosbox-x</code>
   <description>RE9TQm94LVggaXMgYW4gb3Blbi1zb3VyY2UgRE9TIGVtdWxhdG9yIGZvciBydW5uaW5nIERPUyBhcHBsaWNhdGlvbnMgYW5kIGdhbWVzLg0KRE9TLWJhc2VkIFdpbmRvd3Mgc3VjaCBhcyBXaW5kb3dzIDMueCBhbmQgV2luZG93cyA5eCBhcmUgb2ZmaWNpYWxseSBzdXBwb3J0ZWQu</description>
   <sourcefile>dosbox-x-v2025.02.01.tar.gz</sourcefile>

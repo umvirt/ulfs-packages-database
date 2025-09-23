@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-session</code>
   <description>WGZjZTQgU2Vzc2lvbiBpcyBhIHNlc3Npb24gbWFuYWdlciBmb3IgWGZjZS4gSXRzIHRhc2sgaXMgdG8gc2F2ZSB0aGUgc3RhdGUgb2YgeW91ciBkZXNrdG9wIChvcGVuZWQgYXBwbGljYXRpb25zIGFuZCB0aGVpciBsb2NhdGlvbikgYW5kIHJlc3RvcmUgaXQgZHVyaW5nIGEgbmV4dCBzdGFydHVwLiBZb3UgY2FuIGNyZWF0ZSBzZXZlcmFsIGRpZmZlcmVudCBzZXNzaW9ucyBhbmQgY2hvb3NlIG9uZSBvZiB0aGVtIG9uIHN0YXJ0dXAu</description>
   <sourcefile>xfce4-session-4.20.0.tar.bz2</sourcefile>
@@ -13,35 +13,35 @@
   <dependances>
     <dependance>
       <code>libxfce4windowing</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>shared-mime-info</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>desktop-file-utils</code>
+      <code>shared-mime-info</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libwnck3</code>
+      <code>desktop-file-utils</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libxfce4ui</code>
+      <code>libwnck3</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>xfdesktop</code>
+      <code>libxfce4ui</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>xscreensaver</code>
+      <code>xfdesktop</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>polkit-gnome</code>
+      <code>xscreensaver</code>
       <weight>7</weight>
+    </dependance>
+    <dependance>
+      <code>polkit-gnome</code>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

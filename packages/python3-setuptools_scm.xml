@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-setuptools_scm</code>
   <description>VGhlIFNldHVwdG9vbHNfc2NtIHBhY2thZ2UgaXMgdXNlZCB0byBleHRyYWN0IFB5dGhvbiBwYWNrYWdlIHZlcnNpb25zIGZyb20gZ2l0IG9yIGhnIG1ldGFkYXRhIGluc3RlYWQgb2YgZGVjbGFyaW5nIHRoZW0u</description>
   <sourcefile>setuptools_scm-8.1.0.tar.gz</sourcefile>
@@ -11,10 +11,6 @@
   <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHNldHVwdG9vbHNfc2Nt</install>
   <localbuild>0</localbuild>
   <dependances>
-    <dependance>
-      <code>python3-packaging</code>
-      <weight>1</weight>
-    </dependance>
     <dependance>
       <code>python3-typing_extensions</code>
       <weight>2</weight>

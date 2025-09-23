@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ark</code>
   <description>VGhlIEFyayBwYWNrYWdlIGlzIGEgS0Y2IGFyY2hpdmUgdG9vbC4gSXQgaXMgYSBncmFwaGljYWwgZnJvbnQgZW5kIHRvIHRhciBhbmQgc2ltaWxhciB0b29scy4=</description>
   <sourcefile>ark-24.12.2.tar.xz</sourcefile>
@@ -14,27 +14,27 @@
   <dependances>
     <dependance>
       <code>zip</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>7zip</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libarchive</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>cpio</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>unrar</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

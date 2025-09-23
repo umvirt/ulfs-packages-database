@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>fontconfig</code>
   <description>VGhlIEZvbnRjb25maWcgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHN1cHBvcnQgcHJvZ3JhbXMgdXNlZCBmb3IgY29uZmlndXJpbmcgYW5kIGN1c3RvbWl6aW5nIGZvbnQgYWNjZXNzLg==</description>
   <sourcefile>fontconfig-2.16.0.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>json-c</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>freetype-stage2</code>
-      <weight>1</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

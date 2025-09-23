@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>openvswitch</code>
   <description>T3BlbiB2U3dpdGNoIGlzIGEgcHJvZHVjdGlvbiBxdWFsaXR5LCBtdWx0aWxheWVyIHZpcnR1YWwgc3dpdGNoLiAgSXQgaXMgZGVzaWduZWQgdG8gZW5hYmxlIG1hc3NpdmUgbmV0d29yayBhdXRvbWF0aW9uIHRocm91Z2ggcHJvZ3JhbW1hdGljIGV4dGVuc2lvbiwgd2hpbGUgc3RpbGwgc3VwcG9ydGluZyBzdGFuZGFyZCBtYW5hZ2VtZW50IGludGVyZmFjZXMgYW5kIHByb3RvY29scyAoZS5nLiBOZXRGbG93LCBzRmxvdywgSVBGSVgsIFJTUEFOLCBDTEksIExBQ1AsIDgwMi4xYWcpLiA=</description>
   <sourcefile>openvswitch-3.6.0.tar.gz</sourcefile>

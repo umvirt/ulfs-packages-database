@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-installer</code>
   <description>QSBsaWJyYXJ5IGZvciBpbnN0YWxsaW5nIFB5dGhvbiB3aGVlbHMu</description>
   <sourcefile>installer-0.7.0.tar.gz</sourcefile>

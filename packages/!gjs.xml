@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>!gjs</code>
   <description>R2pzIGlzIGEgc2V0IG9mIEphdmFzY3JpcHQgYmluZGluZ3MgZm9yIEdOT01FLg==</description>
   <sourcefile>gjs-1.78.4.tar.xz</sourcefile>

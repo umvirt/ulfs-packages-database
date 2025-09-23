@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>goldendict-ng</code>
   <description>VGhlIE5leHQgR2VuZXJhdGlvbiBHb2xkZW5EaWN0</description>
   <sourcefile>goldendict-ng-25.06.0-alpha.bb1e5694.tar.gz</sourcefile>
@@ -13,39 +13,39 @@
   <dependances>
     <dependance>
       <code>libvorbis</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>qt6</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>qtwebengine6</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>xapian</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libzim</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>hunspell</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>OpenCC</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>eb</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
   </dependances>
   <patches/>

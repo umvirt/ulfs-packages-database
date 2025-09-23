@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gst-plugins-ugly</code>
   <description>VGhlIEdTdHJlYW1lciBVZ2x5IFBsdWctaW5zIGlzIGEgc2V0IG9mIHBsdWctaW5zIGNvbnNpZGVyZWQgYnkgdGhlIEdTdHJlYW1lciBkZXZlbG9wZXJzIHRvIGhhdmUgZ29vZCBxdWFsaXR5IGFuZCBjb3JyZWN0IGZ1bmN0aW9uYWxpdHksIGJ1dCBkaXN0cmlidXRpbmcgdGhlbSBtaWdodCBwb3NlIHByb2JsZW1zLiBUaGUgbGljZW5zZSBvbiBlaXRoZXIgdGhlIHBsdWctaW5zIG9yIHRoZSBzdXBwb3J0aW5nIGxpYnJhcmllcyBtaWdodCBub3QgYmUgaG93IHRoZSBHU3RyZWFtZXIgZGV2ZWxvcGVycyB3b3VsZCBsaWtlLiBUaGUgY29kZSBtaWdodCBiZSB3aWRlbHkga25vd24gdG8gcHJlc2VudCBwYXRlbnQgcHJvYmxlbXMu</description>
   <sourcefile>gst-plugins-ugly-1.24.12.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>gst-plugins-base</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libdvdread</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>x264</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libcdio</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>a52dec</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libmpeg2</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>valgrind</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

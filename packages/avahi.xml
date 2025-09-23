@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>avahi</code>
   <description>VGhlIEF2YWhpIHBhY2thZ2UgaXMgYSBzeXN0ZW0gd2hpY2ggZmFjaWxpdGF0ZXMgc2VydmljZSBkaXNjb3Zlcnkgb24gYSBsb2NhbCBuZXR3b3JrLg==</description>
   <sourcefile>avahi-0.8.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>qt5</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>glib</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gobject-introspection</code>
+      <code>glib</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gtk3</code>
+      <code>gobject-introspection</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libdaemon</code>
+      <code>gtk3</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>libdaemon</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>speex-base</code>
   <description>U3BlZXggaXMgYW4gYXVkaW8gY29tcHJlc3Npb24gZm9ybWF0IGRlc2lnbmVkIHNwZWNpZmljYWxseSBmb3Igc3BlZWNoLiBJdCBpcyB3ZWxsLWFkYXB0ZWQgdG8gaW50ZXJuZXQgYXBwbGljYXRpb25zIGFuZCBwcm92aWRlcyB1c2VmdWwgZmVhdHVyZXMgdGhhdCBhcmUgbm90IHByZXNlbnQgaW4gbW9zdCBvdGhlciBDT0RFQ3Mu</description>
   <sourcefile>speex-1.2.1.tar.gz</sourcefile>

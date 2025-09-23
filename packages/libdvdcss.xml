@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libdvdcss</code>
   <description>bGliZHZkY3NzIGlzIGEgc2ltcGxlIGxpYnJhcnkgZGVzaWduZWQgZm9yIGFjY2Vzc2luZyBEVkRzIGFzIGEgYmxvY2sgZGV2aWNlIHdpdGhvdXQgaGF2aW5nIHRvIGJvdGhlciBhYm91dCB0aGUgZGVjcnlwdGlvbi4=</description>
   <sourcefile>libdvdcss-1.4.3.tar.bz2</sourcefile>

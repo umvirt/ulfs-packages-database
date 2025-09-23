@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libnvme</code>
   <description>VGhlIGxpYm52bWUgcGFja2FnZSBpcyBhIGxpYnJhcnkgd2hpY2ggcHJvdmlkZXMgdHlwZSBkZWZpbml0aW9ucyBmb3IgTlZNZSBzcGVjaWZpY2F0aW9uIHN0cnVjdHVyZXMsIGVudW1lcmF0aW9ucywgYW5kIGJpdCBmaWVsZHMsIGhlbHBlciBmdW5jdGlvbnMgdG8gY29uc3RydWN0LCBkaXNwYXRjaCwgYW5kIGRlY29kZSBjb21tYW5kcyBhbmQgcGF5bG9hZHMsIGFuZCB1dGlsaXRpZXMgdG8gY29ubmVjdCwgc2NhbiwgYW5kIG1hbmFnZSBOVk1lIGRldmljZXMgb24gYSBMaW51eCBzeXN0ZW0u</description>
   <sourcefile>libnvme-1.11.1.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>json-c</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>keyutils</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>swig</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

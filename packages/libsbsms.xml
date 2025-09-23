@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libsbsms</code>
   <description>bGlic2JzbXMgaXMgYSBsaWJyYXJ5IGZvciBoaWdoIHF1YWxpdHkgdGltZSBhbmQgcGl0Y2ggc2NhbGUgbW9kaWZpY2F0aW9uLg==</description>
   <sourcefile>libsbsms-2.3.0.tar.gz</sourcefile>

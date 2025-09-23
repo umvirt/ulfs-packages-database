@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <architectures>
     <architecture>
       <code>x86</code>
@@ -52,7 +52,7 @@
     <package>libxslt</package>
     <package>docbook-xml</package>
     <package>sgml-common</package>
-    <package>unzip</package>
+    <package>!unzip</package>
     <package>docbook-xsl-nons</package>
     <package>glib</package>
     <package>pcre2</package>
@@ -63,7 +63,7 @@
     <package>libssh2</package>
     <package>mc</package>
     <package>nano</package>
-    <package>blfs-systemd-units</package>
+    <package>!blfs-systemd-units</package>
     <package>openssh</package>
     <package>make-ca</package>
     <package>libtasn1</package>
@@ -589,7 +589,7 @@
     <package>gc</package>
     <package>gsl</package>
     <package>potrace</package>
-    <package>python3-packaging</package>
+    <package>!python3-packaging</package>
     <package>python3-typing_extensions</package>
     <package>python3-setuptools_scm</package>
     <package>python3-msgpack</package>

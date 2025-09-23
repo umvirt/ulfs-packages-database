@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gnome-menus</code>
   <description>VGhlIEdOT01FIE1lbnVzIHBhY2thZ2UgY29udGFpbnMgYW4gaW1wbGVtZW50YXRpb24gb2YgdGhlIGRyYWZ0IERlc2t0b3AgTWVudSBTcGVjaWZpY2F0aW9uIGZyb20gZnJlZWRlc2t0b3Aub3JnLg==</description>
   <sourcefile>gnome-menus-3.36.0.tar.xz</sourcefile>

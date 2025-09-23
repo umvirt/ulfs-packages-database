@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-encode</code>
   <description>TW9kdWxlIHByb3ZpZGVzIHRoZSBpbnRlcmZhY2UgYmV0d2VlbiBQZXJsIHN0cmluZ3MgYW5kIHRoZSByZXN0IG9mIHRoZSBzeXN0ZW0u</description>
   <sourcefile>Encode-3.19.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-pyyaml</code>
   <description>UHlZQU1MIGlzIGEgUHl0aG9uIG1vZHVsZSB0aGF0IGltcGxlbWVudHMgdGhlIG5leHQgZ2VuZXJhdGlvbiBZQU1MIHBhcnNlciBhbmQgZW1pdHRlci4=</description>
   <sourcefile>pyyaml-6.0.2.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>yaml</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-Cython</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

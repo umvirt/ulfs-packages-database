@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>pavucontrol-qt</code>
   <description>cGF2dWNvbnRyb2wtcXQgaXMgdGhlIFF0IHBvcnQgb2YgdGhlIHZvbHVtZSBjb250cm9sIHV0aWxpdHkgcGF2dWNvbnRyb2wsIHdoaWNoIGlzIHVzZWQgdG8gYWRqdXN0IGF1ZGlvIGxldmVscyBpbiBQdWxzZWF1ZGlvLiBJdCBpcyBkZXNrdG9wIGVudmlyb25tZW50IGFnbm9zdGljLg==</description>
   <sourcefile>pavucontrol-qt-2.1.0.tar.xz</sourcefile>
@@ -14,11 +14,11 @@
   <dependances>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>liblxqt</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

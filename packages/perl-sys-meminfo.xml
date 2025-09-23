@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-sys-meminfo</code>
   <description>U3lzOjpNZW1JbmZvIC0gcXVlcnkgdGhlIHRvdGFsIGZyZWUgYW5kIHVzZWQgcGh5c2ljYWwgbWVtb3J5</description>
   <sourcefile>Sys-MemInfo-0.99.tar.gz</sourcefile>

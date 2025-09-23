@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>Botan</code>
   <description>Qm90YW4gKEphcGFuZXNlIGZvciBwZW9ueSBmbG93ZXIpIGlzIGEgY3J5cHRvZ3JhcGh5IGxpYnJhcnk=</description>
   <sourcefile>Botan-3.7.1.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>boost</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

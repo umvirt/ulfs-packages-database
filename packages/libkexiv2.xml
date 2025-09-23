@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libkexiv2</code>
   <description>TGlia2V4aXYyIGlzIGEgS0RFIHdyYXBwZXIgYXJvdW5kIHRoZSBFeGl2MiBsaWJyYXJ5IGZvciBtYW5pcHVsYXRpbmcgaW1hZ2UgbWV0YWRhdGEu</description>
   <sourcefile>libkexiv2-24.12.2.tar.xz</sourcefile>
@@ -14,11 +14,11 @@
   <dependances>
     <dependance>
       <code>exiv2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

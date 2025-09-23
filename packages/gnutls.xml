@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gnutls</code>
   <description>VGhlIEdudVRMUyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyBhbmQgdXNlcnNwYWNlIHRvb2xzIHdoaWNoIHByb3ZpZGUgYSBzZWN1cmUgbGF5ZXIgb3ZlciBhIHJlbGlhYmxlIHRyYW5zcG9ydCBsYXllci4=</description>
   <sourcefile>gnutls-3.8.9.tar.xz</sourcefile>

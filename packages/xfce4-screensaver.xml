@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-screensaver</code>
   <description>WGZjZTQtc2NyZWVuc2F2ZXIgaXMgYSBzY3JlZW4gc2F2ZXIgYW5kIGxvY2tlciB0aGF0IGFpbXMgdG8gaGF2ZQ0Kc2ltcGxlLCBzYW5lLCBzZWN1cmUgZGVmYXVsdHMgYW5kIGJlIHdlbGwgaW50ZWdyYXRlZCB3aXRoIHRoZSBkZXNrdG9wLg==</description>
   <sourcefile>xfce4-screensaver-4.18.4.tar.bz2</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>libxfce4ui</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>garcon</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

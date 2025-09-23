@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libproxy</code>
   <description>bGlicHJveHkgaXMgYSBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgYXV0b21hdGljIHByb3h5IGNvbmZpZ3VyYXRpb24gbWFuYWdlbWVudC4=</description>
   <sourcefile>libproxy-0.5.9.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>curl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>duktape</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

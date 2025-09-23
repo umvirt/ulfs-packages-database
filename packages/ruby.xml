@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ruby</code>
   <description>VGhlIFJ1YnkgcGFja2FnZSBjb250YWlucyB0aGUgUnVieSBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4gVGhpcyBpcyB1c2VmdWwgZm9yIG9iamVjdC1vcmllbnRlZCBzY3JpcHRpbmcu</description>
   <sourcefile>ruby-3.4.2.tar.xz</sourcefile>

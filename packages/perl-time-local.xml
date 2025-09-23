@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-time-local</code>
   <description>RWZmaWNpZW50bHkgY29tcHV0ZSB0aW1lIGZyb20gbG9jYWwgYW5kIEdNVCB0aW1l</description>
   <sourcefile>Time-Local-1.35.tar.gz</sourcefile>

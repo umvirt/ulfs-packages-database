@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>!LXQT</code>
   <description>TFhRdCBpcyBhbiBleHRyZW1lbHkgZmFzdC1wZXJmb3JtaW5nIGFuZCBlbmVyZ3ktc2F2aW5nIGRlc2t0b3AgZW52aXJvbm1lbnQu</description>
   <sourcefile/>
@@ -13,131 +13,131 @@
   <dependances>
     <dependance>
       <code>lxqt-build-tools</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libdbusmenu-lxqt</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libqtxdg</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>lxqt-menu-data</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>liblxqt</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libsysstat</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>qtxdg-tools</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libfm-qt</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>lxqt-globalkeys</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>lxqt-qtplugin</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>lxqt-panel</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>pcmanfm-qt</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>lxqt-powermanagement</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>lxqt-runner</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>lxqt-themes</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>lxqt-admin</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>lxqt-about</code>
-      <weight>0</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>lxqt-config</code>
-      <weight>0</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>lxqt-policykit</code>
-      <weight>0</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>lxqt-sudo</code>
-      <weight>0</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>lxqt-openssh-askpass</code>
-      <weight>0</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>lxqt-session</code>
-      <weight>0</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>xdg-desktop-portal-lxqt</code>
-      <weight>0</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>obconf-qt</code>
-      <weight>0</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>lximage-qt</code>
-      <weight>0</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>lxqt-archiver</code>
-      <weight>0</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>lxqt-notificationd</code>
-      <weight>0</weight>
+      <weight>27</weight>
     </dependance>
     <dependance>
       <code>pavucontrol-qt</code>
-      <weight>0</weight>
+      <weight>28</weight>
     </dependance>
     <dependance>
       <code>qps</code>
-      <weight>0</weight>
+      <weight>29</weight>
     </dependance>
     <dependance>
       <code>qtermwidget</code>
-      <weight>0</weight>
+      <weight>30</weight>
     </dependance>
     <dependance>
       <code>qterminal</code>
-      <weight>0</weight>
+      <weight>31</weight>
     </dependance>
     <dependance>
       <code>screengrab</code>
-      <weight>0</weight>
+      <weight>32</weight>
     </dependance>
   </dependances>
   <patches/>

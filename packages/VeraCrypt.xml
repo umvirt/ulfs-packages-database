@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>VeraCrypt</code>
   <description>VmVyYUNyeXB0IGlzIGZyZWUgb3Blbi1zb3VyY2UgZGlzayBlbmNyeXB0aW9uIHNvZnR3YXJlIGZvciBXaW5kb3dzLCBNYWMgT1MgWCBhbmQgTGludXgu</description>
   <sourcefile>VeraCrypt_1.26.20.tar.gz</sourcefile>

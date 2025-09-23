@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>pipewire</code>
   <description>VGhlIHBpcGV3aXJlIHBhY2thZ2UgY29udGFpbnMgYSBzZXJ2ZXIgYW5kIHVzZXJzcGFjZSBBUEkgdG8gaGFuZGxlIG11bHRpbWVkaWEgcGlwZWxpbmVzLiBUaGlzIGluY2x1ZGVzIGEgdW5pdmVyc2FsIEFQSSB0byBjb25uZWN0IHRvIG11bHRpbWVkaWEgZGV2aWNlcywgYXMgd2VsbCBhcyBzaGFyaW5nIG11bHRpbWVkaWEgZmlsZXMgYmV0d2VlbiBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>pipewire-1.2.7.tar.bz2</sourcefile>

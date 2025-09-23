@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxc</code>
   <description>TGludXggQ29udGFpbmVycw==</description>
   <sourcefile>lxc-6.0.3.tar.gz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>libseccomp</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>nftables</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gnupg</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>iptables</code>
+      <code>nftables</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>dnsmasq</code>
+      <code>gnupg</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>docbook2X</code>
+      <code>iptables</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>dnsmasq</code>
+      <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>docbook2X</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

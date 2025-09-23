@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lightdm-app</code>
   <description>VGhlIGxpZ2h0ZG0gcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IGRpc3BsYXkgbWFuYWdlciBiYXNlZCB1cG9uIEdUSy4=</description>
   <sourcefile>lightdm-1.32.0.tar.xz</sourcefile>

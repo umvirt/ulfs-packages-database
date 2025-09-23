@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>geoclue</code>
   <description>R2VvQ2x1ZSBpcyBhIG1vZHVsYXIgZ2VvaW5mb3JtYXRpb24gc2VydmljZSBidWlsdCBvbiB0b3Agb2YgdGhlIEQtQnVzIG1lc3NhZ2luZyBzeXN0ZW0uIFRoZSBnb2FsIG9mIHRoZSBHZW9DbHVlIHByb2plY3QgaXMgdG8gbWFrZSBjcmVhdGluZyBsb2NhdGlvbi1hd2FyZSBhcHBsaWNhdGlvbnMgYXMgc2ltcGxlIGFzIHBvc3NpYmxlLg==</description>
   <sourcefile>geoclue-2.7.2.tar.bz2</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-chardet</code>
   <description>Q2hhcmRldCBpcyBhIHVuaXZlcnNhbCBjaGFyYWN0ZXIgZW5jb2RpbmcgZGV0ZWN0b3Iu</description>
   <sourcefile>chardet-5.2.0.tar.gz</sourcefile>

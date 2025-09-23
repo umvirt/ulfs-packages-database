@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>dconf-editor</code>
   <description>VGhlIERDb25mLUVkaXRvciwgYXMgdGhlIG5hbWUgc3VnZ2VzdHMsIGlzIGEgZ3JhcGhpY2FsIGVkaXRvciBmb3IgdGhlIERDb25mIGRhdGFiYXNlLiA=</description>
   <sourcefile>dconf-editor-45.0.1.tar.xz</sourcefile>

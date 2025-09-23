@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libxfce4util</code>
   <description>VGhlIGxpYnhmY2U0dXRpbCBwYWNrYWdlIGlzIGEgYmFzaWMgdXRpbGl0eSBsaWJyYXJ5IGZvciB0aGUgWGZjZSBkZXNrdG9wIGVudmlyb25tZW50Lg==</description>
   <sourcefile>libxfce4util-4.20.0.tar.bz2</sourcefile>

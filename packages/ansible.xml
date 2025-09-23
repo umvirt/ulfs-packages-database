@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ansible</code>
   <description>QW5zaWJsZSBpcyBhbiBJVCBhdXRvbWF0aW9uIHRvb2wuIEl0IGNhbiBjb25maWd1cmUgc3lzdGVtcywgZGVwbG95IHNvZnR3YXJlLCBhbmQgb3JjaGVzdHJhdGUgbW9yZSBhZHZhbmNlZCBJVCB0YXNrcyBzdWNoIGFzIGNvbnRpbnVvdXMgZGVwbG95bWVudHMgb3IgemVybyBkb3dudGltZSByb2xsaW5nIHVwZGF0ZXMu</description>
   <sourcefile>ansible-2.18.6.tar.gz</sourcefile>
@@ -13,31 +13,27 @@
   <dependances>
     <dependance>
       <code>python3-cryptography</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-cffi</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>python3-packaging</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-pyyaml</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>sshpass</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>python3-jinja2</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>python3-resolvelib</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

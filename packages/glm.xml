@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>glm</code>
   <description>T3BlbkdMIE1hdGhlbWF0aWNzIChHTE0pIGlzIGEgaGVhZGVyLW9ubHkgQysrIG1hdGhlbWF0aWNzIGxpYnJhcnkgZm9yIGdyYXBoaWNzIHNvZnR3YXJlIGJhc2VkIG9uIHRoZSBPcGVuR0wgU2hhZGluZyBMYW5ndWFnZSAoR0xTTCkgc3BlY2lmaWNhdGlvbnMuIEFuIGV4dGVuc2lvbiBzeXN0ZW0gcHJvdmlkZXMgZXh0ZW5kZWQgY2FwYWJpbGl0aWVzIHN1Y2ggYXMgbWF0cml4IHRyYW5zZm9ybWF0aW9ucyBhbmQgcXVhdGVybmlvbnMu</description>
   <sourcefile>glm-1.0.1.tar.gz</sourcefile>

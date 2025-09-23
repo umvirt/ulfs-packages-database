@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>zfs-linux</code>
   <description>S2VybmVsIG1vZHVsZXMgZm9yIHRoZSBaZXR0YWJ5dGUgRmlsZSBTeXN0ZW0u</description>
   <sourcefile>zfs-2.3.3.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>zfs-utils</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

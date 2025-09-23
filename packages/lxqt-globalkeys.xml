@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxqt-globalkeys</code>
   <description>VGhlIGx4cXQtZ2xvYmFsa2V5cyBwYWNrYWdlIGNvbnRhaW5zIGEgZGFlbW9uIHVzZWQgdG8gcmVnaXN0ZXIgZ2xvYmFsIGtleWJvYXJkIHNob3J0Y3V0cyBhcyB3ZWxsIGFzIGFuIGVkaXRvciBmb3Iga2V5Ym9hcmQgc2hvcnRjdXRzLg==</description>
   <sourcefile>lxqt-globalkeys-2.1.0.tar.xz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>liblxqt</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libaio</code>
   <description>VGhlIGxpYmFpbyBwYWNrYWdlIGlzIGFuIGFzeW5jaHJvbm91cyBJL08gZmFjaWxpdHkgKCJhc3luYyBJL08iLCBvciAiYWlvIikgdGhhdCBoYXMgYSByaWNoZXIgQVBJIGFuZCBjYXBhYmlsaXR5IHNldCB0aGFuIHRoZSBzaW1wbGUgUE9TSVggYXN5bmMgSS9PIGZhY2lsaXR5LiBUaGlzIGxpYnJhcnksIGxpYmFpbywgcHJvdmlkZXMgdGhlIExpbnV4LW5hdGl2ZSBBUEkgZm9yIGFzeW5jIEkvTy4gVGhlIFBPU0lYIGFzeW5jIEkvTyBmYWNpbGl0eSByZXF1aXJlcyB0aGlzIGxpYnJhcnkgaW4gb3JkZXIgdG8gcHJvdmlkZSBrZXJuZWwtYWNjZWxlcmF0ZWQgYXN5bmMgSS9PIGNhcGFiaWxpdGllcywgYXMgZG8gYXBwbGljYXRpb25zIHdoaWNoIHJlcXVpcmUgdGhlIExpbnV4LW5hdGl2ZSBhc3luYyBJL08gQVBJLg==</description>
   <sourcefile>libaio-0.3.113.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-attrs</code>
   <description>Q2xhc3NlcyBXaXRob3V0IEJvaWxlcnBsYXRl</description>
   <sourcefile>attrs-25.3.0.tar.gz</sourcefile>
@@ -14,15 +14,15 @@
   <dependances>
     <dependance>
       <code>python3-hatchling</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-hatch_vcs</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-hatch_fancy_pypi_readme</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xbitmaps</code>
   <description>VGhlIHhiaXRtYXBzIHBhY2thZ2UgY29udGFpbnMgYml0bWFwIGltYWdlcyB1c2VkIGJ5IG11bHRpcGxlIGFwcGxpY2F0aW9ucyBidWlsdCBpbiBYb3JnIGNoYXB0ZXIu</description>
   <sourcefile>xbitmaps-1.1.3.tar.xz</sourcefile>

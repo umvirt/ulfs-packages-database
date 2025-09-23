@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>wget</code>
   <description>VGhlIFdnZXQgcGFja2FnZSBjb250YWlucyBhIHV0aWxpdHkgdXNlZnVsIGZvciBub24taW50ZXJhY3RpdmUgZG93bmxvYWRpbmcgb2YgZmlsZXMgZnJvbSB0aGUgV2ViLg==</description>
   <sourcefile>wget-1.25.0.tar.gz</sourcefile>
@@ -10,7 +10,16 @@
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>make-ca</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libpsl</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

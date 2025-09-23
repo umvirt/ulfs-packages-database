@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>!libreoffice7</code>
   <description>TGlicmVPZmZpY2UgaXMgYSBmdWxsLWZlYXR1cmVkIG9mZmljZSBzdWl0ZS4gSXQgaXMgbGFyZ2VseSBjb21wYXRpYmxlIHdpdGggTWljcm9zb2Z0IE9mZmljZSBhbmQgaXMgZGVzY2VuZGVkIGZyb20gT3Blbk9mZmljZS5vcmcuDQoNCg==</description>
   <sourcefile>libreoffice-7.6.0.3.tar.xz</sourcefile>
@@ -26,10 +26,6 @@
     <dependance>
       <code>libxslt</code>
       <weight>4</weight>
-    </dependance>
-    <dependance>
-      <code>unzip</code>
-      <weight>5</weight>
     </dependance>
     <dependance>
       <code>zip</code>

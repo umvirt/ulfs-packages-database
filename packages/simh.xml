@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>simh</code>
   <description>U2ltSCAoSGlzdG9yeSBTaW11bGF0b3IpIGlzIGEgY29sbGVjdGlvbiBvZiBzaW11bGF0b3JzIGZvciBoaXN0b3JpY2FsbHkgc2lnbmlmaWNhbnQgb3IganVzdCBwbGFpbiBpbnRlcmVzdGluZyBjb21wdXRlciBoYXJkd2FyZSBhbmQgc29mdHdhcmUgZnJvbSB0aGUgcGFzdC4=</description>
   <sourcefile>simhv312-5.zip</sourcefile>
@@ -12,8 +12,8 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>unzip</code>
-      <weight>1</weight>
+      <code>libarchive</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
       <code>pcre</code>

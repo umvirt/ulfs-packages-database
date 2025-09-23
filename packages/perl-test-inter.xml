@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-test-inter</code>
   <description>RnJhbWV3b3JrIGZvciBtb3JlIHJlYWRhYmxlIGludGVyYWN0aXZlIHRlc3Qgc2NyaXB0cw==</description>
   <sourcefile>Test-Inter-1.10.tar.gz</sourcefile>

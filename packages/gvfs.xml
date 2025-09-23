@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>gvfs</code>
   <description>VGhlIEd2ZnMgcGFja2FnZSBpcyBhIHVzZXJzcGFjZSB2aXJ0dWFsIGZpbGVzeXN0ZW0gZGVzaWduZWQgdG8gd29yayB3aXRoIHRoZSBJL08gYWJzdHJhY3Rpb25zIG9mIEdMaWIncyBHSU8gbGlicmFyeS4=</description>
   <sourcefile>gvfs-1.56.1.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>nftables</code>
   <description>bmZ0YWJsZXMgcmVwbGFjZXMgdGhlIHBvcHVsYXIge2lwLGlwNixhcnAsZWJ9dGFibGVzLiBUaGlzIHNvZnR3YXJlIHByb3ZpZGVzIGEgbmV3IGluLWtlcm5lbCBwYWNrZXQgY2xhc3NpZmljYXRpb24gZnJhbWV3b3JrIHRoYXQgaXMgYmFzZWQgb24gYSBuZXR3b3JrLXNwZWNpZmljIFZpcnR1YWwgTWFjaGluZSAoVk0pIGFuZCBhIG5ldyBuZnQgdXNlcnNwYWNlIGNvbW1hbmQgbGluZSB0b29sLiBuZnRhYmxlcyByZXVzZXMgdGhlIGV4aXN0aW5nIE5ldGZpbHRlciBzdWJzeXN0ZW1zIHN1Y2ggYXMgdGhlIGV4aXN0aW5nIGhvb2sgaW5mcmFzdHJ1Y3R1cmUsIHRoZSBjb25uZWN0aW9uIHRyYWNraW5nIHN5c3RlbSwgTkFULCB1c2Vyc3BhY2UgcXVldWVpbmcgYW5kIGxvZ2dpbmcgc3Vic3lzdGVtLg==</description>
   <sourcefile>nftables-1.1.3.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>libmnl</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libnftnl</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-build</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

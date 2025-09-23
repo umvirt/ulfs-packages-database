@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-dbi</code>
   <description>RGF0YWJhc2UgYWNjZXNzIG1vZHVsZSBmb3IgdGhlIFBlcmwgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2Uu</description>
   <sourcefile>DBI-1.643.tar.gz</sourcefile>

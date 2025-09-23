@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>thunar-volman</code>
   <description>VGhlIFRodW5hciBWb2x1bWUgTWFuYWdlciBpcyBhbiBleHRlbnNpb24gZm9yIHRoZSBUaHVuYXIgZmlsZSBtYW5hZ2VyLCB3aGljaCBlbmFibGVzIGF1dG9tYXRpYyBtYW5hZ2VtZW50IG9mIHJlbW92YWJsZSBkcml2ZXMgYW5kIG1lZGlhLg==</description>
   <sourcefile>thunar-volman-4.20.0.tar.bz2</sourcefile>

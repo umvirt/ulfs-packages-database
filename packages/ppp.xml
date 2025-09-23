@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>ppp</code>
   <description>cHBwIChQYXVsJ3MgUFBQIFBhY2thZ2UpIGlzIGFuIG9wZW4gc291cmNlIHBhY2thZ2Ugd2hpY2ggaW1wbGVtZW50cyB0aGUgUG9pbnQtdG8tUG9pbnQgUHJvdG9jb2wgKFBQUCkgb24gTGludXggYW5kIFNvbGFyaXMgc3lzdGVtcy4=</description>
   <sourcefile>ppp-2.5.2.tar.gz</sourcefile>

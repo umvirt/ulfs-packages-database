@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>exo</code>
   <description>RXhvIGlzIGEgc3VwcG9ydCBsaWJyYXJ5IHVzZWQgaW4gdGhlIFhmY2UgZGVza3RvcC4gSXQgYWxzbyBoYXMgc29tZSBoZWxwZXIgYXBwbGljYXRpb25zIHRoYXQgYXJlIHVzZWQgdGhyb3VnaG91dCBYZmNlLg==</description>
   <sourcefile>exo-4.20.0.tar.bz2</sourcefile>

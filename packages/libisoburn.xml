@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libisoburn</code>
   <description>bGliaXNvYnVybiBpcyBhIGZyb250ZW5kIGZvciBsaWJyYXJpZXMgbGliYnVybiBhbmQgbGliaXNvZnMgd2hpY2ggZW5hYmxlcyBjcmVhdGlvbiBhbmQgZXhwYW5zaW9uIG9mIElTTy05NjYwIGZpbGVzeXN0ZW1zIG9uIGFsbCBDRC9EVkQvQkQgbWVkaWEgc3VwcG9ydGVkIGJ5IGxpYmJ1cm4uIFRoaXMgaW5jbHVkZXMgbWVkaWEgbGlrZSBEVkQrUlcsIHdoaWNoIGRvIG5vdCBzdXBwb3J0IG11bHRpLXNlc3Npb24gbWFuYWdlbWVudCBvbiBtZWRpYSBsZXZlbCBhbmQgZXZlbiBwbGFpbiBkaXNrIGZpbGVzIG9yIGJsb2NrIGRldmljZXMu</description>
   <sourcefile>libisoburn-1.5.6.tar.gz</sourcefile>

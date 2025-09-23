@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>freerdp2</code>
   <description>RnJlZVJEUCBpcyBhIGZyZWUgaW1wbGVtZW50YXRpb24gb2YgdGhlIFJlbW90ZSBEZXNrdG9wIFByb3RvY29sIChSRFApLCByZWxlYXNlZCB1bmRlciB0aGUgQXBhY2hlIGxpY2Vuc2UuIEVuam95IHRoZSBmcmVlZG9tIG9mIHVzaW5nIHlvdXIgc29mdHdhcmUgd2hlcmV2ZXIgeW91IHdhbnQsIHRoZSB3YXkgeW91IHdhbnQgaXQsIGluIGEgd29ybGQgd2hlcmUgaW50ZXJvcGVyYWJpbGl0eSBjYW4gZmluYWxseSBsaWJlcmF0ZSB5b3VyIGNvbXB1dGluZyBleHBlcmllbmNlLg==</description>
   <sourcefile>freerdp-2.11.7.tar.gz</sourcefile>
@@ -14,67 +14,67 @@
   <dependances>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>wayland</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>wayland-protocols</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libpng</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>krb5</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libjpeg-turbo</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>alsa-lib</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>SDL2</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libwebp</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>pulseaudio</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>libusb</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>json-c</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>cups</code>
-      <weight>0</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>fuse</code>
-      <weight>0</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>SDL2_ttf</code>
-      <weight>0</weight>
+      <weight>16</weight>
     </dependance>
   </dependances>
   <patches>

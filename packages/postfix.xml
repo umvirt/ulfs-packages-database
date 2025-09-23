@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>postfix</code>
   <description>VGhlIFBvc3RmaXggcGFja2FnZSBjb250YWlucyBhIE1haWwgVHJhbnNwb3J0IEFnZW50IChNVEEpLg==</description>
   <sourcefile>postfix-3.10.1.tar.gz</sourcefile>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>nano</code>
   <description>VGhlIE5hbm8gcGFja2FnZSBjb250YWlucyBhIHNtYWxsLCBzaW1wbGUgdGV4dCBlZGl0b3Igd2hpY2ggYWltcyB0byByZXBsYWNlIFBpY28sIHRoZSBkZWZhdWx0IGVkaXRvciBpbiB0aGUgUGluZSBwYWNrYWdlLg==</description>
-  <sourcefile>nano-8.3.tar.xz</sourcefile>
-  <sourcedir>nano-8.3</sourcedir>
+  <sourcefile>nano-8.6.tar.xz</sourcefile>
+  <sourcedir>nano-8.6</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUtdXRmOCAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbmFuby04LjM=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUtdXRmOCAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbmFuby04LjY=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtdiAtbTY0NCBkb2Mve25hbm8uaHRtbCxzYW1wbGUubmFub3JjfSAvdXNyL3NoYXJlL2RvYy9uYW5vLTguMw0KDQpmaQ==</install>
   <localbuild>0</localbuild>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>pugixml</code>
   <description>TGlnaHQtd2VpZ2h0LCBzaW1wbGUgYW5kIGZhc3QgWE1MIHBhcnNlciBmb3IgQysrIHdpdGggWFBhdGggc3VwcG9ydA==</description>
   <sourcefile>pugixml-1.14.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mariadb-server</code>
   <description>TWFyaWFEQiBpcyBhIGNvbW11bml0eS1kZXZlbG9wZWQgZm9yayBhbmQgYSBkcm9wLWluIHJlcGxhY2VtZW50IGZvciB0aGUgTXlTUUwgcmVsYXRpb25hbCBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbS4=</description>
   <sourcefile>mariadb-11.4.5.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>fmt</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libevent</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>cmake</code>
+      <code>libevent</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>cmake</code>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libblockdev</code>
   <description>bGliYmxvY2tkZXYgaXMgYSBDIGxpYnJhcnkgc3VwcG9ydGluZyBHT2JqZWN0IEludHJvc3BlY3Rpb24gZm9yIG1hbmlwdWxhdGlvbiBvZiBibG9jayBkZXZpY2VzLiBJdCBoYXMgYSBwbHVnaW4tYmFzZWQgYXJjaGl0ZWN0dXJlIHdoZXJlIGVhY2ggdGVjaG5vbG9neSAobGlrZSBMVk0sIEJ0cmZzLCBNRCBSQUlELCBTd2FwLC4uLikgaXMgaW1wbGVtZW50ZWQgaW4gYSBzZXBhcmF0ZSBwbHVnaW4sIHBvc3NpYmx5IHdpdGggbXVsdGlwbGUgaW1wbGVtZW50YXRpb25zIChlLmcuIHVzaW5nIExWTSBDTEkgb3IgdGhlIG5ldyBMVk0gREJ1cyBBUEkpLg==</description>
   <sourcefile>libblockdev-3.3.0.tar.gz</sourcefile>
@@ -13,39 +13,39 @@
   <dependances>
     <dependance>
       <code>json-glib</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libatasmart</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>glib</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gobject-introspection</code>
+      <code>libatasmart</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>LVM2</code>
+      <code>glib</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>cryptsetup</code>
+      <code>gobject-introspection</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>keyutils</code>
+      <code>LVM2</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libbytesize</code>
+      <code>cryptsetup</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>libnvme</code>
+      <code>keyutils</code>
       <weight>7</weight>
+    </dependance>
+    <dependance>
+      <code>libbytesize</code>
+      <weight>8</weight>
+    </dependance>
+    <dependance>
+      <code>libnvme</code>
+      <weight>9</weight>
     </dependance>
   </dependances>
   <patches/>

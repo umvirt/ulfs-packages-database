@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>c-blosc</code>
   <description>QSBibG9ja2luZywgc2h1ZmZsaW5nIGFuZCBsb3NzLWxlc3MgY29tcHJlc3Npb24gbGlicmFyeSB0aGF0IGNhbiBiZSBmYXN0ZXIgdGhhbiBgbWVtY3B5KClgLg==</description>
   <sourcefile>c-blosc-1.21.5.tar.gz</sourcefile>

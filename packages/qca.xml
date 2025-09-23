@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>qca</code>
   <description>UWNhIGFpbXMgdG8gcHJvdmlkZSBhIHN0cmFpZ2h0Zm9yd2FyZCBhbmQgY3Jvc3MtcGxhdGZvcm0gY3J5cHRvIEFQSSwgdXNpbmcgUXQgZGF0YXR5cGVzIGFuZCBjb252ZW50aW9ucy4gUWNhIHNlcGFyYXRlcyB0aGUgQVBJIGZyb20gdGhlIGltcGxlbWVudGF0aW9uLCB1c2luZyBwbHVnaW5zIGtub3duIGFzIFByb3ZpZGVycy4=</description>
   <sourcefile>qca-2.3.9.tar.xz</sourcefile>
@@ -13,55 +13,55 @@
   <dependances>
     <dependance>
       <code>make-ca</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>p11-kit</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>cmake</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>libgpg-error</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libgcrypt</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>cyrus-sasl</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>gnupg</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>nspr</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>which</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>nss</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>doxygen</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>qt6</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>Botan</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
   </dependances>
   <patches/>

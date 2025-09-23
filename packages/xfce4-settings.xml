@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xfce4-settings</code>
   <description>VGhlIFhmY2U0IFNldHRpbmdzIHBhY2thZ2UgY29udGFpbnMgYSBjb2xsZWN0aW9uIG9mIHByb2dyYW1zIHRoYXQgYXJlIHVzZWZ1bCBmb3IgYWRqdXN0aW5nIHlvdXIgWGZjZSBwcmVmZXJlbmNlcy4=</description>
   <sourcefile>xfce4-settings-4.20.1.tar.bz2</sourcefile>

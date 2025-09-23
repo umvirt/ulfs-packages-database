@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-trove_classifiers</code>
   <description>VHJvdmUtQ2xhc3NpZmllcnMgaXMgYSBQeXRob24gbGlicmFyeSB0byBlbmNvbXBhc3MgYWxsIHZhbGlkIFB5UEkgY2xhc3NpZmllcnMgdXNlZCB0byBjYXRlZ29yaXplIHByb2plY3RzIGFuZCByZWxlYXNlcyBwZXIgUEVQIDMwMSwgZm9yIGV4YW1wbGUgVG9waWMgOjogU3lzdGVtIDo6IEZpbGVzeXN0ZW1zIGFuZCBEZXZlbG9wbWVudCBTdGF0dXMgOjogNiAtIE1hdHVyZS4=</description>
   <sourcefile>trove_classifiers-2025.1.15.22.tar.gz</sourcefile>

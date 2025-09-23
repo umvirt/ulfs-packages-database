@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>nanovdb</code>
   <description>QSBsaWdodHdlaWdodCBHUFUgZnJpZW5kbHkgdmVyc2lvbiBvZiBWREIgaW5pdGlhbGx5IHRhcmdldGluZyByZW5kZXJpbmcgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>openvdb-12.0.0.tar.gz</sourcefile>

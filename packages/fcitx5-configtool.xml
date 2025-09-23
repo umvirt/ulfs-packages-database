@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>fcitx5-configtool</code>
   <description>ZmNpdHg1LWNvbmZpZ3Rvb2wgaXMgYSBRdC1iYXNlZCBHVUkgdG9vbCB0aGF0IHByb3ZpZGVzIGEgdXNlci1mcmllbmRseSBjb25maWd1cmF0aW9uIGludGVyZmFjZSBmb3IgRmNpdHggNQ==</description>
   <sourcefile>fcitx5-configtool-5.1.10.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>fcitx5-qt6</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

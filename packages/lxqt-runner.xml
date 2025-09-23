@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxqt-runner</code>
   <description>VGhlIGx4cXQtcnVubmVyIHBhY2thZ2UgcHJvdmlkZXMgYSB0b29sIHVzZWQgdG8gbGF1bmNoIHByb2dyYW1zIHF1aWNrbHkgYnkgdHlwaW5nIHRoZWlyIG5hbWVzLg==</description>
   <sourcefile>lxqt-runner-2.1.2.tar.xz</sourcefile>
@@ -14,15 +14,15 @@
   <dependances>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>lxqt-globalkeys</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>muparser</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

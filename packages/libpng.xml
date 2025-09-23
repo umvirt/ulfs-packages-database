@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libpng</code>
   <description>VGhlIGxpYnBuZyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGJ5IG90aGVyIHByb2dyYW1zIGZvciByZWFkaW5nIGFuZCB3cml0aW5nIFBORyBmaWxlcy4g</description>
   <sourcefile>libpng-1.6.46.tar.xz</sourcefile>

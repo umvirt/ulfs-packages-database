@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>lxqt-powermanagement</code>
   <description>VGhlIGx4cXQtcG93ZXJtYW5hZ2VtZW50IHBhY2thZ2UgcHJvdmlkZXMgdGhlIHBvd2VyIG1hbmFnZW1lbnQgbW9kdWxlIGZvciBMWFF0Lg==</description>
   <sourcefile>lxqt-powermanagement-2.1.0.tar.xz</sourcefile>
@@ -14,15 +14,15 @@
   <dependances>
     <dependance>
       <code>upower</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>liblxqt</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

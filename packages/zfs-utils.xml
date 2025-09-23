@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>zfs-utils</code>
   <description>VXNlcnNwYWNlIHV0aWxpdGllcyBmb3IgdGhlIFpldHRhYnl0ZSBGaWxlIFN5c3RlbS4=</description>
   <sourcefile>zfs-2.3.3.tar.gz</sourcefile>

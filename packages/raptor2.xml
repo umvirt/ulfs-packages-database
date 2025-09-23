@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>raptor2</code>
   <description>UmFwdG9yIGlzIGEgQyBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgYSBzZXQgb2YgcGFyc2VycyBhbmQgc2VyaWFsaXplcnMgdGhhdCBnZW5lcmF0ZSBSZXNvdXJjZSBEZXNjcmlwdGlvbiBGcmFtZXdvcmsgKFJERikgdHJpcGxlcy4=</description>
   <sourcefile>raptor2-2.0.16.tar.gz</sourcefile>

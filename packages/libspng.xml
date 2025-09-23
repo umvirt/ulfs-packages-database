@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libspng</code>
   <description>U2ltcGxlLCBtb2Rlcm4gbGlicG5nIGFsdGVybmF0aXZl</description>
   <sourcefile>libspng-0.7.4.tar.gz</sourcefile>

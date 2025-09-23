@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>freecell-solver</code>
   <description>QSBwcm9ncmFtIHRoYXQgYXV0b21hdGljYWxseSBzb2x2ZXMgbGF5b3V0cyBvZiBGcmVlY2VsbCBhbmQgc2ltaWxhciB2YXJpYW50cyBvZiBDYXJkIFNvbGl0YWlyZS4=</description>
   <sourcefile>freecell-solver-6.12.0.tar.xz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>perl-Moo</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>perl-Path-Tiny</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>perl-Sub-Quote</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>python3-pysol_cards</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>perl-Template-Toolkit</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches>

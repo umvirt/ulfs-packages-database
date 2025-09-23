@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libclc</code>
   <description>VGhlIGxpYmNsYyBwYWNrYWdlIGNvbnRhaW5zIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBsaWJyYXJ5IHJlcXVpcmVtZW50cyBvZiB0aGUgT3BlbkNMIEMgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2UsIGFzIHNwZWNpZmllZCBieSB0aGUgT3BlbkNMIDEuMSBTcGVjaWZpY2F0aW9uLg==</description>
   <sourcefile>libclc-19.1.7.src.tar.xz</sourcefile>

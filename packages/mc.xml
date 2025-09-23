@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mc</code>
   <description>TUMgKE1pZG5pZ2h0IENvbW1hbmRlcikgaXMgYSB0ZXh0LW1vZGUgZnVsbC1zY3JlZW4gZmlsZSBtYW5hZ2VyIGFuZCB2aXN1YWwgc2hlbGwuIA==</description>
   <sourcefile>mc-4.8.33.tar.xz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>glib</code>
-      <weight>2</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>pcre2</code>
-      <weight>3</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>slang</code>
-      <weight>4</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>gpm</code>
-      <weight>5</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>zip</code>
-      <weight>7</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libssh2</code>
-      <weight>8</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

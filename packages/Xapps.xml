@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>Xapps</code>
   <description>VmlydHVhbCBQYWNrYWdlIHRvIGluc3RhbGwgYWxsIFhvcmcgQXBwbGljYXRpb25z</description>
   <sourcefile/>
@@ -33,131 +33,131 @@
     </dependance>
     <dependance>
       <code>mkfontscale</code>
-      <weight>7</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>sessreg</code>
-      <weight>8</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>setxkbmap</code>
-      <weight>9</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>smproxy</code>
-      <weight>10</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>xauth</code>
-      <weight>12</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>xcmsdb</code>
-      <weight>13</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>xcursorgen</code>
-      <weight>14</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>xdpyinfo</code>
-      <weight>15</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>xdriinfo</code>
-      <weight>16</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>xev</code>
-      <weight>17</weight>
+      <weight>15</weight>
     </dependance>
     <dependance>
       <code>xgamma</code>
-      <weight>18</weight>
+      <weight>16</weight>
     </dependance>
     <dependance>
       <code>xhost</code>
-      <weight>19</weight>
+      <weight>17</weight>
     </dependance>
     <dependance>
       <code>xinput</code>
-      <weight>20</weight>
+      <weight>18</weight>
     </dependance>
     <dependance>
       <code>xkbcomp</code>
-      <weight>21</weight>
+      <weight>19</weight>
     </dependance>
     <dependance>
       <code>xkbevd</code>
-      <weight>22</weight>
+      <weight>20</weight>
     </dependance>
     <dependance>
       <code>xkbutils</code>
-      <weight>23</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>xkill</code>
-      <weight>24</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>xlsatoms</code>
-      <weight>25</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>xlsclients</code>
-      <weight>26</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>xmessage</code>
-      <weight>27</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>xmodmap</code>
-      <weight>28</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>xpr</code>
-      <weight>29</weight>
+      <weight>27</weight>
     </dependance>
     <dependance>
       <code>xprop</code>
-      <weight>30</weight>
+      <weight>28</weight>
     </dependance>
     <dependance>
       <code>xrandr</code>
-      <weight>31</weight>
+      <weight>29</weight>
     </dependance>
     <dependance>
       <code>xrdb</code>
-      <weight>32</weight>
+      <weight>30</weight>
     </dependance>
     <dependance>
       <code>xrefresh</code>
-      <weight>33</weight>
+      <weight>31</weight>
     </dependance>
     <dependance>
       <code>xset</code>
-      <weight>34</weight>
+      <weight>32</weight>
     </dependance>
     <dependance>
       <code>xsetroot</code>
-      <weight>35</weight>
+      <weight>33</weight>
     </dependance>
     <dependance>
       <code>xvinfo</code>
-      <weight>36</weight>
+      <weight>34</weight>
     </dependance>
     <dependance>
       <code>xwd</code>
-      <weight>37</weight>
+      <weight>35</weight>
     </dependance>
     <dependance>
       <code>xwininfo</code>
-      <weight>38</weight>
+      <weight>36</weight>
     </dependance>
     <dependance>
       <code>xwud</code>
-      <weight>39</weight>
+      <weight>37</weight>
     </dependance>
   </dependances>
   <patches/>

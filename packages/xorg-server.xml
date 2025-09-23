@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xorg-server</code>
   <description>VGhlIFhvcmcgU2VydmVyIGlzIHRoZSBjb3JlIG9mIHRoZSBYIFdpbmRvdyBzeXN0ZW0u</description>
   <sourcefile>xorg-server-21.1.16.tar.xz</sourcefile>

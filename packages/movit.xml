@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>movit</code>
   <description>QSBsaWJyYXJ5IGZvciBoaWdoLXF1YWxpdHksIGhpZ2gtcGVyZm9ybWFuY2UgdmlkZW8gZmlsdGVycy4=</description>
   <sourcefile>movit-1.7.1.tar.gz</sourcefile>

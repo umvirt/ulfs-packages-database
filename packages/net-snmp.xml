@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>net-snmp</code>
   <description>QSBzdWl0ZSBvZiBhcHBsaWNhdGlvbnMgdXNlZCB0byBpbXBsZW1lbnQgU05NUCB2MSwgU05NUCB2MmMgYW5kIFNOTVAgdjMgdXNpbmcgYm90aCBJUHY0IGFuZCBJUHY2</description>
   <sourcefile>net-snmp-7d38b8299e26708ee92c9fe1628e5a000bc23e17-backports.tar.bz2</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>pcre2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libpcap</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>pciutils</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>lm-sensors</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>perl-TermReadKey</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>perl-Tk</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>cracklib</code>
   <description>VGhlIENyYWNrTGliIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHVzZWQgdG8gZW5mb3JjZSBzdHJvbmcgcGFzc3dvcmRzIGJ5IGNvbXBhcmluZyB1c2VyIHNlbGVjdGVkIHBhc3N3b3JkcyB0byB3b3JkcyBpbiBjaG9zZW4gd29yZCBsaXN0cy4=</description>
   <sourcefile>cracklib-2.10.3.tar.xz</sourcefile>

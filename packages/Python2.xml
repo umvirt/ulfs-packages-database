@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>Python2</code>
   <description>VGhlIFB5dGhvbiAyIHBhY2thZ2UgY29udGFpbnMgdGhlIFB5dGhvbiBkZXZlbG9wbWVudCBlbnZpcm9ubWVudC4g</description>
   <sourcefile>Python-2.7.18.tar.xz</sourcefile>

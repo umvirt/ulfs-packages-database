@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>rest</code>
   <description>VGhlIHJlc3QgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCB3YXMgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXNpZXIgdG8gYWNjZXNzIHdlYiBzZXJ2aWNlcyB0aGF0IGNsYWltIHRvIGJlICJSRVNUZnVsIi4gSXQgaW5jbHVkZXMgY29udmVuaWVuY2Ugd3JhcHBlcnMgZm9yIGxpYnNvdXAgYW5kIGxpYnhtbCB0byBlYXNlIHJlbW90ZSB1c2Ugb2YgdGhlIFJFU1RmdWwgQVBJLg0KDQo=</description>
   <sourcefile>rest-0.9.1.tar.xz</sourcefile>

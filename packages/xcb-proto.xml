@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>xcb-proto</code>
   <description>VGhlIHhjYi1wcm90byBwYWNrYWdlIHByb3ZpZGVzIHRoZSBYTUwtWENCIHByb3RvY29sIGRlc2NyaXB0aW9ucyB0aGF0IGxpYnhjYiB1c2VzIHRvIGdlbmVyYXRlIHRoZSBtYWpvcml0eSBvZiBpdHMgY29kZSBhbmQgQVBJLg==</description>
   <sourcefile>xcb-proto-1.17.0.tar.xz</sourcefile>

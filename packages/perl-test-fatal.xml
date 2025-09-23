@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-test-fatal</code>
   <description>SW5jcmVkaWJseSBzaW1wbGUgaGVscGVycyBmb3IgdGVzdGluZyBjb2RlIHdpdGggZXhjZXB0aW9ucw==</description>
   <sourcefile>Test-Fatal-0.017.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>perl-try-tiny</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

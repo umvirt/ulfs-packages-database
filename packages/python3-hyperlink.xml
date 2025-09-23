@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>python3-hyperlink</code>
   <description>QSBmZWF0dXJlZnVsLCBpbW11dGFibGUsIGFuZCBjb3JyZWN0IFVSTCBmb3IgUHl0aG9uLg==</description>
   <sourcefile>hyperlink-21.0.0.tar.gz</sourcefile>

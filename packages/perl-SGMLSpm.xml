@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>perl-SGMLSpm</code>
   <description>VGhlIFNHTUxTcG0gbW9kdWxlIGlzIGEgUGVybCBsaWJyYXJ5IHVzZWQgZm9yIHBhcnNpbmcgdGhlIG91dHB1dCBmcm9tIEphbWVzIENsYXJrJ3MgU0dNTFMgYW5kIE5TR01MUyBwYXJzZXJzLg==</description>
   <sourcefile>SGMLSpm-1.1.tar.gz</sourcefile>

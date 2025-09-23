@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>mlt</code>
   <description>TUxUIE11bHRpbWVkaWEgRnJhbWV3b3Jr</description>
   <sourcefile>mlt-7.30.0.tar.gz</sourcefile>
@@ -93,31 +93,31 @@
     </dependance>
     <dependance>
       <code>frei0r</code>
-      <weight>22</weight>
+      <weight>21</weight>
     </dependance>
     <dependance>
       <code>glaxnimate</code>
-      <weight>23</weight>
+      <weight>22</weight>
     </dependance>
     <dependance>
       <code>ladspa</code>
-      <weight>24</weight>
+      <weight>23</weight>
     </dependance>
     <dependance>
       <code>cmt</code>
-      <weight>25</weight>
+      <weight>24</weight>
     </dependance>
     <dependance>
       <code>swh-ladspa</code>
-      <weight>26</weight>
+      <weight>25</weight>
     </dependance>
     <dependance>
       <code>movit</code>
-      <weight>27</weight>
+      <weight>26</weight>
     </dependance>
     <dependance>
       <code>jack2</code>
-      <weight>28</weight>
+      <weight>27</weight>
     </dependance>
   </dependances>
   <patches/>

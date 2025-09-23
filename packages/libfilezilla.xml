@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>libfilezilla</code>
   <description>bGliZmlsZXppbGxhIGlzIGEgc21hbGwgYW5kIG1vZGVybiBDKysgbGlicmFyeSwgb2ZmZXJpbmcgc29tZSBiYXNpYyBmdW5jdGlvbmFsaXR5IHRvIGJ1aWxkIGhpZ2gtcGVyZm9ybWluZywgcGxhdGZvcm0taW5kZXBlbmRlbnQgcHJvZ3JhbXMu</description>
   <sourcefile>libfilezilla-0.50.0.tar.xz</sourcefile>

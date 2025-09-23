@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.3</release>
+  <release>0.2.4</release>
   <code>unixODBC</code>
   <description>VGhlIHVuaXhPREJDIHBhY2thZ2UgaXMgYW4gT3BlbiBTb3VyY2UgT0RCQyAoT3BlbiBEYXRhQmFzZSBDb25uZWN0aXZpdHkpIHN1Yi1zeXN0ZW0gYW5kIGFuIE9EQkMgU0RLIGZvciBMaW51eCwgTWFjIE9TWCwgYW5kIFVOSVgu</description>
   <sourcefile>unixODBC-2.3.12.tar.gz</sourcefile>
