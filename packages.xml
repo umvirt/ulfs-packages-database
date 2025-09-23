@@ -1761,5 +1761,6 @@
     <package>python3-PyQt5</package>
     <package>python-pyqt5_sip</package>
     <package>zerofree</package>
+    <package>gcc-multilib</package>
   </packages>
 </packages>
