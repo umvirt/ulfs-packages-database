@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>uml-utilities</code>
+  <description>VXNlciBNb2RlIExpbnV4IFV0aWxpdGllcw==</description>
+  <sourcefile>uml_utilities_20070815.tar.bz2</sourcefile>
+  <sourcedir>tools-20070815</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>fuse2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>uml_utilities.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

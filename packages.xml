@@ -1762,5 +1762,6 @@
     <package>python-pyqt5_sip</package>
     <package>zerofree</package>
     <package>gcc-multilib</package>
+    <package>uml-utilities</package>
   </packages>
 </packages>
