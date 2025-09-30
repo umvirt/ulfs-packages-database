@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>xgamma</code>
+  <code>!x11perf</code>
   <description/>
-  <sourcefile>xgamma-1.0.8.tar.xz</sourcefile>
-  <sourcedir>xgamma-1.0.8</sourcedir>
+  <sourcefile>x11perf-1.6.1.tar.bz2</sourcefile>
+  <sourcedir>x11perf-1.6.1</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

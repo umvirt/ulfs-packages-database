@@ -148,9 +148,9 @@
     <package>sessreg</package>
     <package>setxkbmap</package>
     <package>smproxy</package>
-    <package>x11perf</package>
+    <package>!x11perf</package>
     <package>xauth</package>
-    <package>xbacklight</package>
+    <package>!xbacklight</package>
     <package>xcmsdb</package>
     <package>xcursorgen</package>
     <package>xdpyinfo</package>

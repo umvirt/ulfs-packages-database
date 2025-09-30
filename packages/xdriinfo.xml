@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xdriinfo</code>
   <description/>
-  <sourcefile>xdriinfo-1.0.7.tar.xz</sourcefile>
-  <sourcedir>xdriinfo-1.0.7</sourcedir>
+  <sourcefile>xdriinfo-1.0.8.tar.xz</sourcefile>
+  <sourcedir>xdriinfo-1.0.8</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

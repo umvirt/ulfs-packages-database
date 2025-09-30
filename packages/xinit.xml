@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xinit</code>
   <description>VGhlIHhpbml0IHBhY2thZ2UgY29udGFpbnMgYSB1c2FibGUgc2NyaXB0IHRvIHN0YXJ0IHRoZSB4c2VydmVyLg==</description>
-  <sourcefile>xinit-1.4.3.tar.xz</sourcefile>
-  <sourcedir>xinit-1.4.3</sourcedir>
+  <sourcefile>xinit-1.4.4.tar.xz</sourcefile>
+  <sourcedir>xinit-1.4.4</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHIC0td2l0aC14aW5pdGRpcj0vZXRjL1gxMS9hcHAtZGVmYXVsdHMNCg0K</configure>
   <build/>

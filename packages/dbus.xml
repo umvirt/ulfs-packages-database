@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>dbus</code>
   <description/>
-  <sourcefile>dbus-1.16.0.tar.xz</sourcefile>
-  <sourcedir>dbus-1.16.0</sourcedir>
+  <sourcefile>dbus-1.16.2.tar.xz</sourcefile>
+  <sourcedir>dbus-1.16.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICBcDQogICAgICAgICAgICAtLXdyYXAtbW9kZT1ub2ZhbGxiYWNrIFwNCiAgICAgICAgICAgIC4uIA==</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgWyAtZSAvdXNyL3NoYXJlL2RvYy9kYnVzIF07IHRoZW4NCiAgcm0gLXJmIC91c3Ivc2hhcmUvZG9jL2RidXMtMS4xNi4wICAgICYmDQogIG12IC12ICAvdXNyL3NoYXJlL2RvYy9kYnVzeywtMS4xNi4wfQ0KZmkNCg0K</install>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgWyAtZSAvdXNyL3NoYXJlL2RvYy9kYnVzIF07IHRoZW4NCiAgcm0gLXJmIC91c3Ivc2hhcmUvZG9jL2RidXMtMS4xNi4yICAgICYmDQogIG12IC12ICAvdXNyL3NoYXJlL2RvYy9kYnVzeywtMS4xNi4yfQ0KZmkNCg0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

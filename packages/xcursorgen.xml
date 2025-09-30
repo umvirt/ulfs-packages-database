@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xcursorgen</code>
   <description/>
-  <sourcefile>xcursorgen-1.0.8.tar.xz</sourcefile>
-  <sourcedir>xcursorgen-1.0.8</sourcedir>
+  <sourcefile>xcursorgen-1.0.9.tar.xz</sourcefile>
+  <sourcedir>xcursorgen-1.0.9</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

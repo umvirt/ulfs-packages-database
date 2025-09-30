@@ -3,17 +3,17 @@
   <release>0.2.4</release>
   <code>libpng</code>
   <description>VGhlIGxpYnBuZyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGJ5IG90aGVyIHByb2dyYW1zIGZvciByZWFkaW5nIGFuZCB3cml0aW5nIFBORyBmaWxlcy4g</description>
-  <sourcefile>libpng-1.6.46.tar.xz</sourcefile>
-  <sourcedir>libpng-1.6.46</sourcedir>
+  <sourcefile>libpng-1.6.50.tar.xz</sourcefile>
+  <sourcedir>libpng-1.6.50</sourcedir>
   <unpack/>
-  <configure>Z3ppcCAtY2QgLi4vbGlicG5nLTEuNi40Ni1hcG5nLnBhdGNoLmd6IHwgcGF0Y2ggLXAxDQoNCkFSR19TVEFUSUM9Ii0tZGlzYWJsZS1zdGF0aWMiDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItLWVuYWJsZS1zdGF0aWMiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElDDQo=</configure>
+  <configure>Z3ppcCAtY2QgLi4vbGlicG5nLTEuNi40Ny1hcG5nLnBhdGNoLmd6IHwgcGF0Y2ggLXAxDQoNCkFSR19TVEFUSUM9Ii0tZGlzYWJsZS1zdGF0aWMiDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItLWVuYWJsZS1zdGF0aWMiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElDDQo=</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1rZGlyIC12IC91c3Ivc2hhcmUvZG9jL2xpYnBuZy0xLjYuNDYgJiYNCmNwIC12IFJFQURNRSBsaWJwbmctbWFudWFsLnR4dCAvdXNyL3NoYXJlL2RvYy9saWJwbmctMS42LjQ2DQoNCmZpDQo=</install>
+  <install>bWFrZSBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1rZGlyIC12IC91c3Ivc2hhcmUvZG9jL2xpYnBuZy0xLjYuNTAgJiYNCmNwIC12IFJFQURNRSBsaWJwbmctbWFudWFsLnR4dCAvdXNyL3NoYXJlL2RvYy9saWJwbmctMS42LjUwDQpmaQ0K</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons>
-    <addon>libpng-1.6.46-apng.patch.gz</addon>
+    <addon>libpng-1.6.47-apng.patch.gz</addon>
   </addons>
   <nestings/>
   <comments/>

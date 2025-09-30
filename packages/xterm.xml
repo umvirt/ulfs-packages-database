@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xterm</code>
   <description>eHRlcm0gaXMgYSB0ZXJtaW5hbCBlbXVsYXRvciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4=</description>
-  <sourcefile>xterm-397.tgz</sourcefile>
-  <sourcedir>xterm-397</sourcedir>
+  <sourcefile>xterm-401.tgz</sourcefile>
+  <sourcedir>xterm-401</sourcedir>
   <unpack/>
   <configure>c2VkIC1pICcvdjAve247cy9uZXc6L25ldzprYj1ePzovfScgdGVybWNhcCAmJg0KcHJpbnRmICdcdGticz1cXDE3NyxcbicgPj4gdGVybWluZm8gJiYNCg0KVEVSTUlORk89L3Vzci9zaGFyZS90ZXJtaW5mbyBcDQouL2NvbmZpZ3VyZSAkWE9SR19DT05GSUcgICAgIFwNCiAgICAtLXdpdGgtYXBwLWRlZmF1bHRzPS9ldGMvWDExL2FwcC1kZWZhdWx0cyANCg==</configure>
   <build/>

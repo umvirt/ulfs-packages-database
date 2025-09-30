@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>pixman</code>
   <description>VGhlIFBpeG1hbiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0aGF0IHByb3ZpZGVzIGxvdy1sZXZlbCBwaXhlbCBtYW5pcHVsYXRpb24gZmVhdHVyZXMgc3VjaCBhcyBpbWFnZSBjb21wb3NpdGluZyBhbmQgdHJhcGV6b2lkIHJhc3Rlcml6YXRpb24u</description>
-  <sourcefile>pixman-0.44.2.tar.gz</sourcefile>
-  <sourcedir>pixman-0.44.2</sourcedir>
+  <sourcefile>pixman-0.46.4.tar.gz</sourcefile>
+  <sourcedir>pixman-0.46.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZQ0K</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg0K</build>

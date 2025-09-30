@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libSM</code>
   <description/>
-  <sourcefile>libSM-1.2.5.tar.xz</sourcefile>
-  <sourcedir>libSM-1.2.5</sourcedir>
+  <sourcefile>libSM-1.2.6.tar.xz</sourcefile>
+  <sourcedir>libSM-1.2.6</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
   <build/>

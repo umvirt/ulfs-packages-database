@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xdpyinfo</code>
   <description/>
-  <sourcefile>xdpyinfo-1.3.4.tar.xz</sourcefile>
-  <sourcedir>xdpyinfo-1.3.4</sourcedir>
+  <sourcefile>xdpyinfo-1.4.0.tar.xz</sourcefile>
+  <sourcedir>xdpyinfo-1.4.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

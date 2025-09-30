@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>xgamma</code>
+  <code>!xbacklight</code>
   <description/>
-  <sourcefile>xgamma-1.0.8.tar.xz</sourcefile>
-  <sourcedir>xgamma-1.0.8</sourcedir>
+  <sourcefile>xbacklight-1.2.3.tar.bz2</sourcefile>
+  <sourcedir>xbacklight-1.2.3</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

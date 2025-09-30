@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>Vulkan-Loader</code>
   <description>VGhlIFZ1bGthbi1Mb2FkZXIgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgd2hpY2ggcHJvdmlkZXMgdGhlIFZ1bGthbiBBUEkgYW5kIHByb3ZpZGVzIGNvcmUgc3VwcG9ydCBmb3IgZ3JhcGhpY3MgZHJpdmVycyBmb3IgVnVsa2FuLg==</description>
-  <sourcefile>Vulkan-Loader-1.4.304.tar.gz</sourcefile>
-  <sourcedir>Vulkan-Loader-1.4.304</sourcedir>
+  <sourcefile>Vulkan-Loader-1.4.321.tar.gz</sourcefile>
+  <sourcedir>Vulkan-Loader-1.4.321</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgICAgICBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgXA0KICAgICAgLURDTUFLRV9TS0lQX1JQQVRIPU9OICAgICAgICAgICBcDQogICAgICAtRyBOaW5qYSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>

@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>krb5</code>
   <description>TUlUIEtlcmJlcm9zIFY1IGlzIGEgZnJlZSBpbXBsZW1lbnRhdGlvbiBvZiBLZXJiZXJvcyA1LiBLZXJiZXJvcyBpcyBhIG5ldHdvcmsgYXV0aGVudGljYXRpb24gcHJvdG9jb2wuIA==</description>
-  <sourcefile>krb5-1.21.3.tar.gz</sourcefile>
-  <sourcedir>krb5-1.21.3</sourcedir>
+  <sourcefile>krb5-1.22.1.tar.gz</sourcefile>
+  <sourcedir>krb5-1.22.1</sourcedir>
   <unpack/>
   <configure>Y2Qgc3JjICYmDQoNCnNlZCAtaSAtZSAnL2VxIDAve047cy8xMiAvL30nIHBsdWdpbnMva2RiL2RiMi9saWJkYjIvdGVzdC9ydW4udGVzdCAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgIFwNCiAgICAgICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyL2xpYiBcDQogICAgICAgICAgICAtLXJ1bnN0YXRlZGlyPS9ydW4gICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN5c3RlbS1ldCAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zeXN0ZW0tc3MgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtc3lzdGVtLXZlcnRvPW5vICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZG5zLWZvci1yZWFsbSAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1ycGF0aCAgICAgIA==</configure>
   <build>Y2Qgc3JjDQptYWtlDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICBtYWtlIC1qMSAtayBjaGVjaw0KZmkNCg==</build>
-  <install>Y2Qgc3JjDQptYWtlIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtdmZyIC4uL2RvYyAtVCAvdXNyL3NoYXJlL2RvYy9rcmI1LTEuMjEuMw0KDQpmaQ0K</install>
+  <install>Y2Qgc3JjDQptYWtlIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtdmZyIC4uL2RvYyAtVCAvdXNyL3NoYXJlL2RvYy9rcmI1LTEuMjIuMQ0KDQpmaQ0K</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

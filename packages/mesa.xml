@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>mesa</code>
   <description>TWVzYSBpcyBhbiBPcGVuR0wgY29tcGF0aWJsZSAzRCBncmFwaGljcyBsaWJyYXJ5Lg==</description>
-  <sourcefile>mesa-25.0.1.tar.xz</sourcefile>
-  <sourcedir>mesa-25.0.1</sourcedir>
+  <sourcefile>mesa-25.1.8.tar.xz</sourcefile>
+  <sourcedir>mesa-25.1.8</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIHBsYXRmb3Jtcz14MTEsd2F5bGFuZCBcDQogICAgICAtRCBnYWxsaXVtLWRyaXZlcnM9cmFkZW9uc2kscjMwMCxyNjAwLHN3cmFzdCxzdmdhLHZpcmdsLGk5MTUsaXJpcyx6aW5rICBcDQogICAgICAtRCB2dWxrYW4tZHJpdmVycz1hbWQsc3dyYXN0LHZpcnRpbyxpbnRlbCxpbnRlbF9oYXN2ayAgIFwNCiAgICAgIC1EIHZhbGdyaW5kPWRpc2FibGVkICAgICBcDQogICAgICAtRCBnYWxsaXVtLXJ1c3RpY2w9ZmFsc2UgXA0KICAgICAgLUQgYW1kZ3B1LXZpcnRpbz10cnVlIFwNCiAgICAgIC1EIGxpYnVud2luZD1kaXNhYmxlZCAgICA=</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI1LjAuMQ0KDQpmaQ0K</install>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI1LjEuOA0KDQpmaQ0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

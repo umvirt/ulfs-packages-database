@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xauth</code>
   <description/>
-  <sourcefile>xauth-1.1.3.tar.xz</sourcefile>
-  <sourcedir>xauth-1.1.3</sourcedir>
+  <sourcefile>xauth-1.1.4.tar.xz</sourcefile>
+  <sourcedir>xauth-1.1.4</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>
