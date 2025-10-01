@@ -6,7 +6,7 @@
   <sourcefile>gobject-introspection-1.84.0.tar.xz</sourcefile>
   <sourcedir>gobject-introspection-1.84.0</sourcedir>
   <unpack/>
-  <configure>bWVzb24gc2V0dXAgZ29iamVjdC1pbnRyb3NwZWN0aW9uLTEuODQuMCBnaS1idWlsZCBcDQogICAgICAgICAgICAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgDQo=</configure>
+  <configure>bWVzb24gc2V0dXAgZ2ktYnVpbGQgXA0KICAgICAgICAgICAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIA0K</configure>
   <build>bmluamEgLUMgZ2ktYnVpbGQNCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgICAgICBuaW5qYSAtQyBnaS1idWlsZCB0ZXN0DQpmaQ0K</build>
   <install>bmluamEgLUMgZ2ktYnVpbGQgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>

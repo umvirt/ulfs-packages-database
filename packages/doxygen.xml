@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>doxygen</code>
   <description>VGhlIERveHlnZW4gcGFja2FnZSBjb250YWlucyBhIGRvY3VtZW50YXRpb24gc3lzdGVtIGZvciBDKyssIEMsIEphdmEsIE9iamVjdGl2ZS1DLCBDb3JiYSBJREwgYW5kIHRvIHNvbWUgZXh0ZW50IFBIUCwgQyMgYW5kIEQuIA==</description>
-  <sourcefile>doxygen-1.13.2.src.tar.gz</sourcefile>
-  <sourcedir>doxygen-1.13.2</sourcedir>
+  <sourcefile>doxygen-1.14.0.src.tar.gz</sourcefile>
+  <sourcedir>doxygen-1.14.0</sourcedir>
   <unpack/>
   <configure>Z3JlcCAtcmwgJ14jIS4qcHl0aG9uJCcgfCB4YXJncyBzZWQgLWkgJzFzL3B5dGhvbi8mMy8nDQoNCm1rZGlyIC12IGJ1aWxkICYmDQpjZCAgICAgICBidWlsZCAmJg0KDQpjbWFrZSAtRyAiVW5peCBNYWtlZmlsZXMiICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtVyBuby1kZXYgLi4=</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbWFrZSB0ZXN0cw0KZmk=</build>

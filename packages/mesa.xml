@@ -6,7 +6,7 @@
   <sourcefile>mesa-25.1.8.tar.xz</sourcefile>
   <sourcedir>mesa-25.1.8</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIHBsYXRmb3Jtcz14MTEsd2F5bGFuZCBcDQogICAgICAtRCBnYWxsaXVtLWRyaXZlcnM9cmFkZW9uc2kscjMwMCxyNjAwLHN3cmFzdCxzdmdhLHZpcmdsLGk5MTUsaXJpcyx6aW5rICBcDQogICAgICAtRCB2dWxrYW4tZHJpdmVycz1hbWQsc3dyYXN0LHZpcnRpbyxpbnRlbCxpbnRlbF9oYXN2ayAgIFwNCiAgICAgIC1EIHZhbGdyaW5kPWRpc2FibGVkICAgICBcDQogICAgICAtRCBnYWxsaXVtLXJ1c3RpY2w9ZmFsc2UgXA0KICAgICAgLUQgYW1kZ3B1LXZpcnRpbz10cnVlIFwNCiAgICAgIC1EIGxpYnVud2luZD1kaXNhYmxlZCAgICA=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIHBsYXRmb3Jtcz14MTEsd2F5bGFuZCBcDQogICAgICAtRCBnYWxsaXVtLWRyaXZlcnM9cmFkZW9uc2kscjMwMCxyNjAwLGxsdm1waXBlLHNvZnRwaXBlLHN2Z2EsdmlyZ2wsaTkxNSxpcmlzLHppbmsgIFwNCiAgICAgIC1EIHZ1bGthbi1kcml2ZXJzPWFtZCxzd3Jhc3QsdmlydGlvLGludGVsLGludGVsX2hhc3ZrICAgXA0KICAgICAgLUQgdmFsZ3JpbmQ9ZGlzYWJsZWQgICAgIFwNCiAgICAgIC1EIGdhbGxpdW0tcnVzdGljbD1mYWxzZSBcDQogICAgICAtRCBhbWRncHUtdmlydGlvPXRydWUgXA0KICAgICAgLUQgbGlidW53aW5kPWRpc2FibGVkICAgIA==</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
   <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI1LjEuOA0KDQpmaQ0K</install>
   <localbuild>0</localbuild>
@@ -51,18 +51,6 @@
   <patches>
     <patch>
       <filename>mesa-add_xdemos-4.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>mesa-radv-amdgpu-fix-device-deduplication.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>mesa-aco-insert-dependency-waits-in-certain-situations.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>mesa-gallium-radeon-Make-sure-radeonsi-PCI-IDs-are-also-i.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>
