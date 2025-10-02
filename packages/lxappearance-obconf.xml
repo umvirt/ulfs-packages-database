@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxappearance-obconf</code>
   <description>VGhlIExYQXBwZWFyYW5jZSBPQmNvbmYgcGFja2FnZSBjb250YWlucyBhIHBsdWdpbiBmb3IgTFhBcHBlYXJhbmNlIHRvIGNvbmZpZ3VyZSBPcGVuQm94Lg==</description>
-  <sourcefile>lxappearance-obconf-0.2.3.tar.xz</sourcefile>
-  <sourcedir>lxappearance-obconf-0.2.3</sourcedir>
+  <sourcefile>lxappearance-obconf-0.2.4.tar.xz</sourcefile>
+  <sourcedir>lxappearance-obconf-0.2.4</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
   <build/>

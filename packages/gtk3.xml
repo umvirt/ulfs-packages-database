@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>gtk3</code>
   <description>VGhlIEdUSysgMyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBjcmVhdGluZyBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzIGZvciBhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>gtk+-3.24.43.tar.xz</sourcefile>
-  <sourcedir>gtk+-3.24.43</sourcedir>
+  <sourcefile>gtk-3.24.50.tar.xz</sourcefile>
+  <sourcedir>gtk-3.24.50</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICBcDQogICAgICAgICAgICAtRG1hbj10cnVlICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtRGJyb2Fkd2F5X2JhY2tlbmQ9dHJ1ZSBcDQogICAgICAgICAgICAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

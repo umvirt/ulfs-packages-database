@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libxkbcommon</code>
   <description>bGlieGtiY29tbW9uIGlzIGEga2V5bWFwIGNvbXBpbGVyIGFuZCBzdXBwb3J0IGxpYnJhcnkgd2hpY2ggcHJvY2Vzc2VzIGEgcmVkdWNlZCBzdWJzZXQgb2Yga2V5bWFwcyBhcyBkZWZpbmVkIGJ5IHRoZSBYS0Igc3BlY2lmaWNhdGlvbi4=</description>
-  <sourcefile>libxkbcommon-1.8.0.tar.gz</sourcefile>
-  <sourcedir>libxkbcommon-1.8.0</sourcedir>
+  <sourcefile>libxkbcommon-1.11.0.tar.gz</sourcefile>
+  <sourcedir>libxkbcommon-1.11.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EZW5hYmxlLWRvY3M9ZmFsc2Ug</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

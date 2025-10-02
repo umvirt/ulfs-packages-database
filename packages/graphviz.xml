@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>graphviz</code>
   <description>VGhlIEdyYXBodml6IHBhY2thZ2UgY29udGFpbnMgZ3JhcGggdmlzdWFsaXphdGlvbiBzb2Z0d2FyZS4=</description>
-  <sourcefile>graphviz-12.2.1.tar.bz2</sourcefile>
-  <sourcedir>graphviz-12.2.1</sourcedir>
+  <sourcefile>graphviz-13.1.2.tar.bz2</sourcefile>
+  <sourcedir>graphviz-13.1.2</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvTElCUE9TVEZJWD0iNjQiL3MvNjQvLycgY29uZmlndXJlLmFjICYmDQoNCi4vYXV0b2dlbi5zaCAgICAgICAgICAgICAgJiYNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZ3JhcGh2aXotMTIuMi4xDQoNCnNlZCAtaSAicy8wLyQoZGF0ZSArJVklbSVkKS8iIGJ1aWxkZGF0ZS5o</configure>
-  <build/>
-  <install/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OIFwNCiAgICAgIC4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KDQpzZWQgLWkgJy9HWklQL3MvOi4qJC89LycgQ01ha2VDYWNoZS50eHQ=</configure>
+  <build>Y2QgICAgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

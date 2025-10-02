@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxsession</code>
   <description>VGhlIExYU2Vzc2lvbiBwYWNrYWdlIGNvbnRhaW5zIHRoZSBkZWZhdWx0IHNlc3Npb24gbWFuYWdlciBmb3IgTFhERS4=</description>
-  <sourcefile>lxsession-0.5.5.tar.xz</sourcefile>
-  <sourcedir>lxsession-0.5.5</sourcedir>
+  <sourcefile>lxsession-0.5.6.tar.xz</sourcefile>
+  <sourcedir>lxsession-0.5.6</sourcedir>
   <unpack/>
   <configure>Q0ZMQUdTKz0iIC1Xbm8tZXJyb3I9aW5jb21wYXRpYmxlLXBvaW50ZXItdHlwZXMiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KZXhwb3J0IENGTEFHUw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZGlzYWJsZS1tYW4=</configure>
   <build/>

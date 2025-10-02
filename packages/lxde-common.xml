@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxde-common</code>
   <description>aGUgTFhERSBDb21tb24gcGFja2FnZSBwcm92aWRlcyBhIHNldCBvZiBkZWZhdWx0IGNvbmZpZ3VyYXRpb24gZm9yIExYREUu</description>
-  <sourcefile>lxde-common-0.99.2.tar.xz</sourcefile>
-  <sourcedir>lxde-common-0.99.2</sourcedir>
+  <sourcefile>lxde-common-0.99.3.tar.xz</sourcefile>
+  <sourcedir>lxde-common-0.99.3</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>

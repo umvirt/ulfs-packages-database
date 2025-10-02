@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>gnutls</code>
   <description>VGhlIEdudVRMUyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyBhbmQgdXNlcnNwYWNlIHRvb2xzIHdoaWNoIHByb3ZpZGUgYSBzZWN1cmUgbGF5ZXIgb3ZlciBhIHJlbGlhYmxlIHRyYW5zcG9ydCBsYXllci4=</description>
-  <sourcefile>gnutls-3.8.9.tar.xz</sourcefile>
-  <sourcedir>gnutls-3.8.9</sourcedir>
+  <sourcefile>gnutls-3.8.10.tar.xz</sourcefile>
+  <sourcedir>gnutls-3.8.10</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9nbnV0bHMtMy44LjkgXA0KICAgICAgICAgICAgLS13aXRoLWRlZmF1bHQtdHJ1c3Qtc3RvcmUtcGtjczExPSJwa2NzMTE6Ig0KDQo=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9nbnV0bHMtMy44LjEwIFwNCiAgICAgICAgICAgIC0td2l0aC1kZWZhdWx0LXRydXN0LXN0b3JlLXBrY3MxMT0icGtjczExOiINCg0KDQo=</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
   <install/>
   <localbuild>0</localbuild>

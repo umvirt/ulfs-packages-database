@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxrandr</code>
   <description>VGhlIExYUmFuZFIgcGFja2FnZSBjb250YWlucyBhIG1vbml0b3IgY29uZmlndXJhdGlvbiB0b29sIGZvciBMWERFLg==</description>
-  <sourcefile>lxrandr-0.3.2.tar.xz</sourcefile>
-  <sourcedir>lxrandr-0.3.2</sourcedir>
+  <sourcefile>lxrandr-0.3.3.tar.xz</sourcefile>
+  <sourcedir>lxrandr-0.3.3</sourcedir>
   <unpack/>
   <configure/>
   <build/>

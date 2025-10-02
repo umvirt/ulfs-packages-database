@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>dbus-glib</code>
   <description>VGhlIEQtQnVzIEdMaWIgcGFja2FnZSBjb250YWlucyBHTGliIGludGVyZmFjZXMgdG8gdGhlIEQtQnVzIEFQSS4=</description>
-  <sourcefile>dbus-glib-0.112.tar.gz</sourcefile>
-  <sourcedir>dbus-glib-0.112</sourcedir>
+  <sourcefile>dbus-glib-0.114.tar.gz</sourcefile>
+  <sourcedir>dbus-glib-0.114</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElD</configure>
   <build/>
