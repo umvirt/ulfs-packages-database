@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libusb</code>
   <description>VGhlIGxpYnVzYiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB1c2VkIGJ5IHNvbWUgYXBwbGljYXRpb25zIGZvciBVU0IgZGV2aWNlIGFjY2Vzcy4=</description>
-  <sourcefile>libusb-1.0.27.tar.bz2</sourcefile>
-  <sourcedir>libusb-1.0.27</sourcedir>
+  <sourcefile>libusb-1.0.29.tar.bz2</sourcefile>
+  <sourcedir>libusb-1.0.29</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
   <build/>

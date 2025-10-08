@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-pygobject</code>
   <description>UHlHT2JqZWN0MyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gdGhlIEdPYmplY3QgY2xhc3MgZnJvbSBHTGliLg0KDQo=</description>
-  <sourcefile>pygobject-3.50.0.tar.xz</sourcefile>
-  <sourcedir>pygobject-3.50.0</sourcedir>
+  <sourcefile>pygobject-3.52.3.tar.gz</sourcefile>
+  <sourcedir>pygobject-3.52.3</sourcedir>
   <unpack/>
   <configure>bXYgLXYgdGVzdHMvdGVzdF9nZGJ1cy5weXssLm5vdXNlfSAgICAgICAgICYmDQptdiAtdiB0ZXN0cy90ZXN0X292ZXJyaWRlc19ndGsucHl7LC5ub3VzZX0NCg0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

@@ -6,10 +6,11 @@
   <sourcefile>usbutils-018.tar.xz</sourcefile>
   <sourcedir>usbutils-018</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNl</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphIA==</build>
+  <configure/>
+  <build/>
   <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KY2QgLi4NCmluc3RhbGwgLWRtNzU1IC91c3Ivc2hhcmUvaHdkYXRhLw0KZ3VuemlwIC1rIC4uL3VzYi5pZHMuZ3oNCmNwIC12IC4uL3VzYi5pZHMgL3Vzci9zaGFyZS9od2RhdGEv</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>git</code>

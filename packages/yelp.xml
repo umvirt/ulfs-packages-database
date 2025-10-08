@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>yelp</code>
   <description>VGhlIFllbHAgcGFja2FnZSBjb250YWlucyBhIGhlbHAgYnJvd3NlciB1c2VkIGZvciB2aWV3aW5nIGhlbHAgZmlsZXMu</description>
-  <sourcefile>yelp-42.2.tar.xz</sourcefile>
-  <sourcedir>yelp-42.2</sourcedir>
+  <sourcefile>yelp-42.3.tar.xz</sourcefile>
+  <sourcedir>yelp-42.3</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMNCg==</configure>
+  <configure/>
   <build/>
-  <install/>
+  <install>Y2QgICAgYnVpbGQgDQpuaW5qYSBpbnN0YWxsDQp1cGRhdGUtZGVza3RvcC1kYXRhYmFzZQ==</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gsettings-desktop-schemas</code>

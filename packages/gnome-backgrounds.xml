@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>gnome-backgrounds</code>
   <description>VGhlIEdOT01FIEJhY2tncm91bmRzIHBhY2thZ2UgY29udGFpbnMgYSBjb2xsZWN0aW9uIG9mIGdyYXBoaWNzIGZpbGVzIHdoaWNoIGNhbiBiZSB1c2VkIGFzIGJhY2tncm91bmRzIGluIHRoZSBHTk9NRSBEZXNrdG9wIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>gnome-backgrounds-47.0.tar.xz</sourcefile>
-  <sourcedir>gnome-backgrounds-47.0</sourcedir>
+  <sourcefile>gnome-backgrounds-48.2.1.tar.xz</sourcefile>
+  <sourcedir>gnome-backgrounds-48.2.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLi4=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libjxl</code>

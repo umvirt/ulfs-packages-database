@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-numpy</code>
   <description>TnVtUHkgaXMgdGhlIGZ1bmRhbWVudGFsIHBhY2thZ2UgZm9yIHNjaWVudGlmaWMgY29tcHV0aW5nIHdpdGggUHl0aG9uLg==</description>
-  <sourcefile>numpy-2.2.3.tar.gz</sourcefile>
-  <sourcedir>numpy-2.2.3</sourcedir>
+  <sourcefile>numpy-2.3.2.tar.gz</sourcefile>
+  <sourcedir>numpy-2.3.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAtQ3NldHVwLWFyZ3M9LURhbGxvdy1ub2JsYXM9dHJ1ZSAkUFdE</build>

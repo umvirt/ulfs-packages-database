@@ -10,6 +10,7 @@
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libxslt</code>

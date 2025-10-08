@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libical</code>
   <description>VGhlIGxpYmljYWwgcGFja2FnZSBjb250YWlucyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgaUNhbGVuZGFyIHByb3RvY29scyBhbmQgZGF0YSBmb3JtYXRzLg==</description>
-  <sourcefile>libical-3.0.19.tar.gz</sourcefile>
-  <sourcedir>libical-3.0.19</sourcedir>
+  <sourcefile>libical-3.0.20.tar.gz</sourcefile>
+  <sourcedir>libical-3.0.20</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAgIC1EIFNIQVJFRF9PTkxZPXllcyAgICAgICAgICAgIFwNCiAgICAgIC1EIElDQUxfQlVJTERfRE9DUz1mYWxzZSAgICAgIFwNCiAgICAgIC1EIElDQUxfQlVJTERfRVhBTVBMRVM9ZmFsc2UgIFwNCiAgICAgIC1EIEdPQkpFQ1RfSU5UUk9TUEVDVElPTj10cnVlIFwNCiAgICAgIC1EIElDQUxfR0xJQl9WQVBJPXRydWUgICAgICAgIFwNCiAgICAgIC4u</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAgIC1EIFNIQVJFRF9PTkxZPXllcyAgICAgICAgICAgIFwNCiAgICAgIC1EIElDQUxfQlVJTERfRE9DUz1mYWxzZSAgICAgIFwNCiAgICAgIC1EIEdPQkpFQ1RfSU5UUk9TUEVDVElPTj10cnVlIFwNCiAgICAgIC1EIElDQUxfR0xJQl9WQVBJPXRydWUgICAgICAgIFwNCiAgICAgIC4uDQo=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2UNCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBuaW5qYSB0ZXN0DQpmaQ==</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>

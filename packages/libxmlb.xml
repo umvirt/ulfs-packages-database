@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libxmlb</code>
   <description>QSBsaWJyYXJ5IHRvIGhlbHAgY3JlYXRlIGFuZCBxdWVyeSBiaW5hcnkgWE1MIGJsb2Jz</description>
-  <sourcefile>libxmlb-0.3.21.tar.xz</sourcefile>
-  <sourcedir>libxmlb-0.3.21</sourcedir>
+  <sourcefile>libxmlb-0.3.23.tar.xz</sourcefile>
+  <sourcedir>libxmlb-0.3.23</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRGd0a2RvYz1mYWxzZSAuLiA=</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

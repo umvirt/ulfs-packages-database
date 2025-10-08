@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>alsa-utils</code>
   <description>VGhlIEFMU0EgVXRpbGl0aWVzIHBhY2thZ2UgY29udGFpbnMgdmFyaW91cyB1dGlsaXRpZXMgd2hpY2ggYXJlIHVzZWZ1bCBmb3IgY29udHJvbGxpbmcgeW91ciBzb3VuZCBjYXJkLg==</description>
-  <sourcefile>alsa-utils-1.2.13.tar.bz2</sourcefile>
-  <sourcedir>alsa-utils-1.2.13</sourcedir>
+  <sourcefile>alsa-utils-1.2.14.tar.bz2</sourcefile>
+  <sourcedir>alsa-utils-1.2.14</sourcedir>
   <unpack/>
-  <configure>c2VkIC1lICdzL2FjcC1wZG0tZG1pYy9hY3AtZG1pYy1jb2RlYy8nICAgICAgICAgICAgICAgICAgIFwNCiAgICAtZSAnL0xBQkVMPSJhbHNhX3Jlc3RvcmVfZ28iL3MvZ28vc3RkLycgICAgICAgICAgICAgICBcDQogICAgLWUgJy9eRU5WLkFMU0FfQ0FSRF9OVU1CRVIvaSBMQUJFTD0iYWxzYV9yZXN0b3JlX2dvIicgXA0KICAgIC1pIGFsc2FjdGwvOTAtYWxzYS1yZXN0b3JlLnJ1bGVzLmluDQoNCi4vY29uZmlndXJlIC0tZGlzYWJsZS1hbHNhY29uZiBcDQogICAgICAgICAgICAtLWRpc2FibGUtYmF0ICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXhtbHRvICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1jdXJzZXM9bmN1cnNlc3cg</configure>
+  <configure>Li9jb25maWd1cmUgLS1kaXNhYmxlLWFsc2Fjb25mIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1iYXQgICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUteG1sdG8gICAgXA0KICAgICAgICAgICAgLS13aXRoLWN1cnNlcz1uY3Vyc2Vzdw==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ0K</build>
   <install/>
   <localbuild>0</localbuild>

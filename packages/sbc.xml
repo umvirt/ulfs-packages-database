@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>sbc</code>
   <description>VGhlIFNCQyBpcyBhIGRpZ2l0YWwgYXVkaW8gZW5jb2RlciBhbmQgZGVjb2RlciB1c2VkIHRvIHRyYW5zZmVyIGRhdGEgdG8gQmx1ZXRvb3RoIGF1ZGlvIG91dHB1dCBkZXZpY2VzIGxpa2UgaGVhZHBob25lcyBvciBsb3Vkc3BlYWtlcnMu</description>
-  <sourcefile>sbc-2.0.tar.xz</sourcefile>
-  <sourcedir>sbc-2.0</sourcedir>
+  <sourcefile>sbc-2.1.tar.xz</sourcefile>
+  <sourcedir>sbc-2.1</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMgLS1kaXNhYmxlLXRlc3Rlcg==</configure>
   <build/>

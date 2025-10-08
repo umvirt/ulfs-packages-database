@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libavif</code>
   <description>VGhlIGxpYmF2aWYgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCBmb3IgZW5jb2RpbmcgYW5kIGRlY29kaW5nIEFWSUYgZmlsZXMu</description>
-  <sourcefile>libavif-1.2.0.tar.gz</sourcefile>
-  <sourcedir>libavif-1.2.0</sourcedir>
+  <sourcefile>libavif-1.3.0.tar.gz</sourcefile>
+  <sourcedir>libavif-1.3.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBBVklGX0NPREVDX0FPTT1TWVNURU0gICAgIFwNCiAgICAgIC1EIEFWSUZfQlVJTERfR0RLX1BJWEJVRj1PTiAgXA0KICAgICAgLUQgQVZJRl9MSUJZVVY9T0ZGICAgICAgICAgICBcDQogICAgICAtRyBOaW5qYSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <build/>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KZ2RrLXBpeGJ1Zi1xdWVyeS1sb2FkZXJzIC0tdXBkYXRlLWNhY2hl</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gdk-pixbuf</code>

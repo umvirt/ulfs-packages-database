@@ -6,10 +6,11 @@
   <sourcefile>dconf-editor-45.0.1.tar.xz</sourcefile>
   <sourcedir>dconf-editor-45.0.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libxml2</code>

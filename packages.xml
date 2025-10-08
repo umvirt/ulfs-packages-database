@@ -44,6 +44,13 @@
       <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
       <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
     </template>
+    <template>
+      <code>meson</code>
+      <description>TWVzb24gYnVpbGQgc3lzdGVtLiBTb3VyY2UgcGFja2FnZSBidWlsZGluZyBpbiAnYnVpbGQnIGRpcmVjdG9yeS4=</description>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg0K</configure>
+      <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+      <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+    </template>
   </templates>
   <packages>
     <package>wget</package>
@@ -220,6 +227,7 @@
     <package>menu-cache</package>
     <package>libfm</package>
     <package>gtk2</package>
+    <package>gtk2</package>
     <package>gdk-pixbuf</package>
     <package>libjpeg-turbo</package>
     <package>nasm</package>
@@ -320,18 +328,18 @@
     <package>rest</package>
     <package>totem-pl-parser</package>
     <package>yelp-xsl</package>
-    <package>GConf</package>
-    <package>geocode-glib</package>
+    <package>!GConf</package>
+    <package>!geocode-glib</package>
     <package>yasm</package>
     <package>!autoconf213</package>
     <package>nspr</package>
     <package>!mozjs</package>
     <package>!gjs</package>
-    <package>gnome-autoar</package>
+    <package>!gnome-autoar</package>
     <package>gnome-desktop</package>
     <package>libseccomp</package>
     <package>bubblewrap</package>
-    <package>gnome-menus</package>
+    <package>!gnome-menus</package>
     <package>!gnome-video-effects</package>
     <package>systemd</package>
     <package>alsa-lib</package>
@@ -373,7 +381,7 @@
     <package>webkitgtk3</package>
     <package>webkitgtk4</package>
     <package>webkitgtk</package>
-    <package>gnome-online-accounts</package>
+    <package>!gnome-online-accounts</package>
     <package>!grilo</package>
     <package>cogl</package>
     <package>clutter</package>
@@ -385,7 +393,7 @@
     <package>!libgweather</package>
     <package>libpeas</package>
     <package>!libshumate</package>
-    <package>libwnck3</package>
+    <package>libwnck</package>
     <package>libical</package>
     <package>nss</package>
     <package>libcanberra</package>

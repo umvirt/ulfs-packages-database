@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>gst-plugins-base</code>
   <description>VGhlIEdTdHJlYW1lciBCYXNlIFBsdWctaW5zIGlzIGEgd2VsbC1ncm9vbWVkIGFuZCB3ZWxsLW1haW50YWluZWQgY29sbGVjdGlvbiBvZiBHU3RyZWFtZXIgcGx1Zy1pbnMgYW5kIGVsZW1lbnRzLCBzcGFubmluZyB0aGUgcmFuZ2Ugb2YgcG9zc2libGUgdHlwZXMgb2YgZWxlbWVudHMgb25lIHdvdWxkIHdhbnQgdG8gd3JpdGUgZm9yIEdTdHJlYW1lci4gWW91IHdpbGwgbmVlZCBhdCBsZWFzdCBvbmUgb2YgR29vZCwgQmFkLCBVZ2x5IG9yIExpYmF2IHBsdWdpbnMgZm9yIEdTdHJlYW1lciBhcHBsaWNhdGlvbnMgdG8gZnVuY3Rpb24gcHJvcGVybHku</description>
-  <sourcefile>gst-plugins-base-1.24.12.tar.xz</sourcefile>
-  <sourcedir>gst-plugins-base-1.24.12</sourcedir>
+  <sourcefile>gst-plugins-base-1.26.5.tar.xz</sourcefile>
+  <sourcedir>gst-plugins-base-1.26.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgIFwNCiAgICAgIC0td3JhcC1tb2RlPW5vZG93bmxvYWQ=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>

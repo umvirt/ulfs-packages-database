@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libqmi</code>
   <description>VGhlIGxpYnFtaSBwYWNrYWdlIGNvbnRhaW5zIGEgR0xpYi1iYXNlZCBsaWJyYXJ5IGZvciB0YWxraW5nIHRvIFdXQU4gbW9kZW1zIGFuZCBkZXZpY2VzIHdoaWNoIHNwZWFrIHRoZSBRdWFsY29tbSBNU00gSW50ZXJmYWNlIChRTUkpIHByb3RvY29sLg==</description>
-  <sourcefile>libqmi-1.30.8.tar.xz</sourcefile>
-  <sourcedir>libqmi-1.30.8</sourcedir>
+  <sourcefile>libqmi-1.36.0.tar.gz</sourcefile>
+  <sourcedir>libqmi-1.36.0</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNClBZVEhPTj1weXRob24zIC4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMNCiA=</configure>
-  <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIGJhc2hfY29tcGxldGlvbj1mYWxzZSBcDQogICAgICAtRCBxcnRyPWZhbHNlICAgICAgICAgICAgXA0KICAgICAgLUQgbWFuPWZhbHNlICA=</configure>
+  <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>glib</code>

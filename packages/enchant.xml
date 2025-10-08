@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>enchant</code>
   <description>VGhlIGVuY2hhbnQgcGFja2FnZSBwcm92aWRlcyBhIGdlbmVyaWMgaW50ZXJmYWNlIGludG8gdmFyaW91cyBleGlzdGluZyBzcGVsbCBjaGVja2luZyBsaWJyYXJpZXMuDQoNCg==</description>
-  <sourcefile>enchant-2.8.2.tar.gz</sourcefile>
-  <sourcedir>enchant-2.8.2</sourcedir>
+  <sourcefile>enchant-2.8.12.tar.gz</sourcefile>
+  <sourcedir>enchant-2.8.12</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9lbmNoYW50LTIuOC4yDQo=</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9lbmNoYW50LTIuOC4xMg0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

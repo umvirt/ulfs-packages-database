@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>soundtouch</code>
   <description>VGhlIFNvdW5kVG91Y2ggcGFja2FnZSBjb250YWlucyBhbiBvcGVuLXNvdXJjZSBhdWRpbyBwcm9jZXNzaW5nIGxpYnJhcnkgdGhhdCBhbGxvd3MgY2hhbmdpbmcgdGhlIHNvdW5kIHRlbXBvLCBwaXRjaCBhbmQgcGxheWJhY2sgcmF0ZSBwYXJhbWV0ZXJzIGluZGVwZW5kZW50bHkgZnJvbSBlYWNoIG90aGVyLg==</description>
-  <sourcefile>soundtouch-2.3.3.tar.gz</sourcefile>
+  <sourcefile>soundtouch-2.4.0.tar.gz</sourcefile>
   <sourcedir>soundtouch</sourcedir>
   <unpack/>
-  <configure>QUNMT0NBTFRNUD0kQUNMT0NBTA0KZXhwb3J0IEFDTE9DQUw9DQoNCi4vYm9vdHN0cmFwICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3NvdW5kdG91Y2gtMi4zLjMgDQoNCmV4cG9ydCBBQ0xPQ0FMPSRBQ0xPQ0FMVE1Q</configure>
+  <configure>QUNMT0NBTFRNUD0kQUNMT0NBTA0KZXhwb3J0IEFDTE9DQUw9DQoNCi4vYm9vdHN0cmFwICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3NvdW5kdG91Y2gtMi40LjANCg0KZXhwb3J0IEFDTE9DQUw9JEFDTE9DQUxUTVA=</configure>
   <build>QUNMT0NBTFRNUD0kQUNMT0NBTA0KZXhwb3J0IEFDTE9DQUw9DQoNCm1ha2UNCg0KZXhwb3J0IEFDTE9DQUw9JEFDTE9DQUxUTVA=</build>
   <install/>
   <localbuild>0</localbuild>

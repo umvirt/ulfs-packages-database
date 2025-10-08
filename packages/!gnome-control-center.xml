@@ -24,7 +24,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gnome-online-accounts</code>
+      <code>!gnome-online-accounts</code>
       <weight>4</weight>
     </dependance>
     <dependance>

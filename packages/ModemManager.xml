@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>ModemManager</code>
   <description>TW9kZW1NYW5hZ2VyIHByb3ZpZGVzIGEgdW5pZmllZCBoaWdoIGxldmVsIEFQSSBmb3IgY29tbXVuaWNhdGluZyB3aXRoIG1vYmlsZSBicm9hZGJhbmQgbW9kZW1zLCByZWdhcmRsZXNzIG9mIHRoZSBwcm90b2NvbCB1c2VkIHRvIGNvbW11bmljYXRlIHdpdGggdGhlIGFjdHVhbCBkZXZpY2Uu</description>
-  <sourcefile>ModemManager-1.18.12.tar.xz</sourcefile>
-  <sourcedir>ModemManager-1.18.12</sourcedir>
+  <sourcefile>ModemManager-1.24.2.tar.gz</sourcefile>
+  <sourcedir>ModemManager-1.24.2</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICAgICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1tYWludGFpbmVyLW1vZGUgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zeXN0ZW1kLWpvdXJuYWwgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zeXN0ZW1kLXN1c3BlbmQtcmVzdW1l</configure>
-  <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIGJhc2hfY29tcGxldGlvbj1mYWxzZSBcDQogICAgICAtRCBxcnRyPWZhbHNlIA==</configure>
+  <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>

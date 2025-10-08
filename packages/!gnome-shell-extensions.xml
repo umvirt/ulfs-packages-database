@@ -12,7 +12,7 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>gnome-menus</code>
+      <code>!gnome-menus</code>
       <weight>1</weight>
     </dependance>
     <dependance>

@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>gst-libav</code>
   <description>VGhlIEdTdHJlYW1lciBMaWJhdiBwYWNrYWdlIGNvbnRhaW5zIEdTdHJlYW1lciBwbHVnaW5zIGZvciBMaWJhdiAoYSBmb3JrIG9mIEZGbXBlZyku</description>
-  <sourcefile>gst-libav-1.24.12.tar.xz</sourcefile>
-  <sourcedir>gst-libav-1.24.12</sourcedir>
+  <sourcefile>gst-libav-1.26.5.tar.xz</sourcefile>
+  <sourcedir>gst-libav-1.26.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlDQo=</configure>
+  <configure>DQo=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>yasm</code>

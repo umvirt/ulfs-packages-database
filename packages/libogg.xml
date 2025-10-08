@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>libogg</code>
   <description>VGhlIGxpYm9nZyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBPZ2cgZmlsZSBzdHJ1Y3R1cmUuIFRoaXMgaXMgdXNlZnVsIGZvciBjcmVhdGluZyAoZW5jb2RpbmcpIG9yIHBsYXlpbmcgKGRlY29kaW5nKSBhIHNpbmdsZSBwaHlzaWNhbCBiaXQgc3RyZWFtLg==</description>
-  <sourcefile>libogg-1.3.5.tar.xz</sourcefile>
-  <sourcedir>libogg-1.3.5</sourcedir>
+  <sourcefile>libogg-1.3.6.tar.xz</sourcefile>
+  <sourcedir>libogg-1.3.6</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYm9nZy0xLjMuNSA=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYm9nZy0xLjMuNg0K</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZpDQo=</build>
   <install/>
   <localbuild>0</localbuild>

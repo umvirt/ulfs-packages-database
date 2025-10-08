@@ -8,8 +8,9 @@
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0azQ9dHJ1ZSAgICAgICAgIFwNCiAgICAgICAgICAgIC1EdmFwaT10cnVlICAgICAgICAgXA0KICAgICAgICAgICAgLURkb2NzPWZhbHNlICAgICAgICBcDQogICAgICAgICAgICAtRG1hbj1mYWxzZSAgICAgICAgIFwNCiAgICAgICAgICAgIC4uICA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>

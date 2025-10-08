@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>gst-plugins-good</code>
   <description/>
-  <sourcefile>gst-plugins-good-1.24.12.tar.xz</sourcefile>
-  <sourcedir>gst-plugins-good-1.24.12</sourcedir>
+  <sourcefile>gst-plugins-good-1.26.5.tar.xz</sourcefile>
+  <sourcedir>gst-plugins-good-1.26.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlDQo=</configure>
+  <configure/>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphIA0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQo=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gdk-pixbuf</code>

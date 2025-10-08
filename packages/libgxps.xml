@@ -6,10 +6,11 @@
   <sourcefile>libgxps-0.3.2.tar.xz</sourcefile>
   <sourcedir>libgxps-0.3.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libxslt</code>

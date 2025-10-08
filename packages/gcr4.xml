@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>gcr4</code>
   <description>VGhlIEdjciBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBkaXNwbGF5aW5nIGNlcnRpZmljYXRlcyBhbmQgYWNjZXNzaW5nIGtleSBzdG9yZXMuIEl0IGFsc28gcHJvdmlkZXMgdGhlIHZpZXdlciBmb3IgY3J5cHRvIGZpbGVzIG9uIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
-  <sourcefile>gcr-4.3.1.tar.xz</sourcefile>
-  <sourcedir>gcr-4.3.1</sourcedir>
+  <sourcefile>gcr-4.4.0.1.tar.xz</sourcefile>
+  <sourcedir>gcr-4.4.0.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0a19kb2M9ZmFsc2UgICAgIFwNCiAgICAgICAgICAgIC4uICAgICAg</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCBndGtfZG9jPWZhbHNlICAgIFwNCiAgICAgICAgICAgIC1EIHNzaF9hZ2VudD1mYWxzZSAgXA0KICAgICAgICAgICAgLi4gICAgICAg</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>

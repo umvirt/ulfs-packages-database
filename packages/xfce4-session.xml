@@ -24,7 +24,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libwnck3</code>
+      <code>libwnck</code>
       <weight>4</weight>
     </dependance>
     <dependance>

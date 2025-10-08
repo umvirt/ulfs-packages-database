@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>inih</code>
   <description>VGhpcyBwYWNrYWdlIGlzIGEgc2ltcGxlIC5JTkkgZmlsZSBwYXJzZXIgd3JpdHRlbiBpbiBDLg==</description>
-  <sourcefile>inih-r58.tar.gz</sourcefile>
-  <sourcedir>inih-r58</sourcedir>
+  <sourcefile>inih-r61.tar.gz</sourcefile>
+  <sourcedir>inih-r61</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

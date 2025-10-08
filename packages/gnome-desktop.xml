@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>gnome-desktop</code>
   <description>VGhlIEdOT01FIERlc2t0b3AgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCBwcm92aWRlcyBhbiBBUEkgc2hhcmVkIGJ5IHNldmVyYWwgYXBwbGljYXRpb25zIG9uIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
-  <sourcefile>gnome-desktop-44.1.tar.xz</sourcefile>
-  <sourcedir>gnome-desktop-44.1</sourcedir>
+  <sourcefile>gnome-desktop-44.3.tar.xz</sourcefile>
+  <sourcedir>gnome-desktop-44.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAuLiAgICAg</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libxml2</code>

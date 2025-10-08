@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>adwaita-icon-theme</code>
   <description>VGhlIEFkd2FpdGEgSWNvbiBUaGVtZSBwYWNrYWdlIGNvbnRhaW5zIGFuIGljb24gdGhlbWUgZm9yIEdUSysgMyBhbmQgR1RLIDRhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>adwaita-icon-theme-47.0.tar.xz</sourcefile>
-  <sourcedir>adwaita-icon-theme-47.0</sourcedir>
+  <sourcefile>adwaita-icon-theme-48.1.tar.xz</sourcefile>
+  <sourcedir>adwaita-icon-theme-48.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLi4=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>

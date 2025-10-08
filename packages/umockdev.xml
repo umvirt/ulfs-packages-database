@@ -2,14 +2,15 @@
 <package>
   <release>0.2.4</release>
   <code>umockdev</code>
-  <description/>
-  <sourcefile>umockdev-0.19.1.tar.xz</sourcefile>
-  <sourcedir>umockdev-0.19.1</sourcedir>
+  <description>VGhlIFVtb2NrZGV2IHBhY2thZ2UgY29udGFpbnMgYSBmcmFtZXdvcmsgdGhhdCBhbGxvd3MgYSBkZXZlbG9wZXIgdG8gbW9jayBkZXZpY2VzIGZvciB1c2UgaW4gdW5pdCB0ZXN0aW5nLg==</description>
+  <sourcefile>umockdev-0.19.3.tar.xz</sourcefile>
+  <sourcedir>umockdev-0.19.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
+  <configure/>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>vala</code>

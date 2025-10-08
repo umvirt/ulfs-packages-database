@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libcap</code>
   <description>VGhlIGxpYmNhcCBwYWNrYWdlIHdhcyBpbnN0YWxsZWQgaW4gTEZTLCBidXQgaWYgTGludXgtUEFNIHN1cHBvcnQgaXMgZGVzaXJlZCwgdGhlIFBBTSBtb2R1bGUgbXVzdCBiZSBidWlsdCAoYWZ0ZXIgaW5zdGFsbGF0aW9uIG9mIExpbnV4LVBBTSku</description>
-  <sourcefile>libcap-2.73.tar.xz</sourcefile>
-  <sourcedir>libcap-2.73</sourcedir>
+  <sourcefile>libcap-2.76.tar.xz</sourcefile>
+  <sourcedir>libcap-2.76</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZSAtQyBwYW1fY2FwDQo=</build>

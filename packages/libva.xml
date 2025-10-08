@@ -6,10 +6,11 @@
   <sourcefile>libva-2.22.0.tar.gz</sourcefile>
   <sourcedir>libva-2.22.0</sourcedir>
   <unpack/>
-  <configure>Y2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9JFhPUkdfUFJFRklYIC0tYnVpbGR0eXBlPXJlbGVhc2U=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure>Y2QgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9JFhPUkdfUFJFRklYIC0tYnVpbGR0eXBlPXJlbGVhc2Ug</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libdrm</code>

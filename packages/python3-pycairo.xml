@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-pycairo</code>
   <description>UHlDYWlybyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gQ2Fpcm8u</description>
-  <sourcefile>pycairo-1.26.1.tar.gz</sourcefile>
-  <sourcedir>pycairo-1.26.1</sourcedir>
+  <sourcefile>pycairo-1.28.0.tar.gz</sourcefile>
+  <sourcedir>pycairo-1.28.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
