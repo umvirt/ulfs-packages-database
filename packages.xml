@@ -241,7 +241,6 @@
     <package>menu-cache</package>
     <package>libfm</package>
     <package>gtk2</package>
-    <package>gtk2</package>
     <package>gdk-pixbuf</package>
     <package>libjpeg-turbo</package>
     <package>nasm</package>
