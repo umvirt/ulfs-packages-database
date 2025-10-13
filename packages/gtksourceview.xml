@@ -6,7 +6,7 @@
   <sourcefile>gtksourceview-3.24.11.tar.xz</sourcefile>
   <sourcedir>gtksourceview-3.24.11</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>c2VkIC1pICdzL2dfb2JqZWN0X3JlZiAoYnVmZmVyKS9nX29iamVjdF9yZWYgKEdUS19TT1VSQ0VfQlVGRkVSIChidWZmZXIpKS8nIGd0a3NvdXJjZXZpZXcvZ3Rrc291cmNldmlldy5jDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

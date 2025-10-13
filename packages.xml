@@ -51,6 +51,20 @@
       <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
       <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
     </template>
+    <template>
+      <code>cmake-make</code>
+      <description>Q21ha2UgYnVpbGQgc3lzdGVtIHdpdGggbWFrZSBidWlsZGVyLg==</description>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg0K</configure>
+      <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+      <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+    </template>
+    <template>
+      <code>cmake-ninja</code>
+      <description>Q21ha2UgYnVpbGQgc3lzdGVtIHdpdGggbmluamEgYnVpbGRlci4=</description>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRyBOaW5qYSAuLg==</configure>
+      <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+      <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+    </template>
   </templates>
   <packages>
     <package>wget</package>
@@ -1768,5 +1782,7 @@
     <package>python3-PyQt-builder</package>
     <package>python3-PyQt5</package>
     <package>python-pyqt5_sip</package>
+    <package>gpgmepp</package>
+    <package>fast_float</package>
   </packages>
 </packages>
