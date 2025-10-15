@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>ristretto</code>
   <description>UmlzdHJldHRvIGlzIGEgZmFzdCBhbmQgbGlnaHR3ZWlnaHQgaW1hZ2Ugdmlld2VyIGZvciB0aGUgWGZjZSBkZXNrdG9wLg==</description>
-  <sourcefile>ristretto-0.13.3.tar.bz2</sourcefile>
-  <sourcedir>ristretto-0.13.3</sourcedir>
+  <sourcefile>ristretto-0.13.4.tar.xz</sourcefile>
+  <sourcedir>ristretto-0.13.4</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libexif</code>

@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>cdrdao</code>
   <description>VGhlIENkcmRhbyBwYWNrYWdlIGNvbnRhaW5zIENEIHJlY29yZGluZyB1dGlsaXRpZXMuIFRoZXNlIGFyZSB1c2VmdWwgZm9yIGJ1cm5pbmcgYSBDRCBpbiBkaXNrLWF0LW9uY2UgbW9kZS4=</description>
-  <sourcefile>cdrdao-1.2.4.tar.bz2</sourcefile>
-  <sourcedir>cdrdao-1.2.4</sourcedir>
+  <sourcefile>cdrdao-1.2.5.tar.bz2</sourcefile>
+  <sourcedir>cdrdao-1.2.5</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLW1hbmRpcj0vdXNyL3NoYXJlL21hbiA=</configure>
-  <build/>
-  <install/>
+  <build>bWFrZSBDQz0iZ2NjIC1zdGQ9Z251MTci</build>
+  <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNzU1IC1kIC91c3Ivc2hhcmUvZG9jL2NkcmRhby0xLjIuNSAmJg0KaW5zdGFsbCAtdiAtbTY0NCBSRUFETUUgL3Vzci9zaGFyZS9kb2MvY2RyZGFvLTEuMi41</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

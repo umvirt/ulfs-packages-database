@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>thunar</code>
   <description>VGh1bmFyIGlzIHRoZSBYZmNlIGZpbGUgbWFuYWdlciwgYSBHVEsrIDMgR1VJIHRvIG9yZ2FuaXNlIHRoZSBmaWxlcyBvbiB5b3VyIGNvbXB1dGVyLg==</description>
-  <sourcefile>thunar-4.20.2.tar.bz2</sourcefile>
-  <sourcedir>thunar-4.20.2</sourcedir>
+  <sourcefile>thunar-4.20.4.tar.bz2</sourcefile>
+  <sourcedir>thunar-4.20.4</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy90aHVuYXItNC4yMC4y</configure>
   <build/>

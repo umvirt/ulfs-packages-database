@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>xfce4-screenshooter</code>
   <description>WGZjZTQtc2NyZWVuc2hvb3RlciBhbGxvd3MgeW91IHRvIGNhcHR1cmUgdGhlIGVudGlyZSBzY3JlZW4sIHRoZSBhY3RpdmUNCndpbmRvdyBvciBhIHNlbGVjdGVkIHJlZ2lvbi4gWW91IGNhbiBzZXQgdGhlIGRlbGF5IHRoYXQgZWxhcHNlcw0KYmVmb3JlIHRoZSBzY3JlZW5zaG90IGlzIHRha2VuIGFuZCB0aGUgYWN0aW9uIHRoYXQgd2lsbCBiZSBkb25lIHdpdGgNCnRoZSBzY3JlZW5zaG90OiBzYXZlIGl0IHRvIGEgZmlsZSwgY29weSBpdCB0byB0aGUgY2xpcGJvYXJkLCBvcGVuDQppdCB1c2luZyBhbm90aGVyIGFwcGxpY2F0aW9uIG9yIHVzZSB5b3VyIGNyZWF0aXZpdHkgd2l0aCBjdXN0b20gYWN0aW9ucw0Kc2NyaXB0cy4=</description>
-  <sourcefile>xfce4-screenshooter-1.11.1.tar.bz2</sourcefile>
-  <sourcedir>xfce4-screenshooter-1.11.1</sourcedir>
+  <sourcefile>xfce4-screenshooter-1.11.2.tar.xz</sourcefile>
+  <sourcedir>xfce4-screenshooter-1.11.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libxfce4ui</code>

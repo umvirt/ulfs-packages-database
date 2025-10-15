@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libxfce4util</code>
   <description>VGhlIGxpYnhmY2U0dXRpbCBwYWNrYWdlIGlzIGEgYmFzaWMgdXRpbGl0eSBsaWJyYXJ5IGZvciB0aGUgWGZjZSBkZXNrdG9wIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>libxfce4util-4.20.0.tar.bz2</sourcefile>
-  <sourcedir>libxfce4util-4.20.0</sourcedir>
+  <sourcefile>libxfce4util-4.20.1.tar.bz2</sourcefile>
+  <sourcedir>libxfce4util-4.20.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>mousepad</code>
   <description>TW91c2VwYWQgaXMgYSBzaW1wbGUgR1RLKyAzIHRleHQgZWRpdG9yIGZvciB0aGUgWGZjZSBkZXNrdG9wIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>mousepad-0.6.3.tar.bz2</sourcefile>
-  <sourcedir>mousepad-0.6.3</sourcedir>
+  <sourcefile>mousepad-0.6.5.tar.xz</sourcefile>
+  <sourcedir>mousepad-0.6.5</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZ3Rrc291cmNldmlldzQgXA0KICAgICAgICAgICAgLS1lbmFibGUta2V5ZmlsZS1zZXR0aW5ncw0K</configure>
+  <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gtksourceview4</code>

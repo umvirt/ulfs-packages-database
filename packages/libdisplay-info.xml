@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libdisplay-info</code>
   <description>VGhlIGxpYmRpc3BsYXktaW5mbyBwYWNrYWdlIHByb3ZpZGVzIGEgc2V0IG9mIGhpZ2gtbGV2ZWwgYW5kIGxvdy1sZXZlbCBmdW5jdGlvbnMgdG8gYWNjZXNzIGRldGFpbGVkIEV4dGVuZGVkIERpc3BsYXkgSWRlbnRpZmljYXRpb24gRGF0YSAoRURJRCkgaW5mb3JtYXRpb24u</description>
-  <sourcefile>libdisplay-info-0.2.0.tar.xz</sourcefile>
-  <sourcedir>libdisplay-info-0.2.0</sourcedir>
+  <sourcefile>libdisplay-info-0.3.0.tar.xz</sourcefile>
+  <sourcedir>libdisplay-info-0.3.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>hwdata</code>

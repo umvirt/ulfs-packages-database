@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>xfce4-terminal</code>
   <description>WGZjZTQgVGVybWluYWwgaXMgYSBHVEsrMyB0ZXJtaW5hbCBlbXVsYXRvci4=</description>
-  <sourcefile>xfce4-terminal-1.1.4.tar.bz2</sourcefile>
-  <sourcedir>xfce4-terminal-1.1.4</sourcedir>
+  <sourcefile>xfce4-terminal-1.1.5.tar.xz</sourcefile>
+  <sourcedir>xfce4-terminal-1.1.5</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>vte</code>

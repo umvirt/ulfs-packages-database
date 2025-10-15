@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xfburn</code>
   <description>WGZidXJuIGlzIGEgR1RLKyAzIEdVSSBmcm9udGVuZCBmb3IgTGliaXNvYnVybi4=</description>
-  <sourcefile>xfburn-0.7.2.tar.bz2</sourcefile>
-  <sourcedir>xfburn-0.7.2</sourcedir>
+  <sourcefile>xfburn-0.8.0.tar.bz2</sourcefile>
+  <sourcedir>xfburn-0.8.0</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMNCg0K</configure>
   <build/>
