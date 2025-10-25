@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>lolcat</code>
+  <description>VGhpcyBgbG9sY2F0YCBjbG9uZSBpcyBhbiBhdHRlbXB0IHRvIHJlZHVjZSB0aGUgd29ybGQncyBjYXJib24gZGlveGlkZSBlbWlzc2lvbnMgYnkgb3B0aW1pemluZyBpbmVmZmljaWVudCBjb2RlLiBJdCdzID4xMHggYXMgZmFzdCBhbmQgPDAuMSUgYXMgbGFyZ2UgYXMgdGhlIG9yaWdpbmFsIG9uZS4=</description>
+  <sourcefile>lolcat-1.5.tar.gz</sourcefile>
+  <sourcedir>lolcat-1.5</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>bWFrZSBERVNURElSPS91c3IvYmluIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

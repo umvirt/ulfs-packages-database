@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>rewindtty</code>
+  <description>QSB0ZXJtaW5hbCBzZXNzaW9uIHJlY29yZGVyIGFuZCByZXBsYXllciB3cml0dGVuIGluIEMgdGhhdCBhbGxvd3MgeW91IHRvIGNhcHR1cmUgYW5kIHJlcGxheSB0ZXJtaW5hbCBzZXNzaW9ucyB3aXRoIHByZWNpc2UgdGltaW5nLg==</description>
+  <sourcefile>rewindtty-1d6028691710f4054c973a475936c181085648ed.tar.gz</sourcefile>
+  <sourcedir>rewindtty-1d6028691710f4054c973a475936c181085648ed</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>aW5zdGFsbCAtdm03NTUgYnVpbGQvcmV3aW5kdHR5IC91c3IvYmluLw==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
