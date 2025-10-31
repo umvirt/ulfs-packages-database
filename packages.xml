@@ -1767,5 +1767,7 @@
     <package>rewindtty</package>
     <package>sl</package>
     <package>termrec</package>
+    <package>nyancat</package>
+    <package>mbuffer</package>
   </packages>
 </packages>
