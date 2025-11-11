@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>highway</code>
   <description>VGhlIGhpZ2h3YXkgcGFja2FnZSBjb250YWlucyBhIEMrKyBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgcG9ydGFibGUgU0lNRC92ZWN0b3IgaW50cmluc2ljcy4=</description>
-  <sourcefile>highway-1.2.0.tar.gz</sourcefile>
-  <sourcedir>highway-1.2.0</sourcedir>
+  <sourcefile>highway-1.3.0.tar.gz</sourcefile>
+  <sourcedir>highway-1.3.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBCVUlMRF9URVNUSU5HPU9GRiAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgXA0KICAgICAgLUcgTmluamEgLi4gICA=</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmph</build>

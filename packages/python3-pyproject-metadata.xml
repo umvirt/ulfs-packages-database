@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-pyproject-metadata</code>
   <description>UEVQIDYyMSBtZXRhZGF0YSBwYXJzaW5n</description>
-  <sourcefile>pyproject_metadata-0.9.0.tar.gz</sourcefile>
-  <sourcedir>pyproject_metadata-0.9.0</sourcedir>
+  <sourcefile>pyproject_metadata-0.9.1.tar.gz</sourcefile>
+  <sourcedir>pyproject_metadata-0.9.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

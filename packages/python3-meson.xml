@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-meson</code>
   <description>TWVzb24gUHl0aG9uIGJ1aWxkIGJhY2tlbmQ=</description>
-  <sourcefile>meson_python-0.17.1.tar.gz</sourcefile>
-  <sourcedir>meson_python-0.17.1</sourcedir>
+  <sourcefile>meson_python-0.18.0.tar.gz</sourcefile>
+  <sourcedir>meson_python-0.18.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>

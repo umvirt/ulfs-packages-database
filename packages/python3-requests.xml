@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-requests</code>
   <description>VGhlIFJlcXVlc3RzIHBhY2thZ2UgaXMgYW4gZWxlZ2FudCBhbmQgc2ltcGxlIEhUVFAgbGlicmFyeSBmb3IgUHl0aG9uLCBidWlsdCBmb3IgaHVtYW4gYmVpbmdzLg==</description>
-  <sourcefile>requests-2.32.3.tar.gz</sourcefile>
-  <sourcedir>requests-2.32.3</sourcedir>
+  <sourcefile>requests-2.32.5.tar.gz</sourcefile>
+  <sourcedir>requests-2.32.5</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
@@ -34,7 +34,7 @@
   </dependances>
   <patches>
     <patch>
-      <filename>requests-2.32.3-use_system_certs-1.patch</filename>
+      <filename>requests-use_system_certs-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-cachecontrol</code>
   <description>Q2FjaGVDb250cm9sIGlzIGEgcG9ydCBvZiB0aGUgY2FjaGluZyBhbGdvcml0aG1zIGluIGh0dHBsaWIyIGZvciB1c2Ugd2l0aCByZXF1ZXN0cyBzZXNzaW9uIG9iamVjdC4=</description>
-  <sourcefile>cachecontrol-0.14.2.tar.gz</sourcefile>
-  <sourcedir>cachecontrol-0.14.2</sourcedir>
+  <sourcefile>cachecontrol-0.14.3.tar.gz</sourcefile>
+  <sourcedir>cachecontrol-0.14.3</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

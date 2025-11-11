@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libde265</code>
   <description>T3BlbiBoLjI2NSB2aWRlbyBjb2RlYyBpbXBsZW1lbnRhdGlvbi4=</description>
-  <sourcefile>libde265-1.0.15.tar.gz</sourcefile>
-  <sourcedir>libde265-1.0.15</sourcedir>
+  <sourcefile>libde265-1.0.16.tar.gz</sourcefile>
+  <sourcedir>libde265-1.0.16</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4NCg==</configure>
   <build>Y2QgYnVpbGQNCm1ha2U=</build>
