@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>audacious-app</code>
   <description>QXVkYWNpb3VzIGlzIGFuIGF1ZGlvIHBsYXllci4=</description>
-  <sourcefile>audacious-4.4.2.tar.bz2</sourcefile>
-  <sourcedir>audacious-4.4.2</sourcedir>
+  <sourcefile>audacious-4.5.tar.bz2</sourcefile>
+  <sourcedir>audacious-4.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCBndGs9dHJ1ZSAgICAgICAgIFwNCiAgICAgICAgICAgIC1EIHF0PXRydWUgICAgICAgICAgXA0KICAgICAgICAgICAgLUQgYnVpbGRzdGFtcD1CTEZTICBcDQogICAgICAgICAgICAtRCBsaWJhcmNoaXZlPXRydWUgIFwNCiAgICAgICAgICAgIC4uIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
@@ -24,7 +24,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>qt5</code>
+      <code>qt6</code>
       <weight>4</weight>
     </dependance>
   </dependances>

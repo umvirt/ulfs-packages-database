@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>babl</code>
   <description>VGhlIEJhYmwgcGFja2FnZSBpcyBhIGR5bmFtaWMsIGFueSB0byBhbnksIHBpeGVsIGZvcm1hdCB0cmFuc2xhdGlvbiBsaWJyYXJ5Lg0KDQo=</description>
-  <sourcefile>babl-0.1.112.tar.xz</sourcefile>
-  <sourcedir>babl-0.1.112</sourcedir>
+  <sourcefile>babl-0.1.114.tar.xz</sourcefile>
+  <sourcedir>babl-0.1.114</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
   <build>Y2QgICAgYmxkICYmDQpuaW5qYQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBuaW5qYSB0ZXN0DQpmaQ0K</build>

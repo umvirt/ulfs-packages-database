@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>gimp-help</code>
   <description>R0lNUCBoZWxwIGZpbGVzLg==</description>
-  <sourcefile>gimp3-help-20240711.tar.xz</sourcefile>
-  <sourcedir>gimp3-help-20240711</sourcedir>
+  <sourcefile>gimp-help-3.0.0.tar.bz2</sourcefile>
+  <sourcedir>gimp-help-3.0.0</sourcedir>
   <unpack/>
   <configure>YXV0b21ha2UgLS1hZGQtbWlzc2luZw0KDQpBTExfTElOR1VBUz0iY2EgY3MgZGEgZGUgZW4gZW5fR0IgZXMgZmEgZnIgaHIga28gbHQgbmwgbm4gcHQgcHRfQlIgcm8gc2wgc3YgdWsgemhfQ04iIFwNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>

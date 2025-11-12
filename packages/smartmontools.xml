@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>smartmontools</code>
   <description>VGhlIHNtYXJ0bW9udG9vbHMgcGFja2FnZSBjb250YWlucyB1dGlsaXR5IHByb2dyYW1zIChzbWFydGN0bCwgc21hcnRkKSB0byBjb250cm9sL21vbml0b3Igc3RvcmFnZSBzeXN0ZW1zIHVzaW5nIHRoZSBTZWxmLU1vbml0b3JpbmcsIEFuYWx5c2lzIGFuZCBSZXBvcnRpbmcgVGVjaG5vbG9neSBTeXN0ZW0gKFMuTS5BLlIuVC4pIGJ1aWx0IGludG8gbW9zdCBtb2Rlcm4gQVRBIGFuZCBTQ1NJIGRpc2tzLg0KDQo=</description>
-  <sourcefile>smartmontools-7.4.tar.gz</sourcefile>
-  <sourcedir>smartmontools-7.4</sourcedir>
+  <sourcefile>smartmontools-7.5.tar.gz</sourcefile>
+  <sourcedir>smartmontools-7.5</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2Mvc21hcnRtb250b29scy03LjQNCg==</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2Mvc21hcnRtb250b29scy03LjUNCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
