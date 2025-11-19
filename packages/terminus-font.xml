@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>terminus-font</code>
   <description>Rml4ZWQtd2lkdGggZm9udHMgZm9yIGZhc3QgcmVhZGluZw==</description>
-  <sourcefile>terminus-font-4.48.tar.gz</sourcefile>
-  <sourcedir>terminus-font-4.48</sourcedir>
+  <sourcefile>terminus-font-4.49.1.tar.gz</sourcefile>
+  <sourcedir>terminus-font-4.49.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

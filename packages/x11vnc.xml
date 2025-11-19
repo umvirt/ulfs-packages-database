@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>x11vnc</code>
   <description>YSBWTkMgc2VydmVyIGZvciByZWFsIFggZGlzcGxheXM=</description>
-  <sourcefile>x11vnc-0.9.16.tar.gz</sourcefile>
-  <sourcedir>x11vnc-0.9.16</sourcedir>
+  <sourcefile>x11vnc-0.9.17.tar.gz</sourcefile>
+  <sourcedir>x11vnc-0.9.17</sourcedir>
   <unpack/>
   <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tc3lzY29uZmRpcj0vZXRjICAtLWxvY2Fsc3RhdGVkaXI9L3Zhcg0K</configure>
   <build/>

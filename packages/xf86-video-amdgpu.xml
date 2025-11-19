@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xf86-video-amdgpu</code>
   <description>QU1EIEdQVSBYb3JnIGRyaXZlcg==</description>
-  <sourcefile>xf86-video-amdgpu-23.0.0.tar.xz</sourcefile>
-  <sourcedir>xf86-video-amdgpu-23.0.0</sourcedir>
+  <sourcefile>xf86-video-amdgpu-25.0.0.tar.xz</sourcefile>
+  <sourcedir>xf86-video-amdgpu-25.0.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>

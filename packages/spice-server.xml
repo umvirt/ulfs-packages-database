@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>spice-server</code>
   <description>U1BJQ0UgcHJvdG9jb2wgc2VydmVy</description>
-  <sourcefile>spice-0.15.2.tar.bz2</sourcefile>
-  <sourcedir>spice-0.15.2</sourcedir>
+  <sourcefile>spice-0.16.0.tar.bz2</sourcefile>
+  <sourcedir>spice-0.16.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLWxvY2Fsc3RhdGVkaXI9L3ZhciA=</configure>
   <build/>

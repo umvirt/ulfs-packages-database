@@ -6,11 +6,23 @@
   <sourcefile>x11spice-v1.2.tar.bz2</sourcefile>
   <sourcedir>x11spice-v1.2</sourcedir>
   <unpack/>
-  <configure>Li9hdXRvZ2VuLnNoDQoNCi4vY29uZmlndXJlIC0tZW5hYmxlLWR1bW15ICAgICAgICBcDQogICAgICAgICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgIFwNCiAgICAgICAgICAgIC0tbC9vY2Fsc3RhdGVkaXI9L3Zhcg==</configure>
+  <configure>Li9hdXRvZ2VuLnNoDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXI=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ0K</build>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>util-macros</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xf86-video-qxl</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>spice-server</code>
       <weight>1</weight>

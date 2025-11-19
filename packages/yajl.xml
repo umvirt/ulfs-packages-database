@@ -6,12 +6,18 @@
   <sourcefile>yajl-2.1.0.tar.gz</sourcefile>
   <sourcedir>lloyd-yajl-66cb08c</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICJzL1wvdXNyXC9sb2NhbC9cL3Vzci8iIGNvbmZpZ3VyZQ0KLi9jb25maWd1cmUNCg==</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX1BPTElDWV9WRVJTSU9OX01JTklNVU09My41IFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9Tm9uZSAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC4u</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>yajl-fix-cmake-4-compatibility.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

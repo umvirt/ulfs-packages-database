@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>python3-dbus</code>
   <description>ZGJ1cy1weXRob24gaXMgdGhlIG9yaWdpbmFsIFB5dGhvbiBiaW5kaW5nIGZvciBkYnVzLCB0aGUgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBELUJ1cyBwcm90b2NvbC4=</description>
-  <sourcefile>dbus-python-1.3.2.tar.gz</sourcefile>
-  <sourcedir>dbus-python-1.3.2</sourcedir>
+  <sourcefile>dbus-python-1.4.0.tar.gz</sourcefile>
+  <sourcedir>dbus-python-1.4.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>python3-meson</code>

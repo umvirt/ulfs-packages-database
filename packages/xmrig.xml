@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xmrig</code>
   <description>TW9uZXJvIChYTVIpIG1pbmVyIA==</description>
-  <sourcefile>xmrig-6.22.2.tar.gz</sourcefile>
-  <sourcedir>xmrig-6.22.2</sourcedir>
+  <sourcefile>xmrig-6.24.0.tar.gz</sourcefile>
+  <sourcedir>xmrig-6.24.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgIGJ1aWxkICYmDQpjZCAgICAgYnVpbGQgJiYNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EV0lUSF9DVURBPU9GRiAgICAgICAgICAgICBcDQogICAgICAtRFdJVEhfT1BFTkNMPU9GRiAgICAgICAgICAgXA0KICAgICAgLi4NCg0K</configure>
   <build>Y2QgICAgIGJ1aWxkICYmDQptYWtl</build>

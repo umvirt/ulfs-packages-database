@@ -13,7 +13,7 @@
   <preparation>Z3JvdXBhZGQgLWZnIDg0IGF2YWhpICYmDQp1c2VyYWRkIC1jICJBdmFoaSBEYWVtb24gT3duZXIiIC1kIC9ydW4vYXZhaGktZGFlbW9uIC11IDg0IFwNCiAgICAgICAgLWcgYXZhaGkgLXMgL2Jpbi9mYWxzZSBhdmFoaQ0KDQpncm91cGFkZCAtZmcgODYgbmV0ZGV2</preparation>
   <dependances>
     <dependance>
-      <code>qt5</code>
+      <code>qt6</code>
       <weight>1</weight>
     </dependance>
     <dependance>

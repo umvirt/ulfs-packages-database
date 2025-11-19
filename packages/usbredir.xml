@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>usbredir</code>
   <description>dXNicmVkaXIgaXMgdGhlIG5hbWUgb2YgYSBuZXR3b3JrIHByb3RvY29sIGZvciBzZW5kaW5nIFVTQiBkZXZpY2UgdHJhZmZpYyBvdmVyIGEgbmV0d29yayBjb25uZWN0aW9uLiBJdCBpcyBhbHNvIHRoZSBuYW1lIG9mIHRoZSBzb2Z0d2FyZSBwYWNrYWdlIG9mZmVyaW5nIGEgcGFyc2luZyBsaWJyYXJ5LCBhIHVzYnJlZGlyaG9zdCBsaWJyYXJ5IGFuZCBzZXZlcmFsIHV0aWxpdGllcyBpbXBsZW1lbnRpbmcgdGhpcyBwcm90b2NvbC4=</description>
-  <sourcefile>usbredir-0.14.0.tar.xz</sourcefile>
-  <sourcedir>usbredir-0.14.0</sourcedir>
+  <sourcefile>usbredir-0.15.0.tar.xz</sourcefile>
+  <sourcedir>usbredir-0.15.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgXA0KICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIg</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

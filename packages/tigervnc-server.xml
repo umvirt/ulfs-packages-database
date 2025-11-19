@@ -63,7 +63,7 @@
     </patch>
   </patches>
   <addons>
-    <addon>xorg-server-21.1.16.tar.xz</addon>
+    <addon>xorg-server-21.1.18.tar.xz</addon>
   </addons>
   <nestings/>
   <comments/>

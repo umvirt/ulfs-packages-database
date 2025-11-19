@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>rpcbind</code>
   <description>VGhlIHJwY2JpbmQgcHJvZ3JhbSBpcyBhIHJlcGxhY2VtZW50IGZvciBwb3J0bWFwLiBJdCBpcyByZXF1aXJlZCBmb3IgaW1wb3J0IG9yIGV4cG9ydCBvZiBOZXR3b3JrIEZpbGUgU3lzdGVtIChORlMpIHNoYXJlZCBkaXJlY3Rvcmllcy4=</description>
-  <sourcefile>rpcbind-1.2.7.tar.bz2</sourcefile>
-  <sourcedir>rpcbind-1.2.7</sourcedir>
+  <sourcefile>rpcbind-1.2.8.tar.bz2</sourcefile>
+  <sourcedir>rpcbind-1.2.8</sourcedir>
   <unpack/>
-  <configure>Z3JvdXBhZGQgLWcgMjggcnBjICYmDQp1c2VyYWRkIC1jICJSUEMgQmluZCBEYWVtb24gT3duZXIiIC1kIC9kZXYvbnVsbCAtZyBycGMgXA0KICAgICAgICAtcyAvYmluL2ZhbHNlIC11IDI4IHJwYw0KDQpzZWQgLWkgIi9zZXJ2bmFtZS9zOnJwY2JpbmQ6c3VucnBjOiIgc3JjL3JwY2JpbmQuYw0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgIC0tYmluZGlyPS91c3Ivc2JpbiAgXA0KICAgICAgICAgICAgLS1lbmFibGUtd2FybXN0YXJ0cyBcDQogICAgICAgICAgICAtLXdpdGgtcnBjdXNlcj1ycGM=</configure>
+  <configure>c2VkIC1pICIvc2Vydm5hbWUvczpycGNiaW5kOnN1bnJwYzoiIHNyYy9ycGNiaW5kLmMNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWJpbmRpcj0vdXNyL3NiaW4gIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXdhcm1zdGFydHMgXA0KICAgICAgICAgICAgLS13aXRoLXJwY3VzZXI9cnBjDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <preparation>Z3JvdXBhZGQgLWcgMjggcnBjICYmDQp1c2VyYWRkIC1jICJSUEMgQmluZCBEYWVtb24gT3duZXIiIC1kIC9kZXYvbnVsbCAtZyBycGMgXA0KICAgICAgICAtcyAvYmluL2ZhbHNlIC11IDI4IHJwYw0K</preparation>
   <dependances>
     <dependance>
       <code>libtirpc</code>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>perl-File-FcntlLock</code>
+  <description/>
+  <sourcefile>File-FcntlLock-0.22.tar.gz</sourcefile>
+  <sourcedir>File-FcntlLock-0.22</sourcedir>
+  <unpack/>
+  <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

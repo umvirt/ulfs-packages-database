@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>nodejs</code>
   <description>Tm9kZS5qcyBpcyBhIEphdmFTY3JpcHQgcnVudGltZSBidWlsdCBvbiBDaHJvbWUncyBWOCBKYXZhU2NyaXB0IGVuZ2luZS4NCg0K</description>
-  <sourcefile>node-v22.14.0.tar.xz</sourcefile>
-  <sourcedir>node-v22.14.0</sourcedir>
+  <sourcefile>node-v22.18.0.tar.xz</sourcefile>
+  <sourcedir>node-v22.18.0</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1icm90bGkgICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLWNhcmVzICAgICAgICAgXA0KICAgICAgICAgICAgLS1zaGFyZWQtbGlidXYgICAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1vcGVuc3NsICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLW5naHR0cDIgICAgICAgXA0KICAgICAgICAgICAgLS1zaGFyZWQtemxpYiAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtaW50bD1zeXN0ZW0taWN1IA0K</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1icm90bGkgICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLWNhcmVzICAgICAgICAgXA0KICAgICAgICAgICAgLS1zaGFyZWQtbGlidXYgICAgICAgICBcDQogICAgICAgICAgICAtLXNoYXJlZC1vcGVuc3NsICAgICAgIFwNCiAgICAgICAgICAgIC0tc2hhcmVkLW5naHR0cDIgICAgICAgXA0KICAgICAgICAgICAgLS1zaGFyZWQtemxpYiAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtaW50bD1zeXN0ZW0taWN1DQo=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIHRlc3Qtb25seQ0KZmk=</build>
-  <install>bWFrZSBpbnN0YWxsICYmDQpsbiAtc2Ygbm9kZSAvdXNyL3NoYXJlL2RvYy9ub2RlLTIyLjE0LjANCg==</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQpsbiAtc2Ygbm9kZSAvdXNyL3NoYXJlL2RvYy9ub2RlLTIyLjE4LjANCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

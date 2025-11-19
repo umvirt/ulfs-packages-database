@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>c-ares</code>
   <description>Yy1hcmVzIGlzIGEgQyBsaWJyYXJ5IGZvciBhc3luY2hyb25vdXMgRE5TIHJlcXVlc3RzLg==</description>
-  <sourcefile>c-ares-1.34.4.tar.gz</sourcefile>
-  <sourcedir>c-ares-1.34.4</sourcedir>
+  <sourcefile>c-ares-1.34.5.tar.gz</sourcefile>
+  <sourcedir>c-ares-1.34.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4g</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>

@@ -6,7 +6,7 @@
   <sourcefile>LibVNCServer-0.9.15.tar.gz</sourcefile>
   <sourcedir>libvncserver-LibVNCServer-0.9.15</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4=</configure>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EQ01BS0VfUE9MSUNZX1ZFUlNJT05fTUlOSU1VTT0zLjUgXA0KICAgICAgLi4=</configure>
   <build>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1ha2U=</build>
   <install>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1ha2UgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>

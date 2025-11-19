@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>squashfs</code>
   <description>VG9vbHMgdG8gY3JlYXRlIGFuZCBleHRyYWN0IFNxdWFzaGZzIGZpbGVzeXN0ZW1z</description>
-  <sourcefile>squashfs-tools-4.6.1.tar.gz</sourcefile>
-  <sourcedir>squashfs-tools-4.6.1</sourcedir>
+  <sourcefile>squashfs-tools-4.7.4.tar.gz</sourcefile>
+  <sourcedir>squashfs-tools-4.7.4</sourcedir>
   <unpack/>
   <configure>Y2Qgc3F1YXNoZnMtdG9vbHMNCnNlZCAtaSAicy9cL3VzclwvbG9jYWwvXC91c3IvIiBNYWtlZmlsZQ0Kc2VkIC1pICJzLyNYWl9TVVBQT1JUID0gMS9YWl9TVVBQT1JUID0gMS8iIE1ha2VmaWxlDQpzZWQgLWkgInMvI0xaT19TVVBQT1JUID0gMS9MWk9fU1VQUE9SVCA9IDEvIiBNYWtlZmlsZQ0Kc2VkIC1pICJzLyNMWjRfU1VQUE9SVCA9IDEvTFo0X1NVUFBPUlQgPSAxLyIgTWFrZWZpbGUNCnNlZCAtaSAicy8jWlNURF9TVVBQT1JUID0gMS9aU1REX1NVUFBPUlQgPSAxLyIgTWFrZWZpbGU=</configure>
   <build>Y2Qgc3F1YXNoZnMtdG9vbHMNCm1ha2U=</build>

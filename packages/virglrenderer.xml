@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>virglrenderer</code>
   <description>VmlyR0wgdmlydHVhbCBPcGVuR0wgcmVuZGVyZXI=</description>
-  <sourcefile>virglrenderer-1.1.1.tar.bz2</sourcefile>
-  <sourcedir>virglrenderer-1.1.1</sourcedir>
+  <sourcefile>virglrenderer-1.2.0.tar.bz2</sourcefile>
+  <sourcedir>virglrenderer-1.2.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC4uDQo=</configure>
   <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>

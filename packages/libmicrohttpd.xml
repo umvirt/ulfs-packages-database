@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libmicrohttpd</code>
   <description>R05VIGxpYm1pY3JvaHR0cGQgaXMgYSBzbWFsbCBDIGxpYnJhcnkgdGhhdCBtYWtlcyBpdCBlYXN5IHRvIHJ1biBhbiBIVFRQIHNlcnZlciBhcyBwYXJ0IG9mIGFub3RoZXIgYXBwbGljYXRpb24u</description>
-  <sourcefile>libmicrohttpd-1.0.1.tar.gz</sourcefile>
-  <sourcedir>libmicrohttpd-1.0.1</sourcedir>
+  <sourcefile>libmicrohttpd-1.0.2.tar.gz</sourcefile>
+  <sourcedir>libmicrohttpd-1.0.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

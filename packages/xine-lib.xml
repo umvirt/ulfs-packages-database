@@ -108,7 +108,12 @@
       <weight>24</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>xine-lib-1.2.13-gcc15_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

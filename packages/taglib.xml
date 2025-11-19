@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>taglib</code>
   <description>VGFnbGliIGlzIGEgbGlicmFyeSB1c2VkIGZvciByZWFkaW5nLCB3cml0aW5nIGFuZCBtYW5pcHVsYXRpbmcgYXVkaW8gZmlsZSB0YWdzIGFuZCBpcyB1c2VkIGJ5IGFwcGxpY2F0aW9ucyBzdWNoIGFzIEFtYXJvayBhbmQgVkxDLg0KDQo=</description>
-  <sourcefile>taglib-2.0.2.tar.gz</sourcefile>
-  <sourcedir>taglib-2.0.2</sourcedir>
+  <sourcefile>taglib-2.1.1.tar.gz</sourcefile>
+  <sourcedir>taglib-2.1.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgXA0KICAgICAgLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQogICAgICAuLiA=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>

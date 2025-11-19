@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>fmt</code>
   <description>QSBtb2Rlcm4gZm9ybWF0dGluZyBsaWJyYXJ5</description>
-  <sourcefile>fmt-11.1.4.tar.gz</sourcefile>
-  <sourcedir>fmt-11.1.4</sourcedir>
+  <sourcefile>fmt-11.2.0.tar.gz</sourcefile>
+  <sourcedir>fmt-11.2.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRElSPS91c3IvbGliIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgIFwNCiAgICAgIC1EIEZNVF9URVNUPU9GRiAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4u</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRElSPS91c3IvbGliIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgIFwNCiAgICAgIC1EIEZNVF9URVNUPU9GRiAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4uIA0K</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm5pbmph</build>
   <install>Y2QgICAgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>

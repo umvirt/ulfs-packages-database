@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>virt-manager</code>
   <description>VGhlIHZpcnQtbWFuYWdlciBhcHBsaWNhdGlvbiBpcyBhIGRlc2t0b3AgdXNlciBpbnRlcmZhY2UgZm9yIG1hbmFnaW5nIHZpcnR1YWwgbWFjaGluZXMgdGhyb3VnaCBsaWJ2aXJ0Lg==</description>
-  <sourcefile>virt-manager-5.0.0.tar.xz</sourcefile>
-  <sourcedir>virt-manager-5.0.0</sourcedir>
+  <sourcefile>virt-manager-5.1.0.tar.xz</sourcefile>
+  <sourcedir>virt-manager-5.1.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>

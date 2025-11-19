@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>cifs-utils</code>
   <description>VGhlIGNpZnMtdXRpbHMgcGFja2FnZSBwcm92aWRlcyBhIG1lYW5zIGZvciBtb3VudGluZyBTTUIvQ0lGUyBzaGFyZXMgb24gYSBMaW51eCBzeXN0ZW0u</description>
-  <sourcefile>cifs-utils-7.2.tar.bz2</sourcefile>
-  <sourcedir>cifs-utils-7.2</sourcedir>
+  <sourcefile>cifs-utils-7.4.tar.bz2</sourcefile>
+  <sourcedir>cifs-utils-7.4</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtcGFtZGlyPS91c3IvbGliL3NlY3VyaXR5DQoNCg==</configure>
+  <configure>YXV0b3JlY29uZiAtZml2DQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgLS13aXRoLXBhbWRpcj0vdXNyL2xpYi9zZWN1cml0eQ0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

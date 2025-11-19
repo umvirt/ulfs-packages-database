@@ -549,6 +549,7 @@
     <package>!icecream-sundae</package>
     <package>icemon</package>
     <package>extra-cmake-modules</package>
+    <package>extra-cmake-modules</package>
     <package>!libffi-x86-64</package>
     <package>mate-desktop</package>
     <package>Perl-XML-Simple</package>
@@ -738,7 +739,7 @@
     <package>mariadb-server</package>
     <package>mariadb-client</package>
     <package>unixODBC</package>
-    <package>pth</package>
+    <package>!pth</package>
     <package>postgresql-client</package>
     <package>postgresql-server</package>
     <package>cifs-utils</package>
@@ -1783,5 +1784,6 @@
     <package>python-pyqt5_sip</package>
     <package>gpgmepp</package>
     <package>fast_float</package>
+    <package>perl-File-FcntlLock</package>
   </packages>
 </packages>

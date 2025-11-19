@@ -6,7 +6,7 @@
   <sourcefile>cpio-2.15.tar.bz2</sourcefile>
   <sourcedir>cpio-2.15</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWJpbmRpcj0vYmluIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLW10ICAgXA0KICAgICAgICAgICAgLS13aXRoLXJtdD0vdXNyL2xpYmV4ZWMvcm10</configure>
+  <configure>c2VkIC1lICIvXmV4dGVybiBpbnQgKFwqeHN0YXQpL3MvKCkvKGNvbnN0IGNoYXIgKiByZXN0cmljdCwgIHN0cnVjdCBzdGF0ICogcmVzdHJpY3QpLyIgXA0KICAgIC1pIHNyYy9leHRlcm4uaA0Kc2VkIC1lICIvXmludCAoXCp4c3RhdCkvcy8oKS8oY29uc3QgY2hhciAqIHJlc3RyaWN0LCAgc3RydWN0IHN0YXQgKiByZXN0cmljdCkvIiBcDQogICAgLWkgc3JjL2dsb2JhbC5jDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgLS1iaW5kaXI9L2JpbiBcDQogICAgICAgICAgICAtLWVuYWJsZS1tdCAgIFwNCiAgICAgICAgICAgIC0td2l0aC1ybXQ9L3Vzci9saWJleGVjL3JtdA==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
