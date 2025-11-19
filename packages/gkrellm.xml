@@ -7,8 +7,8 @@
   <sourcedir>gkrellm-2.4.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>REVTVERJUj0vdXNyIG1ha2U=</build>
-  <install>REVTVERJUj0vdXNyIG1ha2UgaW5zdGFsbA0KDQpjYXQgPj4gL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvZ2tyZWxsbS5kZXNrdG9wIDw8IEVPRg0KW0Rlc2t0b3AgRW50cnldDQpOYW1lPWdrcmVsbG0NCkNvbW1lbnQ9Q2xhc3NpYyBHTlUvTGludXggU3lzdGVtIE1vbml0b3INCkV4ZWM9L3Vzci9iaW4vZ2tyZWxsbQ0KVGVybWluYWw9ZmFsc2UNClR5cGU9QXBwbGljYXRpb24NCkljb249bm9uZQ0KQ2F0ZWdvcmllcz1TeXN0ZW0NCkVPRg0K</install>
+  <build>bWFrZQ==</build>
+  <install>SU5TVEFMTFJPT1Q9L3VzciBtYWtlIGluc3RhbGwNCg0KY2F0ID4+IC91c3Ivc2hhcmUvYXBwbGljYXRpb25zL2drcmVsbG0uZGVza3RvcCA8PCBFT0YNCltEZXNrdG9wIEVudHJ5XQ0KTmFtZT1na3JlbGxtDQpDb21tZW50PUNsYXNzaWMgR05VL0xpbnV4IFN5c3RlbSBNb25pdG9yDQpFeGVjPS91c3IvYmluL2drcmVsbG0NClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9U3lzdGVtDQpFT0YNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -20,7 +20,12 @@
       <weight>2</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>gkrellm-cflags.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
