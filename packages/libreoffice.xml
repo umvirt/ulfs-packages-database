@@ -166,7 +166,6 @@
   </dependances>
   <patches/>
   <addons>
-    <addon>libreoffice-25.8.1.1.tar.xz</addon>
     <addon>libreoffice-help-25.8.1.1.tar.xz</addon>
     <addon>libreoffice-translations-25.8.1.1.tar.xz</addon>
     <addon>libreoffice-tarballs-25.8.1.1.tar</addon>
