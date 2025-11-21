@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>libiodbc</code>
+  <code>!libiodbc</code>
   <description>bGliaW9kYmMgaXMgYW4gQVBJIHRvIE9EQkMgY29tcGF0aWJsZSBkYXRhYmFzZXMu</description>
   <sourcefile>libiodbc-3.52.16.tar.gz</sourcefile>
   <sourcedir>libiodbc-3.52.16</sourcedir>

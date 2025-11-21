@@ -549,7 +549,6 @@
     <package>!icecream-sundae</package>
     <package>icemon</package>
     <package>extra-cmake-modules</package>
-    <package>extra-cmake-modules</package>
     <package>!libffi-x86-64</package>
     <package>mate-desktop</package>
     <package>Perl-XML-Simple</package>
@@ -759,7 +758,7 @@
     <package>raptor2</package>
     <package>rasqal</package>
     <package>redland</package>
-    <package>libiodbc</package>
+    <package>!libiodbc</package>
     <package>mate-utils</package>
     <package>network-manager-applet</package>
     <package>a52dec</package>
