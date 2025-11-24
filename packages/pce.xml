@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>pce</code>
   <description>UENFIGlzIGEgY29sbGVjdGlvbiBvZiBtaWNyb2NvbXB1dGVyIGVtdWxhdG9ycy4=</description>
-  <sourcefile>pce-20241018-86b4a1a0.tar.gz</sourcefile>
-  <sourcedir>pce-20241018-86b4a1a0</sourcedir>
+  <sourcefile>pce-20250420-cc0c583c.tar.gz</sourcefile>
+  <sourcedir>pce-20250420-cc0c583c</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLXdpdGgtc2RsIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLW1hY3BsdXMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyA=</configure>
   <build/>
@@ -16,7 +16,7 @@
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>SDL</code>
+      <code>sdl12-compat</code>
       <weight>2</weight>
     </dependance>
   </dependances>

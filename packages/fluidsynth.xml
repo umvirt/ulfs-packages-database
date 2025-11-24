@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>fluidsynth</code>
   <description>Rmx1aWRTeW50aCBpcyBhIHJlYWwtdGltZSBzb2Z0d2FyZSBzeW50aGVzaXplciBiYXNlZCBvbiB0aGUgU291bmRGb250IDIgc3BlY2lmaWNhdGlvbnMgYW5kIGhhcyByZWFjaGVkIHdpZGVzcHJlYWQgZGlzdHJpYnV0aW9uLg==</description>
-  <sourcefile>fluidsynth-2.4.3.tar.gz</sourcefile>
-  <sourcedir>fluidsynth-2.4.3</sourcedir>
+  <sourcefile>fluidsynth-2.5.1.tar.gz</sourcefile>
+  <sourcedir>fluidsynth-2.5.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgLi4=</configure>
+  <configure>dGFyIC14ZiAuLi9nY2VtLTEuMTguMC50YXIuZ3oNCm12IC12IGdjZW0tMS4xOC4wLyogZ2NlbQ0Kcm0gLXYgZ2NlbS0xLjE4LjANCg0KbWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgLi4=</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
   <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
@@ -37,7 +37,9 @@
     </dependance>
   </dependances>
   <patches/>
-  <addons/>
+  <addons>
+    <addon>gcem-1.18.0.tar.gz</addon>
+  </addons>
   <nestings/>
   <comments/>
 </package>

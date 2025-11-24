@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>PCem</code>
   <description>eDg2IGVtdWxhdG9y</description>
-  <sourcefile>PCemV17Linux.tar.gz</sourcefile>
-  <sourcedir>PCemV17Linux</sourcedir>
-  <unpack>bWtkaXIgUENlbVYxN0xpbnV4DQpjZCBQQ2VtVjE3TGludXgNCnRhciAteGYgLi4vUENlbVYxN0xpbnV4LnRhci5neg0KY2QgLi4=</unpack>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1pYm1wYy1yb20gLS1lbmFibGUtbWFjcGx1cy1yb20=</configure>
+  <sourcefile>pcem-930a0648e5675a53f7ee26953f921f77e2fa400c.tar.gz</sourcefile>
+  <sourcedir>pcem-930a0648e5675a53f7ee26953f921f77e2fa400c</sourcedir>
+  <unpack/>
+  <configure/>
   <build/>
-  <install>bWFrZSBpbnN0YWxsDQoNCm1rZGlyIC1wdiAvdXNyL3NoYXJlL3BjZW0vcm9tcw0KDQpjYXQgPj4gL3Vzci9zaGFyZS9hcHBsaWNhdGlvbnMvcGNlbS5kZXNrdG9wIDw8IEVPRg0KW0Rlc2t0b3AgRW50cnldDQpOYW1lPVBDZW0NCkNvbW1lbnQ9UENlbSBFbXVsYXRvcg0KRXhlYz0vdXNyL2Jpbi9wY2VtDQpUZXJtaW5hbD1mYWxzZQ0KVHlwZT1BcHBsaWNhdGlvbg0KSWNvbj1ub25lDQpDYXRlZ29yaWVzPVN5c3RlbTtFbXVsYXRvcjsNCkVPRg0K</install>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KbWtkaXIgLXB2IC91c3Ivc2hhcmUvcGNlbS9yb21zDQoNCmNhdCA+PiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9wY2VtLmRlc2t0b3AgPDwgRU9GDQpbRGVza3RvcCBFbnRyeV0NCk5hbWU9UENlbQ0KQ29tbWVudD1QQ2VtIEVtdWxhdG9yDQpFeGVjPS91c3IvYmluL3BjZW0NClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9U3lzdGVtO0VtdWxhdG9yOw0KRU9GDQo=</install>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>SDL2</code>
@@ -18,10 +19,6 @@
     <dependance>
       <code>sdl12-compat</code>
       <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>SDL</code>
-      <weight>3</weight>
     </dependance>
     <dependance>
       <code>wxWidgets</code>

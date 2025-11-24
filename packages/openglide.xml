@@ -12,8 +12,8 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>SDL</code>
-      <weight>1</weight>
+      <code>sdl12-compat</code>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>

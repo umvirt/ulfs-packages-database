@@ -32,10 +32,6 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>SDL</code>
-      <weight>6</weight>
-    </dependance>
-    <dependance>
       <code>SDL_net</code>
       <weight>7</weight>
     </dependance>

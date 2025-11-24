@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>sdl12-compat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libxml2</code>
       <weight>1</weight>
     </dependance>
@@ -26,10 +30,6 @@
     <dependance>
       <code>libgcrypt</code>
       <weight>4</weight>
-    </dependance>
-    <dependance>
-      <code>SDL</code>
-      <weight>5</weight>
     </dependance>
     <dependance>
       <code>audiofile</code>

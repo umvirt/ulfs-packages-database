@@ -847,7 +847,7 @@
     <package>utfcpp</package>
     <package>dosbox</package>
     <package>SDL2_net</package>
-    <package>SDL</package>
+    <package>!SDL</package>
     <package>SDL_net</package>
     <package>dosbox-staging</package>
     <package>opusfile</package>

@@ -6,7 +6,7 @@
   <sourcefile>audiofile-0.3.6.tar.gz</sourcefile>
   <sourcedir>audiofile-0.3.6</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>YXV0b3JlY29uZiAtZml2ICAgICAgICAgICAgICAgICAgICAgICAgICAgICANCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
