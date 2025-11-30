@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>openexr</code>
   <description>VGhlIE9wZW5FWFIgcHJvamVjdCBwcm92aWRlcyB0aGUgc3BlY2lmaWNhdGlvbiBhbmQgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBFWFIgZmlsZSBmb3JtYXQsIHRoZSBwcm9mZXNzaW9uYWwtZ3JhZGUgaW1hZ2Ugc3RvcmFnZSBmb3JtYXQgb2YgdGhlIG1vdGlvbiBwaWN0dXJlIGluZHVzdHJ5Lg==</description>
-  <sourcefile>openexr-3.3.2.tar.gz</sourcefile>
-  <sourcedir>openexr-3.3.2</sourcedir>
+  <sourcefile>openexr-3.3.5.tar.gz</sourcefile>
+  <sourcedir>openexr-3.3.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAuLg==</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>python3-Imath</code>

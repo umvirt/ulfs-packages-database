@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>prrte</code>
   <description>UE1JeCBSZWZlcmVuY2UgUnVuVGltZSBFbnZpcm9ubWVudCAoUFJSVEUp</description>
-  <sourcefile>prrte-3.0.5.tar.gz</sourcefile>
-  <sourcedir>prrte-3.0.5</sourcedir>
+  <sourcefile>prrte-3.0.12.tar.bz2</sourcefile>
+  <sourcedir>prrte-3.0.12</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure>
+  <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>

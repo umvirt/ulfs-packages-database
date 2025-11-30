@@ -1784,5 +1784,6 @@
     <package>gpgmepp</package>
     <package>fast_float</package>
     <package>perl-File-FcntlLock</package>
+    <package>gcc-multilib</package>
   </packages>
 </packages>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>openmpi</code>
   <description>SGlnaCBwZXJmb3JtYW5jZSBtZXNzYWdlIHBhc3NpbmcgbGlicmFyeSAoTVBJKQ==</description>
-  <sourcefile>openmpi-5.0.3.tar.bz2</sourcefile>
-  <sourcedir>openmpi-5.0.3</sourcedir>
+  <sourcefile>openmpi-5.0.9.tar.bz2</sourcefile>
+  <sourcedir>openmpi-5.0.9</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgLS1zeXNjb25mZGlyPS9ldGMvb3Blbm1waSBcDQogICAgLS1lbmFibGUtbXBpLWZvcnRyYW49YWxsIFwNCiAgICAtLWVuYWJsZS1idWlsdGluLWF0b21pY3MgXA0KICAgIC0td2l0aC12YWxncmluZCBcDQogICAgLS1lbmFibGUtbWVtY2hlY2tlciBcDQogICAgLS1lbmFibGUtcHJldHR5LXByaW50LXN0YWNrdHJhY2UgXA0KICAgIC0td2l0aG91dC1zbHVybSBcDQogICAgLS13aXRoLWh3bG9jPWV4dGVybmFsIFwNCiAgICAtLXdpdGgtbGliZXZlbnQ9ZXh0ZXJuYWwgXA0KICAgIC0td2l0aC1wbWl4PWV4dGVybmFsIFwNCiAgICAtLXdpdGgtcHJydGU9ZXh0ZXJuYWwg</configure>
   <build/>

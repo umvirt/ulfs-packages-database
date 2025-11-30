@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>oidn</code>
   <description>SW50ZWzCriBPcGVuIEltYWdlIERlbm9pc2UgbGlicmFyeQ==</description>
-  <sourcefile>oidn-2.3.2.src.tar.gz</sourcefile>
-  <sourcedir>oidn-2.3.2</sourcedir>
+  <sourcefile>oidn-2.3.3.src.tar.gz</sourcefile>
+  <sourcedir>oidn-2.3.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC4uIFwNCiAgICAtRyBOaW5qYSBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZQ0KDQo=</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>oneTBB</code>

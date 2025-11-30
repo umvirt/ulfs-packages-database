@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libspnav</code>
   <description>TGlicmFyeSBmb3IgY29tbXVuaWNhdGluZyB3aXRoIHNwYWNlbmF2ZCBvciAzZHhzcnYgdG8gZ2V0IGlucHV0IGZyb20gNi1kb2YgZGV2aWNlcy4=</description>
-  <sourcefile>libspnav-1.1.tar.gz</sourcefile>
-  <sourcedir>libspnav-1.1</sourcedir>
+  <sourcefile>libspnav-1.2.tar.gz</sourcefile>
+  <sourcedir>libspnav-1.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

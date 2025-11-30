@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>OpenShadingLanguage</code>
   <description>QWR2YW5jZWQgc2hhZGluZyBsYW5ndWFnZSBmb3IgcHJvZHVjdGlvbiBHSSByZW5kZXJlcnM=</description>
-  <sourcefile>OpenShadingLanguage-1.14.3.0-beta.tar.gz</sourcefile>
-  <sourcedir>OpenShadingLanguage-b795e3e92ae1f2c5da5024b61295b0eb41486a65</sourcedir>
+  <sourcefile>OpenShadingLanguage-1.14.7.0.tar.gz</sourcefile>
+  <sourcedir>OSL-1.14.7.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EQ01BS0VfQ1hYX1NUQU5EQVJEPTE3ICAgICAgXA0KICAgICAgLURTVE9QX09OX1dBUk5JTkc9T0ZGICAgICAgICBcDQogICAgICAuLg==</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>

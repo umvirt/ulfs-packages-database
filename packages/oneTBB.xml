@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>oneTBB</code>
   <description>b25lQVBJIFRocmVhZGluZyBCdWlsZGluZyBCbG9ja3MgKG9uZVRCQik=</description>
-  <sourcefile>oneTBB-v2021.13.0.tar.gz</sourcefile>
-  <sourcedir>oneTBB-2021.13.0</sourcedir>
+  <sourcefile>oneTBB-2022.3.0.tar.gz</sourcefile>
+  <sourcedir>oneTBB-2022.3.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAgIC4uIFwNCiAgICAgICAgLUcgJ1VuaXggTWFrZWZpbGVzJyBcDQogICAgICAgIC1EQ01BS0VfQlVJTERfVFlQRTpTVFJJTkc9J05vbmUnIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWDpQQVRIPScvdXNyJyBcDQogICAgICAgIC1EVEJCX1NUUklDVDpCT09MPSdPRkYnIFwNCiAgICAgICAgLURUQkI0UFlfQlVJTEQ6Qk9PTD0nT04nIFwNCiAgICAgICAgLVduby1kZXYNCg==</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
@@ -16,7 +16,12 @@
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>onetbb-fix-linkage-of-test-malloc-pure-c.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
