@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>shotcut</code>
   <description>U2hvdGN1dCBpcyBhIGZyZWUsIG9wZW4gc291cmNlLCBjcm9zcy1wbGF0Zm9ybSB2aWRlbyBlZGl0b3Iu</description>
-  <sourcefile>shotcut-25.03.29.tar.gz</sourcefile>
-  <sourcedir>shotcut-25.03.29</sourcedir>
+  <sourcefile>shotcut-25.10.31.tar.gz</sourcefile>
+  <sourcedir>shotcut-25.10.31</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRyBOaW5qYSBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>libepoxy</code>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>simde</code>
+  <description>SW1wbGVtZW50YXRpb25zIG9mIFNJTUQgaW5zdHJ1Y3Rpb24gc2V0cyBmb3Igc3lzdGVtcyB3aGljaCBkb24ndCBuYXRpdmVseSBzdXBwb3J0IHRoZW0u</description>
+  <sourcefile>simde-0.8.2.tar.gz</sourcefile>
+  <sourcedir>simde-0.8.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>meson</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

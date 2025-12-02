@@ -1785,5 +1785,7 @@
     <package>fast_float</package>
     <package>perl-File-FcntlLock</package>
     <package>gcc-multilib</package>
+    <package>simde</package>
+    <package>gnome-mahjongg</package>
   </packages>
 </packages>

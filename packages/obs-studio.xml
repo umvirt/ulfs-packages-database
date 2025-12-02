@@ -3,14 +3,19 @@
   <release>0.2.4</release>
   <code>obs-studio</code>
   <description>T0JTIFN0dWRpbyAtIEZyZWUgYW5kIG9wZW4gc291cmNlIHNvZnR3YXJlIGZvciBsaXZlIHN0cmVhbWluZyBhbmQgc2NyZWVuIHJlY29yZGluZw==</description>
-  <sourcefile>OBS-Studio-31.0.3-Sources.tar.gz</sourcefile>
-  <sourcedir>obs-studio-31.0.3-sources</sourcedir>
+  <sourcefile>OBS-Studio-32.0.2-Sources.tar.gz</sourcefile>
+  <sourcedir>obs-studio-32.0.2-sources</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmV4cG9ydCBDRkxBR1MrPSIgLVduby1lcnJvcj1kZXByZWNhdGVkLWRlY2xhcmF0aW9ucyINCmNtYWtlIC1HIE5pbmphIFwNCiAgICAgICAgLURFTkFCTEVfTkVXX01QRUdUU19PVVRQVVQ9T0ZGIFwNCiAgICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgICAgLURFTkFCTEVfQlJPV1NFUj1PRkYgXA0KCS1ERU5BQkxFX1BJUEVXSVJFPU9GRiBcDQoJLURFTkFCTEVfQUpBPTAgXA0KICAgICAgICAtREVOQUJMRV9XRUJSVEM9MCBcDQoJLURRVF9WRVJTSU9OPTYgXA0KICAgICAgICAtV25vLWRldiBcDQogICAgICAgIC4uDQo=</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
+    <dependance>
+      <code>simde</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>pciutils</code>
       <weight>1</weight>

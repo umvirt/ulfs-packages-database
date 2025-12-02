@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>abseil-cpp</code>
   <description>QWJzZWlsIENvbW1vbiBMaWJyYXJpZXMgKEMrKyk=</description>
-  <sourcefile>abseil-cpp-20250127.0.tar.gz</sourcefile>
-  <sourcedir>abseil-cpp-20250127.0</sourcedir>
+  <sourcefile>abseil-cpp-20250814.0.tar.gz</sourcefile>
+  <sourcedir>abseil-cpp-20250814.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBBQlNMX1BST1BBR0FURV9DWFhfU1REPU9OIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgXA0KICAgICAgLUcgTmluamEgLi4NCg==</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBBQlNMX1BST1BBR0FURV9DWFhfU1REPU9OIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgXA0KICAgICAgLUcgTmluamEgLi4gDQo=</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>googletest</code>

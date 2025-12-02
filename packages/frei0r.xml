@@ -6,10 +6,11 @@
   <sourcefile>frei0r-2.3.3.tar.gz</sourcefile>
   <sourcedir>frei0r-2.3.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4NCg==</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX1BPTElDWV9WRVJTSU9OX01JTklNVU09My41IFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
   <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
   <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>protobuf</code>
   <description>UHJvdG9jb2wgQnVmZmVycyAtIEdvb2dsZSdzIGRhdGEgaW50ZXJjaGFuZ2UgZm9ybWF0</description>
-  <sourcefile>protobuf-29.3.tar.gz</sourcefile>
-  <sourcedir>protobuf-29.3</sourcedir>
+  <sourcefile>protobuf-32.0.tar.gz</sourcefile>
+  <sourcedir>protobuf-32.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OICAgIFwNCiAgICAgIC1EIHByb3RvYnVmX0JVSUxEX1RFU1RTPU9GRiAgICAgICBcDQogICAgICAtRCBwcm90b2J1Zl9BQlNMX1BST1ZJREVSPXBhY2thZ2UgXA0KICAgICAgLUQgcHJvdG9idWZfQlVJTERfTElCVVBCPU9GRiAgICAgIFwNCiAgICAgIC1EIHByb3RvYnVmX0JVSUxEX1NIQVJFRF9MSUJTPU9OICBcDQogICAgICAtRyBOaW5qYSAuLiAgICAgIA==</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OICAgIFwNCiAgICAgIC1EIHByb3RvYnVmX0JVSUxEX1RFU1RTPU9GRiAgICAgICBcDQogICAgICAtRCBwcm90b2J1Zl9CVUlMRF9TSEFSRURfTElCUz1PTiAgXA0KICAgICAgLUcgTmluamEgLi4gICAgIA==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>abseil-cpp</code>

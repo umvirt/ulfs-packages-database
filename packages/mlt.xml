@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>mlt</code>
   <description>TUxUIE11bHRpbWVkaWEgRnJhbWV3b3Jr</description>
-  <sourcefile>mlt-7.30.0.tar.gz</sourcefile>
-  <sourcedir>mlt-7.30.0</sourcedir>
+  <sourcefile>mlt-7.32.0.tar.gz</sourcefile>
+  <sourcedir>mlt-7.32.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCgktRE1PRF9HTEFYTklNQVRFPU9OIFwNCgktRE1PRF9HTEFYTklNQVRFX1FUNj1PTiBcDQoJLURNT0RfUVQ2PU9OIFwNCgktRE1PRF9NT1ZJVD1PTiBcDQoJLURTV0lHX1BZVEhPTj1PTiBcDQogICAgICAgIC4u</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>libepoxy</code>

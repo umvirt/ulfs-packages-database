@@ -6,7 +6,7 @@
   <sourcefile>uchardet-0.0.8.tar.xz</sourcefile>
   <sourcedir>uchardet-0.0.8</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtREJVSUxEX1NUQVRJQz1PRkYgICAgICAgICAgXA0KICAgICAgLVduby1kZXYgLi4gICA=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1NUQVRJQz1PRkYgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX1BPTElDWV9WRVJTSU9OX01JTklNVU09My41IFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
