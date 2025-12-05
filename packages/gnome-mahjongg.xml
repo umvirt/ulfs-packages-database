@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>gnome-mahjongg</code>
   <description>TWFoam9uZ2cgZ2FtZSBmcm9tIEdOT01FIHByb2plY3Qu</description>
-  <sourcefile>gnome-mahjongg-3.36.2.tar.xz</sourcefile>
-  <sourcedir>gnome-mahjongg-3.36.2</sourcedir>
+  <sourcefile>gnome-mahjongg-3.38.3.tar.xz</sourcefile>
+  <sourcedir>gnome-mahjongg-3.38.3</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -24,6 +24,10 @@
   <patches>
     <patch>
       <filename>gnome-mahjongg-meson.patch</filename>
+      <mode>1</mode>
+    </patch>
+    <patch>
+      <filename>gnome-mahjongg-cairo.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

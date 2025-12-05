@@ -6,10 +6,11 @@
   <sourcefile>lilv-0.24.26.tar.xz</sourcefile>
   <sourcedir>lilv-0.24.26</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>zix</code>

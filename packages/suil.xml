@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>suil</code>
   <description/>
-  <sourcefile>suil-0.10.22.tar.xz</sourcefile>
-  <sourcedir>suil-0.10.22</sourcedir>
+  <sourcefile>suil-v0.10.24.tar.bz2</sourcefile>
+  <sourcedir>suil-v0.10.24</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

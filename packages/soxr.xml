@@ -6,10 +6,11 @@
   <sourcefile>soxr-0.1.3-Source.tar.xz</sourcefile>
   <sourcedir>soxr-0.1.3-Source</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC4uIC1HIE5pbmphIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtREJVSUxEX0VYQU1QTEVTPU9GRiBcDQogICAgLURCVUlMRF9TSEFSRURfTElCUz1PTg0K</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC4uIC1HIE5pbmphIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtREJVSUxEX0VYQU1QTEVTPU9GRiBcDQogICAgLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQogICAgLURDTUFLRV9QT0xJQ1lfVkVSU0lPTl9NSU5JTVVNPTMuNQ0K</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances/>
   <patches/>
   <addons/>

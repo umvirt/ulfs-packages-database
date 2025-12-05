@@ -7,9 +7,10 @@
   <sourcedir>zix-0.6.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgXA0KICAgICAgLS1saWJkaXI9L3Vzci9saWI=</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

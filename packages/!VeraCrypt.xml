@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>VeraCrypt</code>
+  <code>!VeraCrypt</code>
   <description>VmVyYUNyeXB0IGlzIGZyZWUgb3Blbi1zb3VyY2UgZGlzayBlbmNyeXB0aW9uIHNvZnR3YXJlIGZvciBXaW5kb3dzLCBNYWMgT1MgWCBhbmQgTGludXgu</description>
-  <sourcefile>VeraCrypt_1.26.20.tar.gz</sourcefile>
-  <sourcedir>VeraCrypt_1.26.20</sourcedir>
+  <sourcefile>VeraCrypt_1.26.24.tar.gz</sourcefile>
+  <sourcedir>VeraCrypt-VeraCrypt_1.26.24</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Y2Qgc3JjDQptYWtl</build>
@@ -20,11 +20,11 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>pcsc-lite</code>
+      <code>PCSC</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>fuse2</code>
+      <code>!fuse2</code>
       <weight>4</weight>
     </dependance>
   </dependances>

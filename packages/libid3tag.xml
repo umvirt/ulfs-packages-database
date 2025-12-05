@@ -6,10 +6,11 @@
   <sourcefile>libid3tag-0.16.3.tar.gz</sourcefile>
   <sourcedir>libid3tag</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgICAuLg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgICAtRENNQUtFX1BPTElDWV9WRVJTSU9OX01JTklNVU09My41IFwNCiAgICAgIC4u</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

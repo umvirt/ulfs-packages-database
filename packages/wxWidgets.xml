@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>wxWidgets</code>
   <description>d3hXaWRnZXRzIGlzIGEgQysrIGxpYnJhcnkgdGhhdCBsZXRzIGRldmVsb3BlcnMgY3JlYXRlIGFwcGxpY2F0aW9ucyBmb3IgV2luZG93cywgbWFjT1MsIExpbnV4IGFuZCBvdGhlciBwbGF0Zm9ybXMgd2l0aCBhIHNpbmdsZSBjb2RlIGJhc2Uu</description>
-  <sourcefile>wxWidgets-3.3.1.tar.bz2</sourcefile>
-  <sourcedir>wxWidgets-3.3.1</sourcedir>
+  <sourcefile>wxWidgets-3.2.7.tar.bz2</sourcefile>
+  <sourcedir>wxWidgets-3.2.7</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXdpdGgtZ3Rr</configure>
   <build/>

@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>sratom</code>
   <description>U3JhdG9tIGlzIGEgc21hbGwgbGlicmFyeSBmb3Igc2VyaWFsaXppbmcgTFYyIGF0b21zLiBTcmF0b20gcmVhZHMvd3JpdGVzIGF0b21zIGZyb20vdG8gUkRGLCBhbGxvd2luZyB0aGVtIHRvIGJlIGNvbnZlcnRlZCBiZXR3ZWVuIGJpbmFyeSBhbmQgdGV4dCBvciBzdG9yZWQgaW4gYSBtb2RlbC4=</description>
-  <sourcefile>sratom-0.6.18.tar.gz</sourcefile>
-  <sourcedir>sratom-0.6.18</sourcedir>
+  <sourcefile>sratom-v0.6.20.tar.bz2</sourcefile>
+  <sourcedir>sratom-v0.6.20</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

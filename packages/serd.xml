@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>serd</code>
   <description>U2VyZCBpcyBhIGxpZ2h0d2VpZ2h0IEMgbGlicmFyeSBmb3Igd29ya2luZyB3aXRoIFJERiBkYXRhLg==</description>
-  <sourcefile>serd-v0.32.4.tar.gz</sourcefile>
-  <sourcedir>serd-v0.32.4</sourcedir>
+  <sourcefile>serd-v0.32.6.tar.bz2</sourcefile>
+  <sourcedir>serd-v0.32.6</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgXA0KICAgICAgLS1saWJkaXI9L3Vzci9saWINCg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

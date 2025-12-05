@@ -6,7 +6,7 @@
   <sourcefile>portaudio-19.7.0.tar.gz</sourcefile>
   <sourcedir>portaudio-19.7.0</sourcedir>
   <unpack/>
-  <configure>Y2QgYmluZGluZ3MvY3BwDQphdXRvcmVjb25mIC1maXYNCg0KY2QgLi4vLi4NCmF1dG9yZWNvbmYgLWZpdg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWN4eA0K</configure>
+  <configure>ZXhwb3J0IENGTEFHUys9IiAtc3RkPWdudTE3Ig0KDQpjZCBiaW5kaW5ncy9jcHANCmF1dG9yZWNvbmYgLWZpdg0KDQpjZCAuLi8uLg0KYXV0b3JlY29uZiAtZml2DQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgLS1lbmFibGUtY3h4DQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

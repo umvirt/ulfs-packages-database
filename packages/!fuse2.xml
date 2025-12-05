@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>fuse2</code>
+  <code>!fuse2</code>
   <description>VGhlIHJlZmVyZW5jZSBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgTGludXggRlVTRSAoRmlsZXN5c3RlbSBpbiBVc2Vyc3BhY2UpIGludGVyZmFjZS4=</description>
   <sourcefile>fuse-2.9.9.tar.gz</sourcefile>
   <sourcedir>fuse-2.9.9</sourcedir>
