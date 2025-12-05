@@ -1769,5 +1769,6 @@
     <package>termrec</package>
     <package>nyancat</package>
     <package>mbuffer</package>
+    <package>gnome-mahjongg</package>
   </packages>
 </packages>

@@ -35,6 +35,10 @@
       <code>five-or-more</code>
       <weight>6</weight>
     </dependance>
+    <dependance>
+      <code>gnome-mahjongg</code>
+      <weight>7</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
