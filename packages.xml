@@ -1007,7 +1007,7 @@
     <package>minizip</package>
     <package>fastfetch</package>
     <package>pv</package>
-    <package>bb</package>
+    <package>!bb</package>
     <package>libmikmod</package>
     <package>aview</package>
     <package>font-cursor-misc</package>
@@ -1029,7 +1029,7 @@
     <package>wine</package>
     <package>winetricks</package>
     <package>cabextract</package>
-    <package>duckstation</package>
+    <package>!duckstation</package>
     <package>chocolate-doom</package>
     <package>freedoom</package>
     <package>ZMusic</package>
@@ -1040,7 +1040,7 @@
     <package>cubeb</package>
     <package>freedm</package>
     <package>TiMidity</package>
-    <package>extremetuxracer</package>
+    <package>!extremetuxracer</package>
     <package>gzdoom</package>
     <package>ftgl</package>
     <package>mgba</package>

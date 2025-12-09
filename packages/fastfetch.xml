@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>fastfetch</code>
   <description/>
-  <sourcefile>fastfetch-2.40.4.tar.gz</sourcefile>
-  <sourcedir>fastfetch-2.40.4</sourcedir>
+  <sourcefile>fastfetch-2.56.0.tar.gz</sourcefile>
+  <sourcedir>fastfetch-2.56.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KDQpjbWFrZSAuLiAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3Ig</configure>
-  <build>Y2QgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

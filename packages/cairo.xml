@@ -36,12 +36,7 @@
       <weight>6</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>cairo-1.18.2-upstream_fixes-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>ZMusic</code>
   <description>R1pEb29tJ3MgbXVzaWMgc3lzdGVtIGFzIGEgc3RhbmRhbG9uZSBsaWJyYXJ5</description>
-  <sourcefile>ZMusic-1.1.14.tar.gz</sourcefile>
-  <sourcedir>ZMusic-1.1.14</sourcedir>
+  <sourcefile>ZMusic-1.3.0.tar.gz</sourcefile>
+  <sourcedir>ZMusic-1.3.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgICAuLg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>TiMidity</code>

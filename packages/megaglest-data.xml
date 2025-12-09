@@ -6,10 +6,11 @@
   <sourcefile>megaglest-data-3.13.0.tar.xz</sourcefile>
   <sourcedir>megaglest-3.13.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4NCg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9QT0xJQ1lfVkVSU0lPTl9NSU5JTVVNPTMuNSBcDQogICAgICAuLg0K</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

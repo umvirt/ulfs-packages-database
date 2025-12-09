@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>swtpm</code>
   <description>TGlidHBtcy1iYXNlZCBUUE0gZW11bGF0b3Igd2l0aCBzb2NrZXQsIGNoYXJhY3RlciBkZXZpY2UsIGFuZCBMaW51eCBDVVNFIGludGVyZmFjZS4=</description>
-  <sourcefile>swtpm-0.10.0.tar.gz</sourcefile>
-  <sourcedir>swtpm-0.10.0</sourcedir>
+  <sourcefile>swtpm-0.10.1.tar.gz</sourcefile>
+  <sourcedir>swtpm-0.10.1</sourcedir>
   <unpack/>
   <configure>Li9hdXRvZ2VuLnNoDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>

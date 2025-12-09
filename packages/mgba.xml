@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>mgba</code>
   <description>bUdCQSBHYW1lIEJveSBBZHZhbmNlIEVtdWxhdG9y</description>
-  <sourcefile>mgba-0.10.3.tar.gz</sourcefile>
-  <sourcedir>mgba-0.10.3</sourcedir>
+  <sourcefile>mgba-0.10.5.tar.gz</sourcefile>
+  <sourcedir>mgba-0.10.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgICAuLg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgICAtRENNQUtFX1BPTElDWV9WRVJTSU9OX01JTklNVU09My41IFwNCiAgICAgIC4u</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>SDL2</code>

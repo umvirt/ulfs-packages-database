@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>SFML</code>
   <description>U0ZNTCBwcm92aWRlcyBhIHNpbXBsZSBpbnRlcmZhY2UgdG8gdGhlIHZhcmlvdXMgY29tcG9uZW50cyBvZiB5b3VyIFBDLCB0byBlYXNlIHRoZSBkZXZlbG9wbWVudCBvZiBnYW1lcyBhbmQgbXVsdGltZWRpYSBhcHBsaWNhdGlvbnMuIEl0IGlzIGNvbXBvc2VkIG9mIGZpdmUgbW9kdWxlczogc3lzdGVtLCB3aW5kb3csIGdyYXBoaWNzLCBhdWRpbyBhbmQgbmV0d29yay4=</description>
-  <sourcefile>SFML-2.6.2.tar.gz</sourcefile>
-  <sourcedir>SFML-2.6.2</sourcedir>
+  <sourcefile>SFML-3.0.2.tar.gz</sourcefile>
+  <sourcedir>SFML-3.0.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EU0ZNTF9QS0dDT05GSUdfSU5TVEFMTF9QUkVGSVg9L3Vzci9saWIvcGtnY29uZmlnLyBcDQogICAgICAuLg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>libvorbis</code>

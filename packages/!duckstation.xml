@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>duckstation</code>
+  <code>!duckstation</code>
   <description>RmFzdCBQbGF5U3RhdGlvbiAxIGVtdWxhdG9yIGZvciB4ODYtNjQvQUFyY2gzMi9BQXJjaDY0L1JWNjQ=</description>
-  <sourcefile>duckstation-0.1-8861.tar.gz</sourcefile>
-  <sourcedir>duckstation-0.1-8861</sourcedir>
+  <sourcefile>duckstation-0.1-10193.tar.gz</sourcefile>
+  <sourcedir>duckstation-0.1-10193</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkIA0KDQpjbWFrZSAtRyBOaW5qYSBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS9vcHQvZHVja3N0YXRpb24gXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
+  <build/>
   <install>Y2QgYnVpbGQNCg0KbWtkaXIgL29wdC9kdWNrc3RhdGlvbg0KY3AgLXJ2IGJpbi8qIC9vcHQvZHVja3N0YXRpb24=</install>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>llvm</code>

@@ -31,7 +31,7 @@
   <archpackages>
     <archpackage>
       <arch>lib32_amd64</arch>
-      <configure>Q0M9ImdjYyAtbTMyIiBcDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQouL2NvbmZpZ3VyZSBcDQogICAgICAgIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAtLWxpYmRpcj0vdXNyL2xpYjMy</configure>
+      <configure>c2VkICcvdHlwZWRlZiBlbnVtLywvYm9vbCA7L2QnIC1pIFwNCiAgc3JjL0FMQUMvYWxhY197ZW4sZGV9Y29kZXIuYw0KDQpDQz0iZ2NjIC1tMzIiIFwNClBLR19DT05GSUdfUEFUSD0iL3Vzci9saWIzMi9wa2djb25maWciIFwNCi4vY29uZmlndXJlIFwNCiAgICAgICAgLS1wcmVmaXg9L3VzciBcDQogICAgICAgIC0tbGliZGlyPS91c3IvbGliMzI=</configure>
       <build/>
       <install>bWFrZSBERVNURElSPSRQV0QvREVTVERJUiBpbnN0YWxsDQpjcCAtUnYgREVTVERJUi91c3IvbGliMzIvKiAvdXNyL2xpYjMy</install>
     </archpackage>
