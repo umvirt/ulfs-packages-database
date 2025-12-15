@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>epiphany</code>
   <description>RXBpcGhhbnkgaXMgYSBzaW1wbGUgeWV0IHBvd2VyZnVsIEdOT01FIHdlYiBicm93c2VyIHRhcmdldGVkIGF0IG5vbi10ZWNobmljYWwgdXNlcnMuIEl0cyBwcmluY2lwbGVzIGFyZSBzaW1wbGljaXR5IGFuZCBzdGFuZGFyZHMgY29tcGxpYW5jZS4=</description>
-  <sourcefile>epiphany-47.3.1.tar.xz</sourcefile>
-  <sourcedir>epiphany-47.3.1</sourcedir>
+  <sourcefile>epiphany-48.5.tar.xz</sourcefile>
+  <sourcedir>epiphany-48.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiANCg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>nettle</code>

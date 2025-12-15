@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>FileZilla</code>
   <description>RmlsZVppbGxhwq4sIHRoZSBmcmVlIEZUUCBzb2x1dGlvbi4gVGhlIEZpbGVaaWxsYSBDbGllbnQgbm90IG9ubHkgc3VwcG9ydHMgRlRQLCBidXQgYWxzbyBGVFAgb3ZlciBUTFMgKEZUUFMpIGFuZCBTRlRQLg==</description>
-  <sourcefile>FileZilla_3.69.1_src.tar.xz</sourcefile>
-  <sourcedir>filezilla-3.69.1</sourcedir>
+  <sourcefile>FileZilla_3.69.5_src.tar.xz</sourcefile>
+  <sourcedir>filezilla-3.69.5</sourcedir>
   <unpack/>
   <configure/>
   <build/>

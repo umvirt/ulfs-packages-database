@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>Botan</code>
   <description>Qm90YW4gKEphcGFuZXNlIGZvciBwZW9ueSBmbG93ZXIpIGlzIGEgY3J5cHRvZ3JhcGh5IGxpYnJhcnk=</description>
-  <sourcefile>Botan-3.7.1.tar.xz</sourcefile>
-  <sourcedir>Botan-3.7.1</sourcedir>
+  <sourcefile>Botan-3.10.0.tar.xz</sourcefile>
+  <sourcedir>Botan-3.10.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUucHkgXA0KICAgIC0tcHJlZml4PS91c3IgXA0KICAgIC0td2l0aC1iemlwIFwNCiAgICAtLXdpdGgtbHptYSBcDQogICAgLS13aXRoLXpsaWIgXA0KICAgIC0td2l0aC1ib29zdCBcDQogICAgLS13aXRoLXNxbGl0ZTMgXA0KICAgIC0td2l0aC1vcy1mZWF0dXJlPWdldHJhbmRvbQ0K</configure>
   <build/>

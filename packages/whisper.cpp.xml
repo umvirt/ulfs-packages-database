@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>whisper.cpp</code>
   <description>UG9ydCBvZiBPcGVuQUkncyBXaGlzcGVyIG1vZGVsIGluIEMvQysr</description>
-  <sourcefile>whisper.cpp-1.7.5.tar.gz</sourcefile>
-  <sourcedir>whisper.cpp-1.7.5</sourcedir>
+  <sourcefile>whisper.cpp-1.8.2.tar.gz</sourcefile>
+  <sourcedir>whisper.cpp-1.8.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgR0dNTF9CTEFTPTEgICAgICAgICAgICAgICBcDQogICAgICAtRCBXSElTUEVSX0ZGTVBFRz15ZXMgICAgICAgIFwNCiAgICAgIC1EIFdISVNQRVJfU0RMMj1PTiAgICAgICAgICAgXA0KICAgICAgLVcgbm8tZGV2IC4uICA=</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>SDL2</code>
@@ -24,12 +25,7 @@
       <weight>3</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>whisper.cpp-ffmpeg.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

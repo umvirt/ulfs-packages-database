@@ -6,10 +6,11 @@
   <sourcefile>utf8proc-2.9.0.tar.gz</sourcefile>
   <sourcedir>utf8proc-2.9.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkIA0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgICAgICBcDQogICAgICAtVyBuby1kZXYgLUcgTmluamEgLi4gICAgICAg</configure>
-  <build>Y2QgICAgICAgYnVpbGQgDQpuaW5qYQ==</build>
-  <install>Y2QgICAgICAgYnVpbGQgDQpuaW5qYSBpbnN0YWxs</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRENNQUtFX1BPTElDWV9WRVJTSU9OX01JTklNVU09My41IFwNCiAgICAgIC1HIE5pbmphIC4uDQo=</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances/>
   <patches/>
   <addons/>

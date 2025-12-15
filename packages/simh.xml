@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>simh</code>
   <description>U2ltSCAoSGlzdG9yeSBTaW11bGF0b3IpIGlzIGEgY29sbGVjdGlvbiBvZiBzaW11bGF0b3JzIGZvciBoaXN0b3JpY2FsbHkgc2lnbmlmaWNhbnQgb3IganVzdCBwbGFpbiBpbnRlcmVzdGluZyBjb21wdXRlciBoYXJkd2FyZSBhbmQgc29mdHdhcmUgZnJvbSB0aGUgcGFzdC4=</description>
-  <sourcefile>simhv312-5.zip</sourcefile>
-  <sourcedir>sim</sourcedir>
-  <unpack>dW56aXAgc2ltaHYzMTItNS56aXA=</unpack>
-  <configure>c2VkIC1pICcvUmV0cnkgeW91ciBidWlsZCB3aXRob3V0IHNwZWNpZnlpbmcgVVNFX05FVFdPUksvZCcgbWFrZWZpbGU=</configure>
-  <build>bWtkaXIgLXAgQklODQptYWtlIFVTRV9TSEFSRUQ9MSBVU0VfTkVUV09SSz0xIE5FVFdPUktfT1BUPSctRFVTRV9ORVRXT1JLIC1ESEFWRV9UQVBfTkVUV09SSycNCg==</build>
-  <install>Y2QgQklODQpybWRpciBidWlsZHRvb2xzDQoNCmZvciBpIGluICo7IGRvDQoNCmluc3RhbGwgLUQgJGkgIi91c3IvYmluL3NpbWgtJGkiDQoNCmRvbmUNCg0KY2QgLi4vVkFYDQpta2RpciAtcHYgL3Vzci9saWIvc2ltaA0KY3AgLXYgKi5iaW4gL3Vzci9saWIvc2ltaA0K</install>
+  <sourcefile>simh-4d38373206cd7c0ce8b94f5e16bd4429cb96430f.tar.xz</sourcefile>
+  <sourcedir>simh-4d38373206cd7c0ce8b94f5e16bd4429cb96430f</sourcedir>
+  <unpack/>
+  <configure>ZXhwb3J0IENDPSJnY2MgLXN0ZD1nbnUxNyINCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg0K</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>libarchive</code>
@@ -28,12 +29,7 @@
       <weight>4</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>simh-gcc14.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>
