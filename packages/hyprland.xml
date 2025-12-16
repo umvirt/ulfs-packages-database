@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>hyprland</code>
   <description>SHlwcmxhbmQgaXMgYW4gaW5kZXBlbmRlbnQsIGhpZ2hseSBjdXN0b21pemFibGUsIGR5bmFtaWMgdGlsaW5nIFdheWxhbmQgY29tcG9zaXRvciB0aGF0IGRvZXNuJ3Qgc2FjcmlmaWNlIG9uIGl0cyBsb29rcy4=</description>
-  <sourcefile>hyprland-0.47.2.tar.gz</sourcefile>
+  <sourcefile>hyprland-0.50.1.tar.gz</sourcefile>
   <sourcedir>hyprland-source</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLVduby1kZXYgXA0KICAgICAgLi4NCg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>Iw==</configure>
+  <build>bWFrZSByZWxlYXNlIFBSRUZJWD0vdXNy</build>
+  <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

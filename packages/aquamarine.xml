@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>aquamarine</code>
   <description>QXF1YW1hcmluZSBpcyBhIHZlcnkgbGlnaHQgbGludXggcmVuZGVyaW5nIGJhY2tlbmQgbGlicmFyeQ==</description>
-  <sourcefile>aquamarine-0.8.0.tar.gz</sourcefile>
-  <sourcedir>aquamarine-0.8.0</sourcedir>
+  <sourcefile>aquamarine-0.9.2.tar.gz</sourcefile>
+  <sourcedir>aquamarine-0.9.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLVduby1kZXYgXA0KICAgICAgLi4=</configure>
-  <build>Y2QgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>IyBJZiBNZXNhIGxpYkdMIGlzIGluc3RhbGxlZCwgZm9yY2UgQ01ha2UgdG8gdXNlIGl0DQppZiAhIHBrZ2NvbmYgbGliZ2x2bmQ7IHRoZW4NCnNlZCAtaSAncy9PcGVuR0w6Ok9wZW5HTC9PcGVuR0w6OkdML2cnICAgXA0KICAgIENNYWtlTGlzdHMudHh0DQpmaQ0KDQpta2RpciBidWlsZA0KY2QgICAgYnVpbGQNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgXA0KICAgICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgIFwNCiAgICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OICAgICBcDQogICAgICAgIC1HIE5pbmphIC4u</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>libdrm</code>

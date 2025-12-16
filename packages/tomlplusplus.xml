@@ -6,10 +6,11 @@
   <sourcefile>tomlplusplus-3.4.0.tar.gz</sourcefile>
   <sourcedir>tomlplusplus-3.4.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9JFhPUkdfUFJFRklYIA==</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphDQoNCg==</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

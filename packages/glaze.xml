@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>glaze</code>
   <description>RXh0cmVtZWx5IGZhc3QsIGluIG1lbW9yeSwgSlNPTiBhbmQgaW50ZXJmYWNlIGxpYnJhcnkgZm9yIG1vZGVybiBDKys=</description>
-  <sourcefile>glaze-5.1.0.tar.gz</sourcefile>
-  <sourcedir>glaze-5.1.0</sourcedir>
+  <sourcefile>glaze-5.5.5.tar.gz</sourcefile>
+  <sourcedir>glaze-5.5.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURCVUlMRF9URVNUSU5HPU9GRiBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgICAtV25vLWRldiBcDQogICAgICAuLg0K</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBCVUlMRF9URVNUSU5HPU9GRiAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4uDQogICAgICANCg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>ut</code>

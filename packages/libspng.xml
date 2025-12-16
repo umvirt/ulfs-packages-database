@@ -6,10 +6,11 @@
   <sourcefile>libspng-0.7.4.tar.gz</sourcefile>
   <sourcedir>libspng-0.7.4</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyICANCg==</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KbG4gLXNmdiBsaWJzcG5nLnBjIC91c3IvbGliL3BrZ2NvbmZpZy9zcG5nLnBj</install>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances/>
   <patches/>
   <addons/>

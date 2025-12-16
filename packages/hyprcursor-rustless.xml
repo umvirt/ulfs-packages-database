@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>hyprcursor-rustless</code>
   <description>VGhlIGh5cHJsYW5kIGN1cnNvciBmb3JtYXQsIGxpYnJhcnkgYW5kIHV0aWxpdGllcy4=</description>
-  <sourcefile>hyprcursor-0.1.12.tar.gz</sourcefile>
-  <sourcedir>hyprcursor-0.1.12</sourcedir>
+  <sourcefile>hyprcursor-0.1.13.tar.gz</sourcefile>
+  <sourcedir>hyprcursor-0.1.13</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLVduby1kZXYgXA0KICAgICAgLi4=</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>cairo</code>
