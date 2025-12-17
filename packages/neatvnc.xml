@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>neatvnc</code>
   <description>QSBsaWJlcmFsbHkgbGljZW5zZWQgVk5DIHNlcnZlciBsaWJyYXJ5IHdpdGggYSBjbGVhbiBpbnRlcmZhY2U=</description>
-  <sourcefile>neatvnc-0.9.4.tar.gz</sourcefile>
-  <sourcedir>neatvnc-0.9.4</sourcedir>
+  <sourcefile>neatvnc-0.9.5.tar.gz</sourcefile>
+  <sourcedir>neatvnc-0.9.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgIC1EanBlZz1lbmFibGVkICAgICAgICBcDQogICAgICAtRHRscz1lbmFibGVkDQo=</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>libdrm</code>

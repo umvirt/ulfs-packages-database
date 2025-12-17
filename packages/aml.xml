@@ -6,10 +6,11 @@
   <sourcefile>aml-0.3.0.tar.gz</sourcefile>
   <sourcedir>aml-0.3.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3Vzcg0K</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

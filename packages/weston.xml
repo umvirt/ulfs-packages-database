@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>libdisplay-info</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>pipewire</code>
       <weight>1</weight>
     </dependance>
@@ -28,7 +32,16 @@
       <weight>4</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>weston-libdisplay-info3.patch</filename>
+      <mode>1</mode>
+    </patch>
+    <patch>
+      <filename>weston-libdisplay-info3.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
