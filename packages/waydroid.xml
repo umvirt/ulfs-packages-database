@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>waydroid</code>
   <description>QSBjb250YWluZXItYmFzZWQgYXBwcm9hY2ggdG8gYm9vdCBhIGZ1bGwgQW5kcm9pZCBzeXN0ZW0gb24gcmVndWxhciBHTlUvTGludXggc3lzdGVtcyBydW5uaW5nIFdheWxhbmQgYmFzZWQgZGVza3RvcCBlbnZpcm9ubWVudHMu</description>
-  <sourcefile>waydroid-1.5.1.tar.gz</sourcefile>
-  <sourcedir>waydroid-1.5.1</sourcedir>
+  <sourcefile>waydroid-1.6.0.tar.gz</sourcefile>
+  <sourcedir>waydroid-1.6.0</sourcedir>
   <unpack/>
   <configure>IyBSZW1vdmUgbGluayBmb3IgUk9NIGZpbGVzDQpzZWQgLWkgLWUgJy8ic3lzdGVtX2NoYW5uZWwiOi8gcy86ICIuKiIvOiAiIi8nIHRvb2xzL2NvbmZpZy9fX2luaXRfXy5weQ0Kc2VkIC1pIC1lICcvInZlbmRvcl9jaGFubmVsIjovIHMvOiAiLioiLzogIiIvJyB0b29scy9jb25maWcvX19pbml0X18ucHkNCg==</configure>
   <build>Iw==</build>

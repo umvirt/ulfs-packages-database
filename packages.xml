@@ -1787,5 +1787,7 @@
     <package>gcc-multilib</package>
     <package>simde</package>
     <package>gnome-mahjongg</package>
+    <package>notification-daemon</package>
+    <package>mako</package>
   </packages>
 </packages>
