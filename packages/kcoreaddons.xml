@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kcoreaddons</code>
   <description/>
-  <sourcefile>kcoreaddons-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kcoreaddons-6.11.0</sourcedir>
+  <sourcefile>kcoreaddons-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kcoreaddons-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

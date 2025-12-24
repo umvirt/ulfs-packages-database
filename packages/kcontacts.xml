@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kcontacts</code>
   <description/>
-  <sourcefile>kcontacts-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kcontacts-6.11.0</sourcedir>
+  <sourcefile>kcontacts-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kcontacts-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

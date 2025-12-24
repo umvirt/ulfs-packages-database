@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>ksvg</code>
   <description/>
-  <sourcefile>ksvg-6.11.0.tar.xz</sourcefile>
-  <sourcedir>ksvg-6.11.0</sourcedir>
+  <sourcefile>ksvg-6.17.0.tar.xz</sourcefile>
+  <sourcedir>ksvg-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

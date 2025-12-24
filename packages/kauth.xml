@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kauth</code>
   <description/>
-  <sourcefile>kauth-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kauth-6.11.0</sourcedir>
+  <sourcefile>kauth-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kauth-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdbusaddons</code>
   <description/>
-  <sourcefile>kdbusaddons-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kdbusaddons-6.11.0</sourcedir>
+  <sourcefile>kdbusaddons-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kdbusaddons-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

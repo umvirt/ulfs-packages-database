@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdav</code>
   <description/>
-  <sourcefile>kdav-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kdav-6.11.0</sourcedir>
+  <sourcefile>kdav-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kdav-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

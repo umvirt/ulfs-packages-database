@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kservice</code>
   <description/>
-  <sourcefile>kservice-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kservice-6.11.0</sourcedir>
+  <sourcefile>kservice-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kservice-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

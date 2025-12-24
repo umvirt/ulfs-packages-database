@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kwindowsystem</code>
   <description/>
-  <sourcefile>kwindowsystem-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kwindowsystem-6.11.0</sourcedir>
+  <sourcefile>kwindowsystem-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kwindowsystem-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kitemmodels</code>
   <description/>
-  <sourcefile>kitemmodels-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kitemmodels-6.11.0</sourcedir>
+  <sourcefile>kitemmodels-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kitemmodels-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

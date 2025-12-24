@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>plasma-wayland-protocols</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgY3VzdG9tIHNldCBvZiBwcm90b2NvbCBkZWZpbml0aW9ucyBmb3IgS0RFLg==</description>
-  <sourcefile>plasma-wayland-protocols-1.16.0.tar.xz</sourcefile>
-  <sourcedir>plasma-wayland-protocols-1.16.0</sourcedir>
+  <sourcefile>plasma-wayland-protocols-1.18.0.tar.xz</sourcefile>
+  <sourcedir>plasma-wayland-protocols-1.18.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4NCg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure/>
+  <build>DQo=</build>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>extra-cmake-modules</code>

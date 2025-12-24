@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdnssd</code>
   <description/>
-  <sourcefile>kdnssd-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kdnssd-6.11.0</sourcedir>
+  <sourcefile>kdnssd-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kdnssd-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

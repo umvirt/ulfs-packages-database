@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kidletime</code>
   <description/>
-  <sourcefile>kidletime-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kidletime-6.11.0</sourcedir>
+  <sourcefile>kidletime-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kidletime-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>threadweaver</code>
   <description/>
-  <sourcefile>threadweaver-6.11.0.tar.xz</sourcefile>
-  <sourcedir>threadweaver-6.11.0</sourcedir>
+  <sourcefile>threadweaver-6.17.0.tar.xz</sourcefile>
+  <sourcedir>threadweaver-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

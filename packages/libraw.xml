@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>libraw</code>
   <description>TGlicmF3IGlzIGEgbGlicmFyeSBmb3IgcmVhZGluZyBSQVcgZmlsZXMgb2J0YWluZWQgZnJvbSBkaWdpdGFsIGNhbWVyYXMgKENSVy9DUjIsIE5FRiwgUkFGLCBETkcsIGFuZCBvdGhlcnMpLg==</description>
-  <sourcefile>LibRaw-0.21.3.tar.gz</sourcefile>
-  <sourcedir>LibRaw-0.21.3</sourcedir>
+  <sourcefile>LibRaw-0.21.4.tar.gz</sourcefile>
+  <sourcedir>LibRaw-0.21.4</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1qcGVnICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWphc3BlciAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGNtcyAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnJhdy0wLjIxLjMg</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1qcGVnICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWphc3BlciAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGNtcyAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnJhdy0wLjIxLjQNCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

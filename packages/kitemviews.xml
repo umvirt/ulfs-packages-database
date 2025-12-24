@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kitemviews</code>
   <description/>
-  <sourcefile>kitemviews-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kitemviews-6.11.0</sourcedir>
+  <sourcefile>kitemviews-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kitemviews-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

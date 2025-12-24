@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kded</code>
   <description/>
-  <sourcefile>kded-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kded-6.11.0</sourcedir>
+  <sourcefile>kded-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kded-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

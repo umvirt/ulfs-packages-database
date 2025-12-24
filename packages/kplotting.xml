@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kplotting</code>
   <description/>
-  <sourcefile>kplotting-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kplotting-6.11.0</sourcedir>
+  <sourcefile>kplotting-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kplotting-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

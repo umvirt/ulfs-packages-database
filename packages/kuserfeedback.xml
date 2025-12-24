@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kuserfeedback</code>
   <description/>
-  <sourcefile>kuserfeedback-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kuserfeedback-6.11.0</sourcedir>
+  <sourcefile>kuserfeedback-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kuserfeedback-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

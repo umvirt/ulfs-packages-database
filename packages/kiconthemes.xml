@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kiconthemes</code>
   <description/>
-  <sourcefile>kiconthemes-6.11.0.tar.xz</sourcefile>
-  <sourcedir>kiconthemes-6.11.0</sourcedir>
+  <sourcefile>kiconthemes-6.17.0.tar.xz</sourcefile>
+  <sourcedir>kiconthemes-6.17.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
