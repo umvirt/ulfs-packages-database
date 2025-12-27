@@ -1789,5 +1789,7 @@
     <package>gnome-mahjongg</package>
     <package>notification-daemon</package>
     <package>mako</package>
+    <package>aurorae</package>
+    <package>kwin-x11</package>
   </packages>
 </packages>

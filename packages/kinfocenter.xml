@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kinfocenter</code>
   <description/>
-  <sourcefile>kinfocenter-6.3.2.tar.xz</sourcefile>
-  <sourcedir>kinfocenter-6.3.2</sourcedir>
+  <sourcefile>kinfocenter-6.4.4.tar.xz</sourcefile>
+  <sourcedir>kinfocenter-6.4.4</sourcedir>
   <unpack/>
   <configure/>
   <build/>

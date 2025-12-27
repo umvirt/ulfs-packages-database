@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>kirigami-addons</code>
   <description/>
-  <sourcefile>kirigami-addons-1.6.0.tar.xz</sourcefile>
-  <sourcedir>kirigami-addons-1.6.0</sourcedir>
+  <sourcefile>kirigami-addons-1.9.0.tar.xz</sourcefile>
+  <sourcedir>kirigami-addons-1.9.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgICAuLiAg</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>Vulkan-Loader</code>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-sentry_sdk</code>
   <description>VGhlIHNlbnRyeS1zZGsgbW9kdWxlIGlzIHRoZSBvZmZpY2lhbCBQeXRob24gU0RLIGZvciBTZW50cnkuaW8uDQo=</description>
-  <sourcefile>sentry_sdk-2.22.0.tar.gz</sourcefile>
-  <sourcedir>sentry_sdk-2.22.0</sourcedir>
+  <sourcefile>sentry_sdk-2.35.0.tar.gz</sourcefile>
+  <sourcedir>sentry_sdk-2.35.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdEDQo=</build>

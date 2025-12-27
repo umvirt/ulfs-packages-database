@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>lm-sensors</code>
   <description>VGhlIGxtLXNlbnNvcnMgcGFja2FnZSBwcm92aWRlcyB1c2Vyc3BhY2Ugc3VwcG9ydCBmb3IgdGhlIGhhcmR3YXJlIG1vbml0b3JpbmcgZHJpdmVycyBpbiB0aGUgTGludXgga2VybmVsLiBUaGlzIGlzIHVzZWZ1bCBmb3IgbW9uaXRvcmluZyB0aGUgdGVtcGVyYXR1cmUgb2YgdGhlIENQVSBhbmQgYWRqdXN0aW5nIHRoZSBwZXJmb3JtYW5jZSBvZiBzb21lIGhhcmR3YXJlIChzdWNoIGFzIGNvb2xpbmcgZmFucyku</description>
-  <sourcefile>lm-sensors-3-6-0.tar.gz</sourcefile>
-  <sourcedir>lm-sensors-3-6-0</sourcedir>
+  <sourcefile>lm-sensors-3-6-2.tar.gz</sourcefile>
+  <sourcedir>lm-sensors-3-6-2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>bWFrZSBQUkVGSVg9L3VzciAgICAgICAgICAgXA0KICAgICBCVUlMRF9TVEFUSUNfTElCPTAgICAgXA0KICAgICBNQU5ESVI9L3Vzci9zaGFyZS9tYW4gXA0KICAgICBFWExERkxBR1M9DQo=</build>
-  <install>bWFrZSBQUkVGSVg9L3VzciAgICAgICAgXA0KICAgICBCVUlMRF9TVEFUSUNfTElCPTAgXA0KICAgICBNQU5ESVI9L3Vzci9zaGFyZS9tYW4gaW5zdGFsbCAmJg0KDQppbnN0YWxsIC12IC1tNzU1IC1kIC91c3Ivc2hhcmUvZG9jL2xtLXNlbnNvcnMtMy02LTAgJiYNCmNwIC1ydiAgICAgICAgICAgICAgUkVBRE1FIElOU1RBTEwgZG9jLyogXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9sbS1zZW5zb3JzLTMtNi0wDQo=</install>
+  <build>bWFrZSBQUkVGSVg9L3VzciAgICAgICAgXA0KICAgICBCVUlMRF9TVEFUSUNfTElCPTAgXA0KICAgICBNQU5ESVI9L3Vzci9zaGFyZS9tYW4NCg==</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciAgICAgICAgXA0KICAgICBCVUlMRF9TVEFUSUNfTElCPTAgXA0KICAgICBNQU5ESVI9L3Vzci9zaGFyZS9tYW4gaW5zdGFsbCAmJg0KDQppbnN0YWxsIC12IC1tNzU1IC1kIC91c3Ivc2hhcmUvZG9jL2xtLXNlbnNvcnMtMy02LTIgJiYNCmNwIC1ydiAgICAgICAgICAgICAgUkVBRE1FIElOU1RBTEwgZG9jLyogXA0KICAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9sbS1zZW5zb3JzLTMtNi0yDQoNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

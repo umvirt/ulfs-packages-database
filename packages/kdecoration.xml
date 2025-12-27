@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdecoration</code>
   <description/>
-  <sourcefile>kdecoration-6.3.2.tar.xz</sourcefile>
-  <sourcedir>kdecoration-6.3.2</sourcedir>
+  <sourcefile>kdecoration-6.4.4.tar.xz</sourcefile>
+  <sourcedir>kdecoration-6.4.4</sourcedir>
   <unpack/>
   <configure/>
   <build/>

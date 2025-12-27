@@ -232,172 +232,180 @@
       <weight>55</weight>
     </dependance>
     <dependance>
-      <code>kwin</code>
+      <code>aurorae</code>
       <weight>56</weight>
     </dependance>
     <dependance>
-      <code>plasma5support</code>
+      <code>kwin-x11</code>
       <weight>57</weight>
     </dependance>
     <dependance>
-      <code>plasma-activities-stats</code>
+      <code>kwin</code>
       <weight>58</weight>
     </dependance>
     <dependance>
-      <code>kpipewire</code>
+      <code>plasma5support</code>
       <weight>59</weight>
     </dependance>
     <dependance>
-      <code>plasma-workspace</code>
+      <code>plasma-activities-stats</code>
       <weight>60</weight>
     </dependance>
     <dependance>
-      <code>plasma-disks</code>
+      <code>kpipewire</code>
       <weight>61</weight>
     </dependance>
     <dependance>
-      <code>bluedevil</code>
+      <code>plasma-workspace</code>
       <weight>62</weight>
     </dependance>
     <dependance>
-      <code>kde-gtk-config</code>
+      <code>plasma-disks</code>
       <weight>63</weight>
     </dependance>
     <dependance>
-      <code>kmenuedit</code>
+      <code>bluedevil</code>
       <weight>64</weight>
     </dependance>
     <dependance>
-      <code>kscreen</code>
+      <code>kde-gtk-config</code>
       <weight>65</weight>
     </dependance>
     <dependance>
-      <code>kwallet-pam</code>
+      <code>kmenuedit</code>
       <weight>66</weight>
     </dependance>
     <dependance>
-      <code>kwrited</code>
+      <code>kscreen</code>
       <weight>67</weight>
     </dependance>
     <dependance>
-      <code>milou</code>
+      <code>kwallet-pam</code>
       <weight>68</weight>
     </dependance>
     <dependance>
-      <code>plasma-nm</code>
+      <code>kwrited</code>
       <weight>69</weight>
     </dependance>
     <dependance>
-      <code>plasma-pa</code>
+      <code>milou</code>
       <weight>70</weight>
     </dependance>
     <dependance>
-      <code>plasma-workspace-wallpapers</code>
+      <code>plasma-nm</code>
       <weight>71</weight>
     </dependance>
     <dependance>
-      <code>polkit-kde-agent</code>
+      <code>plasma-pa</code>
       <weight>72</weight>
     </dependance>
     <dependance>
-      <code>powerdevil</code>
+      <code>plasma-workspace-wallpapers</code>
       <weight>73</weight>
     </dependance>
     <dependance>
-      <code>plasma-desktop</code>
+      <code>polkit-kde-agent</code>
       <weight>74</weight>
     </dependance>
     <dependance>
-      <code>kgamma</code>
+      <code>powerdevil</code>
       <weight>75</weight>
     </dependance>
     <dependance>
-      <code>ksshaskpass</code>
+      <code>plasma-desktop</code>
       <weight>76</weight>
     </dependance>
     <dependance>
-      <code>sddm-kcm</code>
+      <code>kgamma</code>
       <weight>77</weight>
     </dependance>
     <dependance>
-      <code>kactivitymanagerd</code>
+      <code>ksshaskpass</code>
       <weight>78</weight>
     </dependance>
     <dependance>
-      <code>plasma-integration</code>
+      <code>sddm-kcm</code>
       <weight>79</weight>
     </dependance>
     <dependance>
-      <code>xdg-desktop-portal-kde</code>
+      <code>kactivitymanagerd</code>
       <weight>80</weight>
     </dependance>
     <dependance>
-      <code>drkonqi</code>
+      <code>plasma-integration</code>
       <weight>81</weight>
     </dependance>
     <dependance>
-      <code>plasma-vault</code>
+      <code>xdg-desktop-portal-kde</code>
       <weight>82</weight>
     </dependance>
     <dependance>
-      <code>kde-cli-tools</code>
+      <code>drkonqi</code>
       <weight>83</weight>
     </dependance>
     <dependance>
-      <code>systemsettings</code>
+      <code>plasma-vault</code>
       <weight>84</weight>
     </dependance>
     <dependance>
-      <code>plasma-thunderbolt</code>
+      <code>kde-cli-tools</code>
       <weight>85</weight>
     </dependance>
     <dependance>
-      <code>plasma-firewall</code>
+      <code>systemsettings</code>
       <weight>86</weight>
     </dependance>
     <dependance>
-      <code>plasma-systemmonitor</code>
+      <code>plasma-thunderbolt</code>
       <weight>87</weight>
     </dependance>
     <dependance>
-      <code>qqc2-breeze-style</code>
+      <code>plasma-firewall</code>
       <weight>88</weight>
     </dependance>
     <dependance>
-      <code>ksystemstats</code>
+      <code>plasma-systemmonitor</code>
       <weight>89</weight>
     </dependance>
     <dependance>
-      <code>oxygen-sounds</code>
+      <code>qqc2-breeze-style</code>
       <weight>90</weight>
     </dependance>
     <dependance>
-      <code>kdeplasma-addons</code>
+      <code>ksystemstats</code>
       <weight>91</weight>
     </dependance>
     <dependance>
-      <code>plasma-welcome</code>
+      <code>oxygen-sounds</code>
       <weight>92</weight>
     </dependance>
     <dependance>
-      <code>ocean-sound-theme</code>
+      <code>kdeplasma-addons</code>
       <weight>93</weight>
     </dependance>
     <dependance>
-      <code>print-manager</code>
+      <code>plasma-welcome</code>
       <weight>94</weight>
     </dependance>
     <dependance>
-      <code>wacomtablet</code>
+      <code>ocean-sound-theme</code>
       <weight>95</weight>
     </dependance>
     <dependance>
-      <code>oxygen</code>
+      <code>print-manager</code>
       <weight>96</weight>
     </dependance>
     <dependance>
-      <code>spectacle</code>
+      <code>wacomtablet</code>
       <weight>97</weight>
+    </dependance>
+    <dependance>
+      <code>oxygen</code>
+      <weight>98</weight>
+    </dependance>
+    <dependance>
+      <code>spectacle</code>
+      <weight>99</weight>
     </dependance>
   </dependances>
   <patches/>

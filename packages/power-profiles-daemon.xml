@@ -7,9 +7,10 @@
   <sourcedir>power-profiles-daemon-0.30</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgIFwNCiAgICAgIC1EIGd0a19kb2M9ZmFsc2UgICAgIFwNCiAgICAgIC1EIHRlc3RzPWZhbHNlICAgICAgIFwNCiAgICAgIC4uDQo=</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>polkit</code>
