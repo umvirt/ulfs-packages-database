@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-babel</code>
+  <description>VGhlIEJhYmVsIHBhY2thZ2UgaXMgYW4gaW50ZWdyYXRlZCBjb2xsZWN0aW9uIG9mIHV0aWxpdGllcyB0aGF0IGFzc2lzdCBpbiBpbnRlcm5hdGlvbmFsaXppbmcgYW5kIGxvY2FsaXppbmcgUHl0aG9uIGFwcGxpY2F0aW9ucywgd2l0aCBhbiBlbXBoYXNpcyBvbiB3ZWItYmFzZWQgYXBwbGljYXRpb25zLg==</description>
+  <sourcefile>babel-2.17.0.tar.gz</sourcefile>
+  <sourcedir>babel-2.17.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIEJhYmVs</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-pytz</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

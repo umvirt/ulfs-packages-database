@@ -1770,5 +1770,18 @@
     <package>nyancat</package>
     <package>mbuffer</package>
     <package>gnome-mahjongg</package>
+    <package>python3-sphinx</package>
+    <package>python3-alabaster</package>
+    <package>python3-pytz</package>
+    <package>python3-babel</package>
+    <package>python3-imagesize</package>
+    <package>python3-snowballstemmer</package>
+    <package>python3-sphinxcontrib_applehelp</package>
+    <package>python3-sphinxcontrib_devhelp</package>
+    <package>python3-sphinxcontrib_htmlhelp</package>
+    <package>python3-sphinxcontrib-jsmath</package>
+    <package>python3-sphinxcontrib_qthelp</package>
+    <package>python3-sphinxcontrib_serializinghtml</package>
+    <package>python3-roman_numerals_py</package>
   </packages>
 </packages>

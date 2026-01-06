@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>python3-imagesize</code>
+  <description>VGhlIGltYWdlc2l6ZSBwYWNrYWdlIGFuYWx5emVzIGltYWdlIGZpbGUgaGVhZGVycyBhbmQgcmV0dXJucyB0aGUgaW1hZ2Ugc2l6ZSBhbmQgRFBJLiBJdCB3b3JrcyB3aXRoIEpQRUcvSlBFRyAyMDAwL1BORy9HSUYvVElGRi9TVkcvTmV0cGJtL1dlYlAgZm9ybWF0cy4=</description>
+  <sourcefile>imagesize-1.4.1.tar.gz</sourcefile>
+  <sourcedir>imagesize-1.4.1</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIGltYWdlc2l6ZQ==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
