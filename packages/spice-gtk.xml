@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>gst-plugins-good</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>gstreamer</code>
       <weight>1</weight>
     </dependance>
