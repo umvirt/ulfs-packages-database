@@ -1791,5 +1791,7 @@
     <package>libwapcaplet</package>
     <package>libdom</package>
     <package>libhubbub</package>
+    <package>xcalc</package>
+    <package>xeyes</package>
   </packages>
 </packages>
