@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>quickjs</code>
+  <description>UXVpY2tKUyBpcyBhIHNtYWxsIGFuZCBlbWJlZGRhYmxlIEphdmFzY3JpcHQgZW5naW5lLiA=</description>
+  <sourcefile>quickjs-f1139494d18a2053630c5ed3384a42bb70db3c53.tar.gz</sourcefile>
+  <sourcedir>quickjs-f1139494d18a2053630c5ed3384a42bb70db3c53</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBQUkVGSVg9L3Vzcg==</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBpbnN0YWxs</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

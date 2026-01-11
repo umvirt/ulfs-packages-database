@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libcss</code>
+  <description>TGliQ1NTIGlzIGEgQ1NTIChDYXNjYWRpbmcgU3R5bGUgU2hlZXQpIHBhcnNlciBhbmQgc2VsZWN0aW9uIGVuZ2luZSwgd3JpdHRlbiBpbiBDLg==</description>
+  <sourcefile>libcss-0.9.2-src.tar.gz</sourcefile>
+  <sourcedir>libcss-0.9.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>ZXhwb3J0IENGTEFHUz0iJENGTEFHUyAtc2hhcmVkIC1mUElDIC13Ig0KZXhwb3J0IExERkxBR1M9IiRMREZMQUdTIC1zaGFyZWQgLXosbm93Ig0KDQptYWtlIFBSRUZJWD0vdXNyIENPTVBPTkVOVF9UWVBFPWxpYi1zaGFyZWQ=</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBDT01QT05FTlRfVFlQRT1saWItc2hhcmVkIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>netsurf-buildsystem</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libparserutils</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libwapcaplet</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

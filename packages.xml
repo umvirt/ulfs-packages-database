@@ -1783,5 +1783,13 @@
     <package>python3-sphinxcontrib_qthelp</package>
     <package>python3-sphinxcontrib_serializinghtml</package>
     <package>python3-roman_numerals_py</package>
+    <package>quickjs</package>
+    <package>elinks</package>
+    <package>libcss</package>
+    <package>netsurf-buildsystem</package>
+    <package>libparserutils</package>
+    <package>libwapcaplet</package>
+    <package>libdom</package>
+    <package>libhubbub</package>
   </packages>
 </packages>

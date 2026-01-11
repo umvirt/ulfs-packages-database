@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>libhubbub</code>
+  <description/>
+  <sourcefile>libhubbub-6651b8cf87a4aa87bcdb2ff024a02659cd3f9402.tar.gz</sourcefile>
+  <sourcedir>libhubbub-6651b8cf87a4aa87bcdb2ff024a02659cd3f9402</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBQUkVGSVg9L3VzciBDT01QT05FTlRfVFlQRT1saWItc2hhcmVk</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBDT01QT05FTlRfVFlQRT1saWItc2hhcmVkIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>netsurf-buildsystem</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
