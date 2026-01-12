@@ -21,6 +21,10 @@
       <filename>giflib-5.2.2-upstream_fixes-1.patch</filename>
       <mode>1</mode>
     </patch>
+    <patch>
+      <filename>giflib-5.2.2-security_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
   </patches>
   <addons/>
   <nestings/>

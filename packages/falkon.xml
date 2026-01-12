@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>falkon</code>
   <description>RmFsa29uIGlzIGEgS0RFIHdlYiBicm93c2VyIHVzaW5nIHRoZSBRdFdlYkVuZ2luZSByZW5kZXJpbmcgZW5naW5lLiBJdCB3YXMgcHJldmlvdXNseSBrbm93biBhcyBRdXBaaWxsYS4gSXQgYWltcyB0byBiZSBhIGxpZ2h0d2VpZ2h0IHdlYiBicm93c2VyIGF2YWlsYWJsZSB0aHJvdWdoIGFsbCBtYWpvciBwbGF0Zm9ybXMu</description>
-  <sourcefile>falkon-24.12.2.tar.xz</sourcefile>
-  <sourcedir>falkon-24.12.2</sourcedir>
+  <sourcefile>falkon-25.08.0.tar.xz</sourcefile>
+  <sourcedir>falkon-25.08.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>gnome-keyring</code>

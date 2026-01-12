@@ -20,7 +20,12 @@
       <weight>2</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>cyrus-sasl-2.1.28-gcc15_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

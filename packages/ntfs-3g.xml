@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>ntfs-3g</code>
   <description>VGhlIE50ZnMtM2cgcGFja2FnZSBjb250YWlucyBhIHN0YWJsZSwgcmVhZC13cml0ZSBvcGVuIHNvdXJjZSBkcml2ZXIgZm9yIE5URlMgcGFydGl0aW9ucy4g</description>
-  <sourcefile>ntfs-3g_ntfsprogs-2022.10.3.tgz</sourcefile>
-  <sourcedir>ntfs-3g_ntfsprogs-2022.10.3</sourcedir>
+  <sourcefile>ntfs-3g-2022.10.3.tar.gz</sourcefile>
+  <sourcedir>ntfs-3g-2022.10.3</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1mdXNlPWludGVybmFsIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL250ZnMtM2ctMjAyMi4xMC4z</configure>
+  <configure>Li9hdXRvZ2VuLnNoDQoNCkFSR19TVEFUSUM9Ii0tZGlzYWJsZS1zdGF0aWMiDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgPT0gIllFUyIgXV0NCnRoZW4NCiAgICBBUkdfU1RBVElDPSItLWVuYWJsZS1zdGF0aWMiDQpmaQ0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICBcDQogICAgICAgICAgICAkQVJHX1NUQVRJQyAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtZnVzZT1pbnRlcm5hbCBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9udGZzLTNnLTIwMjIuMTAuMw==</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+IC91c3Ivc2Jpbi9tb3VudC5udGZzIDw8ICJFT0YiICYmDQojIS9iaW4vc2gNCmV4ZWMgbW91bnQgLXQgbnRmczMgIiRAIg0KRU9GDQpjaG1vZCAtdiA3NTUgL3Vzci9zYmluL21vdW50Lm50ZnM=</install>
+  <install/>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

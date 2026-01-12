@@ -6,7 +6,7 @@
   <sourcefile>openbox-3.6.1.tar.gz</sourcefile>
   <sourcedir>openbox-3.6.1</sourcedir>
   <unpack/>
-  <configure>MnRvMy0zLjEyIC13IGRhdGEvYXV0b3N0YXJ0L29wZW5ib3gteGRnLWF1dG9zdGFydCAmJg0Kc2VkICdzL3B5dGhvbi9weXRob24zLycgLWkgZGF0YS9hdXRvc3RhcnQvb3BlbmJveC14ZGctYXV0b3N0YXJ0DQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL29wZW5ib3gtMy42LjE=</configure>
+  <configure>YXV0b3JlY29uZiAtZmkgJiYNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL29wZW5ib3gtMy42LjE=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQpybSAtdiAvdXNyL3NoYXJlL3hzZXNzaW9ucy9vcGVuYm94LXtnbm9tZSxrZGV9LmRlc2t0b3A=</install>
   <localbuild>0</localbuild>
@@ -32,7 +32,12 @@
       <weight>5</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>openbox-3.6.1-py3-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

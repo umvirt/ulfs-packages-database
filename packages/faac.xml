@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>faac</code>
   <description>RkFBQyBpcyBhbiBlbmNvZGVyIGZvciBhIGxvc3N5IHNvdW5kIGNvbXByZXNzaW9uIHNjaGVtZSBzcGVjaWZpZWQgaW4gTVBFRy0yIFBhcnQgNyBhbmQgTVBFRy00IFBhcnQgMyBzdGFuZGFyZHMgYW5kIGtub3duIGFzIEFkdmFuY2VkIEF1ZGlvIENvZGluZyAoQUFDKS4g</description>
-  <sourcefile>faac-1.31.tar.gz</sourcefile>
-  <sourcedir>faac-1.31</sourcedir>
+  <sourcefile>faac-1.31.1.tar.gz</sourcefile>
+  <sourcedir>faac-1.31.1</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vYm9vdHN0cmFwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICRBUkdfU1RBVElD</configure>
   <build/>
