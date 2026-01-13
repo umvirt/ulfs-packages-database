@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>konversation</code>
   <description>VGhlIGtvbnZlcnNhdGlvbiBwYWNrYWdlIGlzIGEgS0Y2IGJhc2VkIElSQyBjbGllbnQuDQoNCg==</description>
-  <sourcefile>konversation-24.12.2.tar.xz</sourcefile>
-  <sourcedir>konversation-24.12.2</sourcedir>
+  <sourcefile>konversation-25.08.0.tar.xz</sourcefile>
+  <sourcedir>konversation-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

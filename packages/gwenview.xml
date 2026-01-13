@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>gwenview</code>
   <description>R3dlbnZpZXcgaXMgYSBmYXN0IGFuZCBlYXN5LXRvLXVzZSBpbWFnZSB2aWV3ZXIgZm9yIEtERS4=</description>
-  <sourcefile>gwenview-24.12.2.tar.xz</sourcefile>
-  <sourcedir>gwenview-24.12.2</sourcedir>
+  <sourcefile>gwenview-25.08.0.tar.xz</sourcefile>
+  <sourcedir>gwenview-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>ktnef</code>
   <description/>
-  <sourcefile>ktnef-24.12.2.tar.xz</sourcefile>
-  <sourcedir>ktnef-24.12.2</sourcedir>
+  <sourcefile>ktnef-25.08.0.tar.xz</sourcefile>
+  <sourcedir>ktnef-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

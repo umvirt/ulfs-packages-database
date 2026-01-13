@@ -48,28 +48,36 @@
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>kio-extras</code>
+      <code>plasma-activities</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>okular</code>
+      <code>plasma-activities-stats</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>libkdcraw</code>
+      <code>kio-extras</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>gwenview</code>
+      <code>okular</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>libkcddb</code>
+      <code>libkdcraw</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>k3b</code>
+      <code>gwenview</code>
       <weight>15</weight>
+    </dependance>
+    <dependance>
+      <code>libkcddb</code>
+      <weight>16</weight>
+    </dependance>
+    <dependance>
+      <code>k3b</code>
+      <weight>17</weight>
     </dependance>
   </dependances>
   <patches/>

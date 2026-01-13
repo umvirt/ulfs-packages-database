@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdevelop-base</code>
   <description/>
-  <sourcefile>kdevelop-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kdevelop-24.12.2</sourcedir>
+  <sourcefile>kdevelop-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kdevelop-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

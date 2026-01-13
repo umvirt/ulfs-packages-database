@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>filelight</code>
   <description/>
-  <sourcefile>filelight-24.12.2.tar.xz</sourcefile>
-  <sourcedir>filelight-24.12.2</sourcedir>
+  <sourcefile>filelight-25.08.0.tar.xz</sourcefile>
+  <sourcedir>filelight-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

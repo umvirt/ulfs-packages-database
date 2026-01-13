@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>klines</code>
   <description/>
-  <sourcefile>klines-24.12.2.tar.xz</sourcefile>
-  <sourcedir>klines-24.12.2</sourcedir>
+  <sourcefile>klines-25.08.0.tar.xz</sourcefile>
+  <sourcedir>klines-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

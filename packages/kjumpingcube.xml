@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kjumpingcube</code>
   <description/>
-  <sourcefile>kjumpingcube-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kjumpingcube-24.12.2</sourcedir>
+  <sourcefile>kjumpingcube-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kjumpingcube-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libkgapi</code>
   <description/>
-  <sourcefile>libkgapi-24.12.2.tar.xz</sourcefile>
-  <sourcedir>libkgapi-24.12.2</sourcedir>
+  <sourcefile>libkgapi-25.08.0.tar.xz</sourcefile>
+  <sourcedir>libkgapi-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

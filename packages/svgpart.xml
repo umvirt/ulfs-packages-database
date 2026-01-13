@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>svgpart</code>
   <description/>
-  <sourcefile>svgpart-24.12.2.tar.xz</sourcefile>
-  <sourcedir>svgpart-24.12.2</sourcedir>
+  <sourcefile>svgpart-25.08.0.tar.xz</sourcefile>
+  <sourcedir>svgpart-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

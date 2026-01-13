@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kasts</code>
   <description/>
-  <sourcefile>kasts-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kasts-24.12.2</sourcedir>
+  <sourcefile>kasts-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kasts-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

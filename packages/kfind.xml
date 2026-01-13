@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kfind</code>
   <description/>
-  <sourcefile>kfind-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kfind-24.12.2</sourcedir>
+  <sourcefile>kfind-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kfind-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

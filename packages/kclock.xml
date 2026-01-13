@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kclock</code>
   <description/>
-  <sourcefile>kclock-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kclock-24.12.2</sourcedir>
+  <sourcefile>kclock-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kclock-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

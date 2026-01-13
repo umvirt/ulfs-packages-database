@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>mailimporter</code>
   <description/>
-  <sourcefile>mailimporter-24.12.2.tar.xz</sourcefile>
-  <sourcedir>mailimporter-24.12.2</sourcedir>
+  <sourcefile>mailimporter-25.08.0.tar.xz</sourcefile>
+  <sourcedir>mailimporter-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

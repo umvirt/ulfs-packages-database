@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>parley</code>
   <description/>
-  <sourcefile>parley-24.12.2.tar.xz</sourcefile>
-  <sourcedir>parley-24.12.2</sourcedir>
+  <sourcefile>parley-25.08.0.tar.xz</sourcefile>
+  <sourcedir>parley-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -6,10 +6,11 @@
   <sourcefile>libmusicbrainz-5.1.0.tar.gz</sourcefile>
   <sourcedir>libmusicbrainz-5.1.0</sourcedir>
   <unpack/>
-  <configure>c2VkIC1lICdzL3htbEVycm9yUHRyIC9jb25zdCB4bWxFcnJvciAqLycgICAgIFwNCiAgICAtaSBzcmMveG1sUGFyc2VyLmNjDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAuLiA=</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>c2VkIC1lICdzL3htbEVycm9yUHRyIC9jb25zdCB4bWxFcnJvciAqLycgICAgIFwNCiAgICAtaSBzcmMveG1sUGFyc2VyLmNjDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgXA0KICAgICAgLUQgQ01BS0VfUE9MSUNZX1ZFUlNJT05fTUlOSU1VTT0zLjUgLi4=</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>libxml2</code>

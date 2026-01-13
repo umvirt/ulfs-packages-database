@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kirigami-gallery</code>
   <description/>
-  <sourcefile>kirigami-gallery-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kirigami-gallery-24.12.2</sourcedir>
+  <sourcefile>kirigami-gallery-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kirigami-gallery-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>poppler-app-qt6</code>
   <description>VGhlIFBvcHBsZXIgcGFja2FnZSBRVDYgdmVyc2lvbg==</description>
-  <sourcefile>poppler-25.02.0.tar.xz</sourcefile>
-  <sourcedir>poppler-25.02.0</sourcedir>
+  <sourcefile>poppler-25.08.0.tar.xz</sourcefile>
+  <sourcedir>poppler-25.08.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmNkICAgIGJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAgICYmDQoNCmNtYWtlIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EIFRFU1REQVRBRElSPVwkUFdEL3Rlc3RmaWxlcyBcDQogICAgICAtRCBFTkFCTEVfUVQ1PU9GRiAgICAgICAgICAgICBcDQogICAgICAtRCBFTkFCTEVfUVQ2PU9OICAgICAgICAgICAgIFwNCiAgICAgIC1EIEVOQUJMRV9VTlNUQUJMRV9BUElfQUJJX0hFQURFUlM9T04gXA0KICAgICAgLUcgTmluamEgLi4gIA==</configure>
   <build>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm5pbmphDQo=</build>

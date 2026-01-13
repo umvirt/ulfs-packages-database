@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kleopatra</code>
   <description/>
-  <sourcefile>kleopatra-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kleopatra-24.12.2</sourcedir>
+  <sourcefile>kleopatra-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kleopatra-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

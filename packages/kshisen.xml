@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kshisen</code>
   <description/>
-  <sourcefile>kshisen-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kshisen-24.12.2</sourcedir>
+  <sourcefile>kshisen-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kshisen-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

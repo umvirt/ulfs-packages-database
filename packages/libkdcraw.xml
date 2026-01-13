@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libkdcraw</code>
   <description>TGlia2RjcmF3IGlzIGEgS0RFIHdyYXBwZXIgYXJvdW5kIHRoZSBsaWJyYXcgbGlicmFyeSBmb3IgbWFuaXB1bGF0aW5nIGltYWdlIG1ldGFkYXRhLg==</description>
-  <sourcefile>libkdcraw-24.12.2.tar.xz</sourcefile>
-  <sourcedir>libkdcraw-24.12.2</sourcedir>
+  <sourcefile>libkdcraw-25.08.0.tar.xz</sourcefile>
+  <sourcedir>libkdcraw-25.08.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIFFUX01BSk9SX1ZFUlNJT049NiAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
   <build/>

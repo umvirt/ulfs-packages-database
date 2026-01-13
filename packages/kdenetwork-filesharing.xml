@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdenetwork-filesharing</code>
   <description/>
-  <sourcefile>kdenetwork-filesharing-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kdenetwork-filesharing-24.12.2</sourcedir>
+  <sourcefile>kdenetwork-filesharing-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kdenetwork-filesharing-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kbounce</code>
   <description/>
-  <sourcefile>kbounce-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kbounce-24.12.2</sourcedir>
+  <sourcefile>kbounce-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kbounce-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

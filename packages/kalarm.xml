@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kalarm</code>
   <description/>
-  <sourcefile>kalarm-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kalarm-24.12.2</sourcedir>
+  <sourcefile>kalarm-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kalarm-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

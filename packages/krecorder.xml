@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>krecorder</code>
   <description/>
-  <sourcefile>krecorder-24.12.2.tar.xz</sourcefile>
-  <sourcedir>krecorder-24.12.2</sourcedir>
+  <sourcefile>krecorder-25.08.0.tar.xz</sourcefile>
+  <sourcedir>krecorder-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

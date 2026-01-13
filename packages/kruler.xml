@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kruler</code>
   <description/>
-  <sourcefile>kruler-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kruler-24.12.2</sourcedir>
+  <sourcefile>kruler-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kruler-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

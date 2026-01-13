@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kbruch</code>
   <description/>
-  <sourcefile>kbruch-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kbruch-24.12.2</sourcedir>
+  <sourcefile>kbruch-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kbruch-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

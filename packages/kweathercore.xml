@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kweathercore</code>
   <description/>
-  <sourcefile>kweathercore-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kweathercore-24.12.2</sourcedir>
+  <sourcefile>kweathercore-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kweathercore-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

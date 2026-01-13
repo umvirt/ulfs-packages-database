@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libproxy</code>
   <description>bGlicHJveHkgaXMgYSBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgYXV0b21hdGljIHByb3h5IGNvbmZpZ3VyYXRpb24gbWFuYWdlbWVudC4=</description>
-  <sourcefile>libproxy-0.5.9.tar.gz</sourcefile>
-  <sourcedir>libproxy-0.5.9</sourcedir>
+  <sourcefile>libproxy-0.5.10.tar.gz</sourcefile>
+  <sourcedir>libproxy-0.5.10</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>curl</code>

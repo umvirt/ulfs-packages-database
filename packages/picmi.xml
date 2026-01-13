@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>picmi</code>
   <description/>
-  <sourcefile>picmi-24.12.2.tar.xz</sourcefile>
-  <sourcedir>picmi-24.12.2</sourcedir>
+  <sourcefile>picmi-25.08.0.tar.xz</sourcefile>
+  <sourcedir>picmi-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

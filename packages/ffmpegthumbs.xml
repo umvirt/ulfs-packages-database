@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>ffmpegthumbs</code>
   <description/>
-  <sourcefile>ffmpegthumbs-24.12.2.tar.xz</sourcefile>
-  <sourcedir>ffmpegthumbs-24.12.2</sourcedir>
+  <sourcefile>ffmpegthumbs-25.08.0.tar.xz</sourcefile>
+  <sourcedir>ffmpegthumbs-25.08.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIFFUX01BSk9SX1ZFUlNJT049NiAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libkdegames</code>
   <description/>
-  <sourcefile>libkdegames-24.12.2.tar.xz</sourcefile>
-  <sourcedir>libkdegames-24.12.2</sourcedir>
+  <sourcefile>libkdegames-25.08.0.tar.xz</sourcefile>
+  <sourcedir>libkdegames-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

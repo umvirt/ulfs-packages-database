@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>konsole</code>
   <description>VGhlIEtvbnNvbGUgcGFja2FnZSBpcyBhIEtGNiBiYXNlZCB0ZXJtaW5hbCBlbXVsYXRvci4=</description>
-  <sourcefile>konsole-24.12.2.tar.xz</sourcefile>
-  <sourcedir>konsole-24.12.2</sourcedir>
+  <sourcefile>konsole-25.08.0.tar.xz</sourcefile>
+  <sourcedir>konsole-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -17,12 +17,7 @@
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>konsole-24.12.2-scrollbar-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

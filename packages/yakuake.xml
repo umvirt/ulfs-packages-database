@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>yakuake</code>
   <description/>
-  <sourcefile>yakuake-24.12.2.tar.xz</sourcefile>
-  <sourcedir>yakuake-24.12.2</sourcedir>
+  <sourcefile>yakuake-25.08.0.tar.xz</sourcefile>
+  <sourcedir>yakuake-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

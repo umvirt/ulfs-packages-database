@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>ktuberling</code>
   <description/>
-  <sourcefile>ktuberling-24.12.2.tar.xz</sourcefile>
-  <sourcedir>ktuberling-24.12.2</sourcedir>
+  <sourcefile>ktuberling-25.08.0.tar.xz</sourcefile>
+  <sourcedir>ktuberling-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

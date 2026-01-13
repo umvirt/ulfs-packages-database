@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>konqueror</code>
   <description/>
-  <sourcefile>konqueror-24.12.2.tar.xz</sourcefile>
-  <sourcedir>konqueror-24.12.2</sourcedir>
+  <sourcefile>konqueror-25.08.0.tar.xz</sourcefile>
+  <sourcedir>konqueror-25.08.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIFVTRV9TWVNURU1fRElDVElPTkFSSUVTPU9OICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
   <build/>

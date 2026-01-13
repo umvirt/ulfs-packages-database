@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kmail-account-wizard</code>
   <description/>
-  <sourcefile>kmail-account-wizard-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kmail-account-wizard-24.12.2</sourcedir>
+  <sourcefile>kmail-account-wizard-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kmail-account-wizard-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

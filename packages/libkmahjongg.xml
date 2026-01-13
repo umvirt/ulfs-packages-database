@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libkmahjongg</code>
   <description/>
-  <sourcefile>libkmahjongg-24.12.2.tar.xz</sourcefile>
-  <sourcedir>libkmahjongg-24.12.2</sourcedir>
+  <sourcefile>libkmahjongg-25.08.0.tar.xz</sourcefile>
+  <sourcedir>libkmahjongg-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

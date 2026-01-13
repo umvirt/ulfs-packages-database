@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kcolorchooser</code>
   <description/>
-  <sourcefile>kcolorchooser-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kcolorchooser-24.12.2</sourcedir>
+  <sourcefile>kcolorchooser-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kcolorchooser-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

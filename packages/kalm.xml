@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kalm</code>
   <description/>
-  <sourcefile>kalm-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kalm-24.12.2</sourcedir>
+  <sourcefile>kalm-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kalm-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

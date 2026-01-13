@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kspaceduel</code>
   <description/>
-  <sourcefile>kspaceduel-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kspaceduel-24.12.2</sourcedir>
+  <sourcefile>kspaceduel-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kspaceduel-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

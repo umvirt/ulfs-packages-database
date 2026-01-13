@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>francis</code>
   <description/>
-  <sourcefile>francis-24.12.2.tar.xz</sourcefile>
-  <sourcedir>francis-24.12.2</sourcedir>
+  <sourcefile>francis-25.08.0.tar.xz</sourcefile>
+  <sourcedir>francis-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

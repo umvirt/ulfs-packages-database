@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>alligator</code>
   <description/>
-  <sourcefile>alligator-24.12.2.tar.xz</sourcefile>
-  <sourcedir>alligator-24.12.2</sourcedir>
+  <sourcefile>alligator-25.08.0.tar.xz</sourcefile>
+  <sourcedir>alligator-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

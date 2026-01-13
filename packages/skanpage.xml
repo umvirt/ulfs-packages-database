@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>skanpage</code>
   <description/>
-  <sourcefile>skanpage-24.12.2.tar.xz</sourcefile>
-  <sourcedir>skanpage-24.12.2</sourcedir>
+  <sourcefile>skanpage-25.08.0.tar.xz</sourcefile>
+  <sourcedir>skanpage-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>ark</code>
   <description>VGhlIEFyayBwYWNrYWdlIGlzIGEgS0Y2IGFyY2hpdmUgdG9vbC4gSXQgaXMgYSBncmFwaGljYWwgZnJvbnQgZW5kIHRvIHRhciBhbmQgc2ltaWxhciB0b29scy4=</description>
-  <sourcefile>ark-24.12.2.tar.xz</sourcefile>
-  <sourcedir>ark-24.12.2</sourcedir>
+  <sourcefile>ark-25.08.0.tar.xz</sourcefile>
+  <sourcedir>ark-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

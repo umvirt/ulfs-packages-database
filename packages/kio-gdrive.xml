@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kio-gdrive</code>
   <description/>
-  <sourcefile>kio-gdrive-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kio-gdrive-24.12.2</sourcedir>
+  <sourcefile>kio-gdrive-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kio-gdrive-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

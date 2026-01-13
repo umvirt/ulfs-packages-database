@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdesdk-kio</code>
   <description/>
-  <sourcefile>kdesdk-kio-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kdesdk-kio-24.12.2</sourcedir>
+  <sourcefile>kdesdk-kio-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kdesdk-kio-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

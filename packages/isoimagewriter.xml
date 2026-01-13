@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>isoimagewriter</code>
   <description/>
-  <sourcefile>isoimagewriter-24.12.2.tar.xz</sourcefile>
-  <sourcedir>isoimagewriter-24.12.2</sourcedir>
+  <sourcefile>isoimagewriter-25.08.0.tar.xz</sourcefile>
+  <sourcedir>isoimagewriter-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kde-dev-utils</code>
   <description/>
-  <sourcefile>kde-dev-utils-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kde-dev-utils-24.12.2</sourcedir>
+  <sourcefile>kde-dev-utils-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kde-dev-utils-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

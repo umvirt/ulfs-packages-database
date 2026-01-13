@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>kdeconnect-kde</code>
   <description/>
-  <sourcefile>kdeconnect-kde-24.12.2.tar.xz</sourcefile>
-  <sourcedir>kdeconnect-kde-24.12.2</sourcedir>
+  <sourcefile>kdeconnect-kde-25.08.0.tar.xz</sourcefile>
+  <sourcedir>kdeconnect-kde-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
