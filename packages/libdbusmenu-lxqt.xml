@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libdbusmenu-lxqt</code>
   <description>VGhlIGxpYmRidXNtZW51LWx4cXQgcGFja2FnZSBwcm92aWRlcyBhIFF0IGltcGxlbWVudGF0aW9uIG9mIHRoZSBEQnVzTWVudSBwcm90b2NvbC4=</description>
-  <sourcefile>libdbusmenu-lxqt-0.2.0.tar.xz</sourcefile>
-  <sourcedir>libdbusmenu-lxqt-0.2.0</sourcedir>
+  <sourcefile>libdbusmenu-lxqt-0.3.0.tar.xz</sourcefile>
+  <sourcedir>libdbusmenu-lxqt-0.3.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-policykit</code>
   <description>VGhlIGx4cXQtcG9saWN5a2l0IHBhY2thZ2UgaXMgdGhlIExYUXQgUG9saWN5S2l0IGFnZW50Lg==</description>
-  <sourcefile>lxqt-policykit-2.1.0.tar.xz</sourcefile>
-  <sourcedir>lxqt-policykit-2.1.0</sourcedir>
+  <sourcefile>lxqt-policykit-2.2.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-policykit-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>qps</code>
   <description>VGhlIHFwcyBwYWNrYWdlIGNvbnRhaW5zIGEgUXQgcHJvY2VzcyBtYW5hZ2VyLg==</description>
-  <sourcefile>qps-2.10.0.tar.xz</sourcefile>
-  <sourcedir>qps-2.10.0</sourcedir>
+  <sourcefile>qps-2.11.1.tar.xz</sourcefile>
+  <sourcedir>qps-2.11.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

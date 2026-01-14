@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-qtplugin</code>
   <description>VGhlIGx4cXQtcXRwbHVnaW4gcGFja2FnZSBwcm92aWRlcyBhbiBMWFF0IFF0IHBsYXRmb3JtIGludGVncmF0aW9uIHBsdWdpbi4=</description>
-  <sourcefile>lxqt-qtplugin-2.1.0.tar.xz</sourcefile>
-  <sourcedir>lxqt-qtplugin-2.1.0</sourcedir>
+  <sourcefile>lxqt-qtplugin-2.2.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-qtplugin-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

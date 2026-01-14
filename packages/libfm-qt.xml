@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libfm-qt</code>
   <description>bGliZm0tcXQgaXMgdGhlIFF0IHBvcnQgb2YgbGliZm0sIGEgbGlicmFyeSBwcm92aWRpbmcgY29tcG9uZW50cyB0byBidWlsZCBkZXNrdG9wIGZpbGUgbWFuYWdlcnMuIEluIExYUXQsIGxpYmZtLXF0IGFsc28gaGFuZGxlcyBkZXNrdG9wIGljb25zIGFuZCBiYWNrZ3JvdW5kcy4=</description>
-  <sourcefile>libfm-qt-2.1.0.tar.xz</sourcefile>
-  <sourcedir>libfm-qt-2.1.0</sourcedir>
+  <sourcefile>libfm-qt-2.2.0.tar.xz</sourcefile>
+  <sourcedir>libfm-qt-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

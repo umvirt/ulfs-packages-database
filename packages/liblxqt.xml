@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>liblxqt</code>
   <description>VGhlIGxpYmx4cXQgaXMgdGhlIGNvcmUgdXRpbGl0eSBsaWJyYXJ5IGZvciBhbGwgTFhRdCBjb21wb25lbnRzLg==</description>
-  <sourcefile>liblxqt-2.1.0.tar.xz</sourcefile>
-  <sourcedir>liblxqt-2.1.0</sourcedir>
+  <sourcefile>liblxqt-2.2.0.tar.xz</sourcefile>
+  <sourcedir>liblxqt-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

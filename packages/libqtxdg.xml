@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libqtxdg</code>
   <description>VGhlIGxpYnF0eGRnIHBhY2thZ2UgY29udGFpbnMgYSBRdCBpbXBsZW1lbnRhdGlvbiBvZiB0aGUgZnJlZWRlc2t0b3Aub3JnIFhERyBzcGVjaWZpY2F0aW9ucy4=</description>
-  <sourcefile>libqtxdg-4.1.0.tar.xz</sourcefile>
-  <sourcedir>libqtxdg-4.1.0</sourcedir>
+  <sourcefile>libqtxdg-4.2.0.tar.xz</sourcefile>
+  <sourcedir>libqtxdg-4.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

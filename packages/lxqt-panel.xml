@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-panel</code>
   <description>VGhlIGx4cXQtcGFuZWwgcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IFgxMSBkZXNrdG9wIHBhbmVsLg==</description>
-  <sourcefile>lxqt-panel-2.1.4.tar.xz</sourcefile>
-  <sourcedir>lxqt-panel-2.1.4</sourcedir>
+  <sourcefile>lxqt-panel-2.2.2.tar.xz</sourcefile>
+  <sourcedir>lxqt-panel-2.2.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

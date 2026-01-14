@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-config</code>
   <description>VGhlIGx4cXQtY29uZmlnIHBhY2thZ2UgcHJvdmlkZXMgdGhlIExYUXQgQ29uZmlndXJhdGlvbiBDZW50ZXIu</description>
-  <sourcefile>lxqt-config-2.1.1.tar.xz</sourcefile>
-  <sourcedir>lxqt-config-2.1.1</sourcedir>
+  <sourcefile>lxqt-config-2.2.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-config-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

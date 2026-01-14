@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-session</code>
   <description>VGhlIGx4cXQtc2Vzc2lvbiBwYWNrYWdlIGNvbnRhaW5zIHRoZSBkZWZhdWx0IHNlc3Npb24gbWFuYWdlciBmb3IgTFhRdC4=</description>
-  <sourcefile>lxqt-session-2.1.1.tar.xz</sourcefile>
-  <sourcedir>lxqt-session-2.1.1</sourcedir>
+  <sourcefile>lxqt-session-2.2.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-session-2.2.0</sourcedir>
   <unpack/>
   <configure>c2VkIC1lICcvVHJ5RXhlYy9zfD18PS91c3IvYmluL3wnIFwNCiAgICAtaSB4c2Vzc2lvbi9seHF0LmRlc2t0b3AuaW4gJiYNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLiAgDQo=</configure>
   <build/>

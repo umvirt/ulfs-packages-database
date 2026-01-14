@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>screengrab</code>
   <description>VGhlIHNjcmVlbmdyYWIgcGFja2FnZSBpcyBhIGNyb3NzLXBsYXRmb3JtIHRvb2wgZm9yIG1ha2luZyBzY3JlZW5zaG90cyBxdWlja2x5Lg==</description>
-  <sourcefile>screengrab-2.9.0.tar.xz</sourcefile>
-  <sourcedir>screengrab-2.9.0</sourcedir>
+  <sourcefile>screengrab-3.0.0.tar.xz</sourcefile>
+  <sourcedir>screengrab-3.0.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

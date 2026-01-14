@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-admin</code>
   <description>VGhlIGx4cXQtYWRtaW4gcGFja2FnZSBwcm92aWRlcyB0d28gR1VJIHRvb2xzIHRvIGFkanVzdCBzZXR0aW5ncyBvZiB0aGUgb3BlcmF0aW5nIHN5c3RlbSBMWFF0IGlzIHJ1bm5pbmcgb24u</description>
-  <sourcefile>lxqt-admin-2.1.0.tar.xz</sourcefile>
-  <sourcedir>lxqt-admin-2.1.0</sourcedir>
+  <sourcefile>lxqt-admin-2.2.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-admin-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

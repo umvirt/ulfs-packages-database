@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>xdg-desktop-portal-lxqt</code>
   <description>eGRnLWRlc2t0b3AtcG9ydGFsLWx4cXQgaXMgYSBiYWNrZW5kIGZvciB4ZGctZGVza3RvcC1wb3J0YWwsIHRoYXQgaXMgdXNpbmcgdGhlIFF0IGxpYnJhcnku</description>
-  <sourcefile>xdg-desktop-portal-lxqt-1.1.0.tar.xz</sourcefile>
-  <sourcedir>xdg-desktop-portal-lxqt-1.1.0</sourcedir>
+  <sourcefile>xdg-desktop-portal-lxqt-1.2.0.tar.xz</sourcefile>
+  <sourcedir>xdg-desktop-portal-lxqt-1.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

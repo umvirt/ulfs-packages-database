@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>qtermwidget</code>
   <description>QXMgdGhlIG5hbWUgc3VnZ2VzdHMsIHRoZSBxdGVybXdpZGdldCBwYWNrYWdlIGlzIGEgdGVybWluYWwgd2lkZ2V0IGZvciBRdC4=</description>
-  <sourcefile>qtermwidget-2.1.0.tar.xz</sourcefile>
-  <sourcedir>qtermwidget-2.1.0</sourcedir>
+  <sourcefile>qtermwidget-2.2.0.tar.xz</sourcefile>
+  <sourcedir>qtermwidget-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

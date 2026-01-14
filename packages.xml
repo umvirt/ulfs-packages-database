@@ -1372,7 +1372,7 @@
     <package>qtermwidget</package>
     <package>qterminal</package>
     <package>screengrab</package>
-    <package>!LXQT</package>
+    <package>LXQT</package>
     <package>python3-build</package>
     <package>python3-pyproject-hooks</package>
     <package>recordmydesktop</package>

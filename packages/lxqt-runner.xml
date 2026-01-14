@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-runner</code>
   <description>VGhlIGx4cXQtcnVubmVyIHBhY2thZ2UgcHJvdmlkZXMgYSB0b29sIHVzZWQgdG8gbGF1bmNoIHByb2dyYW1zIHF1aWNrbHkgYnkgdHlwaW5nIHRoZWlyIG5hbWVzLg==</description>
-  <sourcefile>lxqt-runner-2.1.2.tar.xz</sourcefile>
-  <sourcedir>lxqt-runner-2.1.2</sourcedir>
+  <sourcefile>lxqt-runner-2.2.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-runner-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

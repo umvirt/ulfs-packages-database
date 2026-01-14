@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-menu-data</code>
   <description>VGhlIGx4cXQtbWVudS1kYXRhIHBhY2thZ2UgY29udGFpbnMgY29tcGxpYW50IG1lbnUgZmlsZXMgZm9yIExYUXQu</description>
-  <sourcefile>lxqt-menu-data-2.1.0.tar.xz</sourcefile>
-  <sourcedir>lxqt-menu-data-2.1.0</sourcedir>
+  <sourcefile>lxqt-menu-data-2.2.0.tar.xz</sourcefile>
+  <sourcedir>lxqt-menu-data-2.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

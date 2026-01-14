@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>qtxdg-tools</code>
   <description>VGhlIHF0eGRnLXRvb2xzIGNvbnRhaW5zIGEgQ0xJIE1JTUUgdG9vbCBmb3IgaGFuZGxpbmcgZmlsZSBhc3NvY2lhdGlvbnMgYW5kIG9wZW5pbmcgZmlsZXMgd2l0aCB0aGVpciBkZWZhdWx0IGFwcGxpY2F0aW9ucy4=</description>
-  <sourcefile>qtxdg-tools-4.1.0.tar.xz</sourcefile>
-  <sourcedir>qtxdg-tools-4.1.0</sourcedir>
+  <sourcefile>qtxdg-tools-4.2.0.tar.xz</sourcefile>
+  <sourcedir>qtxdg-tools-4.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

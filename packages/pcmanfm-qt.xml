@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>pcmanfm-qt</code>
   <description>VGhlIHBjbWFuZm0tcXQgaXMgYSBmaWxlIG1hbmFnZXIgYW5kIGRlc2t0b3AgaWNvbiBtYW5hZ2VyIChhIFF0IHBvcnQgb2YgcGNtYW5mbSBhbmQgbGliZm0pLg==</description>
-  <sourcefile>pcmanfm-qt-2.1.0.tar.xz</sourcefile>
-  <sourcedir>pcmanfm-qt-2.1.0</sourcedir>
+  <sourcefile>pcmanfm-qt-2.2.0.tar.xz</sourcefile>
+  <sourcedir>pcmanfm-qt-2.2.0</sourcedir>
   <unpack/>
   <configure>aWYgWyAgIC1lIC9vcHQva2Y2L2xpYi9saWJMYXllclNoZWxsUXRJbnRlcmZhY2Uuc28gLWEgXA0KICAgICAhIC1lIC91c3IvbGliL2xpYkxheWVyU2hlbGxRdEludGVyZmFjZS5zbyBdOyB0aGVuDQoNCiAgICBsbiAtc3YgL29wdC9rZjYvbGliL2xpYkxheWVyU2hlbGxRdEludGVyZmFjZS5zbyBcDQogICAgICAgICAgIC91c3IvbGliL2xpYkxheWVyU2hlbGxRdEludGVyZmFjZS5zbw0KZmkNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLiAgICAgICAgICAgICAgICAgICAgICAgICAgICYmDQptYWtlDQo=</configure>
   <build/>

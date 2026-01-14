@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>lxqt-powermanagement</code>
   <description>VGhlIGx4cXQtcG93ZXJtYW5hZ2VtZW50IHBhY2thZ2UgcHJvdmlkZXMgdGhlIHBvd2VyIG1hbmFnZW1lbnQgbW9kdWxlIGZvciBMWFF0Lg==</description>
-  <sourcefile>lxqt-powermanagement-2.1.0.tar.xz</sourcefile>
-  <sourcedir>lxqt-powermanagement-2.1.0</sourcedir>
+  <sourcefile>lxqt-powermanagement-2.2.1.tar.xz</sourcefile>
+  <sourcedir>lxqt-powermanagement-2.2.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>
