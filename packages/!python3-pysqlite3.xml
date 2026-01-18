@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>python3-pysqlite3</code>
+  <code>!python3-pysqlite3</code>
   <description>REItQVBJIDIuMCBpbnRlcmZhY2UgZm9yIFNxbGl0ZSAzLng=</description>
   <sourcefile>pysqlite3-0.5.4.tar.gz</sourcefile>
   <sourcedir>pysqlite3-0.5.4</sourcedir>
