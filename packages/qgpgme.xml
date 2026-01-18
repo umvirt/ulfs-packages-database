@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>skanpage</code>
-  <description/>
-  <sourcefile>skanpage-25.08.0.tar.xz</sourcefile>
-  <sourcedir>skanpage-25.08.0</sourcedir>
+  <code>qgpgme</code>
+  <description>UXQgYmluZGluZ3MgZm9yIEdQR01F</description>
+  <sourcefile>qgpgme-2.0.0.tar.xz</sourcefile>
+  <sourcedir>qgpgme-2.0.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>kde-apps</template>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
-      <code>tesseract</code>
+      <code>qt6</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>kquickimageeditor</code>
-      <weight>1</weight>
-    </dependance>
-    <dependance>
-      <code>ksanecore</code>
-      <weight>2</weight>
+      <code>gpgmepp</code>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>

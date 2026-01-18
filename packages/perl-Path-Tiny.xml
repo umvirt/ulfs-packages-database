@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>perl-Path-Tiny</code>
   <description>UGF0aDo6VGlueSAtIEZpbGUgcGF0aCB1dGlsaXR5</description>
-  <sourcefile>Path-Tiny-0.148.tar.gz</sourcefile>
-  <sourcedir>Path-Tiny-0.148</sourcedir>
+  <sourcefile>Path-Tiny-0.150.tar.gz</sourcefile>
+  <sourcedir>Path-Tiny-0.150</sourcedir>
   <unpack/>
   <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>

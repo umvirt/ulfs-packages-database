@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>tesseract</code>
+  <description>T3BlbiBTb3VyY2UgT0NSIEVuZ2luZQ==</description>
+  <sourcefile>tesseract-5.5.2.tar.gz</sourcefile>
+  <sourcedir>tesseract-5.5.2</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build>bWFrZQ0KbWFrZSB0cmFpbmluZw==</build>
+  <install>bWFrZSBpbnN0YWxsDQptYWtlIHRyYWluaW5nLWluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>icu</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>curl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libarchive</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>cairo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>pango</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>leptonica</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tessdata</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

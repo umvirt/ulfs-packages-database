@@ -11,7 +11,24 @@
   <install/>
   <localbuild>0</localbuild>
   <template>kde-apps</template>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>libgpg-error</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gpgme</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gpgme-qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qgpgme</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

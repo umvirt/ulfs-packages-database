@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>skanpage</code>
+  <code>artikulate</code>
   <description/>
-  <sourcefile>skanpage-25.08.0.tar.xz</sourcefile>
-  <sourcedir>skanpage-25.08.0</sourcedir>
+  <sourcefile>artikulate-25.08.0.tar.xz</sourcefile>
+  <sourcedir>artikulate-25.08.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -13,16 +13,8 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
-      <code>tesseract</code>
+      <code>KF6</code>
       <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>kquickimageeditor</code>
-      <weight>1</weight>
-    </dependance>
-    <dependance>
-      <code>ksanecore</code>
-      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

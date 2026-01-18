@@ -3,10 +3,10 @@
   <release>0.2.4</release>
   <code>vorbis-tools</code>
   <description>VGhlIFZvcmJpcyBUb29scyBwYWNrYWdlIGNvbnRhaW5zIGNvbW1hbmQtbGluZSB0b29scyB1c2VmdWwgZm9yIGVuY29kaW5nLCBwbGF5aW5nIG9yIGVkaXRpbmcgZmlsZXMgdXNpbmcgdGhlIE9nZyBjb2RlYy4=</description>
-  <sourcefile>vorbis-tools-1.4.2.tar.gz</sourcefile>
-  <sourcedir>vorbis-tools-1.4.2</sourcedir>
+  <sourcefile>vorbis-tools-1.4.3.tar.gz</sourcefile>
+  <sourcedir>vorbis-tools-1.4.3</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvaTE4bi5oL2kgI2luY2x1ZGUgInV0ZjguaCInIG9nZ2luZm8vY29kZWNfc2tlbGV0b24uYw0KDQpzZWQgLWkgJ3Mvc3RhcnQrMSwvc3RhcnQgKyBzdHJzcG4oc3RhcnQsIFBBVEhfU0VQUyksLycgb2dnZW5jL3BsYXRmb3JtLmMNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS12Y3V0IA0K</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS12Y3V0DQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-ytmusicapi</code>
   <description>VW5vZmZpY2lhbCBBUEkgZm9yIFlvdVR1YmUgTXVzaWM=</description>
-  <sourcefile>ytmusicapi-2bd7982a5d4368e610d553aa835f978cddfb0a97.tar.bz2</sourcefile>
-  <sourcedir>ytmusicapi-2bd7982a5d4368e610d553aa835f978cddfb0a97</sourcedir>
+  <sourcefile>ytmusicapi-21445ca6f3bff83fc4f4f4546fc316710f517731.tar.gz</sourcefile>
+  <sourcedir>ytmusicapi-21445ca6f3bff83fc4f4f4546fc316710f517731</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

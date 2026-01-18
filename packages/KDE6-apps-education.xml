@@ -12,60 +12,72 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>blinken</code>
+      <code>artikulate</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>cantor</code>
+      <code>blinken</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>kalgebra</code>
+      <code>cantor</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>kanagram</code>
+      <code>kalgebra</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>kbruch</code>
+      <code>kanagram</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>kgeography</code>
+      <code>kbruch</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>khangman</code>
+      <code>kgeography</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>kiten</code>
+      <code>khangman</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>klettres</code>
+      <code>kig</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>kmplot</code>
+      <code>kiten</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>kturtle</code>
+      <code>klettres</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>kwordquiz</code>
+      <code>kmplot</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>marble</code>
+      <code>kturtle</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>parley</code>
+      <code>kwordquiz</code>
       <weight>14</weight>
+    </dependance>
+    <dependance>
+      <code>marble</code>
+      <weight>15</weight>
+    </dependance>
+    <dependance>
+      <code>parley</code>
+      <weight>16</weight>
+    </dependance>
+    <dependance>
+      <code>step</code>
+      <weight>17</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>leptonica</code>
+  <description>TGVwdG9uaWNhIGlzIGFuIG9wZW4gc291cmNlIGxpYnJhcnkgY29udGFpbmluZyBzb2Z0d2FyZSB0aGF0IGlzIGJyb2FkbHkgdXNlZnVsIGZvciBpbWFnZSBwcm9jZXNzaW5nIGFuZCBpbWFnZSBhbmFseXNpcyBhcHBsaWNhdGlvbnMu</description>
+  <sourcefile>leptonica-1.87.0.tar.gz</sourcefile>
+  <sourcedir>leptonica-1.87.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libpng</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libjpeg-turbo</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libwebp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>openjpeg</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>giflib</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

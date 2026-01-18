@@ -33,12 +33,7 @@
       <weight>5</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>kajongg-skip-twisted-detection.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

@@ -13,7 +13,7 @@
   <dependances/>
   <patches>
     <patch>
-      <filename>id3lib-debian-comulative.patch</filename>
+      <filename>id3lib-3.8.3-consolidated_patches-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

@@ -1715,7 +1715,7 @@
     <package>libproxy</package>
     <package>kdepim-runtime</package>
     <package>python3-qtpy</package>
-    <package>python3-pysqlite3</package>
+    <package>!python3-pysqlite3</package>
     <package>python3</package>
     <package>vorbis-tools</package>
     <package>KDE-apps-all</package>
@@ -1791,5 +1791,13 @@
     <package>mako</package>
     <package>aurorae</package>
     <package>kwin-x11</package>
+    <package>artikulate</package>
+    <package>kig</package>
+    <package>check</package>
+    <package>step</package>
+    <package>qgpgme</package>
+    <package>leptonica</package>
+    <package>tesseract</package>
+    <package>tessdata</package>
   </packages>
 </packages>

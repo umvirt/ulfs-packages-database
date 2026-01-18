@@ -13,6 +13,14 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
+      <code>kmailtransport</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>kidentitymanagement</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>akonadi-contacts</code>
       <weight>1</weight>
     </dependance>

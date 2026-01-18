@@ -13,6 +13,10 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
+      <code>qgpgme</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>gpgme-qt6</code>
       <weight>1</weight>
     </dependance>

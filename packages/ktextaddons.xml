@@ -7,9 +7,10 @@
   <sourcedir>ktextaddons-1.6.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX0RFU0lHTkVSUExVR0lOPU9OICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1FDSD1PTiAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>qtkeychain-qt6</code>

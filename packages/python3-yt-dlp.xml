@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-yt-dlp</code>
   <description>QSBmZWF0dXJlLXJpY2ggY29tbWFuZC1saW5lIGF1ZGlvL3ZpZGVvIGRvd25sb2FkZXI=</description>
-  <sourcefile>yt-dlp-2025.05.22.tar.gz</sourcefile>
-  <sourcedir>yt-dlp-2025.05.22</sourcedir>
+  <sourcefile>yt-dlp-2025.12.08.tar.gz</sourcefile>
+  <sourcedir>yt-dlp-2025.12.08</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>

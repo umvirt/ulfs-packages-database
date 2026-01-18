@@ -13,6 +13,10 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
+      <code>python3-pybind11</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>futuresql-qt6</code>
       <weight>1</weight>
     </dependance>
