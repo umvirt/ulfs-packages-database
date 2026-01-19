@@ -6,7 +6,7 @@
   <sourcefile>kdenlive-25.08.0.tar.xz</sourcefile>
   <sourcedir>kdenlive-25.08.0</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIEZFVENIX09USU89T0ZGICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
@@ -23,6 +23,10 @@
     <dependance>
       <code>KF6</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>OpenTimelineIO</code>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

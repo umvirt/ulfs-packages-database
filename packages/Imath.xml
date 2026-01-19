@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>Imath</code>
+  <description>SW1hdGggaXMgYSBDKysgYW5kIHB5dGhvbiBsaWJyYXJ5IG9mIDJEIGFuZCAzRCB2ZWN0b3IsIG1hdHJpeCwgYW5kIG1hdGggb3BlcmF0aW9ucyBmb3IgY29tcHV0ZXIgZ3JhcGhpY3M=</description>
+  <sourcefile>Imath-3.2.2.tar.gz</sourcefile>
+  <sourcedir>Imath-3.2.2</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgUFlUSE9OPU9OICAgICAgICAgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAgIC4u</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-make</template>
+  <dependances>
+    <dependance>
+      <code>git</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>boost</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-numpy</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
