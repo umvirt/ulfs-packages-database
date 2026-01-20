@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>kunifiedpush</code>
+  <description/>
+  <sourcefile>kunifiedpush-1.0.0.tar.xz</sourcefile>
+  <sourcedir>kunifiedpush-1.0.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-make</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

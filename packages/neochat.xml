@@ -28,6 +28,10 @@
       <code>cmark</code>
       <weight>4</weight>
     </dependance>
+    <dependance>
+      <code>kunifiedpush</code>
+      <weight>5</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>
