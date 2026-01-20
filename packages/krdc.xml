@@ -13,16 +13,16 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
+      <code>freerdp</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libssh2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
       <code>libvncserver</code>
       <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>freerdp2</code>
-      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>
