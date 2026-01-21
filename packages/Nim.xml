@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.3</release>
+  <code>Nim</code>
+  <description>SW1wZXJhdGl2ZSwgbXVsdGktcGFyYWRpZ20sIGNvbXBpbGVkIHByb2dyYW1taW5nIGxhbmd1YWdl</description>
+  <sourcefile>Nim-2.2.6.tar.gz</sourcefile>
+  <sourcedir>Nim-2.2.6</sourcedir>
+  <unpack/>
+  <configure>N3phIHggLi4vY3NvdXJjZXNfdjItODY3NDJmYjAyYzY2MDZhYjAxYTUzMmEwMDg1Nzg0ZWZmYjJlNzUzZS43eg0KbXYgY3NvdXJjZXNfdjItODY3NDJmYjAyYzY2MDZhYjAxYTUzMmEwMDg1Nzg0ZWZmYjJlNzUzZSBjc291cmNlc192Mg0Kcm0gYmluL2VtcHR5LnR4dA==</configure>
+  <build>ZXhwb3J0IFBBVEg9IiRQV0QvYmluOiR7UEFUSH0iDQplY2hvICJCdWlsZGluZyBuaW0iDQpzaCBidWlsZF9hbGwuc2gNCmVjaG8gIkJ1aWxkaW5nIGtvY2giDQpuaW0gYyAtZDpyZWxlYXNlIGtvY2gNCi4va29jaCBib290IC1kOnJlbGVhc2UgLWQ6bmF0aXZlU3RhY2t0cmFjZSAtZDp1c2VHbnVSZWFkbGluZQ0KDQplY2hvICJCdWlsZGluZyBsaWJzIg0KKGNkIGxpYg0KbmltIGMgLS1hcHA6bGliIC1kOmNyZWF0ZU5pbVJ0bCAtZDpyZWxlYXNlIG5pbXJ0bC5uaW0NCikNCg0KZWNobyAiQnVpbGRpbmcgdG9vbHMiDQouL2tvY2ggdG9vbHMNCihjZCB0b29scw0KbmltIGMgLWQ6cmVsZWFzZSBuaW1ncmVwLm5pbQ0KKQ0KDQplY2hvICJCdWlsZGluZyBuaW1zdWdnZXN0Ig0KbmltIGMgLWQ6cmVsZWFzZSBuaW1zdWdnZXN0L25pbXN1Z2dlc3QubmltDQo=</build>
+  <install>ZXhwb3J0IFBBVEg9IiRQV0QvYmluOiR7UEFUSH0iDQouL2tvY2ggaW5zdGFsbCAiT1VUIg0KDQppbnN0YWxsIC1kICJPVVQvdXNyL2xpYiINCmNwIC1hIGxpYiAiT1VUL3Vzci9saWIvbmltIg0KY3AgLWEgY29tcGlsZXIgIk9VVC91c3IvbGliL25pbSINCmluc3RhbGwgLURtIDY0NCBuaW0ubmltYmxlICJPVVQvdXNyL2xpYi9uaW0vY29tcGlsZXIiDQppbnN0YWxsIC1tIDc1NSBsaWIvbGlibmltcnRsLnNvICJPVVQvdXNyL2xpYi9saWJuaW1ydGwuc28iDQoNCmluc3RhbGwgLURtIDY0NCBjb25maWcvKiAtdCAiT1VUL2V0Yy9uaW0iDQppbnN0YWxsIC1EbSA3NTUgYmluLyogLXQgIk9VVC91c3IvYmluIg0KDQojIEZpeCBGUyM1MDI1MiwgdW51c3VhbCBwbGFjZW1lbnQgb2YgaGVhZGVyIGZpbGVzDQppbnN0YWxsIC1kICJPVVQvdXNyL2luY2x1ZGUiDQpjcCAtYSAiT1VUL3Vzci9saWIvbmltLyIqLmggIk9VVC91c3IvaW5jbHVkZSINCg0KIyBGaXggRlMjNDgxMTgsIHJlbGF0ZWQgdG8gdGhlIGRvYzIgY29tbWFuZA0KbG4gLXMgL3Vzci9zaGFyZS9uaW0vZG9jICJPVVQvdXNyL2xpYi9uaW0vZG9jIg0KaW5zdGFsbCAtZCAiT1VUL3Vzci9zaGFyZS9uaW0vZG9jIg0KY3AgLWEgZG9jLyogIk9VVC91c3Ivc2hhcmUvbmltL2RvYyINCg0KIyBGaXggd3JvbmcgcGF0aCBmb3Igc3lzdGVtLm5pbSBodHRwczovL2dpdGh1Yi5jb20vbmltLWxhbmcvTmltL2lzc3Vlcy8yMjM2OQ0KbG4gLXMgL3Vzci9saWIvbmltIC91c3IvbGliL25pbS9saWINCg0KI3N5c3RlbSBpbnN0YWxsDQpjcCAtcnYgT1VUL2V0Yy8qIC9ldGMNCmNwIC1ydiBPVVQvdXNyLyogL3Vzcg0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>git</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>7zip</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>csources_v2-86742fb02c6606ab01a532a0085784effb2e753e.7z</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>
