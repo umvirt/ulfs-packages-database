@@ -2,38 +2,34 @@
 <package>
   <release>0.2.4</release>
   <code>ansible</code>
-  <description>QW5zaWJsZSBpcyBhbiBJVCBhdXRvbWF0aW9uIHRvb2wuIEl0IGNhbiBjb25maWd1cmUgc3lzdGVtcywgZGVwbG95IHNvZnR3YXJlLCBhbmQgb3JjaGVzdHJhdGUgbW9yZSBhZHZhbmNlZCBJVCB0YXNrcyBzdWNoIGFzIGNvbnRpbnVvdXMgZGVwbG95bWVudHMgb3IgemVybyBkb3dudGltZSByb2xsaW5nIHVwZGF0ZXMu</description>
-  <sourcefile>ansible-2.18.6.tar.gz</sourcefile>
-  <sourcedir>ansible-2.18.6</sourcedir>
+  <description>UmFkaWNhbGx5IHNpbXBsZSBJVCBhdXRvbWF0aW9u</description>
+  <sourcefile>ansible-13.2.0.tar.gz</sourcefile>
+  <sourcedir>ansible-13.2.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGFuc2libGUtY29yZQ==</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdEDQo=</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGFuc2libGU=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>python3-cryptography</code>
-      <weight>1</weight>
+      <code>python3-cffi</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
-      <code>python3-cffi</code>
-      <weight>2</weight>
+      <code>python3-pycparser</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
       <code>python3-pyyaml</code>
-      <weight>4</weight>
+      <weight>0</weight>
     </dependance>
     <dependance>
-      <code>sshpass</code>
-      <weight>5</weight>
+      <code>ansible-core</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
       <code>python3-jinja2</code>
-      <weight>6</weight>
-    </dependance>
-    <dependance>
-      <code>python3-resolvelib</code>
-      <weight>7</weight>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>

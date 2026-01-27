@@ -1378,7 +1378,7 @@
     <package>recordmydesktop</package>
     <package>gtk-recordmydesktop</package>
     <package>sshpass</package>
-    <package>ansible</package>
+    <package>ansible-core</package>
     <package>python3-jinja2</package>
     <package>python3-resolvelib</package>
     <package>ZoneMinder</package>
@@ -1802,5 +1802,6 @@
     <package>OpenTimelineIO</package>
     <package>Imath</package>
     <package>kunifiedpush</package>
+    <package>ansible</package>
   </packages>
 </packages>

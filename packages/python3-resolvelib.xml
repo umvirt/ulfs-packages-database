@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>python3-resolvelib</code>
   <description>UmVzb2x2ZSBhYnN0cmFjdCBkZXBlbmRlbmNpZXMgaW50byBjb25jcmV0ZSBvbmVz</description>
-  <sourcefile>resolvelib-1.0.1.tar.gz</sourcefile>
-  <sourcedir>resolvelib-1.0.1</sourcedir>
+  <sourcefile>resolvelib-1.2.0.tar.gz</sourcefile>
+  <sourcedir>resolvelib-1.2.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
