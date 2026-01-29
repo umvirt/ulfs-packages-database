@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libjwt</code>
   <description>SldUIEMgTGlicmFyeQ==</description>
-  <sourcefile>libjwt-1.18.3.tar.bz2</sourcefile>
-  <sourcedir>libjwt-1.18.3</sourcedir>
+  <sourcefile>libjwt-3.2.3.tar.gz</sourcefile>
+  <sourcedir>libjwt-3.2.3</sourcedir>
   <unpack/>
-  <configure>YXV0b3JlY29uZiAtaQ0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg==</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1Ob25lICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQlVJTERfU0hBUkVEX0xJQlM9T04gICAgICAgXA0KICAgICAgLURXSVRIX1BLR0NPTkZJRz1PTiAgICAgICAgICBcDQogICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgIFwNCiAgICAgIC1Xbm8tZGV2ICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgLi4NCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>jansson</code>

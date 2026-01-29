@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>perl-clone</code>
   <description>UmVjdXJzaXZlbHkgY29weSBQZXJsIGRhdGF0eXBlcy4=</description>
-  <sourcefile>Clone-0.46.tar.gz</sourcefile>
-  <sourcedir>Clone-0.46</sourcedir>
+  <sourcefile>Clone-0.47.tar.gz</sourcefile>
+  <sourcedir>Clone-0.47</sourcedir>
   <unpack/>
   <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>

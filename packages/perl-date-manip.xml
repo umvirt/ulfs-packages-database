@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>perl-date-manip</code>
   <description>U2VyaWVzIG9mIG1vZHVsZXMgZGVzaWduZWQgdG8gbWFrZSBhbnkgY29tbW9uIGRhdGUvdGltZSBvcGVyYXRpb24gZWFzeSB0byBkby4=</description>
-  <sourcefile>Date-Manip-6.92.tar.gz</sourcefile>
-  <sourcedir>Date-Manip-6.92</sourcedir>
+  <sourcefile>Date-Manip-6.98.tar.gz</sourcefile>
+  <sourcedir>Date-Manip-6.98</sourcedir>
   <unpack/>
   <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>

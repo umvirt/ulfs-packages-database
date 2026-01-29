@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>perl-http-message</code>
   <description>SFRUUCBzdHlsZSBtZXNzYWdlIChiYXNlIGNsYXNzKQ==</description>
-  <sourcefile>HTTP-Message-6.44.tar.gz</sourcefile>
-  <sourcedir>HTTP-Message-6.44</sourcedir>
+  <sourcefile>perl-http-message-7.01.tar.gz</sourcefile>
+  <sourcedir>HTTP-Message-7.01</sourcedir>
   <unpack/>
   <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>

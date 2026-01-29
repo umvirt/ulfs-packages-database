@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>perl-try-tiny</code>
   <description>TWluaW1hbCB0cnkvY2F0Y2ggd2l0aCBwcm9wZXIgcHJlc2VydmF0aW9uIG9mICRALg==</description>
-  <sourcefile>Try-Tiny-0.31.tar.gz</sourcefile>
-  <sourcedir>Try-Tiny-0.31</sourcedir>
+  <sourcefile>Try-Tiny-0.32.tar.gz</sourcefile>
+  <sourcedir>Try-Tiny-0.32</sourcedir>
   <unpack/>
   <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>

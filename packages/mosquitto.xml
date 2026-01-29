@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>mosquitto</code>
   <description>RWNsaXBzZSBNb3NxdWl0dG8gLSBBbiBvcGVuIHNvdXJjZSBNUVRUIGJyb2tlcg==</description>
-  <sourcefile>mosquitto-2.0.21.tar.gz</sourcefile>
-  <sourcedir>mosquitto-2.0.21</sourcedir>
+  <sourcefile>mosquitto-2.0.22.tar.gz</sourcefile>
+  <sourcedir>mosquitto-2.0.22</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9TWVNDT05GRElSPS9ldGMgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

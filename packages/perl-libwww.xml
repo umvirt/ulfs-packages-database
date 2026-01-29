@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>perl-libwww</code>
   <description>VGhlIFdvcmxkLVdpZGUgV2ViIGxpYnJhcnkgZm9yIFBlcmw=</description>
-  <sourcefile>libwww-perl-6.71.tar.gz</sourcefile>
-  <sourcedir>libwww-perl-6.71</sourcedir>
+  <sourcefile>libwww-perl-6.81.tar.gz</sourcefile>
+  <sourcedir>libwww-perl-6.81</sourcedir>
   <unpack/>
   <configure>cGVybCBNYWtlZmlsZS5QTA==</configure>
   <build/>
