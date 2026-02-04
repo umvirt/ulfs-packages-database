@@ -1422,7 +1422,7 @@
     <package>kernel-leds</package>
     <package>kernel-nolibc</package>
     <package>kernel-objtool</package>
-    <package>kernel-pci</package>
+    <package>!kernel-pci</package>
     <package>kernel-bootconfig</package>
     <package>kernel-spi</package>
     <package>kernel-tmon</package>

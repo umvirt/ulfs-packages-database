@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>!kernel-pci</code>
+  <description>UENJIHRvb2xz</description>
+  <sourcefile/>
+  <sourcedir>kernel</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSAtQyB0b29scy8gcGNp</build>
+  <install>bWFrZSAtQyB0b29scy8gcGNpX2luc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

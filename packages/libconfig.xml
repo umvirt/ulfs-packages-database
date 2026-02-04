@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libconfig</code>
   <description/>
-  <sourcefile>libconfig-1.8.1.tar.gz</sourcefile>
-  <sourcedir>libconfig-1.8.1</sourcedir>
+  <sourcefile>libconfig-1.8.2.tar.gz</sourcefile>
+  <sourcedir>libconfig-1.8.2</sourcedir>
   <unpack/>
   <configure>YXV0b3JlY29uZiAtZnZpDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyDQo=</configure>
   <build/>

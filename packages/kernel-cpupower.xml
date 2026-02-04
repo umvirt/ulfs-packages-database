@@ -10,7 +10,12 @@
   <build>bWFrZSAtQyB0b29scy8gY3B1cG93ZXI=</build>
   <install>bWFrZSAtQyB0b29scy8gY3B1cG93ZXJfaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>pciutils</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>
