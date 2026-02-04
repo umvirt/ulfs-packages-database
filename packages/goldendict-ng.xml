@@ -3,14 +3,23 @@
   <release>0.2.4</release>
   <code>goldendict-ng</code>
   <description>VGhlIE5leHQgR2VuZXJhdGlvbiBHb2xkZW5EaWN0</description>
-  <sourcefile>goldendict-ng-25.06.0-alpha.bb1e5694.tar.gz</sourcefile>
-  <sourcedir>goldendict-ng-25.06.0-alpha.bb1e5694</sourcedir>
+  <sourcefile>goldendict-ng-26.1.1-Release.5491ffca.tar.gz</sourcefile>
+  <sourcedir>goldendict-ng-26.1.1-Release.5491ffca</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBVU0VfU1lTVEVNX0ZNVD1PTiBcDQogICAgICAtRCBVU0VfU1lTVEVNX1RPTUw9T04gXA0KICAgICAgLi4=</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
+    <dependance>
+      <code>fmt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>tomlplusplus</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libvorbis</code>
       <weight>1</weight>

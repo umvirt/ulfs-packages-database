@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libzim</code>
   <description>UmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBaSU0gc3BlY2lmaWNhdGlvbg==</description>
-  <sourcefile>libzim-9.3.0.tar.gz</sourcefile>
-  <sourcedir>libzim-9.3.0</sourcedir>
+  <sourcefile>libzim-9.4.0.tar.gz</sourcefile>
+  <sourcedir>libzim-9.4.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNy</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphIA0K</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build>DQo=</build>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>icu</code>
@@ -24,12 +25,7 @@
       <weight>3</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>libzim-9.2.3-icu76-build-fix.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

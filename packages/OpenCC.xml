@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>OpenCC</code>
   <description>Q29udmVyc2lvbiBiZXR3ZWVuIFRyYWRpdGlvbmFsIGFuZCBTaW1wbGlmaWVkIENoaW5lc2U=</description>
-  <sourcefile>OpenCC-ver.1.1.9.tar.gz</sourcefile>
-  <sourcedir>OpenCC-ver.1.1.9</sourcedir>
+  <sourcefile>OpenCC-ver.1.2.0.tar.gz</sourcefile>
+  <sourcedir>OpenCC-ver.1.2.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>
