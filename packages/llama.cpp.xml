@@ -3,12 +3,12 @@
   <release>0.2.4</release>
   <code>llama.cpp</code>
   <description>TExNIGluZmVyZW5jZSBpbiBDL0MrKw==</description>
-  <sourcefile>llama.cpp-aa0ef5c578eef4c2adc7be1282f21bab5f3e8d26.tar.bz2</sourcefile>
-  <sourcedir>llama.cpp-aa0ef5c578eef4c2adc7be1282f21bab5f3e8d26</sourcedir>
+  <sourcefile>llama.cpp-22cae832188a1f08d18bd0a707a4ba5cd03c7349.tar.xz</sourcefile>
+  <sourcedir>llama.cpp-22cae832188a1f08d18bd0a707a4ba5cd03c7349</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtRCBHR01MX0JMQVM9T04gICAgICAgICAgICAgICAgXA0KICAgICAgLUQgR0dNTF9CTEFTX1ZFTkRPUj1PcGVuQkxBUyAgIFwNCiAgICAgIC1XIG5vLWRldiAuLiAgDQo=</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQgJiYKY2QgICAgYnVpbGQgJiYKCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcCiAgICAgIC1EIEdHTUxfQkxBUz1PTiAgICAgICAgICAgICAgICBcCiAgICAgIC1EIEdHTUxfQkxBU19WRU5ET1I9T3BlbkJMQVMgICBcCiAgICAgIC1XIG5vLWRldiAuLiAgCg==</configure>
+  <build>Y2QgICAgYnVpbGQKbWFrZQo=</build>
+  <install>Y2QgICAgYnVpbGQKbWFrZSBpbnN0YWxsCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

@@ -3,14 +3,34 @@
   <release>0.2.4</release>
   <code>koboldcpp</code>
   <description>UnVuIEdHVUYgbW9kZWxzIGVhc2lseSB3aXRoIGEgS29ib2xkQUkgVUk=</description>
-  <sourcefile>koboldcpp-24127ebf987dff67d7e1604bf768096f0364c30f.tar.bz2</sourcefile>
-  <sourcedir>koboldcpp-24127ebf987dff67d7e1604bf768096f0364c30f</sourcedir>
+  <sourcefile>koboldcpp-77f4afe72b66a69513c5547fca4a701ff84df0a5.tar.xz</sourcefile>
+  <sourcedir>koboldcpp-77f4afe72b66a69513c5547fca4a701ff84df0a5</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>bWFrZSBMTEFNQV9PUEVOQkxBUz0x</build>
-  <install>aW5zdGFsbCAtdiAtZCAiL3Vzci9zaGFyZS9rb2JvbGRjcHAiDQppbnN0YWxsIC12IC1EbTY0NCAuLyouc28gIi91c3Ivc2hhcmUva29ib2xkY3BwLyINCmluc3RhbGwgLXYgLURtNjQ0IC4vKi5lbWJkICIvdXNyL3NoYXJlL2tvYm9sZGNwcC8iDQppbnN0YWxsIC12IC1EbTY0NCAia29ib2xkY3BwLnB5IiAiL3Vzci9zaGFyZS9rb2JvbGRjcHAva29ib2xkY3BwLnB5Ig0KZWNobyAnIyEvYmluL3NoJyA+a29ib2xkY3BwDQplY2hvICdweXRob24zIC91c3Ivc2hhcmUva29ib2xkY3BwL2tvYm9sZGNwcC5weSAiJEAiJyA+PmtvYm9sZGNwcA0KaW5zdGFsbCAtdiAtRG03NTUga29ib2xkY3BwICIvdXNyL2Jpbi9rb2JvbGRjcHAiDQo=</install>
+  <build>bWFrZSBMTEFNQV9PUEVOQkxBUz0xIExMQU1BX1ZVTEtBTj0x</build>
+  <install>aW5zdGFsbCAtdiAtZCAiL3Vzci9zaGFyZS9rb2JvbGRjcHAiCmluc3RhbGwgLXYgLURtNjQ0IC4vKi5zbyAiL3Vzci9zaGFyZS9rb2JvbGRjcHAvIgppbnN0YWxsIC12IC1EbTY0NCAuLyouZW1iZCAiL3Vzci9zaGFyZS9rb2JvbGRjcHAvIgppbnN0YWxsIC12IC1EbTY0NCAia29ib2xkY3BwLnB5IiAiL3Vzci9zaGFyZS9rb2JvbGRjcHAva29ib2xkY3BwLnB5IgplY2hvICcjIS9iaW4vc2gnID5rb2JvbGRjcHAKZWNobyAncHl0aG9uMyAvdXNyL3NoYXJlL2tvYm9sZGNwcC9rb2JvbGRjcHAucHkgIiRAIicgPj5rb2JvbGRjcHAKaW5zdGFsbCAtdiAtRG03NTUga29ib2xkY3BwICIvdXNyL2Jpbi9rb2JvbGRjcHAiCg==</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>zenity</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Vulkan-Headers</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Vulkan-Loader</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-psutil</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-jinja2</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>OpenBLAS</code>
       <weight>1</weight>
