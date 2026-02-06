@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>whois</code>
   <description>V2hvaXMgaXMgYSBjbGllbnQtc2lkZSBhcHBsaWNhdGlvbiB3aGljaCBxdWVyaWVzIHRoZSB3aG9pcyBkaXJlY3Rvcnkgc2VydmljZSBmb3IgaW5mb3JtYXRpb24gcGVydGFpbmluZyB0byBhIHBhcnRpY3VsYXIgZG9tYWluIG5hbWUu</description>
-  <sourcefile>whois-5.4.3.tar.gz</sourcefile>
-  <sourcedir>whois-5.4.3</sourcedir>
+  <sourcefile>whois-5.6.4.tar.gz</sourcefile>
+  <sourcedir>whois-5.6.4</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build/>

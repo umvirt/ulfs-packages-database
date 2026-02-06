@@ -6,7 +6,7 @@
   <sourcefile>torsocks-v2.5.0.tar.bz2</sourcefile>
   <sourcedir>torsocks-v2.5.0</sourcedir>
   <unpack/>
-  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyDQo=</configure>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

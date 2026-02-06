@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>sox</code>
-  <description>U29YIGlzIHRoZSBTd2lzcyBBcm15IEtuaWZlIG9mIHNvdW5kIHByb2Nlc3NpbmcgdXRpbGl0aWVzLiBJdCBjYW4gY29udmVydCBhdWRpbyBmaWxlcyB0byBvdGhlciBwb3B1bGFyIGF1ZGlvIGZpbGUgdHlwZXMgYW5kIGFsc28gYXBwbHkgc291bmQgZWZmZWN0cyBhbmQgZmlsdGVycyBkdXJpbmcgdGhlIGNvbnZlcnNpb24u</description>
-  <sourcefile>sox-f3094754a7c2a7e55c35621d20fa9945736e72df.tar.bz2</sourcefile>
-  <sourcedir>sox-f3094754a7c2a7e55c35621d20fa9945736e72df</sourcedir>
+  <code>sox-ng</code>
+  <description>SGFyZCBmb3JrIG9mIGBzb3gtMTQuNC4yYCBhaW1pbmcgdG8gc2FuaXRpemUgYFNvWGA=</description>
+  <sourcefile>sox_ng-f03489e1bc60f3edbc5dd8ed79802fc3b4d83a0a.tar.xz</sourcefile>
+  <sourcedir>sox_ng-f03489e1bc60f3edbc5dd8ed79802fc3b4d83a0a</sourcedir>
   <unpack/>
-  <configure>YXV0b3JlY29uZiAtdmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICBcDQogICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyIFwNCiAgICAgICAgLS1lbmFibGUtZm9ybWF0cz1keW4gXA0KICAgICAgICAtLXdpdGgtZGlzdHJvPVVMRlMNCg==</configure>
+  <configure>YXV0b3JlY29uZiAtdmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgICBcDQogICAgICAgIC0tbG9jYWxzdGF0ZWRpcj0vdmFyIFwNCiAgICAgICAgLS1lbmFibGUtcmVwbGFjZSAgICAgXA0KICAgICAgICAtLXdpdGgtZmZtcGVnICAgICAgICBcDQogICAgICAgIC0td2l0aC1kaXN0cm89VUxGUw0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>ffmpeg</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libpng</code>
       <weight>1</weight>
@@ -68,16 +72,7 @@
       <weight>14</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>sox-unfixed-issues.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>sox-CVE-2023-32627.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

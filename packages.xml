@@ -1721,7 +1721,7 @@
     <package>KDE-apps-all</package>
     <package>sshfs</package>
     <package>Markdown</package>
-    <package>sox</package>
+    <package>sox-ng</package>
     <package>durdraw</package>
     <package>esco</package>
     <package>bfc</package>

@@ -7,7 +7,7 @@
   <sourcedir>c-kermit</sourcedir>
   <unpack>bWtkaXIgYy1rZXJtaXQNCmNkIGMta2VybWl0DQp0YXIgLXhmIC4uL2Mta2VybWl0LTEwLjAuQmV0YS4xMi50YXIuZ3o=</unpack>
   <configure>Iw==</configure>
-  <build>ZXhwb3J0IEtGTEFHUz0iLVduby1lcnJvcj1pbXBsaWNpdC1mdW5jdGlvbi1kZWNsYXJhdGlvbiAtV25vLWVycm9yPWltcGxpY2l0LWludCINCg0KbWFrZSBsaW51eCtrcmI1K3NzbCBQUkVGSVg9L3VzciBNQU5ESVI9L3Vzci9zaGFyZS9tYW4vbWFuMQ==</build>
+  <build>ZXhwb3J0IEtGTEFHUz0iLVduby1lcnJvcj1pbXBsaWNpdC1mdW5jdGlvbi1kZWNsYXJhdGlvbiAtV25vLWVycm9yPWltcGxpY2l0LWludCAtc3RkPWdudTE3Ig0KDQptYWtlIGxpbnV4K2tyYjUrc3NsIFBSRUZJWD0vdXNyIE1BTkRJUj0vdXNyL3NoYXJlL21hbi9tYW4x</build>
   <install>bWFrZSBpbnN0YWxsIFBSRUZJWD0vdXNyIE1BTkRJUj0vdXNyL3NoYXJlL21hbi9tYW4x</install>
   <localbuild>0</localbuild>
   <dependances>

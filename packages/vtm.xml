@@ -3,14 +3,19 @@
   <release>0.2.4</release>
   <code>vtm</code>
   <description>VGV4dC1iYXNlZCBkZXNrdG9wIGVudmlyb25tZW50</description>
-  <sourcefile>vtm-2025.06.18.tar.gz</sourcefile>
-  <sourcedir>vtm-2025.06.18</sourcedir>
+  <sourcefile>vtm-2026.02.05.tar.gz</sourcefile>
+  <sourcedir>vtm-2026.02.05</sourcedir>
   <unpack/>
-  <configure>dGFyIC14ZiAuLi9sdWEtNS40LjcudGFyLmd6DQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgXA0KICAgICAgLUQgbHVhX1NPVVJDRV9ESVI9bHVhLTUuNC43ICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLiAg</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtVyBuby1kZXYgLi4gIA==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
+    <dependance>
+      <code>lua-5.4</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>gpm</code>
       <weight>1</weight>
@@ -24,15 +29,8 @@
       <weight>3</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>vtm-offline.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
-  <addons>
-    <addon>lua-5.4.7.tar.gz</addon>
-  </addons>
+  <patches/>
+  <addons/>
   <nestings/>
   <comments/>
 </package>

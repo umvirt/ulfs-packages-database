@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>gst-plugins-ugly</code>
   <description>VGhlIEdTdHJlYW1lciBVZ2x5IFBsdWctaW5zIGlzIGEgc2V0IG9mIHBsdWctaW5zIGNvbnNpZGVyZWQgYnkgdGhlIEdTdHJlYW1lciBkZXZlbG9wZXJzIHRvIGhhdmUgZ29vZCBxdWFsaXR5IGFuZCBjb3JyZWN0IGZ1bmN0aW9uYWxpdHksIGJ1dCBkaXN0cmlidXRpbmcgdGhlbSBtaWdodCBwb3NlIHByb2JsZW1zLiBUaGUgbGljZW5zZSBvbiBlaXRoZXIgdGhlIHBsdWctaW5zIG9yIHRoZSBzdXBwb3J0aW5nIGxpYnJhcmllcyBtaWdodCBub3QgYmUgaG93IHRoZSBHU3RyZWFtZXIgZGV2ZWxvcGVycyB3b3VsZCBsaWtlLiBUaGUgY29kZSBtaWdodCBiZSB3aWRlbHkga25vd24gdG8gcHJlc2VudCBwYXRlbnQgcHJvYmxlbXMu</description>
-  <sourcefile>gst-plugins-ugly-1.24.12.tar.xz</sourcefile>
-  <sourcedir>gst-plugins-ugly-1.24.12</sourcedir>
+  <sourcefile>gst-plugins-ugly-1.26.5.tar.xz</sourcefile>
+  <sourcedir>gst-plugins-ugly-1.26.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIGdwbD1lbmFibGVkIA0K</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gst-plugins-base</code>
