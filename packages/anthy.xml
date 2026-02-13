@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>anthy</code>
+  <description>YSBrYW5hLWthbmppIGNvbnZlcnNpb24gZW5naW5lIGZvciBKYXBhbmVzZS4=</description>
+  <sourcefile>anthy-debian.tar.gz</sourcefile>
+  <sourcedir>anthy-debian</sourcedir>
+  <unpack/>
+  <configure>cGF0Y2ggLU5wMSAtaSBkZWJpYW4vcGF0Y2hlcy8wMDAxLWNhbGN0cmFucy1wcm9jY29ycHVzLmMtRml4LWltcGxpY2l0LWZ1bmN0aW9uLWRlY2wtb2YucGF0Y2ggJiYNCg0KYXV0b3JlY29uZiAtZml2ICYmDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1kaXNhYmxlLXN0YXRpYyANCg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

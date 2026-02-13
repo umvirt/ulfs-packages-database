@@ -6,10 +6,11 @@
   <sourcefile>fcitx5-chinese-addons-5.1.9.tar.gz</sourcefile>
   <sourcedir>fcitx5-chinese-addons-5.1.9</sourcedir>
   <unpack/>
-  <configure>Y3AgLXYgLi4vcHlfc3Ryb2tlLTIwMjUwMzI5LnRhci5neiBtb2R1bGVzL3BpbnlpbmhlbHBlcg0KY3AgLXYgLi4vcHlfdGFibGUtMjAxMjExMjQudGFyLmd6IG1vZHVsZXMvcGlueWluaGVscGVyDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtR05pbmphIFwNCi1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYiAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure>I2F2b2lkIGRvd25sb2FkaW5nDQpjcCAtdiAuLi9weV9zdHJva2UtMjAyNTAzMjkudGFyLmd6IG1vZHVsZXMvcGlueWluaGVscGVyDQpjcCAtdiAuLi9weV90YWJsZS0yMDEyMTEyNC50YXIuZ3ogbW9kdWxlcy9waW55aW5oZWxwZXINCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OIFwNCiAgICAgIC1EIEVOQUJMRV9URVNUPU9GRiAgICAgICAgICAgICBcDQogICAgICAtRCBFTkFCTEVfQlJPV1NFUj1PRkYgICAgICAgICAgXA0KICAgICAgLUQgRU5BQkxFX0NMT1VEUElOWUlOPU9GRiAgICAgIFwNCiAgICAgIC1Xbm8tZGV2IC4u</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>OpenCC</code>

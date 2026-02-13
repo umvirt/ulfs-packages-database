@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>fcitx5-lua</code>
-  <description>QW4gYWRkb24gbG9hZGVyIGZvciBsdWEgYW5kIGdvb2dsZXBpbnlpbiBhcGksIHdoaWNoIGlzIHByb3ZpZGVkIGJ5IGltZWFwaSBhZGRvbi4=</description>
-  <sourcefile>fcitx5-lua-5.0.15.tar.gz</sourcefile>
-  <sourcedir>fcitx5-lua-5.0.15</sourcedir>
+  <code>fcitx5-anthy</code>
+  <description>YSB3cmFwcGVyIGFyb3VuZCB0aGUgQW50aHkgZW5naW5lIGZvciBGY2l0eC4=</description>
+  <sourcefile>fcitx5-anthy-5.1.7.tar.gz</sourcefile>
+  <sourcedir>fcitx5-anthy-5.1.7</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OIFwNCiAgICAgIC1EIEVOQUJMRV9URVNUPU9GRiAgICAgICAgICAgICBcDQogICAgICAtV25vLWRldiAuLg0K</configure>
   <build/>
@@ -13,12 +13,12 @@
   <template>cmake-make</template>
   <dependances>
     <dependance>
-      <code>lua-5.4</code>
-      <weight>1</weight>
+      <code>fcitx5-base</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
-      <code>fcitx5-base</code>
-      <weight>2</weight>
+      <code>anthy</code>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>

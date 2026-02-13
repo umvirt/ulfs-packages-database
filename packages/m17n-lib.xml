@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>m17n-lib</code>
+  <description>YSBsaWJyYXJ5IGZvciBtdWx0aWxpbmd1YWxpemF0aW9uIG9mIGFwcGxpY2F0aW9ucy4=</description>
+  <sourcefile>m17n-lib-1.8.5.tar.gz</sourcefile>
+  <sourcedir>m17n-lib-1.8.5</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtc3RhdGlj</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>X</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>aspell</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>anthy</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>m17n-db</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

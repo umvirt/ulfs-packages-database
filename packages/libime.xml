@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>libime</code>
   <description>QSBsaWJyYXJ5IHRvIHN1cHBvcnQgZ2VuZXJpYyBpbnB1dCBtZXRob2QgaW1wbGVtZW50YXRpb24u</description>
-  <sourcefile>libime-a6609b1206bb036dffe8c2d8829f1448e54a97ad.tar.gz</sourcefile>
-  <sourcedir>libime-a6609b1206bb036dffe8c2d8829f1448e54a97ad</sourcedir>
+  <sourcefile>libime-1.1.11.tar.gz</sourcefile>
+  <sourcedir>libime-1.1.11</sourcedir>
   <unpack/>
-  <configure>Y3AgLXYgLi4vdGFibGUtMjAyNDAxMDgudGFyLnpzdCBkYXRhDQpjcCAtdiAuLi9kaWN0LTIwMjUwMzI3LnRhci56c3QgZGF0YQ0KY3AgLXYgLi4vbG1fc2MuYXJwYS0yMDI1MDExMy50YXIuenN0IGRhdGENCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYiAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>I2F2b2lkIGRvd25sb2FkaW5nDQpjcCAtdiAuLi90YWJsZS0yMDI0MDEwOC50YXIuenN0IGRhdGENCmNwIC12IC4uL2RpY3QtMjAyNTAzMjcudGFyLnpzdCBkYXRhDQpjcCAtdiAuLi9sbV9zYy5hcnBhLTIwMjUwMTEzLnRhci56c3QgZGF0YQ0KDQp0YXIgLXh2ZiAuLi9rZW5sbS1iY2Q0YWY2MTlhMmZhNDVmNTg3NmQ4ODU1Zjc4NzZjYzA5ZjY2M2FmLnRhci5neiAtQyBzcmMvbGliaW1lL2NvcmUgJiYNCnJtZGlyIHNyYy9saWJpbWUvY29yZS9rZW5sbSAmJg0KbXYgc3JjL2xpYmltZS9jb3JlL2tlbmxtLWJjZDRhZjYxOWEyZmE0NWY1ODc2ZDg4NTVmNzg3NmNjMDlmNjYzYWYgc3JjL2xpYmltZS9jb3JlL2tlbmxtDQoNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICBcDQogICAgICAtRCBFTkFCTEVfVEVTVD1PRkYgICAgICAgICAgICAgXA0KICAgICAgLVduby1kZXYgLi4NCg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>fcitx5-base</code>
@@ -18,8 +19,9 @@
   </dependances>
   <patches/>
   <addons>
-    <addon>dict-20250327.tar.zst</addon>
+    <addon>kenlm-bcd4af619a2fa45f5876d8855f7876cc09f663af.tar.gz</addon>
     <addon>table-20240108.tar.zst</addon>
+    <addon>dict-20250327.tar.zst</addon>
     <addon>lm_sc.arpa-20250113.tar.zst</addon>
   </addons>
   <nestings/>

@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>fcitx5-chinese-addons</code>
+      <code>fcitx5-gtk</code>
       <weight>3</weight>
     </dependance>
     <dependance>
@@ -28,8 +28,24 @@
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>fcitx5-configtool</code>
+      <code>fcitx5-chinese-addons</code>
       <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>fcitx5-table-extra</code>
+      <weight>6</weight>
+    </dependance>
+    <dependance>
+      <code>fcitx5-anthy</code>
+      <weight>7</weight>
+    </dependance>
+    <dependance>
+      <code>fcitx5-m17n</code>
+      <weight>8</weight>
+    </dependance>
+    <dependance>
+      <code>fcitx5-configtool</code>
+      <weight>9</weight>
     </dependance>
   </dependances>
   <patches/>

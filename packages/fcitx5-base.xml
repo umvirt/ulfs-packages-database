@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>fcitx5-base</code>
   <description>RmNpdHggNSBpcyBhIGdlbmVyaWMgaW5wdXQgbWV0aG9kIGZyYW1ld29yayByZWxlYXNlZCB1bmRlciBMR1BMLTIuMSsu</description>
-  <sourcefile>fcitx5-39fe0437e49fe39472d4f37b17335a32138d2e28.tar.gz</sourcefile>
-  <sourcedir>fcitx5-39fe0437e49fe39472d4f37b17335a32138d2e28</sourcedir>
+  <sourcefile>fcitx5-5.1.14.tar.gz</sourcefile>
+  <sourcedir>fcitx5-5.1.14</sourcedir>
   <unpack/>
-  <configure>Y3AgLXYgLi4vZW5fZGljdC0yMDEyMTAyMC50YXIuZ3ogc3JjL21vZHVsZXMvc3BlbGwvDQoNCm1rZGlyIGJ1aWxkICYmDQpjZCAgICBidWlsZCAmJg0KDQpjbWFrZSAtR05pbmphIFwNCi1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYiAgICAgXA0KICAgICAgLUQgQ01BS0VfSU5TVEFMTF9MSUJFWEVDRElSPS91c3IvbGliIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfU1lTQ09ORkRJUj0vZXRjICAgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgICAgXA0KICAgICAgLVcgbm8tZGV2IC4u</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure>I2F2b2lkIGRvd25sb2RpbmcNCmNwIC12IC4uL2VuX2RpY3QtMjAxMjEwMjAudGFyLmd6IHNyYy9tb2R1bGVzL3NwZWxsLw0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KY21ha2UgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICBcDQogICAgICAtRCBDTUFLRV9TS0lQX0lOU1RBTExfUlBBVEg9T04gXA0KICAgICAgLUQgRU5BQkxFX1RFU1Q9T0ZGICAgICAgICAgICAgIFwNCiAgICAgIC1Xbm8tZGV2IC4u</configure>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgIGluc3RhbGwNCg==</install>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>xcb-imdkit</code>

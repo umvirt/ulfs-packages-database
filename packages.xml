@@ -1803,5 +1803,12 @@
     <package>Imath</package>
     <package>kunifiedpush</package>
     <package>ansible</package>
+    <package>fcitx5-table-extra</package>
+    <package>fcitx5-gtk</package>
+    <package>anthy</package>
+    <package>fcitx5-anthy</package>
+    <package>m17n-lib</package>
+    <package>m17n-db</package>
+    <package>fcitx5-m17n</package>
   </packages>
 </packages>
