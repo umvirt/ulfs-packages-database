@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>zfs-linux</code>
   <description>S2VybmVsIG1vZHVsZXMgZm9yIHRoZSBaZXR0YWJ5dGUgRmlsZSBTeXN0ZW0u</description>
-  <sourcefile>zfs-2.3.3.tar.gz</sourcefile>
-  <sourcedir>zfs-2.3.3</sourcedir>
+  <sourcefile>zfs-2.4.0.tar.gz</sourcefile>
+  <sourcedir>zfs-2.4.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLXNiaW5kaXI9L3Vzci9iaW4gLS1saWJkaXI9L3Vzci9saWIgXA0KICAgICAgICAgICAgLS1kYXRhZGlyPS91c3Ivc2hhcmUgLS1pbmNsdWRlZGlyPS91c3IvaW5jbHVkZSAtLXdpdGgtdWRldmRpcj0vdXNyL2xpYi91ZGV2IFwNCiAgICAgICAgICAgIC0tbGliZXhlY2Rpcj0vdXNyL2xpYiAtLXdpdGgtY29uZmlnPWtlcm5lbA==</configure>
   <build/>

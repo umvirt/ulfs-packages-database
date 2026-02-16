@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>libiscsi</code>
   <description>aXNjc2kgY2xpZW50IGxpYnJhcnkgYW5kIHV0aWxpdGllcw==</description>
-  <sourcefile>libiscsi-1.20.2.tar.gz</sourcefile>
-  <sourcedir>libiscsi-1.20.2</sourcedir>
+  <sourcefile>libiscsi-1.20.3.tar.gz</sourcefile>
+  <sourcedir>libiscsi-1.20.3</sourcedir>
   <unpack/>
   <configure>Li9hdXRvZ2VuLnNoDQoNCiMgRGlzYWJsZWQgd2Vycm9yIGR1ZSB0byBHQ0MgOCB3YXJuaW5nczogaHR0cHM6Ly9naXRodWIuY29tL3NhaGxiZXJnL2xpYmlzY3NpL2lzc3Vlcy8yNjYNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgLS1kaXNhYmxlLXN0YXRpYyAtLWxpYmRpcj0vdXNyL2xpYiAtLWRpc2FibGUtd2Vycm9yIA0K</configure>
   <build/>

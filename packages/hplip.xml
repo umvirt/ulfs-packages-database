@@ -3,14 +3,18 @@
   <release>0.2.4</release>
   <code>hplip</code>
   <description>SFBMSVAgaXMgYSBzb2Z0d2FyZSB0aGF0IHN1cHBvcnRzIGEgdG90YWwgb2YgMzQzMyBIUCBwcmludGVyLHNjYW5uZXIgYW5kIGZheCBkZXZpY2VzIG9uIG5lYXJseSBhbnkgTGludXggZGlzdHJpYnV0aW9uIGF2YWlsYWJsZSB0b2RheS4=</description>
-  <sourcefile>hplip-3.25.6.tar.gz</sourcefile>
-  <sourcedir>hplip-3.25.6</sourcedir>
+  <sourcefile>hplip-3.25.8.tar.gz</sourcefile>
+  <sourcedir>hplip-3.25.8</sourcedir>
   <unpack/>
   <configure>ZXhwb3J0IEFVVE9NQUtFPSdhdXRvbWFrZSAtLWZvcmVpZ24nDQphdXRvcmVjb25mIC0tZm9yY2UgLS1pbnN0YWxsDQoNCmV4cG9ydCBDRkxBR1MrPSIgLVduby1kZXByZWNhdGVkLWRlY2xhcmF0aW9ucyAtV25vLWltcGxpY2l0LWZ1bmN0aW9uLWRlY2xhcmF0aW9uIC1Xbm8tcmV0dXJuLW1pc21hdGNoIg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS1xdDUgXA0KICAgICAgICAgICAgIC0tZGlzYWJsZS1xdDQgXA0KICAgICAgICAgICAgIC0tZW5hYmxlLWhwY3Vwcy1pbnN0YWxsIFwNCiAgICAgICAgICAgICAtLWVuYWJsZS1jdXBzLWRydi1pbnN0YWxsIFwNCiAgICAgICAgICAgICAtLWRpc2FibGUtaW1hZ2VQcm9jZXNzb3ItYnVpbGQgXA0KICAgICAgICAgICAgIC0tZW5hYmxlLXBwLWJ1aWxkDQo=</configure>
   <build/>
   <install>bWFrZSAtajEgcnVsZXNkaXI9L3Vzci9saWIvdWRldi9ydWxlcy5kIERFU1RESVI9JFBXRC9ERVNURElSIGluc3RhbGwNCg0KIyByZW1vdmUgY29uZmlnIHByb3ZpZGVkIGJ5IHNhbmUgYW5kIGF1dG9zdGFydCBvZiBocC1kYWVtb24NCnJtIC1yZiBERVNURElSL2V0Yy97c2FuZS5kLHhkZ30NCmluc3RhbGwgLWRtNzU1IERFU1RESVIvZXRjL3NhbmUuZC9kbGwuZA0KZWNobyBocGFpbyA+IERFU1RESVIvZXRjL3NhbmUuZC9kbGwuZC9ocGFpbw0KIA0KIyByZW1vdmUgSEFMIC5mZGkgZmlsZSBiZWNhdXNlIEhBTCBpcyBubyBsb25nZXIgdXNlZA0Kcm0gLXZyZiBERVNURElSL3Vzci9zaGFyZS9oYWwNCiANCiMgcmVtb3ZlIHJjIHNjcmlwdA0Kcm0gLXZyZiBERVNURElSL2V0Yy9pbml0LmQNCg0KIyBDb21waWxlIFB5dGhvbiBieXRlY29kZToNCnB5dGhvbjMgLW0gY29tcGlsZWFsbCAtZCAvdXNyL3NoYXJlIERFU1RESVIvdXNyL3NoYXJlDQpweXRob24zIC1PIC1tIGNvbXBpbGVhbGwgLWQgL3Vzci9zaGFyZSBERVNURElSL3Vzci9zaGFyZQ0KDQojaW5zdGFsbCBmaWxlcyB0byBzeXN0ZW0NCmNwIC1ydiBERVNURElSL2V0Yy8qIC9ldGMNCmNwIC1ydiBERVNURElSL3Vzci8qIC91c3INCg==</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>sane-backends</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>avahi</code>
       <weight>1</weight>
@@ -36,6 +40,10 @@
     <patch>
       <filename>hplip-comulative.patch</filename>
       <mode>1</mode>
+    </patch>
+    <patch>
+      <filename>hplip-disable_upgrade.patch</filename>
+      <mode>0</mode>
     </patch>
   </patches>
   <addons/>

@@ -3,13 +3,14 @@
   <release>0.2.4</release>
   <code>qbittorrent</code>
   <description>VGhlIHFCaXR0b3JyZW50IHByb2plY3QgYWltcyB0byBwcm92aWRlIGFuIG9wZW4tc291cmNlIHNvZnR3YXJlIGFsdGVybmF0aXZlIHRvIMK1VG9ycmVudC4=</description>
-  <sourcefile>qbittorrent-5.1.2.tar.xz</sourcefile>
-  <sourcedir>qbittorrent-5.1.2</sourcedir>
+  <sourcefile>qbittorrent-5.1.4.tar.xz</sourcefile>
+  <sourcedir>qbittorrent-5.1.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1HIE5pbmphICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>qt6</code>

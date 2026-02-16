@@ -3,8 +3,8 @@
   <release>0.2.4</release>
   <code>i2pd</code>
   <description>RW5kLXRvLUVuZCBlbmNyeXB0ZWQgYW5kIGFub255bW91cyBJbnRlcm5ldA==</description>
-  <sourcefile>i2pd-2.57.0.tar.gz</sourcefile>
-  <sourcedir>i2pd-2.57.0</sourcedir>
+  <sourcefile>i2pd-2.59.0.tar.gz</sourcefile>
+  <sourcedir>i2pd-2.59.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQvYnVpbGQgDQpjZCAgICBidWlsZC9idWlsZA0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgICAgXA0KICAgICAgLUQgV0lUSF9VUE5QPU9OICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfU1lTQ09ORkRJUj0vZXRjICAgICBcDQogICAgICAtRCBCVUlMRF9TSEFSRURfTElCUz1PTiAgICAgICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
   <build>Y2QgICAgYnVpbGQvYnVpbGQNCm1ha2U=</build>
