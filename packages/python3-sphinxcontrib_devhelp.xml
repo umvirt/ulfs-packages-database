@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>python3-sphinxcontrib_devhelp</code>
+  <description>VGhlIFNwaGlueGNvbnRyaWItZGV2aGVscCBwYWNrYWdlIGlzIGEgU3BoaW54IGV4dGVuc2lvbiB3aGljaCBvdXRwdXRzIERldmhlbHAgZG9jdW1lbnRzLg==</description>
+  <sourcefile>sphinxcontrib_devhelp-2.0.0.tar.gz</sourcefile>
+  <sourcedir>sphinxcontrib_devhelp-2.0.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHNwaGlueGNvbnRyaWItZGV2aGVscA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

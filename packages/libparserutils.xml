@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>libparserutils</code>
+  <description>TGliUGFyc2VyVXRpbHMgaXMgYSBsaWJyYXJ5IGZvciBidWlsZGluZyBlZmZpY2llbnQgcGFyc2Vycywgd3JpdHRlbiBpbiBDLg==</description>
+  <sourcefile>libparserutils-0.2.5-src.tar.gz</sourcefile>
+  <sourcedir>libparserutils-0.2.5</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>bWFrZSBQUkVGSVg9L3VzciBDT01QT05FTlRfVFlQRT1saWItc2hhcmVk</build>
+  <install>bWFrZSBQUkVGSVg9L3VzciBDT01QT05FTlRfVFlQRT1saWItc2hhcmVkIGluc3RhbGw=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>netsurf-buildsystem</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>python3-sphinx_rtd_theme</code>
+  <description>VGhlIHNwaGlueF9ydGRfdGhlbWUgbW9kdWxlIGlzIGEgU3BoaW54IHRoZW1lIGRlc2lnbmVkIHRvIHByb3ZpZGUgYSBncmVhdCByZWFkZXIgZXhwZXJpZW5jZSBmb3IgZG9jdW1lbnRhdGlvbiB1c2VycyBvbiBib3RoIGRlc2t0b3AgYW5kIG1vYmlsZSBkZXZpY2VzLiBUaGlzIHRoZW1lIGlzIHVzZWQgcHJpbWFyaWx5IG9uIFJlYWQgdGhlIERvY3MgYnV0IGNhbiB3b3JrIHdpdGggYW55IFNwaGlueCBwcm9qZWN0Lg==</description>
+  <sourcefile>sphinx_rtd_theme-3.0.2.tar.gz</sourcefile>
+  <sourcedir>sphinx_rtd_theme-3.0.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHNwaGlueF9ydGRfdGhlbWU=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-sphinx-base</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-sphinxcontrib-jquery</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

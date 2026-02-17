@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>elinks</code>
+  <description>RUxpbmtzIGlzIGFuIGFkdmFuY2VkIGFuZCB3ZWxsLWVzdGFibGlzaGVkIGZlYXR1cmUtcmljaCB0ZXh0IG1vZGUgd2ViDQooSFRUUC9GVFAvLi4pIGJyb3dzZXIu</description>
+  <sourcefile>elinks-0.19.0.tar.xz</sourcefile>
+  <sourcedir>elinks-0.19.0</sourcedir>
+  <unpack/>
+  <configure>c2VkIC1lICJzfC91c3IvbG9jYWwvbGliL3F1aWNranMvbGlicXVpY2tqcy5hfC91c3IvbGliL3F1aWNranMvbGlicXVpY2tqcy5hfCIgLWkgY29uZmlndXJlLmFjDQoNCi4vYXV0b2dlbi5zaA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgIFwNCiAgICAgICAgICAgIC0td2l0aC1xdWlja2pzICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtODgtY29sb3JzICBcDQogICAgICAgICAgICAtLWVuYWJsZS0yNTYtY29sb3JzIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLXRydWUtY29sb3INCg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gpm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libidn2</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>expat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>quickjs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libcss</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libdom</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>python3-pytz</code>
+  <description>VGhlIFB5dHogbGlicmFyeSBicmluZ3MgdGhlIElBTkEgdHogZGF0YWJhc2UgaW50byBQeXRob24uIEl0IGFsbG93cyBhY2N1cmF0ZSBhbmQgY3Jvc3MtcGxhdGZvcm0gdGltZXpvbmUgY2FsY3VsYXRpb25zLg==</description>
+  <sourcefile>pytz-2025.2.tar.gz</sourcefile>
+  <sourcedir>pytz-2025.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHB5dHo=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>nyancat</code>
+  <description>TnlhbmNhdCBhbmltYXRpb24gcmVuZGVyZWQgaW4gdGVybWluYWwuIFNhbXBsZSBUZWxuZXQgc2VydmVyLg==</description>
+  <sourcefile>nyancat-32fd2eb40332ae0001995705f0c1f8de69a2d543.tar.gz</sourcefile>
+  <sourcedir>nyancat-32fd2eb40332ae0001995705f0c1f8de69a2d543</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build/>
+  <install>aW5zdGFsbCAtRHZtNzU1IHNyYy9ueWFuY2F0IC91c3IvYmluL255YW5jYXQNCmluc3RhbGwgLUR2bTY0NCBueWFuY2F0LjEgL3Vzci9zaGFyZS9tYW4vbWFuMS9ueWFuY2F0LjENCg0KaW5zdGFsbCAtZHYgL3Vzci9saWIvc3lzdGVtZC9zeXN0ZW0NCmluc3RhbGwgLXZtNjQ0IHN5c3RlbWQvKiAvdXNyL2xpYi9zeXN0ZW1kL3N5c3RlbQ==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

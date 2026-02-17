@@ -1810,5 +1810,41 @@
     <package>m17n-lib</package>
     <package>m17n-db</package>
     <package>fcitx5-m17n</package>
+    <package>fuse2</package>
+    <package>uml-utilities</package>
+    <package>lolcat</package>
+    <package>rewindtty</package>
+    <package>sl</package>
+    <package>termrec</package>
+    <package>nyancat</package>
+    <package>mbuffer</package>
+    <package>python3-sphinx-base</package>
+    <package>python3-alabaster</package>
+    <package>python3-pytz</package>
+    <package>python3-babel</package>
+    <package>python3-imagesize</package>
+    <package>python3-snowballstemmer</package>
+    <package>python3-sphinxcontrib_applehelp</package>
+    <package>python3-sphinxcontrib_devhelp</package>
+    <package>python3-sphinxcontrib_htmlhelp</package>
+    <package>python3-sphinxcontrib-jsmath</package>
+    <package>python3-sphinxcontrib_qthelp</package>
+    <package>python3-sphinxcontrib_serializinghtml</package>
+    <package>python3-roman_numerals_py</package>
+    <package>quickjs</package>
+    <package>elinks</package>
+    <package>libcss</package>
+    <package>netsurf-buildsystem</package>
+    <package>libparserutils</package>
+    <package>libwapcaplet</package>
+    <package>libdom</package>
+    <package>libhubbub</package>
+    <package>xcalc</package>
+    <package>xeyes</package>
+    <package>Nim</package>
+    <package>chawan</package>
+    <package>python3-sphinxcontrib-jquery</package>
+    <package>python3-sphinx_rtd_theme</package>
+    <package>python3-sphinx</package>
   </packages>
 </packages>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>termrec</code>
+  <description>QSB0dHkgcmVjb3JkZXIvcGxheWVy</description>
+  <sourcefile>termrec-dc3526e87655b5dc1d1174b0e1a3c0f38efa2b99.tar.gz</sourcefile>
+  <sourcedir>termrec-dc3526e87655b5dc1d1174b0e1a3c0f38efa2b99</sourcedir>
+  <unpack/>
+  <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
