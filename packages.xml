@@ -1846,5 +1846,6 @@
     <package>python3-sphinxcontrib-jquery</package>
     <package>python3-sphinx_rtd_theme</package>
     <package>python3-sphinx</package>
+    <package>twin</package>
   </packages>
 </packages>
