@@ -1795,5 +1795,6 @@
     <package>xeyes</package>
     <package>Nim</package>
     <package>chawan</package>
+    <package>twin</package>
   </packages>
 </packages>
