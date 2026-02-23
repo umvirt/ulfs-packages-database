@@ -1160,7 +1160,7 @@
     <package>mailcap</package>
     <package>wl-clipboard</package>
     <package>dkms</package>
-    <package>ashmem-module</package>
+    <package>!ashmem-module</package>
     <package>python3-html5lib</package>
     <package>python3-webencodings</package>
     <package>qtwebengine6</package>
