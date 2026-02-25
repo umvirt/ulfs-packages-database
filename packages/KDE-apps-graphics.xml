@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>KDE6-apps-pim</code>
+  <code>KDE-apps-graphics</code>
   <description/>
   <sourcefile/>
   <sourcedir/>
@@ -12,60 +12,48 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>akonadi-calendar-tools</code>
+      <code>arianna</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>akonadiconsole</code>
+      <code>colord-kde</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>akregator</code>
+      <code>kamera</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>grantlee-editor</code>
+      <code>kcolorchooser</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>itinerary</code>
+      <code>kgraphviewer</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>kaddressbook</code>
+      <code>kimagemapeditor</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>kalarm</code>
+      <code>koko</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>kdepim-addons</code>
+      <code>kolourpaint</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>kleopatra</code>
+      <code>kruler</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>kmail</code>
+      <code>skanlite</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>kontact</code>
+      <code>svgpart</code>
       <weight>11</weight>
-    </dependance>
-    <dependance>
-      <code>korganizer</code>
-      <weight>12</weight>
-    </dependance>
-    <dependance>
-      <code>merkuro</code>
-      <weight>13</weight>
-    </dependance>
-    <dependance>
-      <code>zanshin</code>
-      <weight>14</weight>
     </dependance>
   </dependances>
   <patches/>

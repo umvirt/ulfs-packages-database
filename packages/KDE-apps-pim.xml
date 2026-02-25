@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>KDE6-apps-multimedia</code>
+  <code>KDE-apps-pim</code>
   <description/>
   <sourcefile/>
   <sourcedir/>
@@ -12,44 +12,60 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>audex</code>
+      <code>akonadi-calendar-tools</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>audiocd-kio</code>
+      <code>akonadiconsole</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>audiotube</code>
+      <code>akregator</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>dragon</code>
+      <code>grantlee-editor</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>elisa</code>
+      <code>itinerary</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>ffmpegthumbs</code>
+      <code>kaddressbook</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>juk</code>
+      <code>kalarm</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>kasts</code>
+      <code>kdepim-addons</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>kwave</code>
+      <code>kleopatra</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>plasmatube</code>
+      <code>kmail</code>
       <weight>10</weight>
+    </dependance>
+    <dependance>
+      <code>kontact</code>
+      <weight>11</weight>
+    </dependance>
+    <dependance>
+      <code>korganizer</code>
+      <weight>12</weight>
+    </dependance>
+    <dependance>
+      <code>merkuro</code>
+      <weight>13</weight>
+    </dependance>
+    <dependance>
+      <code>zanshin</code>
+      <weight>14</weight>
     </dependance>
   </dependances>
   <patches/>

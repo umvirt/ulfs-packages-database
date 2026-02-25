@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>KDE6-apps-network</code>
+  <code>KDE-apps-sdk</code>
   <description/>
   <sourcefile/>
   <sourcedir/>
@@ -12,60 +12,48 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>alligator</code>
+      <code>kapptemplate</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>angelfish</code>
+      <code>kcachegrind</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>kdeconnect-kde</code>
+      <code>kde-dev-scripts</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>kdenetwork-filesharing</code>
+      <code>kde-dev-utils</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>kget</code>
+      <code>kdesdk-kio</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>kio-gdrive</code>
+      <code>kdesdk-thumbnailers</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>kio-zeroconf</code>
+      <code>kirigami-gallery</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>konqueror</code>
+      <code>kompare</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>krdc</code>
+      <code>lokalize</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>freerdp2</code>
+      <code>massif-visualizer</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>krfb</code>
+      <code>poxml</code>
       <weight>11</weight>
-    </dependance>
-    <dependance>
-      <code>ktorrent</code>
-      <weight>12</weight>
-    </dependance>
-    <dependance>
-      <code>neochat</code>
-      <weight>13</weight>
-    </dependance>
-    <dependance>
-      <code>tokodon</code>
-      <weight>14</weight>
     </dependance>
   </dependances>
   <patches/>

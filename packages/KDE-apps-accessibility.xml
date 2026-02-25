@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>KDE6-apps-office</code>
+  <code>KDE-apps-accessibility</code>
   <description/>
   <sourcefile/>
   <sourcedir/>
@@ -12,12 +12,24 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>calligra</code>
+      <code>accessibility-inspector</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>ghostwriter</code>
+      <code>kmag</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>kmousetool</code>
+      <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>kmouth</code>
+      <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>kontrast</code>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

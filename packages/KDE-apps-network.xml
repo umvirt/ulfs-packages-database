@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>KDE6-apps-graphics</code>
+  <code>KDE-apps-network</code>
   <description/>
   <sourcefile/>
   <sourcedir/>
@@ -12,48 +12,60 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>arianna</code>
+      <code>alligator</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>colord-kde</code>
+      <code>angelfish</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>kamera</code>
+      <code>kdeconnect-kde</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>kcolorchooser</code>
+      <code>kdenetwork-filesharing</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>kgraphviewer</code>
+      <code>kget</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>kimagemapeditor</code>
+      <code>kio-gdrive</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>koko</code>
+      <code>kio-zeroconf</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>kolourpaint</code>
+      <code>konqueror</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>kruler</code>
+      <code>krdc</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>skanlite</code>
+      <code>freerdp2</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>svgpart</code>
+      <code>krfb</code>
       <weight>11</weight>
+    </dependance>
+    <dependance>
+      <code>ktorrent</code>
+      <weight>12</weight>
+    </dependance>
+    <dependance>
+      <code>neochat</code>
+      <weight>13</weight>
+    </dependance>
+    <dependance>
+      <code>tokodon</code>
+      <weight>14</weight>
     </dependance>
   </dependances>
   <patches/>

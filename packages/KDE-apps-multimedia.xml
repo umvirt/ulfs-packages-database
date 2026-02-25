@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>KDE6-apps-sdk</code>
+  <code>KDE-apps-multimedia</code>
   <description/>
   <sourcefile/>
   <sourcedir/>
@@ -12,48 +12,44 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>kapptemplate</code>
+      <code>audex</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>kcachegrind</code>
+      <code>audiocd-kio</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>kde-dev-scripts</code>
+      <code>audiotube</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>kde-dev-utils</code>
+      <code>dragon</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>kdesdk-kio</code>
+      <code>elisa</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>kdesdk-thumbnailers</code>
+      <code>ffmpegthumbs</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>kirigami-gallery</code>
+      <code>juk</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>kompare</code>
+      <code>kasts</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>lokalize</code>
+      <code>kwave</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>massif-visualizer</code>
+      <code>plasmatube</code>
       <weight>10</weight>
-    </dependance>
-    <dependance>
-      <code>poxml</code>
-      <weight>11</weight>
     </dependance>
   </dependances>
   <patches/>

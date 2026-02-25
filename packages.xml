@@ -1460,7 +1460,7 @@
     <package>kontrast</package>
     <package>libqaccessibilityclient-qt6</package>
     <package>futuresql-qt6</package>
-    <package>KDE6-apps-accessibility</package>
+    <package>KDE-apps-accessibility</package>
     <package>blinken</package>
     <package>cantor</package>
     <package>kalgebra</package>
@@ -1477,7 +1477,7 @@
     <package>kwordquiz</package>
     <package>marble</package>
     <package>parley</package>
-    <package>KDE6-apps-education</package>
+    <package>KDE-apps-education</package>
     <package>arianna</package>
     <package>colord-kde</package>
     <package>kamera</package>
@@ -1492,7 +1492,7 @@
     <package>skanlite</package>
     <package>ksanecore</package>
     <package>svgpart</package>
-    <package>KDE6-apps-graphics</package>
+    <package>KDE-apps-graphics</package>
     <package>audex</package>
     <package>audiocd-kio</package>
     <package>libkcompactdisc</package>
@@ -1509,7 +1509,7 @@
     <package>id3lib</package>
     <package>plasmatube</package>
     <package>mpvqt</package>
-    <package>KDE6-apps-multimedia</package>
+    <package>KDE-apps-multimedia</package>
     <package>alligator</package>
     <package>angelfish</package>
     <package>kdeconnect-kde</package>
@@ -1530,10 +1530,10 @@
     <package>olm</package>
     <package>cmark</package>
     <package>tokodon</package>
-    <package>KDE6-apps-network</package>
+    <package>KDE-apps-network</package>
     <package>calligra</package>
     <package>ghostwriter</package>
-    <package>KDE6-apps-office</package>
+    <package>KDE-apps-office</package>
     <package>akonadi</package>
     <package>akonadi-contacts</package>
     <package>akonadi-mime</package>
@@ -1585,7 +1585,7 @@
     <package>korganizer</package>
     <package>merkuro</package>
     <package>zanshin</package>
-    <package>KDE6-apps-pim</package>
+    <package>KDE-apps-pim</package>
     <package>kapptemplate</package>
     <package>kcachegrind</package>
     <package>kde-dev-scripts</package>
@@ -1598,7 +1598,7 @@
     <package>lokalize</package>
     <package>massif-visualizer</package>
     <package>poxml</package>
-    <package>KDE6-apps-sdk</package>
+    <package>KDE-apps-sdk</package>
     <package>kcron</package>
     <package>kde-inotify-survey</package>
     <package>kio-admin</package>
@@ -1606,7 +1606,7 @@
     <package>ksystemlog</package>
     <package>partitionmanager</package>
     <package>kpmcore</package>
-    <package>KDE6-apps-system</package>
+    <package>KDE-apps-system</package>
     <package>filelight</package>
     <package>francis</package>
     <package>isoimagewriter</package>
@@ -1637,7 +1637,7 @@
     <package>sweeper</package>
     <package>telly-skout</package>
     <package>yakuake</package>
-    <package>KDE6-apps-utils</package>
+    <package>KDE-apps-utils</package>
     <package>kdevelop-base</package>
     <package>kdev-php</package>
     <package>kdevelop-pg-qt</package>
@@ -1703,7 +1703,7 @@
     <package>palapeli</package>
     <package>picmi</package>
     <package>skladnik</package>
-    <package>KDE6-games</package>
+    <package>KDE-games</package>
     <package>libksane</package>
     <package>libaccounts-qt6</package>
     <package>libaccounts-glib</package>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.2.4</release>
-  <code>KDE6-apps-accessibility</code>
+  <code>KDE-apps-system</code>
   <description/>
   <sourcefile/>
   <sourcedir/>
@@ -12,24 +12,28 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>accessibility-inspector</code>
+      <code>kcron</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>kmag</code>
+      <code>kde-inotify-survey</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>kmousetool</code>
+      <code>kio-admin</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>kmouth</code>
+      <code>kjournald</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>kontrast</code>
+      <code>ksystemlog</code>
       <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>partitionmanager</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>
