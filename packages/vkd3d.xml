@@ -3,14 +3,18 @@
   <release>0.2.4</release>
   <code>vkd3d</code>
   <description>VmtkM2QgaXMgYSAzRCBncmFwaGljcyBsaWJyYXJ5IGJ1aWx0IG9uIHRvcCBvZiBWdWxrYW4uIEl0IGhhcyBhbiBBUEkgdmVyeSBzaW1pbGFyLCBidXQgbm90IGlkZW50aWNhbCwgdG8gRGlyZWN0M0QgMTIuIFdpbmUgdXNlcyB2a2QzZCBsaWJyYXJpZXMgZm9yIGl0cyBpbXBsZW1lbnRhdGlvbiBvZiBEaXJlY3QzRCAxMi4=</description>
-  <sourcefile>vkd3d-1.15.tar.xz</sourcefile>
-  <sourcedir>vkd3d-1.15</sourcedir>
+  <sourcefile>vkd3d-1.19.tar.xz</sourcefile>
+  <sourcedir>vkd3d-1.19</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>perl-JSON</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>Xlibs</code>
       <weight>1</weight>
