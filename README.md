@@ -4,7 +4,7 @@ Version:  0.2.3
 
 Based on: Linux From Scratch 12.3 (March 2025)
 
-Status: Under development. Some packages are broken or missing.
+Status: Archieved. Some packages are broken or missing.
 
 ## About
 
