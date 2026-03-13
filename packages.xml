@@ -1847,5 +1847,6 @@
     <package>python3-sphinx_rtd_theme</package>
     <package>python3-sphinx</package>
     <package>twin</package>
+    <package>hostapd</package>
   </packages>
 </packages>

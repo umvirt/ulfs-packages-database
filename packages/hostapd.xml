@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.2.4</release>
+  <code>hostapd</code>
+  <description>VXNlciBzcGFjZSBkYWVtb24gZm9yIGFjY2VzcyBwb2ludCBhbmQgYXV0aGVudGljYXRpb24gc2VydmVycy4=</description>
+  <sourcefile>hostapd-2.11.tar.gz</sourcefile>
+  <sourcedir>hostapd-2.11</sourcedir>
+  <unpack/>
+  <configure>Y2QgaG9zdGFwZA0KY3AgZGVmY29uZmlnIC5jb25maWc=</configure>
+  <build>Y2QgaG9zdGFwZA0KbWFrZQ==</build>
+  <install>Y2QgaG9zdGFwZA0KbWFrZSBpbnN0YWxsICBCSU5ESVI9L3Vzci9iaW4NCg0KaW5zdGFsbCAtdkRtIDY0MCBob3N0YXBkLnthY2NlcHQsY29uZixkZW55LGVhcF91c2VyLHJhZGl1c19jbGllbnRzLHZsYW4sd3BhX3Bza30gLXQgIi9ldGMvaG9zdGFwZC8iDQppbnN0YWxsIC12RG0gNjQwIGhvc3RhcGQue2FjY2VwdCxjb25mLGRlbnksZWFwX3VzZXIscmFkaXVzX2NsaWVudHMsdmxhbix3cGFfcHNrfSAtdCAiL3Vzci9zaGFyZS9mYWN0b3J5L2V0Yy9ob3N0YXBkLyINCg0KaW5zdGFsbCAtdkRtIDY0NCBob3N0YXBkLjggLXQgIi91c3Ivc2hhcmUvbWFuL21hbjgvIg0KaW5zdGFsbCAtdkRtIDY0NCBob3N0YXBkX2NsaS4xIC10ICIvdXNyL3NoYXJlL21hbi9tYW4xLyINCg0KDQoNCmNhdCA+IC91c3IvbGliL3N5c3RlbWQvc3lzdGVtL2hvc3RhcGQuc2VydmljZSA8PCAiRU9GIiANCg0KW1VuaXRdDQpEZXNjcmlwdGlvbj1Ib3N0YXBkIElFRUUgODAyLjExIEFQLCBJRUVFIDgwMi4xWC9XUEEvV1BBMi9FQVAvUkFESVVTIEF1dGhlbnRpY2F0b3INCkFmdGVyPW5ldHdvcmsudGFyZ2V0DQoNCltTZXJ2aWNlXQ0KRXhlY1N0YXJ0PS91c3IvYmluL2hvc3RhcGQgL2V0Yy9ob3N0YXBkL2hvc3RhcGQuY29uZg0KRXhlY1JlbG9hZD0vYmluL2tpbGwgLUhVUCAkTUFJTlBJRA0KDQpbSW5zdGFsbF0NCldhbnRlZEJ5PW11bHRpLXVzZXIudGFyZ2V0DQoNCkVPRg0KDQpjYXQgPiAvdXNyL2xpYi9zeXN0ZW1kL3N5c3RlbS9ob3N0YXBkQC5zZXJ2aWNlIDw8ICJFT0YiIA0KDQpbVW5pdF0NCkRlc2NyaXB0aW9uPUhvc3RhcGQgSUVFRSA4MDIuMTEgQVAsIElFRUUgODAyLjFYL1dQQS9XUEEyL0VBUC9SQURJVVMgQXV0aGVudGljYXRvcg0KQWZ0ZXI9bmV0d29yay50YXJnZXQNCg0KW1NlcnZpY2VdDQpFeGVjU3RhcnQ9L3Vzci9iaW4vaG9zdGFwZCAvZXRjL2hvc3RhcGQvJWkuY29uZg0KRXhlY1JlbG9hZD0vYmluL2tpbGwgLUhVUCAkTUFJTlBJRA0KDQpbSW5zdGFsbF0NCldhbnRlZEJ5PW11bHRpLXVzZXIudGFyZ2V0DQoNCkVPRg0KDQpjYXQgPiAvdXNyL2xpYi90bXBmaWxlcy5kL2hvc3RhcGQudG1wZmlsZXMgPDwgIkVPRiIgDQoNCiMgY3JlYXRlIGNvbmZpZ3VyYXRpb24gZmlsZXMgYW5kIGRpcmVjdG9yaWVzIGZyb20gZmFjdG9yeSBkZWZhdWx0cyBpZiB0aGV5IGRvIG5vdCBleGlzdA0KQyAvZXRjL2hvc3RhcGQgLSAtIC0gLSAvdXNyL3NoYXJlL2ZhY3RvcnkvZXRjL2hvc3RhcGQNCg0KIyBjcmVhdGUgc3RhdGUgZGlyDQpkIC92YXIvbGliL2hvc3RhcGQgNzUwIHJvb3Qgcm9vdCAtIA0KDQpFT0Y=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>sqlite</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libnl</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>linux-firmware</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>hostapd-2.11-fhs-config.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
