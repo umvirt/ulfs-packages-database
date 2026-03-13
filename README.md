@@ -155,6 +155,11 @@ Droped packages:
 - veracrypt (need fuse2 to build)
 - duckstation (needs SDL3)
 
+New features
+
+- system preparation scripts in packages (allows to install KF6 in one command)
+- more packages templates
+
 ### Additional packages not mentioned in BLFS
 
 #### Desktop Environments
