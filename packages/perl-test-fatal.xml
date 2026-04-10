@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>perl-test-fatal</code>
   <description>SW5jcmVkaWJseSBzaW1wbGUgaGVscGVycyBmb3IgdGVzdGluZyBjb2RlIHdpdGggZXhjZXB0aW9ucw==</description>
   <sourcefile>Test-Fatal-0.017.tar.gz</sourcefile>

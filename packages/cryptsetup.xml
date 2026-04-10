@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>cryptsetup</code>
   <description>Y3J5cHRzZXR1cCBpcyB1c2VkIHRvIHNldCB1cCB0cmFuc3BhcmVudCBlbmNyeXB0aW9uIG9mIGJsb2NrIGRldmljZXMgdXNpbmcgdGhlIGtlcm5lbCBjcnlwdG8gQVBJLg==</description>
   <sourcefile>cryptsetup-2.8.1.tar.xz</sourcefile>

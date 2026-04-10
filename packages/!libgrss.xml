@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!libgrss</code>
   <description>VGhlIGxpYmdyc3MgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZGVzaWduZWQgdG8gbWFuaXB1bGF0ZSBSU1MgYW5kIEF0b20gZmVlZHMu</description>
   <sourcefile>libgrss-0.7.0.tar.xz</sourcefile>

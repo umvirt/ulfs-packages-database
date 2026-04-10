@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>dtc</code>
   <description>VGhlIGR0YyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBEZXZpY2UgVHJlZSBDb21waWxlciBmb3Igd29ya2luZyB3aXRoIGRldmljZSB0cmVlIHNvdXJjZSBhbmQgYmluYXJ5IGZpbGVzIGFuZCBhbHNvIGxpYmZkdCwgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIHJlYWRpbmcgYW5kIG1hbmlwdWxhdGluZyBkZXZpY2UgdHJlZXMgaW4gdGhlIGJpbmFyeSBmb3JtYXQu</description>
   <sourcefile>dtc-1.7.2.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>umockdev</code>
   <description>VGhlIFVtb2NrZGV2IHBhY2thZ2UgY29udGFpbnMgYSBmcmFtZXdvcmsgdGhhdCBhbGxvd3MgYSBkZXZlbG9wZXIgdG8gbW9jayBkZXZpY2VzIGZvciB1c2UgaW4gdW5pdCB0ZXN0aW5nLg==</description>
   <sourcefile>umockdev-0.19.3.tar.xz</sourcefile>

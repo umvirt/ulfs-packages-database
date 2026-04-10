@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>SDL2_net</code>
   <description>TmV0d29yayBsaWJyYXJ5IGZvciBTaW1wbGUgRGlyZWN0TWVkaWEgTGF5ZXIgMg==</description>
   <sourcefile>SDL2_net-2.2.0.tar.gz</sourcefile>

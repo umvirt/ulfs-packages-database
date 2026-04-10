@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>sox-ng</code>
   <description>SGFyZCBmb3JrIG9mIGBzb3gtMTQuNC4yYCBhaW1pbmcgdG8gc2FuaXRpemUgYFNvWGA=</description>
   <sourcefile>sox_ng-f03489e1bc60f3edbc5dd8ed79802fc3b4d83a0a.tar.xz</sourcefile>
@@ -13,63 +13,63 @@
   <dependances>
     <dependance>
       <code>ffmpeg</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libpng</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libvorbis</code>
+      <code>libpng</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>lame</code>
+      <code>libvorbis</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>opus</code>
+      <code>lame</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>flac</code>
+      <code>opus</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libsndfile</code>
+      <code>flac</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>pulseaudio</code>
+      <code>libsndfile</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>libmad</code>
+      <code>pulseaudio</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>libao</code>
+      <code>libmad</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>opusfile</code>
+      <code>libao</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>ladspa</code>
+      <code>opusfile</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>twolame</code>
+      <code>ladspa</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>libid3tag</code>
+      <code>twolame</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>wavpack</code>
+      <code>libid3tag</code>
       <weight>14</weight>
+    </dependance>
+    <dependance>
+      <code>wavpack</code>
+      <weight>15</weight>
     </dependance>
   </dependances>
   <patches/>

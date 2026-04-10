@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>QR-Code-generator</code>
   <description>SGlnaC1xdWFsaXR5IFFSIENvZGUgZ2VuZXJhdG9yIGxpYnJhcnkgaW4gSmF2YSwgVHlwZVNjcmlwdC9KYXZhU2NyaXB0LCBQeXRob24sIFJ1c3QsIEMrKywgQy4=</description>
   <sourcefile>QR-Code-generator-1.8.0.tar.gz</sourcefile>

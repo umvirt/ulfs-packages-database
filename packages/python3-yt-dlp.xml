@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-yt-dlp</code>
   <description>QSBmZWF0dXJlLXJpY2ggY29tbWFuZC1saW5lIGF1ZGlvL3ZpZGVvIGRvd25sb2FkZXI=</description>
   <sourcefile>yt-dlp-2025.12.08.tar.gz</sourcefile>

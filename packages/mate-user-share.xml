@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>mate-user-share</code>
   <description>bWF0ZS11c2VyLXNoYXJlIGlzIGEgc21hbGwgcGFja2FnZSB0aGF0IGJpbmRzIHRvZ2V0aGVyIHZhcmlvdXMgZnJlZQ0Kc29mdHdhcmUgcHJvamVjdHMgdG8gYnJpbmcgZWFzeSB0byB1c2UgdXNlci1sZXZlbCBmaWxlIHNoYXJpbmcgdG8gdGhlDQptYXNzZXMu</description>
   <sourcefile>mate-user-share-1.28.0.tar.xz</sourcefile>

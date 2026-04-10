@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!SDL</code>
   <description>VGhlIFNpbXBsZSBEaXJlY3RNZWRpYSBMYXllciAoU0RMIGZvciBzaG9ydCkgaXMgYSBjcm9zcy1wbGF0Zm9ybSBsaWJyYXJ5IGRlc2lnbmVkIHRvIG1ha2UgaXQgZWFzeSB0byB3cml0ZSBtdWx0aW1lZGlhIHNvZnR3YXJlLCBzdWNoIGFzIGdhbWVzIGFuZCBlbXVsYXRvcnMuDQo=</description>
   <sourcefile>SDL-1.2.15.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fast_float</code>
   <description>RmFzdF9mbG9hdCBwcm92aWRlcyBhIHNldCBvZiBDKysgaGVhZGVyIGZpbGVzIGZvciBlZmZpY2llbnQgc3RyaW5nIHRvIGZsb2F0IG9wZXJhdGlvbnMu</description>
   <sourcefile>fast_float-8.0.2.tar.gz</sourcefile>

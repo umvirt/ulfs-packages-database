@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>espeak-ng</code>
   <description>ZVNwZWFrIE5HIGlzIGFuIG9wZW4gc291cmNlIHNwZWVjaCBzeW50aGVzaXplciB0aGF0IHN1cHBvcnRzIG1vcmUgdGhhbiBodW5kcmVkIGxhbmd1YWdlcyBhbmQgYWNjZW50cy4=</description>
   <sourcefile>espeak-ng-1.52.0.tar.gz</sourcefile>

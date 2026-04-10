@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gsettings-desktop-schemas</code>
   <description>VGhlIEdTZXR0aW5ncyBEZXNrdG9wIFNjaGVtYXMgcGFja2FnZSBjb250YWlucyBhIGNvbGxlY3Rpb24gb2YgR1NldHRpbmdzIHNjaGVtYXMgZm9yIHNldHRpbmdzIHNoYXJlZCBieSB2YXJpb3VzIGNvbXBvbmVudHMgb2YgYSBHTk9NRSBEZXNrdG9wLg==</description>
   <sourcefile>gsettings-desktop-schemas-48.0.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libvirt-glib</code>
   <description>bGlidmlydCBHTGliIGFuZCBHT2JqZWN0IG1hcHBpbmc=</description>
   <sourcefile>libvirt-glib-5.0.0.tar.xz</sourcefile>

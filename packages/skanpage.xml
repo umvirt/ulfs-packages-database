@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>skanpage</code>
   <description/>
   <sourcefile>skanpage-25.08.0.tar.xz</sourcefile>
@@ -14,15 +14,15 @@
   <dependances>
     <dependance>
       <code>tesseract</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>kquickimageeditor</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>ksanecore</code>
+      <code>kquickimageeditor</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>ksanecore</code>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

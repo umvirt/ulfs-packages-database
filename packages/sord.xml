@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>sord</code>
   <description>U29yZCBpcyBhIGxpZ2h0d2VpZ2h0IEMgbGlicmFyeSBmb3Igc3RvcmluZyBSREYgc3RhdGVtZW50cyBpbiBtZW1vcnku</description>
   <sourcefile>sord-v0.16.20.tar.bz2</sourcefile>

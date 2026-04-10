@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>FileZilla</code>
   <description>RmlsZVppbGxhwq4sIHRoZSBmcmVlIEZUUCBzb2x1dGlvbi4gVGhlIEZpbGVaaWxsYSBDbGllbnQgbm90IG9ubHkgc3VwcG9ydHMgRlRQLCBidXQgYWxzbyBGVFAgb3ZlciBUTFMgKEZUUFMpIGFuZCBTRlRQLg==</description>
   <sourcefile>FileZilla_3.69.5_src.tar.xz</sourcefile>

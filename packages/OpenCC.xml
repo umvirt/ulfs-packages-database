@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>OpenCC</code>
   <description>Q29udmVyc2lvbiBiZXR3ZWVuIFRyYWRpdGlvbmFsIGFuZCBTaW1wbGlmaWVkIENoaW5lc2U=</description>
   <sourcefile>OpenCC-ver.1.2.0.tar.gz</sourcefile>

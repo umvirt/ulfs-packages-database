@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!gnome-shell</code>
   <description>VGhlIEdOT01FIFNoZWxsIGlzIHRoZSBjb3JlIHVzZXIgaW50ZXJmYWNlIG9mIHRoZSBHTk9NRSBEZXNrdG9wIGVudmlyb25tZW50Lg==</description>
   <sourcefile>gnome-shell-46.4.tar.xz</sourcefile>

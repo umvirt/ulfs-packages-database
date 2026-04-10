@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>openglide</code>
   <description>T3BlbkdMaWRlIGlzIGEgR2xpZGUgdG8gT3BlbkdMIHdyYXBwZXIuIEl0IGVtdWxhdGVzIGEgVm9vZG9vIGJvYXJkIHNvIHlvdSBjYW4gcnVuIG9sZCBXaW5kb3dzIEdsaWRlIGdhbWVzIGJ5IHRyYW5zbGF0aW5nIEdsaWRlIGNhbGxzIGludG8gT3BlbkdMLg==</description>
   <sourcefile>openglide-2c88b483f3c526df0929ad783794a61cd0c34353.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>sdl12-compat</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

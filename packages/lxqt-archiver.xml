@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxqt-archiver</code>
   <description>VGhlIGx4cXQtYXJjaGl2ZXIgcGFja2FnZSBpcyBhIHNpbXBsZSBhbmQgbGlnaHR3ZWlnaHQgZGVza3RvcC1hZ25vc3RpYyBRdCBmaWxlIGFyY2hpdmVyLg==</description>
   <sourcefile>lxqt-archiver-1.2.0.tar.xz</sourcefile>

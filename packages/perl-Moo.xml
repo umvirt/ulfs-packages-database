@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>perl-Moo</code>
   <description>TW9vIC0gTWluaW1hbGlzdCBPYmplY3QgT3JpZW50YXRpb24gKHdpdGggTW9vc2UgY29tcGF0aWJpbGl0eSk=</description>
   <sourcefile>Moo-2.005005.tar.gz</sourcefile>

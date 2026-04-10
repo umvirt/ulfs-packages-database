@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libspectre</code>
   <description>TGlicmFyeSBmb3IgcmVuZGVyaW5nIFBvc3RTY3JpcHQgZG9jdW1lbnRz</description>
   <sourcefile>libspectre-0.2.8.tar.gz</sourcefile>

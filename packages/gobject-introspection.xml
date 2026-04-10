@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gobject-introspection</code>
   <description>VGhlIEdPYmplY3QgSW50cm9zcGVjdGlvbiBpcyB1c2VkIHRvIGRlc2NyaWJlIHRoZSBwcm9ncmFtIEFQSXMgYW5kIGNvbGxlY3QgdGhlbSBpbiBhIHVuaWZvcm0sIG1hY2hpbmUgcmVhZGFibGUgZm9ybWF0Lg==</description>
   <sourcefile>gobject-introspection-1.84.0.tar.xz</sourcefile>

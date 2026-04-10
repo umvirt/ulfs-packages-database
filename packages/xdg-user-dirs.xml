@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xdg-user-dirs</code>
   <description>WGRnLXVzZXItZGlycyBpcyBhIHRvb2wgdG8gaGVscCBtYW5hZ2Ug4oCcd2VsbCBrbm93buKAnSB1c2VyIGRpcmVjdG9yaWVzIGxpa2UgdGhlIGRlc2t0b3AgZm9sZGVyIGFuZCB0aGUgbXVzaWMgZm9sZGVyLiBJdCBhbHNvIGhhbmRsZXMgbG9jYWxpemF0aW9uIChpLmUuIHRyYW5zbGF0aW9uKSBvZiB0aGUgZmlsZW5hbWVzLg==</description>
   <sourcefile>xdg-user-dirs-0.18.tar.gz</sourcefile>

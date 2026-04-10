@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>SPIRV-LLVM-Translator</code>
   <description>VGhlIFNQSVJWLUxMVk0tVHJhbnNsYXRvciBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSBhbmQgdXRpbGl0eSBmb3IgY29udmVydGluZyBiZXR3ZWVuIExMVk0gSVIgYW5kIFNQSVItViBjb2RlLiBUaGlzIHBhY2thZ2UgY3VycmVudGx5IG9ubHkgc3VwcG9ydHMgdGhlIE9wZW5DTC9Db21wdXRlIHZlcnNpb24gb2YgU1BJUi1WLg==</description>
   <sourcefile>SPIRV-LLVM-Translator-20.1.5.tar.gz</sourcefile>

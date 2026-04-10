@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxqt-session</code>
   <description>VGhlIGx4cXQtc2Vzc2lvbiBwYWNrYWdlIGNvbnRhaW5zIHRoZSBkZWZhdWx0IHNlc3Npb24gbWFuYWdlciBmb3IgTFhRdC4=</description>
   <sourcefile>lxqt-session-2.2.0.tar.xz</sourcefile>

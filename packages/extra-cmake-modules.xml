@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>extra-cmake-modules</code>
   <description>VGhlIEV4dHJhIENtYWtlIE1vZHVsZXMgcGFja2FnZSBjb250YWlucyBleHRyYSBDTWFrZSBtb2R1bGVzIHVzZWQgYnkgS0RFIEZyYW1ld29ya3MgNSBhbmQgb3RoZXIgcGFja2FnZXMu</description>
   <sourcefile>extra-cmake-modules-6.17.0.tar.xz</sourcefile>

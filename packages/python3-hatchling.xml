@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-hatchling</code>
   <description>SGF0Y2hsaW5nIGlzIGFuIGV4dGVuc2libGUsIHN0YW5kYXJkcyBjb21wbGlhbnQgYnVpbGQgYmFja2VuZCBmb3IgcHl0aG9uIG1vZHVsZXMu</description>
   <sourcefile>hatchling-1.27.0.tar.gz</sourcefile>
@@ -17,15 +17,15 @@
     </dependance>
     <dependance>
       <code>python3-editables</code>
-      <weight>3</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-pathspec</code>
-      <weight>4</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>python3-pluggy</code>
-      <weight>5</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

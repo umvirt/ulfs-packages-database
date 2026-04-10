@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>netsurf</code>
   <description>TmV0U3VyZiBpcyBhIGZyZWUsIG9wZW4gc291cmNlIHdlYiBicm93c2VyLg==</description>
   <sourcefile>netsurf-all-3.11.tar.gz</sourcefile>
@@ -24,7 +24,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>pcre2</code>
+      <code>!pcre2</code>
       <weight>4</weight>
     </dependance>
     <dependance>

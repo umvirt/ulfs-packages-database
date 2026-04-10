@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-sphinxcontrib-jquery</code>
   <description>VGhlIFNwaGlueGNvbnRyaWItanF1ZXJ5IHBhY2thZ2UgaXMgYSBTcGhpbnggZXh0ZW5zaW9uIHdoaWNoIGluY2x1ZGVzIGpRdWVyeSBvbiBuZXdlciBTcGhpbnggcmVsZWFzZXMu</description>
   <sourcefile>sphinxcontrib-jquery-4.1.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-sphinx-base</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

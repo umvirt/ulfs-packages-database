@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>sane-backends</code>
   <description>U0FORSBpcyBzaG9ydCBmb3IgU2Nhbm5lciBBY2Nlc3MgTm93IEVhc3kuIFRoZSBiYWNrIGVuZHMgYXJlIGRyaXZlcnMgZm9yIHRoZSBzdXBwb3J0ZWQgc2Nhbm5lcnMgYW5kIGNhbWVyYXMu</description>
   <sourcefile>sane-backends-1.4.0.tar.gz</sourcefile>

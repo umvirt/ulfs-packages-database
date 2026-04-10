@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>sshfs</code>
   <description>QSBuZXR3b3JrIGZpbGVzeXN0ZW0gY2xpZW50IHRvIGNvbm5lY3QgdG8gU1NIIHNlcnZlcnM=</description>
   <sourcefile>sshfs-3.7.3.tar.xz</sourcefile>

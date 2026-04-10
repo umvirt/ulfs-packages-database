@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>iir1</code>
   <description>RFNQIElJUiByZWFsdGltZSBmaWx0ZXIgbGlicmFyeSB3cml0dGVuIGluIEMrKw==</description>
   <sourcefile>iir1-1.10.0.tar.gz</sourcefile>

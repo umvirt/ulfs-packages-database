@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libdom</code>
   <description>TGliRE9NIGlzIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBXM0MgRE9NLCB3cml0dGVuIGluIEMu</description>
   <sourcefile>libdom-f69781e1f062444b5af3f62d431d7d94018da53b.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>netsurf-buildsystem</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libhubbub</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

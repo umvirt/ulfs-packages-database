@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fuse-emulator</code>
   <description>RnVzZSAodGhlIEZyZWUgVW5peCBTcGVjdHJ1bSBFbXVsYXRvcikgYSBaWCBTcGVjdHJ1bSBlbXVsYXRvciBmb3IgVW5peC4g</description>
   <sourcefile>fuse-1.6.0.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>sdl12-compat</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libpng</code>
+      <code>libxml2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gtk2</code>
+      <code>libpng</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libgcrypt</code>
+      <code>gtk2</code>
       <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>libgcrypt</code>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>audiofile</code>

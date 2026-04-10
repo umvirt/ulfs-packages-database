@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xcalc</code>
   <description>QSBzY2llbnRpZmljIGNhbGN1bGF0b3IgWDExIGNsaWVudCB0aGF0IGNhbiBlbXVsYXRlIGEgVEktMzANCm9yIGFuIEhQLTEwQy4=</description>
   <sourcefile>xcalc-1.1.2.tar.xz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>X</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

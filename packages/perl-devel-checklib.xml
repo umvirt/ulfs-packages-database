@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>perl-devel-checklib</code>
   <description>UGVybCBtb2R1bGUgdGhhdCBjaGVja3Mgd2hldGhlciBhIHBhcnRpY3VsYXIgQyBsaWJyYXJ5IGFuZCBpdHMgaGVhZGVycyBhcmUgYXZhaWxhYmxlLg==</description>
   <sourcefile>Devel-CheckLib-1.16.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>cool-retro-term</code>
   <description>VGVybWluYWwgZW11bGF0b3Igd2hpY2ggbWltaWNzIHRoZSBsb29rIGFuZCBmZWVsIG9mIHRoZSBvbGQgY2F0aG9kZSB0dWJlIHNjcmVlbnMu</description>
   <sourcefile>cool-retro-term-1.2.0-git.tar.gz</sourcefile>

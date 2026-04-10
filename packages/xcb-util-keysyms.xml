@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xcb-util-keysyms</code>
   <description>VGhlIHhjYi11dGlsLWtleXN5bXMgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIGhhbmRsaW5nIHN0YW5kYXJkIFgga2V5IGNvbnN0YW50cyBhbmQgY29udmVyc2lvbiB0by9mcm9tIGtleWNvZGVzLg==</description>
   <sourcefile>xcb-util-keysyms-0.4.1.tar.xz</sourcefile>

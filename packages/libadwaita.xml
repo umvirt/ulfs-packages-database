@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libadwaita</code>
   <description>VGhlIGxpYmFkd2FpdGEgcGFja2FnZSBwcm92aWRlcyBhZGRpdGlvbmFsIEdUSzQgVUkgd2lkZ2V0cyBmb3IgdXNlIGluIGRldmVsb3BpbmcgdXNlciBpbnRlcmZhY2VzLiBJdCBpcyB1c2VkIHByaW1hcmlseSBmb3IgR05PTUUgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>libadwaita-1.7.6.tar.xz</sourcefile>

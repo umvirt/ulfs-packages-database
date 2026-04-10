@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libepoxy</code>
   <description>aWJlcG94eSBpcyBhIGxpYnJhcnkgZm9yIGhhbmRsaW5nIE9wZW5HTCBmdW5jdGlvbiBwb2ludGVyIG1hbmFnZW1lbnQuDQoNCg==</description>
   <sourcefile>libepoxy-1.5.10.tar.xz</sourcefile>

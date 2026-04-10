@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>hyprlang</code>
   <description>VGhlIG9mZmljaWFsIGltcGxlbWVudGF0aW9uIGxpYnJhcnkgZm9yIHRoZSBoeXByIGNvbmZpZyBsYW5ndWFnZS4=</description>
   <sourcefile>hyprlang-0.6.4.tar.gz</sourcefile>

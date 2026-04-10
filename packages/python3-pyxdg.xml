@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-pyxdg</code>
   <description>UHlYREcgaXMgYSBQeXRob24gbGlicmFyeSB0byBhY2Nlc3MgZnJlZWRlc2t0b3Aub3JnIHN0YW5kYXJkcy4=</description>
   <sourcefile>pyxdg-0.28.tar.gz</sourcefile>

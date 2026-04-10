@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libnl</code>
   <description>VGhlIGxpYm5sIHN1aXRlIGlzIGEgY29sbGVjdGlvbiBvZiBsaWJyYXJpZXMgcHJvdmlkaW5nIEFQSXMgdG8gbmV0bGluayBwcm90b2NvbCBiYXNlZCBMaW51eCBrZXJuZWwgaW50ZXJmYWNlcy4=</description>
   <sourcefile>libnl-3.11.0.tar.gz</sourcefile>

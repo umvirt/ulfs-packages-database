@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-ply</code>
   <description>VGhlIHBseSBwYWNrYWdlIGlzIGEgMTAwJSBQeXRob24gaW1wbGVtZW50YXRpb24gb2YgdGhlIGNvbW1vbiBwYXJzaW5nIHRvb2xzICdsZXgnIGFuZCAneWFjYycu</description>
   <sourcefile>ply-3.11.tar.gz</sourcefile>

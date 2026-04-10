@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>net-snmp</code>
   <description>QSBzdWl0ZSBvZiBhcHBsaWNhdGlvbnMgdXNlZCB0byBpbXBsZW1lbnQgU05NUCB2MSwgU05NUCB2MmMgYW5kIFNOTVAgdjMgdXNpbmcgYm90aCBJUHY0IGFuZCBJUHY2</description>
   <sourcefile>net-snmp-7d38b8299e26708ee92c9fe1628e5a000bc23e17-backports.tar.bz2</sourcefile>
@@ -12,7 +12,7 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>pcre2</code>
+      <code>!pcre2</code>
       <weight>1</weight>
     </dependance>
     <dependance>

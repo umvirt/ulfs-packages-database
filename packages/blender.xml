@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>blender</code>
   <description>RnJlZSBhbmQgT3BlbiAzRCBDcmVhdGlvbiBTb2Z0d2FyZS4=</description>
   <sourcefile>blender-5.0.0.tar.xz</sourcefile>
@@ -13,91 +13,91 @@
   <dependances>
     <dependance>
       <code>python3-numpy</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libwebp</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>ffmpeg</code>
+      <code>libwebp</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>openal</code>
+      <code>ffmpeg</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>freetype-stage3</code>
+      <code>openal</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>openexr</code>
+      <code>freetype-stage3</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>fftw-single</code>
+      <code>openexr</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>OpenCOLLADA</code>
+      <code>fftw-single</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>fftw-double</code>
+      <code>OpenCOLLADA</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>fftw-longdouble</code>
+      <code>fftw-double</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>fftw-quad</code>
+      <code>fftw-longdouble</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>jemalloc</code>
+      <code>fftw-quad</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>libspnav</code>
+      <code>jemalloc</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>OpenShadingLanguage</code>
+      <code>libspnav</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>openvdb</code>
+      <code>OpenShadingLanguage</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>nanovdb</code>
+      <code>openvdb</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>alembic</code>
+      <code>nanovdb</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>MaterialX</code>
+      <code>alembic</code>
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>embree</code>
+      <code>MaterialX</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>oidn</code>
+      <code>embree</code>
       <weight>19</weight>
     </dependance>
     <dependance>
-      <code>OpenUSD</code>
+      <code>oidn</code>
       <weight>20</weight>
     </dependance>
     <dependance>
-      <code>shaderc</code>
+      <code>OpenUSD</code>
       <weight>21</weight>
+    </dependance>
+    <dependance>
+      <code>shaderc</code>
+      <weight>22</weight>
     </dependance>
   </dependances>
   <patches/>

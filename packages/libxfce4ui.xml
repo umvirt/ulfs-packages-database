@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libxfce4ui</code>
   <description>VGhlIGxpYnhmY2U0dWkgcGFja2FnZSBjb250YWlucyBHVEsrIDMgd2lkZ2V0cyB0aGF0IGFyZSB1c2VkIGJ5IG90aGVyIFhmY2UgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>libxfce4ui-4.20.2.tar.bz2</sourcefile>

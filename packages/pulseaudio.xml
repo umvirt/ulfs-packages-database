@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>pulseaudio</code>
   <description>UHVsc2VBdWRpbyBpcyBhIHNvdW5kIHN5c3RlbSBmb3IgUE9TSVggT1NlcywgbWVhbmluZyB0aGF0IGl0IGlzIGEgcHJveHkgZm9yIHNvdW5kIGFwcGxpY2F0aW9ucy4g</description>
   <sourcefile>pulseaudio-17.0.tar.xz</sourcefile>

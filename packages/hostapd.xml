@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>hostapd</code>
   <description>VXNlciBzcGFjZSBkYWVtb24gZm9yIGFjY2VzcyBwb2ludCBhbmQgYXV0aGVudGljYXRpb24gc2VydmVycy4=</description>
   <sourcefile>hostapd-2.11.tar.gz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libnl</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>linux-firmware</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches>

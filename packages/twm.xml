@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>twm</code>
   <description>VGhlIHR3bSBwYWNrYWdlIGNvbnRhaW5zIGEgdmVyeSBtaW5pbWFsIHdpbmRvdyBtYW5hZ2VyLg==</description>
   <sourcefile>twm-1.0.13.1.tar.xz</sourcefile>

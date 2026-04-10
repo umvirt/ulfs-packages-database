@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>mc</code>
   <description>TUMgKE1pZG5pZ2h0IENvbW1hbmRlcikgaXMgYSB0ZXh0LW1vZGUgZnVsbC1zY3JlZW4gZmlsZSBtYW5hZ2VyIGFuZCB2aXN1YWwgc2hlbGwuIA==</description>
   <sourcefile>mc-4.8.33.tar.xz</sourcefile>
@@ -14,10 +14,6 @@
     <dependance>
       <code>glib</code>
       <weight>1</weight>
-    </dependance>
-    <dependance>
-      <code>pcre2</code>
-      <weight>2</weight>
     </dependance>
     <dependance>
       <code>slang</code>

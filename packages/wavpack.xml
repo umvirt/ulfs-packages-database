@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>wavpack</code>
   <description>V2F2UGFjayBpcyBhIGNvbXBsZXRlbHkgb3BlbiBhdWRpbyBjb21wcmVzc2lvbiBmb3JtYXQgcHJvdmlkaW5nIGxvc3NsZXNzLCBoaWdoLXF1YWxpdHkgbG9zc3ksIGFuZCBhIHVuaXF1ZSBoeWJyaWQgY29tcHJlc3Npb24gbW9kZS4g</description>
   <sourcefile>wavpack-5.8.1.tar.bz2</sourcefile>

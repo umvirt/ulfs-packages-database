@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!python3-packaging</code>
   <description>VGhlIFBhY2thZ2luZyBsaWJyYXJ5IHByb3ZpZGVzIHV0aWxpdGllcyB0aGF0IGltcGxlbWVudCB0aGUgaW50ZXJvcGVyYWJpbGl0eSBzcGVjaWZpY2F0aW9ucyB3aGljaCBoYXZlIGNsZWFybHkgb25lIGNvcnJlY3QgYmVoYXZpb3VyIG9yIGJlbmVmaXQgZ3JlYXRseSBmcm9tIGhhdmluZyBhIHNpbmdsZSBzaGFyZWQgaW1wbGVtZW50YXRpb24u</description>
   <sourcefile>packaging-24.2.tar.gz</sourcefile>

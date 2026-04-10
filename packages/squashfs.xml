@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>squashfs</code>
   <description>VG9vbHMgdG8gY3JlYXRlIGFuZCBleHRyYWN0IFNxdWFzaGZzIGZpbGVzeXN0ZW1z</description>
   <sourcefile>squashfs-tools-4.7.4.tar.gz</sourcefile>

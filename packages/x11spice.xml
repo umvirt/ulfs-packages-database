@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>x11spice</code>
   <description>eDExc3BpY2Ugd2lsbCBlbmFibGUgYSBydW5uaW5nIFgxMSBkZXNrdG9wIHRvIGJlIGF2YWlsYWJsZSB2aWEgYSBTcGljZSBzZXJ2ZXIu</description>
   <sourcefile>x11spice-v1.2.tar.bz2</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>util-macros</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>xf86-video-qxl</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>spice-server</code>
-      <weight>1</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

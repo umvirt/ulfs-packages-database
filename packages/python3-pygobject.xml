@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-pygobject</code>
   <description>UHlHT2JqZWN0MyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gdGhlIEdPYmplY3QgY2xhc3MgZnJvbSBHTGliLg0KDQo=</description>
   <sourcefile>pygobject-3.52.3.tar.gz</sourcefile>

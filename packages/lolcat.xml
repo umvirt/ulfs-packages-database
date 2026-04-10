@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lolcat</code>
   <description>VGhpcyBgbG9sY2F0YCBjbG9uZSBpcyBhbiBhdHRlbXB0IHRvIHJlZHVjZSB0aGUgd29ybGQncyBjYXJib24gZGlveGlkZSBlbWlzc2lvbnMgYnkgb3B0aW1pemluZyBpbmVmZmljaWVudCBjb2RlLiBJdCdzID4xMHggYXMgZmFzdCBhbmQgPDAuMSUgYXMgbGFyZ2UgYXMgdGhlIG9yaWdpbmFsIG9uZS4=</description>
   <sourcefile>lolcat-1.5.tar.gz</sourcefile>

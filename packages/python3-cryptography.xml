@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-cryptography</code>
   <description>QSBzZXQgb2YgZnVuY3Rpb25zIHVzZWZ1bCBpbiBjcnlwdG9ncmFwaHkgYW5kIGxpbmVhciBhbGdlYnJh</description>
   <sourcefile>cryptography-42.0.5.tar.gz</sourcefile>

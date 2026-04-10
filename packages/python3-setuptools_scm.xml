@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-setuptools_scm</code>
   <description>VGhlIFNldHVwdG9vbHNfc2NtIHBhY2thZ2UgaXMgdXNlZCB0byBleHRyYWN0IFB5dGhvbiBwYWNrYWdlIHZlcnNpb25zIGZyb20gZ2l0IG9yIGhnIG1ldGFkYXRhIGluc3RlYWQgb2YgZGVjbGFyaW5nIHRoZW0u</description>
   <sourcefile>setuptools_scm-8.3.1.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-typing_extensions</code>
-      <weight>2</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libmirage</code>
   <description>bGliTWlyYWdlIGlzIGEgQ0QtUk9NIGltYWdlIGFjY2VzcyBsaWJyYXJ5LiBJdCBpcyB3cml0dGVuIGluIEMgYW5kIGJhc2VkIG9uIEdMaWIuIEl0J3MgYWltIGlzIHRvIHByb3ZpZGUgdW5pZm9ybSBhY2Nlc3MgdG8gdGhlIGRhdGEgc3RvcmVkIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
   <sourcefile>libmirage-3.2.10.tar.xz</sourcefile>

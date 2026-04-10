@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>dracut-ng</code>
   <description>QSBtb2R1bGFyIHRvb2wgd2hpY2ggZ2VuZXJhdGVzIGFuIGluaXRpYWwgaW1hZ2UgY2FwYWJsZSBvZiBsb2FkaW5nIG5lY2Vzc2FyeSBkcml2ZXJzIGFuZCBwZXJmb3JtaW5nIG90aGVyIGNvbmZpZ3VyYXRpb24gZHVyaW5nIGVhcmx5IExpbnV4IGJvb3Qu</description>
   <sourcefile>dracut-ng-110.tar.gz</sourcefile>

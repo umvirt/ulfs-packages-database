@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxqt-config</code>
   <description>VGhlIGx4cXQtY29uZmlnIHBhY2thZ2UgcHJvdmlkZXMgdGhlIExYUXQgQ29uZmlndXJhdGlvbiBDZW50ZXIu</description>
   <sourcefile>lxqt-config-2.2.0.tar.xz</sourcefile>

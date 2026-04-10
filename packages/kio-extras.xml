@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>kio-extras</code>
   <description/>
   <sourcefile>kio-extras-25.08.0.tar.xz</sourcefile>
@@ -14,39 +14,39 @@
   <dependances>
     <dependance>
       <code>libproxy</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libtirpc</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>samba</code>
+      <code>libtirpc</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>taglib</code>
+      <code>samba</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>KF6</code>
+      <code>taglib</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>qcoro</code>
+      <code>KF6</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>plasma</code>
+      <code>qcoro</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>libkexiv2</code>
+      <code>plasma</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>kdsoap-ws-discovery-client</code>
+      <code>libkexiv2</code>
       <weight>8</weight>
+    </dependance>
+    <dependance>
+      <code>kdsoap-ws-discovery-client</code>
+      <weight>9</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libaccounts-glib</code>
   <description>R0xpYi1iYXNlZCBjbGllbnQgbGlicmFyeSBmb3IgdGhlIGFjY291bnRzIGRhdGFiYXNl</description>
   <sourcefile>libaccounts-glib-VERSION_1.27.tar.bz2</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>check</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libxml2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>sqlite</code>
+      <code>libxml2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>glib-gobject</code>
+      <code>sqlite</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>glib-gobject</code>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

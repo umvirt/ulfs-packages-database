@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-sphinx</code>
   <description>VGhlIFNwaGlueCBwYWNrYWdlIGlzIGEgc2V0IG9mIHRvb2xzIGZvciB0cmFuc2xhdGluZyBzb21lIHN0cnVjdHVyZWQgdGV4dCBmb3JtYXRzIGludG8gcHJldHR5IGRvY3VtZW50YXRpb24gaW4gdmFyaW91cyBmb3JtYXRzLg==</description>
   <sourcefile/>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>python3-sphinx-base</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-sphinx_rtd_theme</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

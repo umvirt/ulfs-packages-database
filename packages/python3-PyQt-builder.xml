@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-PyQt-builder</code>
   <description>VGhlIFB5UXQgYnVpbGQgc3lzdGVt</description>
   <sourcefile>PyQt-builder-1.17.1.tar.gz</sourcefile>

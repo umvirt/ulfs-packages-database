@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>rsync</code>
   <description>VGhlIHJzeW5jIHV0aWxpdHkgaXMgdXNlZnVsIGZvciBzeW5jaHJvbml6aW5nIGxhcmdlIGZpbGUgYXJjaGl2ZXMgb3ZlciBhIG5ldHdvcmsu</description>
   <sourcefile>rsync-3.4.1.tar.gz</sourcefile>
@@ -16,7 +16,12 @@
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>rsync-3.4.1-security_fix-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

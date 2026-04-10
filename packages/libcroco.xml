@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libcroco</code>
   <description>VGhlIGxpYmNyb2NvIHBhY2thZ2UgY29udGFpbnMgYSBzdGFuZGFsb25lIENTUzIgcGFyc2luZyBhbmQgbWFuaXB1bGF0aW9uIGxpYnJhcnku</description>
   <sourcefile>libcroco-0.6.12.tar.xz</sourcefile>

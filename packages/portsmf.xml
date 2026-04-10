@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>portsmf</code>
   <description>cG9ydHNtZiAoc2hvcnQgZm9yIFBvcnRhYmxlIFN0YW5kYXJkIE1pZGkgRmlsZSBMaWJyYXJ5KSwgYSBzdWJwcm9qZWN0IG9mIHBvcnRtZWRpYSwgaXMgYSBsaWJyYXJ5IGZvciByZWFkaW5nLCB3cml0aW5nLCBhbmQgbWFuaXB1bGF0aW5nIHN0YW5kYXJkIG1pZGkgZmlsZXMu</description>
   <sourcefile>portsmf-276.tar.gz</sourcefile>

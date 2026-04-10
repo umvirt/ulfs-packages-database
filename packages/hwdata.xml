@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>hwdata</code>
   <description>VGhlIGh3ZGF0YSBwYWNrYWdlIGNvbnRhaW5zIGN1cnJlbnQgUENJIGFuZCB2ZW5kb3IgaWQgZGF0YS4=</description>
   <sourcefile>hwdata-0.398.tar.gz</sourcefile>

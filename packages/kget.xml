@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>kget</code>
   <description/>
   <sourcefile>kget-25.08.0.tar.xz</sourcefile>
@@ -14,11 +14,11 @@
   <dependances>
     <dependance>
       <code>qgpgme</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>gpgme-qt6</code>
-      <weight>1</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

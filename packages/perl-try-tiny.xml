@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>perl-try-tiny</code>
   <description>TWluaW1hbCB0cnkvY2F0Y2ggd2l0aCBwcm9wZXIgcHJlc2VydmF0aW9uIG9mICRALg==</description>
   <sourcefile>Try-Tiny-0.32.tar.gz</sourcefile>

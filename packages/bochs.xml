@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>bochs</code>
   <description>Qm9jaHMgaXMgYSBwb3J0YWJsZSB4ODYgUEMgZW11bGF0aW9uIHNvZnR3YXJlIHBhY2thZ2UgdGhhdCBlbXVsYXRlcyBlbm91Z2ggb2YgdGhlIHg4NiBDUFUsIHJlbGF0ZWQgQVQgaGFyZHdhcmUsIGFuZCBCSU9TIHRvIHJ1biBXaW5kb3dzLCBMaW51eCwgKkJTRCwgTWluaXgsIGFuZCBvdGhlciBPUydzLCBhbGwgb24geW91ciB3b3Jrc3RhdGlvbi4=</description>
   <sourcefile>bochs-3.0.tar.gz</sourcefile>

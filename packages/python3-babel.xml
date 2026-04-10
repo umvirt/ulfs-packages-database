@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-babel</code>
   <description>VGhlIEJhYmVsIHBhY2thZ2UgaXMgYW4gaW50ZWdyYXRlZCBjb2xsZWN0aW9uIG9mIHV0aWxpdGllcyB0aGF0IGFzc2lzdCBpbiBpbnRlcm5hdGlvbmFsaXppbmcgYW5kIGxvY2FsaXppbmcgUHl0aG9uIGFwcGxpY2F0aW9ucywgd2l0aCBhbiBlbXBoYXNpcyBvbiB3ZWItYmFzZWQgYXBwbGljYXRpb25zLg==</description>
   <sourcefile>babel-2.17.0.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-pytz</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

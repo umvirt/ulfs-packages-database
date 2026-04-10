@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>messagelib</code>
   <description/>
   <sourcefile>messagelib-25.08.0.tar.xz</sourcefile>
@@ -14,35 +14,35 @@
   <dependances>
     <dependance>
       <code>kmailtransport</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>kidentitymanagement</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>akonadi-contacts</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>akonadi-mime</code>
+      <code>kidentitymanagement</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>akonadi-search</code>
+      <code>akonadi-contacts</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libgravatar</code>
+      <code>akonadi-mime</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libkleo</code>
+      <code>akonadi-search</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>kmbox</code>
+      <code>libgravatar</code>
       <weight>6</weight>
+    </dependance>
+    <dependance>
+      <code>libkleo</code>
+      <weight>7</weight>
+    </dependance>
+    <dependance>
+      <code>kmbox</code>
+      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

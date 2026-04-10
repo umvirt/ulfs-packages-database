@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-pycairo</code>
   <description>UHlDYWlybyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gQ2Fpcm8u</description>
   <sourcefile>pycairo-1.28.0.tar.gz</sourcefile>

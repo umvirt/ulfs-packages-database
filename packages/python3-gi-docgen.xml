@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-gi-docgen</code>
   <description>R2ktRG9jR2VuIGlzIGEgZG9jdW1lbnQgZ2VuZXJhdG9yIGZvciBHT2JqZWN0LWJhc2VkIGxpYnJhcmllcy4gR09iamVjdCBpcyB0aGUgYmFzZSB0eXBlIHN5c3RlbSBvZiB0aGUgR05PTUUgcHJvamVjdC4gR0ktRG9jZ2VuIHJldXNlcyB0aGUgaW50cm9zcGVjdGlvbiBkYXRhIGdlbmVyYXRlZCBieSBHT2JqZWN0LWJhc2VkIGxpYnJhcmllcyB0byBnZW5lcmF0ZSB0aGUgQVBJIHJlZmVyZW5jZSBvZiB0aGVzZSBsaWJyYXJpZXMsIGFzIHdlbGwgYXMgb3RoZXIgYW5jaWxsYXJ5IGRvY3VtZW50YXRpb24u</description>
   <sourcefile>gi_docgen-2025.4.tar.gz</sourcefile>

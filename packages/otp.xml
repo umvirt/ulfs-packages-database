@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>otp</code>
   <description>IE9UUCBpcyBhIHNldCBvZiBFcmxhbmcgbGlicmFyaWVzLCB3aGljaCBjb25zaXN0cyBvZiB0aGUgRXJsYW5nIHJ1bnRpbWUgc3lzdGVtLCBhIG51bWJlciBvZiByZWFkeS10by11c2UgY29tcG9uZW50cyBtYWlubHkgd3JpdHRlbiBpbiBFcmxhbmcsIGFuZCBhIHNldCBvZiBkZXNpZ24gcHJpbmNpcGxlcyBmb3IgRXJsYW5nIHByb2dyYW1zLkVybGFuZyBpcyBhIHByb2dyYW1taW5nIGxhbmd1YWdlIGFuZCBydW50aW1lIHN5c3RlbSBmb3IgYnVpbGRpbmcgbWFzc2l2ZWx5IHNjYWxhYmxlIHNvZnQgcmVhbC10aW1lIHN5c3RlbXMgd2l0aCByZXF1aXJlbWVudHMgb24gaGlnaCBhdmFpbGFiaWxpdHku</description>
   <sourcefile>otp_src_28.2.tar.gz</sourcefile>

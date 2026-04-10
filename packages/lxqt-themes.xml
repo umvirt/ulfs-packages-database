@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxqt-themes</code>
   <description>VGhlIGx4cXQtdGhlbWVzIHBhY2thZ2UgcHJvdmlkZXMgYSBudW1iZXIgb2YgZ3JhcGhpY3MgZmlsZXMgYW5kIHRoZW1lcyBmb3IgdGhlIExYUXQgZGVza3RvcC4=</description>
   <sourcefile>lxqt-themes-2.2.0.tar.xz</sourcefile>

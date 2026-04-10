@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>audacious-app</code>
   <description>QXVkYWNpb3VzIGlzIGFuIGF1ZGlvIHBsYXllci4=</description>
   <sourcefile>audacious-4.5.tar.bz2</sourcefile>

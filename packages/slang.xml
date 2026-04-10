@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>slang</code>
   <description>Uy1MYW5nIChzbGFuZykgaXMgYW4gaW50ZXJwcmV0ZWQgbGFuZ3VhZ2UgdGhhdCBtYXkgYmUgZW1iZWRkZWQgaW50byBhbiBhcHBsaWNhdGlvbiB0byBtYWtlIHRoZSBhcHBsaWNhdGlvbiBleHRlbnNpYmxlLiBJdCBwcm92aWRlcyBmYWNpbGl0aWVzIHJlcXVpcmVkIGJ5IGludGVyYWN0aXZlIGFwcGxpY2F0aW9ucyBzdWNoIGFzIGRpc3BsYXkvc2NyZWVuIG1hbmFnZW1lbnQsIGtleWJvYXJkIGlucHV0IGFuZCBrZXltYXBzLg==</description>
   <sourcefile>slang-2.3.3.tar.bz2</sourcefile>

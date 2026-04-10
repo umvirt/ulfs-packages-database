@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>hyprcursor-rustless</code>
   <description>VGhlIGh5cHJsYW5kIGN1cnNvciBmb3JtYXQsIGxpYnJhcnkgYW5kIHV0aWxpdGllcy4=</description>
   <sourcefile>hyprcursor-0.1.13.tar.gz</sourcefile>

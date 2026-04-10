@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>nss</code>
   <description>VGhlIE5ldHdvcmsgU2VjdXJpdHkgU2VydmljZXMgKE5TUykgcGFja2FnZSBpcyBhIHNldCBvZiBsaWJyYXJpZXMgZGVzaWduZWQgdG8gc3VwcG9ydCBjcm9zcy1wbGF0Zm9ybSBkZXZlbG9wbWVudCBvZiBzZWN1cml0eS1lbmFibGVkIGNsaWVudCBhbmQgc2VydmVyIGFwcGxpY2F0aW9ucy4gQXBwbGljYXRpb25zIGJ1aWx0IHdpdGggTlNTIGNhbiBzdXBwb3J0IFNTTCB2MiBhbmQgdjMsIFRMUywgUEtDUyAjNSwgUEtDUyAjNywgUEtDUyAjMTEsIFBLQ1MgIzEyLCBTL01JTUUsIFguNTA5IHYzIGNlcnRpZmljYXRlcywgYW5kIG90aGVyIHNlY3VyaXR5IHN0YW5kYXJkcy4gVGhpcyBpcyB1c2VmdWwgZm9yIGltcGxlbWVudGluZyBTU0wgYW5kIFMvTUlNRSBvciBvdGhlciBJbnRlcm5ldCBzZWN1cml0eSBzdGFuZGFyZHMgaW50byBhbiBhcHBsaWNhdGlvbi4=</description>
   <sourcefile>nss-3.115.tar.gz</sourcefile>

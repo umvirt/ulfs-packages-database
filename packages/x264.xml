@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>x264</code>
   <description>eDI2NCBwYWNrYWdlIHByb3ZpZGVzIGEgbGlicmFyeSBmb3IgZW5jb2RpbmcgdmlkZW8gc3RyZWFtcyBpbnRvIHRoZSBILjI2NC9NUEVHLTQgQVZDIGZvcm1hdC4=</description>
   <sourcefile>x264-20250815.tar.xz</sourcefile>

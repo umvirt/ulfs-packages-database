@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>make-ca</code>
   <description>bWFrZS1jYSBpcyBhIHV0aWxpdHkgdG8gZGVsaXZlciBhbmQgbWFuYWdlIGEgY29tcGxldGUgUEtJIGNvbmZpZ3VyYXRpb24gZm9yDQp3b3Jrc3RhdGlvbnMgYW5kIHNlcnZlcnMgdXNpbmcgb25seSBzdGFuZGFyZCBVbml4IHV0aWxpdGllcywgT3BlblNTTCwgYW5kDQpwMTEta2l0LCB1c2luZyBhIE1vemlsbGEgY2FjZXJ0cy50eHQgb3IgbGlrZSBmaWxlIGFzIHRoZSB0cnVzdCBzb3VyY2Uu</description>
   <sourcefile>make-ca-1.16.1.tar.gz</sourcefile>
   <sourcedir>make-ca-1.16.1</sourcedir>
   <unpack/>
-  <configure>Iw==</configure>
+  <configure>c2VkICcvbWt0ZW1wL3MvLXQgLy8nIC1pIG1ha2UtY2ENCg==</configure>
   <build>Iw==</build>
   <install>Z3VuemlwIC1rIC4uL2NlcnRkYXRhLnR4dC5neg0KY3AgLXYgLi4vY2VydGRhdGEudHh0IC9ldGMvc3NsDQoNCm1ha2UgaW5zdGFsbCAmJg0KaW5zdGFsbCAtdmRtNzU1IC9ldGMvc3NsL2xvY2FsDQoNCi91c3Ivc2Jpbi9tYWtlLWNhIC1yIC0tZm9yY2UNCg0KbWtkaXIgLXB2IC9ldGMvcHJvZmlsZS5kICYmDQpjYXQgPiAvZXRjL3Byb2ZpbGUuZC9weXRob25jZXJ0cy5zaCA8PCAiRU9GIg0KIyBCZWdpbiAvZXRjL3Byb2ZpbGUuZC9weXRob25jZXJ0cy5zaA0KDQpleHBvcnQgX1BJUF9TVEFOREFMT05FX0NFUlQ9L2V0Yy9wa2kvdGxzL2NlcnRzL2NhLWJ1bmRsZS5jcnQNCg0KIyBFbmQgL2V0Yy9wcm9maWxlLmQvcHl0aG9uY2VydHMuc2gNCkVPRg==</install>
   <localbuild>0</localbuild>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fontconfig</code>
   <description>VGhlIEZvbnRjb25maWcgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHN1cHBvcnQgcHJvZ3JhbXMgdXNlZCBmb3IgY29uZmlndXJpbmcgYW5kIGN1c3RvbWl6aW5nIGZvbnQgYWNjZXNzLg==</description>
   <sourcefile>fontconfig-2.17.1.tar.xz</sourcefile>

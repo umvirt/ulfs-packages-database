@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>zfs-linux</code>
   <description>S2VybmVsIG1vZHVsZXMgZm9yIHRoZSBaZXR0YWJ5dGUgRmlsZSBTeXN0ZW0u</description>
   <sourcefile>zfs-2.4.0.tar.gz</sourcefile>

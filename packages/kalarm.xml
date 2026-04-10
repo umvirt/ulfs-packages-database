@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>kalarm</code>
   <description/>
   <sourcefile>kalarm-25.08.0.tar.xz</sourcefile>
@@ -14,19 +14,19 @@
   <dependances>
     <dependance>
       <code>mpvqt</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>akonadi-contacts</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>akonadi-mime</code>
+      <code>akonadi-contacts</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>kmailtransport</code>
+      <code>akonadi-mime</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>kmailtransport</code>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

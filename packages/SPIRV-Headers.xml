@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>SPIRV-Headers</code>
   <description>VGhlIFNQSVJWLUhlYWRlcnMgcGFja2FnZSBjb250YWlucyBoZWFkZXJzIHRoYXQgYWxsb3cgZm9yIGFwcGxpY2F0aW9ucyB0byB0aGUgU1BJUi1WIGxhbmd1YWdlIGFuZCBpbnN0cnVjdGlvbiBzZXQgd2l0aCBWdWxrYW4uIFNQSVItViBpcyBhIGJpbmFyeSBpbnRlcm1lZGlhdGUgbGFuZ3VhZ2UgZm9yIHJlcHJlc2VudGluZyBncmFwaGljYWwgc2hhZGVyIHN0YWdlcyBhbmQgY29tcHV0ZSBrZXJuZWxzIGZvciBtdWx0aXBsZSBLaHJvbm9zIEFQSXMsIGluY2x1ZGluZyBPcGVuR0wgYW5kIFZ1bGthbi4=</description>
   <sourcefile>SPIRV-Headers-vulkan-sdk-1.4.321.0.tar.gz</sourcefile>

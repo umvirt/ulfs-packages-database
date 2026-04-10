@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>qterminal</code>
   <description>VGhlIHF0ZXJtaW5hbCBwYWNrYWdlIGNvbnRhaW5zIGEgUXQgd2lkZ2V0IGJhc2VkIHRlcm1pbmFsIGVtdWxhdG9yIGZvciBRdCB3aXRoIHN1cHBvcnQgZm9yIG11bHRpcGxlIHRhYnMu</description>
   <sourcefile>qterminal-2.2.1.tar.xz</sourcefile>

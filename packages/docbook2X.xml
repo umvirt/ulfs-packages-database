@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>docbook2X</code>
   <description>ZG9jYm9vazJYIGlzIGEgc29mdHdhcmUgcGFja2FnZSB0aGF0IGNvbnZlcnRzIERvY0Jvb2sgZG9jdW1lbnRzIGludG8gdGhlIHRyYWRpdGlvbmFsIFVuaXggbWFuIHBhZ2UgZm9ybWF0IGFuZCB0aGUgR05VIFRleGluZm8gZm9ybWF0Lg0KDQo=</description>
   <sourcefile>docbook2X-0.8.8.tar.gz</sourcefile>

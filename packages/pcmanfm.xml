@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>pcmanfm</code>
   <description>VGhlIFBDTWFuRk0gcGFja2FnZSBjb250YWlucyBhbiBleHRyZW1lbHkgZmFzdCwgbGlnaHR3ZWlnaHQsIHlldCBmZWF0dXJlLXJpY2ggZmlsZSBtYW5hZ2VyIHdpdGggdGFiYmVkIGJyb3dzaW5nLg==</description>
   <sourcefile>pcmanfm-1.4.0.tar.gz</sourcefile>

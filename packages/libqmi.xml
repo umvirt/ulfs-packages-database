@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libqmi</code>
   <description>VGhlIGxpYnFtaSBwYWNrYWdlIGNvbnRhaW5zIGEgR0xpYi1iYXNlZCBsaWJyYXJ5IGZvciB0YWxraW5nIHRvIFdXQU4gbW9kZW1zIGFuZCBkZXZpY2VzIHdoaWNoIHNwZWFrIHRoZSBRdWFsY29tbSBNU00gSW50ZXJmYWNlIChRTUkpIHByb3RvY29sLg==</description>
   <sourcefile>libqmi-1.36.0.tar.gz</sourcefile>

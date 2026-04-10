@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>elinks</code>
   <description>RUxpbmtzIGlzIGFuIGFkdmFuY2VkIGFuZCB3ZWxsLWVzdGFibGlzaGVkIGZlYXR1cmUtcmljaCB0ZXh0IG1vZGUgd2ViDQooSFRUUC9GVFAvLi4pIGJyb3dzZXIu</description>
   <sourcefile>elinks-0.19.0.tar.xz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>gpm</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>sqlite</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>libidn2</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>expat</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>quickjs</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>libcss</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>libdom</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

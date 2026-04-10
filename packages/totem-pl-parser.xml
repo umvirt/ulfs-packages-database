@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>totem-pl-parser</code>
   <description>VGhlIFRvdGVtIFBMIFBhcnNlciBwYWNrYWdlIGNvbnRhaW5zIGEgc2ltcGxlIEdPYmplY3QtYmFzZWQgbGlicmFyeSB1c2VkIHRvIHBhcnNlIG11bHRpcGxlIHBsYXlsaXN0IGZvcm1hdHMu</description>
   <sourcefile>totem-pl-parser-3.26.6.tar.xz</sourcefile>

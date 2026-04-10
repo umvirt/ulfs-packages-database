@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gcr3</code>
   <description>VGhlIEdjciBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBkaXNwbGF5aW5nIGNlcnRpZmljYXRlcyBhbmQgYWNjZXNzaW5nIGtleSBzdG9yZXMuIEl0IGFsc28gcHJvdmlkZXMgdGhlIHZpZXdlciBmb3IgY3J5cHRvIGZpbGVzIG9uIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
   <sourcefile>gcr-3.41.2.tar.xz</sourcefile>

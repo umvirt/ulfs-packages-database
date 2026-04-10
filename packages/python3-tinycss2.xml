@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-tinycss2</code>
   <description>dGlueWNzczIgaXMgYSBsb3ctbGV2ZWwgQ1NTIHBhcnNlciBhbmQgZ2VuZXJhdG9yIHdyaXR0ZW4gaW4gUHl0aG9uOiBpdCBjYW4NCnBhcnNlIHN0cmluZ3MsIHJldHVybiBvYmplY3RzIHJlcHJlc2VudGluZyB0b2tlbnMgYW5kIGJsb2NrcywgYW5kIGdlbmVyYXRlIENTUw0Kc3RyaW5ncyBjb3JyZXNwb25kaW5nIHRvIHRoZXNlIG9iamVjdHMu</description>
   <sourcefile>tinycss2-1.4.0.tar.gz</sourcefile>
@@ -13,7 +13,7 @@
   <dependances>
     <dependance>
       <code>python3-webencodings</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

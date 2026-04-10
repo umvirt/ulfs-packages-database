@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>cdemu-daemon</code>
   <description>Q0RFbXUgZGFlbW9uIGlzIHRoZSB1c2Vyc3BhY2UgZGFlbW9uIHBhcnQgb2YgdGhlIGNkZW11IHN1aXRlLg==</description>
   <sourcefile>cdemu-daemon-3.2.7.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>OpenLDAP-client</code>
   <description>VGhlIE9wZW5MREFQIHBhY2thZ2UgcHJvdmlkZXMgYW4gb3BlbiBzb3VyY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIExpZ2h0d2VpZ2h0IERpcmVjdG9yeSBBY2Nlc3MgUHJvdG9jb2wu</description>
   <sourcefile>openldap-2.6.10.tgz</sourcefile>

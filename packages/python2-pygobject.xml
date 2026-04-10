@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python2-pygobject</code>
   <description>UHlHT2JqZWN0LTIuMjguNyBwcm92aWRlcyBQeXRob24gMiBiaW5kaW5ncyB0byB0aGUgR09iamVjdCBjbGFzcyBmcm9tIEdMaWIu</description>
   <sourcefile>pygobject-2.28.7.tar.xz</sourcefile>

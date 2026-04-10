@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fcitx5-lua</code>
   <description>QW4gYWRkb24gbG9hZGVyIGZvciBsdWEgYW5kIGdvb2dsZXBpbnlpbiBhcGksIHdoaWNoIGlzIHByb3ZpZGVkIGJ5IGltZWFwaSBhZGRvbi4=</description>
   <sourcefile>fcitx5-lua-5.0.15.tar.gz</sourcefile>

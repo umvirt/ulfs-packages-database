@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xf86-input-evdev</code>
   <description>VGhlIFhvcmcgRXZkZXYgRHJpdmVyIHBhY2thZ2UgY29udGFpbnMgYSBHZW5lcmljIExpbnV4IGlucHV0IGRyaXZlciBmb3IgdGhlIFhvcmcgWCBzZXJ2ZXIu</description>
   <sourcefile>xf86-input-evdev-2.11.0.tar.xz</sourcefile>

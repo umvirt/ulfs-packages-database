@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-automat</code>
   <description>U2VsZi1zZXJ2aWNlIGZpbml0ZS1zdGF0ZSBtYWNoaW5lcyBmb3IgdGhlIHByb2dyYW1tZXIgb24gdGhlIGdvLg==</description>
   <sourcefile>automat-25.4.16.tar.gz</sourcefile>

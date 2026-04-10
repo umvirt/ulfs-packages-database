@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>llama.cpp</code>
   <description>TExNIGluZmVyZW5jZSBpbiBDL0MrKw==</description>
   <sourcefile>llama.cpp-22cae832188a1f08d18bd0a707a4ba5cd03c7349.tar.xz</sourcefile>

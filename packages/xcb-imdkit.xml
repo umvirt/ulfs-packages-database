@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xcb-imdkit</code>
   <description>eGNiLWltZGtpdCBpcyBhbiBpbXBsZW1lbnRhdGlvbiBvZiB4aW0gcHJvdG9jb2wgaW4geGNiLCBjb21wYXJpbmcgd2l0aCB0aGUgaW1wbGVtZW50YXRpb24gb2YgSU1Ea2l0IHdpdGggWGxpYiwgYW5kIHhpbSBpbnNpZGUgWGxpYi4=</description>
   <sourcefile>xcb-imdkit-1.0.9.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!libcloudproviders</code>
   <description>VGhlIGxpYmNsb3VkcHJvdmlkZXJzIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHdoaWNoIHByb3ZpZGVzIGEgREJ1cyBBUEkgdGhhdCBhbGxvd3MgY2xvdWQgc3RvcmFnZSBzeW5jIGNsaWVudHMgdG8gZXhwb3NlIHRoZWlyIHNlcnZpY2VzLg0KDQo=</description>
   <sourcefile>libcloudproviders-0.3.6.tar.xz</sourcefile>

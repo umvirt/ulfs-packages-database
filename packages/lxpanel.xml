@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxpanel</code>
   <description>VGhlIExYUGFuZWwgcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IFgxMSBkZXNrdG9wIHBhbmVsLg==</description>
   <sourcefile>lxpanel-0.11.1.tar.xz</sourcefile>

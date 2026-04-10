@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-qtpy</code>
   <description>UHJvdmlkZXMgYW4gdW5pZm9ybSBsYXllciB0byBzdXBwb3J0IFB5UXQ1LCBQeVNpZGUyLCBQeVF0NiwgUHlTaWRlNiB3aXRoIGEgc2luZ2xlIGNvZGViYXNl</description>
   <sourcefile>qtpy-2.4.3.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libmusicbrainz</code>
   <description>VGhlIGxpYm11c2ljYnJhaW56IHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHdoaWNoIGFsbG93cyB5b3UgdG8gYWNjZXNzIHRoZSBkYXRhIGhlbGQgb24gdGhlIE11c2ljQnJhaW56IHNlcnZlci4NCg==</description>
   <sourcefile>libmusicbrainz-5.1.0.tar.gz</sourcefile>

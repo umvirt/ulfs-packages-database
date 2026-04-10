@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>cabextract</code>
   <description>Y2FiZXh0cmFjdCBpcyBGcmVlIFNvZnR3YXJlIGZvciBleHRyYWN0aW5nIE1pY3Jvc29mdCBjYWJpbmV0IGZpbGVzLCBhbHNvIGNhbGxlZCAuQ0FCIGZpbGVzLg==</description>
   <sourcefile>cabextract-1.11.tar.gz</sourcefile>

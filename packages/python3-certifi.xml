@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-certifi</code>
   <description>VGhlIGNlcnRpZmkgbW9kdWxlIHByb3ZpZGVzIE1vemlsbGHigJlzIGNhcmVmdWxseSBjdXJhdGVkIGNvbGxlY3Rpb24gb2YgUm9vdCBDZXJ0aWZpY2F0ZXMgZm9yIHZhbGlkYXRpbmcgdGhlIHRydXN0d29ydGhpbmVzcyBvZiBTU0wgY2VydGlmaWNhdGVzIHdoaWxlIHZlcmlmeWluZyB0aGUgaWRlbnRpdHkgb2YgVExTIGhvc3RzLg==</description>
   <sourcefile>certifi-2025.8.3.tar.gz</sourcefile>

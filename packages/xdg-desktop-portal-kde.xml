@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xdg-desktop-portal-kde</code>
   <description/>
   <sourcefile>xdg-desktop-portal-kde-6.4.4.tar.xz</sourcefile>

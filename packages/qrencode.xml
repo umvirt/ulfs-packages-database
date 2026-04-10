@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>qrencode</code>
   <description>UXJlbmNvZGUgaXMgYSBmYXN0IGFuZCBjb21wYWN0IGxpYnJhcnkgZm9yIGVuY29kaW5nIGRhdGEgaW4gYSBRUiBDb2RlIHN5bWJvbCwgYSAyRCBzeW1ib2xvZ3kgdGhhdCBjYW4gYmUgc2Nhbm5lZCBieSBoYW5kaGVsZCB0ZXJtaW5hbHMgc3VjaCBhcyBhIG1vYmlsZSBwaG9uZSB3aXRoIGEgQ0NEIHNlbnNvci4=</description>
   <sourcefile>qrencode-4.1.1.tar.bz2</sourcefile>

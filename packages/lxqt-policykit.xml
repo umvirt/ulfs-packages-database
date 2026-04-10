@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxqt-policykit</code>
   <description>VGhlIGx4cXQtcG9saWN5a2l0IHBhY2thZ2UgaXMgdGhlIExYUXQgUG9saWN5S2l0IGFnZW50Lg==</description>
   <sourcefile>lxqt-policykit-2.2.0.tar.xz</sourcefile>

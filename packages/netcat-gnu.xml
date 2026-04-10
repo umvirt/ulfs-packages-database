@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>netcat-gnu</code>
   <description>QSByZXdyaXRlIG9mIHRoZSB3ZWxsLWtub3duIG5ldHdvcmtpbmcgdG9vbCwgYnV0IG1vcmUgcG9ydGFibGUsIHdpdGggbmV3IGZlYXR1cmVzIGFuZCBmdWxseSBHTlUgY29tcGxpYW50Lg==</description>
   <sourcefile>netcat-0.7.1.tar.gz</sourcefile>

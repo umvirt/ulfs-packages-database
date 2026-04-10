@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>Botan</code>
   <description>Qm90YW4gKEphcGFuZXNlIGZvciBwZW9ueSBmbG93ZXIpIGlzIGEgY3J5cHRvZ3JhcGh5IGxpYnJhcnk=</description>
   <sourcefile>Botan-3.10.0.tar.xz</sourcefile>

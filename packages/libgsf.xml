@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libgsf</code>
   <description>VGhlIGxpYmdzZiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB1c2VkIGZvciBwcm92aWRpbmcgYW4gZXh0ZW5zaWJsZSBpbnB1dC9vdXRwdXQgYWJzdHJhY3Rpb24gbGF5ZXIgZm9yIHN0cnVjdHVyZWQgZmlsZSBmb3JtYXRzLg==</description>
   <sourcefile>libgsf-1.14.53.tar.xz</sourcefile>

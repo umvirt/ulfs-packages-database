@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-imagesize</code>
   <description>VGhlIGltYWdlc2l6ZSBwYWNrYWdlIGFuYWx5emVzIGltYWdlIGZpbGUgaGVhZGVycyBhbmQgcmV0dXJucyB0aGUgaW1hZ2Ugc2l6ZSBhbmQgRFBJLiBJdCB3b3JrcyB3aXRoIEpQRUcvSlBFRyAyMDAwL1BORy9HSUYvVElGRi9TVkcvTmV0cGJtL1dlYlAgZm9ybWF0cy4=</description>
   <sourcefile>imagesize-1.4.1.tar.gz</sourcefile>

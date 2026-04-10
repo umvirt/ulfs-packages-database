@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>httpd</code>
   <description>VGhlIEFwYWNoZSBIVFRQRCBwYWNrYWdlIGNvbnRhaW5zIGFuIG9wZW4tc291cmNlIEhUVFAgc2VydmVyLg==</description>
   <sourcefile>httpd-2.4.65.tar.bz2</sourcefile>
@@ -13,7 +13,7 @@
   <preparation>Z3JvdXBhZGQgLWcgMjUgYXBhY2hlICYmDQp1c2VyYWRkIC1jICJBcGFjaGUgU2VydmVyIiAtZCAvc3J2L3d3dyAtZyBhcGFjaGUgXA0KICAgICAgICAtcyAvYmluL2ZhbHNlIC11IDI1IGFwYWNoZQ==</preparation>
   <dependances>
     <dependance>
-      <code>pcre2</code>
+      <code>!pcre2</code>
       <weight>1</weight>
     </dependance>
     <dependance>

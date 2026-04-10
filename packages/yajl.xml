@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>yajl</code>
   <description>QSBmYXN0IHN0cmVhbWluZyBKU09OIHBhcnNpbmcgbGlicmFyeSBpbiBDLg==</description>
   <sourcefile>yajl-2.1.0.tar.gz</sourcefile>

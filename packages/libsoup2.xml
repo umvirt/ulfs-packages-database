@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libsoup2</code>
   <description>VGhlIGxpYnNvdXAgaXMgYSBIVFRQIGNsaWVudC9zZXJ2ZXIgbGlicmFyeSBmb3IgR05PTUUuIEl0IHVzZXMgR09iamVjdCBhbmQgdGhlIEdMaWIgbWFpbiBsb29wIHRvIGludGVncmF0ZSB3aXRoIEdOT01FIGFwcGxpY2F0aW9ucyBhbmQgaXQgYWxzbyBoYXMgYW4gYXN5bmNocm9ub3VzIEFQSSBmb3IgdXNlIGluIHRocmVhZGVkIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>libsoup-2.74.3.tar.xz</sourcefile>

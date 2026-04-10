@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!tracker-miners</code>
   <description>VGhlIFRyYWNrZXItbWluZXJzIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgZGF0YSBleHRyYWN0b3JzIGZvciBUcmFja2VyLg==</description>
   <sourcefile>tracker-miners-3.7.3.tar.xz</sourcefile>

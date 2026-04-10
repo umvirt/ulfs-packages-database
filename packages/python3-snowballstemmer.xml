@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-snowballstemmer</code>
   <description>VGhlIFNub3diYWxsc3RlbW1lciBwYWNrYWdlIGlzIGEgc21hbGwgc3RyaW5nIHByb2Nlc3NpbmcgbGFuZ3VhZ2UgZm9yIGNyZWF0aW5nIHN0ZW1taW5nIGFsZ29yaXRobXMgZm9yIHVzZSBpbiBJbmZvcm1hdGlvbiBSZXRyaWV2YWwsIHBsdXMgYSBjb2xsZWN0aW9uIG9mIHN0ZW1taW5nIGFsZ29yaXRobXMgaW1wbGVtZW50ZWQgdXNpbmcgaXQuIA==</description>
   <sourcefile>snowballstemmer-3.0.1.tar.gz</sourcefile>

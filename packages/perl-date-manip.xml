@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>perl-date-manip</code>
   <description>U2VyaWVzIG9mIG1vZHVsZXMgZGVzaWduZWQgdG8gbWFrZSBhbnkgY29tbW9uIGRhdGUvdGltZSBvcGVyYXRpb24gZWFzeSB0byBkby4=</description>
   <sourcefile>Date-Manip-6.98.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>portmidi</code>
   <description>cG9ydG1pZGkgaXMgYSBjcm9zcy1wbGF0Zm9ybSBNSURJIGlucHV0L291dHB1dCBsaWJyYXJ5</description>
   <sourcefile>portmidi-2.0.7.tar.gz</sourcefile>

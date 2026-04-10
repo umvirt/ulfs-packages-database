@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>vkd3d</code>
   <description>VmtkM2QgaXMgYSAzRCBncmFwaGljcyBsaWJyYXJ5IGJ1aWx0IG9uIHRvcCBvZiBWdWxrYW4uIEl0IGhhcyBhbiBBUEkgdmVyeSBzaW1pbGFyLCBidXQgbm90IGlkZW50aWNhbCwgdG8gRGlyZWN0M0QgMTIuIFdpbmUgdXNlcyB2a2QzZCBsaWJyYXJpZXMgZm9yIGl0cyBpbXBsZW1lbnRhdGlvbiBvZiBEaXJlY3QzRCAxMi4=</description>
   <sourcefile>vkd3d-1.19.tar.xz</sourcefile>
@@ -13,15 +13,15 @@
   <dependances>
     <dependance>
       <code>perl-JSON</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>Xlibs</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>Vulkan-Loader</code>
+      <code>Xlibs</code>
       <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>Vulkan-Loader</code>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

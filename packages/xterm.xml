@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xterm</code>
   <description>eHRlcm0gaXMgYSB0ZXJtaW5hbCBlbXVsYXRvciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4=</description>
   <sourcefile>xterm-401.tgz</sourcefile>

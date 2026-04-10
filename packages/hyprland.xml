@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>hyprland</code>
   <description>SHlwcmxhbmQgaXMgYW4gaW5kZXBlbmRlbnQsIGhpZ2hseSBjdXN0b21pemFibGUsIGR5bmFtaWMgdGlsaW5nIFdheWxhbmQgY29tcG9zaXRvciB0aGF0IGRvZXNuJ3Qgc2FjcmlmaWNlIG9uIGl0cyBsb29rcy4=</description>
   <sourcefile>hyprland-0.50.1.tar.gz</sourcefile>

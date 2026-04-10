@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>vte</code>
   <description>VGhlIFZURSBwYWNrYWdlIGNvbnRhaW5zIGEgdmlydHVhbCB0ZXJtaW5hbCB3aWRnZXQgZm9yIEdUSyBhcHBsaWNhdGlvbnMu</description>
   <sourcefile>vte-0.80.3.tar.gz</sourcefile>
@@ -13,31 +13,31 @@
   <dependances>
     <dependance>
       <code>fast_float</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gtk4</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gobject-introspection</code>
+      <code>gtk4</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gtk2</code>
+      <code>gobject-introspection</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gtk3</code>
+      <code>gtk2</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>gtk-doc</code>
+      <code>gtk3</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>gnutls</code>
+      <code>gtk-doc</code>
       <weight>6</weight>
+    </dependance>
+    <dependance>
+      <code>gnutls</code>
+      <weight>7</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libgphoto2</code>
   <description>Z1Bob3RvMiBpcyBhIGZyZWUsIHJlZGlzdHJpYnV0YWJsZSwgcmVhZHkgdG8gdXNlIHNldCBvZiBkaWdpdGFsIGNhbWVyYSBzb2Z0d2FyZSBhcHBsaWNhdGlvbnMgZm9yIFVuaXgtbGlrZSBzeXN0ZW1zLCB3cml0dGVuIGJ5IGEgd2hvbGUgdGVhbSBvZiBkZWRpY2F0ZWQgdm9sdW50ZWVycyBhcm91bmQgdGhlIHdvcmxkLiBJdCBzdXBwb3J0cyBtb3JlIHRoYW4gMjcwMCBjYW1lcmFzIGFuZCBtZWRpYSBwbGF5ZXJzLg==</description>
   <sourcefile>libgphoto2-2.5.31.tar.xz</sourcefile>

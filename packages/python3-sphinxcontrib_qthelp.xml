@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-sphinxcontrib_qthelp</code>
   <description>VGhlIFNwaGlueGNvbnRyaWItcXRoZWxwIHBhY2thZ2UgaXMgYSBTcGhpbnggZXh0ZW5zaW9uIHdoaWNoIG91dHB1dHMgUXRIZWxwIGRvY3VtZW50cy4=</description>
   <sourcefile>sphinxcontrib_qthelp-2.0.0.tar.gz</sourcefile>

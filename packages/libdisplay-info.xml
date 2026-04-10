@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libdisplay-info</code>
   <description>VGhlIGxpYmRpc3BsYXktaW5mbyBwYWNrYWdlIHByb3ZpZGVzIGEgc2V0IG9mIGhpZ2gtbGV2ZWwgYW5kIGxvdy1sZXZlbCBmdW5jdGlvbnMgdG8gYWNjZXNzIGRldGFpbGVkIEV4dGVuZGVkIERpc3BsYXkgSWRlbnRpZmljYXRpb24gRGF0YSAoRURJRCkgaW5mb3JtYXRpb24u</description>
   <sourcefile>libdisplay-info-0.3.0.tar.xz</sourcefile>

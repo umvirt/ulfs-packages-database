@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>freerdp</code>
   <description>RnJlZVJEUCBpcyBhIGZyZWUgaW1wbGVtZW50YXRpb24gb2YgdGhlIFJlbW90ZSBEZXNrdG9wIFByb3RvY29sIChSRFApLCByZWxlYXNlZCB1bmRlciB0aGUgQXBhY2hlIGxpY2Vuc2UuIEVuam95IHRoZSBmcmVlZG9tIG9mIHVzaW5nIHlvdXIgc29mdHdhcmUgd2hlcmV2ZXIgeW91IHdhbnQsIHRoZSB3YXkgeW91IHdhbnQgaXQsIGluIGEgd29ybGQgd2hlcmUgaW50ZXJvcGVyYWJpbGl0eSBjYW4gZmluYWxseSBsaWJlcmF0ZSB5b3VyIGNvbXB1dGluZyBleHBlcmllbmNlLg==</description>
   <sourcefile>FreeRDP-3.17.0.tar.gz</sourcefile>

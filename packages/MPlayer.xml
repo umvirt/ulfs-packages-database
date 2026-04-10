@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>MPlayer</code>
   <description>TVBsYXllciBpcyBhIHBvd2VyZnVsIGF1ZGlvL3ZpZGVvIHBsYXllciBjb250cm9sbGVkIHZpYSB0aGUgY29tbWFuZCBsaW5lIG9yIGEgZ3JhcGhpY2FsIGludGVyZmFjZSB0aGF0IGlzIGFibGUgdG8gcGxheSBhbG1vc3QgZXZlcnkgcG9wdWxhciBhdWRpbyBhbmQgdmlkZW8gZmlsZSBmb3JtYXQuIFdpdGggc3VwcG9ydGVkIHZpZGVvIGhhcmR3YXJlIGFuZCBhZGRpdGlvbmFsIGRyaXZlcnMsIE1QbGF5ZXIgY2FuIHBsYXkgdmlkZW8gZmlsZXMgd2l0aG91dCBhbiBYIFdpbmRvdyBTeXN0ZW0gaW5zdGFsbGVkLg==</description>
   <sourcefile>mplayer-38679.tar.bz2</sourcefile>

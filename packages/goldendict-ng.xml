@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>goldendict-ng</code>
   <description>VGhlIE5leHQgR2VuZXJhdGlvbiBHb2xkZW5EaWN0</description>
   <sourcefile>goldendict-ng-26.1.1-Release.5491ffca.tar.gz</sourcefile>
@@ -14,47 +14,47 @@
   <dependances>
     <dependance>
       <code>fmt</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>tomlplusplus</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>libvorbis</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>ffmpeg</code>
+      <code>tomlplusplus</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>qt6</code>
+      <code>libvorbis</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>qtwebengine6</code>
+      <code>ffmpeg</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>xapian</code>
+      <code>qt6</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libzim</code>
+      <code>qtwebengine6</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>hunspell</code>
+      <code>xapian</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>OpenCC</code>
+      <code>libzim</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>eb</code>
+      <code>hunspell</code>
       <weight>9</weight>
+    </dependance>
+    <dependance>
+      <code>OpenCC</code>
+      <weight>10</weight>
+    </dependance>
+    <dependance>
+      <code>eb</code>
+      <weight>11</weight>
     </dependance>
   </dependances>
   <patches/>

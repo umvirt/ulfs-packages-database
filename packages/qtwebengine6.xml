@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>qtwebengine6</code>
   <description>UXRXZWJFbmdpbmUgaW50ZWdyYXRlcyBjaHJvbWl1bSdzIHdlYiBjYXBhYmlsaXRpZXMgaW50byBRdC4gSXQgc2hpcHMgd2l0aCBpdHMgb3duIGNvcHkgb2YgbmluamEgd2hpY2ggaXQgdXNlcyBmb3IgdGhlIGJ1aWxkIGlmIGl0IGNhbm5vdCBmaW5kIGEgc3lzdGVtIGNvcHksIGFuZCB2YXJpb3VzIGNvcGllcyBvZiBsaWJyYXJpZXMgZnJvbSBmZm1wZWcsIGljdSwgbGlidnB4LCBhbmQgemxpYiAoaW5jbHVkaW5nIGxpYm1pbml6aXApIHdoaWNoIGhhdmUgYmVlbiBmb3JrZWQgYnkgdGhlIGNocm9taXVtIGRldmVsb3BlcnMu</description>
   <sourcefile>qtwebengine-everywhere-src-6.9.2.tar.xz</sourcefile>

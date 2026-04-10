@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>uchardet</code>
   <description>VGhlIFVjaGFyZGV0IHBhY2thZ2UgY29udGFpbnMgYW4gZW5jb2RpbmcgZGV0ZWN0b3J5IGxpYnJhcnkgd2hpY2ggdGFrZXMgYSBzZXF1ZW5jZSBvZiBieXRlcyBpbiBhbiB1bmtub3duIGNoYXJhY3RlciBlbmNvZGluZyBhbmQgYXR0ZW1wdHMgdG8gZGV0ZXJtaW5lIHRoZSBlbmNvZGluZyBvZiB0aGUgdGV4dC4=</description>
   <sourcefile>uchardet-0.0.8.tar.xz</sourcefile>

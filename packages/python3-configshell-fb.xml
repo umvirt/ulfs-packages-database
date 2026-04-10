@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-configshell-fb</code>
   <description>QSBQeXRob24gbGlicmFyeSB0aGF0IHByb3ZpZGVzIGEgZnJhbWV3b3JrIGZvciBidWlsZGluZyBzaW1wbGUgYnV0IG5pY2UgQ0xJLWJhc2VkIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>configshell-fb-2.0.2.tar.gz</sourcefile>

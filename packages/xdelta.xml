@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xdelta</code>
   <description>WGRlbHRhIHZlcnNpb24gMyBpcyBhIEMgbGlicmFyeSBhbmQgY29tbWFuZC1saW5lIHRvb2wgZm9yIGRlbHRhIGNvbXByZXNzaW9uIHVzaW5nIFZDRElGRi9SRkMgMzI4NCBzdHJlYW1zLg==</description>
   <sourcefile>xdelta-3.1.0.tar.gz</sourcefile>

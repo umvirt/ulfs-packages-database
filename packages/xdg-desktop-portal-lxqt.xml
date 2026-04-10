@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xdg-desktop-portal-lxqt</code>
   <description>eGRnLWRlc2t0b3AtcG9ydGFsLWx4cXQgaXMgYSBiYWNrZW5kIGZvciB4ZGctZGVza3RvcC1wb3J0YWwsIHRoYXQgaXMgdXNpbmcgdGhlIFF0IGxpYnJhcnku</description>
   <sourcefile>xdg-desktop-portal-lxqt-1.2.0.tar.xz</sourcefile>

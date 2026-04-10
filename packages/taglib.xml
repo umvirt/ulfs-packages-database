@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>taglib</code>
   <description>VGFnbGliIGlzIGEgbGlicmFyeSB1c2VkIGZvciByZWFkaW5nLCB3cml0aW5nIGFuZCBtYW5pcHVsYXRpbmcgYXVkaW8gZmlsZSB0YWdzIGFuZCBpcyB1c2VkIGJ5IGFwcGxpY2F0aW9ucyBzdWNoIGFzIEFtYXJvayBhbmQgVkxDLg0KDQo=</description>
   <sourcefile>taglib-2.1.1.tar.gz</sourcefile>

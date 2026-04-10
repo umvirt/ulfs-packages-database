@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libuv</code>
   <description>VGhlIGxpYnV2IHBhY2thZ2UgaXMgYSBtdWx0aS1wbGF0Zm9ybSBzdXBwb3J0IGxpYnJhcnkgd2l0aCBhIGZvY3VzIG9uIGFzeW5jaHJvbm91cyBJL08u</description>
   <sourcefile>libuv-v1.51.0.tar.gz</sourcefile>

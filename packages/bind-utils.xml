@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>bind-utils</code>
   <description>VGhlIEJJTkQgcGFja2FnZSBpbmNsdWRlcyB0aGUgY2xpZW50IHNpZGUgcHJvZ3JhbXMgbnNsb29rdXAsIGRpZyBhbmQgaG9zdC4gSWYgeW91IGluc3RhbGwgQklORCBzZXJ2ZXIsIHRoZXNlIHByb2dyYW1zIHdpbGwgYmUgaW5zdGFsbGVkIGF1dG9tYXRpY2FsbHku</description>
   <sourcefile>bind-9.20.12.tar.xz</sourcefile>

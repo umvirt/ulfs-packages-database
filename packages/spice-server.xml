@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>spice-server</code>
   <description>U1BJQ0UgcHJvdG9jb2wgc2VydmVy</description>
   <sourcefile>spice-0.16.0.tar.bz2</sourcefile>

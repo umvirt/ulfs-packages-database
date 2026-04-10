@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>pyclip</code>
   <description>Q3Jvc3MtcGxhdGZvcm0gQ2xpcGJvYXJkIG1vZHVsZSBmb3IgUHl0aG9uIHdpdGggYmluYXJ5IHN1cHBvcnQu</description>
   <sourcefile>pyclip-0.7.0.tar.gz</sourcefile>

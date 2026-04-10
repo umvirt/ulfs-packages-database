@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>glaze</code>
   <description>RXh0cmVtZWx5IGZhc3QsIGluIG1lbW9yeSwgSlNPTiBhbmQgaW50ZXJmYWNlIGxpYnJhcnkgZm9yIG1vZGVybiBDKys=</description>
   <sourcefile>glaze-5.5.5.tar.gz</sourcefile>

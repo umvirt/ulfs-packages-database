@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxqt-notificationd</code>
   <description>VGhlIGx4cXQtbm90aWZpY2F0aW9uZCBwYWNrYWdlIGlzIHRoZSBMWFF0IG5vdGlmaWNhdGlvbiBkYWVtb24u</description>
   <sourcefile>lxqt-notificationd-2.2.0.tar.xz</sourcefile>

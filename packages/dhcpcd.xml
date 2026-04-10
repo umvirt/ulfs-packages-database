@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>dhcpcd</code>
   <description>ZGhjcGNkIGlzIGFuIGltcGxlbWVudGF0aW9uIG9mIHRoZSBESENQIGNsaWVudCBzcGVjaWZpZWQgaW4gUkZDMjEzMS4=</description>
   <sourcefile>dhcpcd-10.2.4.tar.xz</sourcefile>

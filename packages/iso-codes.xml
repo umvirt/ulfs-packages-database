@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>iso-codes</code>
   <description>VGhlIElTTyBDb2RlcyBwYWNrYWdlIGNvbnRhaW5zIGEgbGlzdCBvZiBjb3VudHJ5LCBsYW5ndWFnZSBhbmQgY3VycmVuY3kgbmFtZXMgYW5kIGl0IGlzIHVzZWQgYXMgYSBjZW50cmFsIGRhdGFiYXNlIGZvciBhY2Nlc3NpbmcgdGhpcyBkYXRhLg==</description>
   <sourcefile>iso-codes-v4.18.0.tar.gz</sourcefile>

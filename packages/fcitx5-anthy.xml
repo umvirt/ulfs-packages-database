@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fcitx5-anthy</code>
   <description>YSB3cmFwcGVyIGFyb3VuZCB0aGUgQW50aHkgZW5naW5lIGZvciBGY2l0eC4=</description>
   <sourcefile>fcitx5-anthy-5.1.7.tar.gz</sourcefile>
@@ -14,11 +14,11 @@
   <dependances>
     <dependance>
       <code>fcitx5-base</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>anthy</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

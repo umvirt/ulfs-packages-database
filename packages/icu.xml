@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>icu</code>
   <description>VGhlIEludGVybmF0aW9uYWwgQ29tcG9uZW50cyBmb3IgVW5pY29kZSAoSUNVKSBwYWNrYWdlIGlzIGEgbWF0dXJlLCB3aWRlbHkgdXNlZCBzZXQgb2YgQy9DKysgbGlicmFyaWVzIHByb3ZpZGluZyBVbmljb2RlIGFuZCBHbG9iYWxpemF0aW9uIHN1cHBvcnQgZm9yIHNvZnR3YXJlIGFwcGxpY2F0aW9ucy4gSUNVIGlzIHdpZGVseSBwb3J0YWJsZSBhbmQgZ2l2ZXMgYXBwbGljYXRpb25zIHRoZSBzYW1lIHJlc3VsdHMgb24gYWxsIHBsYXRmb3Jtcy4=</description>
-  <sourcefile>icu4c-77_1-src.tgz</sourcefile>
+  <sourcefile>icu4c-78.2-sources.tgz</sourcefile>
   <sourcedir>icu</sourcedir>
   <unpack/>
   <configure>Y2FzZSAkKHVuYW1lIC1tKSBpbg0KICBpPzg2KSBzZWQgLWUgInMvVV9QTEFURk9STV9JU19MSU5VWF9CQVNFRC9fX1g4Nl82NF9fIFwmXCYgJi8iIFwNCiAgICAgICAgICAgIC1pIHNvdXJjZS90ZXN0L2ludGx0ZXN0L3VzdHJ0ZXN0LmNwcCA7Ow0KZXNhYw0KDQpjZCBzb3VyY2UNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciA=</configure>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>qcoro</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgc2V0IG9mIHRvb2xzIHRvIG1ha2UgdXNlIG9mIEMrKzIwIGNvcm91dGluZXMgd2l0aCBRdC4=</description>
   <sourcefile>qcoro-0.12.0.tar.gz</sourcefile>

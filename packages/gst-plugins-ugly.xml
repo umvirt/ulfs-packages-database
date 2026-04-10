@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gst-plugins-ugly</code>
   <description>VGhlIEdTdHJlYW1lciBVZ2x5IFBsdWctaW5zIGlzIGEgc2V0IG9mIHBsdWctaW5zIGNvbnNpZGVyZWQgYnkgdGhlIEdTdHJlYW1lciBkZXZlbG9wZXJzIHRvIGhhdmUgZ29vZCBxdWFsaXR5IGFuZCBjb3JyZWN0IGZ1bmN0aW9uYWxpdHksIGJ1dCBkaXN0cmlidXRpbmcgdGhlbSBtaWdodCBwb3NlIHByb2JsZW1zLiBUaGUgbGljZW5zZSBvbiBlaXRoZXIgdGhlIHBsdWctaW5zIG9yIHRoZSBzdXBwb3J0aW5nIGxpYnJhcmllcyBtaWdodCBub3QgYmUgaG93IHRoZSBHU3RyZWFtZXIgZGV2ZWxvcGVycyB3b3VsZCBsaWtlLiBUaGUgY29kZSBtaWdodCBiZSB3aWRlbHkga25vd24gdG8gcHJlc2VudCBwYXRlbnQgcHJvYmxlbXMu</description>
   <sourcefile>gst-plugins-ugly-1.26.5.tar.xz</sourcefile>

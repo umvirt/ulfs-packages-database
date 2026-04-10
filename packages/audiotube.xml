@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>audiotube</code>
   <description/>
   <sourcefile>audiotube-25.08.0.tar.xz</sourcefile>
@@ -14,19 +14,19 @@
   <dependances>
     <dependance>
       <code>python3-pybind11</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>futuresql-qt6</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>python3-yt-dlp</code>
+      <code>futuresql-qt6</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>python3-ytmusicapi</code>
+      <code>python3-yt-dlp</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>python3-ytmusicapi</code>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

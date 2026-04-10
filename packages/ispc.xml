@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>ispc</code>
   <description>SW50ZWzCriBJbXBsaWNpdCBTUE1EIFByb2dyYW0gQ29tcGlsZXI=</description>
   <sourcefile>ispc-1.28.2.tar.gz</sourcefile>

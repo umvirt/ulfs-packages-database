@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xcb-util-image</code>
   <description>VGhlIHhjYi11dGlsLWltYWdlIHBhY2thZ2UgcHJvdmlkZXMgYWRkaXRpb25hbCBleHRlbnNpb25zIHRvIHRoZSBYQ0IgbGlicmFyeS4=</description>
   <sourcefile>xcb-util-image-0.4.1.tar.xz</sourcefile>

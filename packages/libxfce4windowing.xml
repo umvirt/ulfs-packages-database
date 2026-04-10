@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libxfce4windowing</code>
   <description>VGhlIGxpYnhmY2U0d2luZG93aW5nIHBhY2thZ2UgY29udGFpbnMgYSB3aW5kb3dpbmcgY29uY2VwdCBhYnN0cmFjdGlvbiBsaWJyYXJ5IGZvciBYMTEgYW5kIFdheWxhbmQu</description>
   <sourcefile>libxfce4windowing-4.20.4.tar.bz2</sourcefile>

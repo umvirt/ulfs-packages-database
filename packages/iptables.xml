@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>iptables</code>
   <description>aXB0YWJsZXMgaXMgYSB1c2Vyc3BhY2UgY29tbWFuZCBsaW5lIHByb2dyYW0gdXNlZCB0byBjb25maWd1cmUgdGhlIExpbnV4IDIuNCBhbmQgbGF0ZXIga2VybmVsIHBhY2tldCBmaWx0ZXJpbmcgcnVsZXNldC4NCg0K</description>
   <sourcefile>iptables-1.8.11.tar.xz</sourcefile>

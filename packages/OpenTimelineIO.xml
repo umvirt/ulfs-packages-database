@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>OpenTimelineIO</code>
   <description>T3BlbiBTb3VyY2UgQVBJIGFuZCBpbnRlcmNoYW5nZSBmb3JtYXQgZm9yIGVkaXRvcmlhbCB0aW1lbGluZSBpbmZvcm1hdGlvbi4=</description>
   <sourcefile>OpenTimelineIO-a71b2927cc8378bcb803a84a40740ef732e0cfc9.tar.gz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>Imath</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libfm-qt</code>
   <description>bGliZm0tcXQgaXMgdGhlIFF0IHBvcnQgb2YgbGliZm0sIGEgbGlicmFyeSBwcm92aWRpbmcgY29tcG9uZW50cyB0byBidWlsZCBkZXNrdG9wIGZpbGUgbWFuYWdlcnMuIEluIExYUXQsIGxpYmZtLXF0IGFsc28gaGFuZGxlcyBkZXNrdG9wIGljb25zIGFuZCBiYWNrZ3JvdW5kcy4=</description>
   <sourcefile>libfm-qt-2.2.0.tar.xz</sourcefile>

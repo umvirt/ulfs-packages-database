@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>aspell-app</code>
   <description>VGhlIEFzcGVsbCBwYWNrYWdlIGNvbnRhaW5zIGFuIGludGVyYWN0aXZlIHNwZWxsIGNoZWNraW5nIHByb2dyYW0gYW5kIHRoZSBBc3BlbGwgbGlicmFyaWVzLiBBc3BlbGwgY2FuIGVpdGhlciBiZSB1c2VkIGFzIGEgbGlicmFyeSBvciBhcyBhbiBpbmRlcGVuZGVudCBzcGVsbCBjaGVja2VyLg==</description>
   <sourcefile>aspell-0.60.8.1.tar.gz</sourcefile>

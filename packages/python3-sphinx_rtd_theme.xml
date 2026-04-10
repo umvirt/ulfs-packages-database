@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-sphinx_rtd_theme</code>
   <description>VGhlIHNwaGlueF9ydGRfdGhlbWUgbW9kdWxlIGlzIGEgU3BoaW54IHRoZW1lIGRlc2lnbmVkIHRvIHByb3ZpZGUgYSBncmVhdCByZWFkZXIgZXhwZXJpZW5jZSBmb3IgZG9jdW1lbnRhdGlvbiB1c2VycyBvbiBib3RoIGRlc2t0b3AgYW5kIG1vYmlsZSBkZXZpY2VzLiBUaGlzIHRoZW1lIGlzIHVzZWQgcHJpbWFyaWx5IG9uIFJlYWQgdGhlIERvY3MgYnV0IGNhbiB3b3JrIHdpdGggYW55IFNwaGlueCBwcm9qZWN0Lg==</description>
   <sourcefile>sphinx_rtd_theme-3.0.2.tar.gz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>python3-sphinx-base</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-sphinxcontrib-jquery</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

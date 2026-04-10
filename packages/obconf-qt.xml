@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>obconf-qt</code>
   <description>VGhlIG9iY29uZi1xdCBwYWNrYWdlIGlzIGEgUXQtYmFzZWQgY29uZmlndXJhdGlvbiB0b29sIGZvciBPcGVuYm94Lg==</description>
   <sourcefile>obconf-qt-0.16.5.tar.xz</sourcefile>

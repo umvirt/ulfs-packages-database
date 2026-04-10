@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>cairomm-gtkmm4</code>
   <description>VGhlIGxpYmNhaXJvbW0tMS4xNiBwYWNrYWdlIHByb3ZpZGVzIGEgQysrIGludGVyZmFjZSB0byBDYWlyby4gVGhpcyB2ZXJzaW9uIG9mIHRoZSBBUEkgaXMgbmVlZGVkIHRvIHN1cHBvcnQgZ3RrbW0tNC4=</description>
   <sourcefile>cairomm-1.18.0.tar.xz</sourcefile>

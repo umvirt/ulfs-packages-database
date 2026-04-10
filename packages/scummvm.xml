@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>scummvm</code>
   <description>U2N1bW1WTSBpcyBhIHByb2dyYW0gd2hpY2ggYWxsb3dzIHRvIHJ1biBjZXJ0YWluIGNsYXNzaWMgZ3JhcGhpY2FsIGFkdmVudHVyZSBhbmQgcm9sZS1wbGF5aW5nIGdhbWVzLg==</description>
   <sourcefile>scummvm-2.9.1.tar.xz</sourcefile>

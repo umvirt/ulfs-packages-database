@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fcitx5-m17n</code>
   <description>YSB3cmFwcGVyIGFyb3VuZCB0aGUgbTE3biBlbmdpbmUgZm9yIEZjaXR4Lg==</description>
   <sourcefile>fcitx5-m17n-5.1.4.tar.gz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>m17n-lib</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fcitx5-chinese-addons</code>
   <description>cGlueWluIGFuZCB0YWJsZSBpbnB1dCBtZXRob2Qgc3VwcG9ydCBmb3IgZmNpdHg1</description>
   <sourcefile>fcitx5-chinese-addons-5.1.9.tar.gz</sourcefile>

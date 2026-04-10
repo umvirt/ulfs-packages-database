@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libdbusmenu-lxqt</code>
   <description>VGhlIGxpYmRidXNtZW51LWx4cXQgcGFja2FnZSBwcm92aWRlcyBhIFF0IGltcGxlbWVudGF0aW9uIG9mIHRoZSBEQnVzTWVudSBwcm90b2NvbC4=</description>
   <sourcefile>libdbusmenu-lxqt-0.3.0.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>OpenCOLLADA</code>
   <description>Q09MTEFEQU1heCBhbmQgQ09MTEFEQU1heWEgYXJlIG5ldyBpbXBsZW1lbnRhdGlvbiBvZiBhIDNkcyBNYXggb3IgTWF5YSBwbHVnLWlucyB0byBleHBvcnQgc2NlbmUgb3IgcGFydHMgb2YgaXQgdG8gYSBDT0xMQURBIGZpbGUsIHJlbGVhc2VkIHVuZGVyIGFuIE1JVC1saWNlbnNlLg==</description>
   <sourcefile>OpenCOLLADA-dfc341ab0b3b23ee307ab8660c0213e64da1eac6.tar.gz</sourcefile>

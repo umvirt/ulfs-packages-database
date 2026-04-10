@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>graphene</code>
   <description>VGhlIEdyYXBoZW5lIHBhY2thZ2UgcHJvdmlkZXMgYSB0aGluIGxheWVyIG9mIHR5cGVzIGZvciBncmFwaGljcyBsaWJyYXJpZXMu</description>
   <sourcefile>graphene-1.10.8.tar.xz</sourcefile>

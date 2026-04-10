@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>epiphany</code>
   <description>RXBpcGhhbnkgaXMgYSBzaW1wbGUgeWV0IHBvd2VyZnVsIEdOT01FIHdlYiBicm93c2VyIHRhcmdldGVkIGF0IG5vbi10ZWNobmljYWwgdXNlcnMuIEl0cyBwcmluY2lwbGVzIGFyZSBzaW1wbGljaXR5IGFuZCBzdGFuZGFyZHMgY29tcGxpYW5jZS4=</description>
   <sourcefile>epiphany-48.5.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>luajit</code>
   <description>VGhlIGx1YWppdCBwYWNrYWdlIGNvbnRhaW5zIGEgSnVzdC1Jbi1UaW1lIGNvbXBpbGVyIGZvciBMdWEuIEl0IGlzIG9mdGVuIHVzZWQgYXMgc2NyaXB0aW5nIG1pZGRsZXdhcmUsIGFuZCBpdCBpcyBoaWdoIHBlcmZvcm1hbmNlIHdoaWxlIGFsc28gaGF2aW5nIGEgbG93IG1lbW9yeSBmb290cHJpbnQu</description>
   <sourcefile>luajit-20250816.tar.xz</sourcefile>

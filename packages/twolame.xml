@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>twolame</code>
   <description>VHdvTEFNRSBpcyBhbiBvcHRpbWlzZWQgTVBFRyBBdWRpbyBMYXllciAyIChNUDIpIGVuY29kZXIgYmFzZWQgb24gdG9vTEFNRSBieSBNaWtlIENoZW5nLCB3aGljaCBpbiB0dXJuIGlzIGJhc2VkIHVwb24gdGhlIElTTyBkaXN0MTAgY29kZSBhbmQgcG9ydGlvbnMgb2YgTEFNRS4NCg0K</description>
   <sourcefile>twolame-0.4.0.tar.gz</sourcefile>

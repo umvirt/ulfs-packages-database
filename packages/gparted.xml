@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gparted</code>
   <description>R3BhcnRlZCBpcyB0aGUgR25vbWUgUGFydGl0aW9uIEVkaXRvciwgYSBHdGsgMyBHVUkgZm9yIG90aGVyIGNvbW1hbmQgbGluZSB0b29scyB0aGF0IGNhbiBjcmVhdGUsIHJlb3JnYW5pc2Ugb3IgZGVsZXRlIGRpc2sgcGFydGl0aW9ucy4=</description>
   <sourcefile>gparted-1.7.0.tar.gz</sourcefile>

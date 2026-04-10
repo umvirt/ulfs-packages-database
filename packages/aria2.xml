@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>aria2</code>
   <description>YXJpYTIgaXMgYSBsaWdodHdlaWdodCBtdWx0aS1wcm90b2NvbCAmIG11bHRpLXNvdXJjZSwgY3Jvc3MgcGxhdGZvcm0gZG93bmxvYWQgdXRpbGl0eSBvcGVyYXRlZCBpbiBjb21tYW5kLWxpbmUuIEl0IHN1cHBvcnRzIEhUVFAvSFRUUFMsIEZUUCwgU0ZUUCwgQml0VG9ycmVudCBhbmQgTWV0YWxpbmsu</description>
   <sourcefile>aria2-1.37.0.tar.xz</sourcefile>

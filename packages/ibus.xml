@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>ibus</code>
   <description>aWJ1cyBpcyBhbiBJbnRlbGxpZ2VudCBJbnB1dCBCdXMuIEl0IGlzIGEgbmV3IGlucHV0IGZyYW1ld29yayBmb3IgdGhlIExpbnV4IE9TLiBJdCBwcm92aWRlcyBhIGZ1bGx5IGZlYXR1cmVkIGFuZCB1c2VyIGZyaWVuZGx5IGlucHV0IG1ldGhvZCB1c2VyIGludGVyZmFjZS4=</description>
   <sourcefile>ibus-1.5.32.tar.gz</sourcefile>

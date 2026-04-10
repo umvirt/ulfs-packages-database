@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>glslc</code>
   <description>VGhlIGdsc2xjIHByb2dyYW0gaXMgR29vZ2xlJ3MgY29tbWFuZCBsaW5lIGNvbXBpbGVyIGZvciBPcGVuR0wgU2hhZGluZyBMYW5ndWFnZS9IaWdoIExldmVsIFNoYWRpbmcgTGFuZ3VhZ2UgKEdMU0wvSExTTCkgdG8gU3RhbmRhcmQgUG9ydGFibGUgSW50ZXJtZWRpYXRlIFJlcHJlc2VudGF0aW9uIChTUElSLVYpLg==</description>
   <sourcefile>shaderc-2025.3.tar.gz</sourcefile>

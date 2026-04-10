@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>perl-timedate</code>
   <description>RGF0ZSAmIHRpbWUgbWFuaXB1bGF0aW9uIG1vZHVsZQ==</description>
   <sourcefile>TimeDate-2.33.tar.gz</sourcefile>

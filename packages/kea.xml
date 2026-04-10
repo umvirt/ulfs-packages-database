@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>kea</code>
   <description>VGhlIElTQyBLZWEgcGFja2FnZSBjb250YWlucyB0aGUgc2VydmVyIHByb2dyYW1zIGZvciBESENQLiBJdCBpcyB0aGUgc3VjY2Vzc29yIG9mIHRoZSBvbGQgSVNDIERIQ1Agc2VydmVyIHdoaWNoIGlzIGVuZC1vZi1saWZlIHNpbmNlIERlY2VtYmVyIDIwMjIu</description>
   <sourcefile>kea-3.0.1.tar.xz</sourcefile>

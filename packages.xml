@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <architectures>
     <architecture>
       <code>x86</code>
@@ -17,23 +17,30 @@
   </architectures>
   <templates>
     <template>
-      <code>kf6</code>
-      <description>VGVtcGxhdGUgZm9yIEtGNiBwYWNrYWdlcw==</description>
-      <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRVhFQ0RJUj1saWJleGVjIFwNCiAgICAgIC1EIENNQUtFX1BSRUZJWF9QQVRIPSRRVDZESVIgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX1NLSVBfSU5TVEFMTF9SUEFUSD1PTiAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1BZVEhPTl9CSU5ESU5HUz1PRkYgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
+      <code>cmake-make</code>
+      <description>Q21ha2UgYnVpbGQgc3lzdGVtIHdpdGggbWFrZSBidWlsZGVyLg==</description>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg0K</configure>
       <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
       <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
     </template>
     <template>
-      <code>plasma</code>
-      <description>VGVtcGxhdGUgZm9yIEtERSBQbGFzbWEgcGFja2FnZXM=</description>
-      <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRVhFQ0RJUj1saWJleGVjIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1FUNT1PRkYgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
-      <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-      <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+      <code>cmake-ninja</code>
+      <description>Q21ha2UgYnVpbGQgc3lzdGVtIHdpdGggbmluamEgYnVpbGRlci4=</description>
+      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRyBOaW5qYSAuLg==</configure>
+      <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+      <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
     </template>
     <template>
       <code>kde-apps</code>
       <description>VGVtcGxhdGUgZm9yIEtERSA2IEFwcHM=</description>
       <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
+      <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
+      <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+    </template>
+    <template>
+      <code>kf6</code>
+      <description>VGVtcGxhdGUgZm9yIEtGNiBwYWNrYWdlcw==</description>
+      <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRVhFQ0RJUj1saWJleGVjIFwNCiAgICAgIC1EIENNQUtFX1BSRUZJWF9QQVRIPSRRVDZESVIgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX1NLSVBfSU5TVEFMTF9SUEFUSD1PTiAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1BZVEhPTl9CSU5ESU5HUz1PRkYgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
       <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
       <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
     </template>
@@ -52,18 +59,11 @@
       <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
     </template>
     <template>
-      <code>cmake-make</code>
-      <description>Q21ha2UgYnVpbGQgc3lzdGVtIHdpdGggbWFrZSBidWlsZGVyLg==</description>
-      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg0K</configure>
+      <code>plasma</code>
+      <description>VGVtcGxhdGUgZm9yIEtERSBQbGFzbWEgcGFja2FnZXM=</description>
+      <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRVhFQ0RJUj1saWJleGVjIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1FUNT1PRkYgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
       <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
       <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
-    </template>
-    <template>
-      <code>cmake-ninja</code>
-      <description>Q21ha2UgYnVpbGQgc3lzdGVtIHdpdGggbmluamEgYnVpbGRlci4=</description>
-      <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRyBOaW5qYSAuLg==</configure>
-      <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-      <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
     </template>
   </templates>
   <packages>
@@ -76,7 +76,7 @@
     <package>!unzip</package>
     <package>docbook-xsl-nons</package>
     <package>glib</package>
-    <package>pcre2</package>
+    <package>!pcre2</package>
     <package>slang</package>
     <package>gpm</package>
     <package>pcre</package>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>harfbuzz</code>
   <description>VGhlIEhhcmZCdXp6IHBhY2thZ2UgY29udGFpbnMgYW4gT3BlblR5cGUgdGV4dCBzaGFwaW5nIGVuZ2luZS4NCg==</description>
   <sourcefile>harfbuzz-11.4.1.tar.xz</sourcefile>

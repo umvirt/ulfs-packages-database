@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>torsocks</code>
   <description>VG9yc29ja3MgYWxsb3dzIHRvIHVzZSBtb3N0IGFwcGxpY2F0aW9ucyBpbiBhIHNhZmUgd2F5IHdpdGggVG9yLg==</description>
   <sourcefile>torsocks-v2.5.0.tar.bz2</sourcefile>

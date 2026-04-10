@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>freecell-solver</code>
   <description>QSBwcm9ncmFtIHRoYXQgYXV0b21hdGljYWxseSBzb2x2ZXMgbGF5b3V0cyBvZiBGcmVlY2VsbCBhbmQgc2ltaWxhciB2YXJpYW50cyBvZiBDYXJkIFNvbGl0YWlyZS4=</description>
   <sourcefile>freecell-solver-6.12.0.tar.xz</sourcefile>

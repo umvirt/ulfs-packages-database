@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>spice-gtk</code>
   <description>QmFzZSBHVEsgU1BJQ0UgY2xpZW50IChzcGljeSk=</description>
   <sourcefile>spice-gtk-0.41.tar.xz</sourcefile>
@@ -13,27 +13,27 @@
   <dependances>
     <dependance>
       <code>gst-plugins-good</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gstreamer</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gst-plugins-base</code>
+      <code>gstreamer</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>python3-six</code>
+      <code>gst-plugins-base</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>spice-protocol</code>
+      <code>python3-six</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>python3-pyparsing</code>
+      <code>spice-protocol</code>
       <weight>5</weight>
+    </dependance>
+    <dependance>
+      <code>python3-pyparsing</code>
+      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

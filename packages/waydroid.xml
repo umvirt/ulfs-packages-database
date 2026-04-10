@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>waydroid</code>
   <description>QSBjb250YWluZXItYmFzZWQgYXBwcm9hY2ggdG8gYm9vdCBhIGZ1bGwgQW5kcm9pZCBzeXN0ZW0gb24gcmVndWxhciBHTlUvTGludXggc3lzdGVtcyBydW5uaW5nIFdheWxhbmQgYmFzZWQgZGVza3RvcCBlbnZpcm9ubWVudHMu</description>
   <sourcefile>waydroid-1.6.0.tar.gz</sourcefile>

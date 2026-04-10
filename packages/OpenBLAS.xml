@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>OpenBLAS</code>
   <description>T3BlbkJMQVMgaXMgYW4gb3B0aW1pemVkIEJMQVMgKEJhc2ljIExpbmVhciBBbGdlYnJhIFN1YnByb2dyYW1zKSBsaWJyYXJ5IGJhc2VkIG9uIEdvdG9CTEFTMiAxLjEzIEJTRCB2ZXJzaW9uLg==</description>
   <sourcefile>OpenBLAS-0.3.30.tar.gz</sourcefile>

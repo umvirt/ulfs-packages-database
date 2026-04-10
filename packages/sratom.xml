@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>sratom</code>
   <description>U3JhdG9tIGlzIGEgc21hbGwgbGlicmFyeSBmb3Igc2VyaWFsaXppbmcgTFYyIGF0b21zLiBTcmF0b20gcmVhZHMvd3JpdGVzIGF0b21zIGZyb20vdG8gUkRGLCBhbGxvd2luZyB0aGVtIHRvIGJlIGNvbnZlcnRlZCBiZXR3ZWVuIGJpbmFyeSBhbmQgdGV4dCBvciBzdG9yZWQgaW4gYSBtb2RlbC4=</description>
   <sourcefile>sratom-v0.6.20.tar.bz2</sourcefile>

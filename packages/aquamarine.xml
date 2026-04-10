@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>aquamarine</code>
   <description>QXF1YW1hcmluZSBpcyBhIHZlcnkgbGlnaHQgbGludXggcmVuZGVyaW5nIGJhY2tlbmQgbGlicmFyeQ==</description>
   <sourcefile>aquamarine-0.9.2.tar.gz</sourcefile>

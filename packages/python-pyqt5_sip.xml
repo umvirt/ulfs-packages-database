@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python-pyqt5_sip</code>
   <description>VGhlIHNpcCBtb2R1bGUgc3VwcG9ydCBmb3IgUHlRdDU=</description>
   <sourcefile>pyqt5_sip-12.17.0.tar.gz</sourcefile>

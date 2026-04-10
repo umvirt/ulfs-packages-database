@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>c-kermit</code>
   <description>S2VybWl0IGlzIGEgcm9idXN0IGFuZCBwb3J0YWJsZSBwbGF0Zm9ybS1hbmQtdHJhbnNwb3J0LWluZGVwZW5kZW50IGZpbGUtdHJhbnNmZXIgcHJvdG9jb2wgYW5kIGEgbGFyZ2UgY29sbGVjdGlvbiBvZiBzb2Z0d2FyZSBwcm9ncmFtcyB0aGF0IGltcGxlbWVudCBpdCBvbiBhIHdpZGUgdmFyaWV0eSBvZiBwbGF0Zm9ybXMuIA==</description>
   <sourcefile>c-kermit-10.0.Beta.12.tar.gz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libnotify</code>
   <description>VGhlIGxpYm5vdGlmeSBsaWJyYXJ5IGlzIHVzZWQgdG8gc2VuZCBkZXNrdG9wIG5vdGlmaWNhdGlvbnMgdG8gYSBub3RpZmljYXRpb24gZGFlbW9uLCBhcyBkZWZpbmVkIGluIHRoZSBEZXNrdG9wIE5vdGlmaWNhdGlvbnMgc3BlYy4=</description>
   <sourcefile>libnotify-0.8.6.tar.xz</sourcefile>

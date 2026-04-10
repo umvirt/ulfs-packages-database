@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>Linux-PAM</code>
   <description>VGhlIExpbnV4IFBBTSBwYWNrYWdlIGNvbnRhaW5zIFBsdWdnYWJsZSBBdXRoZW50aWNhdGlvbiBNb2R1bGVzIHVzZWQgYnkgdGhlIGxvY2FsIHN5c3RlbSBhZG1pbmlzdHJhdG9yIHRvIGNvbnRyb2wgaG93IGFwcGxpY2F0aW9uIHByb2dyYW1zIGF1dGhlbnRpY2F0ZSB1c2Vycy4=</description>
   <sourcefile>Linux-PAM-1.7.1.tar.xz</sourcefile>

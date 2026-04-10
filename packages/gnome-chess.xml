@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gnome-chess</code>
   <description>R05PTUUgQ2hlc3MgaXMgYSAyRCBjaGVzcyBnYW1lLCB3aGVyZSBnYW1lcyBjYW4gYmUgcGxheWVkIGJldHdlZW4gYSBjb21iaW5hdGlvbiBvZiBodW1hbiBhbmQgY29tcHV0ZXIgcGxheWVycy4g</description>
   <sourcefile>gnome-chess-3.38.1.tar.xz</sourcefile>

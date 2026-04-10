@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>faac</code>
   <description>RkFBQyBpcyBhbiBlbmNvZGVyIGZvciBhIGxvc3N5IHNvdW5kIGNvbXByZXNzaW9uIHNjaGVtZSBzcGVjaWZpZWQgaW4gTVBFRy0yIFBhcnQgNyBhbmQgTVBFRy00IFBhcnQgMyBzdGFuZGFyZHMgYW5kIGtub3duIGFzIEFkdmFuY2VkIEF1ZGlvIENvZGluZyAoQUFDKS4g</description>
   <sourcefile>faac-1.31.1.tar.gz</sourcefile>

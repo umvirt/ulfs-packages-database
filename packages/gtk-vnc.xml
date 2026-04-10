@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gtk-vnc</code>
   <description>Z3RrLXZuYyBpcyBhIFZOQyB2aWV3ZXIgd2lkZ2V0IGZvciBHVEsu</description>
   <sourcefile>gtk-vnc-1.5.0.tar.xz</sourcefile>

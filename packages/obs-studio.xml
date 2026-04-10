@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>obs-studio</code>
   <description>T0JTIFN0dWRpbyAtIEZyZWUgYW5kIG9wZW4gc291cmNlIHNvZnR3YXJlIGZvciBsaXZlIHN0cmVhbWluZyBhbmQgc2NyZWVuIHJlY29yZGluZw==</description>
   <sourcefile>OBS-Studio-32.0.2-Sources.tar.gz</sourcefile>
@@ -14,107 +14,107 @@
   <dependances>
     <dependance>
       <code>simde</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>pciutils</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>mesa-libglvnd</code>
+      <code>pciutils</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>uthash</code>
+      <code>mesa-libglvnd</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>nv-codec-headers</code>
+      <code>uthash</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>mbedtls</code>
+      <code>nv-codec-headers</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>nlohman-json</code>
+      <code>mbedtls</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>QR-Code-generator</code>
+      <code>nlohman-json</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>websocketpp</code>
+      <code>QR-Code-generator</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>asio</code>
+      <code>websocketpp</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>freetype-stage2</code>
+      <code>asio</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>fontconfig</code>
+      <code>freetype-stage2</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>Xlibs</code>
+      <code>fontconfig</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>alsa-lib</code>
+      <code>Xlibs</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>ffmpeg</code>
+      <code>alsa-lib</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>fdk-aac</code>
+      <code>ffmpeg</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>libva</code>
+      <code>fdk-aac</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>speex</code>
+      <code>libva</code>
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>pulseaudio</code>
+      <code>speex</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>v4l-utils</code>
+      <code>pulseaudio</code>
       <weight>19</weight>
     </dependance>
     <dependance>
-      <code>pipewire</code>
+      <code>v4l-utils</code>
       <weight>20</weight>
     </dependance>
     <dependance>
-      <code>vlc</code>
+      <code>pipewire</code>
       <weight>21</weight>
     </dependance>
     <dependance>
-      <code>swig</code>
+      <code>vlc</code>
       <weight>22</weight>
     </dependance>
     <dependance>
-      <code>qt6</code>
+      <code>swig</code>
       <weight>23</weight>
     </dependance>
     <dependance>
-      <code>luajit</code>
+      <code>qt6</code>
       <weight>24</weight>
     </dependance>
     <dependance>
-      <code>libvpl</code>
+      <code>luajit</code>
       <weight>25</weight>
+    </dependance>
+    <dependance>
+      <code>libvpl</code>
+      <weight>26</weight>
     </dependance>
   </dependances>
   <patches/>

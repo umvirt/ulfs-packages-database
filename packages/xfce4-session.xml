@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xfce4-session</code>
   <description>WGZjZTQgU2Vzc2lvbiBpcyBhIHNlc3Npb24gbWFuYWdlciBmb3IgWGZjZS4gSXRzIHRhc2sgaXMgdG8gc2F2ZSB0aGUgc3RhdGUgb2YgeW91ciBkZXNrdG9wIChvcGVuZWQgYXBwbGljYXRpb25zIGFuZCB0aGVpciBsb2NhdGlvbikgYW5kIHJlc3RvcmUgaXQgZHVyaW5nIGEgbmV4dCBzdGFydHVwLiBZb3UgY2FuIGNyZWF0ZSBzZXZlcmFsIGRpZmZlcmVudCBzZXNzaW9ucyBhbmQgY2hvb3NlIG9uZSBvZiB0aGVtIG9uIHN0YXJ0dXAu</description>
   <sourcefile>xfce4-session-4.20.3.tar.bz2</sourcefile>

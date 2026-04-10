@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>kColorPicker</code>
   <description>a0NvbG9yUGlja2VyIGlzIGEgUVRvb2xCdXR0b24gbGlicmFyeSB3aXRoIGEgY29sb3IgcG9wdXAgbWVudSwgd2hpY2ggbGV0cyB5b3Ugc2VsZWN0IGNvbG9ycy4gVGhlIHBvcHVwIG1lbnUgZmVhdHVyZXMgYSBjb2xvciBkaWFsb2cgYnV0dG9uIHdoaWNoIGNhbiBiZSB1c2VkIHRvIGFkZCBjdXN0b20gY29sb3JzIHRvIHRoZSBwb3B1cCBtZW51Lg==</description>
   <sourcefile>kColorPicker-0.3.1.tar.gz</sourcefile>

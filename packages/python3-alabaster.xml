@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-alabaster</code>
   <description>VGhlIEFsYWJhc3RlciBwYWNrYWdlIGlzIGEgdGhlbWUgZm9yIHRoZSBzcGhpbnggZG9jdW1lbnRhdGlvbiBzeXN0ZW0uIEFsdGhvdWdoIGRldmVsb3BlZCBzZXBhcmF0ZWx5LCBpdCBpcyB0aGUgZGVmYXVsdCB0aGVtZSBmb3Igc3BoaW54Lg==</description>
   <sourcefile>alabaster-1.0.0.tar.gz</sourcefile>

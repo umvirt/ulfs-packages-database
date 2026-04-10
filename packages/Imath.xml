@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>Imath</code>
   <description>SW1hdGggaXMgYSBDKysgYW5kIHB5dGhvbiBsaWJyYXJ5IG9mIDJEIGFuZCAzRCB2ZWN0b3IsIG1hdHJpeCwgYW5kIG1hdGggb3BlcmF0aW9ucyBmb3IgY29tcHV0ZXIgZ3JhcGhpY3M=</description>
   <sourcefile>Imath-3.2.2.tar.gz</sourcefile>
@@ -14,15 +14,15 @@
   <dependances>
     <dependance>
       <code>git</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>boost</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-numpy</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>pystring</code>
   <description>QysrIGZ1bmN0aW9ucyBtYXRjaGluZyB0aGUgaW50ZXJmYWNlIGFuZCBiZWhhdmlvciBvZiBweXRob24gc3RyaW5nIG1ldGhvZHMgd2l0aCBzdGQ6OnN0cmluZw==</description>
   <sourcefile>pystring-1.1.4.tar.gz</sourcefile>

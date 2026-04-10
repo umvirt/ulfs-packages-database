@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>vtm</code>
   <description>VGV4dC1iYXNlZCBkZXNrdG9wIGVudmlyb25tZW50</description>
   <sourcefile>vtm-2026.02.05.tar.gz</sourcefile>
@@ -14,19 +14,19 @@
   <dependances>
     <dependance>
       <code>lua-5.4</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>gpm</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>cmake</code>
+      <code>gpm</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libinput</code>
+      <code>cmake</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>libinput</code>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>atkmm</code>
   <description>QXRrbW0gaXMgdGhlIG9mZmljaWFsIEMrKyBpbnRlcmZhY2UgZm9yIHRoZSBBVEsgYWNjZXNzaWJpbGl0eSB0b29sa2l0IGxpYnJhcnkuDQoNCg==</description>
   <sourcefile>atkmm-2.28.4.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>mesa-libglvnd</code>
   <description>TWVzYSBpcyBhbiBPcGVuR0wgY29tcGF0aWJsZSAzRCBncmFwaGljcyBsaWJyYXJ5Lg==</description>
   <sourcefile>mesa-25.1.8.tar.xz</sourcefile>

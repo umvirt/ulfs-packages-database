@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>postgresql-client</code>
   <description>UG9zdGdyZVNRTCBpcyBhbiBhZHZhbmNlZCBvYmplY3QtcmVsYXRpb25hbCBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbSAoT1JEQk1TKSwgZGVyaXZlZCBmcm9tIHRoZSBCZXJrZWxleSBQb3N0Z3JlcyBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3RlbS4=</description>
   <sourcefile>postgresql-17.6.tar.bz2</sourcefile>

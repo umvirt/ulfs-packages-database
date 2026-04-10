@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>at-spi2-core</code>
   <description>VGhlIEF0LVNwaTIgQ29yZSBwYWNrYWdlIGNvbnRhaW5zIGEgY29tcHJlaGVuc2l2ZSBhY2Nlc3NpYmlsaXR5IGZyYW1ld29yayBmb3IgdGhlIEFzc2lzdGl2ZSBUZWNobm9sb2dpZXMgYXZhaWxhYmxlIG9uIHRoZSBHTk9NRSBwbGF0Zm9ybS4=</description>
   <sourcefile>at-spi2-core-2.56.4.tar.xz</sourcefile>

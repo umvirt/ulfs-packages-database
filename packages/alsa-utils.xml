@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>alsa-utils</code>
   <description>VGhlIEFMU0EgVXRpbGl0aWVzIHBhY2thZ2UgY29udGFpbnMgdmFyaW91cyB1dGlsaXRpZXMgd2hpY2ggYXJlIHVzZWZ1bCBmb3IgY29udHJvbGxpbmcgeW91ciBzb3VuZCBjYXJkLg==</description>
   <sourcefile>alsa-utils-1.2.14.tar.bz2</sourcefile>

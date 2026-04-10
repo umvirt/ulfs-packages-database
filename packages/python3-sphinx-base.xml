@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-sphinx-base</code>
   <description>VGhlIFNwaGlueCBwYWNrYWdlIGlzIGEgc2V0IG9mIHRvb2xzIGZvciB0cmFuc2xhdGluZyBzb21lIHN0cnVjdHVyZWQgdGV4dCBmb3JtYXRzIGludG8gcHJldHR5IGRvY3VtZW50YXRpb24gaW4gdmFyaW91cyBmb3JtYXRzLg==</description>
   <sourcefile>sphinx-8.2.3.tar.gz</sourcefile>
@@ -13,55 +13,55 @@
   <dependances>
     <dependance>
       <code>python3-docutils</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-requests</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-alabaster</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>python3-babel</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>python3-imagesize</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
     <dependance>
       <code>python3-snowballstemmer</code>
-      <weight>0</weight>
+      <weight>6</weight>
     </dependance>
     <dependance>
       <code>python3-sphinxcontrib_applehelp</code>
-      <weight>0</weight>
+      <weight>7</weight>
     </dependance>
     <dependance>
       <code>python3-sphinxcontrib_devhelp</code>
-      <weight>0</weight>
+      <weight>8</weight>
     </dependance>
     <dependance>
       <code>python3-sphinxcontrib_htmlhelp</code>
-      <weight>0</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>python3-sphinxcontrib-jsmath</code>
-      <weight>0</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>python3-sphinxcontrib_qthelp</code>
-      <weight>0</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>python3-sphinxcontrib_serializinghtml</code>
-      <weight>0</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>python3-roman_numerals_py</code>
-      <weight>0</weight>
+      <weight>13</weight>
     </dependance>
   </dependances>
   <patches/>

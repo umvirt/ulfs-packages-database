@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>proftpd</code>
   <description>VGhlIFByb0ZUUEQgcGFja2FnZSBjb250YWlucyBhIHNlY3VyZSBhbmQgaGlnaGx5IGNvbmZpZ3VyYWJsZSBGVFAgZGFlbW9uLiBUaGlzIGlzIHVzZWZ1bCBmb3Igc2VydmluZyBsYXJnZSBmaWxlIGFyY2hpdmVzIG92ZXIgYSBuZXR3b3JrLg==</description>
   <sourcefile>proftpd-1.3.9.tar.gz</sourcefile>

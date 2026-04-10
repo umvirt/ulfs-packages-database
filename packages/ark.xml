@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>ark</code>
   <description>VGhlIEFyayBwYWNrYWdlIGlzIGEgS0Y2IGFyY2hpdmUgdG9vbC4gSXQgaXMgYSBncmFwaGljYWwgZnJvbnQgZW5kIHRvIHRhciBhbmQgc2ltaWxhciB0b29scy4=</description>
   <sourcefile>ark-25.08.0.tar.xz</sourcefile>

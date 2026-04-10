@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>whois</code>
   <description>V2hvaXMgaXMgYSBjbGllbnQtc2lkZSBhcHBsaWNhdGlvbiB3aGljaCBxdWVyaWVzIHRoZSB3aG9pcyBkaXJlY3Rvcnkgc2VydmljZSBmb3IgaW5mb3JtYXRpb24gcGVydGFpbmluZyB0byBhIHBhcnRpY3VsYXIgZG9tYWluIG5hbWUu</description>
   <sourcefile>whois-5.6.4.tar.gz</sourcefile>

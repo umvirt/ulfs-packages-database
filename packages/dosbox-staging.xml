@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>dosbox-staging</code>
   <description>RE9TQm94IFN0YWdpbmcgaXMgYSBtb2Rlcm4gY29udGludWF0aW9uIG9mIERPU0JveCB3aXRoIGFkdmFuY2VkIGZlYXR1cmVzIGFuZCBjdXJyZW50IGRldmVsb3BtZW50IHByYWN0aWNlcy4=</description>
   <sourcefile>dosbox-staging-0.82.2.tar.gz</sourcefile>
@@ -45,31 +45,31 @@
     </dependance>
     <dependance>
       <code>SDL_net</code>
-      <weight>10</weight>
+      <weight>9</weight>
     </dependance>
     <dependance>
       <code>opusfile</code>
-      <weight>11</weight>
+      <weight>10</weight>
     </dependance>
     <dependance>
       <code>iir1</code>
-      <weight>12</weight>
+      <weight>11</weight>
     </dependance>
     <dependance>
       <code>zlib-ng</code>
-      <weight>13</weight>
+      <weight>12</weight>
     </dependance>
     <dependance>
       <code>fluidsynth</code>
-      <weight>14</weight>
+      <weight>13</weight>
     </dependance>
     <dependance>
       <code>libmt32emu</code>
-      <weight>15</weight>
+      <weight>14</weight>
     </dependance>
     <dependance>
       <code>openglide</code>
-      <weight>16</weight>
+      <weight>15</weight>
     </dependance>
   </dependances>
   <patches>

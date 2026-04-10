@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>notification-daemon</code>
   <description/>
   <sourcefile>notification-daemon-3.20.0.tar.xz</sourcefile>
@@ -13,11 +13,11 @@
   <dependances>
     <dependance>
       <code>gtk3</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>libcanberra</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches/>

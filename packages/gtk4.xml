@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>gtk4</code>
   <description>VGhlIEdUSyA0IHBhY2thZ2UgY29udGFpbnMgbGlicmFyaWVzIHVzZWQgZm9yIGNyZWF0aW5nIGdyYXBoaWNhbCB1c2VyIGludGVyZmFjZXMgZm9yIGFwcGxpY2F0aW9ucy4=</description>
   <sourcefile>gtk-4.18.6.tar.xz</sourcefile>

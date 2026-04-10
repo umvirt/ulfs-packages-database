@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>ZoneMinder</code>
   <description>QSBmdWxsLWZlYXR1cmVkLCBvcGVuIHNvdXJjZSwgc3RhdGUtb2YtdGhlLWFydCB2aWRlbyBzdXJ2ZWlsbGFuY2Ugc29mdHdhcmUgc3lzdGVtLg==</description>
   <sourcefile>ZoneMinder-6ef2950d217c15283c60c237401bb5ba8db8a68d.tar.xz</sourcefile>

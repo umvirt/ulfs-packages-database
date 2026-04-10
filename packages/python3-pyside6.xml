@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-pyside6</code>
   <description>UHl0aG9uIGJpbmRpbmdzIGZvciB0aGUgUXQgY3Jvc3MtcGxhdGZvcm0gYXBwbGljYXRpb24gYW5kIFVJIGZyYW1ld29yaw==</description>
   <sourcefile>pyside-setup-everywhere-src-6.9.2.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fbgrab</code>
   <description>RkJHcmFiIGlzIGEgZnJhbWVidWZmZXIgc2NyZWVuc2hvdCBwcm9ncmFtLCBjYXB0dXJpbmcgdGhlIGxpbnV4IGZyYW1idWZmZXIgYW5kIGNvbnZlcnRpbmcgaXQgdG8gYSBwbmctcGljdHVyZS4=</description>
   <sourcefile>fbgrab-1.5.tar.gz</sourcefile>

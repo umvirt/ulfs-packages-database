@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xfce4-taskmanager</code>
   <description>VGhlIHhmY2U0LXRhc2ttYW5hZ2VyIGNvbXBvbmVudCBpcyBhbiBlYXN5IHRvIHVzZSBncmFwaGljYWwgdGFzayBtYW5hZ2Vy</description>
   <sourcefile>xfce4-taskmanager-1.6.0.tar.xz</sourcefile>

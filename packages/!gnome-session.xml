@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!gnome-session</code>
   <description>VGhlIEdOT01FIFNlc3Npb24gcGFja2FnZSBjb250YWlucyB0aGUgR05PTUUgc2Vzc2lvbiBtYW5hZ2VyLg==</description>
   <sourcefile>gnome-session-46.0.tar.xz</sourcefile>

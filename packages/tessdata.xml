@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>tessdata</code>
   <description>VGVzc2VyYWN0IE9DUiBkYXRh</description>
   <sourcefile>tessdata-4.1.0.tar.gz</sourcefile>

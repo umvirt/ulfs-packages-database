@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>dnsmasq</code>
   <description>RG5zbWFzcSBwcm92aWRlcyBuZXR3b3JrIGluZnJhc3RydWN0dXJlIGZvciBzbWFsbCBuZXR3b3JrczogRE5TLCBESENQLCByb3V0ZXIgYWR2ZXJ0aXNlbWVudCBhbmQgbmV0d29yayBib290Lg==</description>
   <sourcefile>dnsmasq-2.91.tar.xz</sourcefile>

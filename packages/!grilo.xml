@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!grilo</code>
   <description>R3JpbG8gaXMgYSBmcmFtZXdvcmsgZm9jdXNlZCBvbiBtYWtpbmcgbWVkaWEgZGlzY292ZXJ5IGFuZCBicm93c2luZyBlYXN5IGZvciBhcHBsaWNhdGlvbnMgYW5kIGFwcGxpY2F0aW9uIGRldmVsb3BlcnMu</description>
   <sourcefile>grilo-0.3.16.tar.xz</sourcefile>

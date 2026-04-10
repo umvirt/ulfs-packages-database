@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>adwaita-icon-theme</code>
   <description>VGhlIEFkd2FpdGEgSWNvbiBUaGVtZSBwYWNrYWdlIGNvbnRhaW5zIGFuIGljb24gdGhlbWUgZm9yIEdUSysgMyBhbmQgR1RLIDRhcHBsaWNhdGlvbnMu</description>
   <sourcefile>adwaita-icon-theme-48.1.tar.xz</sourcefile>

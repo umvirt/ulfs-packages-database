@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-pyproject-hooks</code>
   <description>QSBsb3ctbGV2ZWwgbGlicmFyeSBmb3IgY2FsbGluZyBidWlsZC1iYWNrZW5kcyBpbiBgcHlwcm9qZWN0LnRvbWxgLWJhc2VkIHByb2plY3Q=</description>
   <sourcefile>pyproject-hooks-1.2.0.tar.gz</sourcefile>

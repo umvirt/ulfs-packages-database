@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>exim</code>
   <description>VGhlIEV4aW0gcGFja2FnZSBjb250YWlucyBhIE1haWwgVHJhbnNwb3J0IEFnZW50IHdyaXR0ZW4gYnkgdGhlIFVuaXZlcnNpdHkgb2YgQ2FtYnJpZGdlLCByZWxlYXNlZCB1bmRlciB0aGUgR05VIFB1YmxpYyBMaWNlbnNlLg0KDQo=</description>
   <sourcefile>exim-4.98.2.tar.xz</sourcefile>
@@ -14,43 +14,43 @@
   <dependances>
     <dependance>
       <code>perl-File-FcntlLock</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>pcre2</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>sqlite</code>
+      <code>!pcre2</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>Linux-PAM</code>
+      <code>sqlite</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gnutls</code>
+      <code>Linux-PAM</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libnsl</code>
+      <code>gnutls</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>cyrus-sasl</code>
+      <code>libnsl</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>OpenLDAP-client</code>
+      <code>cyrus-sasl</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>mariadb-client</code>
+      <code>OpenLDAP-client</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>postgresql-client</code>
+      <code>mariadb-client</code>
       <weight>9</weight>
+    </dependance>
+    <dependance>
+      <code>postgresql-client</code>
+      <weight>10</weight>
     </dependance>
   </dependances>
   <patches/>

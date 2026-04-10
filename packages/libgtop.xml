@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libgtop</code>
   <description>VGhlIGxpYmd0b3AgcGFja2FnZSBjb250YWlucyB0aGUgR05PTUUgdG9wIGxpYnJhcmllcy4=</description>
   <sourcefile>libgtop-2.41.3.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libtorrent-rasterbar</code>
   <description>bGlidG9ycmVudCBpcyBhIGZlYXR1cmUgY29tcGxldGUgQysrIGJpdHRvcnJlbnQgaW1wbGVtZW50YXRpb24gZm9jdXNpbmcgb24gZWZmaWNpZW5jeSBhbmQgc2NhbGFiaWxpdHku</description>
   <sourcefile>libtorrent-rasterbar-2.0.11.tar.gz</sourcefile>

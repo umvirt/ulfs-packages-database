@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>python3-pytz</code>
   <description>VGhlIFB5dHogbGlicmFyeSBicmluZ3MgdGhlIElBTkEgdHogZGF0YWJhc2UgaW50byBQeXRob24uIEl0IGFsbG93cyBhY2N1cmF0ZSBhbmQgY3Jvc3MtcGxhdGZvcm0gdGltZXpvbmUgY2FsY3VsYXRpb25zLg==</description>
   <sourcefile>pytz-2025.2.tar.gz</sourcefile>

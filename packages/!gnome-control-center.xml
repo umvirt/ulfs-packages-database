@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>!gnome-control-center</code>
   <description>VGhlIEdOT01FIENvbnRyb2wgQ2VudGVyIHBhY2thZ2UgY29udGFpbnMgdGhlIEdOT01FIHNldHRpbmdzIG1hbmFnZXIu</description>
   <sourcefile>gnome-control-center-46.4.tar.xz</sourcefile>

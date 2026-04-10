@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>fcitx5-qt6</code>
   <description>UXQgbGlicmFyeSBhbmQgSU0gbW9kdWxlIGZvciBmY2l0eDU=</description>
   <sourcefile>fcitx5-qt-5.1.10.tar.gz</sourcefile>

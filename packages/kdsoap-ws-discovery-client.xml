@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>kdsoap-ws-discovery-client</code>
   <description>VGhlIGtkc29hcC13cy1kaXNjb3ZlcnktY2xpZW50IHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgc3VwcG9ydCBmb3IgdGhlIFdTLURpc2NvdmVyeSBwcm90b2NvbCwgYSByZWNlbnQgcHJvdG9jb2wgdXNlZCB0byBkaXNjb3ZlciBzZXJ2aWNlcyBhdmFpbGFibGUgb24gYSBsb2NhbCBuZXR3b3JrLg==</description>
   <sourcefile>kdsoap-ws-discovery-client-0.4.0.tar.xz</sourcefile>

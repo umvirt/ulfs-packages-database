@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>OpenColorIO</code>
   <description>QSBjb2xvciBtYW5hZ2VtZW50IGZyYW1ld29yayBmb3IgdmlzdWFsIGVmZmVjdHMgYW5kIGFuaW1hdGlvbi4=</description>
   <sourcefile>OpenColorIO-2.4.2.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>python3-pybind11</code>
-      <weight>0</weight>
-    </dependance>
-    <dependance>
-      <code>minizip-ng</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>pystring</code>
+      <code>minizip-ng</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>yaml-cpp</code>
+      <code>pystring</code>
       <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>yaml-cpp</code>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

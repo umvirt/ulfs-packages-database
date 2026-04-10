@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>ansible</code>
   <description>UmFkaWNhbGx5IHNpbXBsZSBJVCBhdXRvbWF0aW9u</description>
   <sourcefile>ansible-13.2.0.tar.gz</sourcefile>
@@ -13,23 +13,23 @@
   <dependances>
     <dependance>
       <code>python3-cffi</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>python3-pycparser</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>python3-pyyaml</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>ansible-core</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
     <dependance>
       <code>python3-jinja2</code>
-      <weight>0</weight>
+      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

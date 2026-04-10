@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>openjade</code>
   <description>VGhlIE9wZW5KYWRlIHBhY2thZ2UgY29udGFpbnMgYSBEU1NTTCBlbmdpbmUuIFRoaXMgaXMgdXNlZnVsIGZvciBTR01MIGFuZCBYTUwgdHJhbnNmb3JtYXRpb25zIGludG8gUlRGLCBUZVgsIFNHTUwgYW5kIFhNTC4=</description>
   <sourcefile>openjade-1.3.2.tar.gz</sourcefile>

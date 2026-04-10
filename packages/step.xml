@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>step</code>
   <description/>
   <sourcefile>step-25.08.0.tar.xz</sourcefile>
@@ -14,7 +14,7 @@
   <dependances>
     <dependance>
       <code>KF6</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

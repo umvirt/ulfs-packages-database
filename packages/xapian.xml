@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xapian</code>
   <description>WGFwaWFuIGlzIGFuIG9wZW4gc291cmNlIHNlYXJjaCBlbmdpbmUgbGlicmFyeS4=</description>
   <sourcefile>xapian-core-1.4.29.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>nfs-utils</code>
   <description>VGhlIE5GUyBVdGlsaXRpZXMgcGFja2FnZSBjb250YWlucyB0aGUgdXNlcnNwYWNlIHNlcnZlciBhbmQgY2xpZW50IHRvb2xzIG5lY2Vzc2FyeSB0byB1c2UgdGhlIGtlcm5lbCdzIE5GUyBhYmlsaXRpZXMuIE5GUyBpcyBhIHByb3RvY29sIHRoYXQgYWxsb3dzIHNoYXJpbmcgZmlsZSBzeXN0ZW1zIG92ZXIgdGhlIG5ldHdvcmsuDQoNCg==</description>
   <sourcefile>nfs-utils-2.8.3.tar.xz</sourcefile>

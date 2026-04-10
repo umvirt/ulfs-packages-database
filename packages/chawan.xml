@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>chawan</code>
   <description>QSBUVUkgd2ViIChhbmQgKFMpRlRQLCBHb3BoZXIsIEdlbWluaSwNCi4uLikgYnJvd3NlciB3aXRoIENTUywgaW5saW5lIGltYWdlIGFuZCBKYXZhU2NyaXB0IHN1cHBvcnQu</description>
   <sourcefile>chawan-v0.3.3.tar.gz</sourcefile>
@@ -13,19 +13,19 @@
   <dependances>
     <dependance>
       <code>libssh2</code>
-      <weight>0</weight>
+      <weight>1</weight>
     </dependance>
     <dependance>
       <code>brotli</code>
-      <weight>0</weight>
+      <weight>2</weight>
     </dependance>
     <dependance>
       <code>quickjs</code>
-      <weight>0</weight>
+      <weight>3</weight>
     </dependance>
     <dependance>
       <code>Nim</code>
-      <weight>0</weight>
+      <weight>4</weight>
     </dependance>
   </dependances>
   <patches/>

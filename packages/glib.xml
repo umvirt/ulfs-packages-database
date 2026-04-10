@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>glib</code>
   <description>VGhlIEdMaWIgcGFja2FnZSBjb250YWlucyBsb3ctbGV2ZWwgbGlicmFyaWVzIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIGRhdGEgc3RydWN0dXJlIGhhbmRsaW5nIGZvciBDLCBwb3J0YWJpbGl0eSB3cmFwcGVycyBhbmQgaW50ZXJmYWNlcyBmb3Igc3VjaCBydW50aW1lIGZ1bmN0aW9uYWxpdHkgYXMgYW4gZXZlbnQgbG9vcCwgdGhyZWFkcywgZHluYW1pYyBsb2FkaW5nIGFuZCBhbiBvYmplY3Qgc3lzdGVtLg==</description>
-  <sourcefile>glib-2.84.4.tar.xz</sourcefile>
-  <sourcedir>glib-2.84.4</sourcedir>
+  <sourcefile>glib-2.86.4.tar.xz</sourcefile>
+  <sourcedir>glib-2.86.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgIFwNCiAgICAgIC1EIGludHJvc3BlY3Rpb249ZGlzYWJsZWQgXA0KICAgICAgLUQgZ2xpYl9kZWJ1Zz1kaXNhYmxlZCAgICBcDQogICAgICAtRCBtYW4tcGFnZXM9ZW5hYmxlZCAgICAgIFwNCiAgICAgIC1EIHN5c3Byb2Y9ZGlzYWJsZWQg</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkICIvZG9jc19kaXIgPS9zfCR8IC8gJ2dsaWItJyArIG1lc29uLnByb2plY3RfdmVyc2lvbigpfCIgXA0KICAgIC1pIC4uL2RvY3MvcmVmZXJlbmNlL21lc29uLmJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAgJiYNCm1lc29uIGNvbmZpZ3VyZSAtRCBkb2N1bWVudGF0aW9uPXRydWUgICAgICAgICAgICAgICAgICAgICAgICYmDQpuaW5qYQ0KDQpmaQ==</build>
@@ -17,16 +17,16 @@
     </dependance>
     <dependance>
       <code>libxslt</code>
-      <weight>3</weight>
-    </dependance>
-    <dependance>
-      <code>pcre2</code>
-      <weight>4</weight>
+      <weight>2</weight>
     </dependance>
   </dependances>
   <patches>
     <patch>
       <filename>glib-skip_warnings-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+    <patch>
+      <filename>glib-2.86.4-upstream_fixes-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>
@@ -41,7 +41,7 @@
       <install>Y2QgYnVpbGQNCm1lc29uIGluc3RhbGwgLS1kZXN0ZGlyIERFU1RESVINCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
       <dependances>
         <dependance>
-          <code>pcre2</code>
+          <code>!pcre2</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

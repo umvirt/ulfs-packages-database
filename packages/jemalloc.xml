@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>jemalloc</code>
   <description>amVtYWxsb2MgaXMgYSBnZW5lcmFsIHB1cnBvc2UgbWFsbG9jKDMpIGltcGxlbWVudGF0aW9uIHRoYXQgZW1waGFzaXplcyBmcmFnbWVudGF0aW9uIGF2b2lkYW5jZSBhbmQgc2NhbGFibGUgY29uY3VycmVuY3kgc3VwcG9ydC4g</description>
   <sourcefile>jemalloc-5.3.0.tar.bz2</sourcefile>

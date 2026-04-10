@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>tmux</code>
   <description>dG11eCBpcyBhIHRlcm1pbmFsIG11bHRpcGxleGVyOiBpdCBlbmFibGVzIGEgbnVtYmVyIG9mIHRlcm1pbmFscyB0byBiZSBjcmVhdGVkLCBhY2Nlc3NlZCwgYW5kIGNvbnRyb2xsZWQgZnJvbSBhIHNpbmdsZSBzY3JlZW4uIHRtdXggbWF5IGJlIGRldGFjaGVkIGZyb20gYSBzY3JlZW4gYW5kIGNvbnRpbnVlIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQsIHRoZW4gbGF0ZXIgcmVhdHRhY2hlZC4=</description>
   <sourcefile>tmux-3.6.tar.gz</sourcefile>

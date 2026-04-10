@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>spice-streaming-agent</code>
   <description>R3Vlc3Qtc2lkZSBkYWVtb24gd2hpY2ggY2FwdHVyZXMgdGhlIGd1ZXN0IHZpZGVvIG91dHB1dCwgZW5jb2RlcyBpdCB0byBhIHZpZGVvIHN0cmVhbSBhbmQgZm9yd2FyZHMgdGhlIHJlc3VsdGluZyBzdHJlYW0gdG8gdGhlIGhvc3QgdG8gYmUgc2VudCB0aHJvdWdoIFNQSUNFLg==</description>
   <sourcefile>spice-streaming-agent-0.3.tar.xz</sourcefile>

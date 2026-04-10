@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>brasero</code>
   <description>QnJhc2VybyBpcyBhbiBhcHBsaWNhdGlvbiB1c2VkIHRvIGJ1cm4gQ0RzIGFuZCBEVkRzIG9uIHRoZSBHTk9NRSBEZXNrdG9wLiBJdCBpcyBkZXNpZ25lZCB0byBiZSBhcyBzaW1wbGUgYXMgcG9zc2libGUgYW5kIGhhcyBzb21lIHVuaXF1ZSBmZWF0dXJlcyB0aGF0IGVuYWJsZSB1c2VycyB0byBjcmVhdGUgdGhlaXIgZGlzY3MgZWFzaWx5IGFuZCBxdWlja2x5Lg==</description>
   <sourcefile>brasero-3.12.3.tar.xz</sourcefile>

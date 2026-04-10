@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>lxqt-panel</code>
   <description>VGhlIGx4cXQtcGFuZWwgcGFja2FnZSBjb250YWlucyBhIGxpZ2h0d2VpZ2h0IFgxMSBkZXNrdG9wIHBhbmVsLg==</description>
   <sourcefile>lxqt-panel-2.2.2.tar.xz</sourcefile>

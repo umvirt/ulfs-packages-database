@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libevdev</code>
   <description>VGhlIGxpYmV2ZGV2IHBhY2thZ2UgY29udGFpbnMgY29tbW9uIGZ1bmN0aW9ucyBmb3IgWG9yZyBpbnB1dCBkcml2ZXJzLg==</description>
   <sourcefile>libevdev-1.13.4.tar.xz</sourcefile>

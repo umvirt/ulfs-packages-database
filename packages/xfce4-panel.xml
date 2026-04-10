@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xfce4-panel</code>
   <description>VGhlIFhmY2U0IFBhbmVsIHBhY2thZ2UgY29udGFpbnMgdGhlIFhmY2U0IFBhbmVsLg==</description>
   <sourcefile>xfce4-panel-4.20.5.tar.bz2</sourcefile>

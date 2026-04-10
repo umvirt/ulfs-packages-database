@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>kImageAnnotator</code>
   <description>a0ltYWdlQW5ub3RhdG9yIGlzIGEgdG9vbCBmb3IgYW5ub3RhdGluZyBpbWFnZXMu</description>
   <sourcefile>kImageAnnotator-0.7.1.tar.gz</sourcefile>

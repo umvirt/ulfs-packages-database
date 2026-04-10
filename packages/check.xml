@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>check</code>
   <description>VW5pdCBUZXN0aW5nIEZyYW1ld29yayBmb3IgQw==</description>
   <sourcefile>check-0.15.2.tar.gz</sourcefile>

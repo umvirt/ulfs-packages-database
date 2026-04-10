@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>libpeas</code>
   <description>bGlicGVhcyBpcyBhIEdPYmplY3QgYmFzZWQgcGx1Z2lucyBlbmdpbmUsIGFuZCBpcyB0YXJnZXRlZCBhdCBnaXZpbmcgZXZlcnkgYXBwbGljYXRpb24gdGhlIGNoYW5jZSB0byBhc3N1bWUgaXRzIG93biBleHRlbnNpYmlsaXR5Lg==</description>
   <sourcefile>libpeas-1.36.0.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>xfce4-screensaver</code>
   <description>WGZjZTQtc2NyZWVuc2F2ZXIgaXMgYSBzY3JlZW4gc2F2ZXIgYW5kIGxvY2tlciB0aGF0IGFpbXMgdG8gaGF2ZQ0Kc2ltcGxlLCBzYW5lLCBzZWN1cmUgZGVmYXVsdHMgYW5kIGJlIHdlbGwgaW50ZWdyYXRlZCB3aXRoIHRoZSBkZXNrdG9wLg==</description>
   <sourcefile>xfce4-screensaver-4.20.1.tar.xz</sourcefile>

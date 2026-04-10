@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>mousepad</code>
   <description>TW91c2VwYWQgaXMgYSBzaW1wbGUgR1RLKyAzIHRleHQgZWRpdG9yIGZvciB0aGUgWGZjZSBkZXNrdG9wIGVudmlyb25tZW50Lg==</description>
   <sourcefile>mousepad-0.6.5.tar.xz</sourcefile>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
-  <release>0.2.4</release>
+  <release>0.3</release>
   <code>php</code>
   <description>UEhQIGlzIHRoZSBQSFAgSHlwZXJ0ZXh0IFByZXByb2Nlc3Nvci4gUHJpbWFyaWx5IHVzZWQgaW4gZHluYW1pYyB3ZWIgc2l0ZXMsIGl0IGFsbG93cyBmb3IgcHJvZ3JhbW1pbmcgY29kZSB0byBiZSBkaXJlY3RseSBlbWJlZGRlZCBpbnRvIHRoZSBIVE1MIG1hcmt1cC4gSXQgaXMgYWxzbyB1c2VmdWwgYXMgYSBnZW5lcmFsIHB1cnBvc2Ugc2NyaXB0aW5nIGxhbmd1YWdlLg==</description>
   <sourcefile>php-8.4.11.tar.xz</sourcefile>
