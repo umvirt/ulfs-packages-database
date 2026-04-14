@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libXpm</code>
   <description/>
-  <sourcefile>libXpm-3.5.17.tar.xz</sourcefile>
-  <sourcedir>libXpm-3.5.17</sourcedir>
+  <sourcefile>libXpm-3.5.18.tar.xz</sourcefile>
+  <sourcedir>libXpm-3.5.18</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDICAtLWRpc2FibGUtb3Blbi16ZmlsZQ0K</configure>
   <build/>

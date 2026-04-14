@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>python3-pyyaml</code>
   <description>UHlZQU1MIGlzIGEgUHl0aG9uIG1vZHVsZSB0aGF0IGltcGxlbWVudHMgdGhlIG5leHQgZ2VuZXJhdGlvbiBZQU1MIHBhcnNlciBhbmQgZW1pdHRlci4=</description>
-  <sourcefile>pyyaml-6.0.2.tar.gz</sourcefile>
-  <sourcedir>pyyaml-6.0.2</sourcedir>
+  <sourcefile>pyyaml-6.0.3.tar.gz</sourcefile>
+  <sourcedir>pyyaml-6.0.3</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>

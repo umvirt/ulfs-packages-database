@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>xkill</code>
   <description/>
-  <sourcefile>xkill-1.0.6.tar.xz</sourcefile>
-  <sourcedir>xkill-1.0.6</sourcedir>
+  <sourcefile>xkill-1.0.7.tar.xz</sourcefile>
+  <sourcedir>xkill-1.0.7</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklHDQo=</configure>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libXcomposite</code>
   <description/>
-  <sourcefile>libXcomposite-0.4.6.tar.xz</sourcefile>
-  <sourcedir>libXcomposite-0.4.6</sourcedir>
+  <sourcefile>libXcomposite-0.4.7.tar.xz</sourcefile>
+  <sourcedir>libXcomposite-0.4.7</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
   <build/>

@@ -6,7 +6,7 @@
   <sourcefile>dvd+rw-tools-7.1.tar.gz</sourcefile>
   <sourcedir>dvd+rw-tools-7.1</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvc3RhdC5oL2EgI2luY2x1ZGUgPHN5cy9zeXNtYWNyb3MuaD4nIGdyb3dpc29mcy5jICYmDQpzZWQgLWkgJy9zdGRsaWIvYSAjaW5jbHVkZSA8bGltaXRzLmg+JyB0cmFuc3BvcnQuaHh4IA==</configure>
+  <configure>Iw==</configure>
   <build>bWFrZSBhbGwgcnBsOCBidGNmbGFzaA==</build>
   <install>bWFrZSBwcmVmaXg9L3VzciBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCmluc3RhbGwgLXYgLW02NDQgLUQgaW5kZXguaHRtbCBcDQogICAgL3Vzci9zaGFyZS9kb2MvZHZkK3J3LXRvb2xzLTcuMS9pbmRleC5odG1sDQoNCmZp</install>
   <localbuild>0</localbuild>
@@ -16,7 +16,12 @@
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>dvd+rw-tools-7.1-consolidated_fixes-2.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

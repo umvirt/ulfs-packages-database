@@ -7,9 +7,10 @@
   <sourcedir>libpciaccess-0.18.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

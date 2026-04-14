@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>Vulkan-Headers</code>
   <description>VGhlIFZ1bGthbi1IZWFkZXJzIHBhY2thZ2UgY29udGFpbnMgYSBzZXQgb2YgaGVhZGVyIGZpbGVzIG5lY2Vzc2FyeSB0byBidWlsZCBhbmQgbGluayBhcHBsaWNhdGlvbnMgYWdhaW5zdCB0aGUgVnVsa2FuIEFQSS4=</description>
-  <sourcefile>Vulkan-Headers-1.4.321.tar.gz</sourcefile>
-  <sourcedir>Vulkan-Headers-1.4.321</sourcedir>
+  <sourcefile>Vulkan-Headers-vulkan-sdk-1.4.341.0.tar.gz</sourcefile>
+  <sourcedir>Vulkan-Headers-vulkan-sdk-1.4.341.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAtRyBOaW5qYSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>cmake</code>

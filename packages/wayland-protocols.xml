@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>wayland-protocols</code>
   <description>VGhlIFdheWxhbmQtUHJvdG9jb2xzIHBhY2thZ2UgY29udGFpbnMgYWRkaXRpb25hbCBXYXlsYW5kIHByb3RvY29scyB0aGF0IGFkZCBmdW5jdGlvbmFsaXR5IG91dHNpZGUgb2YgcHJvdG9jb2xzIGFscmVhZHkgaW4gdGhlIFdheWxhbmQgY29yZS4=</description>
-  <sourcefile>wayland-protocols-1.45.tar.xz</sourcefile>
-  <sourcedir>wayland-protocols-1.45</sourcedir>
+  <sourcefile>wayland-protocols-1.47.tar.xz</sourcefile>
+  <sourcedir>wayland-protocols-1.47</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZQ0KDQo=</configure>
+  <configure/>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQoNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>wayland</code>

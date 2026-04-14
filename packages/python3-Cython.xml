@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-Cython</code>
   <description>VGhlIEN5dGhvbiBjb21waWxlciBmb3Igd3JpdGluZyBDIGV4dGVuc2lvbnMgaW4gdGhlIFB5dGhvbiBsYW5ndWFnZS4=</description>
-  <sourcefile>cython-3.1.3.tar.gz</sourcefile>
-  <sourcedir>cython-3.1.3</sourcedir>
+  <sourcefile>cython-3.2.4.tar.gz</sourcefile>
+  <sourcedir>cython-3.2.4</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIEN5dGhvbg==</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIEN5dGhvbg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>gobject-introspection</code>
   <description>VGhlIEdPYmplY3QgSW50cm9zcGVjdGlvbiBpcyB1c2VkIHRvIGRlc2NyaWJlIHRoZSBwcm9ncmFtIEFQSXMgYW5kIGNvbGxlY3QgdGhlbSBpbiBhIHVuaWZvcm0sIG1hY2hpbmUgcmVhZGFibGUgZm9ybWF0Lg==</description>
-  <sourcefile>gobject-introspection-1.84.0.tar.xz</sourcefile>
-  <sourcedir>gobject-introspection-1.84.0</sourcedir>
+  <sourcefile>gobject-introspection-1.86.0.tar.xz</sourcefile>
+  <sourcedir>gobject-introspection-1.86.0</sourcedir>
   <unpack/>
-  <configure>bWVzb24gc2V0dXAgZ2ktYnVpbGQgXA0KICAgICAgICAgICAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIA0K</configure>
+  <configure>bWVzb24gc2V0dXAgZ2ktYnVpbGQgXA0KICAgICAgICAgICAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlDQo=</configure>
   <build>bmluamEgLUMgZ2ktYnVpbGQNCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgICAgICBuaW5qYSAtQyBnaS1idWlsZCB0ZXN0DQpmaQ0K</build>
   <install>bmluamEgLUMgZ2ktYnVpbGQgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>

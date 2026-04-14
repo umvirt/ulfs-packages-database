@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>xorgproto</code>
   <description>VGhlIHhvcmdwcm90byBwYWNrYWdlIHByb3ZpZGVzIHRoZSBoZWFkZXIgZmlsZXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFggV2luZG93IHN5c3RlbSwgYW5kIHRvIGFsbG93IG90aGVyIGFwcGxpY2F0aW9ucyB0byBidWlsZCBhZ2FpbnN0IHRoZSBpbnN0YWxsZWQgWCBXaW5kb3cgc3lzdGVtLg==</description>
-  <sourcefile>xorgproto-2024.1.tar.xz</sourcefile>
-  <sourcedir>xorgproto-2024.1</sourcedir>
+  <sourcefile>xorgproto-2025.1.tar.xz</sourcefile>
+  <sourcedir>xorgproto-2025.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAuLg0K</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>I3NsZWVwIG5lZWRlZCB0byBmaW5kIGluc3RhbGxlZCBmaWxlcyANCnNsZWVwIDENCg0KY2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQptdiAtdiAkWE9SR19QUkVGSVgvc2hhcmUvZG9jL3hvcmdwcm90b3ssLTIwMjQuMX0NCg0KZmkNCg==</install>
+  <install>I3NsZWVwIG5lZWRlZCB0byBmaW5kIGluc3RhbGxlZCBmaWxlcyANCnNsZWVwIDENCg0KY2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQptdiAtdiAkWE9SR19QUkVGSVgvc2hhcmUvZG9jL3hvcmdwcm90b3ssLTIwMjUuMX0NCg0KZmkNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

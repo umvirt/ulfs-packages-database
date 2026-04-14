@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>harfbuzz</code>
   <description>VGhlIEhhcmZCdXp6IHBhY2thZ2UgY29udGFpbnMgYW4gT3BlblR5cGUgdGV4dCBzaGFwaW5nIGVuZ2luZS4NCg==</description>
-  <sourcefile>harfbuzz-11.4.1.tar.xz</sourcefile>
-  <sourcedir>harfbuzz-11.4.1</sourcedir>
+  <sourcefile>harfbuzz-12.3.2.tar.xz</sourcefile>
+  <sourcedir>harfbuzz-12.3.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EZ3JhcGhpdGUyPWVuYWJsZWQ=</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCg0KbmluamEgdGVzdA0KDQpmaQ0KDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>glib-gobject</code>

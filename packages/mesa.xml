@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>mesa</code>
   <description>TWVzYSBpcyBhbiBPcGVuR0wgY29tcGF0aWJsZSAzRCBncmFwaGljcyBsaWJyYXJ5Lg==</description>
-  <sourcefile>mesa-25.1.8.tar.xz</sourcefile>
-  <sourcedir>mesa-25.1.8</sourcedir>
+  <sourcefile>mesa-25.3.5.tar.xz</sourcefile>
+  <sourcedir>mesa-25.3.5</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0kWE9SR19QUkVGSVggICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIHBsYXRmb3Jtcz14MTEsd2F5bGFuZCBcDQogICAgICAtRCBnYWxsaXVtLWRyaXZlcnM9cmFkZW9uc2kscjMwMCxyNjAwLGxsdm1waXBlLHNvZnRwaXBlLHN2Z2EsdmlyZ2wsaTkxNSxpcmlzLHppbmsgIFwNCiAgICAgIC1EIHZ1bGthbi1kcml2ZXJzPWFtZCxzd3Jhc3QsdmlydGlvLGludGVsLGludGVsX2hhc3ZrICAgXA0KICAgICAgLUQgdmFsZ3JpbmQ9ZGlzYWJsZWQgICAgIFwNCiAgICAgIC1EIGdhbGxpdW0tcnVzdGljbD1mYWxzZSBcDQogICAgICAtRCBhbWRncHUtdmlydGlvPXRydWUgXA0KICAgICAgLUQgbGlidW53aW5kPWRpc2FibGVkICAgIA==</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI1LjEuOA0KDQpmaQ0K</install>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpjcCAtcnYgLi4vZG9jcyAtVCAvdXNyL3NoYXJlL2RvYy9tZXNhLTI1LjMuNQ0KDQpmaQ0K</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>python3-pyyaml</code>

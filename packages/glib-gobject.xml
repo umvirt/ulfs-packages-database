@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>glib-gobject</code>
   <description>VGhlIEdMaWIgcGFja2FnZSBjb250YWlucyBsb3ctbGV2ZWwgbGlicmFyaWVzIHVzZWZ1bCBmb3IgcHJvdmlkaW5nIGRhdGEgc3RydWN0dXJlIGhhbmRsaW5nIGZvciBDLCBwb3J0YWJpbGl0eSB3cmFwcGVycyBhbmQgaW50ZXJmYWNlcyBmb3IgcnVudGltZSBmdW5jdGlvbmFsaXR5IHN1Y2ggYXMgYW4gZXZlbnQgbG9vcCwgdGhyZWFkcywgZHluYW1pYyBsb2FkaW5nIGFuZCBhbiBvYmplY3Qgc3lzdGVtLg==</description>
-  <sourcefile>glib-2.84.4.tar.xz</sourcefile>
-  <sourcedir>glib-2.84.4</sourcedir>
+  <sourcefile>glib-2.86.4.tar.xz</sourcefile>
+  <sourcedir>glib-2.86.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgIFwNCiAgICAgIC1EIGludHJvc3BlY3Rpb249ZW5hYmxlZCAgXA0KICAgICAgLUQgZ2xpYl9kZWJ1Zz1kaXNhYmxlZCAgICBcDQogICAgICAtRCBtYW4tcGFnZXM9ZW5hYmxlZCAgICAgIFwNCiAgICAgIC1EIHN5c3Byb2Y9ZGlzYWJsZWQgDQo=</configure>
   <build>Y2QgICAgYnVpbGQNCm5pbmphDQo=</build>

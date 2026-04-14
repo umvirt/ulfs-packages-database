@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libXfixes</code>
   <description/>
-  <sourcefile>libXfixes-6.0.1.tar.xz</sourcefile>
-  <sourcedir>libXfixes-6.0.1</sourcedir>
+  <sourcefile>libXfixes-6.0.2.tar.xz</sourcefile>
+  <sourcedir>libXfixes-6.0.2</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgJFhPUkdfQ09ORklHICRBUkdfU1RBVElDDQo=</configure>
   <build/>

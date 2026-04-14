@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>font-alias</code>
   <description/>
-  <sourcefile>font-alias-1.0.5.tar.xz</sourcefile>
-  <sourcedir>font-alias-1.0.5</sourcedir>
+  <sourcefile>font-alias-1.0.6.tar.xz</sourcefile>
+  <sourcedir>font-alias-1.0.6</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgJFhPUkdfQ09ORklH</configure>
   <build/>
