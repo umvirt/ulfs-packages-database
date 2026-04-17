@@ -3,17 +3,17 @@
   <release>0.3</release>
   <code>nasm</code>
   <description>TkFTTSAoTmV0d2lkZSBBc3NlbWJsZXIpIGlzIGFuIDgweDg2IGFzc2VtYmxlciBkZXNpZ25lZCBmb3IgcG9ydGFiaWxpdHkgYW5kIG1vZHVsYXJpdHku</description>
-  <sourcefile>nasm-2.16.03.tar.xz</sourcefile>
-  <sourcedir>nasm-2.16.03</sourcedir>
+  <sourcefile>nasm-3.01.tar.xz</sourcefile>
+  <sourcedir>nasm-3.01</sourcedir>
   <unpack/>
-  <configure>aWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQp0YXIgLXhmIC4uL25hc20tMi4xNi4wMy14ZG9jLnRhci54eiAtLXN0cmlwLWNvbXBvbmVudHM9MQ0KDQpmaQ0KDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <configure>aWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQp0YXIgLXhmIC4uL25hc20tMy4wMS14ZG9jLnRhci54eiAtLXN0cmlwLWNvbXBvbmVudHM9MQ0KDQpmaQ0KDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtbTc1NSAtZCAgICAgICAgIC91c3Ivc2hhcmUvZG9jL25hc20tMi4xNi4wMy9odG1sICAmJg0KY3AgLXYgZG9jL2h0bWwvKi5odG1sICAgIC91c3Ivc2hhcmUvZG9jL25hc20tMi4xNi4wMy9odG1sICAmJg0KY3AgLXYgZG9jLyoue3R4dCxwcyxwZGZ9IC91c3Ivc2hhcmUvZG9jL25hc20tMi4xNi4wMw0KDQpmaQ==</install>
+  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KaW5zdGFsbCAtbTc1NSAtZCAgICAgICAgIC91c3Ivc2hhcmUvZG9jL25hc20tMy4wMS9odG1sICAmJg0KY3AgLXYgZG9jL2h0bWwvKi5odG1sICAgIC91c3Ivc2hhcmUvZG9jL25hc20tMy4wMS9odG1sICAmJg0KY3AgLXYgZG9jLyoue3R4dCxwcyxwZGZ9IC91c3Ivc2hhcmUvZG9jL25hc20tMy4wMQ0KDQpmaQ==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons>
-    <addon>nasm-2.16.03-xdoc.tar.xz</addon>
+    <addon>nasm-3.01-xdoc.tar.xz</addon>
   </addons>
   <nestings/>
   <comments/>

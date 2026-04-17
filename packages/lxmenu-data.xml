@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>lxmenu-data</code>
   <description>VGhlIExYTWVudSBEYXRhIHBhY2thZ2UgcHJvdmlkZXMgZmlsZXMgcmVxdWlyZWQgdG8gYnVpbGQgZnJlZWRlc2t0b3Aub3JnIG1lbnUgc3BlYy1jb21wbGlhbnQgZGVza3RvcCBtZW51cyBmb3IgTFhERS4NCg0K</description>
-  <sourcefile>lxmenu-data-0.1.6.tar.gz</sourcefile>
-  <sourcedir>lxmenu-data-0.1.6</sourcedir>
+  <sourcefile>lxmenu-data-0.1.7.tar.xz</sourcefile>
+  <sourcedir>lxmenu-data-0.1.7</sourcedir>
   <unpack/>
   <configure>Li9hdXRvZ2VuLnNoDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tc3lzY29uZmRpcj0vZXRj</configure>
   <build/>

@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>at-spi2-core</code>
   <description>VGhlIEF0LVNwaTIgQ29yZSBwYWNrYWdlIGNvbnRhaW5zIGEgY29tcHJlaGVuc2l2ZSBhY2Nlc3NpYmlsaXR5IGZyYW1ld29yayBmb3IgdGhlIEFzc2lzdGl2ZSBUZWNobm9sb2dpZXMgYXZhaWxhYmxlIG9uIHRoZSBHTk9NRSBwbGF0Zm9ybS4=</description>
-  <sourcefile>at-spi2-core-2.56.4.tar.xz</sourcefile>
-  <sourcedir>at-spi2-core-2.56.4</sourcedir>
+  <sourcefile>at-spi2-core-2.58.3.tar.xz</sourcefile>
+  <sourcedir>at-spi2-core-2.58.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgIFwNCiAgICAgIC1EIGd0azJfYXRrX2FkYXB0b3I9ZmFsc2UNCg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>glib</code>

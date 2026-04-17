@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-pathspec</code>
   <description>UGF0aHNwZWMgaXMgYSB1dGlsaXR5IGxpYnJhcnkgZm9yIHBhdHRlcm4gbWF0Y2hpbmcgb2YgZmlsZSBwYXRocy4=</description>
-  <sourcefile>pathspec-0.12.1.tar.gz</sourcefile>
-  <sourcedir>pathspec-0.12.1</sourcedir>
+  <sourcefile>pathspec-1.0.4.tar.gz</sourcefile>
+  <sourcedir>pathspec-1.0.4</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHBhdGhzcGVj</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHBhdGhzcGVj</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

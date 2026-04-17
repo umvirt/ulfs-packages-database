@@ -72,7 +72,7 @@
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>sqlite</code>
+      <code>!sqlite</code>
       <weight>16</weight>
     </dependance>
     <dependance>

@@ -3,20 +3,29 @@
   <release>0.3</release>
   <code>itstool</code>
   <description>SXRzdG9vbCBleHRyYWN0cyBtZXNzYWdlcyBmcm9tIFhNTCBmaWxlcyBhbmQgb3V0cHV0cyBQTyB0ZW1wbGF0ZSBmaWxlcywgdGhlbiBtZXJnZXMgdHJhbnNsYXRpb25zIGZyb20gTU8gZmlsZXMgdG8gY3JlYXRlIHRyYW5zbGF0ZWQgWE1MIGZpbGVzLg==</description>
-  <sourcefile>itstool-2.0.7.tar.bz2</sourcefile>
+  <sourcefile>itstool-2.0.7.tar.gz</sourcefile>
   <sourcedir>itstool-2.0.7</sourcedir>
   <unpack/>
-  <configure>UFlUSE9OPS91c3IvYmluL3B5dGhvbjMgLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg0K</configure>
+  <configure>UFlUSE9OPS91c3IvYmluL3B5dGhvbjMgLi9hdXRvZ2VuLnNoIC0tcHJlZml4PS91c3INCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>python3-lxml</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>docbook-xml</code>
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>itstool-2.0.7-lxml-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

@@ -24,7 +24,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>gdk-pixbuf-rustfree</code>
       <weight>4</weight>
     </dependance>
     <dependance>

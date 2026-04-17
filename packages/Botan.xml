@@ -12,7 +12,7 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>sqlite</code>
+      <code>!sqlite</code>
       <weight>1</weight>
     </dependance>
     <dependance>

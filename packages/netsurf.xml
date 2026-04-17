@@ -60,7 +60,7 @@
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>gdk-pixbuf-rustfree</code>
       <weight>13</weight>
     </dependance>
     <dependance>

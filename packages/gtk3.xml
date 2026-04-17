@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>gtk3</code>
   <description>VGhlIEdUSysgMyBwYWNrYWdlIGNvbnRhaW5zIGxpYnJhcmllcyB1c2VkIGZvciBjcmVhdGluZyBncmFwaGljYWwgdXNlciBpbnRlcmZhY2VzIGZvciBhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>gtk-3.24.50.tar.xz</sourcefile>
-  <sourcedir>gtk-3.24.50</sourcedir>
+  <sourcefile>gtk-3.24.51.tar.xz</sourcefile>
+  <sourcedir>gtk-3.24.51</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICBcDQogICAgICAgICAgICAtRG1hbj10cnVlICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtRGJyb2Fkd2F5X2JhY2tlbmQ9dHJ1ZSBcDQogICAgICAgICAgICAuLiA=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
@@ -24,7 +25,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>gdk-pixbuf-rustfree</code>
       <weight>4</weight>
     </dependance>
     <dependance>

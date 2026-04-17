@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>vte</code>
   <description>VGhlIFZURSBwYWNrYWdlIGNvbnRhaW5zIGEgdmlydHVhbCB0ZXJtaW5hbCB3aWRnZXQgZm9yIEdUSyBhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>vte-0.80.3.tar.gz</sourcefile>
-  <sourcedir>vte-0.80.3</sourcedir>
+  <sourcefile>vte-0.82.3.tar.gz</sourcefile>
+  <sourcedir>vte-0.82.3</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg0K</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkIC1lICIvZG9jZGlyID0vc0BcJEAvICd2dGUtMC43OC40J0AiIFwNCiAgICAtaSAuLi9kb2MvcmVmZXJlbmNlL21lc29uLmJ1aWxkICAgICAmJg0KbWVzb24gY29uZmlndXJlIC1EIGRvY3M9dHJ1ZSAgICAgICAgICAgICYmDQpuaW5qYQ0KDQpmaQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQoNCg==</build>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgJiYNCnJtIC12IC9ldGMvcHJvZmlsZS5kL3Z0ZS4q</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>fast_float</code>

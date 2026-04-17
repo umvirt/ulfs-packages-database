@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>gtk-doc</code>
   <description>VGhlIEdUSy1Eb2MgcGFja2FnZSBjb250YWlucyBhIGNvZGUgZG9jdW1lbnRlci4g</description>
-  <sourcefile>gtk-doc-1.34.0.tar.xz</sourcefile>
-  <sourcedir>gtk-doc-1.34.0</sourcedir>
+  <sourcefile>gtk-doc-1.35.1.tar.xz</sourcefile>
+  <sourcedir>gtk-doc-1.35.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXAgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure>Y2QgICAgYnVpbGQNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libxslt</code>

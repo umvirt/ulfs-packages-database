@@ -12,7 +12,7 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>gdk-pixbuf-rustfree</code>
       <weight>1</weight>
     </dependance>
     <dependance>

@@ -241,7 +241,7 @@
     <package>menu-cache</package>
     <package>libfm</package>
     <package>gtk2</package>
-    <package>gdk-pixbuf</package>
+    <package>gdk-pixbuf-rustfree</package>
     <package>libjpeg-turbo</package>
     <package>nasm</package>
     <package>shared-mime-info</package>
@@ -260,7 +260,7 @@
     <package>libwnck2</package>
     <package>gdk-pixbuf-xlib</package>
     <package>Python2</package>
-    <package>sqlite</package>
+    <package>!sqlite</package>
     <package>python2-pycairo</package>
     <package>python2-pygobject</package>
     <package>pygtk2</package>

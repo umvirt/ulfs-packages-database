@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-lxml</code>
   <description>bHhtbCBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgZm9yIGxpYnhzbHQgYW5kIGxpYnhtbDIu</description>
-  <sourcefile>lxml-6.0.0.tar.gz</sourcefile>
-  <sourcedir>lxml-6.0.0</sourcedir>
+  <sourcefile>lxml-6.0.2.tar.gz</sourcefile>
+  <sourcedir>lxml-6.0.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGx4bWwNCg==</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIGx4bWwNCg==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

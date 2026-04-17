@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-trove_classifiers</code>
   <description>VHJvdmUtQ2xhc3NpZmllcnMgaXMgYSBQeXRob24gbGlicmFyeSB0byBlbmNvbXBhc3MgYWxsIHZhbGlkIFB5UEkgY2xhc3NpZmllcnMgdXNlZCB0byBjYXRlZ29yaXplIHByb2plY3RzIGFuZCByZWxlYXNlcyBwZXIgUEVQIDMwMSwgZm9yIGV4YW1wbGUgVG9waWMgOjogU3lzdGVtIDo6IEZpbGVzeXN0ZW1zIGFuZCBEZXZlbG9wbWVudCBTdGF0dXMgOjogNiAtIE1hdHVyZS4=</description>
-  <sourcefile>trove_classifiers-2025.8.6.13.tar.gz</sourcefile>
-  <sourcedir>trove_classifiers-2025.8.6.13</sourcedir>
+  <sourcefile>trove_classifiers-2026.1.14.14.tar.gz</sourcefile>
+  <sourcedir>trove_classifiers-2026.1.14.14</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICcvY2FsdmVyL3MvXi8jLzskaXZlcnNpb249IjIwMjUuOC42LjEzIicgc2V0dXAucHk=</configure>
+  <configure>c2VkIC1pICcvY2FsdmVyL3MvXi8jLzskaXZlcnNpb249IjIwMjYuMS4xNC4xNCInIHNldHVwLnB5</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzPWRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHRyb3ZlLWNsYXNzaWZpZXJz</install>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHRyb3ZlLWNsYXNzaWZpZXJz</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

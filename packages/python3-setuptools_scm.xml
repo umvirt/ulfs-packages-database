@@ -3,19 +3,14 @@
   <release>0.3</release>
   <code>python3-setuptools_scm</code>
   <description>VGhlIFNldHVwdG9vbHNfc2NtIHBhY2thZ2UgaXMgdXNlZCB0byBleHRyYWN0IFB5dGhvbiBwYWNrYWdlIHZlcnNpb25zIGZyb20gZ2l0IG9yIGhnIG1ldGFkYXRhIGluc3RlYWQgb2YgZGVjbGFyaW5nIHRoZW0u</description>
-  <sourcefile>setuptools_scm-8.3.1.tar.gz</sourcefile>
-  <sourcedir>setuptools_scm-8.3.1</sourcedir>
+  <sourcefile>setuptools_scm-9.2.2.tar.gz</sourcefile>
+  <sourcedir>setuptools_scm-9.2.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHNldHVwdG9vbHNfc2Nt</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHNldHVwdG9vbHNfc2Nt</install>
   <localbuild>0</localbuild>
-  <dependances>
-    <dependance>
-      <code>python3-typing_extensions</code>
-      <weight>1</weight>
-    </dependance>
-  </dependances>
+  <dependances/>
   <patches/>
   <addons/>
   <nestings/>

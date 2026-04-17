@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libfm</code>
   <description>VGhlIGxpYmZtIHBhY2thZ2UgY29udGFpbnMgYSBsaWJyYXJ5IHVzZWQgdG8gZGV2ZWxvcCBmaWxlIG1hbmFnZXJzIHByb3ZpZGluZyBzb21lIGZpbGUgbWFuYWdlbWVudCB1dGlsaXRpZXMu</description>
-  <sourcefile>libfm-1.4.0.tar.gz</sourcefile>
-  <sourcedir>libfm-1.4.0</sourcedir>
+  <sourcefile>libfm-1.4.1.tar.xz</sourcefile>
+  <sourcedir>libfm-1.4.1</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkNGTEFHUys9IiAtV25vLWVycm9yPWluY29tcGF0aWJsZS1wb2ludGVyLXR5cGVzIg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICANCmV4cG9ydCBDRkxBR1MNCg0KLi9hdXRvZ2VuLnNoDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgIC0td2l0aC1ndGs9MiAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDDQoNCiNodHRwczovL2J1Z3ppbGxhLmdub21lLm9yZy9zaG93X2J1Zy5jZ2k/aWQ9NjU2MjMxDQogIHNlZCAtaSAtZSAncy8gLXNoYXJlZCAvIC1XbCwtTzEsLS1hcy1uZWVkZWRcMC9nJyBsaWJ0b29sDQo=</configure>
   <build/>

@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>gdk-pixbuf</code>
+      <code>gdk-pixbuf-rustfree</code>
       <weight>3</weight>
     </dependance>
     <dependance>
@@ -64,7 +64,7 @@
           <weight>0</weight>
         </dependance>
         <dependance>
-          <code>gdk-pixbuf</code>
+          <code>gdk-pixbuf-rustfree</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

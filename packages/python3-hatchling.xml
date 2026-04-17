@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-hatchling</code>
   <description>SGF0Y2hsaW5nIGlzIGFuIGV4dGVuc2libGUsIHN0YW5kYXJkcyBjb21wbGlhbnQgYnVpbGQgYmFja2VuZCBmb3IgcHl0aG9uIG1vZHVsZXMu</description>
-  <sourcefile>hatchling-1.27.0.tar.gz</sourcefile>
-  <sourcedir>hatchling-1.27.0</sourcedir>
+  <sourcefile>hatchling-1.28.0.tar.gz</sourcefile>
+  <sourcedir>hatchling-1.28.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGhhdGNobGluZw==</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIGhhdGNobGluZw==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
