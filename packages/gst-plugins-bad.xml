@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gst-plugins-bad</code>
   <description>VGhlIEdTdHJlYW1lciBCYWQgUGx1Zy1pbnMgcGFja2FnZSBjb250YWlucyBhIHNldCBvZiBwbHVnLWlucyB0aGF0IGFyZW4ndCB1cCB0byBwYXIgY29tcGFyZWQgdG8gdGhlIHJlc3QuIFRoZXkgbWlnaHQgYmUgY2xvc2UgdG8gYmVpbmcgZ29vZCBxdWFsaXR5LCBidXQgdGhleSdyZSBtaXNzaW5nIHNvbWV0aGluZyAtIGJlIGl0IGEgZ29vZCBjb2RlIHJldmlldywgc29tZSBkb2N1bWVudGF0aW9uLCBhIHNldCBvZiB0ZXN0cywgYSByZWFsIGxpdmUgbWFpbnRhaW5lciwgb3Igc29tZSBhY3R1YWwgd2lkZSB1c2Uu</description>
-  <sourcefile>gst-plugins-bad-1.26.5.tar.xz</sourcefile>
-  <sourcedir>gst-plugins-bad-1.26.5</sourcedir>
+  <sourcefile>gst-plugins-bad-1.28.1.tar.xz</sourcefile>
+  <sourcedir>gst-plugins-bad-1.28.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIGdwbD1lbmFibGVkIA==</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

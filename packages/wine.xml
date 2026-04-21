@@ -24,7 +24,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>SDL3</code>
       <weight>4</weight>
     </dependance>
     <dependance>
@@ -87,7 +87,7 @@
           <weight>0</weight>
         </dependance>
         <dependance>
-          <code>SDL2</code>
+          <code>SDL3</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

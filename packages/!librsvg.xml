@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>librsvg</code>
+  <code>!librsvg</code>
   <description>VGhlIGxpYnJzdmcgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgYW5kIHRvb2xzIHVzZWQgdG8gbWFuaXB1bGF0ZSwgY29udmVydCBhbmQgdmlldyBTY2FsYWJsZSBWZWN0b3IgR3JhcGhpYyAoU1ZHKSBpbWFnZXMu</description>
   <sourcefile>librsvg-2.40.21.tar.xz</sourcefile>
   <sourcedir>librsvg-2.40.21</sourcedir>
@@ -28,7 +28,7 @@
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>libcroco</code>
+      <code>!libcroco</code>
       <weight>5</weight>
     </dependance>
   </dependances>

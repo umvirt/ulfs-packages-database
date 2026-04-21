@@ -61,7 +61,7 @@
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>pipewire</code>
+      <code>pipewire-base</code>
       <weight>13</weight>
     </dependance>
     <dependance>

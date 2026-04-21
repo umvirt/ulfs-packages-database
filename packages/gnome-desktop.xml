@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gnome-desktop</code>
   <description>VGhlIEdOT01FIERlc2t0b3AgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCBwcm92aWRlcyBhbiBBUEkgc2hhcmVkIGJ5IHNldmVyYWwgYXBwbGljYXRpb25zIG9uIHRoZSBHTk9NRSBEZXNrdG9wLg==</description>
-  <sourcefile>gnome-desktop-44.3.tar.xz</sourcefile>
-  <sourcedir>gnome-desktop-44.3</sourcedir>
+  <sourcefile>gnome-desktop-44.5.tar.xz</sourcefile>
+  <sourcedir>gnome-desktop-44.5</sourcedir>
   <unpack/>
   <configure/>
   <build/>

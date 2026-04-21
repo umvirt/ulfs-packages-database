@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>OpenLDAP-client</code>
   <description>VGhlIE9wZW5MREFQIHBhY2thZ2UgcHJvdmlkZXMgYW4gb3BlbiBzb3VyY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIExpZ2h0d2VpZ2h0IERpcmVjdG9yeSBBY2Nlc3MgUHJvdG9jb2wu</description>
-  <sourcefile>openldap-2.6.10.tgz</sourcefile>
-  <sourcedir>openldap-2.6.10</sourcedir>
+  <sourcefile>openldap-2.6.12.tgz</sourcefile>
+  <sourcedir>openldap-2.6.12</sourcedir>
   <unpack/>
-  <configure>YXV0b2NvbmYgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZHluYW1pYyAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXNsYXBkIA0KDQoNCg==</configure>
+  <configure>YXV0b2NvbmYgJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZHluYW1pYyAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXNsYXBkDQoNCg0K</configure>
   <build>bWFrZSBkZXBlbmQgJiYNCm1ha2U=</build>
-  <install>bWFrZSBpbnN0YWxs</install>
+  <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -18,7 +18,7 @@
   </dependances>
   <patches>
     <patch>
-      <filename>openldap-2.6.10-consolidated-1.patch</filename>
+      <filename>openldap-2.6.12-consolidated-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

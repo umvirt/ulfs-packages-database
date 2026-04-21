@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>python3-pycairo</code>
   <description>UHlDYWlybyBwcm92aWRlcyBQeXRob24gYmluZGluZ3MgdG8gQ2Fpcm8u</description>
-  <sourcefile>pycairo-1.28.0.tar.gz</sourcefile>
-  <sourcedir>pycairo-1.28.0</sourcedir>
+  <sourcefile>pycairo-1.29.0.tar.gz</sourcefile>
+  <sourcedir>pycairo-1.29.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>cairo</code>

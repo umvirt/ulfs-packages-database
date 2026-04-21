@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>grub2efi</code>
   <description>VGhlIEdSVUIgcGFja2FnZSBwcm92aWRlcyBHUmFuZCBVbmlmaWVkIEJvb3Rsb2FkZXIgd2l0aCBVRUZJIHN1cHBvcnQsIHdoaWNoIGlzIG5vdCBlbmFibGVkIGZvciBHUlVCIGJ1aWx0IGluIExGUy4NCg0K</description>
-  <sourcefile>grub-2.12.tar.xz</sourcefile>
-  <sourcedir>grub-2.12</sourcedir>
+  <sourcefile>grub-2.14.tar.xz</sourcefile>
+  <sourcedir>grub-2.14</sourcedir>
   <unpack/>
-  <configure>ZWNobyBkZXBlbmRzIGJsaSBwYXJ0X2dwdCA+IGdydWItY29yZS9leHRyYV9kZXBzLmxzdA0KDQpta2RpciAtcHYgL3Vzci9zaGFyZS9mb250cy91bmlmb250ICYmDQpndW56aXAgLWMgLi4vdW5pZm9udC0xNi4wLjA0LnBjZi5neiA+IC91c3Ivc2hhcmUvZm9udHMvdW5pZm9udC91bmlmb250LnBjZg0KDQp1bnNldCB7QyxDUFAsQ1hYLExEfUZMQUdTDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1lZmllbXUgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWdydWItbWtmb250IFwNCiAgICAgICAgICAgIC0td2l0aC1wbGF0Zm9ybT1lZmkgIFwNCiAgICAgICAgICAgIC0tdGFyZ2V0PXg4Nl82NCAgICAgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS13ZXJyb3INCg0K</configure>
+  <configure>bWtkaXIgLXB2IC91c3Ivc2hhcmUvZm9udHMvdW5pZm9udCAmJg0KemNhdCAuLi91bmlmb250LTE3LjAuMDMucGNmLmd6ID4gL3Vzci9zaGFyZS9mb250cy91bmlmb250L3VuaWZvbnQucGNmDQoNCnVuc2V0IHtDLENQUCxDWFgsTER9RkxBR1MNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWVmaWVtdSAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXBsYXRmb3JtPWVmaSAgXA0KICAgICAgICAgICAgLS10YXJnZXQ9eDg2XzY0ICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXdlcnJvcg0KDQo=</configure>
   <build/>
   <install>bWFrZSAtQyBncnViLWNvcmUgaW5zdGFsbA0KDQppbnN0YWxsIC12bTc1NSBncnViLW1rZm9udCAvdXNyL2Jpbi8gJiYNCmluc3RhbGwgLXZtNjQ0IGFzY2lpLmggd2lkdGhzcGVjLmggKi5wZjIgL3Vzci9zaGFyZS9ncnViLw0KDQppbnN0YWxsIC12bTc1NSBncnViLW1vdW50IC91c3IvYmluLw==</install>
   <localbuild>0</localbuild>
@@ -38,7 +38,7 @@
   </dependances>
   <patches/>
   <addons>
-    <addon>unifont-16.0.04.pcf.gz</addon>
+    <addon>unifont-17.0.03.pcf.gz</addon>
   </addons>
   <nestings/>
   <comments/>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>rest</code>
-  <description>VGhlIHJlc3QgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCB3YXMgZGVzaWduZWQgdG8gbWFrZSBpdCBlYXNpZXIgdG8gYWNjZXNzIHdlYiBzZXJ2aWNlcyB0aGF0IGNsYWltIHRvIGJlICJSRVNUZnVsIi4gSXQgaW5jbHVkZXMgY29udmVuaWVuY2Ugd3JhcHBlcnMgZm9yIGxpYnNvdXAgYW5kIGxpYnhtbCB0byBlYXNlIHJlbW90ZSB1c2Ugb2YgdGhlIFJFU1RmdWwgQVBJLg0KDQo=</description>
-  <sourcefile>rest-0.9.1.tar.xz</sourcefile>
-  <sourcedir>rest-0.9.1</sourcedir>
+  <code>librest</code>
+  <description>VGhlIGxpYnJlc3QgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdGhhdCBpcyBkZXNpZ25lZCB0byBtYWtlIGl0IGVhc2llciB0byBhY2Nlc3Mgd2ViIHNlcnZpY2VzIHRoYXQgY2xhaW0gdG8gYmUgIlJFU1RmdWwiLiA=</description>
+  <sourcefile>librest-0.10.2.tar.xz</sourcefile>
+  <sourcedir>librest-0.10.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGV4YW1wbGVzPWZhbHNlICAgIFwNCiAgICAgICAgICAgIC1EZ3RrX2RvYz1mYWxzZSAgICAgXA0KICAgICAgICAgICAgLi4gICAgICAgDQo=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>make-ca</code>

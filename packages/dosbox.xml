@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>SDL3</code>
       <weight>3</weight>
     </dependance>
     <dependance>

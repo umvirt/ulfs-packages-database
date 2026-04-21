@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>v4l-utils</code>
   <description>djRsLXV0aWxzIHByb3ZpZGVzIGEgc2VyaWVzIG9mIHV0aWxpdGllcyBmb3IgbWVkaWEgZGV2aWNlcywgYWxsb3dpbmcgdG8gaGFuZGxlIHRoZSBwcm9wcmlldGFyeSBmb3JtYXRzIGF2YWlsYWJsZSBhdCBtb3N0IHdlYmNhbXMgKGxpYnY0bCksIGFuZCBwcm92aWRpbmcgdG9vbHMgdG8gdGVzdCBWNEwgZGV2aWNlcy4=</description>
-  <sourcefile>v4l-utils-1.30.1.tar.xz</sourcefile>
-  <sourcedir>v4l-utils-1.30.1</sourcedir>
+  <sourcefile>v4l-utils-1.32.0.tar.xz</sourcefile>
+  <sourcedir>v4l-utils-1.32.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC0tbGliZGlyPS91c3IvbGliICAgXA0KICAgICAgLUQgZ2NvbnY9ZGlzYWJsZWQgICBcDQogICAgICAtRCBkb3h5Z2VuLWRvYz1kaXNhYmxlZA0K</configure>
   <build/>

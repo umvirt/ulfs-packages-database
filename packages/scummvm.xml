@@ -48,7 +48,7 @@
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>SDL3</code>
       <weight>10</weight>
     </dependance>
     <dependance>

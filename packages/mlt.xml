@@ -37,7 +37,7 @@
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>SDL3</code>
       <weight>7</weight>
     </dependance>
     <dependance>

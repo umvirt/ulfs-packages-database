@@ -7,16 +7,16 @@
   <sourcedir>efivar-39</sourcedir>
   <unpack/>
   <configure>Iw0K</configure>
-  <build>bWFrZQ0K</build>
-  <install>bWFrZSBpbnN0YWxsIExJQkRJUj0vdXNyL2xpYg==</install>
+  <build>bWFrZSBFTkFCTEVfRE9DUz0w</build>
+  <install>bWFrZSBpbnN0YWxsIExJQkRJUj0vdXNyL2xpYg0KDQppbnN0YWxsIC12bTY0NCBkb2NzL2VmaXZhci4xIC91c3Ivc2hhcmUvbWFuL21hbjEgJiYNCmluc3RhbGwgLXZtNjQ0IGRvY3MvKi4zICAgICAgL3Vzci9zaGFyZS9tYW4vbWFuMw0K</install>
   <localbuild>0</localbuild>
-  <dependances>
-    <dependance>
-      <code>mandoc</code>
-      <weight>1</weight>
-    </dependance>
-  </dependances>
-  <patches/>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>efivar-39-upstream_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

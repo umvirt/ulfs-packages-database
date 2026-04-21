@@ -80,11 +80,11 @@
       <weight>17</weight>
     </dependance>
     <dependance>
-      <code>libcroco</code>
+      <code>!libcroco</code>
       <weight>18</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>!librsvg</code>
       <weight>19</weight>
     </dependance>
     <dependance>

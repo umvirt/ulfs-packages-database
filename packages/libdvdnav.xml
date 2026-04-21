@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libdvdnav</code>
   <description>bGliZHZkbmF2IGlzIGEgbGlicmFyeSB0aGF0IGFsbG93cyBlYXN5IHVzZSBvZiBzb3BoaXN0aWNhdGVkIERWRCBuYXZpZ2F0aW9uIGZlYXR1cmVzIHN1Y2ggYXMgRFZEIG1lbnVzLCBtdWx0aWFuZ2xlIHBsYXliYWNrIGFuZCBldmVuIGludGVyYWN0aXZlIERWRCBnYW1lcy4=</description>
-  <sourcefile>libdvdnav-6.1.1.tar.bz2</sourcefile>
-  <sourcedir>libdvdnav-6.1.1</sourcedir>
+  <sourcefile>libdvdnav-7.0.0.tar.xz</sourcefile>
+  <sourcedir>libdvdnav-7.0.0</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGliZHZkbmF2LTYuMS4xIA==</configure>
+  <configure>c2VkIC1pICIvZ2V0X29wdGlvbi9zL2xpYmR2ZG5hdi8mLTcuMC4wLyIgbWVzb24uYnVpbGQNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg0K</configure>
   <build/>
-  <install/>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCnJtIC1mdiAvdXNyL2xpYi9saWJkdmRuYXYuYQ==</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libdvdread</code>

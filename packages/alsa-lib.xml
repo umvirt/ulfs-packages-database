@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>alsa-lib</code>
   <description>VGhlIEFMU0EgTGlicmFyeSBwYWNrYWdlIGNvbnRhaW5zIHRoZSBBTFNBIGxpYnJhcnkgdXNlZCBieSBwcm9ncmFtcyAoaW5jbHVkaW5nIEFMU0EgVXRpbGl0aWVzKSByZXF1aXJpbmcgYWNjZXNzIHRvIHRoZSBBTFNBIHNvdW5kIGludGVyZmFjZS4=</description>
-  <sourcefile>alsa-lib-1.2.14.tar.bz2</sourcefile>
-  <sourcedir>alsa-lib-1.2.14</sourcedir>
+  <sourcefile>alsa-lib-1.2.15.3.tar.bz2</sourcefile>
+  <sourcedir>alsa-lib-1.2.15.3</sourcedir>
   <unpack/>
-  <configure>c2VkICdzL3BsYXltaWRpMS8vJyAtaSB0ZXN0L01ha2VmaWxlLmFtICYmDQphdXRvcmVjb25mIC1maQ0KDQouL2NvbmZpZ3VyZQ==</configure>
+  <configure/>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX0RPQ1VNRU5UQVRJT04iID09ICJZRVMiIF1dDQp0aGVuDQoNCm1ha2UgZG9jDQoNCmZp</build>
-  <install>bWFrZSBpbnN0YWxsDQoNCnRhciAtQyAvdXNyL3NoYXJlL2Fsc2EgLS1zdHJpcC1jb21wb25lbnRzPTEgLXhmIC4uL2Fsc2EtdWNtLWNvbmYtMS4yLjE0LnRhci5iejINCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQppbnN0YWxsIC12IC1kIC1tNzU1IC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xNC9odG1sL3NlYXJjaCAmJg0KaW5zdGFsbCAtdiAtbTY0NCBkb2MvZG94eWdlbi9odG1sLyouKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjE0L2h0bWwgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2RveHlnZW4vaHRtbC9zZWFyY2gvKiBcDQogICAgICAgICAgICAgICAgL3Vzci9zaGFyZS9kb2MvYWxzYS1saWItMS4yLjE0L2h0bWwvc2VhcmNoDQoNCmZp</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQp0YXIgLUMgL3Vzci9zaGFyZS9hbHNhIC0tc3RyaXAtY29tcG9uZW50cz0xIC14ZiAuLi9hbHNhLXVjbS1jb25mLTEuMi4xNS4zLnRhci5iejINCg0KaWYgW1sgIiRVTEZTX1BLR19ET0NVTUVOVEFUSU9OIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQppbnN0YWxsIC12IC1kIC1tNzU1IC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xNS4zL2h0bWwvc2VhcmNoICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy9kb3h5Z2VuL2h0bWwvKi4qIFwNCiAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9hbHNhLWxpYi0xLjIuMTUuMy9odG1sICYmDQppbnN0YWxsIC12IC1tNjQ0IGRvYy9kb3h5Z2VuL2h0bWwvc2VhcmNoLyogXA0KICAgICAgICAgICAgICAgIC91c3Ivc2hhcmUvZG9jL2Fsc2EtbGliLTEuMi4xNS4zL2h0bWwvc2VhcmNoDQoNCmZp</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -18,7 +18,7 @@
   </dependances>
   <patches/>
   <addons>
-    <addon>alsa-ucm-conf-1.2.14.tar.bz2</addon>
+    <addon>alsa-ucm-conf-1.2.15.3.tar.bz2</addon>
   </addons>
   <nestings/>
   <comments/>

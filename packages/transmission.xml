@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>!librsvg</code>
       <weight>3</weight>
     </dependance>
     <dependance>

@@ -15,10 +15,6 @@
       <code>LMDB</code>
       <weight>1</weight>
     </dependance>
-    <dependance>
-      <code>berkeleydb</code>
-      <weight>2</weight>
-    </dependance>
   </dependances>
   <patches>
     <patch>

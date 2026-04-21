@@ -12,7 +12,7 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>librsvg</code>
+      <code>!librsvg</code>
       <weight>1</weight>
     </dependance>
     <dependance>

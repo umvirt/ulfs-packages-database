@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>adwaita-icon-theme</code>
   <description>VGhlIEFkd2FpdGEgSWNvbiBUaGVtZSBwYWNrYWdlIGNvbnRhaW5zIGFuIGljb24gdGhlbWUgZm9yIEdUSysgMyBhbmQgR1RLIDRhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>adwaita-icon-theme-48.1.tar.xz</sourcefile>
-  <sourcedir>adwaita-icon-theme-48.1</sourcedir>
+  <sourcefile>adwaita-icon-theme-49.0.tar.xz</sourcefile>
+  <sourcedir>adwaita-icon-theme-49.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLi4=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gtk4</code>
@@ -26,10 +27,6 @@
     <dependance>
       <code>gtk3</code>
       <weight>4</weight>
-    </dependance>
-    <dependance>
-      <code>librsvg</code>
-      <weight>5</weight>
     </dependance>
   </dependances>
   <patches/>

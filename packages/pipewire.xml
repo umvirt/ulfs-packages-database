@@ -2,39 +2,18 @@
 <package>
   <release>0.3</release>
   <code>pipewire</code>
-  <description>VGhlIHBpcGV3aXJlIHBhY2thZ2UgY29udGFpbnMgYSBzZXJ2ZXIgYW5kIHVzZXJzcGFjZSBBUEkgdG8gaGFuZGxlIG11bHRpbWVkaWEgcGlwZWxpbmVzLiBUaGlzIGluY2x1ZGVzIGEgdW5pdmVyc2FsIEFQSSB0byBjb25uZWN0IHRvIG11bHRpbWVkaWEgZGV2aWNlcywgYXMgd2VsbCBhcyBzaGFyaW5nIG11bHRpbWVkaWEgZmlsZXMgYmV0d2VlbiBhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>pipewire-1.4.7.tar.bz2</sourcefile>
-  <sourcedir>pipewire-1.4.7</sourcedir>
+  <description>VGhlIHBpcGV3aXJlIHBhY2thZ2UgY29udGFpbnMgYSBzZXJ2ZXIgYW5kIHVzZXJzcGFjZSBBUEkgdG8gaGFuZGxlIG11bHRpbWVkaWEgcGlwZWxpbmVzLiBUaGlzIGluY2x1ZGVzIGEgdW5pdmVyc2FsIEFQSSB0byBjb25uZWN0IHRvIG11bHRpbWVkaWEgZGV2aWNlcywgYXMgd2VsbCBhcyBzaGFyaW5nIG11bHRpbWVkaWEgZmlsZXMgYmV0d2VlbiBhcHBsaWNhdGlvbnMuVGhlIHBpcGV3aXJlIHBhY2thZ2UgY29udGFpbnMgYSBzZXJ2ZXIgYW5kIHVzZXJzcGFjZSBBUEkgdG8gaGFuZGxlIG11bHRpbWVkaWEgcGlwZWxpbmVzLiBUaGlzIGluY2x1ZGVzIGEgdW5pdmVyc2FsIEFQSSB0byBjb25uZWN0IHRvIG11bHRpbWVkaWEgZGV2aWNlcywgYXMgd2VsbCBhcyBzaGFyaW5nIG11bHRpbWVkaWEgZmlsZXMgYmV0d2VlbiBhcHBsaWNhdGlvbnMu</description>
+  <sourcefile/>
+  <sourcedir/>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgIFwNCiAgICAgIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgIC1Ec2Vzc2lvbi1tYW5hZ2Vycz0iW10iDQo=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
-  <install/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>Iw==</install>
   <localbuild>0</localbuild>
-  <template>meson</template>
   <dependances>
     <dependance>
-      <code>gstreamer</code>
-      <weight>1</weight>
-    </dependance>
-    <dependance>
-      <code>gst-plugins-base</code>
-      <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>pulseaudio</code>
-      <weight>3</weight>
-    </dependance>
-    <dependance>
-      <code>bluez</code>
-      <weight>4</weight>
-    </dependance>
-    <dependance>
-      <code>sbc</code>
-      <weight>5</weight>
-    </dependance>
-    <dependance>
-      <code>v4l-utils</code>
-      <weight>6</weight>
+      <code>wireplumber</code>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>

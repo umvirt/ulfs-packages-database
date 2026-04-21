@@ -329,8 +329,8 @@
     <package>iso-codes</package>
     <package>gtk4</package>
     <package>adwaita-icon-theme</package>
-    <package>libcroco</package>
-    <package>librsvg</package>
+    <package>!libcroco</package>
+    <package>!librsvg</package>
     <package>gcr4</package>
     <package>json-glib</package>
     <package>glib-networking</package>
@@ -338,7 +338,7 @@
     <package>libpsl</package>
     <package>nghttp2</package>
     <package>libsoup3</package>
-    <package>rest</package>
+    <package>librest</package>
     <package>totem-pl-parser</package>
     <package>yelp-xsl</package>
     <package>!GConf</package>
@@ -367,7 +367,7 @@
     <package>libdvdread</package>
     <package>libdvdnav</package>
     <package>soundtouch</package>
-    <package>SDL2</package>
+    <package>SDL3</package>
     <package>sdl12-compat</package>
     <package>libwebp</package>
     <package>openjpeg</package>
@@ -513,7 +513,7 @@
     <package>ibus</package>
     <package>sbc</package>
     <package>v4l-utils</package>
-    <package>pipewire</package>
+    <package>pipewire-base</package>
     <package>!mutter</package>
     <package>libsass</package>
     <package>sassc</package>
@@ -1848,5 +1848,7 @@
     <package>python3-sphinx</package>
     <package>twin</package>
     <package>hostapd</package>
+    <package>wireplumber</package>
+    <package>pipewire</package>
   </packages>
 </packages>

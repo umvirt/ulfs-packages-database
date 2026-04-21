@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>libgpg-error</code>
   <description>VGhlIGxpYmdwZy1lcnJvciBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0aGF0IGRlZmluZXMgY29tbW9uIGVycm9yIHZhbHVlcyBmb3IgYWxsIEdudVBHIGNvbXBvbmVudHMu</description>
-  <sourcefile>libgpg-error-1.55.tar.bz2</sourcefile>
-  <sourcedir>libgpg-error-1.55</sourcedir>
+  <sourcefile>libgpg-error-1.59.tar.bz2</sourcefile>
+  <sourcedir>libgpg-error-1.59</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>
-  <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNjQ0IC1EIFJFQURNRSAvdXNyL3NoYXJlL2RvYy9saWJncGctZXJyb3ItMS41NS9SRUFETUUNCg==</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQppbnN0YWxsIC12IC1tNjQ0IC1EIFJFQURNRSAvdXNyL3NoYXJlL2RvYy9saWJncGctZXJyb3ItMS41OS9SRUFETUUNCg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

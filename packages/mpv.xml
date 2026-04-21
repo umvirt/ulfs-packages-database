@@ -33,7 +33,7 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>SDL2</code>
+      <code>SDL3</code>
       <weight>6</weight>
     </dependance>
     <dependance>
@@ -57,7 +57,7 @@
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>pipewire</code>
+      <code>pipewire-base</code>
       <weight>12</weight>
     </dependance>
     <dependance>

@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-Markdown</code>
   <description>TWFya2Rvd24gaXMgYSBQeXRob24gcGFyc2VyIGZvciBKb2huIEdydWJlcidzIE1hcmtkb3duIHNwZWNpZmljYXRpb24u</description>
-  <sourcefile>markdown-3.8.2.tar.gz</sourcefile>
-  <sourcedir>markdown-3.8.2</sourcedir>
+  <sourcefile>markdown-3.10.2.tar.gz</sourcefile>
+  <sourcedir>markdown-3.10.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIE1hcmtkb3duDQo=</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIE1hcmtkb3duDQoNCg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

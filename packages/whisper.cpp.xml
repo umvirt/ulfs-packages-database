@@ -13,7 +13,7 @@
   <template>cmake-make</template>
   <dependances>
     <dependance>
-      <code>SDL2</code>
+      <code>SDL3</code>
       <weight>1</weight>
     </dependance>
     <dependance>

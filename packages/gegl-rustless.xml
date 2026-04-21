@@ -36,7 +36,7 @@
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>librsvg</code>
+      <code>!librsvg</code>
       <weight>7</weight>
     </dependance>
     <dependance>

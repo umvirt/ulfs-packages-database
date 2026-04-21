@@ -8,8 +8,9 @@
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgXA0KICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgIC1EbGlicHJveHk9ZGlzYWJsZWQgXA0KICAgLi4=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmkNCg==</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>glib</code>
