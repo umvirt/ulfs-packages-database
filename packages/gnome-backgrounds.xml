@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gnome-backgrounds</code>
   <description>VGhlIEdOT01FIEJhY2tncm91bmRzIHBhY2thZ2UgY29udGFpbnMgYSBjb2xsZWN0aW9uIG9mIGdyYXBoaWNzIGZpbGVzIHdoaWNoIGNhbiBiZSB1c2VkIGFzIGJhY2tncm91bmRzIGluIHRoZSBHTk9NRSBEZXNrdG9wIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>gnome-backgrounds-48.2.1.tar.xz</sourcefile>
-  <sourcedir>gnome-backgrounds-48.2.1</sourcedir>
+  <sourcefile>gnome-backgrounds-49.0.tar.xz</sourcefile>
+  <sourcedir>gnome-backgrounds-49.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

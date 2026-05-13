@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>mpg123</code>
   <description>VGhlIG1wZzEyMyBwYWNrYWdlIGNvbnRhaW5zIGEgY29uc29sZS1iYXNlZCBNUDMgcGxheWVyLiBJdCBjbGFpbXMgdG8gYmUgdGhlIGZhc3Rlc3QgTVAzIGRlY29kZXIgZm9yIFVuaXgu</description>
-  <sourcefile>mpg123-1.33.2.tar.bz2</sourcefile>
-  <sourcedir>mpg123-1.33.2</sourcedir>
+  <sourcefile>mpg123-1.33.4.tar.bz2</sourcefile>
+  <sourcedir>mpg123-1.33.4</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libpcap</code>
   <description>bGlicGNhcCBwcm92aWRlcyBmdW5jdGlvbnMgZm9yIHVzZXItbGV2ZWwgcGFja2V0IGNhcHR1cmUsIHVzZWQgaW4gbG93LWxldmVsIG5ldHdvcmsgbW9uaXRvcmluZy4=</description>
-  <sourcefile>libpcap-1.10.5.tar.gz</sourcefile>
-  <sourcedir>libpcap-1.10.5</sourcedir>
+  <sourcefile>libpcap-1.10.6.tar.gz</sourcefile>
+  <sourcedir>libpcap-1.10.6</sourcedir>
   <unpack/>
   <configure/>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgIT0gIllFUyIgXV0NCnRoZW4NCg0Kc2VkIC1pICcvSU5TVEFMTF9EQVRBLipsaWJwY2FwLmFcfFJBTkxJQi4qbGlicGNhcC5hLyBzL14vIy8nIE1ha2VmaWxlDQoNCmZp</build>

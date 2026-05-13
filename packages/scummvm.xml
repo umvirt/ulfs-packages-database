@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>curl</code>
       <weight>1</weight>
     </dependance>
@@ -46,10 +50,6 @@
     <dependance>
       <code>libtheora</code>
       <weight>9</weight>
-    </dependance>
-    <dependance>
-      <code>SDL3</code>
-      <weight>10</weight>
     </dependance>
     <dependance>
       <code>flac</code>

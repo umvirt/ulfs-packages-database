@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>lcms2</code>
   <description>VGhlIExpdHRsZSBDb2xvciBNYW5hZ2VtZW50IFN5c3RlbSBpcyBhIHNtYWxsLWZvb3RwcmludCBjb2xvciBtYW5hZ2VtZW50IGVuZ2luZSwgd2l0aCBzcGVjaWFsIGZvY3VzIG9uIGFjY3VyYWN5IGFuZCBwZXJmb3JtYW5jZS4gSXQgdXNlcyB0aGUgSW50ZXJuYXRpb25hbCBDb2xvciBDb25zb3J0aXVtIHN0YW5kYXJkIChJQ0MpLCB3aGljaCBpcyB0aGUgbW9kZXJuIHN0YW5kYXJkIGZvciBjb2xvciBtYW5hZ2VtZW50Lg==</description>
-  <sourcefile>lcms2-2.17.tar.gz</sourcefile>
-  <sourcedir>lcms2-2.17</sourcedir>
+  <sourcefile>lcms2-2.18.tar.gz</sourcefile>
+  <sourcedir>lcms2-2.18</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkQVJHX1NUQVRJQw==</configure>
   <build>bWFrZQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG1ha2UgY2hlY2sNCmZp</build>

@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>libnotify</code>
   <description>VGhlIGxpYm5vdGlmeSBsaWJyYXJ5IGlzIHVzZWQgdG8gc2VuZCBkZXNrdG9wIG5vdGlmaWNhdGlvbnMgdG8gYSBub3RpZmljYXRpb24gZGFlbW9uLCBhcyBkZWZpbmVkIGluIHRoZSBEZXNrdG9wIE5vdGlmaWNhdGlvbnMgc3BlYy4=</description>
-  <sourcefile>libnotify-0.8.6.tar.xz</sourcefile>
-  <sourcedir>libnotify-0.8.6</sourcedir>
+  <sourcefile>libnotify-0.8.8.tar.xz</sourcefile>
+  <sourcedir>libnotify-0.8.8</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRGd0a19kb2M9ZmFsc2UgICAgIFwNCiAgICAgICAgICAgIC1EbWFuPWZhbHNlICAgICAgICAgXA0KICAgICAgICAgICAgLi4gICAgICAgIA0K</configure>
   <build/>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgJiYNCmlmIFsgLWUgL3Vzci9zaGFyZS9kb2MvbGlibm90aWZ5IF07IHRoZW4NCiAgcm0gLXJmIC91c3Ivc2hhcmUvZG9jL2xpYm5vdGlmeS0wLjguNg0KICBtdiAtdiAgL3Vzci9zaGFyZS9kb2MvbGlibm90aWZ5eywtMC44LjZ9DQpmaQ==</install>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgJiYNCmlmIFsgLWUgL3Vzci9zaGFyZS9kb2MvbGlibm90aWZ5IF07IHRoZW4NCiAgcm0gLXJmIC91c3Ivc2hhcmUvZG9jL2xpYm5vdGlmeS0wLjguOA0KICBtdiAtdiAgL3Vzci9zaGFyZS9kb2MvbGlibm90aWZ5eywtMC44Ljh9DQpmaQ==</install>
   <localbuild>0</localbuild>
   <template>meson</template>
   <dependances>

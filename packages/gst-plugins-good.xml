@@ -2,9 +2,9 @@
 <package>
   <release>0.3</release>
   <code>gst-plugins-good</code>
-  <description/>
-  <sourcefile>gst-plugins-good-1.26.5.tar.xz</sourcefile>
-  <sourcedir>gst-plugins-good-1.26.5</sourcedir>
+  <description>VGhlIEdTdHJlYW1lciBHb29kIFBsdWctaW5zIGlzIGEgc2V0IG9mIHBsdWctaW5zIGNvbnNpZGVyZWQgYnkgdGhlIEdTdHJlYW1lciBkZXZlbG9wZXJzIHRvIGhhdmUgZ29vZCBxdWFsaXR5IGNvZGUsIGNvcnJlY3QgZnVuY3Rpb25hbGl0eSwgYW5kIHRoZSBwcmVmZXJyZWQgbGljZW5zZSAoTEdQTCBmb3IgdGhlIHBsdWctaW4gY29kZSwgTEdQTCBvciBMR1BMLWNvbXBhdGlibGUgZm9yIHRoZSBzdXBwb3J0aW5nIGxpYnJhcnkpLg==</description>
+  <sourcefile>gst-plugins-good-1.28.1.tar.xz</sourcefile>
+  <sourcedir>gst-plugins-good-1.28.1</sourcedir>
   <unpack/>
   <configure/>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphIA0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQo=</build>

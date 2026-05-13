@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libpng</code>
       <weight>1</weight>
     </dependance>
@@ -22,10 +26,6 @@
     <dependance>
       <code>gnutls</code>
       <weight>3</weight>
-    </dependance>
-    <dependance>
-      <code>SDL3</code>
-      <weight>4</weight>
     </dependance>
     <dependance>
       <code>lzo</code>

@@ -12,8 +12,8 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>SDL3</code>
-      <weight>1</weight>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
       <code>SDL2_net</code>

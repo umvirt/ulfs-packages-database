@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>yelp</code>
   <description>VGhlIFllbHAgcGFja2FnZSBjb250YWlucyBhIGhlbHAgYnJvd3NlciB1c2VkIGZvciB2aWV3aW5nIGhlbHAgZmlsZXMu</description>
-  <sourcefile>yelp-42.3.tar.xz</sourcefile>
-  <sourcedir>yelp-42.3</sourcedir>
+  <sourcefile>yelp-49.0.tar.xz</sourcefile>
+  <sourcedir>yelp-49.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

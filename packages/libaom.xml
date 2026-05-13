@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>libaom</code>
   <description>VGhlIGxpYmFvbSBwYWNrYWdlIGNvbnRhaW5zIGEgcmVmZXJlbmNlIHZlcnNpb24gb2YgdGhlIEFsbGlhbmNlIGZvciBPcGVuIE1lZGlhIHZpZGVvIGNvZGVjLiBUaGlzIGNvZGVjIGlzIGEgcGF0ZW50IGZyZWUgYWx0ZXJuYXRpdmUgdG8gSC4yNjUsIGFuZCBpcyBzdGFydGluZyB0byBiZSB1c2VkIHRocm91Z2hvdXQgdGhlIGludGVybmV0Lg==</description>
-  <sourcefile>libaom-3.12.1.tar.gz</sourcefile>
-  <sourcedir>libaom-3.12.1</sourcedir>
+  <sourcefile>libaom-3.13.1.tar.gz</sourcefile>
+  <sourcedir>libaom-3.13.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYW9tLWJ1aWxkICYmDQpjZCAgICBhb20tYnVpbGQgJiYNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPTEgICAgICAgXA0KICAgICAgLURFTkFCTEVfRE9DUz1ubyAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4u</configure>
-  <build>Y2QgICAgYW9tLWJ1aWxkIA0KbmluamENCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KDQpuaW5qYSBydW50ZXN0cw0KDQpmaQ==</build>
-  <install>Y2QgICAgYW9tLWJ1aWxkICYmDQpuaW5qYSBpbnN0YWxsIA0KDQppZiBbWyAiJFVMRlNfUEtHX1NUQVRJQyIgIT0gIllFUyIgXV0NCnRoZW4NCg0Kcm0gLXYgL3Vzci9saWIvbGliYW9tLmENCg0KZmkNCg==</install>
+  <configure>c2VkIC1pICdzL2FvbSBhb21fc3RhdGljL2FvbS8nIGJ1aWxkL2NtYWtlL2FvbV9pbnN0YWxsLmNtYWtlDQoNCm1rZGlyIGFvbS1idWlsZCAmJg0KY2QgICAgYW9tLWJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBCVUlMRF9TSEFSRURfTElCUz0xICAgICAgIFwNCiAgICAgIC1EIEVOQUJMRV9ET0NTPW5vICAgICAgICAgICAgXA0KICAgICAgLUcgTmluamEgLi4NCg==</configure>
+  <build>Y2QgICAgYW9tLWJ1aWxkIA0KbmluamENCg==</build>
+  <install>Y2QgICAgYW9tLWJ1aWxkICYmDQpuaW5qYSBpbnN0YWxsIA0KDQo=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -20,7 +20,12 @@
       <weight>2</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>libaom-3.13.1-nasm3-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

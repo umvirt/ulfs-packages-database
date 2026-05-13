@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>gpgme</code>
   <description>VGhlIEdQR01FIHBhY2thZ2UgaXMgYSBDIGxpYnJhcnkgdGhhdCBhbGxvd3MgY3J5cHRvZ3JhcGh5IHN1cHBvcnQgdG8gYmUgYWRkZWQgdG8gYSBwcm9ncmFtLiBJdCBpcyBkZXNpZ25lZCB0byBtYWtlIGFjY2VzcyB0byBwdWJsaWMga2V5IGNyeXB0byBlbmdpbmVzIGxpa2UgR251UEcgb3IgR3BnU00gZWFzaWVyIGZvciBhcHBsaWNhdGlvbnMuIEdQR01FIHByb3ZpZGVzIGEgaGlnaC1sZXZlbCBjcnlwdG8gQVBJIGZvciBlbmNyeXB0aW9uLCBkZWNyeXB0aW9uLCBzaWduaW5nLCBzaWduYXR1cmUgdmVyaWZpY2F0aW9uIGFuZCBrZXkgbWFuYWdlbWVudC4=</description>
-  <sourcefile>gpgme-2.0.0.tar.bz2</sourcefile>
-  <sourcedir>gpgme-2.0.0</sourcedir>
+  <sourcefile>gpgme-2.0.1.tar.bz2</sourcefile>
+  <sourcedir>gpgme-2.0.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCi4uL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgICAtLWRpc2FibGUtc3RhdGlj</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <build>Y2QgICAgYnVpbGQNCm1ha2U=</build>
+  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

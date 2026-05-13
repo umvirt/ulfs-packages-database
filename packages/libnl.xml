@@ -3,17 +3,17 @@
   <release>0.3</release>
   <code>libnl</code>
   <description>VGhlIGxpYm5sIHN1aXRlIGlzIGEgY29sbGVjdGlvbiBvZiBsaWJyYXJpZXMgcHJvdmlkaW5nIEFQSXMgdG8gbmV0bGluayBwcm90b2NvbCBiYXNlZCBMaW51eCBrZXJuZWwgaW50ZXJmYWNlcy4=</description>
-  <sourcefile>libnl-3.11.0.tar.gz</sourcefile>
-  <sourcedir>libnl-3.11.0</sourcedir>
+  <sourcefile>libnl-3.12.0.tar.gz</sourcefile>
+  <sourcedir>libnl-3.12.0</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElD</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KbWtkaXIgLXZwIC91c3Ivc2hhcmUvZG9jL2xpYm5sLTMuMTEuMCAmJg0KdGFyIC14ZiAuLi9saWJubC1kb2MtMy4xMS4wLnRhci5neiAtLXN0cmlwLWNvbXBvbmVudHM9MSAtLW5vLXNhbWUtb3duZXIgXA0KICAgIC1DICAvdXNyL3NoYXJlL2RvYy9saWJubC0zLjExLjANCg0KZmk=</install>
+  <install>bWFrZSBpbnN0YWxsDQoNCmlmIFtbICIkVUxGU19QS0dfRE9DVU1FTlRBVElPTiIgPT0gIllFUyIgXV0NCnRoZW4NCg0KbWtkaXIgLXZwIC91c3Ivc2hhcmUvZG9jL2xpYm5sLTMuMTIuMCAmJg0KdGFyIC14ZiAuLi9saWJubC1kb2MtMy4xMi4wLnRhci5neiAtLXN0cmlwLWNvbXBvbmVudHM9MSAtLW5vLXNhbWUtb3duZXIgXA0KICAgIC1DICAvdXNyL3NoYXJlL2RvYy9saWJubC0zLjEyLjANCg0KZmk=</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
   <addons>
-    <addon>libnl-doc-3.11.0.tar.gz</addon>
+    <addon>libnl-doc-3.12.0.tar.gz</addon>
   </addons>
   <nestings/>
   <comments/>

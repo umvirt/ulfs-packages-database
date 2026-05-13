@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>dconf-base</code>
   <description>VGhlIERDb25mIHBhY2thZ2UgY29udGFpbnMgYSBsb3ctbGV2ZWwgY29uZmlndXJhdGlvbiBzeXN0ZW0u</description>
-  <sourcefile>dconf-0.40.0.tar.xz</sourcefile>
-  <sourcedir>dconf-0.40.0</sourcedir>
+  <sourcefile>dconf-0.49.0.tar.xz</sourcefile>
+  <sourcedir>dconf-0.49.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgICAgIFwNCiAgICAgICAgICAgIC1EYmFzaF9jb21wbGV0aW9uPWZhbHNlIFwNCiAgICAgICAgICAgIC4uICAgICAgICAgICAgDQo=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBuaW5qYSB0ZXN0DQpmaQ==</build>

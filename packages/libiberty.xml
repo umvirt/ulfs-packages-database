@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libiberty</code>
   <description>VGhlIGxpYmliZXJ0eSBsaWJyYXJ5IGlzIGEgY29sbGVjdGlvbiBvZiBzdWJyb3V0aW5lcyB1c2VkIGJ5IHZhcmlvdXMgR05VIHByb2dyYW1zLiA=</description>
-  <sourcefile>binutils-2.45.tar.xz</sourcefile>
-  <sourcedir>binutils-2.45</sourcedir>
+  <sourcefile>binutils-2.46.0.tar.xz</sourcefile>
+  <sourcedir>binutils-2.46.0</sourcedir>
   <unpack/>
   <configure>Y2QgbGliaWJlcnR5DQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tZW5hYmxlLWluc3RhbGwtbGliaWJlcnR5DQo=</configure>
   <build>Y2QgbGliaWJlcnR5DQptYWtl</build>

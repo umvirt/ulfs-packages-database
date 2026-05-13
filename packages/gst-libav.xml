@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>gst-libav</code>
   <description>VGhlIEdTdHJlYW1lciBMaWJhdiBwYWNrYWdlIGNvbnRhaW5zIEdTdHJlYW1lciBwbHVnaW5zIGZvciBMaWJhdiAoYSBmb3JrIG9mIEZGbXBlZyku</description>
-  <sourcefile>gst-libav-1.26.5.tar.xz</sourcefile>
-  <sourcedir>gst-libav-1.26.5</sourcedir>
+  <sourcefile>gst-libav-1.28.1.tar.xz</sourcefile>
+  <sourcedir>gst-libav-1.28.1</sourcedir>
   <unpack/>
-  <configure>DQo=</configure>
+  <configure/>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>
   <install/>
   <localbuild>0</localbuild>

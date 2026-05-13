@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libxmlb</code>
   <description>QSBsaWJyYXJ5IHRvIGhlbHAgY3JlYXRlIGFuZCBxdWVyeSBiaW5hcnkgWE1MIGJsb2Jz</description>
-  <sourcefile>libxmlb-0.3.23.tar.xz</sourcefile>
-  <sourcedir>libxmlb-0.3.23</sourcedir>
+  <sourcefile>libxmlb-0.3.25.tar.xz</sourcefile>
+  <sourcedir>libxmlb-0.3.25</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAtRGd0a2RvYz1mYWxzZSAuLiA=</configure>
   <build/>

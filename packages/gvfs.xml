@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>gvfs</code>
   <description>VGhlIEd2ZnMgcGFja2FnZSBpcyBhIHVzZXJzcGFjZSB2aXJ0dWFsIGZpbGVzeXN0ZW0gZGVzaWduZWQgdG8gd29yayB3aXRoIHRoZSBJL08gYWJzdHJhY3Rpb25zIG9mIEdMaWIncyBHSU8gbGlicmFyeS4=</description>
-  <sourcefile>gvfs-1.56.1.tar.xz</sourcefile>
-  <sourcedir>gvfs-1.56.1</sourcedir>
+  <sourcefile>gvfs-1.58.2.tar.xz</sourcefile>
+  <sourcedir>gvfs-1.58.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIG9uZWRyaXZlPWZhbHNlICAgXA0KICAgICAgLUQgZnVzZT1mYWxzZSAgICAgICBcDQogICAgICAtRCBncGhvdG8yPWZhbHNlICAgIFwNCiAgICAgIC1EIGFmYz1mYWxzZSAgICAgICAgXA0KICAgICAgLUQgYmx1cmF5PWZhbHNlICAgICBcDQogICAgICAtRCBuZnM9ZmFsc2UgICAgICAgIFwNCiAgICAgIC1EIG10cD1mYWxzZSAgICAgICAgXA0KICAgICAgLUQgc21iPWZhbHNlICAgICAgICBcDQogICAgICAtRCBkbnNzZD1mYWxzZSAgICAgIFwNCiAgICAgIC1EIGdvYT1mYWxzZSAgICAgICAgXA0KICAgICAgLUQgZ29vZ2xlPWZhbHNlICAgICAuLiANCg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwICAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIG9uZWRyaXZlPWZhbHNlICAgXA0KICAgICAgLUQgZnVzZT1mYWxzZSAgICAgICBcDQogICAgICAtRCBncGhvdG8yPWZhbHNlICAgIFwNCiAgICAgIC1EIGFmYz1mYWxzZSAgICAgICAgXA0KICAgICAgLUQgYmx1cmF5PWZhbHNlICAgICBcDQogICAgICAtRCBuZnM9ZmFsc2UgICAgICAgIFwNCiAgICAgIC1EIG10cD1mYWxzZSAgICAgICAgXA0KICAgICAgLUQgc21iPWZhbHNlICAgICAgICBcDQogICAgICAtRCBkbnNzZD1mYWxzZSAgICAgIFwNCiAgICAgIC1EIGdvYT1mYWxzZSAgICAgICAgXA0KICAgICAgLUQgZ29vZ2xlPWZhbHNlICAgICAuLg0KDQo=</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gcr4</code>

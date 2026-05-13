@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-pyproject-metadata</code>
   <description>UEVQIDYyMSBtZXRhZGF0YSBwYXJzaW5n</description>
-  <sourcefile>pyproject_metadata-0.9.1.tar.gz</sourcefile>
-  <sourcedir>pyproject_metadata-0.9.1</sourcedir>
+  <sourcefile>pyproject_metadata-0.11.0.tar.gz</sourcefile>
+  <sourcedir>pyproject_metadata-0.11.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHB5cHJvamVjdC1tZXRhZGF0YQ==</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHB5cHJvamVjdC1tZXRhZGF0YQ==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

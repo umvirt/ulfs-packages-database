@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>sdl12-compat</code>
   <description>VGhlIFNpbXBsZSBEaXJlY3RNZWRpYSBMYXllciAoU0RMIGZvciBzaG9ydCkgaXMgYSBjcm9zcy1wbGF0Zm9ybSBsaWJyYXJ5IGRlc2lnbmVkIHRvIG1ha2UgaXQgZWFzeSB0byB3cml0ZSBtdWx0aW1lZGlhIHNvZnR3YXJlLCBzdWNoIGFzIGdhbWVzIGFuZCBlbXVsYXRvcnMuIFRoaXMgY29kZSBpcyBhIGNvbXBhdGliaWxpdHkgbGF5ZXI7IGl0IHByb3ZpZGVzIGEgYmluYXJ5IGFuZCBzb3VyY2UgY29tcGF0aWJsZSBBUEkgZm9yIHByb2dyYW1zIHdyaXR0ZW4gYWdhaW5zdCBTREwgMS4yLCBidXQgaXQgdXNlcyBTREwgMi4wIGJlaGluZCB0aGUgc2NlbmVzLg0KDQo=</description>
-  <sourcefile>sdl12-compat-release-1.2.68.tar.gz</sourcefile>
-  <sourcedir>sdl12-compat-release-1.2.68</sourcedir>
+  <sourcefile>sdl12-compat-1.2.76.tar.gz</sourcefile>
+  <sourcedir>sdl12-compat-1.2.76</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9UkVMRUFTRSAgXA0KICAgICAgLi4=</configure>
   <build>Y2QgICAgYnVpbGQgJiYNCm1ha2U=</build>
@@ -12,16 +12,16 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>cmake</code>
       <weight>1</weight>
     </dependance>
     <dependance>
       <code>glu</code>
       <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>SDL3</code>
-      <weight>3</weight>
     </dependance>
   </dependances>
   <patches/>

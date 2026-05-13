@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libadwaita</code>
   <description>VGhlIGxpYmFkd2FpdGEgcGFja2FnZSBwcm92aWRlcyBhZGRpdGlvbmFsIEdUSzQgVUkgd2lkZ2V0cyBmb3IgdXNlIGluIGRldmVsb3BpbmcgdXNlciBpbnRlcmZhY2VzLiBJdCBpcyB1c2VkIHByaW1hcmlseSBmb3IgR05PTUUgYXBwbGljYXRpb25zLg==</description>
-  <sourcefile>libadwaita-1.7.6.tar.xz</sourcefile>
-  <sourcedir>libadwaita-1.7.6</sourcedir>
+  <sourcefile>libadwaita-1.8.4.tar.xz</sourcefile>
+  <sourcedir>libadwaita-1.8.4</sourcedir>
   <unpack/>
   <configure/>
   <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQoNCmlmIFtbICIkVUxGU19QS0dfVEVTVCIgPT0gIllFUyIgXV0NCnRoZW4NCgkgICAgbmluamEgdGVzdA0KZmk=</build>

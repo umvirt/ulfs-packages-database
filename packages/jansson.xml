@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>jansson</code>
   <description>VGhlIEphbnNzb24gcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCB0byBlbmNvZGUsIGRlY29kZSwgYW5kIG1hbmlwdWxhdGUgSlNPTiBkYXRhLg==</description>
-  <sourcefile>jansson-2.14.1.tar.bz2</sourcefile>
-  <sourcedir>jansson-2.14.1</sourcedir>
+  <sourcefile>jansson-2.15.0.tar.bz2</sourcefile>
+  <sourcedir>jansson-2.15.0</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUM=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libmbim</code>
   <description>VGhlIGxpYm1iaW0gcGFja2FnZSBjb250YWlucyBhIEdMaWItYmFzZWQgbGlicmFyeSBmb3IgdGFsa2luZyB0byBXV0FOIG1vZGVtcyBhbmQgZGV2aWNlcyB3aGljaCBzcGVhayB0aGUgTW9iaWxlIEludGVyZmFjZSBCcm9hZGJhbmQgTW9kZWwgKE1CSU0pIHByb3RvY29sLg==</description>
-  <sourcefile>libmbim-1.32.0.tar.gz</sourcefile>
-  <sourcedir>libmbim-1.32.0</sourcedir>
+  <sourcefile>libmbim-1.34.0.tar.gz</sourcefile>
+  <sourcedir>libmbim-1.34.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIGJhc2hfY29tcGxldGlvbj1mYWxzZSBcDQogICAgICAtRCBtYW49ZmFsc2Ug</configure>
   <build/>

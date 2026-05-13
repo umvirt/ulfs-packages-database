@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libqmi</code>
   <description>VGhlIGxpYnFtaSBwYWNrYWdlIGNvbnRhaW5zIGEgR0xpYi1iYXNlZCBsaWJyYXJ5IGZvciB0YWxraW5nIHRvIFdXQU4gbW9kZW1zIGFuZCBkZXZpY2VzIHdoaWNoIHNwZWFrIHRoZSBRdWFsY29tbSBNU00gSW50ZXJmYWNlIChRTUkpIHByb3RvY29sLg==</description>
-  <sourcefile>libqmi-1.36.0.tar.gz</sourcefile>
-  <sourcedir>libqmi-1.36.0</sourcedir>
+  <sourcefile>libqmi-1.38.0.tar.gz</sourcefile>
+  <sourcedir>libqmi-1.38.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgICAgXA0KICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgIFwNCiAgICAgIC1EIGJhc2hfY29tcGxldGlvbj1mYWxzZSBcDQogICAgICAtRCBxcnRyPWZhbHNlICAgICAgICAgICAgXA0KICAgICAgLUQgbWFuPWZhbHNlICA=</configure>
   <build/>

@@ -3,14 +3,18 @@
   <release>0.3</release>
   <code>ffmpeg</code>
   <description>RkZtcGVnIGlzIGEgc29sdXRpb24gdG8gcmVjb3JkLCBjb252ZXJ0IGFuZCBzdHJlYW0gYXVkaW8gYW5kIHZpZGVvLiBJdCBpcyBhIHZlcnkgZmFzdCB2aWRlbyBhbmQgYXVkaW8gY29udmVydGVyIGFuZCBpdCBjYW4gYWxzbyBhY3F1aXJlIGZyb20gYSBsaXZlIGF1ZGlvL3ZpZGVvIHNvdXJjZS4=</description>
-  <sourcefile>ffmpeg-7.1.1.tar.xz</sourcefile>
-  <sourcedir>ffmpeg-7.1.1</sourcedir>
+  <sourcefile>ffmpeg-8.0.1.tar.xz</sourcefile>
+  <sourcedir>ffmpeg-8.0.1</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZ3BsICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdmVyc2lvbjMgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbm9uZnJlZSAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVkICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYW9tICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYXNzICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZmRrLWFhYyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZnJlZXR5cGUgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlibXAzbGFtZSAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlib3B1cyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidm9yYmlzICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidnB4ICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NCAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NSAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtb3BlbnNzbCAgICAgXA0KICAgICAgICAgICAgLS1pZ25vcmUtdGVzdHM9ZW5oYW5jZWQtZmx2LWF2MSBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9mZm1wZWctNy4xLjENCg0KDQo=</configure>
+  <configure>c2VkIC1lICcvYWRhcHRpdmUvY1wgcGFyYW0tPmFxX21vZGUgPSAwOycgXA0KICAgIC1pIGxpYmF2Y29kZWMvbGlic3Z0YXYxLmMNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtZ3BsICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtdmVyc2lvbjMgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbm9uZnJlZSAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVkICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYW9tICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliYXNzICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZmRrLWFhYyAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZnJlZXR5cGUgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlibXAzbGFtZSAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlib3B1cyAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidm9yYmlzICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlidnB4ICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NCAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlieDI2NSAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtb3BlbnNzbCAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGliZGF2MWQgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbGlic3Z0YXYxICAgXA0KICAgICAgICAgICAgLS1pZ25vcmUtdGVzdHM9ZW5oYW5jZWQtZmx2LWF2MSxlbmhhbmNlZC1mbHYtbXVsdGl0cmFjayBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy9mZm1wZWctOC4wLjENCg0K</configure>
   <build>bWFrZSAmJg0KDQpnY2MgdG9vbHMvcXQtZmFzdHN0YXJ0LmMgLW8gdG9vbHMvcXQtZmFzdHN0YXJ0</build>
-  <install>bWFrZSBpbnN0YWxsICYmDQoNCmluc3RhbGwgLXYgLW03NTUgICAgdG9vbHMvcXQtZmFzdHN0YXJ0IC91c3IvYmluICYmDQppbnN0YWxsIC12IC1tNzU1IC1kICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9mZm1wZWctNy4xLjEgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgZG9jLyoudHh0IC91c3Ivc2hhcmUvZG9jL2ZmbXBlZy03LjEuMQ==</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQoNCmluc3RhbGwgLXYgLW03NTUgICAgdG9vbHMvcXQtZmFzdHN0YXJ0IC91c3IvYmluICYmDQppbnN0YWxsIC12IC1tNzU1IC1kICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9mZm1wZWctOC4wLjEgJiYNCmluc3RhbGwgLXYgLW02NDQgICAgZG9jLyoudHh0IC91c3Ivc2hhcmUvZG9jL2ZmbXBlZy04LjAuMQ0K</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>xvidcore</code>
       <weight>1</weight>
@@ -38,10 +42,6 @@
     <dependance>
       <code>libtheora</code>
       <weight>7</weight>
-    </dependance>
-    <dependance>
-      <code>SDL3</code>
-      <weight>8</weight>
     </dependance>
     <dependance>
       <code>libaom</code>
@@ -86,7 +86,7 @@
   </dependances>
   <patches>
     <patch>
-      <filename>ffmpeg-7.1.1-chromium_method-1.patch</filename>
+      <filename>ffmpeg-8.0.1-chromium_method-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

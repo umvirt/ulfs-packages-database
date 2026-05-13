@@ -1850,5 +1850,8 @@
     <package>hostapd</package>
     <package>wireplumber</package>
     <package>pipewire</package>
+    <package>sdl2-compat</package>
+    <package>!spidermonkey</package>
+    <package>libfyaml</package>
   </packages>
 </packages>

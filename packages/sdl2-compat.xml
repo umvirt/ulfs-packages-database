@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>sdl2-compat</code>
+  <description>VGhlIHNkbDItY29tcGF0IHBhY2thZ2UgcHJvdmlkZXMgYSBjb21wYXRpYmlsaXR5IGxheWVyIGZvciBwYWNrYWdlcyB0aGF0IHJlcXVpcmUgU0RMMiwgdXRpbGl6aW5nIFNETDMgYXMgdGhlIGJhY2tlbmQu</description>
+  <sourcefile>sdl2-compat-2.32.64.tar.gz</sourcefile>
+  <sourcedir>sdl2-compat-2.32.64</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OIFwNCiAgICAgIC1EIFNETDJDT01QQVRfU1RBVElDPU9GRiAgICAgICBcDQogICAgICAtRCBTREwyQ09NUEFUX1RFU1RTPU9GRiAgICAgICAgXA0KICAgICAgLVcgbm8tZGV2IC1HIE5pbmphIC4u</configure>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwgJiYNCnJtIC12ZiAvdXNyL2xpYi9saWJTREwyX3Rlc3QuYQ==</install>
+  <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
+  <dependances>
+    <dependance>
+      <code>cmake</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SDL3</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

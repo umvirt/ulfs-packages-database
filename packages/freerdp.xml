@@ -13,6 +13,10 @@
   <template>cmake-ninja</template>
   <dependances>
     <dependance>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>cmake</code>
       <weight>1</weight>
     </dependance>
@@ -43,10 +47,6 @@
     <dependance>
       <code>alsa-lib</code>
       <weight>8</weight>
-    </dependance>
-    <dependance>
-      <code>SDL3</code>
-      <weight>9</weight>
     </dependance>
     <dependance>
       <code>libwebp</code>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>!spidermonkey</code>
+  <description/>
+  <sourcefile>firefox-140.8.0esr.source.tar.xz</sourcefile>
+  <sourcedir>firefox-140.8.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgb2JqICYmDQpjZCAgICBvYmogJiYNCg0KLi4vanMvc3JjL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgICAgXA0KICAgICAgICAgICAgICAgICAgICAtLWRpc2FibGUtZGVidWctc3ltYm9scyAgXA0KICAgICAgICAgICAgICAgICAgICAtLWRpc2FibGUtamVtYWxsb2MgICAgICAgXA0KICAgICAgICAgICAgICAgICAgICAtLWVuYWJsZS1yZWFkbGluZSAgICAgICAgXA0KICAgICAgICAgICAgICAgICAgICAtLXdpdGgtaW50bC1hcGkgICAgICAgICAgXA0KICAgICAgICAgICAgICAgICAgICAtLXdpdGgtc3lzdGVtLWljdSAgICAgICAgXA0KICAgICAgICAgICAgICAgICAgICAtLXdpdGgtc3lzdGVtLXpsaWIg</configure>
+  <build>Y2QgICAgb2JqDQptYWtl</build>
+  <install>Y2QgICAgb2JqDQptYWtlIGluc3RhbGwgJiYNCnJtIC12IC91c3IvbGliL2xpYmpzX3N0YXRpYy5hanMgJiYNCnNlZCAtaSAnL0BOU1BSX0NGTEFHU0AvZCcgL3Vzci9iaW4vanMxNDAtY29uZmlnDQpzZWQgJyRpI2RlZmluZSBYUF9VTklYJyAtaSAvdXNyL2luY2x1ZGUvbW96anMtMTQwL2pzLWNvbmZpZy5o</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches>
+    <patch>
+      <filename>spidermonkey-140.8.0-python_3.14_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

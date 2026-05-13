@@ -12,12 +12,12 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>freetype-stage2</code>
-      <weight>1</weight>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
-      <code>SDL3</code>
-      <weight>2</weight>
+      <code>freetype-stage2</code>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

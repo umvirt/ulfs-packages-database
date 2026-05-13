@@ -13,6 +13,10 @@
   <template>cmake-make</template>
   <dependances>
     <dependance>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>libepoxy</code>
       <weight>1</weight>
     </dependance>
@@ -35,10 +39,6 @@
     <dependance>
       <code>libtheora</code>
       <weight>6</weight>
-    </dependance>
-    <dependance>
-      <code>SDL3</code>
-      <weight>7</weight>
     </dependance>
     <dependance>
       <code>libwebp</code>
