@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>!marco</code>
+  <description>bGlnaHR3ZWlnaHQgR1RLKyB3aW5kb3cgbWFuYWdlciBmb3IgTUFURQ==</description>
+  <sourcefile>marco-1.28.1.tar.xz</sourcefile>
+  <sourcedir>marco-1.28.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>libcanberra</code>
+      <weight>1</weight>
+    </dependance>
+    <dependance>
+      <code>zenity</code>
+      <weight>2</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
