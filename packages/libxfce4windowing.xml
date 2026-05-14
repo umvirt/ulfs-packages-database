@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libxfce4windowing</code>
   <description>VGhlIGxpYnhmY2U0d2luZG93aW5nIHBhY2thZ2UgY29udGFpbnMgYSB3aW5kb3dpbmcgY29uY2VwdCBhYnN0cmFjdGlvbiBsaWJyYXJ5IGZvciBYMTEgYW5kIFdheWxhbmQu</description>
-  <sourcefile>libxfce4windowing-4.20.4.tar.bz2</sourcefile>
-  <sourcedir>libxfce4windowing-4.20.4</sourcedir>
+  <sourcefile>libxfce4windowing-4.20.5.tar.bz2</sourcefile>
+  <sourcedir>libxfce4windowing-4.20.5</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUteDExICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRlYnVnDQo=</configure>
   <build/>

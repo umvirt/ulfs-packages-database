@@ -6,7 +6,7 @@
   <sourcefile>libsigc++-2.12.1.tar.xz</sourcefile>
   <sourcedir>libsigc++-2.12.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYmxkICYmDQpjZCAgICBibGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uIA==</configure>
+  <configure>c2VkIC1pICJzLydzeXN0ZW0nLC8vIiBtZXNvbi5idWlsZA0KDQpta2RpciBibGQgJiYNCmNkICAgIGJsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC0tYnVpbGR0eXBlPXJlbGVhc2UgLi4g</configure>
   <build>Y2QgICAgYmxkICYmDQpuaW5qYQ0KDQppZiBbWyAiJFVMRlNfUEtHX1RFU1QiID09ICJZRVMiIF1dDQp0aGVuDQoJICAgIG5pbmphIHRlc3QNCmZpDQo=</build>
   <install>Y2QgICAgYmxkICYmDQpuaW5qYSBpbnN0YWxs</install>
   <localbuild>0</localbuild>

@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>gtkmm4</code>
   <description>VGhlIEd0a21tIHBhY2thZ2UgcHJvdmlkZXMgYSBDKysgaW50ZXJmYWNlIHRvIEdUSy00Lg0KDQo=</description>
-  <sourcefile>gtkmm-4.18.0.tar.xz</sourcefile>
-  <sourcedir>gtkmm-4.18.0</sourcedir>
+  <sourcefile>gtkmm-4.20.0.tar.xz</sourcefile>
+  <sourcedir>gtkmm-4.20.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgZ3RrbW00LWJ1aWxkICYmDQpjZCAgICBndGttbTQtYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4u</configure>
-  <build>Y2QgICAgZ3RrbW00LWJ1aWxkDQpuaW5qYQ==</build>
-  <install>Y2QgICAgZ3RrbW00LWJ1aWxkDQpuaW5qYSBpbnN0YWxs</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLiA=</configure>
+  <build/>
+  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGwNCm12IC12IC91c3Ivc2hhcmUvZG9jL2d0a21tLTQuMCAvdXNyL3NoYXJlL2RvYy9ndGttbS00LjIwLjA=</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gtk4</code>

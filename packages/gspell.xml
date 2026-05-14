@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gspell</code>
   <description>VGhlIGdzcGVsbCBwYWNrYWdlIHByb3ZpZGVzIGEgZmxleGlibGUgQVBJIHRvIGFkZCBzcGVsbCBjaGVja2luZyB0byBhIEdUSysgYXBwbGljYXRpb24u</description>
-  <sourcefile>gspell-1.14.0.tar.xz</sourcefile>
-  <sourcedir>gspell-1.14.0</sourcedir>
+  <sourcefile>gspell-1.14.2.tar.xz</sourcefile>
+  <sourcedir>gspell-1.14.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgZ3NwZWxsLWJ1aWxkICYmDQpjZCAgICBnc3BlbGwtYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAtLWJ1aWxkdHlwZT1yZWxlYXNlIC1EIGd0a19kb2M9ZmFsc2UgLi4g</configure>
   <build>Y2QgICAgZ3NwZWxsLWJ1aWxkDQoNCm5pbmph</build>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libgsf</code>
   <description>VGhlIGxpYmdzZiBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB1c2VkIGZvciBwcm92aWRpbmcgYW4gZXh0ZW5zaWJsZSBpbnB1dC9vdXRwdXQgYWJzdHJhY3Rpb24gbGF5ZXIgZm9yIHN0cnVjdHVyZWQgZmlsZSBmb3JtYXRzLg==</description>
-  <sourcefile>libgsf-1.14.53.tar.xz</sourcefile>
-  <sourcedir>libgsf-1.14.53</sourcedir>
+  <sourcefile>libgsf-1.14.55.tar.xz</sourcefile>
+  <sourcedir>libgsf-1.14.55</sourcedir>
   <unpack/>
   <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMNCg==</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>

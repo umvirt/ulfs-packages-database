@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>fmt</code>
   <description>QSBtb2Rlcm4gZm9ybWF0dGluZyBsaWJyYXJ5</description>
-  <sourcefile>fmt-11.2.0.tar.gz</sourcefile>
-  <sourcedir>fmt-11.2.0</sourcedir>
+  <sourcefile>fmt-12.1.0.tar.gz</sourcefile>
+  <sourcedir>fmt-12.1.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRElSPS91c3IvbGliIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgIFwNCiAgICAgIC1EIEZNVF9URVNUPU9GRiAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4uIA0K</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRElSPS91c3IvbGliIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgIFwNCiAgICAgIC1EIEZNVF9URVNUPU9GRiAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4uDQoNCg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances/>
   <patches/>
   <addons/>

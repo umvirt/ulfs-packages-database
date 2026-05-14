@@ -16,10 +16,6 @@
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>!sqlite</code>
-      <weight>2</weight>
-    </dependance>
-    <dependance>
       <code>nspr</code>
       <weight>3</weight>
     </dependance>

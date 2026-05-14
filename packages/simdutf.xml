@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>simdutf</code>
+  <description>VGhlIHNpbWR1dGYgcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgdXNlZCBmb3IgcHJvY2Vzc2luZyBVbmljb2RlIGNoYXJhY3RlcnMgd2l0aCBTSU1EIG9wdGltaXphdGlvbnMuIFRoaXMgaW5jbHVkZXMgdGhlIFNTRTIgYW5kIEFWWDIgaW5zdHJ1Y3Rpb24gc2V0cyBhbmQgbW9yZS4=</description>
+  <sourcefile>simdutf-8.0.0.tar.gz</sourcefile>
+  <sourcedir>simdutf-8.0.0</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4u</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

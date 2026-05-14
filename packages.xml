@@ -1853,5 +1853,7 @@
     <package>sdl2-compat</package>
     <package>!spidermonkey</package>
     <package>libfyaml</package>
+    <package>simdutf</package>
+    <package>SVT-AV1</package>
   </packages>
 </packages>

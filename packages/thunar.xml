@@ -3,18 +3,14 @@
   <release>0.3</release>
   <code>thunar</code>
   <description>VGh1bmFyIGlzIHRoZSBYZmNlIGZpbGUgbWFuYWdlciwgYSBHVEsrIDMgR1VJIHRvIG9yZ2FuaXNlIHRoZSBmaWxlcyBvbiB5b3VyIGNvbXB1dGVyLg==</description>
-  <sourcefile>thunar-4.20.4.tar.bz2</sourcefile>
-  <sourcedir>thunar-4.20.4</sourcedir>
+  <sourcefile>thunar-4.20.7.tar.bz2</sourcefile>
+  <sourcedir>thunar-4.20.7</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyBcDQogICAgICAgICAgICAtLWRvY2Rpcj0vdXNyL3NoYXJlL2RvYy90aHVuYXItNC4yMC4y</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvdGh1bmFyLTQuMjAuNw==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances>
-    <dependance>
-      <code>!pcre2</code>
-      <weight>1</weight>
-    </dependance>
     <dependance>
       <code>hicolor-icon-theme</code>
       <weight>2</weight>

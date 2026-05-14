@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>xscreensaver</code>
   <description>VGhlIFhTY3JlZW5TYXZlciBwYWNrYWdlIGlzIGEgbW9kdWxhciBzY3JlZW4gc2F2ZXIgYW5kIGxvY2tlciBmb3IgdGhlIFggV2luZG93IFN5c3RlbS4g</description>
-  <sourcefile>xscreensaver-6.12.tar.gz</sourcefile>
-  <sourcedir>xscreensaver-6.12</sourcedir>
+  <sourcefile>xscreensaver-6.14.tar.gz</sourcefile>
+  <sourcedir>xscreensaver-6.14</sourcedir>
   <unpack/>
-  <configure/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXdpdGgtc3lzdGVtZA0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

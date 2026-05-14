@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>xfce4-panel</code>
   <description>VGhlIFhmY2U0IFBhbmVsIHBhY2thZ2UgY29udGFpbnMgdGhlIFhmY2U0IFBhbmVsLg==</description>
-  <sourcefile>xfce4-panel-4.20.5.tar.bz2</sourcefile>
-  <sourcedir>xfce4-panel-4.20.5</sourcedir>
+  <sourcefile>xfce4-panel-4.20.6.tar.bz2</sourcefile>
+  <sourcedir>xfce4-panel-4.20.6</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw==</configure>
   <build/>

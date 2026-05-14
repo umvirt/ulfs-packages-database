@@ -12,10 +12,6 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>!pcre2</code>
-      <weight>1</weight>
-    </dependance>
-    <dependance>
       <code>python3-Pygments</code>
       <weight>2</weight>
     </dependance>
