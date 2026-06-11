@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>audacious-plugins</code>
   <description>QXVkYWNpb3VzIHBsdWdpbnM=</description>
-  <sourcefile>audacious-plugins-4.5.tar.bz2</sourcefile>
-  <sourcedir>audacious-plugins-4.5</sourcedir>
+  <sourcefile>audacious-plugins-4.5.1.tar.bz2</sourcefile>
+  <sourcedir>audacious-plugins-4.5.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIGd0az10cnVlICAgICAgICAgXA0KICAgICAgLUQgcXQ9dHJ1ZSAgICAgICAgICBcDQogICAgICAtRCBvcHVzPWZhbHNlICAgICAgIFwNCiAgICAgIC1EIHdhdnBhY2s9ZmFsc2UNCiAgICAgICAgICA=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>sdl2-compat</code>

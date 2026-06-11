@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>httpd</code>
   <description>VGhlIEFwYWNoZSBIVFRQRCBwYWNrYWdlIGNvbnRhaW5zIGFuIG9wZW4tc291cmNlIEhUVFAgc2VydmVyLg==</description>
-  <sourcefile>httpd-2.4.65.tar.bz2</sourcefile>
-  <sourcedir>httpd-2.4.65</sourcedir>
+  <sourcefile>httpd-2.4.66.tar.bz2</sourcefile>
+  <sourcedir>httpd-2.4.66</sourcedir>
   <unpack/>
   <configure>c2VkICcvZGlyLipDRkdfUFJFRklYL3NAXkAjQCcgLWkgc3VwcG9ydC9hcHhzLmluICAgICAgICYmDQoNCnNlZCAtZSAnL0hUVFBEX1JPT1Qvczoke2FwX3ByZWZpeH06L2V0Yy9odHRwZDonICAgICAgIFwNCiAgICAtZSAnL1NFUlZFUl9DT05GSUdfRklMRS9zOiR7cmVsX3N5c2NvbmZkaXJ9Lzo6JyAgIFwNCiAgICAtZSAnL0FQX1RZUEVTX0NPTkZJR19GSUxFL3M6JHtyZWxfc3lzY29uZmRpcn0vOjonIFwNCiAgICAtaSBjb25maWd1cmUgICYmDQoNCi4vY29uZmlndXJlIC0tZW5hYmxlLWF1dGhuei1mY2dpICAgICAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1sYXlvdXQ9QkxGUyAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtbW9kcy1zaGFyZWQ9ImFsbCBjZ2kiICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLW1wbXMtc2hhcmVkPWFsbCAgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zdWV4ZWM9c2hhcmVkICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWFwcj0vdXNyL2Jpbi9hcHItMS1jb25maWcgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1hcHItdXRpbD0vdXNyL2Jpbi9hcHUtMS1jb25maWcgICBcDQogICAgICAgICAgICAtLXdpdGgtc3VleGVjLWJpbj0vdXNyL2xpYi9odHRwZC9zdWV4ZWMgXA0KICAgICAgICAgICAgLS13aXRoLXN1ZXhlYy1jYWxsZXI9YXBhY2hlICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zdWV4ZWMtZG9jcm9vdD0vc3J2L3d3dyAgICAgICAgICBcDQogICAgICAgICAgICAtLXdpdGgtc3VleGVjLXVpZG1pbj0xMDAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLXN1ZXhlYy11c2VyZGlyPXB1YmxpY19odG1sICAgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1zdWV4ZWMtbG9nZmlsZT0vdmFyL2xvZy9odHRwZC9zdWV4ZWMubG9nDQoNCg==</configure>
   <build/>
@@ -12,10 +12,6 @@
   <localbuild>0</localbuild>
   <preparation>Z3JvdXBhZGQgLWcgMjUgYXBhY2hlICYmDQp1c2VyYWRkIC1jICJBcGFjaGUgU2VydmVyIiAtZCAvc3J2L3d3dyAtZyBhcGFjaGUgXA0KICAgICAgICAtcyAvYmluL2ZhbHNlIC11IDI1IGFwYWNoZQ==</preparation>
   <dependances>
-    <dependance>
-      <code>!pcre2</code>
-      <weight>1</weight>
-    </dependance>
     <dependance>
       <code>apr-util</code>
       <weight>2</weight>

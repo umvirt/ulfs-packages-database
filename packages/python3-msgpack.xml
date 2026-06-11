@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-msgpack</code>
   <description>TWVzc2FnZVBhY2sgaXMgYW4gZWZmaWNpZW50IGJpbmFyeSBzZXJpYWxpemF0aW9uIGZvcm1hdC4=</description>
-  <sourcefile>msgpack-1.1.1.tar.gz</sourcefile>
-  <sourcedir>msgpack-1.1.1</sourcedir>
+  <sourcefile>msgpack-1.1.2.tar.gz</sourcefile>
+  <sourcedir>msgpack-1.1.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIG1zZ3BhY2s=</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIG1zZ3BhY2s=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

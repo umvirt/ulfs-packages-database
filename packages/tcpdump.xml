@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>tcpdump</code>
   <description>Y29tbWFuZC1saW5lIG5ldHdvcmsgdHJhZmZpYyBhbmFseXplcg==</description>
-  <sourcefile>tcpdump-4.99.5.tar.xz</sourcefile>
-  <sourcedir>tcpdump-4.99.5</sourcedir>
+  <sourcefile>tcpdump-4.99.6.tar.xz</sourcefile>
+  <sourcedir>tcpdump-4.99.6</sourcedir>
   <unpack/>
   <configure/>
   <build/>

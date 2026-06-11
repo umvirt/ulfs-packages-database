@@ -3,26 +3,18 @@
   <release>0.3</release>
   <code>exim</code>
   <description>VGhlIEV4aW0gcGFja2FnZSBjb250YWlucyBhIE1haWwgVHJhbnNwb3J0IEFnZW50IHdyaXR0ZW4gYnkgdGhlIFVuaXZlcnNpdHkgb2YgQ2FtYnJpZGdlLCByZWxlYXNlZCB1bmRlciB0aGUgR05VIFB1YmxpYyBMaWNlbnNlLg0KDQo=</description>
-  <sourcefile>exim-4.98.2.tar.xz</sourcefile>
-  <sourcedir>exim-4.98.2</sourcedir>
+  <sourcefile>exim-4.99.1.tar.xz</sourcefile>
+  <sourcedir>exim-4.99.1</sourcedir>
   <unpack/>
   <configure>c2VkIC1lICdzLF5CSU5fRElSLiokLEJJTl9ESVJFQ1RPUlk9L3Vzci9zYmluLCcgICAgXA0KICAgIC1lICdzLF5DT05GLiokLENPTkZJR1VSRV9GSUxFPS9ldGMvZXhpbS5jb25mLCcgXA0KICAgIC1lICdzLF5FWElNX1VTRVIuKiQsRVhJTV9VU0VSPWV4aW0sJyAgICAgICAgICAgXA0KICAgIC1lICcvIyBVU0VfT1BFTlNTTC9zLF4jLCwnIHNyYy9FRElUTUUgPiBMb2NhbC9NYWtlZmlsZSAmJg0KDQpwcmludGYgIlVTRV9HREJNID0geWVzXG5EQk1MSUIgPSAtbGdkYm1cbiIgPj4gTG9jYWwvTWFrZWZpbGUNCg0Kc2VkIC1pICcvIyBTVVBQT1JUX1BBTT15ZXMvcyxeIywsJyBMb2NhbC9NYWtlZmlsZQ0KZWNobyAiRVhUUkFMSUJTPS1scGFtIiA+PiBMb2NhbC9NYWtlZmlsZQ0K</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2V4aW0uOCAvdXNyL3NoYXJlL21hbi9tYW44ICYmDQoNCmluc3RhbGwgLXZkbSA3NTUgICAgL3Vzci9zaGFyZS9kb2MvZXhpbS00Ljk4LjIgJiYNCmNwICAgICAgLVJ2IGRvYy8qICAgL3Vzci9zaGFyZS9kb2MvZXhpbS00Ljk4LjIgJiYNCg0KbG4gLXNmdiBleGltIC91c3Ivc2Jpbi9zZW5kbWFpbCAgICAgICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLWQgLW03NTAgLW8gZXhpbSAtZyBleGltIC92YXIvc3Bvb2wvZXhpbQ0KDQpjYXQgPiAvZXRjL3BhbS5kL2V4aW0gPDwgIkVPRiINCiMgQmVnaW4gL2V0Yy9wYW0uZC9leGltDQoNCmF1dGggICAgaW5jbHVkZSBzeXN0ZW0tYXV0aA0KYWNjb3VudCBpbmNsdWRlIHN5c3RlbS1hY2NvdW50DQpzZXNzaW9uIGluY2x1ZGUgc3lzdGVtLXNlc3Npb24NCg0KIyBFbmQgL2V0Yy9wYW0uZC9leGltDQpFT0Y=</install>
+  <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLW02NDQgZG9jL2V4aW0uOCAvdXNyL3NoYXJlL21hbi9tYW44ICYmDQoNCmluc3RhbGwgLXZkbSA3NTUgICAgL3Vzci9zaGFyZS9kb2MvZXhpbS00Ljk5LjEgJiYNCmNwICAgICAgLVJ2IGRvYy8qICAgL3Vzci9zaGFyZS9kb2MvZXhpbS00Ljk5LjEgJiYNCg0KbG4gLXNmdiBleGltIC91c3Ivc2Jpbi9zZW5kbWFpbCAgICAgICAgICAgICAgICAgJiYNCmluc3RhbGwgLXYgLWQgLW03NTAgLW8gZXhpbSAtZyBleGltIC92YXIvc3Bvb2wvZXhpbQ0KDQpjYXQgPiAvZXRjL3BhbS5kL2V4aW0gPDwgIkVPRiINCiMgQmVnaW4gL2V0Yy9wYW0uZC9leGltDQoNCmF1dGggICAgaW5jbHVkZSBzeXN0ZW0tYXV0aA0KYWNjb3VudCBpbmNsdWRlIHN5c3RlbS1hY2NvdW50DQpzZXNzaW9uIGluY2x1ZGUgc3lzdGVtLXNlc3Npb24NCg0KIyBFbmQgL2V0Yy9wYW0uZC9leGltDQpFT0Y=</install>
   <localbuild>0</localbuild>
   <preparation>Z3JvdXBhZGQgLWcgMzEgZXhpbSAmJg0KdXNlcmFkZCAtZCAvZGV2L251bGwgLWMgIkV4aW0gRGFlbW9uIiAtZyBleGltIC1zIC9iaW4vZmFsc2UgLXUgMzEgZXhpbQ==</preparation>
   <dependances>
     <dependance>
       <code>perl-File-FcntlLock</code>
       <weight>1</weight>
-    </dependance>
-    <dependance>
-      <code>!pcre2</code>
-      <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>!sqlite</code>
-      <weight>3</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>

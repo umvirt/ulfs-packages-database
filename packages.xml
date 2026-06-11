@@ -630,7 +630,7 @@
     <package>ImageMagick</package>
     <package>inkscape</package>
     <package>babl</package>
-    <package>gegl-rustless</package>
+    <package>gegl-rustfree</package>
     <package>libmypaint</package>
     <package>mypaint-brushes</package>
     <package>!gimp</package>
@@ -763,7 +763,7 @@
     <package>network-manager-applet</package>
     <package>a52dec</package>
     <package>libmad</package>
-    <package>lua-5.2</package>
+    <package>!lua-5.2</package>
     <package>vlc</package>
     <package>libidn1</package>
     <package>libdv</package>
@@ -1855,5 +1855,8 @@
     <package>libfyaml</package>
     <package>simdutf</package>
     <package>SVT-AV1</package>
+    <package>lunasvg</package>
+    <package>plutovg</package>
+    <package>gdk-pixbuf-loader-lunasvg</package>
   </packages>
 </packages>

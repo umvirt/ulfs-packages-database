@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libdvdcss</code>
   <description>bGliZHZkY3NzIGlzIGEgc2ltcGxlIGxpYnJhcnkgZGVzaWduZWQgZm9yIGFjY2Vzc2luZyBEVkRzIGFzIGEgYmxvY2sgZGV2aWNlIHdpdGhvdXQgaGF2aW5nIHRvIGJvdGhlciBhYm91dCB0aGUgZGVjcnlwdGlvbi4=</description>
-  <sourcefile>libdvdcss-1.4.3.tar.bz2</sourcefile>
-  <sourcedir>libdvdcss-1.4.3</sourcedir>
+  <sourcefile>libdvdcss-1.5.0.tar.x</sourcefile>
+  <sourcedir>libdvdcss-1.5.0</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUMgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvbGliZHZkY3NzLTEuNC4z</configure>
+  <configure/>
   <build/>
-  <install/>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCnJtIC1mdiAvdXNyL2xpYi9saWJkdmRjc3MuYQ==</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

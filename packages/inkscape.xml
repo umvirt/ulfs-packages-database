@@ -3,14 +3,19 @@
   <release>0.3</release>
   <code>inkscape</code>
   <description>SW5rc2NhcGUgaXMgYSB3aGF0IHlvdSBzZWUgaXMgd2hhdCB5b3UgZ2V0IFNjYWxhYmxlIFZlY3RvciBHcmFwaGljcyBlZGl0b3Iu</description>
-  <sourcefile>inkscape-1.4.2.tar.xz</sourcefile>
-  <sourcedir>inkscape-1.4.2_2025-05-08_ebf0e940d0</sourcedir>
+  <sourcefile>inkscape-1.4.3.tar.xz</sourcefile>
+  <sourcedir>inkscape-1.4.3_2025-12-25_0d15f75042</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICYmDQpjZCAgICBidWlsZCAgICAgICAgICAgICAgICAgICAgICAgJiYNCg0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLiAgICAg</configure>
-  <build>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICYmDQptYWtlDQo=</build>
+  <configure>c2VkIC1pICdzL2dmcmVlL2dfZnJlZS8nIHNyYy9leHRlbnNpb24vaW50ZXJuYWwvcGRmaW5wdXQvcGRmLWlucHV0LmNwcCAmJg0KDQpzZWQgLWUgJy9TdHJlYW0uaC9hI2luY2x1ZGUgPHBvcHBsZXIvZ29vL2dtZW0uaD4nIFwNCiAgICAtZSAncy9yZXNldC9yZXdpbmQvJyAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgIC1pIHNyYy9leHRlbnNpb24vaW50ZXJuYWwvcGRmaW5wdXQvc3ZnLWJ1aWxkZXIuY3BwDQoNCm1rZGlyIGJ1aWxkICAgICAgICAgICAgICAgICAgICAgICAmJg0KY2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC4uICAgIA==</configure>
+  <build/>
   <install>Y2QgICAgYnVpbGQgICAgICAgICAgICAgICAgICAgICAgICYmDQptYWtlIGluc3RhbGwNCg0KZ3RrLXVwZGF0ZS1pY29uLWNhY2hlIC1xdGYgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yICYmDQp1cGRhdGUtZGVza3RvcC1kYXRhYmFzZSAtcQ==</install>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
+    <dependance>
+      <code>gdk-pixbuf-loader-lunasvg</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>python3-tinycss2</code>
       <weight>1</weight>
@@ -94,7 +99,7 @@
   </dependances>
   <patches>
     <patch>
-      <filename>inkscape-1.4.2-poppler_fixes-3.patch</filename>
+      <filename>inkscape-1.4.3-poppler_26.02-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

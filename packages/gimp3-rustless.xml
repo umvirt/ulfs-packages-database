@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gimp3-rustless</code>
   <description>VGhlIEdpbXAgcGFja2FnZSBjb250YWlucyB0aGUgR05VIEltYWdlIE1hbmlwdWxhdGlvbiBQcm9ncmFtIHdoaWNoIGlzIHVzZWZ1bCBmb3IgcGhvdG8gcmV0b3VjaGluZywgaW1hZ2UgY29tcG9zaXRpb24gYW5kIGltYWdlIGF1dGhvcmluZy4=</description>
-  <sourcefile>gimp-3.0.4.tar.xz</sourcefile>
-  <sourcedir>gimp-3.0.4</sourcedir>
+  <sourcefile>gimp-3.0.6.tar.xz</sourcefile>
+  <sourcedir>gimp-3.0.6</sourcedir>
   <unpack/>
   <configure>bWtkaXIgZ2ltcC1idWlsZCAmJg0KY2QgICAgZ2ltcC1idWlsZCAmJg0KDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyICAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgICBcDQogICAgICAgICAgICAtRCB2ZWN0b3ItaWNvbnM9ZmFsc2UgICAgICBcDQogICAgICAgICAgICAtRCBoZWFkbGVzcy10ZXN0cz1kaXNhYmxlZCAuLg==</configure>
   <build>Y2QgICAgZ2ltcC1idWlsZCANCm5pbmph</build>
@@ -104,7 +104,7 @@
       <weight>23</weight>
     </dependance>
     <dependance>
-      <code>gegl-rustless</code>
+      <code>gegl-rustfree</code>
       <weight>24</weight>
     </dependance>
     <dependance>
@@ -118,11 +118,7 @@
   </dependances>
   <patches>
     <patch>
-      <filename>gimp3-rustless-librsvg.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>gimp3-remove-file-svg-plugin.patch</filename>
+      <filename>gimp-3.0.6-security_fixes-1.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

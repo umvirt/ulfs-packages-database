@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libnftnl</code>
   <description>QSB1c2Vyc3BhY2UgbGlicmFyeSBwcm92aWRpbmcgYSBsb3ctbGV2ZWwgbmV0bGluayBwcm9ncmFtbWluZyBpbnRlcmZhY2UgKEFQSSkgdG8gdGhlIGluLWtlcm5lbCBuZl90YWJsZXMgc3Vic3lzdGVtLg==</description>
-  <sourcefile>libnftnl-1.3.0.tar.xz</sourcefile>
-  <sourcedir>libnftnl-1.3.0</sourcedir>
+  <sourcefile>libnftnl-1.3.1.tar.xz</sourcefile>
+  <sourcedir>libnftnl-1.3.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

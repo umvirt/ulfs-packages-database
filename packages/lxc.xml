@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>lxc</code>
   <description>TGludXggQ29udGFpbmVycw==</description>
-  <sourcefile>lxc-6.0.5.tar.gz</sourcefile>
-  <sourcedir>lxc-6.0.5</sourcedir>
+  <sourcefile>lxc-6.0.6.tar.gz</sourcefile>
+  <sourcedir>lxc-6.0.6</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgXA0KICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgIFwNCiAgICAgIC1EIGV4YW1wbGVzPXRydWUgICAgICBcDQogICAgICAtRCBtYW49dHJ1ZSAgICAgICAgICAgXA0KICAgICAgLUQgdG9vbHM9dHJ1ZSAgICAgICAgIFwNCiAgICAgIC1EIGNvbW1hbmRzPXRydWUgICAgICBcDQogICAgICAtRCBjYXBhYmlsaXRpZXM9dHJ1ZSAgXA0KICAgICAgLUQgb3BlbnNzbD10cnVlICAgICAgIFwNCiAgICAgIC1EIHNlY2NvbXA9dHJ1ZSAgICAgICBcDQogICAgICAtRCBtZW1mZC1yZXhlYz10cnVlICAgXA0KICAgICAgLUQgdGhyZWFkLXNhZmV0eT10cnVlIFwNCiAgICAgIC1EIGRidXM9dHJ1ZSAgICAgICAgICBcDQogICAgICAtRCBpbml0LXNjcmlwdD1zeXN0ZW1kDQo=</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libseccomp</code>

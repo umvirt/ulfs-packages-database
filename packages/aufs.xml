@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>aufs</code>
   <description>QVVGUyBMaW51eCBrZXJuZWwgcGF0Y2g=</description>
-  <sourcefile>aufs-6.16.tar.gz</sourcefile>
-  <sourcedir>aufs-6.16</sourcedir>
+  <sourcefile>aufs-6.18-559ed4fde768ef38007b850ba282e827b8a70448.tar.xz</sourcefile>
+  <sourcedir>aufs-6.18-559ed4fde768ef38007b850ba282e827b8a70448</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>

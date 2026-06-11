@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libosinfo</code>
   <description>bGlib3NpbmZvIGlzIGEgR09iamVjdCBiYXNlZCBsaWJyYXJ5IEFQSSBmb3IgbWFuYWdpbmcgaW5mb3JtYXRpb24gYWJvdXQgb3BlcmF0aW5nIHN5c3RlbXMsIGh5cGVydmlzb3JzIGFuZCB0aGUgKHZpcnR1YWwpIGhhcmR3YXJlIGRldmljZXMgdGhleSBjYW4gc3VwcG9ydC4NCg==</description>
-  <sourcefile>libosinfo-1.11.0.tar.xz</sourcefile>
-  <sourcedir>libosinfo-1.11.0</sourcedir>
+  <sourcefile>libosinfo-1.12.0.tar.xz</sourcefile>
+  <sourcedir>libosinfo-1.12.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1Ed2l0aC11c2ItaWRzLXBhdGg9L3Vzci9zaGFyZS9od2RhdGEvdXNiLmlkcyBcDQogICAgICAtRHdpdGgtcGNpLWlkcy1wYXRoPS91c3Ivc2hhcmUvaHdkYXRhL3BjaS5pZHMNCg0K</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libsoup3</code>
@@ -20,7 +21,12 @@
       <weight>2</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>libosinfo-libxml2-fix.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

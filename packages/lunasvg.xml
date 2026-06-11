@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>lunasvg</code>
+  <description/>
+  <sourcefile>lunasvg-3.5.0.tar.gz</sourcefile>
+  <sourcedir>lunasvg-3.5.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KaW5zdGFsbCAtdm03NTUgZXhhbXBsZXMvc3ZnMnBuZyAvdXNyL2Jpbg==</install>
+  <localbuild>0</localbuild>
+  <template>meson</template>
+  <dependances>
+    <dependance>
+      <code>plutovg</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

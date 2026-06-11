@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>gimp-help</code>
   <description>R0lNUCBoZWxwIGZpbGVzLg==</description>
-  <sourcefile>gimp-help-3.0.0.tar.bz2</sourcefile>
-  <sourcedir>gimp-help-3.0.0</sourcedir>
+  <sourcefile>gimp-help-3.0.2.tar.bz2</sourcefile>
+  <sourcedir>gimp-help-3.0.2</sourcedir>
   <unpack/>
-  <configure>YXV0b21ha2UgLS1hZGQtbWlzc2luZw0KDQpBTExfTElOR1VBUz0iY2EgY3MgZGEgZGUgZW4gZW5fR0IgZXMgZmEgZnIgaHIga28gbHQgbmwgbm4gcHQgcHRfQlIgcm8gc2wgc3YgdWsgemhfQ04iIFwNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
+  <configure>c2VkIC1pICdzL2ltcG9ydCBsaWJ4bWwyLy8nIGNvbmZpZ3VyZSANCg0KYXV0b21ha2UgLS1hZGQtbWlzc2luZw0KDQpBTExfTElOR1VBUz0iZW4iIFwNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICYmDQpjaG93biAtUiByb290OnJvb3QgL3Vzci9zaGFyZS9naW1wLzMuMC9oZWxw</install>
   <localbuild>0</localbuild>

@@ -6,9 +6,9 @@
   <sourcefile>libde265-1.0.16.tar.gz</sourcefile>
   <sourcedir>libde265-1.0.16</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgLi4NCg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>c2VkICcvdG9vbHMvZCcgLWkgTWFrZWZpbGUuYW0gJiYNCi4vYXV0b2dlbi5zaA0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyICAgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXNoZXJsb2NrMjY1IFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgIA==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

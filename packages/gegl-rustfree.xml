@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>gegl-rustless</code>
+  <code>gegl-rustfree</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBHRW5lcmljIEdyYXBoaWNzIExpYnJhcnksIHdoaWNoIGlzIGEgZ3JhcGggYmFzZWQgaW1hZ2UgcHJvY2Vzc2luZyBmb3JtYXQu</description>
-  <sourcefile>gegl-0.4.62.tar.xz</sourcefile>
-  <sourcedir>gegl-0.4.62</sourcedir>
+  <sourcefile>gegl-0.4.66.tar.xz</sourcefile>
+  <sourcedir>gegl-0.4.66</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCg0KbWVzb24gc2V0dXAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgICAgICAgIC1EbGlicnN2Zz1kaXNhYmxlZCAgXA0KICAgICAgICAgICAgLUQgbGliYXY9ZGlzYWJsZWQgICBcDQogICAgICAgICAgICAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmphDQo=</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>gobject-introspection</code>
@@ -34,10 +35,6 @@
     <dependance>
       <code>python3-pygobject</code>
       <weight>6</weight>
-    </dependance>
-    <dependance>
-      <code>!librsvg</code>
-      <weight>7</weight>
     </dependance>
     <dependance>
       <code>json-glib</code>

@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libheif</code>
   <description>bGliaGVpZiBpcyBhbiBIRUlGIGFuZCBBVklGIGZpbGUgZm9ybWF0IGRlY29kZXIgYW5kIGVuY29kZXIu</description>
-  <sourcefile>libheif-1.19.7.tar.gz</sourcefile>
-  <sourcedir>libheif-1.19.7</sourcedir>
+  <sourcefile>libheif-1.21.2.tar.gz</sourcefile>
+  <sourcedir>libheif-1.21.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtLXByZXNldD1yZWxlYXNlIC4u</configure>
-  <build>Y2QgYnVpbGQNCm1ha2U=</build>
+  <configure/>
+  <build/>
   <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA0KDQp1cGRhdGUtbWltZS1kYXRhYmFzZSAvdXNyL3NoYXJlL21pbWUNCg0KZ2RrLXBpeGJ1Zi1xdWVyeS1sb2FkZXJzIC0tdXBkYXRlLWNhY2hl</install>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>gdk-pixbuf-rustfree</code>
@@ -40,7 +41,12 @@
       <weight>7</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>libheif-1.21.2-svt_av1_build_fix-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

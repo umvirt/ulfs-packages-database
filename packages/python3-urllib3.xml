@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-urllib3</code>
   <description>VGhlIFVybGxpYjMgbW9kdWxlIGlzIGEgcG93ZXJmdWwsIHVzZXItZnJpZW5kbHkgSFRUUCBjbGllbnQgZm9yIFB5dGhvbi4=</description>
-  <sourcefile>urllib3-2.5.0.tar.gz</sourcefile>
-  <sourcedir>urllib3-2.5.0</sourcedir>
+  <sourcefile>urllib3-2.6.3.tar.gz</sourcefile>
+  <sourcedir>urllib3-2.6.3</sourcedir>
   <unpack/>
   <configure>Iw0KDQo=</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHVybGxpYjM=</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHVybGxpYjM=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>

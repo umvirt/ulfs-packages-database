@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libjxl</code>
   <description>VGhlIGxpYmp4bCBwYWNrYWdlIGNvbnRhaW5zIHRoZSByZWZlcmVuY2UgaW1wbGVtZW50YXRpb24gb2YgdGhlIEpQRUcgWEwgaW1hZ2UgZm9ybWF0Lg==</description>
-  <sourcefile>libjxl-0.11.1.tar.gz</sourcefile>
-  <sourcedir>libjxl-0.11.1</sourcedir>
+  <sourcefile>libjxl-0.11.2.tar.gz</sourcefile>
+  <sourcedir>libjxl-0.11.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgICAgICBcDQogICAgICAtRCBCVUlMRF9URVNUSU5HPU9GRiAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgICAgICAgICAgXA0KICAgICAgLUQgSlBFR1hMX0VOQUJMRV9TS0NNUz1PRkYgICAgICAgICAgICAgICBcDQogICAgICAtRCBKUEVHWExfRU5BQkxFX1NKUEVHPU9GRiAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEpQRUdYTF9FTkFCTEVfUExVR0lOUz1PTiAgICAgICAgICAgICAgXA0KICAgICAgLUQgSlBFR1hMX0lOU1RBTExfSkFSRElSPS91c3Ivc2hhcmUvamF2YSBcDQogICAgICAtRyBOaW5qYSAuLiA=</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+  <build/>
   <install>Y2QgICAgYnVpbGQNCg0KbmluamEgaW5zdGFsbCAmJg0KZ2RrLXBpeGJ1Zi1xdWVyeS1sb2FkZXJzIC0tdXBkYXRlLWNhY2hl</install>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>cmake</code>

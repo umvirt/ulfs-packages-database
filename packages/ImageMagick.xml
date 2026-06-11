@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>ImageMagick</code>
   <description>SW1hZ2VNYWdpY2sgaXMgYSBjb2xsZWN0aW9uIG9mIHRvb2xzIGFuZCBsaWJyYXJpZXMgdG8gcmVhZCwgd3JpdGUsIGFuZCBtYW5pcHVsYXRlIGFuIGltYWdlIGluIHZhcmlvdXMgaW1hZ2UgZm9ybWF0cy4=</description>
-  <sourcefile>ImageMagick-7.1.2-1.tar.xz</sourcefile>
-  <sourcedir>ImageMagick-7.1.2-1</sourcedir>
+  <sourcefile>ImageMagick-7.1.2-13.tar.xz</sourcefile>
+  <sourcedir>ImageMagick-7.1.2-13</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgXA0KICAgICAgICAgICAgLS1lbmFibGUtaGRyaSAgICAgXA0KICAgICAgICAgICAgLS13aXRoLW1vZHVsZXMgICAgXA0KICAgICAgICAgICAgLS13aXRoLXBlcmwgICAgICAgXA0KICAgICAgICAgICAgJEFSR19TVEFUSUM=</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgICAgIFwNCiAgICAgICAgICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWhkcmkgICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1tb2R1bGVzICAgIFwNCiAgICAgICAgICAgIC0td2l0aC1wZXJsICAgICAgIFwNCiAgICAgICAgICAgICRBUkdfU1RBVElDDQo=</configure>
   <build/>
-  <install>bWFrZSBET0NVTUVOVEFUSU9OX1BBVEg9L3Vzci9zaGFyZS9kb2MvaW1hZ2VtYWdpY2stNy4xLjIgaW5zdGFsbA==</install>
+  <install>bWFrZSBET0NVTUVOVEFUSU9OX1BBVEg9L3Vzci9zaGFyZS9kb2MvaW1hZ2VtYWdpY2stNy4xLjIgaW5zdGFsbA0K</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -66,10 +66,6 @@
     <dependance>
       <code>gnupg</code>
       <weight>14</weight>
-    </dependance>
-    <dependance>
-      <code>!librsvg</code>
-      <weight>15</weight>
     </dependance>
     <dependance>
       <code>lcms2</code>

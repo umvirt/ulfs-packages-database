@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>dovecot</code>
   <description>RG92ZWNvdCBpcyBhbiBJbnRlcm5ldCBNZXNzYWdlIEFjY2VzcyBQcm90b2NvbCAoSU1BUCkgYW5kIFBvc3QgT2ZmaWNlIFByb3RvY29sIChQT1ApIHNlcnZlciwgd3JpdHRlbiBwcmltYXJpbHkgd2l0aCBzZWN1cml0eSBpbiBtaW5kLiBEb3ZlY290IGFpbXMgdG8gYmUgbGlnaHR3ZWlnaHQsIGZhc3QgYW5kIGVhc3kgdG8gc2V0IHVwIGFzIHdlbGwgYXMgaGlnaGx5IGNvbmZpZ3VyYWJsZSBhbmQgZWFzaWx5IGV4dGVuc2libGUgd2l0aCBwbHVnaW5zLg==</description>
-  <sourcefile>dovecot-2.4.0.tar.gz</sourcefile>
-  <sourcedir>dovecot-2.4.0</sourcedir>
+  <sourcefile>dovecot-2.4.2.tar.gz</sourcefile>
+  <sourcedir>dovecot-2.4.2</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS13aXRoLWx1YT1ubyAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZG92ZWNvdC0yLjQuMCAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw0KDQo=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1sb2NhbHN0YXRlZGlyPS92YXIgICAgICAgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1kb2NkaXI9L3Vzci9zaGFyZS9kb2MvZG92ZWNvdC0yLjQuMiAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLXN0YXRpYw0KDQo=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQoNCmNhdCA+IC9ldGMvcGFtLmQvZG92ZWNvdCA8PCAiRU9GIg0KIyBCZWdpbiAvZXRjL3BhbS5kL2RvdmVjb3QNCg0KYXV0aCAgICAgaW5jbHVkZSBzeXN0ZW0tYXV0aA0KYWNjb3VudCAgaW5jbHVkZSBzeXN0ZW0tYWNjb3VudA0KcGFzc3dvcmQgaW5jbHVkZSBzeXN0ZW0tcGFzc3dvcmQNCg0KIyBFbmQgL2V0Yy9wYW0uZC9kb3ZlY290DQpFT0Y=</install>
   <localbuild>0</localbuild>
@@ -19,10 +19,6 @@
     <dependance>
       <code>libtirpc</code>
       <weight>2</weight>
-    </dependance>
-    <dependance>
-      <code>!sqlite</code>
-      <weight>3</weight>
     </dependance>
     <dependance>
       <code>Linux-PAM</code>

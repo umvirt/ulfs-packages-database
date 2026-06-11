@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>vlc</code>
   <description>VkxDIGlzIGEgbWVkaWEgcGxheWVyLCBzdHJlYW1lciwgYW5kIGVuY29kZXIuIEl0IGNhbiBwbGF5IGZyb20gbWFueSBpbnB1dHMsIHN1Y2ggYXMgZmlsZXMsIG5ldHdvcmsgc3RyZWFtcywgY2FwdHVyZSBkZXZpY2VzLCBkZXNrdG9wcywgb3IgRFZELCBTVkNELCBWQ0QsIGFuZCBhdWRpbyBDRC4gSXQgY2FuIHVzZSBtb3N0IGF1ZGlvIGFuZCB2aWRlbyBjb2RlY3MgKE1QRUcgMS8yLzQsIEgyNjQsIFZDLTEsIERpdlgsIFdNViwgVm9yYmlzLCBBQzMsIEFBQywgZXRjLiksIGFuZCBpdCBjYW4gYWxzbyBjb252ZXJ0IHRvIGRpZmZlcmVudCBmb3JtYXRzIGFuZC9vciBzZW5kIHN0cmVhbXMgdGhyb3VnaCB0aGUgbmV0d29yay4NCg==</description>
-  <sourcefile>vlc-3.0.21.tar.xz</sourcefile>
-  <sourcedir>vlc-3.0.21</sourcedir>
+  <sourcefile>vlc-3.0.23.tar.xz</sourcefile>
+  <sourcedir>vlc-3.0.23</sourcedir>
   <unpack/>
-  <configure>QlVJTERDQz1nY2MgLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtbGlicGxhY2Vibw==</configure>
+  <configure>c2VkIC1pICdzL2dzdHZpZGVvcG9vbC5oL3ZpZGVvLmgvJyBtb2R1bGVzL2NvZGVjL2dzdHJlYW1lci9nc3R2bGN2aWRlb3Bvb2wuaA0KDQpCVUlMRENDPWdjYyAuL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyDQo=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIGNoZWNrDQpmaQ==</build>
-  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvdmxjLTMuMC4yMSBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
+  <install>bWFrZSBkb2NkaXI9L3Vzci9zaGFyZS9kb2MvdmxjLTMuMC4yMyBpbnN0YWxsDQoNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvciAmJg0KdXBkYXRlLWRlc2t0b3AtZGF0YWJhc2UgLXE=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
@@ -192,16 +192,7 @@
       <weight>45</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>vlc-3.0.21-taglib-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-    <patch>
-      <filename>vlc-3.0.21-fedora_ffmpeg7-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

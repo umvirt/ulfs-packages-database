@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>nfs-utils</code>
   <description>VGhlIE5GUyBVdGlsaXRpZXMgcGFja2FnZSBjb250YWlucyB0aGUgdXNlcnNwYWNlIHNlcnZlciBhbmQgY2xpZW50IHRvb2xzIG5lY2Vzc2FyeSB0byB1c2UgdGhlIGtlcm5lbCdzIE5GUyBhYmlsaXRpZXMuIE5GUyBpcyBhIHByb3RvY29sIHRoYXQgYWxsb3dzIHNoYXJpbmcgZmlsZSBzeXN0ZW1zIG92ZXIgdGhlIG5ldHdvcmsuDQoNCg==</description>
-  <sourcefile>nfs-utils-2.8.3.tar.xz</sourcefile>
-  <sourcedir>nfs-utils-2.8.3</sourcedir>
+  <sourcefile>nfs-utils-2.8.5.tar.xz</sourcefile>
+  <sourcedir>nfs-utils-2.8.5</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgIFwNCiAgICAgICAgICAgIC0tc2JpbmRpcj0vdXNyL3NiaW4gXA0KICAgICAgICAgICAgLS1kaXNhYmxlLW5mc3Y0ICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtZ3NzICAgICAgIFwNCiAgICAgICAgICAgIExJQlM9Ii1sc3FsaXRlMyAtbGV2ZW50X2NvcmUiDQo=</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0YyAgIFwNCiAgICAgICAgICAgIC0tc2JpbmRpcj0vdXNyL3NiaW4gXA0KICAgICAgICAgICAgLS1kaXNhYmxlLW5mc3Y0ICAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtZ3NzDQo=</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsICAgICAgICAgICAgICAgICAgICAgICAmJg0KY2htb2QgdSt3LGdvK3IgL3Vzci9zYmluL21vdW50Lm5mcyAmJg0KY2hvd24gbm9ib2R5Om5vZ3JvdXAgL3Zhci9saWIvbmZzDQo=</install>
   <localbuild>0</localbuild>
@@ -22,10 +22,6 @@
     <dependance>
       <code>libtirpc</code>
       <weight>3</weight>
-    </dependance>
-    <dependance>
-      <code>!sqlite</code>
-      <weight>4</weight>
     </dependance>
     <dependance>
       <code>libnsl</code>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>lua-5.2</code>
+  <code>!lua-5.2</code>
   <description/>
   <sourcefile>lua-5.2.4.tar.gz</sourcefile>
   <sourcedir>lua-5.2.4</sourcedir>

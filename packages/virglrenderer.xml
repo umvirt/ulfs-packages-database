@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>virglrenderer</code>
   <description>VmlyR0wgdmlydHVhbCBPcGVuR0wgcmVuZGVyZXI=</description>
-  <sourcefile>virglrenderer-1.2.0.tar.bz2</sourcefile>
-  <sourcedir>virglrenderer-1.2.0</sourcedir>
+  <sourcefile>virglrenderer-1.3.0.tar.bz2</sourcefile>
+  <sourcedir>virglrenderer-1.3.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC4uDQo=</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

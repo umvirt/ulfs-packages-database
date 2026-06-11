@@ -6,7 +6,7 @@
   <sourcefile>gptfdisk-1.0.10.tar.gz</sourcefile>
   <sourcedir>gptfdisk-1.0.10</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICdzfG5jdXJzZXN3L3x8JyBncHRjdXJzZXMuY2MgJiYNCnNlZCAtaSAnc3xzYmlufHVzci9zYmlufCcgTWFrZWZpbGUgICYm</configure>
+  <configure>c2VkIC1pICdzfG5jdXJzZXN3L3x8JyBncHRjdXJzZXMuY2MgJiYNCnNlZCAtaSAnc3xzYmlufHVzci9zYmlufCcgTWFrZWZpbGU=</configure>
   <build>bWFrZQ0KaWYgW1sgIiRVTEZTX1BLR19URVNUIiA9PSAiWUVTIiBdXQ0KdGhlbg0KCSAgICBtYWtlIHRlc3QNCmZp</build>
   <install/>
   <localbuild>0</localbuild>

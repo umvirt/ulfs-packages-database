@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-charset-normalizer</code>
   <description>VGhlIGNoYXJzZXQtbm9ybWFsaXplciBsaWJyYXJ5IGhlbHBzIHJlYWRpbmcgdGV4dCBmcm9tIGFuIHVua25vd24gY2hhcmFjdGVyIGVuY29kaW5nLg==</description>
-  <sourcefile>charset_normalizer-3.4.3.tar.gz</sourcefile>
-  <sourcedir>charset_normalizer-3.4.3</sourcedir>
+  <sourcefile>charset_normalizer-3.4.4.tar.gz</sourcefile>
+  <sourcedir>charset_normalizer-3.4.4</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGNoYXJzZXQtbm9ybWFsaXplcg==</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIGNoYXJzZXQtbm9ybWFsaXplcg==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

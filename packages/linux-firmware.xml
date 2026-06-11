@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>linux-firmware</code>
   <description>TGludXgga2VybmVsIGZpcm13YXJlIHJvbXMgY29sbGVjdGlvbiBpcyBuZWVkZWQgZm9yIGhhcmR3YXJlIHN1cHBvcnQ=</description>
-  <sourcefile>linux-firmware-20251111.tar.bz2</sourcefile>
-  <sourcedir>linux-firmware-20251111</sourcedir>
+  <sourcefile>linux-firmware-20260519.tar.bz2</sourcefile>
+  <sourcedir>linux-firmware-20260519</sourcedir>
   <unpack/>
   <configure>I3Jlc2V0IGRhdGUgdG8gZmluZCBpbnN0YWxsZWQgZmlsZXMNCmZpbmQgKiAtZXhlYyB0b3VjaCAtbSB7fSArDQo=</configure>
   <build>Iw==</build>

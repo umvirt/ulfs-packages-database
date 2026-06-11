@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>firewalld</code>
   <description>U3RhdGVmdWwgem9uZSBiYXNlZCBmaXJld2FsbCBkYWVtb24gd2l0aCBELUJ1cyBpbnRlcmZhY2UNCg0KVG9waWNzDQo=</description>
-  <sourcefile>firewalld-2.3.0.tar.bz2</sourcefile>
-  <sourcedir>firewalld-2.3.0</sourcedir>
+  <sourcefile>firewalld-2.4.2.tar.bz2</sourcefile>
+  <sourcedir>firewalld-2.4.2</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0Yw0K</configure>
   <build/>

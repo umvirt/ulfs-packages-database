@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gkrellm</code>
   <description>R05VIEtyZWxsIE1vbml0b3Jz</description>
-  <sourcefile>gkrellm-2.4.0.tar.bz2</sourcefile>
-  <sourcedir>gkrellm-2.4.0</sourcedir>
+  <sourcefile>gkrellm-2.5.1.tar.bz2</sourcefile>
+  <sourcedir>gkrellm-2.5.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZQ==</build>

@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>audacious-app</code>
   <description>QXVkYWNpb3VzIGlzIGFuIGF1ZGlvIHBsYXllci4=</description>
-  <sourcefile>audacious-4.5.tar.bz2</sourcefile>
-  <sourcedir>audacious-4.5</sourcedir>
+  <sourcefile>audacious-4.5.1.tar.bz2</sourcefile>
+  <sourcedir>audacious-4.5.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCBndGs9dHJ1ZSAgICAgICAgIFwNCiAgICAgICAgICAgIC1EIHF0PXRydWUgICAgICAgICAgXA0KICAgICAgICAgICAgLUQgYnVpbGRzdGFtcD1CTEZTICBcDQogICAgICAgICAgICAtRCBsaWJhcmNoaXZlPXRydWUgIFwNCiAgICAgICAgICAgIC4uIA==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>libarchive</code>

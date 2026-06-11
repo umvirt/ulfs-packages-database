@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>unixODBC</code>
   <description>VGhlIHVuaXhPREJDIHBhY2thZ2UgaXMgYW4gT3BlbiBTb3VyY2UgT0RCQyAoT3BlbiBEYXRhQmFzZSBDb25uZWN0aXZpdHkpIHN1Yi1zeXN0ZW0gYW5kIGFuIE9EQkMgU0RLIGZvciBMaW51eCwgTWFjIE9TWCwgYW5kIFVOSVgu</description>
-  <sourcefile>unixODBC-2.3.12.tar.gz</sourcefile>
-  <sourcedir>unixODBC-2.3.12</sourcedir>
+  <sourcefile>unixODBC-2.3.14.tar.gz</sourcefile>
+  <sourcedir>unixODBC-2.3.14</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLXN5c2NvbmZkaXI9L2V0Yy91bml4T0RCQw0K</configure>
+  <configure>YXV0b3JlY29uZiAtZml2ICYmDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIC0tc3lzY29uZmRpcj0vZXRjL3VuaXhPREJDDQoNCg==</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsICYmDQoNCmZpbmQgZG9jIC1uYW1lICJNYWtlZmlsZSoiIC1kZWxldGUgICAgICAgICAgICAgICAgJiYNCmNobW9kIDY0NCBkb2Mve2xzdCxQcm9ncmFtbWVyTWFudWFsL1R1dG9yaWFsfS8qICAgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy91bml4T0RCQy0yLjMuMTIgJiYNCmNwICAgICAgLXYgLVIgZG9jLyogL3Vzci9zaGFyZS9kb2MvdW5peE9EQkMtMi4zLjEyDQo=</install>
+  <install>bWFrZSBpbnN0YWxsICYmDQoNCmZpbmQgZG9jIC1uYW1lICJNYWtlZmlsZSoiIC1kZWxldGUgICAgICAgICAgICAgICAgJiYNCmNobW9kIDY0NCBkb2Mve2xzdCxQcm9ncmFtbWVyTWFudWFsL1R1dG9yaWFsfS8qICAgJiYNCg0KaW5zdGFsbCAtdiAtbTc1NSAtZCAvdXNyL3NoYXJlL2RvYy91bml4T0RCQy0yLjMuMTQgJiYNCmNwICAgICAgLXYgLVIgZG9jLyogL3Vzci9zaGFyZS9kb2MvdW5peE9EQkMtMi4zLjE0DQo=</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

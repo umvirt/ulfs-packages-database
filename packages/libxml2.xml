@@ -6,7 +6,7 @@
   <sourcefile>libxml2-2.15.1.tar.xz</sourcefile>
   <sourcedir>libxml2-2.15.1</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICIvJ2dpdCcvLCszZCIgbWVzb24uYnVpbGQNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgXA0KICAgICAgLUQgaGlzdG9yeT1lbmFibGVkIFwNCiAgICAgIC1EIGljdT1lbmFibGVkDQoNCg==</configure>
+  <configure>c2VkIC1pICIvJ2dpdCcvLCszZCIgbWVzb24uYnVpbGQNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgXA0KICAgICAgLUQgaGlzdG9yeT1lbmFibGVkIFwNCiAgICAgIC1EIHB5dGhvbj1lbmFibGVkICBcDQogICAgICAtRCBpY3U9ZW5hYmxlZA0KDQo=</configure>
   <build/>
   <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCnNlZCAicy8tLXN0YXRpYy8tLXNoYXJlZC8iIC1pIC91c3IvYmluL3htbDItY29uZmln</install>
   <localbuild>0</localbuild>

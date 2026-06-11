@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-build</code>
   <description>QSBzaW1wbGUsIGNvcnJlY3QgUHl0aG9uIGJ1aWxkIGZyb250ZW5k</description>
-  <sourcefile>build-1.3.0.tar.gz</sourcefile>
-  <sourcedir>build-1.3.0</sourcedir>
+  <sourcefile>build-1.4.0.tar.gz</sourcefile>
+  <sourcedir>build-1.4.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdEDQo=</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIGJ1aWxk</install>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdEDQo=</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIGJ1aWxk</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
