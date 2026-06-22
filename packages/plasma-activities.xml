@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>plasma-activities</code>
   <description/>
-  <sourcefile>plasma-activities-6.4.4.tar.xz</sourcefile>
-  <sourcedir>plasma-activities-6.4.4</sourcedir>
+  <sourcefile>plasma-activities-6.6.1.tar.xz</sourcefile>
+  <sourcedir>plasma-activities-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

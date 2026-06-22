@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kguiaddons</code>
   <description/>
-  <sourcefile>kguiaddons-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kguiaddons-6.17.0</sourcedir>
+  <sourcefile>kguiaddons-6.23.1.tar.xz</sourcefile>
+  <sourcedir>kguiaddons-6.23.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kpeople</code>
   <description/>
-  <sourcefile>kpeople-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kpeople-6.17.0</sourcedir>
+  <sourcefile>kpeople-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kpeople-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kdeclarative</code>
   <description/>
-  <sourcefile>kdeclarative-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kdeclarative-6.17.0</sourcedir>
+  <sourcefile>kdeclarative-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kdeclarative-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

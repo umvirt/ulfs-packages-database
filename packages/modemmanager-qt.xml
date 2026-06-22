@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>modemmanager-qt</code>
   <description/>
-  <sourcefile>modemmanager-qt-6.17.0.tar.xz</sourcefile>
-  <sourcedir>modemmanager-qt-6.17.0</sourcedir>
+  <sourcefile>modemmanager-qt-6.23.0.tar.xz</sourcefile>
+  <sourcedir>modemmanager-qt-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

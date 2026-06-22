@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>python3-kapidox</code>
   <description/>
-  <sourcefile>kapidox-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kapidox-6.17.0</sourcedir>
+  <sourcefile>kapidox-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kapidox-6.23.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>

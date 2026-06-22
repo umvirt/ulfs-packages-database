@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>bluez-qt</code>
   <description/>
-  <sourcefile>bluez-qt-6.17.0.tar.xz</sourcefile>
-  <sourcedir>bluez-qt-6.17.0</sourcedir>
+  <sourcefile>bluez-qt-6.23.0.tar.xz</sourcefile>
+  <sourcedir>bluez-qt-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

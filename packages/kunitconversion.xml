@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kunitconversion</code>
   <description/>
-  <sourcefile>kunitconversion-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kunitconversion-6.17.0</sourcedir>
+  <sourcefile>kunitconversion-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kunitconversion-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

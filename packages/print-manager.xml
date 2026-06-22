@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>print-manager</code>
   <description/>
-  <sourcefile>print-manager-6.4.4.tar.xz</sourcefile>
-  <sourcedir>print-manager-6.4.4</sourcedir>
+  <sourcefile>print-manager-6.6.1.tar.xz</sourcefile>
+  <sourcedir>print-manager-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

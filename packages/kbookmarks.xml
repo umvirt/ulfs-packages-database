@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kbookmarks</code>
   <description/>
-  <sourcefile>kbookmarks-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kbookmarks-6.17.0</sourcedir>
+  <sourcefile>kbookmarks-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kbookmarks-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

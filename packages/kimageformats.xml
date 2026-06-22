@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kimageformats</code>
   <description/>
-  <sourcefile>kimageformats-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kimageformats-6.17.0</sourcedir>
+  <sourcefile>kimageformats-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kimageformats-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

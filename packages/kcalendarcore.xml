@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kcalendarcore</code>
   <description/>
-  <sourcefile>kcalendarcore-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kcalendarcore-6.17.0</sourcedir>
+  <sourcefile>kcalendarcore-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kcalendarcore-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

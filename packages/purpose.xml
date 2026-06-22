@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>purpose</code>
   <description/>
-  <sourcefile>purpose-6.17.0.tar.xz</sourcefile>
-  <sourcedir>purpose-6.17.0</sourcedir>
+  <sourcefile>purpose-6.23.0.tar.xz</sourcefile>
+  <sourcedir>purpose-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

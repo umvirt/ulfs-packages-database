@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>xdotool</code>
   <description>ZmFrZSBrZXlib2FyZC9tb3VzZSBpbnB1dCwgd2luZG93IG1hbmFnZW1lbnQsIGFuZCBtb3Jl</description>
-  <sourcefile>xdotool-3.20211022.1.tar.gz</sourcefile>
-  <sourcedir>xdotool-3.20211022.1</sourcedir>
+  <sourcefile>xdotool-4.20251130.1.tar.gz</sourcefile>
+  <sourcedir>xdotool-4.20251130.1</sourcedir>
   <unpack/>
-  <configure>Iw==</configure>
+  <configure>c2VkIC1pICdzIy9sb2NhbCMjJyBsaWJ4ZG8ucGMNCg==</configure>
   <build>bWFrZSBXSVRIT1VUX1JQQVRIX0ZJWD0x</build>
   <install>bWFrZSBQUkVGSVg9L3VzciBJTlNUQUxMTUFOPS91c3Ivc2hhcmUvbWFuIGluc3RhbGw=</install>
   <localbuild>0</localbuild>

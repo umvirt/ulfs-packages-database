@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kcrash</code>
   <description/>
-  <sourcefile>kcrash-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kcrash-6.17.0</sourcedir>
+  <sourcefile>kcrash-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kcrash-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

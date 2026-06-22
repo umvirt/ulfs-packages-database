@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>wacomtablet</code>
   <description/>
-  <sourcefile>wacomtablet-6.4.4.tar.xz</sourcefile>
-  <sourcedir>wacomtablet-6.4.4</sourcedir>
+  <sourcefile>wacomtablet-6.6.1.tar.xz</sourcefile>
+  <sourcedir>wacomtablet-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

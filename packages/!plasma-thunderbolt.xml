@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>kdav</code>
+  <code>!plasma-thunderbolt</code>
   <description/>
-  <sourcefile>kdav-6.23.0.tar.xz</sourcefile>
-  <sourcedir>kdav-6.23.0</sourcedir>
+  <sourcefile>plasma-thunderbolt-6.4.4.tar.xz</sourcefile>
+  <sourcedir>plasma-thunderbolt-6.4.4</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>kf6</template>
+  <template>plasma</template>
   <dependances/>
   <patches/>
   <addons/>

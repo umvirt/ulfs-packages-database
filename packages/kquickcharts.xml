@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kquickcharts</code>
   <description/>
-  <sourcefile>kquickcharts-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kquickcharts-6.17.0</sourcedir>
+  <sourcefile>kquickcharts-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kquickcharts-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

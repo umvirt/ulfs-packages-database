@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>ktexttemplate</code>
   <description/>
-  <sourcefile>ktexttemplate-6.17.0.tar.xz</sourcefile>
-  <sourcedir>ktexttemplate-6.17.0</sourcedir>
+  <sourcefile>ktexttemplate-6.23.0.tar.xz</sourcefile>
+  <sourcedir>ktexttemplate-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

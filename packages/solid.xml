@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>solid</code>
   <description/>
-  <sourcefile>solid-6.17.0.tar.xz</sourcefile>
-  <sourcedir>solid-6.17.0</sourcedir>
+  <sourcefile>solid-6.23.0.tar.xz</sourcefile>
+  <sourcedir>solid-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

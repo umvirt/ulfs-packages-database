@@ -3,14 +3,19 @@
   <release>0.3</release>
   <code>breeze-icons</code>
   <description>VGhlIEJyZWV6ZSBJY29ucyBwYWNrYWdlIGNvbnRhaW5zIHRoZSBkZWZhdWx0IGljb25zIGZvciBLREUgUGxhc21hIGFwcGxpY2F0aW9ucywgYnV0IGl0IGNhbiBiZSB1c2VkIGZvciBvdGhlciB3aW5kb3cgZW52aXJvbm1lbnRzLg==</description>
-  <sourcefile>breeze-icons-6.17.0.tar.xz</sourcefile>
-  <sourcedir>breeze-icons-6.17.0</sourcedir>
+  <sourcefile>breeze-icons-6.23.0.tar.xz</sourcefile>
+  <sourcedir>breeze-icons-6.23.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQlVJTERfVEVTVElORz1PRkYgICAgICAgICBcDQogICAgICAtVyBuby1kZXYgLi4=</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
+    <dependance>
+      <code>python3-lxml</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>extra-cmake-modules</code>
       <weight>1</weight>

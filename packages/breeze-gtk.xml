@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>breeze-gtk</code>
   <description/>
-  <sourcefile>breeze-gtk-6.4.4.tar.xz</sourcefile>
-  <sourcedir>breeze-gtk-6.4.4</sourcedir>
+  <sourcefile>breeze-gtk-6.6.1.tar.xz</sourcefile>
+  <sourcedir>breeze-gtk-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

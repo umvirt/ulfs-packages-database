@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kscreen</code>
   <description/>
-  <sourcefile>kscreen-6.4.4.tar.xz</sourcefile>
-  <sourcedir>kscreen-6.4.4</sourcedir>
+  <sourcefile>kscreen-6.6.1.tar.xz</sourcefile>
+  <sourcedir>kscreen-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

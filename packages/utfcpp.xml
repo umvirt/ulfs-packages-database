@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>utfcpp</code>
   <description>VGhlIHV0ZmNwcCBwYWNrYWdlIGNvbnRhaW5zIGEgc2V0IG9mIGluY2x1ZGUgZmlsZXMgdG8gcHJvdmlkZSBVVEYtOCB3aXRoIEMrKyBpbiBhIFBvcnRhYmxlIFdheS4=</description>
-  <sourcefile>utfcpp-4.0.6.tar.gz</sourcefile>
-  <sourcedir>utfcpp-4.0.6</sourcedir>
+  <sourcefile>utfcpp-4.0.9.tar.gz</sourcefile>
+  <sourcedir>utfcpp-4.0.9</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAuLg==</configure>
   <build>Iw==</build>

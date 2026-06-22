@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kwidgetsaddons</code>
   <description/>
-  <sourcefile>kwidgetsaddons-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kwidgetsaddons-6.17.0</sourcedir>
+  <sourcefile>kwidgetsaddons-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kwidgetsaddons-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kglobalacceld</code>
   <description/>
-  <sourcefile>kglobalacceld-6.4.4.tar.xz</sourcefile>
-  <sourcedir>kglobalacceld-6.4.4</sourcedir>
+  <sourcefile>kglobalacceld-6.6.1.tar.xz</sourcefile>
+  <sourcedir>kglobalacceld-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

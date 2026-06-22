@@ -3,11 +3,11 @@
   <release>0.3</release>
   <code>plasma-wayland-protocols</code>
   <description>VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgY3VzdG9tIHNldCBvZiBwcm90b2NvbCBkZWZpbml0aW9ucyBmb3IgS0RFLg==</description>
-  <sourcefile>plasma-wayland-protocols-1.18.0.tar.xz</sourcefile>
-  <sourcedir>plasma-wayland-protocols-1.18.0</sourcedir>
+  <sourcefile>plasma-wayland-protocols-1.20.0.tar.xz</sourcefile>
+  <sourcedir>plasma-wayland-protocols-1.20.0</sourcedir>
   <unpack/>
   <configure/>
-  <build>DQo=</build>
+  <build/>
   <install/>
   <localbuild>0</localbuild>
   <template>cmake-make</template>

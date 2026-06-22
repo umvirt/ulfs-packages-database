@@ -3,7 +3,7 @@
   <release>0.3</release>
   <code>libdvdcss</code>
   <description>bGliZHZkY3NzIGlzIGEgc2ltcGxlIGxpYnJhcnkgZGVzaWduZWQgZm9yIGFjY2Vzc2luZyBEVkRzIGFzIGEgYmxvY2sgZGV2aWNlIHdpdGhvdXQgaGF2aW5nIHRvIGJvdGhlciBhYm91dCB0aGUgZGVjcnlwdGlvbi4=</description>
-  <sourcefile>libdvdcss-1.5.0.tar.x</sourcefile>
+  <sourcefile>libdvdcss-1.5.0.tar.xz</sourcefile>
   <sourcedir>libdvdcss-1.5.0</sourcedir>
   <unpack/>
   <configure/>

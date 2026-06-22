@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>ktextwidgets</code>
   <description/>
-  <sourcefile>ktextwidgets-6.17.0.tar.xz</sourcefile>
-  <sourcedir>ktextwidgets-6.17.0</sourcedir>
+  <sourcefile>ktextwidgets-6.23.0.tar.xz</sourcefile>
+  <sourcedir>ktextwidgets-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

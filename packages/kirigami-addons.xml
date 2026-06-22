@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kirigami-addons</code>
   <description/>
-  <sourcefile>kirigami-addons-1.9.0.tar.xz</sourcefile>
-  <sourcedir>kirigami-addons-1.9.0</sourcedir>
+  <sourcefile>kirigami-addons-1.10.0.tar.xz</sourcefile>
+  <sourcedir>kirigami-addons-1.10.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgICAuLiAg</configure>
   <build/>

@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>zxing-cpp</code>
   <description>VGhlIHp4aW5nLWNwcCBwYWNrYWdlIHByb3ZpZGVzIGFuIG9wZW4tc291cmNlLCBtdWx0aS1mb3JtYXQgbGluZWFyL21hdHJpeCBiYXJjb2RlIGltYWdlIHByb2Nlc3NpbmcgbGlicmFyeS4=</description>
-  <sourcefile>zxing-cpp-2.3.0.tar.gz</sourcefile>
-  <sourcedir>zxing-cpp-2.3.0</sourcedir>
+  <sourcefile>zxing-cpp-3.0.2.tar.gz</sourcefile>
+  <sourcedir>zxing-cpp-3.0.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBaWElOR19FWEFNUExFUz1PRkYgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLiANCg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgWlhJTkdfQ19BUEk9T0ZGICAgICAgICAgICBcDQogICAgICAtRCBaWElOR19FWEFNUExFUz1PRkYgICAgICAgIFwNCiAgICAgIC1EIFpYSU5HX1dSSVRFUlM9Qk9USCAgICAgICAgXA0KICAgICAgLVcgbm8tZGV2IC4uDQo=</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>cmake</code>

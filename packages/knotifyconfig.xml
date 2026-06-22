@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>knotifyconfig</code>
   <description/>
-  <sourcefile>knotifyconfig-6.17.0.tar.xz</sourcefile>
-  <sourcedir>knotifyconfig-6.17.0</sourcedir>
+  <sourcefile>knotifyconfig-6.23.0.tar.xz</sourcefile>
+  <sourcedir>knotifyconfig-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

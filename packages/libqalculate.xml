@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>libqalculate</code>
   <description>VGhlIGxpYnFhbGN1bGF0ZSBwYWNrYWdlIGNvbnRhaW5zIGEgbGlicmFyeSB0aGF0IHByb3ZpZGVzIGZ1bmN0aW9ucyBmb3IgYSBtdWx0aS1wdXJwb3NlIGNhbGN1bGF0b3Iu</description>
-  <sourcefile>libqalculate-5.7.0.tar.gz</sourcefile>
-  <sourcedir>libqalculate-5.7.0</sourcedir>
+  <sourcefile>libqalculate-5.9.0.tar.gz</sourcefile>
+  <sourcedir>libqalculate-5.9.0</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnFhbGN1bGF0ZS01LjcuMA0K</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL2xpYnFhbGN1bGF0ZS01LjkuMA0K</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsDQpybSAtdiAvdXNyL2xpYi9saWJxYWxjdWxhdGUubGE=</install>
   <localbuild>0</localbuild>

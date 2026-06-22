@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>python3-certifi</code>
   <description>VGhlIGNlcnRpZmkgbW9kdWxlIHByb3ZpZGVzIE1vemlsbGHigJlzIGNhcmVmdWxseSBjdXJhdGVkIGNvbGxlY3Rpb24gb2YgUm9vdCBDZXJ0aWZpY2F0ZXMgZm9yIHZhbGlkYXRpbmcgdGhlIHRydXN0d29ydGhpbmVzcyBvZiBTU0wgY2VydGlmaWNhdGVzIHdoaWxlIHZlcmlmeWluZyB0aGUgaWRlbnRpdHkgb2YgVExTIGhvc3RzLg==</description>
-  <sourcefile>certifi-2025.8.3.tar.gz</sourcefile>
-  <sourcedir>certifi-2025.8.3</sourcedir>
+  <sourcefile>certifi-2026.1.4.tar.gz</sourcefile>
+  <sourcedir>certifi-2026.1.4</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdEDQo=</build>

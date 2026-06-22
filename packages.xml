@@ -1270,7 +1270,7 @@
     <package>plasma-activities</package>
     <package>libplasma</package>
     <package>kscreenlocker</package>
-    <package>kinfocenter</package>
+    <package>!kinfocenter</package>
     <package>kglobalacceld</package>
     <package>kwayland</package>
     <package>kwin</package>
@@ -1302,7 +1302,7 @@
     <package>plasma-vault</package>
     <package>kde-cli-tools</package>
     <package>systemsettings</package>
-    <package>plasma-thunderbolt</package>
+    <package>!plasma-thunderbolt</package>
     <package>plasma-firewall</package>
     <package>plasma-systemmonitor</package>
     <package>qqc2-breeze-style</package>
@@ -1858,5 +1858,7 @@
     <package>lunasvg</package>
     <package>plutovg</package>
     <package>gdk-pixbuf-loader-lunasvg</package>
+    <package>knighttime</package>
+    <package>plasma-keyboard</package>
   </packages>
 </packages>

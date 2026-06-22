@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>sddm-kcm</code>
   <description/>
-  <sourcefile>sddm-kcm-6.4.4.tar.xz</sourcefile>
-  <sourcedir>sddm-kcm-6.4.4</sourcedir>
+  <sourcefile>sddm-kcm-6.6.1.tar.xz</sourcefile>
+  <sourcedir>sddm-kcm-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

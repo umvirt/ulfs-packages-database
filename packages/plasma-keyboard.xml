@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>plasma-thunderbolt</code>
+  <code>plasma-keyboard</code>
   <description/>
-  <sourcefile>plasma-thunderbolt-6.4.4.tar.xz</sourcefile>
-  <sourcedir>plasma-thunderbolt-6.4.4</sourcedir>
+  <sourcefile>plasma-keyboard-6.6.1.tar.xz</sourcefile>
+  <sourcedir>plasma-keyboard-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

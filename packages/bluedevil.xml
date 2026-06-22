@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>bluedevil</code>
   <description/>
-  <sourcefile>bluedevil-6.4.4.tar.xz</sourcefile>
-  <sourcedir>bluedevil-6.4.4</sourcedir>
+  <sourcefile>bluedevil-6.6.1.tar.xz</sourcefile>
+  <sourcedir>bluedevil-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

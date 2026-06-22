@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kdoctools</code>
   <description/>
-  <sourcefile>kdoctools-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kdoctools-6.17.0</sourcedir>
+  <sourcefile>kdoctools-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kdoctools-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

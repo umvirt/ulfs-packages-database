@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kparts</code>
   <description/>
-  <sourcefile>kparts-6.17.0.tar.xz</sourcefile>
-  <sourcedir>kparts-6.17.0</sourcedir>
+  <sourcefile>kparts-6.23.0.tar.xz</sourcefile>
+  <sourcedir>kparts-6.23.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

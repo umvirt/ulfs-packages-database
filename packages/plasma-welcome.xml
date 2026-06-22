@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>plasma-welcome</code>
   <description/>
-  <sourcefile>plasma-welcome-6.4.4.tar.xz</sourcefile>
-  <sourcedir>plasma-welcome-6.4.4</sourcedir>
+  <sourcefile>plasma-welcome-6.6.1.tar.xz</sourcefile>
+  <sourcedir>plasma-welcome-6.6.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>
