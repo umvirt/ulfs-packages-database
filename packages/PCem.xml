@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>PCem</code>
   <description>eDg2IGVtdWxhdG9y</description>
-  <sourcefile>pcem-930a0648e5675a53f7ee26953f921f77e2fa400c.tar.gz</sourcefile>
-  <sourcedir>pcem-930a0648e5675a53f7ee26953f921f77e2fa400c</sourcedir>
+  <sourcefile>pcem-d674c4088e04a5fdc74e452c4d5284fa8920726d.tar.gz</sourcefile>
+  <sourcedir>pcem-d674c4088e04a5fdc74e452c4d5284fa8920726d</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>fluidsynth</code>
   <description>Rmx1aWRTeW50aCBpcyBhIHJlYWwtdGltZSBzb2Z0d2FyZSBzeW50aGVzaXplciBiYXNlZCBvbiB0aGUgU291bmRGb250IDIgc3BlY2lmaWNhdGlvbnMgYW5kIGhhcyByZWFjaGVkIHdpZGVzcHJlYWQgZGlzdHJpYnV0aW9uLg==</description>
-  <sourcefile>fluidsynth-2.5.1.tar.gz</sourcefile>
-  <sourcedir>fluidsynth-2.5.1</sourcedir>
+  <sourcefile>fluidsynth-2.5.5.tar.gz</sourcefile>
+  <sourcedir>fluidsynth-2.5.5</sourcedir>
   <unpack/>
   <configure>dGFyIC14ZiAuLi9nY2VtLTEuMTguMC50YXIuZ3oNCm12IC12IGdjZW0tMS4xOC4wLyogZ2NlbQ0Kcm0gLXYgZ2NlbS0xLjE4LjANCg0KbWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgLi4=</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>

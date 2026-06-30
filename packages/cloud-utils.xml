@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>cloud-utils</code>
   <description>VXNlZnVsIHNldCBvZiB1dGlsaXRpZXMgZm9yIGludGVyYWN0aW5nIHdpdGggYSBjbG91ZC4=</description>
-  <sourcefile>cloud-utils-0.33.tar.gz</sourcefile>
-  <sourcedir>cloud-utils-0.33</sourcedir>
+  <sourcefile>cloud-utils-0.34.tar.gz</sourcefile>
+  <sourcedir>cloud-utils-0.34</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>

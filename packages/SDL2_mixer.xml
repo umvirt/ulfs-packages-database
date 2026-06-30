@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>SDL2_mixer</code>
   <description>QW4gYXVkaW8gbWl4ZXIgdGhhdCBzdXBwb3J0cyB2YXJpb3VzIGZpbGUgZm9ybWF0cyBmb3IgU2ltcGxlIERpcmVjdG1lZGlhIExheWVyLg==</description>
-  <sourcefile>SDL2_mixer-2.8.1.tar.gz</sourcefile>
-  <sourcedir>SDL2_mixer-2.8.1</sourcedir>
+  <sourcefile>SDL2_mixer-2.8.2.tar.gz</sourcefile>
+  <sourcedir>SDL2_mixer-2.8.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

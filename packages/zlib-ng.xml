@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>zlib-ng</code>
   <description>emxpYiByZXBsYWNlbWVudCB3aXRoIG9wdGltaXphdGlvbnMgZm9yICJuZXh0IGdlbmVyYXRpb24iIHN5c3RlbXMu</description>
-  <sourcefile>zlib-ng-2.2.5.tar.gz</sourcefile>
-  <sourcedir>zlib-ng-2.2.5</sourcedir>
+  <sourcefile>zlib-ng-2.3.3.tar.gz</sourcefile>
+  <sourcedir>zlib-ng-2.3.3</sourcedir>
   <unpack/>
   <configure/>
   <build/>

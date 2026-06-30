@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>SDL2_net</code>
   <description>TmV0d29yayBsaWJyYXJ5IGZvciBTaW1wbGUgRGlyZWN0TWVkaWEgTGF5ZXIgMg==</description>
-  <sourcefile>SDL2_net-2.2.0.tar.gz</sourcefile>
-  <sourcedir>SDL2_net-2.2.0</sourcedir>
+  <sourcefile>SDL2_net-2.4.0.tar.gz</sourcefile>
+  <sourcedir>SDL2_net-2.4.0</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgJEFSR19TVEFUSUMgLS1kaXNhYmxlLXNkbHRlc3Q=</configure>
+  <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>sdl2-compat</code>

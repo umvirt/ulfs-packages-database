@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>python3-pyasn1</code>
   <description>UHVyZS1QeXRob24gaW1wbGVtZW50YXRpb24gb2YgQVNOLjEgdHlwZXMgYW5kIERFUi9CRVIvQ0VSIGNvZGVjcyAoWC4yMDgp</description>
-  <sourcefile>pyasn1-0.6.0.tar.gz</sourcefile>
-  <sourcedir>pyasn1-0.6.0</sourcedir>
+  <sourcefile>pyasn1-0.6.3.tar.gz</sourcefile>
+  <sourcedir>pyasn1-0.6.3</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzPWRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHB5YXNuMQ==</install>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIHB5YXNuMQ==</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

@@ -3,14 +3,19 @@
   <release>0.3</release>
   <code>simple-scan</code>
   <description>VGhlIFNpbXBsZS1zY2FuIHBhY2thZ2UgY29udGFpbnMgYSBtb2Rlcm4gZG9jdW1lbnQgc2Nhbm5pbmcgYXBwbGljYXRpb24uIEl0IGNhcHR1cmVzIGltYWdlcyB1c2luZyBTQU5FLCBhbmQgc3VwcG9ydHMgdGhlIGxhdGVzdCBjb2xvciBtYW5hZ2VtZW50IGFuZCBncmFwaGljcyBzdGFuZGFyZHMuDQoNCg==</description>
-  <sourcefile>simple-scan-46.0.tar.xz</sourcefile>
-  <sourcedir>simple-scan-46.0</sourcedir>
+  <sourcefile>simple-scan-49.1.tar.xz</sourcefile>
+  <sourcedir>simple-scan-49.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgLS1idWlsZHR5cGU9cmVsZWFzZSAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQgJiYNCm5pbmph</build>
+  <configure/>
+  <build/>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgJiYNCmd0ay11cGRhdGUtaWNvbi1jYWNoZSAtcXRmIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvcg==</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
+    <dependance>
+      <code>libadwaita</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>itstool</code>
       <weight>1</weight>

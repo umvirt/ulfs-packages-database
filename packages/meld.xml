@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>meld</code>
   <description>TWVsZCBoZWxwcyB5b3UgY29tcGFyZSBmaWxlcywgZGlyZWN0b3JpZXMsIGFuZCB2ZXJzaW9uIGNvbnRyb2xsZWQgcHJvamVjdHMuIEl0IHByb3ZpZGVzIHR3by0gYW5kIHRocmVlLXdheSBjb21wYXJpc29uIG9mIGJvdGggZmlsZXMgYW5kIGRpcmVjdG9yaWVzLCBhbmQgaGFzIHN1cHBvcnQgZm9yIG1hbnkgcG9wdWxhciB2ZXJzaW9uIGNvbnRyb2wgc3lzdGVtcy4=</description>
-  <sourcefile>meld-3.22.2.tar.xz</sourcefile>
-  <sourcedir>meld-3.22.2</sourcedir>
+  <sourcefile>meld-3.24.0.tar.xz</sourcefile>
+  <sourcedir>meld-3.24.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3Vzcg0K</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>glib</code>
@@ -32,12 +33,7 @@
       <weight>5</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>meld-3.22.2-py3.13.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

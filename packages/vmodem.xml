@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>vmodem</code>
   <description>VGhlIFZpcnR1YWwgSGF5ZXMgQ29tcGF0aWJsZSBNb2RlbSBzY3JpcHQgZm9yIExpbnV4Lg==</description>
-  <sourcefile>vmodem-ff408225577a7a5c59ae08446dffed947bd959c7.tar.gz</sourcefile>
-  <sourcedir>vmodem-ff408225577a7a5c59ae08446dffed947bd959c7</sourcedir>
+  <sourcefile>vmodem-73abc52708c05872ca9dcc970aa240e9bbf2f905.tar.gz</sourcefile>
+  <sourcedir>vmodem-73abc52708c05872ca9dcc970aa240e9bbf2f905</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>

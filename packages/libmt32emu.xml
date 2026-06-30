@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>libmt32emu</code>
   <description>QSBtdWx0aS1wbGF0Zm9ybSBzb2Z0d2FyZSBzeW50aGVzaXNlciBlbXVsYXRpbmcgcHJlLUdNIE1JREkgZGV2aWNlcyBzdWNoIGFzIHRoZSBSb2xhbmQgTVQtMzIsIENNLTMyTCwgQ00tNjQgYW5kIExBUEMtSS4=</description>
-  <sourcefile>libmt32emu_2_7_2.tar.gz</sourcefile>
-  <sourcedir>munt-libmt32emu_2_7_2</sourcedir>
+  <sourcefile>munt-2.8.2.tar.gz</sourcefile>
+  <sourcedir>munt-2.8.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgbXVudF9XSVRIX01UMzJFTVVfUVQ9T0ZGIFwNCiAgICAgIC4u</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>Y2QgbXQzMmVtdQ0KbWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgbXVudF9XSVRIX01UMzJFTVVfUVQ9T0ZGIFwNCiAgICAgIC4u</configure>
+  <build>Y2QgICAgICAgbXQzMmVtdS9idWlsZCAmJg0KbWFrZQ==</build>
+  <install>Y2QgICAgICAgbXQzMmVtdS9idWlsZCAmJg0KbWFrZSBpbnN0YWxs</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>
