@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>draco</code>
+  <description>RHJhY28gaXMgYSBsaWJyYXJ5IGZvciBjb21wcmVzc2luZyBhbmQgZGVjb21wcmVzc2luZyAzRCBnZW9tZXRyaWMgbWVzaGVzIGFuZCBwb2ludCBjbG91ZHMu</description>
+  <sourcefile>draco-1.5.7.tar.gz</sourcefile>
+  <sourcedir>draco-1.5.7</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBDTUFLRV9VTklUWV9CVUlMRD1PTiBcDQogICAgICAtRCBDTUFLRV9JTlRFUlBST0NFRFVSQUxfT1BUSU1JWkFUSU9OPU9OIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCiAgICAgIC1HIE5pbmphIFwNCiAgICAgIC4u</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

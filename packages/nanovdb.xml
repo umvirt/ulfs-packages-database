@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>nanovdb</code>
   <description>QSBsaWdodHdlaWdodCBHUFUgZnJpZW5kbHkgdmVyc2lvbiBvZiBWREIgaW5pdGlhbGx5IHRhcmdldGluZyByZW5kZXJpbmcgYXBwbGljYXRpb25zLg==</description>
-  <sourcefile>openvdb-12.0.0.tar.gz</sourcefile>
-  <sourcedir>openvdb-12.0.0</sourcedir>
+  <sourcefile>openvdb-13.0.0.tar.gz</sourcefile>
+  <sourcedir>openvdb-13.0.0</sourcedir>
   <unpack/>
   <configure>Y2QgbmFub3ZkYi9uYW5vdmRiDQoNCm1rZGlyIC12IGJ1aWxkICYmDQpjZCAgICAgICBidWlsZCAmJg0KDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgLi4=</configure>
   <build>Y2QgICAgICAgbmFub3ZkYi9uYW5vdmRiL2J1aWxkICYmDQptYWtl</build>

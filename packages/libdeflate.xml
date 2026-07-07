@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libdeflate</code>
   <description>SGVhdmlseSBvcHRpbWl6ZWQgbGlicmFyeSBmb3IgREVGTEFURS96bGliL2d6aXAgY29tcHJlc3Npb24gYW5kIGRlY29tcHJlc3Npb24=</description>
-  <sourcefile>libdeflate-1.20.tar.gz</sourcefile>
-  <sourcedir>libdeflate-1.20</sourcedir>
+  <sourcefile>libdeflate-1.25.tar.gz</sourcefile>
+  <sourcedir>libdeflate-1.25</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIC4uDQo=</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCg==</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA0K</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

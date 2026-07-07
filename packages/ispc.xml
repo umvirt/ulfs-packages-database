@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>ispc</code>
   <description>SW50ZWzCriBJbXBsaWNpdCBTUE1EIFByb2dyYW0gQ29tcGlsZXI=</description>
-  <sourcefile>ispc-1.28.2.tar.gz</sourcefile>
-  <sourcedir>ispc-1.28.2</sourcedir>
+  <sourcefile>ispc-1.31.0.tar.gz</sourcefile>
+  <sourcedir>ispc-1.31.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC4uIFwNCiAgICAtRyBOaW5qYSBcDQogICAgLUQgQVJNX0VOQUJMRUQ9T0ZGIFwNCiAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRCBJU1BDX0lOQ0xVREVfRVhBTVBMRVM9T0ZGIFwNCiAgICAtRCBJU1BDX09QQVFVRV9QVFJfTU9ERT1PRkYgXA0KICAgIC1EIElTUENfU1RBVElDX0xJTks9T0ZGIFwNCiAgICAtVyBuby1kZXYNCg==</configure>
   <build/>

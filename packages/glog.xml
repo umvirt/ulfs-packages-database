@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>glog</code>
+  <description>QysrIGltcGxlbWVudGF0aW9uIG9mIHRoZSBHb29nbGUgbG9nZ2luZyBtb2R1bGU=</description>
+  <sourcefile>glog-0.7.1.tar.gz</sourcefile>
+  <sourcedir>glog-0.7.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1Ob25lIFwNCiAgICAgIC1XIG5vLWRldiBcDQogICAgICAtRCBXSVRIX1BLR0NPTkZJRz1PTiBcDQogICAgICAuLg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-make</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

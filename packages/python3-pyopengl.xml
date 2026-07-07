@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>python3-pyopengl</code>
   <description>U3RhbmRhcmQgT3BlbkdMIGJpbmRpbmdzIGZvciBQeXRob24=</description>
-  <sourcefile>pyopengl-3.1.9.tar.gz</sourcefile>
-  <sourcedir>pyopengl-3.1.9</sourcedir>
+  <sourcefile>pyopengl-3.1.10.tar.gz</sourcefile>
+  <sourcedir>pyopengl-3.1.10</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciAkUFdEDQo=</build>

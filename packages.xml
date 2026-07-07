@@ -872,7 +872,7 @@
     <package>!libtool</package>
     <package>prrte</package>
     <package>pmix</package>
-    <package>OpenCOLLADA</package>
+    <package>!OpenCOLLADA</package>
     <package>fftw-double</package>
     <package>fftw-longdouble</package>
     <package>fftw-quad</package>
@@ -1860,5 +1860,12 @@
     <package>gdk-pixbuf-loader-lunasvg</package>
     <package>knighttime</package>
     <package>plasma-keyboard</package>
+    <package>libaec</package>
+    <package>python3-scikit-build-core</package>
+    <package>draco</package>
+    <package>ceres-solver</package>
+    <package>glog</package>
+    <package>SuiteSparse</package>
+    <package>python3-numpy-blas</package>
   </packages>
 </packages>

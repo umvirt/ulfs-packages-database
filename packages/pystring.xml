@@ -3,20 +3,15 @@
   <release>0.3</release>
   <code>pystring</code>
   <description>QysrIGZ1bmN0aW9ucyBtYXRjaGluZyB0aGUgaW50ZXJmYWNlIGFuZCBiZWhhdmlvciBvZiBweXRob24gc3RyaW5nIG1ldGhvZHMgd2l0aCBzdGQ6OnN0cmluZw==</description>
-  <sourcefile>pystring-1.1.4.tar.gz</sourcefile>
-  <sourcedir>pystring-1.1.4</sourcedir>
+  <sourcefile>pystring-1.2.0.tar.gz</sourcefile>
+  <sourcedir>pystring-1.2.0</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches>
-    <patch>
-      <filename>pystring-makefile.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

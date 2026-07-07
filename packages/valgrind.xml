@@ -3,15 +3,20 @@
   <release>0.3</release>
   <code>valgrind</code>
   <description>VmFsZ3JpbmQgaXMgYW4gaW5zdHJ1bWVudGF0aW9uIGZyYW1ld29yayBmb3IgYnVpbGRpbmcgZHluYW1pYyBhbmFseXNpcyB0b29scy4=</description>
-  <sourcefile>valgrind-3.25.1.tar.bz2</sourcefile>
-  <sourcedir>valgrind-3.25.1</sourcedir>
+  <sourcefile>valgrind-3.26.0.tar.bz2</sourcefile>
+  <sourcedir>valgrind-3.26.0</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICdzfC9kb2MvdmFsZ3JpbmR8fCcgZG9jcy9NYWtlZmlsZS5pbiAmJg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyIFwNCiAgICAgICAgICAgIC0tZGF0YWRpcj0vdXNyL3NoYXJlL2RvYy92YWxncmluZC0zLjI1LjENCg==</configure>
+  <configure>YXV0b3JlY29uZiAtZml2DQoNCnNlZCAtaSAnc3wvZG9jL3ZhbGdyaW5kfHwnIGRvY3MvTWFrZWZpbGUuaW4gJiYNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICAgICAgICAtLWRhdGFkaXI9L3Vzci9zaGFyZS9kb2MvdmFsZ3JpbmQtMy4yNi4wDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>valgrind-3.26.0-upstream_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

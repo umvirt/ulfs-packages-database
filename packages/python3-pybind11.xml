@@ -3,14 +3,27 @@
   <release>0.3</release>
   <code>python3-pybind11</code>
   <description>U2VhbWxlc3Mgb3BlcmFiaWxpdHkgYmV0d2VlbiBDKysxMSBhbmQgUHl0aG9u</description>
-  <sourcefile>pybind11-2.12.0.tar.gz</sourcefile>
-  <sourcedir>pybind11-2.12.0</sourcedir>
+  <sourcefile>pybind11-3.0.4.tar.gz</sourcefile>
+  <sourcedir>pybind11-3.0.4</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
-  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHB5YmluZDExDQoNCnNlZCAtZSAncy9cJHtwY2ZpbGVkaXJ9XC8uLlwvLi5cLy9cL3Vzci8nIC1pIGJ1aWxkL2xpYi9weWJpbmQxMS9zaGFyZS9wa2djb25maWcvcHliaW5kMTEucGMNCg0KbWtkaXIgLXYgL3Vzci9saWIvY21ha2UvcHliaW5kMTENCg0KaW5zdGFsbCAtdiAtZCAtbTc1NSBidWlsZC9saWIvcHliaW5kMTEvc2hhcmUvY21ha2UvcHliaW5kMTEgL3Vzci9saWIvY21ha2UNCmluc3RhbGwgLXYgLW02NDQgYnVpbGQvbGliL3B5YmluZDExL3NoYXJlL2NtYWtlL3B5YmluZDExLyogL3Vzci9saWIvY21ha2UvcHliaW5kMTENCmluc3RhbGwgLXYgLW02NDQgYnVpbGQvbGliL3B5YmluZDExL3NoYXJlL3BrZ2NvbmZpZy9weWJpbmQxMS5wYyAvdXNyL2xpYi9wa2djb25maWcNCg0KY3AgLXJ2ICBidWlsZC9saWIvcHliaW5kMTEvaW5jbHVkZS9weWJpbmQxMSAvdXNyL2luY2x1ZGUv</install>
+  <install>X3NpdGVwa2dzPSIkKHB5dGhvbjMgLWMgJ2ltcG9ydCBzaXRlOyBwcmludChzaXRlLmdldHNpdGVwYWNrYWdlcygpWzBdKScpIg0KDQpwaXAzIGluc3RhbGwgLS1uby1pbmRleCAtLWZpbmQtbGlua3MgZGlzdCAtLW5vLWNhY2hlLWRpciAtLW5vLXVzZXIgcHliaW5kMTENCg0KaW5zdGFsbCAtZCAtbTc1NSAiL3VzciIve2luY2x1ZGUsbGliL3tjbWFrZSxwa2djb25maWd9fQ0KbG4gLXNyICIke19zaXRlcGtnc30vcHliaW5kMTEvaW5jbHVkZS9weWJpbmQxMSIgIi91c3IvaW5jbHVkZS9weWJpbmQxMSINCmxuIC1zciAiJHtfc2l0ZXBrZ3N9L3B5YmluZDExL3NoYXJlL2NtYWtlL3B5YmluZDExIiAiL3Vzci9saWIvY21ha2UvcHliaW5kMTEiDQpsbiAtc3IgIiR7X3NpdGVwa2dzfS9weWJpbmQxMS9zaGFyZS9wa2djb25maWcvcHliaW5kMTEucGMiICIvdXNyL2xpYi9wa2djb25maWcvcHliaW5kMTEucGMiDQo=</install>
   <localbuild>0</localbuild>
-  <dependances/>
+  <dependances>
+    <dependance>
+      <code>python3-installer</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-build</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-scikit-build-core</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
   <patches/>
   <addons/>
   <nestings/>

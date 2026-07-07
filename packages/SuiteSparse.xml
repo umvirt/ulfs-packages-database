@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>SuiteSparse</code>
+  <description>QSBzdWl0ZSBvZiBzcGFyc2UgbWF0cml4IGFsZ29yaXRobXMgYXV0aG9yZWQgb3IgY28tYXV0aG9yZWQgYnkgVGltIERhdmlzLCBUZXhhcyBBJk0gVW5pdmVyc2l0eS4g</description>
+  <sourcefile>SuiteSparse-7.12.2.tar.gz</sourcefile>
+  <sourcedir>SuiteSparse-7.12.2</sourcedir>
+  <unpack/>
+  <configure>Y2QgICAgYnVpbGQgJiYNCg0KY21ha2UgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRCBCTEFfVkVORE9SPUdlbmVyaWMgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1Ob25lIFwNCiAgICAgIC1EIE5TVEFUSUM9T04gXA0KICAgICAgLi4=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-make</template>
+  <dependances>
+    <dependance>
+      <code>OpenBLAS</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>OpenImageIO</code>
   <description>UmVhZGluZywgd3JpdGluZywgYW5kIHByb2Nlc3NpbmcgaW1hZ2VzIGluIGEgd2lkZSB2YXJpZXR5IG9mIGZpbGUgZm9ybWF0cywgdXNpbmcgYSBmb3JtYXQtYWdub3N0aWMgQVBJLCBhaW1lZCBhdCBWRlggYXBwbGljYXRpb25zLg==</description>
-  <sourcefile>OpenImageIO-v3.0.9.1.tar.gz</sourcefile>
-  <sourcedir>OpenImageIO-3.0.9.1</sourcedir>
+  <sourcefile>OpenImageIO-3.1.12.1.tar.gz</sourcefile>
+  <sourcedir>OpenImageIO-3.1.12.1</sourcedir>
   <unpack/>
-  <configure>I2V4cG9ydCBwdWdpeG1sX0RJUj0vdXNyDQoNCiNta2RpciAtdiBidWlsZCAmJg0KI2NkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtQmJ1aWxkIFwNCiAgICAtR05pbmphIFwNCiAgICAtRFVTRV9QWVRIT049T04gXA0KLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgIFwNCiAgLURDTUFLRV9JTlNUQUxMX0xJQkRJUj1saWIgXA0KLURDTUFLRV9DWFhfU1RBTkRBUkQ9MTcgXA0KLURCVUlMRF9NSVNTSU5HX0ZNVD1PRkYgXA0KICAgIC1EU1RPUF9PTl9XQVJOSU5HPU9GRiBcDQogICAgLURPSUlPX0JVSUxEX1RFU1RTPU9GRiBcDQogICAgLURPSUlPX0JVSUxEX1RPT0xTPU9GRiANCg==</configure>
-  <build>bmluamEgLUMgYnVpbGQNCg==</build>
-  <install>IG5pbmphIC1DIGJ1aWxkIGluc3RhbGw=</install>
+  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAuLiBcDQogICAgLUdOaW5qYSBcDQogICAgLURVU0VfUFlUSE9OPU9OIFwNCiAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgIC1EQ01BS0VfSU5TVEFMTF9MSUJESVI9bGliIFwNCiAgICAtRE9JSU9fQlVJTERfVE9PTFM9T04gXA0KICAgIC1ET0lJT19JTlRFUk5BTElaRV9GTVQ9T0ZGIFwNCiAgICAtRFVTRV9FWFRFUk5BTF9QVUdJWE1MPU9OIFwNCiAgICAtRFNUT1BfT05fV0FSTklORz1PRkYNCg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
     <dependance>
       <code>OpenColorIO</code>

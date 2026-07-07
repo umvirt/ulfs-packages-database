@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>openvdb</code>
   <description>T3BlblZEQiAtIFNwYXJzZSB2b2x1bWUgZGF0YSBzdHJ1Y3R1cmUgYW5kIHRvb2xzLg==</description>
-  <sourcefile>openvdb-12.0.0.tar.gz</sourcefile>
-  <sourcedir>openvdb-12.0.0</sourcedir>
+  <sourcefile>openvdb-13.0.0.tar.gz</sourcefile>
+  <sourcedir>openvdb-13.0.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgLi4=</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>boost</code>
@@ -24,7 +25,12 @@
       <weight>3</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>openvdb-tbb2023.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

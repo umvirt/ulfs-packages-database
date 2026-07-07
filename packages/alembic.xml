@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>alembic</code>
   <description/>
-  <sourcefile>alembic-1.8.5.tar.gz</sourcefile>
-  <sourcedir>alembic-1.8.5</sourcedir>
+  <sourcefile>alembic-1.8.11.tar.gz</sourcefile>
+  <sourcedir>alembic-1.8.11</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KDQpjbWFrZSAuLiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRFVTRV9IREY1PU9O</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA0K</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>hdf5</code>

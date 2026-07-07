@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>fftw-single</code>
   <description>RkZUVyBpcyBhIEMgc3Vicm91dGluZSBsaWJyYXJ5IGZvciBjb21wdXRpbmcgdGhlIGRpc2NyZXRlIEZvdXJpZXIgdHJhbnNmb3JtIChERlQpIGluIG9uZSBvciBtb3JlIGRpbWVuc2lvbnMsIG9mIGFyYml0cmFyeSBpbnB1dCBzaXplLCBhbmQgb2YgYm90aCByZWFsIGFuZCBjb21wbGV4IGRhdGEgKGFzIHdlbGwgYXMgb2YgZXZlbi9vZGQgZGF0YSwgaS5lLiB0aGUgZGlzY3JldGUgY29zaW5lL3NpbmUgdHJhbnNmb3JtcyBvciBEQ1QvRFNUKS4=</description>
-  <sourcefile>fftw-3.3.10.tar.gz</sourcefile>
-  <sourcedir>fftw-3.3.10</sourcedir>
+  <sourcefile>fftw-3.3.11.tar.gz</sourcefile>
+  <sourcedir>fftw-3.3.11</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1zaGFyZWQgIFwNCiAgICAgICAgICAgIC0tZGlzYWJsZS1zdGF0aWMgXA0KICAgICAgICAgICAgLS1lbmFibGUtdGhyZWFkcyBcDQogICAgICAgICAgICAtLWVuYWJsZS1zc2UyICAgIFwNCiAgICAgICAgICAgIC0tZW5hYmxlLWF2eCAgICAgXA0KICAgICAgICAgICAgLS1lbmFibGUtYXZ4MiAgICBcDQogICAgICAgICAgICAtLWVuYWJsZS1mbG9hdA==</configure>
   <build/>

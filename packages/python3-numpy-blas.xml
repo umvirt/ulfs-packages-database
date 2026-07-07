@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>python3-numpy-blas</code>
+  <description>TnVtUHkgaXMgdGhlIGZ1bmRhbWVudGFsIHBhY2thZ2UgZm9yIHNjaWVudGlmaWMgY29tcHV0aW5nIHdpdGggUHl0aG9uLg==</description>
+  <sourcefile>numpy-2.4.2.tar.gz</sourcefile>
+  <sourcedir>numpy-2.4.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>I2Rpc2FibGUgY3B1IG9wdGltaXphdGlvbnMgZm9yIHFlbXU2NCBzdXBwb3J0IChuZWVkZWQgdG8gZml4IHB5dGhvbjMtcHliaW5kMTEgYnVpbGQgZXJyb3IpDQpwaXAzIHdoZWVsIC13IGRpc3QgLS1uby1idWlsZC1pc29sYXRpb24gLS1uby1kZXBzIC0tbm8tY2FjaGUtZGlyIFwNCiAgICAgICAgICAgLUNzZXR1cC1hcmdzPS1EYmxhcz1jYmxhcyBcDQogICAgICAgICAgIC1Dc2V0dXAtYXJncz0tRGxhcGFjaz1sYXBhY2sgXA0KICAgICAgICAgICAtQ3NldHVwLWFyZ3M9LURlbmFibGUtb3Blbm1wPXRydWUgXA0KICAgICAgICAgICAtQ3NldHVwLWFyZ3M9LURkaXNhYmxlLW9wdGltaXphdGlvbj10cnVlXA0KICAgICAgICAgICAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIG51bXB5DQo=</install>
+  <localbuild>0</localbuild>
+  <preparation>I2RlbGV0ZSBpbnN0YWxsZWQgbW9kdWxlDQpybSAtcmZ2IC91c3IvbGliL3B5dGhvbjMuMTQvc2l0ZS1wYWNrYWdlcy9udW1weSo=</preparation>
+  <dependances>
+    <dependance>
+      <code>python3-numpy</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>eigen</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>OpenBLAS</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -3,14 +3,23 @@
   <release>0.3</release>
   <code>blender</code>
   <description>RnJlZSBhbmQgT3BlbiAzRCBDcmVhdGlvbiBTb2Z0d2FyZS4=</description>
-  <sourcefile>blender-5.0.0.tar.xz</sourcefile>
-  <sourcedir>blender-5.0.0</sourcedir>
+  <sourcefile>blender-5.1.2.tar.xz</sourcefile>
+  <sourcedir>blender-5.1.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIFwNCiAgICAtR05pbmphIFwNCiAgICAtQy4uL2J1aWxkX2ZpbGVzL2NtYWtlL2NvbmZpZy9ibGVuZGVyX3JlbGVhc2UuY21ha2UgLi4gXA0KICAgIC1EVVNEX1JPT1RfRElSPS91c3IgXA0KICAgIC1EV0lUSF9VU0Q9T04gXA0KICAgIC1EV0lUSF9PUEVOQ09MT1JJTz1PTiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgLURXSVRIX0lOU1RBTExfUE9SVEFCTEU9T0ZGIFwNCiAgICAtRFdJVEhfUFlUSE9OX0lOU1RBTEw9T0ZGIFwNCiAgICAtRFdJVEhfU1RBVElDX0xJQlM9T0ZGIFwNCiAgICAtRFBZVEhPTl9WRVJTSU9OPTMuMTMgXA0KICAgIC1EUFlUSE9OX0xJQlBBVEg9L3Vzci9saWIgXA0KICAgIC1EUFlUSE9OX0xJQlJBUlk9cHl0aG9uMy4xMyBcDQogICAgLURQWVRIT05fSU5DTFVERV9ESVJTPS91c3IvaW5jbHVkZS9weXRob24zLjEz</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIFwNCiAgICAtR05pbmphIFwNCiAgICAtQy4uL2J1aWxkX2ZpbGVzL2NtYWtlL2NvbmZpZy9ibGVuZGVyX3JlbGVhc2UuY21ha2UgLi4gXA0KICAgIC1EVVNEX1JPT1RfRElSPS91c3IgXA0KICAgIC1EV0lUSF9VU0Q9T04gXA0KICAgIC1EV0lUSF9PUEVOQ09MT1JJTz1PTiBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSBcDQogICAgLURXSVRIX0lOU1RBTExfUE9SVEFCTEU9T0ZGIFwNCiAgICAtRFdJVEhfUFlUSE9OX0lOU1RBTEw9T0ZGIFwNCiAgICAtRFdJVEhfU1RBVElDX0xJQlM9T0ZGIFwNCiAgICAtRFBZVEhPTl9WRVJTSU9OPTMuMTQgXA0KICAgIC1EUFlUSE9OX0xJQlBBVEg9L3Vzci9saWIgXA0KICAgIC1EUFlUSE9OX0xJQlJBUlk9cHl0aG9uMy4xNCBcDQogICAgLURQWVRIT05fSU5DTFVERV9ESVJTPS91c3IvaW5jbHVkZS9weXRob24zLjE0</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
+    <dependance>
+      <code>eigen</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>ceres-solver</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>python3-numpy</code>
       <weight>1</weight>
@@ -38,10 +47,6 @@
     <dependance>
       <code>fftw-single</code>
       <weight>7</weight>
-    </dependance>
-    <dependance>
-      <code>OpenCOLLADA</code>
-      <weight>8</weight>
     </dependance>
     <dependance>
       <code>fftw-double</code>

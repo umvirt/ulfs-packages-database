@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>pmix</code>
   <description>T3BlblBNSXggUHJvamVjdCBSZXBvc2l0b3J5</description>
-  <sourcefile>pmix-5.0.9.tar.bz2</sourcefile>
-  <sourcedir>pmix-5.0.9</sourcedir>
+  <sourcefile>pmix-5.0.11.tar.bz2</sourcefile>
+  <sourcedir>pmix-5.0.11</sourcedir>
   <unpack/>
   <configure/>
   <build/>

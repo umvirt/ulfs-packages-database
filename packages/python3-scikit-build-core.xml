@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>python3-scikit-build-core</code>
+  <description>QSBuZXh0IGdlbmVyYXRpb24gUHl0aG9uIENNYWtlIGFkYXB0b3IgYW5kIFB5dGhvbiBBUEkgZm9yIHBsdWdpbnM=</description>
+  <sourcefile>scikit-build-core-0.12.2.tar.gz</sourcefile>
+  <sourcedir>scikit-build-core-0.12.2</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAkUFdE</build>
+  <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby1jYWNoZS1kaXIgLS1uby11c2VyIHNjaWtpdC1idWlsZC1jb3Jl</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>python3-typing_extensions</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-setuptools_scm</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-hatchling</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-hatch_vcs</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>python3-build</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

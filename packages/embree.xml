@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>embree</code>
   <description>RW1icmVlIHJheSB0cmFjaW5nIGtlcm5lbHMgcmVwb3NpdG9yeS4=</description>
-  <sourcefile>embree-4.4.0.tar.gz</sourcefile>
-  <sourcedir>embree-4.4.0</sourcedir>
+  <sourcefile>embree-4.4.1.tar.gz</sourcefile>
+  <sourcedir>embree-4.4.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIC4u</configure>
   <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCg==</build>

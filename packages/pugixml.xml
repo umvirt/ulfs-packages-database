@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>pugixml</code>
   <description>TGlnaHQtd2VpZ2h0LCBzaW1wbGUgYW5kIGZhc3QgWE1MIHBhcnNlciBmb3IgQysrIHdpdGggWFBhdGggc3VwcG9ydA==</description>
-  <sourcefile>pugixml-1.14.tar.gz</sourcefile>
-  <sourcedir>pugixml-1.14</sourcedir>
+  <sourcefile>pugixml-1.16.tar.gz</sourcefile>
+  <sourcedir>pugixml-1.16</sourcedir>
   <unpack/>
-  <configure>Y21ha2UgLUIgYnVpbGQgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICBcDQogICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlDQo=</configure>
-  <build>bWFrZSAtQyBidWlsZA==</build>
-  <install>bWFrZSAtQyBidWlsZCBpbnN0YWxsDQo=</install>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAuLiBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1EQlVJTERfU0hBUkVEX0xJQlM9T04gXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UNCg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

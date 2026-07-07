@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>minizip-ng</code>
   <description>Rm9yayBvZiB0aGUgcG9wdWxhciB6aXAgbWFuaXB1bGF0aW9uIGxpYnJhcnkgZm91bmQgaW4gdGhlIHpsaWIgZGlzdHJpYnV0aW9uLg==</description>
-  <sourcefile>minizip-ng-4.0.5.tar.gz</sourcefile>
-  <sourcedir>minizip-ng-4.0.5</sourcedir>
+  <sourcefile>minizip-ng-4.2.2.tar.gz</sourcefile>
+  <sourcedir>minizip-ng-4.2.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1ETVpfTElCX1NVRkZJWD0iLW5nIiBcDQogICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCiAgICAgIC4uDQo=</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCg==</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAgIC1ETVpfTElCX1NVRkZJWD0iLW5nIiBcDQogICAgICAtRE1aX1BQTUQ9Ik9GRiIgICAgICAgXA0KICAgICAgLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQogICAgICAuLg0K</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

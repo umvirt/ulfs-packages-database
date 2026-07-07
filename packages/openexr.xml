@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>openexr</code>
   <description>VGhlIE9wZW5FWFIgcHJvamVjdCBwcm92aWRlcyB0aGUgc3BlY2lmaWNhdGlvbiBhbmQgcmVmZXJlbmNlIGltcGxlbWVudGF0aW9uIG9mIHRoZSBFWFIgZmlsZSBmb3JtYXQsIHRoZSBwcm9mZXNzaW9uYWwtZ3JhZGUgaW1hZ2Ugc3RvcmFnZSBmb3JtYXQgb2YgdGhlIG1vdGlvbiBwaWN0dXJlIGluZHVzdHJ5Lg==</description>
-  <sourcefile>openexr-3.3.5.tar.gz</sourcefile>
-  <sourcedir>openexr-3.3.5</sourcedir>
+  <sourcefile>openexr-3.4.13.tar.gz</sourcefile>
+  <sourcedir>openexr-3.4.13</sourcedir>
   <unpack/>
   <configure/>
   <build/>

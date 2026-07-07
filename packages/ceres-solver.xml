@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>ceres-solver</code>
+  <description>Q2VyZXMgU29sdmVyIDEgaXMgYW4gb3BlbiBzb3VyY2UgQysrIGxpYnJhcnkgZm9yIG1vZGVsaW5nIGFuZCBzb2x2aW5nIGxhcmdlLCBjb21wbGljYXRlZCBvcHRpbWl6YXRpb24gcHJvYmxlbXMuIEl0IGNhbiBiZSB1c2VkIHRvIHNvbHZlIE5vbi1saW5lYXIgTGVhc3QgU3F1YXJlcyBwcm9ibGVtcyB3aXRoIGJvdW5kcyBjb25zdHJhaW50cyBhbmQgZ2VuZXJhbCB1bmNvbnN0cmFpbmVkIG9wdGltaXphdGlvbiBwcm9ibGVtcy4=</description>
+  <sourcefile>ceres-solver-2.2.0.tar.gz</sourcefile>
+  <sourcedir>ceres-solver-2.2.0</sourcedir>
+  <unpack/>
+  <configure>IyBlaWdlbiA1LnggY29tcGF0DQogIHNlZCAtaSAic3xFaWdlbjMgMy4zfEVpZ2VuM3xnIiBDTWFrZUxpc3RzLnR4dA0KICBzZWQgLWkgInN8RWlnZW4zIFwke0NFUkVTX0VJR0VOX1ZFUlNJT059fEVpZ2VuM3xnIiBjbWFrZS9DZXJlc0NvbmZpZy5jbWFrZS5pbg0KDQpta2RpciBidWlsZA0KY2QgYnVpbGQNCg0KY21ha2UgXA0KICAgICAgLUdOaW5qYSBcDQogICAgICAtRENNQUtFX0JVSUxEX1RZUEU9Tm9uZSBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURFSUdFTlNQQVJTRT1PTiBcDQogICAgICAtREJVSUxEX1NIQVJFRF9MSUJTPU9OIFwNCiAgICAgIC1EQlVJTERfVEVTVElORz1PRkYgXA0KICAgICAgLURCVUlMRF9FWEFNUExFUz1PRkYgXA0KICAgICAgLURCVUlMRF9CRU5DSE1BUktTPU9GRiBcDQogICAgICAuLg==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
+  <dependances>
+    <dependance>
+      <code>glog</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>SuiteSparse</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

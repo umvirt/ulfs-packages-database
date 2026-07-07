@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>OpenColorIO</code>
   <description>QSBjb2xvciBtYW5hZ2VtZW50IGZyYW1ld29yayBmb3IgdmlzdWFsIGVmZmVjdHMgYW5kIGFuaW1hdGlvbi4=</description>
-  <sourcefile>OpenColorIO-2.4.2.tar.gz</sourcefile>
-  <sourcedir>OpenColorIO-2.4.2</sourcedir>
+  <sourcefile>OpenColorIO-2.5.1.tar.gz</sourcefile>
+  <sourcedir>OpenColorIO-2.5.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAtRENNQUtFX0lOU1RBTExfTElCRElSPWxpYiBcDQogICAgLURDTUFLRV9TS0lQX0lOU1RBTExfUlBBVEg9WUVTIFwNCi4u</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgIFwNCiAgICAtRENNQUtFX0lOU1RBTExfTElCRElSPWxpYiBcDQogICAgLURDTUFLRV9TS0lQX0lOU1RBTExfUlBBVEg9WUVTIFwNCiAgICAuLg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>python3-pybind11</code>
