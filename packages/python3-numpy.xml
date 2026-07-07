@@ -7,7 +7,7 @@
   <sourcedir>numpy-2.4.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
-  <build>cGlwMyB3aGVlbCAtdyBkaXN0IC0tbm8tYnVpbGQtaXNvbGF0aW9uIC0tbm8tZGVwcyAtLW5vLWNhY2hlLWRpciBcDQogICAgICAgICAgIC1DIHNldHVwLWFyZ3M9LURhbGxvdy1ub2JsYXM9dHJ1ZSAkUFdE</build>
+  <build>I2Rpc2FibGUgY3B1IG9wdGltaXphdGlvbnMgZm9yIHFlbXU2NCBzdXBwb3J0IChuZWVkZWQgdG8gZml4IHB5dGhvbjMtcHliaW5kMTEgYnVpbGQgZXJyb3IpDQpwaXAzIHdoZWVsIC13IGRpc3QgLS1uby1idWlsZC1pc29sYXRpb24gLS1uby1kZXBzIC0tbm8tY2FjaGUtZGlyIFwNCiAgICAgICAgICAgLUMgc2V0dXAtYXJncz0tRGFsbG93LW5vYmxhcz10cnVlIC1Dc2V0dXAtYXJncz0tRGRpc2FibGUtb3B0aW1pemF0aW9uPXRydWUgJFBXRA==</build>
   <install>cGlwMyBpbnN0YWxsIC0tbm8taW5kZXggLS1maW5kLWxpbmtzIGRpc3QgLS1uby11c2VyIG51bXB5DQo=</install>
   <localbuild>0</localbuild>
   <dependances>
