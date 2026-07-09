@@ -3,7 +3,7 @@
   <release>0.3</release>
   <code>unrar</code>
   <description>VGhlIFVuUmFyIHBhY2thZ2UgY29udGFpbnMgYSBSQVIgZXh0cmFjdGlvbiB1dGlsaXR5IHVzZWQgZm9yIGV4dHJhY3RpbmcgZmlsZXMgZnJvbSBSQVIgYXJjaGl2ZXMuIFJBUiBhcmNoaXZlcyBhcmUgdXN1YWxseSBjcmVhdGVkIHdpdGggV2luUkFSLCBwcmltYXJpbHkgaW4gYSBXaW5kb3dzIGVudmlyb25tZW50Lg==</description>
-  <sourcefile>unrarsrc-7.1.10.tar.gz</sourcefile>
+  <sourcefile>unrarsrc-7.2.4.tar.gz</sourcefile>
   <sourcedir>unrar</sourcedir>
   <unpack/>
   <configure>Iw==</configure>

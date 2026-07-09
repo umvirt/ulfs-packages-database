@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>gnome-chess</code>
+  <code>!gnome-chess</code>
   <description>R05PTUUgQ2hlc3MgaXMgYSAyRCBjaGVzcyBnYW1lLCB3aGVyZSBnYW1lcyBjYW4gYmUgcGxheWVkIGJldHdlZW4gYSBjb21iaW5hdGlvbiBvZiBodW1hbiBhbmQgY29tcHV0ZXIgcGxheWVycy4g</description>
-  <sourcefile>gnome-chess-3.38.1.tar.xz</sourcefile>
-  <sourcedir>gnome-chess-3.38.1</sourcedir>
+  <sourcefile>gnome-chess-50.0.tar.xz</sourcefile>
+  <sourcedir>gnome-chess-50.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiAtLXByZWZpeD0vdXNy</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
+    <dependance>
+      <code>libadwaita</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>gnuchess</code>
       <weight>1</weight>

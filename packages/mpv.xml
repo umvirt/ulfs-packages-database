@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>mpv</code>
   <description>bXB2IGlzIGEgZnJlZSBtZWRpYSBwbGF5ZXIgZm9yIHRoZSBjb21tYW5kIGxpbmUuIEl0IHN1cHBvcnRzIGEgd2lkZSB2YXJpZXR5IG9mIG1lZGlhIGZpbGUgZm9ybWF0cywgYXVkaW8gYW5kIHZpZGVvIGNvZGVjcywgYW5kIHN1YnRpdGxlIHR5cGVzLg==</description>
-  <sourcefile>mpv-0.40.0.tar.gz</sourcefile>
-  <sourcedir>mpv-0.40.0</sourcedir>
+  <sourcefile>mpv-0.41.0.tar.gz</sourcefile>
+  <sourcedir>mpv-0.41.0</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICdzL0FWX09QVF9UWVBFX0NIQU5ORUxfTEFZT1VUL0FWX09QVF9UWVBFX0NITEFZT1VULycgZmlsdGVycy9mX2xhdmZpLmMNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCB4MTE9ZW5hYmxlZCAgICAgIFwNCiAgICAgICAgICAgIC4uIA==</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCB4MTE9ZW5hYmxlZCAgICAgIFwNCiAgICAgICAgICAgIC4uDQo=</configure>
   <build/>
-  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KZ3RrLXVwZGF0ZS1pY29uLWNhY2hlIC1xdGYgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yICYmDQp1cGRhdGUtZGVza3RvcC1kYXRhYmFzZSAtcQ==</install>
+  <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwNCg0KZ3RrLXVwZGF0ZS1pY29uLWNhY2hlIC1xdGYgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yICYmDQp1cGRhdGUtZGVza3RvcC1kYXRhYmFzZSAtcQ0K</install>
   <localbuild>0</localbuild>
   <template>meson</template>
   <dependances>

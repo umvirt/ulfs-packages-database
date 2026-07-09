@@ -3,14 +3,19 @@
   <release>0.3</release>
   <code>gnome-nibbles</code>
   <description>R05PTUUgTmliYmxlcyBmb3IgTGludXggLSBHdWlkZSBhIHdvcm0gYXJvdW5kIGEgbWF6ZS4=</description>
-  <sourcefile>gnome-nibbles-4.0.4.tar.xz</sourcefile>
-  <sourcedir>gnome-nibbles-4.0.4</sourcedir>
+  <sourcefile>gnome-nibbles-4.5.2.tar.xz</sourcefile>
+  <sourcedir>gnome-nibbles-4.5.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC4u</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
+    <dependance>
+      <code>libadwaita</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>cairo</code>
       <weight>1</weight>

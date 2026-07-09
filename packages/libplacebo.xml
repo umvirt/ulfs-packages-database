@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>libplacebo</code>
   <description>VGhlIGxpYnBsYWNlYm8gcGFja2FnZSBjb250YWlucyBhIGxpYnJhcnkgZm9yIHByb2Nlc3NpbmcgaW1hZ2UgYW5kIHZpZGVvIHByaW1pdGl2ZXMgYW5kIHNoYWRlcnMuIEl0IGFsc28gaW5jbHVkZXMgYSBoaWdoIHF1YWxpdHkgcmVuZGVyaW5nIHBpcGVsaW5lIHRoYXQgc3VwcG9ydHMgT3BlbkdMIGFuZCBWdWxrYW4u</description>
-  <sourcefile>libplacebo-7.351.0.tar.gz</sourcefile>
-  <sourcedir>libplacebo-7.351.0</sourcedir>
+  <sourcefile>libplacebo-7.360.0.tar.gz</sourcefile>
+  <sourcedir>libplacebo-7.360.0</sourcedir>
   <unpack/>
-  <configure>c2VkIC1lICcyMDRhXCAgICB0cmVlID0gRVQucGFyc2UoeG1sZmlsZSknICAgICAgICAgICAgICAgICBcDQogICAgLWUgJ3MvVmtYTUwoRVQucGFyc2UoeG1sZmlsZSkpL1ZrWE1MKHRyZWUuZ2V0cm9vdCgpKS8nIFwNCiAgICAtaSBzcmMvdnVsa2FuL3V0aWxzX2dlbi5weQ0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KbWVzb24gc2V0dXAgLi4gICAgICAgICAgICBcDQogICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgIC0tYnVpbGR0eXBlPXJlbGVhc2UgXA0KICAgICAgLUQgdGVzdHM9dHJ1ZSAgICAgICBcDQogICAgICAtRCBkZW1vcz1mYWxzZSA=</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIHRlc3RzPXRydWUgICAgICAgXA0KICAgICAgLUQgZGVtb3M9ZmFsc2UNCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
@@ -29,7 +29,7 @@
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>python3-glad2</code>
+      <code>glad</code>
       <weight>5</weight>
     </dependance>
   </dependances>

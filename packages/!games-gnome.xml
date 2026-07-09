@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>games-gnome</code>
+  <code>!games-gnome</code>
   <description>R2FtZXMgZnJvbSBHbm9tZSBkZXNrdG9wIGVudmlyb25tZW50Lg==</description>
   <sourcefile/>
   <sourcedir/>
@@ -12,11 +12,11 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>gnome-chess</code>
+      <code>!gnome-chess</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>gnome-mines</code>
+      <code>!gnome-mines</code>
       <weight>2</weight>
     </dependance>
     <dependance>
@@ -24,7 +24,7 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>quadrapassel</code>
+      <code>!quadrapassel</code>
       <weight>4</weight>
     </dependance>
     <dependance>
@@ -32,11 +32,11 @@
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>five-or-more</code>
+      <code>!five-or-more</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>gnome-mahjongg</code>
+      <code>!gnome-mahjongg</code>
       <weight>7</weight>
     </dependance>
   </dependances>

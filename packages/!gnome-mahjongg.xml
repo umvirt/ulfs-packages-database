@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>libmanette</code>
-  <description>VGhlIHNpbXBsZSBHT2JqZWN0IGdhbWUgY29udHJvbGxlciBsaWJyYXJ5Lg==</description>
-  <sourcefile>libmanette-0.2.13.tar.xz</sourcefile>
-  <sourcedir>libmanette-0.2.13</sourcedir>
+  <code>!gnome-mahjongg</code>
+  <description>TWFoam9uZ2cgZ2FtZSBmcm9tIEdOT01FIHByb2plY3Qu</description>
+  <sourcefile>gnome-mahjongg-49.1.tar.xz</sourcefile>
+  <sourcedir>gnome-mahjongg-49.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -13,8 +13,8 @@
   <template>meson</template>
   <dependances>
     <dependance>
-      <code>hidapi</code>
-      <weight>0</weight>
+      <code>gtk3</code>
+      <weight>1</weight>
     </dependance>
   </dependances>
   <patches/>

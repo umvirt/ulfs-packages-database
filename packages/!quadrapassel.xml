@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>quadrapassel</code>
+  <code>!quadrapassel</code>
   <description>VGV0cmlzIGdhbWU=</description>
-  <sourcefile>quadrapassel-3.38.6.tar.xz</sourcefile>
-  <sourcedir>quadrapassel-3.38.6</sourcedir>
+  <sourcefile>quadrapassel-50.2.tar.xz</sourcefile>
+  <sourcedir>quadrapassel-50.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC4uDQo=</configure>
-  <build>Y2QgYnVpbGQNCm5pbmphDQo=</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>clutter</code>

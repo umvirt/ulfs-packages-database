@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>protobuf</code>
   <description>UHJvdG9jb2wgQnVmZmVycyAtIEdvb2dsZSdzIGRhdGEgaW50ZXJjaGFuZ2UgZm9ybWF0</description>
-  <sourcefile>protobuf-32.0.tar.gz</sourcefile>
-  <sourcedir>protobuf-32.0</sourcedir>
+  <sourcefile>protobuf-33.5.tar.gz</sourcefile>
+  <sourcedir>protobuf-33.5</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OICAgIFwNCiAgICAgIC1EIHByb3RvYnVmX0JVSUxEX1RFU1RTPU9GRiAgICAgICBcDQogICAgICAtRCBwcm90b2J1Zl9CVUlMRF9TSEFSRURfTElCUz1PTiAgXA0KICAgICAgLUcgTmluamEgLi4gICAgIA==</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OICAgIFwNCiAgICAgIC1EIHByb3RvYnVmX0JVSUxEX1RFU1RTPU9GRiAgICAgICBcDQogICAgICAtRCBwcm90b2J1Zl9CVUlMRF9TSEFSRURfTElCUz1PTiAgXA0KICAgICAgLUcgTmluamEgLi4NCg==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

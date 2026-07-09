@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>libgnome-games-support1</code>
-  <description/>
-  <sourcefile>libgnome-games-support-1.8.2.tar.xz</sourcefile>
-  <sourcedir>libgnome-games-support-1.8.2</sourcedir>
+  <code>blueprint-compiler</code>
+  <description>QSBtYXJrdXAgbGFuZ3VhZ2UgZm9yIEdUSyB1c2VyIGludGVyZmFjZSBmaWxlcy4=</description>
+  <sourcefile>blueprint-compiler-0.20.4.tar.xz</sourcefile>
+  <sourcedir>blueprint-compiler-0.20.4</sourcedir>
   <unpack/>
   <configure/>
   <build/>

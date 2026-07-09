@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>netcat-openbsd</code>
   <description>TmV0Y2F0IE9wZW5CU0QgdmVyc2lvbg==</description>
-  <sourcefile>netcat-openbsd_1.234.orig.tar.gz</sourcefile>
-  <sourcedir>netcat-openbsd-1.234</sourcedir>
+  <sourcefile>netcat-openbsd-debian-1.238-1.tar.bz2</sourcefile>
+  <sourcedir>netcat-openbsd-debian-1.238-1</sourcedir>
   <unpack/>
-  <configure>Iw==</configure>
+  <configure>d2hpbGUgcmVhZCBwYXRjaDsgZG8NCiAgICBwcmludGYgIkFwcGx5aW5nICVzLi4uXG4iICIkcGF0Y2giDQogICAgcGF0Y2ggLU5wMSAtaSBkZWJpYW4vcGF0Y2hlcy8kcGF0Y2gNCiAgZG9uZSA8IGRlYmlhbi9wYXRjaGVzL3Nlcmllcw0K</configure>
   <build>bWFrZSBDRkxBR1M9IiAtV25vLWVycm9yPWluY29tcGF0aWJsZS1wb2ludGVyLXR5cGVzIg0K</build>
   <install>aW5zdGFsbCAtRG0wNzU1IG5jIC91c3IvYmluLw==</install>
   <localbuild>0</localbuild>
@@ -20,12 +20,7 @@
       <weight>2</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>netcat-openbsd-debian.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

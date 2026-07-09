@@ -3,21 +3,27 @@
   <release>0.3</release>
   <code>cool-retro-term</code>
   <description>VGVybWluYWwgZW11bGF0b3Igd2hpY2ggbWltaWNzIHRoZSBsb29rIGFuZCBmZWVsIG9mIHRoZSBvbGQgY2F0aG9kZSB0dWJlIHNjcmVlbnMu</description>
-  <sourcefile>cool-retro-term-1.2.0-git.tar.gz</sourcefile>
-  <sourcedir>cool-retro-term-1.2.0-git</sourcedir>
+  <sourcefile>cool-retro-term-2.0.0-beta2.tar.gz</sourcefile>
+  <sourcedir>cool-retro-term-2.0.0-beta2</sourcedir>
   <unpack/>
-  <configure>cW1ha2U=</configure>
+  <configure>cm0gLXJmIEtEU2luZ2xlQXBwbGljYXRpb24NCnRhciAteGYgLi4vS0RTaW5nbGVBcHBsaWNhdGlvbi0xODQ4ZGQ2NGU4MGUzNzMyNmRhNGEyMmIyYzFmNDVmMmExYzRmMjMxLnRhci5neg0KbXYgS0RTaW5nbGVBcHBsaWNhdGlvbi0xODQ4ZGQ2NGU4MGUzNzMyNmRhNGEyMmIyYzFmNDVmMmExYzRmMjMxIEtEU2luZ2xlQXBwbGljYXRpb24NCg0Kc2VkIC1pICcvcW1sdGVybXdpZGdldC9kJyBjb29sLXJldHJvLXRlcm0ucHJvDQoNCnFtYWtlNg==</configure>
   <build/>
   <install>bWFrZSBERVNURElSPS91c3IgaW5zdGFsbA0KDQppbnN0YWxsIC12IC1tNzU1IGNvb2wtcmV0cm8tdGVybSAvdXNyL2Jpbg0KDQpjYXQgPiAvdXNyL3NoYXJlL2FwcGxpY2F0aW9ucy9jb29sLXJldHJvLXRlcm0uZGVza3RvcCA8PCBFT0YNCltEZXNrdG9wIEVudHJ5XQ0KTmFtZT1jb29sLXJldHJvLXRlcm0NCkNvbW1lbnQ9Y29vbC1yZXRyby10ZXJtDQpFeGVjPWVudiBRTUwyX0lNUE9SVF9QQVRIPSAvdXNyL2Jpbi9jb29sLXJldHJvLXRlcm0NClRlcm1pbmFsPWZhbHNlDQpUeXBlPUFwcGxpY2F0aW9uDQpJY29uPW5vbmUNCkNhdGVnb3JpZXM9U3lzdGVtDQpFT0Y=</install>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
-      <code>qt5</code>
-      <weight>1</weight>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>qmltermwidget</code>
+      <weight>0</weight>
     </dependance>
   </dependances>
   <patches/>
-  <addons/>
+  <addons>
+    <addon>KDSingleApplication-1848dd64e80e37326da4a22b2c1f45f2a1c4f231.tar.gz</addon>
+  </addons>
   <nestings/>
   <comments/>
 </package>

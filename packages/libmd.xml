@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libmd</code>
   <description>QlNEIE1lc2FnZSBEaWdlc3QgbGlicmFyeSA=</description>
-  <sourcefile>libmd-1.1.0.tar.xz</sourcefile>
-  <sourcedir>libmd-1.1.0</sourcedir>
+  <sourcefile>libmd-1.2.0.tar.xz</sourcefile>
+  <sourcedir>libmd-1.2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

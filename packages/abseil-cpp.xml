@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>abseil-cpp</code>
   <description>QWJzZWlsIENvbW1vbiBMaWJyYXJpZXMgKEMrKyk=</description>
-  <sourcefile>abseil-cpp-20250814.0.tar.gz</sourcefile>
-  <sourcedir>abseil-cpp-20250814.0</sourcedir>
+  <sourcefile>abseil-cpp-20260107.1.tar.gz</sourcefile>
+  <sourcedir>abseil-cpp-20260107.1</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBBQlNMX1BST1BBR0FURV9DWFhfU1REPU9OIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgXA0KICAgICAgLUcgTmluamEgLi4gDQo=</configure>
+  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OIFwNCiAgICAgIC1EIEFCU0xfUFJPUEFHQVRFX0NYWF9TVEQ9T04gICBcDQogICAgICAtRCBCVUlMRF9TSEFSRURfTElCUz1PTiAgICAgICAgXA0KICAgICAgLUcgTmluamEgLi4NCg0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

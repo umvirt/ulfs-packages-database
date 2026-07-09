@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>googletest</code>
   <description>R29vZ2xlVGVzdCAtIEdvb2dsZSBUZXN0aW5nIGFuZCBNb2NraW5nIEZyYW1ld29yaw==</description>
-  <sourcefile>googletest-1.16.0.tar.gz</sourcefile>
-  <sourcedir>googletest-1.16.0</sourcedir>
+  <sourcefile>googletest-1.17.0.tar.gz</sourcefile>
+  <sourcedir>googletest-1.17.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgICAgYnVpbGQNCmNkICAgICAgIGJ1aWxkICYmDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQogICAgICAuLg==</configure>
-  <build>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UNCg==</build>
-  <install>Y2QgICAgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

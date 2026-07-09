@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>hidapi</code>
+  <description>QSBTaW1wbGUgY3Jvc3MtcGxhdGZvcm0gbGlicmFyeSBmb3IgY29tbXVuaWNhdGluZyB3aXRoIEhJRCBkZXZpY2Vz</description>
+  <sourcefile>hidapi-hidapi-0.15.0.tar.gz</sourcefile>
+  <sourcedir>hidapi-hidapi-0.15.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-make</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

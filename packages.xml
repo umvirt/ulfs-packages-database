@@ -908,24 +908,24 @@
     <package>Vulkan-Headers</package>
     <package>Vulkan-Loader</package>
     <package>mpv</package>
-    <package>python3-glad2</package>
+    <package>glad</package>
     <package>libplacebo</package>
     <package>MPlayer</package>
     <package>faac</package>
     <package>xvidcore</package>
     <package>cool-retro-term</package>
     <package>gnuchess</package>
-    <package>gnome-chess</package>
-    <package>gnome-mines</package>
+    <package>!gnome-chess</package>
+    <package>!gnome-mines</package>
     <package>libgnome-games-support1</package>
     <package>gnome-sudoku</package>
     <package>qqwing</package>
-    <package>quadrapassel</package>
+    <package>!quadrapassel</package>
     <package>libmanette</package>
     <package>libgnome-games-support2</package>
     <package>gnome-nibbles</package>
-    <package>five-or-more</package>
-    <package>games-gnome</package>
+    <package>!five-or-more</package>
+    <package>!games-gnome</package>
     <package>virglrenderer</package>
     <package>openglide</package>
     <package>unrar</package>
@@ -1786,7 +1786,7 @@
     <package>perl-File-FcntlLock</package>
     <package>gcc-multilib</package>
     <package>simde</package>
-    <package>gnome-mahjongg</package>
+    <package>!gnome-mahjongg</package>
     <package>notification-daemon</package>
     <package>mako</package>
     <package>aurorae</package>
@@ -1867,5 +1867,8 @@
     <package>glog</package>
     <package>SuiteSparse</package>
     <package>python3-numpy-blas</package>
+    <package>qmltermwidget</package>
+    <package>blueprint-compiler</package>
+    <package>hidapi</package>
   </packages>
 </packages>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gnuchess</code>
   <description>R05VIENoZXNzIGlzIGEgY2hlc3MtcGxheWluZyBwcm9ncmFtLg==</description>
-  <sourcefile>gnuchess-6.2.9.tar.gz</sourcefile>
-  <sourcedir>gnuchess-6.2.9</sourcedir>
+  <sourcefile>gnuchess-6.3.0.tar.gz</sourcefile>
+  <sourcedir>gnuchess-6.3.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

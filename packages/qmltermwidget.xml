@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>qmltermwidget</code>
+  <description>UU1MIHBvcnQgb2YgcXRlcm13aWRnZXQ=</description>
+  <sourcefile>qmltermwidget-8913504fa2ebd220ebe7c680c32954e1b3c035c5.tar.gz</sourcefile>
+  <sourcedir>qmltermwidget-8913504fa2ebd220ebe7c680c32954e1b3c035c5</sourcedir>
+  <unpack/>
+  <configure>cW1ha2U2</configure>
+  <build/>
+  <install>bWFrZSBERVNURElSPS91c3IgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
