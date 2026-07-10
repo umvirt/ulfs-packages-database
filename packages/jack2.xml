@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>jack2</code>
   <description>SkFDSyBBdWRpbyBDb25uZWN0aW9uIEtpdCAob3IgSkFDSykgaXMgYSBwcm9mZXNzaW9uYWwgc291bmQgc2VydmVyIEFQSSBhbmQgcGFpciBvZiBkYWVtb24gaW1wbGVtZW50YXRpb25zIHRvIHByb3ZpZGUgcmVhbC10aW1lLCBsb3ctbGF0ZW5jeSBjb25uZWN0aW9ucyBmb3IgYm90aCBhdWRpbyBhbmQgTUlESSBkYXRhIGJldHdlZW4gYXBwbGljYXRpb25zLg==</description>
-  <sourcefile>jack2-c46c1b16e0eabbcf55ef69b0ffb96dfe16521cfa.tar.bz2</sourcefile>
-  <sourcedir>jack2-c46c1b16e0eabbcf55ef69b0ffb96dfe16521cfa</sourcedir>
+  <sourcefile>jack2-17959465a722225a36a8b612aed26764036f258e.tar.xz</sourcefile>
+  <sourcedir>jack2-17959465a722225a36a8b612aed26764036f258e</sourcedir>
   <unpack/>
   <configure>c2VkIC1lICJzL2VudiBweXRob24vZW52IHB5dGhvbjMvIiAtaSB3YWYNCg0KLi93YWYgY29uZmlndXJlIC0tcHJlZml4PS91c3I=</configure>
   <build>Li93YWYgYnVpbGQ=</build>

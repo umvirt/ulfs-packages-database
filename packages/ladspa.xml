@@ -11,7 +11,12 @@
   <install>Y2Qgc3JjDQptYWtlIGluc3RhbGw=</install>
   <localbuild>0</localbuild>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>ladspa_sdk_1.17-arch-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

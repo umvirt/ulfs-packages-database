@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libvpl</code>
   <description>SW50ZWzCriBWaWRlbyBQcm9jZXNzaW5nIExpYnJhcnkgKEludGVswq4gVlBMKSBkaXNwYXRjaGVyLCB0b29scywgYW5kIGV4YW1wbGVz</description>
-  <sourcefile>libvpl-2.14.0.tar.gz</sourcefile>
-  <sourcedir>libvpl-2.14.0</sourcedir>
+  <sourcefile>libvpl-2.17.0.tar.gz</sourcefile>
+  <sourcedir>libvpl-2.17.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQouLg==</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

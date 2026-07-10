@@ -40,7 +40,7 @@
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>nlohman-json</code>
+      <code>nlohmann-json</code>
       <weight>8</weight>
     </dependance>
     <dependance>

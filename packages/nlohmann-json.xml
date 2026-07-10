@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>nlohman-json</code>
+  <code>nlohmann-json</code>
   <description>SlNPTiBmb3IgTW9kZXJuIEMrKyBkZXZlbG9wZWQgYnkgTmllbHMgTG9obWFubg==</description>
-  <sourcefile>nlohman-json-3.11.3.tar.gz</sourcefile>
-  <sourcedir>json-3.11.3</sourcedir>
+  <sourcefile>json-3.12.0.tar.gz</sourcefile>
+  <sourcedir>json-3.12.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQoNCmNtYWtlIC4uIFwNCiAgICAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRCBDTUFLRV9JTlNUQUxMX0xJQkRJUj0vdXNyL2xpYiBcDQogICAgLUQgSlNPTl9CdWlsZFRlc3RzPU9GRiBcDQogICAgLUQgSlNPTl9NdWx0aXBsZUhlYWRlcnM9T04gXA0KICAgIC1XIG5vLWRldiBcDQogICAgLUQgQ01BS0VfQlVJTERfVFlQRT1Ob25lIFwNCiAgICAtRyBOaW5qYQ0K</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances/>
   <patches/>
   <addons/>

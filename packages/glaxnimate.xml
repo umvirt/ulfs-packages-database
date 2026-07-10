@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>glaxnimate</code>
   <description>R2xheG5pbWF0ZSBpcyBhIHNpbXBsZSBhbmQgZmFzdCB2ZWN0b3IgZ3JhcGhpY3MgYW5pbWF0aW9uIHByb2dyYW0u</description>
-  <sourcefile>glaxnimate-d76ea6103aa9cb8fe69c60b664560e0e84163564.tar.bz2</sourcefile>
-  <sourcedir>glaxnimate-d76ea6103aa9cb8fe69c60b664560e0e84163564</sourcedir>
+  <sourcefile>glaxnimate-60cc6fe639eff056a2077e2f724a558089261de6.tar.xz</sourcefile>
+  <sourcedir>glaxnimate-60cc6fe639eff056a2077e2f724a558089261de6</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgIFwNCiAgICAgIC1EQlVJTERfV0lUSF9RVDY9T24gICAgICAgICBcDQogICAgICAuLg==</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm1ha2UNCg==</build>
+  <build/>
   <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0KaW5zdGFsbCAtdiAtbTY0NCBzaGFyZS9nbGF4bmltYXRlL2dsYXhuaW1hdGUvZ2xheG5pbWF0ZS5kZXNrdG9wIC91c3Ivc2hhcmUvYXBwbGljYXRpb25z</install>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>extra-cmake-modules</code>

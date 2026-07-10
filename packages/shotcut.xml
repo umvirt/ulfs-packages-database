@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>shotcut</code>
   <description>U2hvdGN1dCBpcyBhIGZyZWUsIG9wZW4gc291cmNlLCBjcm9zcy1wbGF0Zm9ybSB2aWRlbyBlZGl0b3Iu</description>
-  <sourcefile>shotcut-25.10.31.tar.gz</sourcefile>
-  <sourcedir>shotcut-25.10.31</sourcedir>
+  <sourcefile>shotcut-26.6.25.tar.gz</sourcefile>
+  <sourcedir>shotcut-26.6.25</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRyBOaW5qYSBcDQogICAgICAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgXA0KICAgICAgLi4=</configure>
+  <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>

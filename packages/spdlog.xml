@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>spdlog</code>
   <description>RmFzdCBDKysgbG9nZ2luZyBsaWJyYXJ5Lg==</description>
-  <sourcefile>spdlog-1.15.2.tar.gz</sourcefile>
-  <sourcedir>spdlog-1.15.2</sourcedir>
+  <sourcefile>spdlog-1.17.0.tar.gz</sourcefile>
+  <sourcedir>spdlog-1.17.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgJiYNCmNkICAgICAgIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KLURCVUlMRF9TSEFSRURfTElCUz1PTiBcDQouLg==</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
   <patches/>
   <addons/>

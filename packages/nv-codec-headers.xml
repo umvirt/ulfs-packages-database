@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>nv-codec-headers</code>
   <description>RkZtcGVnIHZlcnNpb24gb2YgaGVhZGVycyByZXF1aXJlZCB0byBpbnRlcmZhY2Ugd2l0aCBOdmlkaWFzIGNvZGVjIEFQSXM=</description>
-  <sourcefile>nv-codec-headers-f2fb9b36d5e08d6211f7cf6377971c0570939e65.tar.bz2</sourcefile>
-  <sourcedir>nv-codec-headers-f2fb9b36d5e08d6211f7cf6377971c0570939e65</sourcedir>
+  <sourcefile>nv-codec-headers-15ee32753c92faddbabbff11676779618fc6db7e.tar.gz</sourcefile>
+  <sourcedir>nv-codec-headers-15ee32753c92faddbabbff11676779618fc6db7e</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build/>

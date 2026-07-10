@@ -1094,7 +1094,7 @@
     <package>uthash</package>
     <package>nv-codec-headers</package>
     <package>mbedtls</package>
-    <package>nlohman-json</package>
+    <package>nlohmann-json</package>
     <package>QR-Code-generator</package>
     <package>websocketpp</package>
     <package>asio</package>

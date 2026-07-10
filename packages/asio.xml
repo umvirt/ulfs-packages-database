@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>asio</code>
   <description>QXNpbyBDKysgTGlicmFyeQ==</description>
-  <sourcefile>asio-1-34-2.tar.gz</sourcefile>
-  <sourcedir>asio-asio-1-34-2</sourcedir>
+  <sourcefile>asio-asio-1-38-1.tar.gz</sourcefile>
+  <sourcedir>asio-asio-1-38-1</sourcedir>
   <unpack/>
-  <configure>Y2QgYXNpbw0KDQouL2F1dG9nZW4uc2gNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3Vzcg0K</configure>
-  <build>Y2QgYXNpbw0KbWFrZQ==</build>
-  <install>Y2QgYXNpbw0KbWFrZSBpbnN0YWxs</install>
+  <configure>Li9hdXRvZ2VuLnNoDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3INCg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
