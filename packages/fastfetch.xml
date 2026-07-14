@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>fastfetch</code>
   <description/>
-  <sourcefile>fastfetch-2.56.0.tar.gz</sourcefile>
-  <sourcedir>fastfetch-2.56.0</sourcedir>
+  <sourcefile>fastfetch-2.66.0.tar.gz</sourcefile>
+  <sourcedir>fastfetch-2.66.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

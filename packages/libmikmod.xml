@@ -3,15 +3,21 @@
   <release>0.3</release>
   <code>libmikmod</code>
   <description>TWlrbW9kIGlzIGEgbW9kdWxlIHBsYXllciBhbmQgbGlicmFyeSBzdXBwb3J0aW5nIG1hbnkgZm9ybWF0cywgaW5jbHVkaW5nIG1vZCwgczNtLCBpdCwgYW5kIHhtLg==</description>
-  <sourcefile>libmikmod-3.3.12.tar.gz</sourcefile>
-  <sourcedir>libmikmod-3.3.12</sourcedir>
+  <sourcefile>libmikmod-3.3.13.tar.gz</sourcefile>
+  <sourcedir>libmikmod-3.3.13</sourcedir>
   <unpack/>
   <configure>bWtkaXIgLXYgYnVpbGQgDQpjZCAgICAgICBidWlsZA0KDQpjbWFrZSAuLiBcDQogICAgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgLUQgQ01BS0VfQlVJTERfVFlQRT1Ob25lDQogICAgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3Vzcg0KICAgIC1EIEVOQUJMRV9ETD0xDQo=</configure>
-  <build>Y2QgICAgICAgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgICAgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>libmikmod-cmake-autoconf.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

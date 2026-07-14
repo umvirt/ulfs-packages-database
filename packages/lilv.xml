@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>lilv</code>
   <description>TGlsdiBpcyBhIEMgbGlicmFyeSB0byBtYWtlIHRoZSB1c2Ugb2YgTFYyIHBsdWdpbnMgYXMgc2ltcGxlIGFzIHBvc3NpYmxlIGZvciBhcHBsaWNhdGlvbnMu</description>
-  <sourcefile>lilv-0.24.26.tar.xz</sourcefile>
-  <sourcedir>lilv-0.24.26</sourcedir>
+  <sourcefile>lilv-0.28.0.tar.xz</sourcefile>
+  <sourcedir>lilv-0.28.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

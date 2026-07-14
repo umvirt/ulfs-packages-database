@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>sord</code>
   <description>U29yZCBpcyBhIGxpZ2h0d2VpZ2h0IEMgbGlicmFyeSBmb3Igc3RvcmluZyBSREYgc3RhdGVtZW50cyBpbiBtZW1vcnku</description>
-  <sourcefile>sord-v0.16.20.tar.bz2</sourcefile>
-  <sourcedir>sord-v0.16.20</sourcedir>
+  <sourcefile>sord-0.16.22.tar.xz</sourcefile>
+  <sourcedir>sord-0.16.22</sourcedir>
   <unpack/>
   <configure/>
   <build/>

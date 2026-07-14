@@ -968,7 +968,7 @@
     <package>dia</package>
     <package>ddrescue</package>
     <package>testdisk</package>
-    <package>!VeraCrypt</package>
+    <package>VeraCrypt</package>
     <package>mhash</package>
     <package>udis86</package>
     <package>wxHexEditor</package>
@@ -1007,7 +1007,7 @@
     <package>minizip</package>
     <package>fastfetch</package>
     <package>pv</package>
-    <package>!bb</package>
+    <package>bb</package>
     <package>libmikmod</package>
     <package>aview</package>
     <package>font-cursor-misc</package>

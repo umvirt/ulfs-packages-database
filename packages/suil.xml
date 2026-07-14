@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>suil</code>
   <description/>
-  <sourcefile>suil-v0.10.24.tar.bz2</sourcefile>
-  <sourcedir>suil-v0.10.24</sourcedir>
+  <sourcefile>suil-0.10.26.tar.xz</sourcefile>
+  <sourcedir>suil-0.10.26</sourcedir>
   <unpack/>
   <configure/>
   <build/>

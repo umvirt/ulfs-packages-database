@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>pv</code>
   <description>cHYgLSBQaXBlIFZpZXdlciAtIGlzIGEgdGVybWluYWwtYmFzZWQgdG9vbCBmb3IgbW9uaXRvcmluZyB0aGUgcHJvZ3Jlc3Mgb2YgZGF0YSB0aHJvdWdoIGEgcGlwZWxpbmUu</description>
-  <sourcefile>pv-1.10.2.tar.gz</sourcefile>
-  <sourcedir>pv-1.10.2</sourcedir>
+  <sourcefile>pv-1.11.0.tar.gz</sourcefile>
+  <sourcedir>pv-1.11.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gcdemu</code>
   <description>Z0NERW11IGlzIGEgR1RLIGFwcGxpY2F0aW9uIGZvciBjb250cm9sbGluZyBDREVtdSBkYWVtb24u</description>
-  <sourcefile>gcdemu-3.2.6.tar.xz</sourcefile>
-  <sourcedir>gcdemu-3.2.6</sourcedir>
+  <sourcefile>gcdemu-3.3.1.tar.xz</sourcefile>
+  <sourcedir>gcdemu-3.3.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

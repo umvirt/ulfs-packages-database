@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>testdisk</code>
   <description>VGVzdERpc2sgaXMgcG93ZXJmdWwgZnJlZSBkYXRhIHJlY292ZXJ5IHNvZnR3YXJlLg==</description>
-  <sourcefile>testdisk-7.2.tar.bz2</sourcefile>
-  <sourcedir>testdisk-7.2</sourcedir>
+  <sourcefile>testdisk-7.3-WIP.tar.bz2</sourcefile>
+  <sourcedir>testdisk-7.3-WIP</sourcedir>
   <unpack/>
   <configure/>
   <build/>

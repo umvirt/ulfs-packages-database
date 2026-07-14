@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>cdemu-client</code>
   <description>Q0RFbXUgY2xpZW50IGlzIGEgc2ltcGxlIGNvbW1hbmQtbGluZSBjbGllbnQgZm9yIGNvbnRyb2xsaW5nIENERW11IGRhZW1vbi4=</description>
-  <sourcefile>cdemu-client-3.2.5.tar.xz</sourcefile>
-  <sourcedir>cdemu-client-3.2.5</sourcedir>
+  <sourcefile>cdemu-client-3.3.1.tar.xz</sourcefile>
+  <sourcedir>cdemu-client-3.3.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

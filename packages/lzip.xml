@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>lzip</code>
   <description>THppcCBpcyBhIGxvc3NsZXNzIGRhdGEgY29tcHJlc3NvciB3aXRoIGEgdXNlciBpbnRlcmZhY2Ugc2ltaWxhciB0byB0aGUgb25lIG9mIGd6aXAgb3IgYnppcDIu</description>
-  <sourcefile>lzip-1.25.tar.gz</sourcefile>
-  <sourcedir>lzip-1.25</sourcedir>
+  <sourcefile>lzip-1.26.tar.gz</sourcefile>
+  <sourcedir>lzip-1.26</sourcedir>
   <unpack/>
   <configure/>
   <build/>

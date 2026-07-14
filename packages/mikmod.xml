@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>mikmod</code>
   <description>TWlrbW9kIGlzIGEgbW9kdWxlIHBsYXllciBhbmQgbGlicmFyeSBzdXBwb3J0aW5nIG1hbnkgZm9ybWF0cywgaW5jbHVkaW5nIG1vZCwgczNtLCBpdCwgYW5kIHhtLg==</description>
-  <sourcefile>mikmod-3.2.8.tar.gz</sourcefile>
-  <sourcedir>mikmod-3.2.8</sourcedir>
+  <sourcefile>mikmod-3.2.9.tar.gz</sourcefile>
+  <sourcedir>mikmod-3.2.9</sourcedir>
   <unpack/>
   <configure/>
   <build/>

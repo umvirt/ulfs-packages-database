@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libspectrum</code>
   <description>bGlic3BlY3RydW0gaXMgYSBsaWJyYXJ5IGRlc2lnbmVkIHRvIG1ha2UgdGhlIGlucHV0IGFuZCBvdXRwdXQgb2Ygc29tZSBaWCBTcGVjdHJ1bSBlbXVsYXRvciBmaWxlcyBzbGlnaHRseSBlYXNpZXIu</description>
-  <sourcefile>libspectrum-1.5.0.tar.gz</sourcefile>
-  <sourcedir>libspectrum-1.5.0</sourcedir>
+  <sourcefile>libspectrum-1.6.2.tar.gz</sourcefile>
+  <sourcedir>libspectrum-1.6.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

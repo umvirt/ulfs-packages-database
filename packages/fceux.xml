@@ -3,21 +3,22 @@
   <release>0.3</release>
   <code>fceux</code>
   <description>RkNFVVggaXMgYSBOaW50ZW5kbyBFbnRlcnRhaW5tZW50IFN5c3RlbSAoTkVTKSwgRmFtaWNvbSwgRmFtaWNvbSBEaXNrIFN5c3RlbSAoRkRTKSwgYW5kIERlbmR5IGVtdWxhdG9yLiA=</description>
-  <sourcefile>fceux-2.6.6.tar.gz</sourcefile>
-  <sourcedir>fceux-2.6.6</sourcedir>
+  <sourcefile>fceux-a62b868e9247c4aafd66f597cdfa8d2609704087.tar.xz</sourcefile>
+  <sourcedir>fceux-a62b868e9247c4aafd66f597cdfa8d2609704087</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAuLg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2U=</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciBcDQogICAgICAtRFFUNj1PTiBcDQogICAgICAuLg==</configure>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
-      <code>sdl2-compat</code>
+      <code>qt6</code>
       <weight>0</weight>
     </dependance>
     <dependance>
-      <code>qt5</code>
-      <weight>2</weight>
+      <code>sdl2-compat</code>
+      <weight>0</weight>
     </dependance>
     <dependance>
       <code>minizip</code>

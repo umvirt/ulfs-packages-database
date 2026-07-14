@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>sratom</code>
   <description>U3JhdG9tIGlzIGEgc21hbGwgbGlicmFyeSBmb3Igc2VyaWFsaXppbmcgTFYyIGF0b21zLiBTcmF0b20gcmVhZHMvd3JpdGVzIGF0b21zIGZyb20vdG8gUkRGLCBhbGxvd2luZyB0aGVtIHRvIGJlIGNvbnZlcnRlZCBiZXR3ZWVuIGJpbmFyeSBhbmQgdGV4dCBvciBzdG9yZWQgaW4gYSBtb2RlbC4=</description>
-  <sourcefile>sratom-v0.6.20.tar.bz2</sourcefile>
-  <sourcedir>sratom-v0.6.20</sourcedir>
+  <sourcefile>sratom-0.6.22.tar.xz</sourcefile>
+  <sourcedir>sratom-0.6.22</sourcedir>
   <unpack/>
   <configure/>
   <build/>

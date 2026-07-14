@@ -3,20 +3,16 @@
   <release>0.3</release>
   <code>portsmf</code>
   <description>cG9ydHNtZiAoc2hvcnQgZm9yIFBvcnRhYmxlIFN0YW5kYXJkIE1pZGkgRmlsZSBMaWJyYXJ5KSwgYSBzdWJwcm9qZWN0IG9mIHBvcnRtZWRpYSwgaXMgYSBsaWJyYXJ5IGZvciByZWFkaW5nLCB3cml0aW5nLCBhbmQgbWFuaXB1bGF0aW5nIHN0YW5kYXJkIG1pZGkgZmlsZXMu</description>
-  <sourcefile>portsmf-276.tar.gz</sourcefile>
-  <sourcedir>portsmf-276</sourcedir>
+  <sourcefile>portsmf-239.tar.gz</sourcefile>
+  <sourcedir>portsmf-239</sourcedir>
   <unpack/>
-  <configure>YXV0b3JlY29uZiAtdmZpDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgICAgICAgICAgICAtLWxpYmRpcj0vdXNyL2xpYiBcDQogICAgICAgICAgICAgIC0taW5jbHVkZWRpcj0vdXNyL2luY2x1ZGUvcG9ydHNtZg0K</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBDTUFLRV9QT0xJQ1lfVkVSU0lPTl9NSU5JTVVNPTMuNSBcDQogICAgICAuLg0K</configure>
   <build/>
-  <install>bWFrZSBpbnN0YWxsIA0KaW5zdGFsbCAtdkRtIDY0NCBwb3J0U01GLnBjIC10ICIvdXNyL2xpYi9wa2djb25maWcvIg==</install>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances/>
-  <patches>
-    <patch>
-      <filename>portsmf-shared.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

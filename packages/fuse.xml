@@ -10,6 +10,7 @@
   <build/>
   <install>Y2QgICAgYnVpbGQgJiYNCm5pbmphIGluc3RhbGwgICAgICAgICAgICAgICAgICAmJg0KY2htb2QgdStzIC91c3IvYmluL2Z1c2VybW91bnQzICYmDQoNCmNkIC4uICAgICAgICAgICAgICAgICAgICAgICAgICAmJg0KY3AgLVJ2IGRvYy9odG1sIC1UIC91c3Ivc2hhcmUvZG9jL2Z1c2UtMy4xOC4xICYmDQppbnN0YWxsIC12IC1tNjQ0ICAgZG9jL3tSRUFETUUuTkZTLGtlcm5lbC50eHR9IFwNCiAgICAgICAgICAgICAgICAgICAvdXNyL3NoYXJlL2RvYy9mdXNlLTMuMTguMQ0K</install>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

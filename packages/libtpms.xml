@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>libtpms</code>
   <description>VGhlIGxpYnRwbXMgbGlicmFyeSBwcm92aWRlcyBzb2Z0d2FyZSBlbXVsYXRpb24gb2YgYSBUcnVzdGVkIFBsYXRmb3JtIE1vZHVsZSAoVFBNIDEuMiBhbmQgVFBNIDIuMCk=</description>
-  <sourcefile>libtpms-0.10.1.tar.gz</sourcefile>
-  <sourcedir>libtpms-0.10.1</sourcedir>
+  <sourcefile>libtpms-2d9b00c4e42677cd0a9b67344f4d873ddc409a21.tar.xz</sourcefile>
+  <sourcedir>libtpms-2d9b00c4e42677cd0a9b67344f4d873ddc409a21</sourcedir>
   <unpack/>
-  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCi4vYXV0b2dlbi5zaA0KDQouL2NvbmZpZ3VyZSAtLXdpdGgtb3BlbnNzbCAtLXdpdGgtdHBtMiAtLWVuYWJsZS1zYW5pdGl6ZXJzIC0tcHJlZml4PS91c3IgICRBUkdfU1RBVElD</configure>
+  <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCmF1dG9yZWNvbmYgLS1pbnN0YWxsIC0tZm9yY2UNCg0KLi9jb25maWd1cmUgLS13aXRoLW9wZW5zc2wgLS13aXRoLXRwbTIgLS1wcmVmaXg9L3VzciAgLS1kaXNhYmxlLWhhcmRlbmluZyAkQVJHX1NUQVRJQw==</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>emu80sdl</code>
   <description>U292aWV0IHJldHJvIGNvbXB1dGVyIGVtdWxhdG9yLiBTREwgdmVyc2lvbi4=</description>
-  <sourcefile>emu80v4-4.0.501.tar.gz</sourcefile>
-  <sourcedir>emu80v4-4.0.501</sourcedir>
+  <sourcefile>emu80v4-4.0.559.tar.gz</sourcefile>
+  <sourcedir>emu80v4-4.0.559</sourcedir>
   <unpack/>
   <configure>c2VkIC1lICJzfH4vZW11ODB8L29wdC9lbXU4MHNkbHwiIC1pIE1ha2VmaWxlLnNkbHd4</configure>
   <build>bWFrZSAtZiBNYWtlZmlsZS5zZGx3eA0K</build>

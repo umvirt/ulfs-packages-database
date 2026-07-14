@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>bb</code>
+  <description>QVNDSUktYXJ0IGRlbW8gYmFzZWQgb24gQUFsaWI=</description>
+  <sourcefile>bb-1.3rc1.tar.gz</sourcefile>
+  <sourcedir>bb-1.3.0</sourcedir>
+  <unpack/>
+  <configure>dGFyIC14ZiAuLi9YYW9TLXJlbGVhc2UtMy41LnRhci5neg0KdGFyIC14ZiAuLi9iYl8xLjNyYzEtMTMuZGViaWFuLnRhci54eg0KDQojIHBhdGNoIGJiDQpmaW5kICJkZWJpYW4vcGF0Y2hlcy8iIC10eXBlIGYgLW1heGRlcHRoIDEgLWV4ZWMgcGF0Y2ggLS12ZXJib3NlIC1OcDEgLWkge30gXDsNCg0KIyBwYXRjaCB4YW9zDQooY2QgIlhhb1MtcmVsZWFzZS0zLjUiDQogICAgcGF0Y2ggLXAwIC1pIC4uLy4uL3hhb3MtMy41LWxpYnBuZzE1LnBhdGNoDQogICAgaWYgW1sgYHVuYW1lIC1tYCA9PSAiaTY4NiIgXV07IHRoZW4NCiAgICAgICAgcGF0Y2ggLXAxIC1pIC4uLy4uL3hhb3MtMy41LWJ1aWxkLWZpeC1pNjg2LnBhdGNoDQogICAgZmkNCikNCg0KIyB1c2UgdGltZXJzLmggYW5kIHRpbWVycy5jIGZyb20geGFvcw0KICAgIGNwIC12ZiAiWGFvUy1yZWxlYXNlLTMuNS9zcmMvaW5jbHVkZS90aW1lcnMuaCIgLg0KICAgIGNwIC12ZiAiWGFvUy1yZWxlYXNlLTMuNS9zcmMvdXRpbC90aW1lcnMuYyIgLg0KICAgIGxuIC1zZnYgIlhhb1MtcmVsZWFzZS0zLjUvc3JjL2luY2x1ZGUiIC4NCg0Kc2VkIC1lICdzfC4uL2luY2x1ZGV8aW5jbHVkZXwnIC1pIHRpbWVycy5jDQoNCg0KYXV0b3JlY29uZiAtZmlzdg0KDQouL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNy</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>aalib</code>
+      <weight>1</weight>
+    </dependance>
+    <dependance>
+      <code>libmikmod</code>
+      <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>Xfonts-misc</code>
+      <weight>3</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>bb_1.3rc1-13.debian.tar.xz</addon>
+    <addon>xaos-3.5-libpng15.patch</addon>
+    <addon>xaos-3.5-libpng15.patch</addon>
+    <addon>XaoS-release-3.5.tar.gz</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>

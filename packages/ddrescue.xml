@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>ddrescue</code>
   <description>UmVzY3VlIGRhdGEgZnJvbSBkYW1hZ2VkIGRpc2tz</description>
-  <sourcefile>ddrescue-1.29.tar.lz</sourcefile>
-  <sourcedir>ddrescue-1.29</sourcedir>
+  <sourcefile>ddrescue-1.30.tar.lz</sourcefile>
+  <sourcedir>ddrescue-1.30</sourcedir>
   <unpack/>
   <configure/>
   <build/>
