@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>vkd3d</code>
   <description>VmtkM2QgaXMgYSAzRCBncmFwaGljcyBsaWJyYXJ5IGJ1aWx0IG9uIHRvcCBvZiBWdWxrYW4uIEl0IGhhcyBhbiBBUEkgdmVyeSBzaW1pbGFyLCBidXQgbm90IGlkZW50aWNhbCwgdG8gRGlyZWN0M0QgMTIuIFdpbmUgdXNlcyB2a2QzZCBsaWJyYXJpZXMgZm9yIGl0cyBpbXBsZW1lbnRhdGlvbiBvZiBEaXJlY3QzRCAxMi4=</description>
-  <sourcefile>vkd3d-1.19.tar.xz</sourcefile>
-  <sourcedir>vkd3d-1.19</sourcedir>
+  <sourcefile>vkd3d-2.0.tar.xz</sourcefile>
+  <sourcedir>vkd3d-2.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

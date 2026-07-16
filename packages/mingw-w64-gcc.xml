@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>mingw-w64-gcc</code>
+  <description/>
+  <sourcefile>gcc-15.2.0.tar.xz</sourcefile>
+  <sourcedir>gcc-15.2.0</sourcedir>
+  <unpack/>
+  <configure>KA0KbWtkaXIgYnVpbGQteDg2XzY0LW1pbmd3LXc2NCAmJg0KY2QgICAgYnVpbGQteDg2XzY0LW1pbmd3LXc2NCAmJg0KDQouLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLXRhcmdldD14ODZfNjQtdzY0LW1pbmd3MzIgXA0KICAgICAgICAgICAgIC0tZW5hYmxlLXRocmVhZHM9cG9zaXggICAgICBcDQogICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVkICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAtLWRpc2FibGUtbXVsdGlsaWIgICAgICAgICAgXA0KICAgICAgICAgICAgIC0tZW5hYmxlLWxhbmd1YWdlcz1jLGMrKyANCikNCigNCm1rZGlyIGJ1aWxkLWk2ODYtbWluZ3ctdzY0ICYmDQpjZCAgICBidWlsZC1pNjg2LW1pbmd3LXc2NCAmJg0KDQouLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgICBcDQogICAgICAgICAgICAgLS10YXJnZXQ9aTY4Ni13NjQtbWluZ3czMiBcDQogICAgICAgICAgICAgLS1lbmFibGUtc2hhcmVkICAgICAgICAgICBcDQogICAgICAgICAgICAgLS1lbmFibGUtdGhyZWFkcz1wb3NpeCAgICBcDQogICAgICAgICAgICAgLS1kaXNhYmxlLW11bHRpbGliICAgICAgICBcDQogICAgICAgICAgICAgLS1lbmFibGUtbGFuZ3VhZ2VzPWMsYysrDQop</configure>
+  <build>KA0KY2QgICAgYnVpbGQteDg2XzY0LW1pbmd3LXc2NA0KDQptYWtlDQopDQooDQpjZCAgICBidWlsZC1pNjg2LW1pbmd3LXc2NA0KDQptYWtlDQop</build>
+  <install>KA0KY2QgICAgYnVpbGQteDg2XzY0LW1pbmd3LXc2NA0KDQptYWtlIGluc3RhbGwNCikNCigNCmNkICAgIGJ1aWxkLWk2ODYtbWluZ3ctdzY0DQoNCm1ha2UgaW5zdGFsbA0KKQ0KDQpsbiAtc2Z2IHg4Nl82NC13NjQtbWluZ3czMi1nY2MgL3Vzci9iaW4veDg2XzY0LXc2NC1taW5ndzMyLWNjICYmDQpzdHJpcCAvdXNyL2xpYmV4ZWMvZ2NjL3g4Nl82NC13NjQtbWluZ3czMi8xNS4yLjAve2NjMSosY29sbGVjdDIsbHRvKn0NCg0KbG4gLXNmdiBpNjg2LXc2NC1taW5ndzMyLWdjYyAvdXNyL2Jpbi9pNjg2LXc2NC1taW5ndzMyLWNjICYmDQpzdHJpcCAvdXNyL2xpYmV4ZWMvZ2NjL2k2ODYtdzY0LW1pbmd3MzIvMTUuMi4wL3tjYzEqLGNvbGxlY3QyLGx0byp9</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>mingw-w64</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches>
+    <patch>
+      <filename>gcc-15.2.0-mingw_fixes-1.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

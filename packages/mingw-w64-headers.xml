@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>mingw-w64-headers</code>
+  <description>TWluR1ctdzY0LWhlYWRlcnMgcHJvdmlkZXMgaGVhZGVyIGZpbGVzIGZvciBXaW5kb3dzLg==</description>
+  <sourcefile>mingw-w64-v13.0.0.tar.bz2</sourcefile>
+  <sourcedir>mingw-w64-v13.0.0</sourcedir>
+  <unpack/>
+  <configure>KA0KbWtkaXIgYnVpbGQteDg2XzY0LWhlYWRlcnMgJiYNCmNkICAgIGJ1aWxkLXg4Nl82NC1oZWFkZXJzICYmDQoNCi4uL21pbmd3LXc2NC1oZWFkZXJzL2NvbmZpZ3VyZSAtLXByZWZpeD0vdXNyL3g4Nl82NC13NjQtbWluZ3czMiBcDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLS1ob3N0PXg4Nl82NC13NjQtbWluZ3czMiAgICAgICAgXA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW5hYmxlLXNkaz1hbGwgICAgICAgICAgICAgICAgIFwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLXdpdGgtZGVmYXVsdC1tc3ZjcnQ9bXN2Y3J0DQopDQooDQpta2RpciBidWlsZC1pNjg2LWhlYWRlcnMgJiYNCmNkICAgIGJ1aWxkLWk2ODYtaGVhZGVycyAmJg0KDQouLi9taW5ndy13NjQtaGVhZGVycy9jb25maWd1cmUgLS1wcmVmaXg9L3Vzci9pNjg2LXc2NC1taW5ndzMyIFwNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAtLWhvc3Q9aTY4Ni13NjQtbWluZ3czMiAgICAgICAgXA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tZW5hYmxlLXNkaz1hbGwgICAgICAgICAgICAgICBcDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLS13aXRoLWRlZmF1bHQtbXN2Y3J0PW1zdmNydA0KKQ==</configure>
+  <build>Iw==</build>
+  <install>KA0KY2QgICAgYnVpbGQteDg2XzY0LWhlYWRlcnMgDQoNCm1ha2UgaW5zdGFsbA0KKQ0KKA0KY2QgICAgYnVpbGQtaTY4Ni1oZWFkZXJzDQoNCm1ha2UgaW5zdGFsbA0KKQ==</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

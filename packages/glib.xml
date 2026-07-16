@@ -36,16 +36,9 @@
   <archpackages>
     <archpackage>
       <arch>lib32_amd64</arch>
-      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgICAgICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgLS1saWJleGVjZGlyIC91c3IvbGliMzIgIFwNCiAgICAgICAgICAgLUQgaW50cm9zcGVjdGlvbj1kaXNhYmxlZCBcDQogICAgICAgICAgIC1EIHRlc3RzPWZhbHNlIFwNCiAgICAgICAgICAgLi4NCg==</configure>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgICAgICAgICAtLXByZWZpeD0vdXNyICAgICAgIFwNCiAgICAgICAgICAgLS1saWJleGVjZGlyIC91c3IvbGliMzIgIFwNCiAgICAgICAgICAgLUQgZ2xpYl9kZWJ1Zz1kaXNhYmxlZCBcDQogICAgICAgICAgIC1EIGludHJvc3BlY3Rpb249ZGlzYWJsZWQgXA0KICAgICAgICAgICAtRCBzeXNwcm9mPWRpc2FibGVkIFwNCiAgICAgICAgICAgLUQgdGVzdHM9ZmFsc2UgXA0KICAgICAgICAgICAuLg0K</configure>
       <build>Y2QgYnVpbGQNCm1lc29uIGNvbXBpbGU=</build>
       <install>Y2QgYnVpbGQNCm1lc29uIGluc3RhbGwgLS1kZXN0ZGlyIERFU1RESVINCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
-      <dependances>
-        <dependance>
-          <code>!pcre2</code>
-          <arch>lib32_amd64</arch>
-          <weight>0</weight>
-        </dependance>
-      </dependances>
     </archpackage>
   </archpackages>
 </package>

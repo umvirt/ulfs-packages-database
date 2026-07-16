@@ -25,4 +25,19 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCg0KZXhwb3J0IENDPSdnY2MgLW0zMicNCmV4cG9ydCBDWFg9J2crKyAtbTMyJw0KZXhwb3J0IFBLR19DT05GSUdfUEFUSD0iL3Vzci9saWIzMi9wa2djb25maWciDQpjbWFrZSAtRyBOaW5qYSBcDQogICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAtRENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgIFwNCiAgICAtRENNQUtFX0lOU1RBTExfTElCRElSPWxpYjMyIFwNCiAgICAtRENNQUtFX1NLSVBfSU5TVEFMTF9SUEFUSD1PTiBcDQogICAgLURTREwyQ09NUEFUX1NUQVRJQz1PRkYgICAgICAgXA0KICAgIC1EU0RMMkNPTVBBVF9URVNUUz1PRkYgICAgICAgIFwNCiAgICAuLg0K</configure>
+      <build>Y2QgYnVpbGQNCg0KbmluamE=</build>
+      <install>Y2QgYnVpbGQNCg0KREVTVERJUj1ERVNURElSIG5pbmphIGluc3RhbGwNCg0KY3AgLVJ2IERFU1RESVIvdXNyL2xpYjMyLyogL3Vzci9saWIzMg==</install>
+      <dependances>
+        <dependance>
+          <code>SDL3</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+      </dependances>
+    </archpackage>
+  </archpackages>
 </package>

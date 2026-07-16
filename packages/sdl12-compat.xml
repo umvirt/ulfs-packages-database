@@ -28,4 +28,12 @@
   <addons/>
   <nestings/>
   <comments/>
+  <archpackages>
+    <archpackage>
+      <arch>lib32_amd64</arch>
+      <configure>Iw==</configure>
+      <build>Iw==</build>
+      <install>Iw==</install>
+    </archpackage>
+  </archpackages>
 </package>

@@ -6,7 +6,7 @@
   <sourcefile>libxkbfile-1.2.0.tar.xz</sourcefile>
   <sourcedir>libxkbfile-1.2.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uDQoNCi4vY29uZmlndXJlICRYT1JHX0NPTkZJRyAkQVJHX1NUQVRJQw0K</configure>
+  <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PSRYT1JHX1BSRUZJWCAtLWJ1aWxkdHlwZT1yZWxlYXNlIC4uDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
@@ -19,9 +19,9 @@
   <archpackages>
     <archpackage>
       <arch>lib32_amd64</arch>
-      <configure>QVJHX1NUQVRJQz0iLS1kaXNhYmxlLXN0YXRpYyINCmlmIFtbICIkVUxGU19QS0dfU1RBVElDIiA9PSAiWUVTIiBdXQ0KdGhlbg0KICAgIEFSR19TVEFUSUM9Ii0tZW5hYmxlLXN0YXRpYyINCmZpDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciBcDQogICAgICRBUkdfU1RBVElDIFwNCiAgICAtLWhvc3Q9aTY4Ni1wYy1saW51eC1nbnUgXA0KICAgIC0tbGliZGlyPS91c3IvbGliMzINCg==</configure>
-      <build/>
-      <install/>
+      <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCkNDPSJnY2MgLW0zMiIgQ1hYPSJnKysgLW0zMiIgXA0KUEtHX0NPTkZJR19QQVRIPSIvdXNyL2xpYjMyL3BrZ2NvbmZpZyIgXA0KbWVzb24gc2V0dXAgLS1saWJkaXIgL3Vzci9saWIzMiBcDQogICAgLS1wcmVmaXg9L3VzciAgICAgICAgICAgXA0KICAgIC0tbGliZXhlY2RpciAvdXNyL2xpYjMyICAgICA=</configure>
+      <build>Y2QgYnVpbGQNCm5pbmph</build>
+      <install>Y2QgYnVpbGQNCkRFU1RESVI9JFBXRC9ERVNURElSIG5pbmphIGluc3RhbGwNCmNwIC1SdiBERVNURElSL3Vzci9saWIzMi8qIC91c3IvbGliMzI=</install>
     </archpackage>
   </archpackages>
 </package>

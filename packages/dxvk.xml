@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>dxvk</code>
+  <description>VGhlIERYVksgcGFja2FnZSBjb250YWlucyBETEwgZmlsZXMgd2hpY2ggY29udmVydHMgRGlyZWN0M0QgOC0xMSBjYWxscyB0byBWdWxrYW4u</description>
+  <sourcefile>dxvk-5098f1d0bd3e737ef0509ec51180cd01cfddd403.tar.xz</sourcefile>
+  <sourcedir>dxvk-5098f1d0bd3e737ef0509ec51180cd01cfddd403</sourcedir>
+  <unpack/>
+  <configure>KA0KbWtkaXIgYnVpbGQtd2luNjQgJiYNCmNkICAgIGJ1aWxkLXdpbjY0ICYmDQoNCm1lc29uIHNldHVwIC0tY3Jvc3MtZmlsZT0uLi9idWlsZC13aW42NC50eHQgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgICAgICAgICBcDQogICAgICAgICAgICAtLXByZWZpeD0kUFdEL0RFU1RESVIgICAgICAgICAgIFwNCiAgICAgICAgICAgIC4uDQopDQooDQpta2RpciBidWlsZC13aW4zMiAmJg0KY2QgICAgYnVpbGQtd2luMzIgJiYNCg0KbWVzb24gc2V0dXAgLS1jcm9zcy1maWxlPS4uL2J1aWxkLXdpbjMyLnR4dCBcDQogICAgICAgICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlICAgICAgICAgICAgIFwNCiAgICAgICAgICAgIC0tcHJlZml4PSRQV0QvREVTVERJUiAgICAgICAgICAgXA0KICAgICAgICAgICAgLi4NCik=</configure>
+  <build>KA0KY2QgICAgYnVpbGQtd2luNjQNCg0KbmluamENCikNCigNCmNkICAgIGJ1aWxkLXdpbjMyDQoNCm5pbmphDQop</build>
+  <install>KA0KY2QgICAgYnVpbGQtd2luNjQNCg0KbmluamEgaW5zdGFsbA0KKQ0KKA0KY2QgICAgYnVpbGQtd2luMzINCg0KbmluamEgaW5zdGFsbA0KKQ0KDQpta2RpciAgIC1wdiAgICAgL3Vzci9saWIvZHh2ay93aW42NCAmJg0KaW5zdGFsbCAtdkRtNzU1IGJ1aWxkLXdpbjY0L0RFU1RESVIvYmluLyouZGxsIFwNCiAgICAgICAgICAgICAtdCAvdXNyL2xpYi9keHZrL3dpbjY0Lw0KDQpta2RpciAgIC1wdiAgICAgL3Vzci9saWIvZHh2ay93aW4zMiAmJg0KaW5zdGFsbCAtdkRtNzU1IGJ1aWxkLXdpbjMyL0RFU1RESVIvYmluLyouZGxsIFwNCiAgICAgICAgICAgICAtdCAvdXNyL2xpYi9keHZrL3dpbjMyLw==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>mingw-w64-gcc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

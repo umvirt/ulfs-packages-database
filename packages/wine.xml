@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>wine</code>
   <description>V2luZSAob3JpZ2luYWxseSBhbiBhY3JvbnltIGZvciAiV2luZSBJcyBOb3QgYW4gRW11bGF0b3IiKSBpcyBhIGNvbXBhdGliaWxpdHkgbGF5ZXIgY2FwYWJsZSBvZiBydW5uaW5nIFdpbmRvd3MgYXBwbGljYXRpb25zLg==</description>
-  <sourcefile>wine-11.3.tar.xz</sourcefile>
-  <sourcedir>wine-11.3</sourcedir>
+  <sourcefile>wine-11.13.tar.xz</sourcefile>
+  <sourcedir>wine-11.13</sourcedir>
   <unpack/>
   <configure>aWYgWyAkKHVuYW1lIC1tKSA9IGk2ODYgXTsgdGhlbg0KICAgV0lORTY0PSIiDQplbHNlDQogICBXSU5FNjQ9Ii0tZW5hYmxlLXdpbjY0Ig0KZmkNCg0KLi9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAkV0lORTY0</configure>
   <build/>
@@ -67,7 +67,7 @@
     </archpackage>
     <archpackage>
       <arch>lib32_amd64</arch>
-      <configure>cm0gLXJmIC4uL3dpbmU2NA0Kcm0gLXJmIC4uL3dpbmUzMg0KbWtkaXIgLXYgLi4vd2luZTY0DQpta2RpciAtdiAuLi93aW5lMzINCg0KI2J1aWxkIHdpbmU2NA0KDQpjZCAuLi93aW5lNjQNCg0KLi4vd2luZS0xMS4zL2NvbmZpZ3VyZSAtLWVuYWJsZS13aW42NCAtLXByZWZpeD0vdXNyDQoNCm1ha2UNCg0KZXhwb3J0IFdJTkU2NERJUj0kUFdEDQoNCiNidWlsZCB3aW5lMzINCg0KY2QgLi4vd2luZTMyDQoNClBLR19DT05GSUdfUEFUSD0iL3Vzci9saWIzMi9wa2djb25maWciIFwNCi4uL3dpbmUtMTEuMy9jb25maWd1cmUgLS13aXRoLXdpbmU2ND0kV0lORTY0RElSIFwNCi0tcHJlZml4PS91c3I=</configure>
+      <configure>cm0gLXJmIC4uL3dpbmU2NA0Kcm0gLXJmIC4uL3dpbmUzMg0KbWtkaXIgLXYgLi4vd2luZTY0DQpta2RpciAtdiAuLi93aW5lMzINCg0KI2J1aWxkIHdpbmU2NA0KDQpjZCAuLi93aW5lNjQNCg0KLi4vd2luZS0xMS4xMy9jb25maWd1cmUgLS1lbmFibGUtd2luNjQgLS1wcmVmaXg9L3Vzcg0KDQptYWtlDQoNCmV4cG9ydCBXSU5FNjRESVI9JFBXRA0KDQojYnVpbGQgd2luZTMyDQoNCmNkIC4uL3dpbmUzMg0KDQpQS0dfQ09ORklHX1BBVEg9Ii91c3IvbGliMzIvcGtnY29uZmlnIiBcDQouLi93aW5lLTExLjEzL2NvbmZpZ3VyZSAtLXdpdGgtd2luZTY0PSRXSU5FNjRESVIgXA0KLS1wcmVmaXg9L3Vzcg==</configure>
       <build>Y2QgLi4vd2luZTMyDQptYWtl</build>
       <install>Y2QgLi4vd2luZTMyDQptYWtlIGluc3RhbGwNCg0KY2QgLi4vd2luZTY0DQptYWtlIGluc3RhbGw=</install>
       <dependances>
@@ -98,6 +98,11 @@
         </dependance>
         <dependance>
           <code>vkd3d</code>
+          <arch>lib32_amd64</arch>
+          <weight>0</weight>
+        </dependance>
+        <dependance>
+          <code>sdl2-compat</code>
           <arch>lib32_amd64</arch>
           <weight>0</weight>
         </dependance>

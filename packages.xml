@@ -1870,5 +1870,12 @@
     <package>qmltermwidget</package>
     <package>blueprint-compiler</package>
     <package>hidapi</package>
+    <package>mingw-w64-headers</package>
+    <package>mingw-w64-binutils</package>
+    <package>mingw-w64-gcc-static</package>
+    <package>mingw-w64</package>
+    <package>mingw-w64-gcc</package>
+    <package>wine-mingw</package>
+    <package>dxvk</package>
   </packages>
 </packages>
