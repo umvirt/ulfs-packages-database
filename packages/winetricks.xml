@@ -3,14 +3,18 @@
   <release>0.3</release>
   <code>winetricks</code>
   <description>V2luZXRyaWNrcyBpcyBhbiBlYXN5IHdheSB0byB3b3JrIGFyb3VuZCBwcm9ibGVtcyBpbiBXaW5l</description>
-  <sourcefile>winetricks-20250102.tar.gz</sourcefile>
-  <sourcedir>winetricks-20250102</sourcedir>
+  <sourcefile>winetricks-20260125.tar.gz</sourcefile>
+  <sourcedir>winetricks-20260125</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>
   <install>bWFrZSBpbnN0YWxs</install>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>zenity</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>cabextract</code>
       <weight>1</weight>

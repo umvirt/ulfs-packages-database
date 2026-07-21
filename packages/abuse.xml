@@ -7,9 +7,10 @@
   <sourcedir>Abuse_1996-1.0.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgDQpjZCBidWlsZA0KY21ha2UgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EQVNTRVRESVI9L3NoYXJlL2dhbWVzL2FidXNlLyBcDQogICAgICAuLg==</configure>
-  <build>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</build>
-  <install>Y2QgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>sdl2-compat</code>

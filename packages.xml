@@ -1029,7 +1029,7 @@
     <package>wine</package>
     <package>winetricks</package>
     <package>cabextract</package>
-    <package>!duckstation</package>
+    <package>duckstation</package>
     <package>chocolate-doom</package>
     <package>freedoom</package>
     <package>ZMusic</package>
@@ -1877,5 +1877,6 @@
     <package>mingw-w64-gcc</package>
     <package>wine-mingw</package>
     <package>dxvk</package>
+    <package>SheenBidi</package>
   </packages>
 </packages>

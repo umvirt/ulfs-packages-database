@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>glew</code>
   <description>R0xFVyBpcyB0aGUgT3BlbkdMIEV4dGVuc2lvbiBXcmFuZ2xlciBMaWJyYXJ5Lg==</description>
-  <sourcefile>glew-2.2.0.tgz</sourcefile>
-  <sourcedir>glew-2.2.0</sourcedir>
+  <sourcefile>glew-2.3.1.tgz</sourcefile>
+  <sourcedir>glew-2.3.1</sourcedir>
   <unpack/>
-  <configure>c2VkIC1pICdzJWxpYjY0JWxpYiVnJyBjb25maWcvTWFrZWZpbGUubGludXggJiYNCnNlZCAtaSAtZSAnL2dsZXcubGliLnN0YXRpYzovZCcgXA0KICAgICAgIC1lICcvMDY0NCAuKlNUQVRJQy9kJyAgICBcDQogICAgICAgLWUgJ3MvZ2xldy5saWIuc3RhdGljLy8nIE1ha2VmaWxlIA0K</configure>
+  <configure>c2VkIC1pICdzJWxpYjY0JWxpYiVnJyBjb25maWcvTWFrZWZpbGUubGludXggJiYNCnNlZCAtZSAnL2dsZXcubGliLnN0YXRpYzovZCcgXA0KICAgIC1lICcvMDY0NCAuKlNUQVRJQy9kJyAgICBcDQogICAgLWUgJ3MvZ2xldy5saWIuc3RhdGljLy8nIFwNCiAgICAtZSAnc3wvbG9jYWx8fCcgICAgICAgICAgXA0KICAgIC1pIE1ha2VmaWxlDQoNCg==</configure>
   <build/>
   <install>bWFrZSBpbnN0YWxsLmFsbA==</install>
   <localbuild>0</localbuild>

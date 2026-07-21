@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>zenity</code>
   <description>WmVuaXR5IGlzIGEgcmV3cml0ZSBvZiBnZGlhbG9nLCB0aGUgR05PTUUgcG9ydCBvZiBkaWFsb2cgd2hpY2ggYWxsb3dzIHlvdSB0byBkaXNwbGF5IEdUSysgZGlhbG9nIGJveGVzIGZyb20gdGhlIGNvbW1hbmQgbGluZSBhbmQgc2hlbGwgc2NyaXB0cy4=</description>
-  <sourcefile>zenity-4.1.90.tar.xz</sourcefile>
-  <sourcedir>zenity-4.1.90</sourcedir>
+  <sourcefile>zenity-4.2.2.tar.xz</sourcefile>
+  <sourcedir>zenity-4.2.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQptZXNvbiBzZXR1cCAtLXByZWZpeD0vdXNyIC4u</configure>
-  <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <configure/>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>help2man</code>

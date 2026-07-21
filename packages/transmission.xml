@@ -8,7 +8,7 @@
   <unpack/>
   <configure>c2VkIC1lICdzLzIuOC80LjAvJyAtaSB0aGlyZC1wYXJ0eS9kaHQvQ01ha2VMaXN0cy50eHQgXA0KICAgICAgICAgICAgICAgICAgICAgICB0aGlyZC1wYXJ0eS9saWJuYXRwbXAvQ01ha2VMaXN0cy50eHQNCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBDTUFLRV9JTlNUQUxMX0RPQ0RJUj0vdXNyL3NoYXJlL2RvYy90cmFuc21pc3Npb24tNC4xLjEgXA0KICAgICAgLi4=</configure>
   <build/>
-  <install>Y2QgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA0KDQpyc3ZnLWNvbnZlcnQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFwNCiAgIC91c3Ivc2hhcmUvaWNvbnMvaGljb2xvci9zY2FsYWJsZS9hcHBzL3RyYW5zbWlzc2lvbi5zdmcgXA0KICAgLW8gL3Vzci9zaGFyZS9waXhtYXBzL3RyYW5zbWlzc2lvbi5wbmc=</install>
+  <install>Y2QgICAgYnVpbGQgJiYNCm1ha2UgaW5zdGFsbA0KDQojcnN2Zy1jb252ZXJ0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcDQojICAgL3Vzci9zaGFyZS9pY29ucy9oaWNvbG9yL3NjYWxhYmxlL2FwcHMvdHJhbnNtaXNzaW9uLnN2ZyBcDQojICAgLW8gL3Vzci9zaGFyZS9waXhtYXBzL3RyYW5zbWlzc2lvbi5wbmc=</install>
   <localbuild>0</localbuild>
   <template>cmake-make</template>
   <dependances>
@@ -21,10 +21,6 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>!librsvg</code>
-      <weight>3</weight>
-    </dependance>
-    <dependance>
       <code>libpsl</code>
       <weight>4</weight>
     </dependance>
@@ -33,12 +29,7 @@
       <weight>5</weight>
     </dependance>
   </dependances>
-  <patches>
-    <patch>
-      <filename>transmission-4.0.6-build_fix-1.patch</filename>
-      <mode>1</mode>
-    </patch>
-  </patches>
+  <patches/>
   <addons/>
   <nestings/>
   <comments/>

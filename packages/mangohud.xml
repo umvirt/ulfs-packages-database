@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>mangohud</code>
   <description>QSBWdWxrYW4gYW5kIE9wZW5HTCBvdmVybGF5IGZvciBtb25pdG9yaW5nIEZQUywgdGVtcGVyYXR1cmVzLCBDUFUvR1BVIGxvYWQgYW5kIG1vcmUu</description>
-  <sourcefile>MangoHud-v0.8.2-Source.tar.xz</sourcefile>
-  <sourcedir>MangoHud-v0.8.2</sourcedir>
+  <sourcefile>MangoHud-v0.8.4-Source.tar.xz</sourcefile>
+  <sourcedir>MangoHud-v0.8.4</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCm1lc29uIHNldHVwIC1Ed2l0aF94bnZjdHJsPWRpc2FibGVkIC0tcHJlZml4PS91c3IgLi4=</configure>
   <build/>
@@ -12,6 +12,14 @@
   <localbuild>0</localbuild>
   <template>meson</template>
   <dependances>
+    <dependance>
+      <code>gtkmm4</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nlohmann-json</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libxkbcommon</code>
       <weight>1</weight>

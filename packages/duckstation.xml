@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>duckstation</code>
+  <description>RmFzdCBQbGF5U3RhdGlvbiAxIGVtdWxhdG9yIGZvciB4ODYtNjQvQUFyY2gzMi9BQXJjaDY0L1JWNjQ=</description>
+  <sourcefile>duckstation-0.1-11515.tar.gz</sourcefile>
+  <sourcedir>duckstation-0.1-11515</sourcedir>
+  <unpack/>
+  <configure>dGFyIC14ZiAuLi9kdWNrc3RhdGlvbi1kZXBlbmRlbmNpZXMtcmVsZWFzZS0yMDI2MDcwMi50YXIuZ3oNCigNCmNkIGRlcGVuZGVuY2llcy1yZWxlYXNlLTIwMjYwNzAyDQp1bnppcCAuLi8uLi9kdWNrc3RhdGlvbi1kZXBzLXNvdXJjZXMtMjAyNjA3MDIuemlwDQouL2J1aWxkLWRlcGVuZGVuY2llcy1saW51eC5zaCAtc2tpcC1kb3dubG9hZCAuLi9kZXAvcHJlYnVpbHQvbGludXgteDY0DQopDQoNCm1rZGlyIC12IGJ1aWxkICYmDQpjZCAgICAgICBidWlsZCANCg0KY21ha2UgLUcgTmluamEgXA0KICAgICAgLURDTUFLRV9JTlNUQUxMX1BSRUZJWD0vb3B0L2R1Y2tzdGF0aW9uIFwNCiAgICAgIC1EQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlIFwNCiAgICAgIC1EQ01BS0VfQ19DT01QSUxFUj1jbGFuZyBcDQogICAgICAtRENNQUtFX0NYWF9DT01QSUxFUj1jbGFuZysrIFwNCiAgICAgIC4u</configure>
+  <build/>
+  <install>Y2QgYnVpbGQNCg0KbWtkaXIgL29wdC9kdWNrc3RhdGlvbg0KY3AgLXJ2IGJpbi8qIC9vcHQvZHVja3N0YXRpb24=</install>
+  <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
+  <dependances>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>llvm</code>
+      <weight>1</weight>
+    </dependance>
+    <dependance>
+      <code>wayland-protocols</code>
+      <weight>2</weight>
+    </dependance>
+    <dependance>
+      <code>mesa</code>
+      <weight>3</weight>
+    </dependance>
+    <dependance>
+      <code>SDL3</code>
+      <weight>4</weight>
+    </dependance>
+    <dependance>
+      <code>Vulkan-Loader</code>
+      <weight>6</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons>
+    <addon>duckstation-dependencies-release-20260702.tar.gz</addon>
+    <addon>duckstation-deps-sources-20260702.zip</addon>
+  </addons>
+  <nestings/>
+  <comments/>
+</package>
