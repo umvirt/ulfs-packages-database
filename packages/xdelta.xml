@@ -3,12 +3,12 @@
   <release>0.3</release>
   <code>xdelta</code>
   <description>WGRlbHRhIHZlcnNpb24gMyBpcyBhIEMgbGlicmFyeSBhbmQgY29tbWFuZC1saW5lIHRvb2wgZm9yIGRlbHRhIGNvbXByZXNzaW9uIHVzaW5nIFZDRElGRi9SRkMgMzI4NCBzdHJlYW1zLg==</description>
-  <sourcefile>xdelta-3.1.0.tar.gz</sourcefile>
-  <sourcedir>xdelta-3.1.0</sourcedir>
+  <sourcefile>xdelta3-3.2.0.tar.gz</sourcefile>
+  <sourcedir>xdelta3-3.2.0</sourcedir>
   <unpack/>
-  <configure>Y2QgeGRlbHRhMw0KDQphY2xvY2FsDQphdXRvcmVjb25mIC0taW5zdGFsbA0KbGlidG9vbGl6ZQ0KYXV0b2NvbmYNCmF1dG9oZWFkZXINCmF1dG9tYWtlIC0tYWRkLW1pc3NpbmcNCmF1dG9tYWtlDQoNCi4vY29uZmlndXJlIC0tZGlzYWJsZS1kZXBlbmRlbmN5LXRyYWNraW5nIC0tcHJlZml4PS91c3IgLS13aXRoLWxpYmx6bWENCg0K</configure>
-  <build>Y2QgeGRlbHRhMw0KbWFrZQ0K</build>
-  <install>Y2QgeGRlbHRhMw0KbWFrZSBpbnN0YWxsDQo=</install>
+  <configure>bWtkaXIgeGRlbHRhMy9idWlsZCAmJg0KY2QgICAgeGRlbHRhMy9idWlsZA0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgXA0KICAgICAgLUQgQlVJTERfU0hBUkVEX0xJQlM9T04gICAgICBcDQogICAgICAtRCBYRDNfQVJNT1I9T0ZGICAgICAgICAgICAgIFwNCiAgICAgIC4u</configure>
+  <build>Y2QgICAgeGRlbHRhMy9idWlsZA0KbWFrZQ0K</build>
+  <install>Y2QgICAgeGRlbHRhMy9idWlsZA0KbWFrZSBpbnN0YWxsDQo=</install>
   <localbuild>0</localbuild>
   <dependances/>
   <patches/>

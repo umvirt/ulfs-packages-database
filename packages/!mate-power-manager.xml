@@ -20,7 +20,7 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libgnome-keyring</code>
+      <code>!libgnome-keyring</code>
       <weight>3</weight>
     </dependance>
   </dependances>

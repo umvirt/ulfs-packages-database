@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>libgnome-keyring</code>
+  <code>!libgnome-keyring</code>
   <description>R05PTUUga2V5cmluZyBzZXJ2aWNlcyBsaWJyYXJ5</description>
   <sourcefile>libgnome-keyring-3.12.0.tar.xz</sourcefile>
   <sourcedir>libgnome-keyring-3.12.0</sourcedir>
@@ -11,6 +11,10 @@
   <install/>
   <localbuild>0</localbuild>
   <dependances>
+    <dependance>
+      <code>libgcrypt</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>gnome-common</code>
       <weight>1</weight>

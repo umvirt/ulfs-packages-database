@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>fzssh</code>
+  <description>Znpzc2ggaXMgYSBTU0gvU0ZUUCBsaWJyYXJ5IGJhc2VkIG9uIGxpYmZpbGV6aWxsYQ==</description>
+  <sourcefile>fzssh-1.3.0.tar.xz</sourcefile>
+  <sourcedir>fzssh-1.3.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>meson</template>
+  <dependances>
+    <dependance>
+      <code>argon2</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

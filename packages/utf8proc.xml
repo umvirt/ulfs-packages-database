@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>utf8proc</code>
   <description>dXRmOHByb2MgaXMgYSBjbGVhbiBDIGxpYnJhcnkgZm9yIHByb2Nlc3NpbmcgVVRGLTggVW5pY29kZSBkYXRh</description>
-  <sourcefile>utf8proc-2.9.0.tar.gz</sourcefile>
-  <sourcedir>utf8proc-2.9.0</sourcedir>
+  <sourcefile>utf8proc-2.11.3.tar.gz</sourcefile>
+  <sourcedir>utf8proc-2.11.3</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRENNQUtFX1BPTElDWV9WRVJTSU9OX01JTklNVU09My41IFwNCiAgICAgIC1HIE5pbmphIC4uDQo=</configure>
+  <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>

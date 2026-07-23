@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>epiphany</code>
   <description>RXBpcGhhbnkgaXMgYSBzaW1wbGUgeWV0IHBvd2VyZnVsIEdOT01FIHdlYiBicm93c2VyIHRhcmdldGVkIGF0IG5vbi10ZWNobmljYWwgdXNlcnMuIEl0cyBwcmluY2lwbGVzIGFyZSBzaW1wbGljaXR5IGFuZCBzdGFuZGFyZHMgY29tcGxpYW5jZS4=</description>
-  <sourcefile>epiphany-48.5.tar.xz</sourcefile>
-  <sourcedir>epiphany-48.5</sourcedir>
+  <sourcefile>epiphany-49.2.tar.xz</sourcefile>
+  <sourcedir>epiphany-49.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

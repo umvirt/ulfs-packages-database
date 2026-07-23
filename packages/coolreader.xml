@@ -12,6 +12,10 @@
   <localbuild>0</localbuild>
   <dependances>
     <dependance>
+      <code>qt5</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>freetype</code>
       <weight>1</weight>
     </dependance>

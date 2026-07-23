@@ -6,7 +6,7 @@
   <sourcefile>simh-4d38373206cd7c0ce8b94f5e16bd4429cb96430f.tar.xz</sourcefile>
   <sourcedir>simh-4d38373206cd7c0ce8b94f5e16bd4429cb96430f</sourcedir>
   <unpack/>
-  <configure>ZXhwb3J0IENDPSJnY2MgLXN0ZD1nbnUxNyINCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg0K</configure>
+  <configure>ZXhwb3J0IENDPSJnY2MgLXN0ZD1nbnUxNyINCg0KbWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAuLg0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

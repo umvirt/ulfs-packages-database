@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>whisper.cpp</code>
   <description>UG9ydCBvZiBPcGVuQUkncyBXaGlzcGVyIG1vZGVsIGluIEMvQysr</description>
-  <sourcefile>whisper.cpp-1.8.2.tar.gz</sourcefile>
-  <sourcedir>whisper.cpp-1.8.2</sourcedir>
+  <sourcefile>whisper.cpp-1.9.1.tar.gz</sourcefile>
+  <sourcedir>whisper.cpp-1.9.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgR0dNTF9CTEFTPTEgICAgICAgICAgICAgICBcDQogICAgICAtRCBXSElTUEVSX0ZGTVBFRz15ZXMgICAgICAgIFwNCiAgICAgIC1EIFdISVNQRVJfU0RMMj1PTiAgICAgICAgICAgXA0KICAgICAgLVcgbm8tZGV2IC4uICA=</configure>
   <build/>

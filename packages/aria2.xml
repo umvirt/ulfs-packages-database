@@ -20,10 +20,6 @@
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>!sqlite</code>
-      <weight>3</weight>
-    </dependance>
-    <dependance>
       <code>nettle</code>
       <weight>4</weight>
     </dependance>

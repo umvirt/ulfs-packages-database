@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>scummvm</code>
   <description>U2N1bW1WTSBpcyBhIHByb2dyYW0gd2hpY2ggYWxsb3dzIHRvIHJ1biBjZXJ0YWluIGNsYXNzaWMgZ3JhcGhpY2FsIGFkdmVudHVyZSBhbmQgcm9sZS1wbGF5aW5nIGdhbWVzLg==</description>
-  <sourcefile>scummvm-2.9.1.tar.xz</sourcefile>
-  <sourcedir>scummvm-2.9.1</sourcedir>
+  <sourcefile>scummvm-2026.3.0.tar.xz</sourcefile>
+  <sourcedir>scummvm-2026.3.0</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgXA0KICAgIC0tZW5hYmxlLXJlbGVhc2UgXA0KICAgIC0tZW5hYmxlLWFsbC1lbmdpbmVzIFwNCiAgICAtLXByZWZpeD0vdXNyDQo=</configure>
   <build/>

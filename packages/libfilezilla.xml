@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libfilezilla</code>
   <description>bGliZmlsZXppbGxhIGlzIGEgc21hbGwgYW5kIG1vZGVybiBDKysgbGlicmFyeSwgb2ZmZXJpbmcgc29tZSBiYXNpYyBmdW5jdGlvbmFsaXR5IHRvIGJ1aWxkIGhpZ2gtcGVyZm9ybWluZywgcGxhdGZvcm0taW5kZXBlbmRlbnQgcHJvZ3JhbXMu</description>
-  <sourcefile>libfilezilla-0.52.0.tar.xz</sourcefile>
-  <sourcedir>libfilezilla-0.52.0</sourcedir>
+  <sourcefile>libfilezilla-0.56.1.tar.xz</sourcefile>
+  <sourcedir>libfilezilla-0.56.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>

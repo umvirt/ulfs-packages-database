@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>keepassxc</code>
   <description>S2VlUGFzc1hDIGlzIGEgbW9kZXJuLCBzZWN1cmUsIGFuZCBvcGVuLXNvdXJjZSBwYXNzd29yZCBtYW5hZ2VyIHRoYXQgc3RvcmVzIGFuZCBtYW5hZ2VzIHlvdXIgbW9zdCBzZW5zaXRpdmUgaW5mb3JtYXRpb24u</description>
-  <sourcefile>keepassxc-2.7.11-src.tar.xz</sourcefile>
-  <sourcedir>keepassxc-2.7.11</sourcedir>
+  <sourcefile>keepassxc-2.7.12-src.tar.xz</sourcefile>
+  <sourcedir>keepassxc-2.7.12</sourcedir>
   <unpack/>
   <configure/>
   <build/>

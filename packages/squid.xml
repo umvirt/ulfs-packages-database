@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>squid</code>
   <description>RnVsbCBmZWF0dXJlZCBXZWIgUHJveHkgY2FjaGUgKEhUVFAgcHJveHkp</description>
-  <sourcefile>squid-7.3.tar.xz</sourcefile>
-  <sourcedir>squid-7.3</sourcedir>
+  <sourcefile>squid-7.6.tar.xz</sourcefile>
+  <sourcedir>squid-7.6</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLXN5c2NvbmZkaXI9L2V0YyAtLWxvY2Fsc3RhdGVkaXI9L3Zhcg0K</configure>
   <build/>

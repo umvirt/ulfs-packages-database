@@ -579,7 +579,7 @@
     <package>!mate-notification-daemon</package>
     <package>!mate-polkit</package>
     <package>!mate-power-manager</package>
-    <package>libgnome-keyring</package>
+    <package>!libgnome-keyring</package>
     <package>!mate-screensaver</package>
     <package>!mate-sensors-applet</package>
     <package>!mate-session-manager</package>
@@ -1878,5 +1878,7 @@
     <package>wine-mingw</package>
     <package>dxvk</package>
     <package>SheenBidi</package>
+    <package>BLAKE3</package>
+    <package>fzssh</package>
   </packages>
 </packages>
