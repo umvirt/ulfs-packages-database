@@ -6,11 +6,11 @@
   <sourcefile>hyprland-qt-support-0.1.0.tar.gz</sourcefile>
   <sourcedir>hyprland-qt-support-0.1.0</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQpjbWFrZSAtRENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLURJTlNUQUxMX1FNTF9QUkVGSVg9JHtRVDZESVJ9L3FtbCBcDQogICAgICAtV25vLWRldiBcDQogICAgICAuLg0K</configure>
+  <configure/>
   <build/>
-  <install>Y2QgYnVpbGQNCg0KI2NhbnQgbWFrZSBpbnN0YWxsIGluIC9vcHQvcXQ2IQ0KbWFrZSBERVNURElSPURFU1RESVIgaW5zdGFsbA0KDQpjcCAtcnYgREVTVERJUi91c3IvbGliLyogL3Vzci9saWINCmNwIC1ydiBERVNURElSL3Vzci9vcHQvKiAvb3B0</install>
+  <install/>
   <localbuild>0</localbuild>
-  <template>cmake-make</template>
+  <template>hyprland-library</template>
   <dependances>
     <dependance>
       <code>libxkbcommon</code>

@@ -3,14 +3,14 @@
   <release>0.3</release>
   <code>hyprlang</code>
   <description>VGhlIG9mZmljaWFsIGltcGxlbWVudGF0aW9uIGxpYnJhcnkgZm9yIHRoZSBoeXByIGNvbmZpZyBsYW5ndWFnZS4=</description>
-  <sourcefile>hyprlang-0.6.4.tar.gz</sourcefile>
-  <sourcedir>hyprlang-0.6.4</sourcedir>
+  <sourcefile>hyprlang-0.6.8.tar.gz</sourcefile>
+  <sourcedir>hyprlang-0.6.8</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>cmake-ninja</template>
+  <template>hyprland-library</template>
   <dependances>
     <dependance>
       <code>hyprutils</code>

@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>glaze</code>
   <description>RXh0cmVtZWx5IGZhc3QsIGluIG1lbW9yeSwgSlNPTiBhbmQgaW50ZXJmYWNlIGxpYnJhcnkgZm9yIG1vZGVybiBDKys=</description>
-  <sourcefile>glaze-5.5.5.tar.gz</sourcefile>
-  <sourcedir>glaze-5.5.5</sourcedir>
+  <sourcefile>glaze-7.0.2.tar.gz</sourcefile>
+  <sourcedir>glaze-7.0.2</sourcedir>
   <unpack/>
-  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBCVUlMRF9URVNUSU5HPU9GRiAgICAgICAgIFwNCiAgICAgIC1HIE5pbmphIC4uDQogICAgICANCg==</configure>
+  <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBnbGF6ZV9CVUlMRF9FWEFNUExFUz1PRkYgIFwNCiAgICAgIC1EIGdsYXplX0RFVkVMT1BFUl9NT0RFPU9GRiAgXA0KICAgICAgLUQgZ2xhemVfRU5BQkxFX0ZVWlpJTkc9T0ZGICBcDQogICAgICAtRyBOaW5qYSAuLg0KICAgICAgDQo=</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

@@ -31,6 +31,13 @@
       <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
     </template>
     <template>
+      <code>hyprland-library</code>
+      <description>SHlwcmxhbmQgbGlicmFyeQ==</description>
+      <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0vdXNyICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgXA0KICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OICAgICBcDQogICAgICAtRCBJTlNUQUxMX1FNTF9QUkVGSVg9L2xpYi9xdDYvcW1sIFwNCiAgICAgIC1EIERJU0FCTEVfVEVTVFM9T04gICAgICAgICAgICAgICAgXA0KICAgICAgLUQgQlVJTERfVEVTVElORz1PRkYgICAgICAgICAgICAgICBcDQogICAgICAtVyBuby1kZXYgLUcgTmluamEgLi4=</configure>
+      <build>Y2QgICAgYnVpbGQNCm5pbmph</build>
+      <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+    </template>
+    <template>
       <code>kde-apps</code>
       <description>VGVtcGxhdGUgZm9yIEtERSA2IEFwcHM=</description>
       <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
@@ -64,6 +71,13 @@
       <configure>bWtkaXIgYnVpbGQNCmNkICAgIGJ1aWxkDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIENNQUtFX0lOU1RBTExfTElCRVhFQ0RJUj1saWJleGVjIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1FUNT1PRkYgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
       <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
       <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+    </template>
+    <template>
+      <code>virtual</code>
+      <description>VmlydHVhbCBwYWNrYWdlLg==</description>
+      <configure>Iw==</configure>
+      <build>Iw==</build>
+      <install>Iw==</install>
     </template>
   </templates>
   <packages>
@@ -1132,14 +1146,14 @@
     <package>hyprlang</package>
     <package>hyprcursor-rustless</package>
     <package>tomlplusplus</package>
-    <package>hyprgraphics</package>
+    <package>hyprgraphics-rustless</package>
     <package>libspng</package>
     <package>re2</package>
     <package>xcb-util-errors</package>
     <package>glaze</package>
     <package>ut</package>
-    <package>hyprland</package>
-    <package>hyprland-qtutils</package>
+    <package>hyprland-base</package>
+    <package>hyprland-guiutils</package>
     <package>hyprpaper</package>
     <package>hyprsysteminfo</package>
     <package>hyprland-qt-support</package>
@@ -1880,5 +1894,33 @@
     <package>SheenBidi</package>
     <package>BLAKE3</package>
     <package>fzssh</package>
+    <package>hyprland-protocols</package>
+    <package>hyprwire</package>
+    <package>hyprtoolkit</package>
+    <package>Hyprland-libs</package>
+    <package>iniparser</package>
+    <package>libei</package>
+    <package>kitty</package>
+    <package>xxHash</package>
+    <package>nerd-fonts-symbolic</package>
+    <package>go18</package>
+    <package>go20</package>
+    <package>go22</package>
+    <package>go24</package>
+    <package>go26</package>
+    <package>go</package>
+    <package>hyprlauncher</package>
+    <package>Waybar</package>
+    <package>libdbusmenu</package>
+    <package>jsoncpp</package>
+    <package>playerctl</package>
+    <package>libmpdclient</package>
+    <package>gpsd</package>
+    <package>SCons</package>
+    <package>sndio</package>
+    <package>gtk-layer-shell</package>
+    <package>scdoc</package>
+    <package>Catch2</package>
+    <package>Hyprland</package>
   </packages>
 </packages>

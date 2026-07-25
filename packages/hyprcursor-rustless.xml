@@ -10,7 +10,7 @@
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>cmake-ninja</template>
+  <template>hyprland-library</template>
   <dependances>
     <dependance>
       <code>cairo</code>
@@ -31,7 +31,7 @@
   </dependances>
   <patches>
     <patch>
-      <filename>hyprcursor-disable-svg.patch</filename>
+      <filename>hyprcursor-disable-rsvg.patch</filename>
       <mode>1</mode>
     </patch>
   </patches>

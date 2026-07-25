@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>libdbusmenu</code>
+  <description>QSBzbWFsbCBsaXR0bGUgbGlicmFyeSB0aGF0IHdhcyBjcmVhdGVkIGJ5IHB1bGxpbmcgb3V0IHNvbWUgY29tb24gY29kZSBvdXQgb2YgaW5kaWNhdG9yLWFwcGxldC4=</description>
+  <sourcefile>libdbusmenu_18.10.20180917~bzr492+repack1.orig.tar.xz</sourcefile>
+  <sourcedir>libdbusmenu-18.10.20180917~bzr492</sourcedir>
+  <unpack/>
+  <configure>Tk9DT05GSUdVUkU9MSAuL2F1dG9nZW4uc2gNCg0KZXhwb3J0IEhBVkVfVkFMR1JJTkRfVFJVRT0nIycNCmV4cG9ydCBIQVZFX1ZBTEdSSU5EX0ZBTFNFPScnDQoNCi4vY29uZmlndXJlIC0tcHJlZml4PS91c3IgXA0KICAgIC0tc3lzY29uZmRpcj0vZXRjIFwNCiAgICAtLWxvY2Fsc3RhdGVkaXI9L3ZhciBcDQogICAgLS1kaXNhYmxlLXtkdW1wZXIsc3RhdGljLHRlc3RzfSBcDQogICAgLS13aXRoLWd0az0zIFwNCiAgICAtLWRpc2FibGUtZ3RrLWRvYw==</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gtk3</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>dbus-glib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>valgrind</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gnome-common</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

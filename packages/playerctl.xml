@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>playerctl</code>
+  <description>bXByaXMgbWVkaWEgcGxheWVyIGNvbW1hbmQtbGluZSBjb250cm9sbGVyIGZvciB2bGMsIG1wdiwgUmh5dGhtQm94LCB3ZWIgYnJvd3NlcnMsIGNtdXMsIG1wZCwgc3BvdGlmeSBhbmQgb3RoZXJzLg==</description>
+  <sourcefile>playerctl-2.4.1.tar.gz</sourcefile>
+  <sourcedir>playerctl-2.4.1</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>meson</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

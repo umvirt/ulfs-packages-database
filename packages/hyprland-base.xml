@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>hyprland</code>
+  <code>hyprland-base</code>
   <description>SHlwcmxhbmQgaXMgYW4gaW5kZXBlbmRlbnQsIGhpZ2hseSBjdXN0b21pemFibGUsIGR5bmFtaWMgdGlsaW5nIFdheWxhbmQgY29tcG9zaXRvciB0aGF0IGRvZXNuJ3Qgc2FjcmlmaWNlIG9uIGl0cyBsb29rcy4=</description>
-  <sourcefile>hyprland-0.50.1.tar.gz</sourcefile>
+  <sourcefile>hyrpland-0.53.3.tar.gz</sourcefile>
   <sourcedir>hyprland-source</sourcedir>
   <unpack/>
-  <configure>Iw==</configure>
-  <build>bWFrZSByZWxlYXNlIFBSRUZJWD0vdXNy</build>
-  <install/>
+  <configure>Y2F0ID4gZ2x6LXZlcnNpb24uY3BwIDw8ICJFT0YiDQojaW5jbHVkZSA8Z2xhemUvZ2xhemUuaHBwPg0KI2luY2x1ZGUgPGdsYXplL3ZlcnNpb24uaHBwPg0KI2luY2x1ZGUgPHN0ZGlvLmg+DQppbnQgbWFpbigpIHsNCiAgcHJpbnRmKCIlaS4laS4laVxuIiwgZ2x6Ojp2ZXJzaW9uLm1ham9yLA0KICAgICAgICAgICAgICAgICAgICAgICBnbHo6OnZlcnNpb24ubWlub3IsDQogICAgICAgICAgICAgICAgICAgICAgIGdsejo6dmVyc2lvbi5wYXRjaCk7DQogIHJldHVybiAwOw0KfQ0KRU9GDQoNCmcrKyAtc3RkPWMrKzIzIC1vIGdsei12ZXJzaW9uIGdsei12ZXJzaW9uLmNwcCAmJg0Kc2VkIC1pICJzL2dsYXplXCBbMC05XVswLTkuXSovZ2xhemVcICQoLi9nbHotdmVyc2lvbikvIiBcDQogIGh5cHJwbS9DTWFrZUxpc3RzLnR4dCAmJg0Kcm0gLXZmIGdsei12ZXJzaW9ueywuY3BwfQ0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KY21ha2UgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9L3VzciAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICBcDQogICAgICAtRCBDTUFLRV9TS0lQX0lOU1RBTExfUlBBVEg9T04gXA0KICAgICAgLUQgQlVJTERfVEVTVElORz1PRkYgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAtRyBOaW5qYSAuLg==</configure>
+  <build/>
+  <install>Y2QgICAgYnVpbGQNCm5pbmphIGluc3RhbGwNCg0KbG4gLXNmdiBzdGFydC1oeXBybGFuZCAvdXNyL2Jpbi9oeXBybGFuZA0K</install>
   <localbuild>0</localbuild>
+  <template>cmake-ninja</template>
   <dependances>
+    <dependance>
+      <code>muparser</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libei</code>
+      <weight>0</weight>
+    </dependance>
     <dependance>
       <code>libxcb</code>
       <weight>1</weight>
@@ -120,7 +129,7 @@
       <weight>27</weight>
     </dependance>
     <dependance>
-      <code>hyprgraphics</code>
+      <code>hyprgraphics-rustless</code>
       <weight>28</weight>
     </dependance>
     <dependance>
@@ -136,7 +145,7 @@
       <weight>31</weight>
     </dependance>
     <dependance>
-      <code>hyprland-qtutils</code>
+      <code>hyprland-guiutils</code>
       <weight>32</weight>
     </dependance>
     <dependance>

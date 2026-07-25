@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>go18</code>
+  <description/>
+  <sourcefile>go1.18.10.src.tar.gz</sourcefile>
+  <sourcedir>go</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Y2Qgc3JjDQoNCmV4cG9ydCBHT1JPT1Q9L3Vzcg0KDQojZ28NCg0KR09ST09UX0JPT1RTVFJBUD0vdXNyIC4vYWxsLmJhc2g=</build>
+  <install>bWtkaXIgL29wdC9nbzE4DQoNCmNwIC1ydiBiaW4gcGtnIHNyYyBsaWIgbWlzYyBhcGkgdGVzdCAvb3B0L2dvMTgNCg0KY2F0ID4gL2V0Yy9wcm9maWxlLmQvZ28uc2ggPDwgIkVPRiINCiMgQmVnaW4gL2V0Yy9wcm9maWxlLmQvZ28uc2gNCg0KR09ESVI9L29wdC9nbzE4DQoNCnBhdGhhcHBlbmQgJEdPRElSL2JpbiAgICAgICAgICAgUEFUSA0KDQpleHBvcnQgR09ESVINCg0KIyBFbmQgL2V0Yy9wcm9maWxlLmQvZ28uc2gNCkVPRg0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>gcc</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

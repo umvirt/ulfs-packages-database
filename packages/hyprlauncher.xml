@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>hyprlauncher</code>
+  <description>QSBtdWx0aXB1cnBvc2UgYW5kIHZlcnNhdGlsZSBsYXVuY2hlciAvIHBpY2tlciBmb3IgSHlwcmxhbmQ=</description>
+  <sourcefile>hyprlauncher-0.1.6.tar.gz</sourcefile>
+  <sourcedir>hyprlauncher-0.1.6</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>cmake-make</template>
+  <dependances>
+    <dependance>
+      <code>hyprland-base</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Hyprland-libs</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

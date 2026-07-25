@@ -1,40 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>hyprsysteminfo</code>
-  <description>QSB0aW55IHF0Ni9xbWwgYXBwbGljYXRpb24gdG8gZGlzcGxheSBpbmZvcm1hdGlvbiBhYm91dCB0aGUgcnVubmluZyBzeXN0ZW0=</description>
-  <sourcefile>hyprsysteminfo-0.2.0.tar.gz</sourcefile>
-  <sourcedir>hyprsysteminfo-0.2.0</sourcedir>
+  <code>Hyprland</code>
+  <description>SHlwcmxhbmQgdmlydHVhbCBwYWNrYWdl</description>
+  <sourcefile/>
+  <sourcedir/>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>cmake-ninja</template>
+  <template>virtual</template>
   <dependances>
     <dependance>
-      <code>wayland</code>
+      <code>Hyprland-libs</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>wayland-protocols</code>
+      <code>hyprland-base</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>libxkbcommon</code>
+      <code>kitty</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>qt6</code>
+      <code>hyprlauncher</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>hyprutils</code>
+      <code>Waybar</code>
       <weight>5</weight>
-    </dependance>
-    <dependance>
-      <code>hyprland-qt-support</code>
-      <weight>6</weight>
     </dependance>
   </dependances>
   <patches/>

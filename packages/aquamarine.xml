@@ -3,14 +3,14 @@
   <release>0.3</release>
   <code>aquamarine</code>
   <description>QXF1YW1hcmluZSBpcyBhIHZlcnkgbGlnaHQgbGludXggcmVuZGVyaW5nIGJhY2tlbmQgbGlicmFyeQ==</description>
-  <sourcefile>aquamarine-0.9.2.tar.gz</sourcefile>
-  <sourcedir>aquamarine-0.9.2</sourcedir>
+  <sourcefile>aquamarine-0.10.0.tar.gz</sourcefile>
+  <sourcedir>aquamarine-0.10.0</sourcedir>
   <unpack/>
-  <configure>IyBJZiBNZXNhIGxpYkdMIGlzIGluc3RhbGxlZCwgZm9yY2UgQ01ha2UgdG8gdXNlIGl0DQppZiAhIHBrZ2NvbmYgbGliZ2x2bmQ7IHRoZW4NCnNlZCAtaSAncy9PcGVuR0w6Ok9wZW5HTC9PcGVuR0w6OkdML2cnICAgXA0KICAgIENNYWtlTGlzdHMudHh0DQpmaQ0KDQpta2RpciBidWlsZA0KY2QgICAgYnVpbGQNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgXA0KICAgICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgIFwNCiAgICAgICAgLUQgQ01BS0VfU0tJUF9JTlNUQUxMX1JQQVRIPU9OICAgICBcDQogICAgICAgIC1HIE5pbmphIC4u</configure>
+  <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>cmake-ninja</template>
+  <template>hyprland-library</template>
   <dependances>
     <dependance>
       <code>libdrm</code>

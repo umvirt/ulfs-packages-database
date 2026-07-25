@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>kitty</code>
+  <description>Q3Jvc3MtcGxhdGZvcm0sIGZhc3QsIGZlYXR1cmUtcmljaCwgR1BVIGJhc2VkIHRlcm1pbmFsLg==</description>
+  <sourcefile>kitty-0.48.0-vendored.tar.xz</sourcefile>
+  <sourcedir>kitty-0.48.0-vendored</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>cHl0aG9uMyBzZXR1cC5weSBsaW51eC1wYWNrYWdlIC0tdXBkYXRlLWNoZWNrLWludGVydmFsPTANCg==</build>
+  <install>Y3AgLXJ2IGxpbnV4LXBhY2thZ2UvKiAvdXNyDQoNCmxpbnV4LXBhY2thZ2UvYmluL2tpdHRlbiBfX2NvbXBsZXRlX18gc2V0dXAgYmFzaCB8IGluc3RhbGwgLURtNjQ0IC9kZXYvc3RkaW4gL3Vzci9zaGFyZS9iYXNoLWNvbXBsZXRpb24vY29tcGxldGlvbnMva2l0dHkNCmxpbnV4LXBhY2thZ2UvYmluL2tpdHRlbiBfX2NvbXBsZXRlX18gc2V0dXAgZmlzaCB8IGluc3RhbGwgLURtNjQ0IC9kZXYvc3RkaW4gL3Vzci9zaGFyZS9maXNoL3ZlbmRvcl9jb21wbGV0aW9ucy5kL2tpdHR5LmZpc2gNCmxpbnV4LXBhY2thZ2UvYmluL2tpdHRlbiBfX2NvbXBsZXRlX18gc2V0dXAgenNoICB8IGluc3RhbGwgLURtNjQ0IC9kZXYvc3RkaW4gL3Vzci9zaGFyZS96c2gvc2l0ZS1mdW5jdGlvbnMvX2tpdHR5DQoNCmluc3RhbGwgLURtIDY0NCAvdXNyL3NoYXJlL2ljb25zL2hpY29sb3IvMjU2eDI1Ni9hcHBzL2tpdHR5LnBuZyAvdXNyL3NoYXJlL3BpeG1hcHMva2l0dHkucG5nDQo=</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>simde</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>xxHash</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>nerd-fonts-symbolic</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

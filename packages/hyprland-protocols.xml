@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>hyprland-protocols</code>
+  <description>V2F5bGFuZCBwcm90b2NvbCBleHRlbnNpb25zIGZvciBIeXBybGFuZA==</description>
+  <sourcefile>hyprland-protocols-0.7.0.tar.gz</sourcefile>
+  <sourcedir>hyprland-protocols-0.7.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>meson</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>sndio</code>
+  <description>U25kaW8gaXMgYSBzbWFsbCBhdWRpbyBhbmQgTUlESSBmcmFtZXdvcmsgcGFydCBvZiB0aGUgT3BlbkJTRCBwcm9qZWN0IGFuZCBwb3J0ZWQgdG8gRnJlZUJTRCwgTGludXggYW5kIE5ldEJTRA==</description>
+  <sourcefile>sndio-1.10.0.tar.gz</sourcefile>
+  <sourcedir>sndio-1.10.0</sourcedir>
+  <unpack/>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWVuYWJsZS1hbHNhIC0td2l0aC1saWJic2Q=</configure>
+  <build/>
+  <install>bWFrZSBpbnN0YWxsDQoNCmluc3RhbGwgLUQgLW0gNjQ0IGNvbnRyaWIvc25kaW9kLnNlcnZpY2UgXA0KICAgICIvdXNyL2xpYi9zeXN0ZW1kL3N5c3RlbS9zbmRpb2Quc2VydmljZSINCmluc3RhbGwgLUQgLW0gNjQ0IGNvbnRyaWIvZGVmYXVsdC5zbmRpb2QgXA0KICAgICIvZXRjL2RlZmF1bHQvc25kaW9kIg0K</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>alsa-lib</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>libbsd</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

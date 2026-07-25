@@ -1,48 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>hyprgraphics</code>
-  <description>SHlwcmxhbmQgZ3JhcGhpY3MgLyByZXNvdXJjZSB1dGlsaXRpZXM=</description>
-  <sourcefile>hyprgraphics-0.1.3.tar.gz</sourcefile>
-  <sourcedir>hyprgraphics-0.1.3</sourcedir>
+  <code>hyprland-guiutils</code>
+  <description>SHlwcmxhbmQgR1VJIHV0aWxpdGllcw==</description>
+  <sourcefile>hyprland-guiutils-0.2.1.tar.gz</sourcefile>
+  <sourcedir>hyprland-guiutils-0.2.1</sourcedir>
   <unpack/>
   <configure/>
   <build/>
   <install/>
   <localbuild>0</localbuild>
-  <template>cmake-ninja</template>
+  <template>hyprland-library</template>
   <dependances>
     <dependance>
-      <code>pixman</code>
+      <code>wayland</code>
       <weight>1</weight>
     </dependance>
     <dependance>
-      <code>libjpeg-turbo</code>
+      <code>wayland-protocols</code>
       <weight>2</weight>
     </dependance>
     <dependance>
-      <code>cairo</code>
+      <code>libxkbcommon</code>
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>libwebp</code>
+      <code>qt6</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>ImageMagick</code>
+      <code>jasper</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>libjxl</code>
+      <code>hyprwayland-scanner</code>
       <weight>6</weight>
     </dependance>
     <dependance>
       <code>hyprutils</code>
       <weight>7</weight>
-    </dependance>
-    <dependance>
-      <code>libspng</code>
-      <weight>8</weight>
     </dependance>
   </dependances>
   <patches/>

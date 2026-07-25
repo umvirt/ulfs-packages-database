@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>nerd-fonts-symbolic</code>
+  <description>SGlnaCBudW1iZXIgb2YgZXh0cmEgZ2x5cGhzIGZyb20gcG9wdWxhciAnaWNvbmljIGZvbnRzJw==</description>
+  <sourcefile>nerd-fonts-symbolic-3.4.0.tar.xz</sourcefile>
+  <sourcedir>nerd-fonts-symbolic-3.4.0</sourcedir>
+  <unpack/>
+  <configure>Iw==</configure>
+  <build>Iw==</build>
+  <install>aW5zdGFsbCAtRG02NDQgU3ltYm9sc05lcmRGb250LVJlZ3VsYXItMy40LjAudHRmIFwNCiAgICAgICAgL3Vzci9zaGFyZS9mb250cy9UVEYvU3ltYm9sc05lcmRGb250LVJlZ3VsYXIudHRmDQppbnN0YWxsIC1EbTY0NCBTeW1ib2xzTmVyZEZvbnRNb25vLVJlZ3VsYXItMy40LjAudHRmIFwNCiAgICAgICAgL3Vzci9zaGFyZS9mb250cy9UVEYvU3ltYm9sc05lcmRGb250TW9uby1SZWd1bGFyLnR0Zg0KaW5zdGFsbCAtRG02NDQgMTAtbmVyZC1mb250LXN5bWJvbHMtMy40LjAuY29uZiBcDQogICAgICAgIC91c3Ivc2hhcmUvZm9udGNvbmZpZy9jb25mLmF2YWlsLzEwLW5lcmQtZm9udC1zeW1ib2xzLmNvbmY=</install>
+  <localbuild>0</localbuild>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

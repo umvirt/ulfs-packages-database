@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>hyprwire</code>
+  <description>QSBmYXN0IGFuZCBjb25zaXN0ZW50IHdpcmUgcHJvdG9jb2wgZm9yIElQQw==</description>
+  <sourcefile>hyprwire-0.3.0.tar.gz</sourcefile>
+  <sourcedir>hyprwire-0.3.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>hyprland-library</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

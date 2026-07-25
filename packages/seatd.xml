@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>seatd</code>
   <description>VGhlIHNlYXRkIHBhY2thZ2UgcHJvdmlkZXMgYSB1bml2ZXJzYWwgc2VhdCBtYW5hZ2VtZW50IGxpYnJhcnkuIEl0IGlzIHdoYXQgYSBsb3Qgb2YgV2F5bGFuZCBjb21wb3NpdG9ycyB1c2UgdG8gbWFuYWdlIHNlYXRzLCBhIHNlc3Npb24gZm9yIGEgdXNlciBpbiB3aGljaCBhcHBsaWNhdGlvbnMgY2FuIGludGVyYWN0IHdpdGgu</description>
-  <sourcefile>seatd-0.9.1.tar.gz</sourcefile>
-  <sourcedir>seatd-0.9.1</sourcedir>
+  <sourcefile>seatd-0.9.2.tar.gz</sourcefile>
+  <sourcedir>seatd-0.9.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSAgICAgICBcDQogICAgICAgICAgICAtRCBzZXJ2ZXI9ZGlzYWJsZWQgICAgICAgIFwNCiAgICAgICAgICAgIC1EIGxpYnNlYXQtc2VhdGQ9ZGlzYWJsZWQgXA0KICAgICAgICAgICAgLi4=</configure>
   <build/>

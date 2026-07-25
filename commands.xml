@@ -7,5 +7,6 @@
     <command>enable_patch_making</command>
     <command>zerofill</command>
     <command>init_kf6</command>
+    <command>hyprland_init</command>
   </commands>
 </packages>

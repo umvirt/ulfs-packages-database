@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>gpsd</code>
+  <description>Z3BzZCBpcyBhIHNlcnZpY2UgZGFlbW9uIHRoYXQgbW9uaXRvcnMgb25lIG9yIG1vcmUgR1BTZXMgb3IgQUlTIHJlY2VpdmVycyBhdHRhY2hlZCB0byBhIGhvc3QgY29tcHV0ZXIgdGhyb3VnaCBzZXJpYWwgb3IgVVNCIHBvcnRzLCBtYWtpbmcgYWxsIGRhdGEgb24gdGhlIGxvY2F0aW9uL2NvdXJzZS92ZWxvY2l0eSBvZiB0aGUgc2Vuc29ycyBhdmFpbGFibGUgdG8gYmUgcXVlcmllZCBvbiBUQ1AgcG9ydCAyOTQ3IG9mIHRoZSBob3N0IGNvbXB1dGVyLg==</description>
+  <sourcefile>gpsd-3.27.5.tar.xz</sourcefile>
+  <sourcedir>gpsd-3.27.5</sourcedir>
+  <unpack/>
+  <configure>X3B5dGhvbnBhdGg9YHB5dGhvbiAtYyAiZnJvbSBzeXNjb25maWcgaW1wb3J0IGdldF9wYXRoOyBwcmludChnZXRfcGF0aCgncGxhdGxpYicpKSJgDQoNCnNjb25zIHByZWZpeD0vdXNyIFwNCiAgICAgICAgc3lzdGVtZD15ZXMgXA0KICAgICAgICBncHNkX2dyb3VwPXV1Y3AgXA0KICAgICAgICBweXRob25fbGliZGlyPSRfcHl0aG9ucGF0aCBcDQogICAgICAgIHNiaW5kaXI9L3Vzci9iaW4gXA0KICAgICAgICBxdF92ZXJzaW9uZWQ9NQ0K</configure>
+  <build>c2NvbnMgYnVpbGQ=</build>
+  <install>c2NvbnMgaW5zdGFsbA==</install>
+  <localbuild>0</localbuild>
+  <dependances>
+    <dependance>
+      <code>SCons</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>
