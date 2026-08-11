@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libgbinder</code>
   <description>R0xpYi1zdHlsZSBpbnRlcmZhY2UgdG8gYmluZGVy</description>
-  <sourcefile>libgbinder-1.1.43.tar.gz</sourcefile>
-  <sourcedir>libgbinder-1.1.43</sourcedir>
+  <sourcefile>libgbinder-1.1.52.tar.gz</sourcefile>
+  <sourcedir>libgbinder-1.1.52</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZSBLRUVQX1NZTUJPTFM9MSByZWxlYXNlIHBrZ2NvbmZpZw==</build>

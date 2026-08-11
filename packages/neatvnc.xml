@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>neatvnc</code>
   <description>QSBsaWJlcmFsbHkgbGljZW5zZWQgVk5DIHNlcnZlciBsaWJyYXJ5IHdpdGggYSBjbGVhbiBpbnRlcmZhY2U=</description>
-  <sourcefile>neatvnc-0.9.5.tar.gz</sourcefile>
-  <sourcedir>neatvnc-0.9.5</sourcedir>
+  <sourcefile>neatvnc-1.0.1.tar.gz</sourcefile>
+  <sourcedir>neatvnc-1.0.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICAgIFwNCiAgICAgIC1EanBlZz1lbmFibGVkICAgICAgICBcDQogICAgICAtRHRscz1lbmFibGVkDQo=</configure>
   <build/>

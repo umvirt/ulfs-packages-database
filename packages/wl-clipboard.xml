@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>wl-clipboard</code>
   <description>Q29tbWFuZC1saW5lIGNvcHkvcGFzdGUgdXRpbGl0aWVzIGZvciBXYXlsYW5k</description>
-  <sourcefile>wl-clipboard-2.2.1.tar.gz</sourcefile>
-  <sourcedir>wl-clipboard-2.2.1</sourcedir>
+  <sourcefile>wl-clipboard-2.3.0.tar.gz</sourcefile>
+  <sourcedir>wl-clipboard-2.3.0</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQNCmNkIGJ1aWxkDQptZXNvbiBzZXR1cCAuLiAgICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciANCg==</configure>
-  <build>Y2QgYnVpbGQNCm5pbmph</build>
-  <install>Y2QgYnVpbGQNCm5pbmphIGluc3RhbGw=</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances>
     <dependance>
       <code>wayland</code>

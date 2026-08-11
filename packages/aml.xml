@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>aml</code>
   <description>QW5vdGhlciBNYWluIExvb3A=</description>
-  <sourcefile>aml-0.3.0.tar.gz</sourcefile>
-  <sourcedir>aml-0.3.0</sourcedir>
+  <sourcefile>aml-1.0.0.tar.gz</sourcefile>
+  <sourcedir>aml-1.0.0</sourcedir>
   <unpack/>
   <configure/>
   <build/>

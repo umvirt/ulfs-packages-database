@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>python3-gbinder</code>
   <description>UHl0aG9uIGJpbmRpbmdzIGZvciBsaWJnYmluZGVy</description>
-  <sourcefile>gbinder-python-1.3.0.tar.gz</sourcefile>
-  <sourcedir>gbinder-python-1.3.0</sourcedir>
+  <sourcefile>gbinder-python-1.3.1.tar.gz</sourcefile>
+  <sourcedir>gbinder-python-1.3.1</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>cHl0aG9uMyBzZXR1cC5weSBidWlsZCAtLWN5dGhvbg==</build>

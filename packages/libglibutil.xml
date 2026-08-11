@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libglibutil</code>
   <description>TGlicmFyeSBvZiBnbGliIHV0aWxpdGllcw==</description>
-  <sourcefile>libglibutil-1.0.80.tar.gz</sourcefile>
-  <sourcedir>libglibutil-1.0.80</sourcedir>
+  <sourcefile>libglibutil-1.0.82.tar.gz</sourcefile>
+  <sourcedir>libglibutil-1.0.82</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>bWFrZSBLRUVQX1NZTUJPTFM9MSByZWxlYXNlIHBrZ2NvbmZpZw0K</build>

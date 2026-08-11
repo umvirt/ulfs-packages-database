@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>xdg-user-dirs</code>
   <description>WGRnLXVzZXItZGlycyBpcyBhIHRvb2wgdG8gaGVscCBtYW5hZ2Ug4oCcd2VsbCBrbm93buKAnSB1c2VyIGRpcmVjdG9yaWVzIGxpa2UgdGhlIGRlc2t0b3AgZm9sZGVyIGFuZCB0aGUgbXVzaWMgZm9sZGVyLiBJdCBhbHNvIGhhbmRsZXMgbG9jYWxpemF0aW9uIChpLmUuIHRyYW5zbGF0aW9uKSBvZiB0aGUgZmlsZW5hbWVzLg==</description>
-  <sourcefile>xdg-user-dirs-0.18.tar.gz</sourcefile>
-  <sourcedir>xdg-user-dirs-0.18</sourcedir>
+  <sourcefile>xdg-user-dirs-v0.19.tar.gz</sourcefile>
+  <sourcedir>xdg-user-dirs-v0.19</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICAgICAgICAgXA0KICAgICAgICAgICAgLS1zeXNjb25mZGlyPS9ldGMgICAgICAgXA0KICAgICAgICAgICAgLS1kaXNhYmxlLWRvY3VtZW50YXRpb24g</configure>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC0tcHJlZml4PS91c3IgICAgICAgXA0KICAgICAgICAgICAgLS1idWlsZHR5cGU9cmVsZWFzZSBcDQogICAgICAgICAgICAtRCBkb2NzPWZhbHNlICAgICAgIFwNCiAgICAgICAgICAgIC4u</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>
+  <template>meson</template>
   <dependances/>
   <patches/>
   <addons/>

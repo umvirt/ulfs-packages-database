@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>dkms</code>
   <description>RHluYW1pYyBLZXJuZWwgTW9kdWxlIFN1cHBvcnQ=</description>
-  <sourcefile>dkms-3.1.8.tar.gz</sourcefile>
-  <sourcedir>dkms-3.1.8</sourcedir>
+  <sourcefile>dkms-3.4.2.tar.gz</sourcefile>
+  <sourcedir>dkms-3.4.2</sourcedir>
   <unpack/>
   <configure>Iw==</configure>
   <build>Iw==</build>
