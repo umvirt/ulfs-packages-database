@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>ksquares</code>
   <description/>
-  <sourcefile>ksquares-25.08.0.tar.xz</sourcefile>
-  <sourcedir>ksquares-25.08.0</sourcedir>
+  <sourcefile>ksquares-25.12.2.tar.xz</sourcefile>
+  <sourcedir>ksquares-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

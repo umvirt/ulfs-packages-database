@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kbreakout</code>
   <description/>
-  <sourcefile>kbreakout-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kbreakout-25.08.0</sourcedir>
+  <sourcefile>kbreakout-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kbreakout-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

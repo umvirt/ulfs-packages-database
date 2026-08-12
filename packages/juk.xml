@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>juk</code>
   <description/>
-  <sourcefile>juk-25.08.0.tar.xz</sourcefile>
-  <sourcedir>juk-25.08.0</sourcedir>
+  <sourcefile>juk-25.12.2.tar.xz</sourcefile>
+  <sourcedir>juk-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

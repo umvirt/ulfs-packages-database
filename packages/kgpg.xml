@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kgpg</code>
   <description/>
-  <sourcefile>kgpg-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kgpg-25.08.0</sourcedir>
+  <sourcefile>kgpg-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kgpg-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

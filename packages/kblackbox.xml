@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kblackbox</code>
   <description/>
-  <sourcefile>kblackbox-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kblackbox-25.08.0</sourcedir>
+  <sourcefile>kblackbox-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kblackbox-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

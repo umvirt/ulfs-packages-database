@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>audex</code>
   <description/>
-  <sourcefile>audex-25.08.0.tar.xz</sourcefile>
-  <sourcedir>audex-25.08.0</sourcedir>
+  <sourcefile>audex-25.12.2.tar.xz</sourcefile>
+  <sourcedir>audex-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

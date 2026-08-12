@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kldap</code>
   <description/>
-  <sourcefile>kldap-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kldap-25.08.0</sourcedir>
+  <sourcefile>kldap-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kldap-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

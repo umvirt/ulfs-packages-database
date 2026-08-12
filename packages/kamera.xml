@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kamera</code>
   <description/>
-  <sourcefile>kamera-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kamera-25.08.0</sourcedir>
+  <sourcefile>kamera-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kamera-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

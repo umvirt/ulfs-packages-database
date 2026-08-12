@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kunifiedpush</code>
   <description/>
-  <sourcefile>kunifiedpush-1.0.0.tar.xz</sourcefile>
-  <sourcedir>kunifiedpush-1.0.0</sourcedir>
+  <sourcefile>kunifiedpush-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kunifiedpush-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

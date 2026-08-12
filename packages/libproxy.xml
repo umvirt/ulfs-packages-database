@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libproxy</code>
   <description>bGlicHJveHkgaXMgYSBsaWJyYXJ5IHRoYXQgcHJvdmlkZXMgYXV0b21hdGljIHByb3h5IGNvbmZpZ3VyYXRpb24gbWFuYWdlbWVudC4=</description>
-  <sourcefile>libproxy-0.5.10.tar.gz</sourcefile>
-  <sourcedir>libproxy-0.5.10</sourcedir>
+  <sourcefile>libproxy-0.5.12.tar.gz</sourcefile>
+  <sourcedir>libproxy-0.5.12</sourcedir>
   <unpack/>
   <configure/>
   <build/>

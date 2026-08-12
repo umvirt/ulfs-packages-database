@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kdenlive</code>
   <description>VGhlIEtkZW5saXZlIHBhY2thZ2UgaXMgYSBLRjYgYmFzZWQgdmlkZW8gZWRpdG9yLg==</description>
-  <sourcefile>kdenlive-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kdenlive-25.08.0</sourcedir>
+  <sourcefile>kdenlive-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kdenlive-25.12.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPSRLRjZfUFJFRklYIFwNCiAgICAgIC1EIEZFVENIX09USU89T0ZGICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
   <build/>

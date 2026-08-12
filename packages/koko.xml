@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>koko</code>
   <description/>
-  <sourcefile>koko-25.08.0.tar.xz</sourcefile>
-  <sourcedir>koko-25.08.0</sourcedir>
+  <sourcefile>koko-25.12.2.tar.xz</sourcefile>
+  <sourcedir>koko-25.12.2</sourcedir>
   <unpack/>
   <configure>Y3AgLXYgLi4ve2FkbWluMUNvZGVzQVNDSUkudHh0LGFkbWluMkNvZGVzLnR4dCxjaXRpZXMxMDAwLnppcH0gc3JjLw0KDQpta2RpciBidWlsZCAmJg0KY2QgICAgYnVpbGQgJiYNCg0KY21ha2UgLUQgQ01BS0VfSU5TVEFMTF9QUkVGSVg9JEtGNl9QUkVGSVggXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICAgICAgICAgXA0KICAgICAgLUQgQlVJTERfVEVTVElORz1PRkYgICAgICAgICAgICAgICAgXA0KICAgICAgLVcgbm8tZGV2IC4u</configure>
   <build/>

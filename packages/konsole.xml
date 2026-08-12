@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>konsole</code>
   <description>VGhlIEtvbnNvbGUgcGFja2FnZSBpcyBhIEtGNiBiYXNlZCB0ZXJtaW5hbCBlbXVsYXRvci4=</description>
-  <sourcefile>konsole-25.08.0.tar.xz</sourcefile>
-  <sourcedir>konsole-25.08.0</sourcedir>
+  <sourcefile>konsole-25.12.2.tar.xz</sourcefile>
+  <sourcedir>konsole-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

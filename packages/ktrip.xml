@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>ktrip</code>
   <description/>
-  <sourcefile>ktrip-25.08.0.tar.xz</sourcefile>
-  <sourcedir>ktrip-25.08.0</sourcedir>
+  <sourcefile>ktrip-25.12.2.tar.xz</sourcefile>
+  <sourcedir>ktrip-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

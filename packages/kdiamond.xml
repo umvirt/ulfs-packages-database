@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kdiamond</code>
   <description/>
-  <sourcefile>kdiamond-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kdiamond-25.08.0</sourcedir>
+  <sourcefile>kdiamond-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kdiamond-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

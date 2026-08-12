@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kaccounts-providers</code>
   <description/>
-  <sourcefile>kaccounts-providers-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kaccounts-providers-25.08.0</sourcedir>
+  <sourcefile>kaccounts-providers-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kaccounts-providers-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

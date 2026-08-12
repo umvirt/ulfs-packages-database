@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kgeography</code>
   <description/>
-  <sourcefile>kgeography-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kgeography-25.08.0</sourcedir>
+  <sourcefile>kgeography-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kgeography-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>falkon</code>
   <description>RmFsa29uIGlzIGEgS0RFIHdlYiBicm93c2VyIHVzaW5nIHRoZSBRdFdlYkVuZ2luZSByZW5kZXJpbmcgZW5naW5lLiBJdCB3YXMgcHJldmlvdXNseSBrbm93biBhcyBRdXBaaWxsYS4gSXQgYWltcyB0byBiZSBhIGxpZ2h0d2VpZ2h0IHdlYiBicm93c2VyIGF2YWlsYWJsZSB0aHJvdWdoIGFsbCBtYWpvciBwbGF0Zm9ybXMu</description>
-  <sourcefile>falkon-25.08.0.tar.xz</sourcefile>
-  <sourcedir>falkon-25.08.0</sourcedir>
+  <sourcefile>falkon-25.12.2.tar.xz</sourcefile>
+  <sourcedir>falkon-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

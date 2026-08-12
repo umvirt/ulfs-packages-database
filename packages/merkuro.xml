@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>merkuro</code>
   <description/>
-  <sourcefile>merkuro-25.08.0.tar.xz</sourcefile>
-  <sourcedir>merkuro-25.08.0</sourcedir>
+  <sourcefile>merkuro-25.12.2.tar.xz</sourcefile>
+  <sourcedir>merkuro-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

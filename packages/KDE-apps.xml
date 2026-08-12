@@ -24,60 +24,64 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>kdenlive</code>
+      <code>kddockwidgets</code>
       <weight>4</weight>
     </dependance>
     <dependance>
-      <code>kmix</code>
+      <code>kdenlive</code>
       <weight>5</weight>
     </dependance>
     <dependance>
-      <code>khelpcenter</code>
+      <code>kmix</code>
       <weight>6</weight>
     </dependance>
     <dependance>
-      <code>konsole</code>
+      <code>khelpcenter</code>
       <weight>7</weight>
     </dependance>
     <dependance>
-      <code>konversation</code>
+      <code>konsole</code>
       <weight>8</weight>
     </dependance>
     <dependance>
-      <code>libkexiv2</code>
+      <code>konversation</code>
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>plasma-activities</code>
+      <code>libkexiv2</code>
       <weight>10</weight>
     </dependance>
     <dependance>
-      <code>plasma-activities-stats</code>
+      <code>plasma-activities</code>
       <weight>11</weight>
     </dependance>
     <dependance>
-      <code>kio-extras</code>
+      <code>plasma-activities-stats</code>
       <weight>12</weight>
     </dependance>
     <dependance>
-      <code>okular</code>
+      <code>kio-extras</code>
       <weight>13</weight>
     </dependance>
     <dependance>
-      <code>libkdcraw</code>
+      <code>okular</code>
       <weight>14</weight>
     </dependance>
     <dependance>
-      <code>gwenview</code>
+      <code>libkdcraw</code>
       <weight>15</weight>
     </dependance>
     <dependance>
-      <code>libkcddb</code>
+      <code>gwenview</code>
       <weight>16</weight>
     </dependance>
     <dependance>
-      <code>k3b</code>
+      <code>libkcddb</code>
       <weight>17</weight>
+    </dependance>
+    <dependance>
+      <code>k3b</code>
+      <weight>18</weight>
     </dependance>
   </dependances>
   <patches/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>artikulate</code>
   <description/>
-  <sourcefile>artikulate-25.08.0.tar.xz</sourcefile>
-  <sourcedir>artikulate-25.08.0</sourcedir>
+  <sourcefile>artikulate-25.12.2.tar.xz</sourcefile>
+  <sourcedir>artikulate-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

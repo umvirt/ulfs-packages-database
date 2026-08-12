@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>kddockwidgets</code>
+  <description>VGhlIEtERG9ja1dpZGdldHMgcGFja2FnZSBwcm92aWRlcyBRdCBkb2NrIHdpZGdldHMgdGhhdCBhcmUgc3VpdGFibGUgZm9yIHJlcGxhY2luZyBRRG9ja1dpZGdldCBhbmQgaW1wbGVtZW50aW5nIGFkdmFuY2VkIGZ1bmN0aW9uYWxpdHkgdGhhdCBpcyBtaXNzaW5nIGZyb20gUXQu</description>
+  <sourcefile>kddockwidgets-2.4.0.tar.gz</sourcefile>
+  <sourcedir>KDDockWidgets-2.4.0</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>fmt</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>Vulkan-Loader</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>grantlee-editor</code>
   <description/>
-  <sourcefile>grantlee-editor-25.08.0.tar.xz</sourcefile>
-  <sourcedir>grantlee-editor-25.08.0</sourcedir>
+  <sourcefile>grantlee-editor-25.12.2.tar.xz</sourcefile>
+  <sourcedir>grantlee-editor-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

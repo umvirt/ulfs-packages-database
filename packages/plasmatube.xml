@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>plasmatube</code>
   <description/>
-  <sourcefile>plasmatube-25.08.0.tar.xz</sourcefile>
-  <sourcedir>plasmatube-25.08.0</sourcedir>
+  <sourcefile>plasmatube-25.12.2.tar.xz</sourcefile>
+  <sourcedir>plasmatube-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

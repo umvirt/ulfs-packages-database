@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>akonadi</code>
   <description/>
-  <sourcefile>akonadi-25.08.0.tar.xz</sourcefile>
-  <sourcedir>akonadi-25.08.0</sourcedir>
+  <sourcefile>akonadi-25.12.2.tar.xz</sourcefile>
+  <sourcedir>akonadi-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

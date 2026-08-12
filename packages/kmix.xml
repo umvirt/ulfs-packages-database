@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kmix</code>
   <description>VGhlIEtNaXggcGFja2FnZSBjb250YWlucyBhIEtGNiBiYXNlZCBTb3VuZCBNaXhlciBhcHBsaWNhdGlvbi4=</description>
-  <sourcefile>kmix-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kmix-25.08.0</sourcedir>
+  <sourcefile>kmix-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kmix-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

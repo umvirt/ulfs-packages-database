@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>okular</code>
   <description>T2t1bGFyIGlzIGEgZG9jdW1lbnQgdmlld2VyIGZvciBLREUuIEl0IGNhbiB2aWV3IGRvY3VtZW50cyBvZiBtYW55IHR5cGVzIGluY2x1ZGluZyBQREYsIFBvc3RTY3JpcHQsIFRJRkYsIERqVnUsIERWSSwgWFBTLCBhbmQgZVB1Yi4=</description>
-  <sourcefile>okular-25.08.0.tar.xz</sourcefile>
-  <sourcedir>okular-25.08.0</sourcedir>
+  <sourcefile>okular-25.12.2.tar.xz</sourcefile>
+  <sourcedir>okular-25.12.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNClNLSVBfT1BUSU9OQUw9J0Rpc2NvdW50O0RqVnVMaWJyZTtFUHViO0xpYlNwZWN0cmU7TGliWmlwJw0KDQpjbWFrZSAtRCBDTUFLRV9JTlNUQUxMX1BSRUZJWD0kS0Y2X1BSRUZJWCBcDQogICAgICAtRCBDTUFLRV9CVUlMRF9UWVBFPVJlbGVhc2UgICAgICAgICBcDQogICAgICAtRCBCVUlMRF9URVNUSU5HPU9GRiAgICAgICAgICAgICAgICBcDQogICAgICAtRCBGT1JDRV9OT1RfUkVRVUlSRURfREVQRU5ERU5DSUVTPSIkU0tJUF9PUFRJT05BTCIgXA0KICAgICAgLVcgbm8tZGV2IC4uDQo=</configure>
   <build/>

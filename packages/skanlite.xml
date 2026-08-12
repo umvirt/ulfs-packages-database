@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>skanlite</code>
   <description/>
-  <sourcefile>skanlite-25.08.0.tar.xz</sourcefile>
-  <sourcedir>skanlite-25.08.0</sourcedir>
+  <sourcefile>skanlite-25.12.2.tar.xz</sourcefile>
+  <sourcedir>skanlite-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

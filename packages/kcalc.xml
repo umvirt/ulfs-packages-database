@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kcalc</code>
   <description/>
-  <sourcefile>kcalc-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kcalc-25.08.0</sourcedir>
+  <sourcefile>kcalc-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kcalc-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

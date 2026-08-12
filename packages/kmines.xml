@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kmines</code>
   <description/>
-  <sourcefile>kmines-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kmines-25.08.0</sourcedir>
+  <sourcefile>kmines-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kmines-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

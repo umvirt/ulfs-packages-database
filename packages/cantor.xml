@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>cantor</code>
   <description/>
-  <sourcefile>cantor-25.08.0.tar.xz</sourcefile>
-  <sourcedir>cantor-25.08.0</sourcedir>
+  <sourcefile>cantor-25.12.2.tar.xz</sourcefile>
+  <sourcedir>cantor-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

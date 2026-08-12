@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kosmindoormap</code>
   <description/>
-  <sourcefile>kosmindoormap-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kosmindoormap-25.08.0</sourcedir>
+  <sourcefile>kosmindoormap-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kosmindoormap-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

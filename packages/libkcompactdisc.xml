@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>libkcompactdisc</code>
   <description/>
-  <sourcefile>libkcompactdisc-25.08.0.tar.xz</sourcefile>
-  <sourcedir>libkcompactdisc-25.08.0</sourcedir>
+  <sourcefile>libkcompactdisc-25.12.2.tar.xz</sourcefile>
+  <sourcedir>libkcompactdisc-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

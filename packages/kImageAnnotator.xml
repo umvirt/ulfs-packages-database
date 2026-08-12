@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>kImageAnnotator</code>
   <description>a0ltYWdlQW5ub3RhdG9yIGlzIGEgdG9vbCBmb3IgYW5ub3RhdGluZyBpbWFnZXMu</description>
-  <sourcefile>kImageAnnotator-0.7.1.tar.gz</sourcefile>
-  <sourcedir>kImageAnnotator-0.7.1</sourcedir>
+  <sourcefile>kImageAnnotator-0.7.2.tar.gz</sourcefile>
+  <sourcedir>kImageAnnotator-0.7.2</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgXA0KICAgICAgLUQgQ01BS0VfQlVJTERfVFlQRT1SZWxlYXNlICBcDQogICAgICAtRCBCVUlMRF9TSEFSRURfTElCUz1PTiAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1dJVEhfUVQ2PU9OICAgICAgICAgXA0KICAgICAgLi4NCg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA0K</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>kColorPicker</code>

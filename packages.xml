@@ -1922,5 +1922,6 @@
     <package>scdoc</package>
     <package>Catch2</package>
     <package>Hyprland</package>
+    <package>kddockwidgets</package>
   </packages>
 </packages>

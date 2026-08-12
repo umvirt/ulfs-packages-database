@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kalgebra</code>
   <description/>
-  <sourcefile>kalgebra-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kalgebra-25.08.0</sourcedir>
+  <sourcefile>kalgebra-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kalgebra-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>kanagram</code>
   <description/>
-  <sourcefile>kanagram-25.08.0.tar.xz</sourcefile>
-  <sourcedir>kanagram-25.08.0</sourcedir>
+  <sourcefile>kanagram-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kanagram-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>

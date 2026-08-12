@@ -3,10 +3,10 @@
   <release>0.3</release>
   <code>xapian</code>
   <description>WGFwaWFuIGlzIGFuIG9wZW4gc291cmNlIHNlYXJjaCBlbmdpbmUgbGlicmFyeS4=</description>
-  <sourcefile>xapian-core-1.4.29.tar.xz</sourcefile>
-  <sourcedir>xapian-core-1.4.29</sourcedir>
+  <sourcefile>xapian-core-1.4.30.tar.xz</sourcefile>
+  <sourcedir>xapian-core-1.4.30</sourcedir>
   <unpack/>
-  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3hhcGlhbi1jb3JlLTEuNC4yOQ0K</configure>
+  <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAgICBcDQogICAgICAgICAgICAtLWRpc2FibGUtc3RhdGljIFwNCiAgICAgICAgICAgIC0tZG9jZGlyPS91c3Ivc2hhcmUvZG9jL3hhcGlhbi1jb3JlLTEuNC4zMA0K</configure>
   <build/>
   <install/>
   <localbuild>0</localbuild>

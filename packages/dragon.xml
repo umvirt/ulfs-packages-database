@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>dragon</code>
   <description/>
-  <sourcefile>dragon-25.08.0.tar.xz</sourcefile>
-  <sourcedir>dragon-25.08.0</sourcedir>
+  <sourcefile>dragon-25.12.2.tar.xz</sourcefile>
+  <sourcedir>dragon-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>
