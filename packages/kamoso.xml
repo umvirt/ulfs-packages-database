@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>kamoso</code>
+  <description>QSB3ZWJjYW0gcmVjb3JkZXIgZnJvbSBLREUgY29tbXVuaXR5</description>
+  <sourcefile>kamoso-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kamoso-25.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances>
+    <dependance>
+      <code>gst-plugins-base</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gst-plugins-bad</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gst-plugins-good</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>gstreamer-qml</code>
+      <weight>0</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

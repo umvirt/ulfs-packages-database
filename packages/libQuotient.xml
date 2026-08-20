@@ -3,13 +3,14 @@
   <release>0.3</release>
   <code>libQuotient</code>
   <description>QSBRdCBsaWJyYXJ5IHRvIHdyaXRlIGNyb3NzLXBsYXRmb3JtIGNsaWVudHMgZm9yIE1hdHJpeA==</description>
-  <sourcefile>libQuotient-0.9.3.tar.gz</sourcefile>
-  <sourcedir>libQuotient-0.9.3</sourcedir>
+  <sourcefile>libQuotient-0.9.6.1.tar.gz</sourcefile>
+  <sourcedir>libQuotient-0.9.6.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1NIQVJFRF9MSUJTPU9OICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg==</configure>
-  <build>Y2QgICAgYnVpbGQNCm1ha2UNCg==</build>
-  <install>Y2QgICAgYnVpbGQNCm1ha2UgaW5zdGFsbA==</install>
+  <build/>
+  <install/>
   <localbuild>0</localbuild>
+  <template>cmake-make</template>
   <dependances>
     <dependance>
       <code>olm</code>

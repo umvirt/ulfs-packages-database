@@ -1535,7 +1535,7 @@
     <package>kio-zeroconf</package>
     <package>konqueror</package>
     <package>krdc</package>
-    <package>freerdp2</package>
+    <package>!freerdp2</package>
     <package>krfb</package>
     <package>ktorrent</package>
     <package>libktorrent</package>
@@ -1923,5 +1923,11 @@
     <package>Catch2</package>
     <package>Hyprland</package>
     <package>kddockwidgets</package>
+    <package>rocs</package>
+    <package>kdegraphics-thumbnailers</package>
+    <package>kamoso</package>
+    <package>gstreamer-qml</package>
+    <package>umbrello</package>
+    <package>kdegraphics-mobipocket</package>
   </packages>
 </packages>

@@ -79,6 +79,10 @@
       <code>step</code>
       <weight>17</weight>
     </dependance>
+    <dependance>
+      <code>rocs</code>
+      <weight>18</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

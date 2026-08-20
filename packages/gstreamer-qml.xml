@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>gstreamer-qml</code>
+  <description>Z3N0cmVhbWVyIGlzIGEgc3RyZWFtaW5nIG1lZGlhIGZyYW1ld29yayB0aGF0IGVuYWJsZXMgYXBwbGljYXRpb25zIHRvIHNoYXJlIGEgY29tbW9uIHNldCBvZiBwbHVnaW5zIGZvciB0YXNrcyBzdWNoIGFzIHZpZGVvIGVuY29kaW5nIGFuZCBkZWNvZGluZywgYXVkaW8gZW5jb2RpbmcgYW5kIGRlY29kaW5nLCBhdWRpbyBhbmQgdmlkZW8gZmlsdGVycywgYXVkaW8gdmlzdWFsaXNhdGlvbiwgd2ViIHN0cmVhbWluZyBhbmQgYW55dGhpbmcgZWxzZSB0aGF0IHN0cmVhbXMgaW4gcmVhbC10aW1lIG9yIG90aGVyd2lzZS4gVGhpcyBwYWNrYWdlIG9ubHkgcHJvdmlkZXMgYmFzZSBmdW5jdGlvbmFsaXR5IGFuZCBsaWJyYXJpZXMu</description>
+  <sourcefile>gstreamer-1.28.1.tar.xz</sourcefile>
+  <sourcedir>gstreamer-1.28.1</sourcedir>
+  <unpack/>
+  <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCm1lc29uIHNldHVwIC4uICAgICAgICAgICAgXA0KICAgICAgLS1wcmVmaXg9L3VzciAgICAgICBcDQogICAgICAtLWJ1aWxkdHlwZT1yZWxlYXNlIFwNCiAgICAgIC1EIGdzdF9kZWJ1Zz1mYWxzZSA=</configure>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>meson</template>
+  <dependances>
+    <dependance>
+      <code>qt6</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
+      <code>glib</code>
+      <weight>1</weight>
+    </dependance>
+    <dependance>
+      <code>gobject-introspection</code>
+      <weight>2</weight>
+    </dependance>
+  </dependances>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

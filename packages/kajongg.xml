@@ -25,10 +25,6 @@
       <weight>3</weight>
     </dependance>
     <dependance>
-      <code>python3</code>
-      <weight>4</weight>
-    </dependance>
-    <dependance>
       <code>vorbis-tools</code>
       <weight>5</weight>
     </dependance>

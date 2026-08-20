@@ -37,7 +37,12 @@
       <weight>6</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>sane-backends-gcc.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>

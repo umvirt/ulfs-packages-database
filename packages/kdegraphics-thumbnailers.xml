@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <release>0.3</release>
-  <code>kdeconnect-kde</code>
-  <description/>
-  <sourcefile>kdeconnect-kde-25.12.2.tar.xz</sourcefile>
-  <sourcedir>kdeconnect-kde-25.12.2</sourcedir>
+  <code>kdegraphics-thumbnailers</code>
+  <description>VGh1bWJuYWlsZXJzIGZvciB2YXJpb3VzIGdyYXBoaWNzIGZpbGUgZm9ybWF0cw==</description>
+  <sourcefile>kdegraphics-thumbnailers-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kdegraphics-thumbnailers-25.12.2</sourcedir>
   <unpack/>
   <configure/>
   <build/>
@@ -13,7 +13,7 @@
   <template>kde-apps</template>
   <dependances>
     <dependance>
-      <code>libfakekey</code>
+      <code>kdegraphics-mobipocket</code>
       <weight>0</weight>
     </dependance>
   </dependances>

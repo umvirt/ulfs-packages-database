@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>gpgme-qt6</code>
   <description>UXQ2IGxpYnJhcnkgZm9yIEdudVBH</description>
-  <sourcefile>gpgme-2.0.0.tar.bz2</sourcefile>
-  <sourcedir>gpgme-2.0.0</sourcedir>
+  <sourcefile>gpgme-2.0.1.tar.bz2</sourcefile>
+  <sourcedir>gpgme-2.0.1</sourcedir>
   <unpack/>
   <configure>Li9jb25maWd1cmUgLS1wcmVmaXg9L3VzciAtLWRpc2FibGUtZ3BnLXRlc3Q=</configure>
   <build>bWFrZQ0K</build>

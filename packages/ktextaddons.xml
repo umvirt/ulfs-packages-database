@@ -3,8 +3,8 @@
   <release>0.3</release>
   <code>ktextaddons</code>
   <description>VmFyaW91cyB0ZXh0IGhhbmRsaW5nIGFkZG9ucw==</description>
-  <sourcefile>ktextaddons-1.6.0.tar.xz</sourcefile>
-  <sourcedir>ktextaddons-1.6.0</sourcedir>
+  <sourcefile>ktextaddons-1.9.1.tar.xz</sourcefile>
+  <sourcedir>ktextaddons-1.9.1</sourcedir>
   <unpack/>
   <configure>bWtkaXIgYnVpbGQgJiYNCmNkICAgIGJ1aWxkICYmDQoNCmNtYWtlIC1EIENNQUtFX0lOU1RBTExfUFJFRklYPS91c3IgICAgICAgIFwNCiAgICAgIC1EIENNQUtFX0JVSUxEX1RZUEU9UmVsZWFzZSAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1RFU1RJTkc9T0ZGICAgICAgICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX0RFU0lHTkVSUExVR0lOPU9OICAgICAgICAgIFwNCiAgICAgIC1EIEJVSUxEX1FDSD1PTiAgICAgICAgICAgICAgICAgICAgIFwNCiAgICAgIC1XIG5vLWRldiAuLg0K</configure>
   <build/>

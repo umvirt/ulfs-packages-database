@@ -51,6 +51,10 @@
       <code>plasmatube</code>
       <weight>10</weight>
     </dependance>
+    <dependance>
+      <code>kamoso</code>
+      <weight>11</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

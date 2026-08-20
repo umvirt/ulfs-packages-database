@@ -48,10 +48,6 @@
       <weight>9</weight>
     </dependance>
     <dependance>
-      <code>freerdp2</code>
-      <weight>10</weight>
-    </dependance>
-    <dependance>
       <code>krfb</code>
       <weight>11</weight>
     </dependance>

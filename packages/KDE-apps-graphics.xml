@@ -55,6 +55,10 @@
       <code>svgpart</code>
       <weight>11</weight>
     </dependance>
+    <dependance>
+      <code>kdegraphics-thumbnailers</code>
+      <weight>12</weight>
+    </dependance>
   </dependances>
   <patches/>
   <addons/>

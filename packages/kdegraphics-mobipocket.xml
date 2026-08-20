@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <release>0.3</release>
+  <code>kdegraphics-mobipocket</code>
+  <description>J0EgbGlicmFyeSB0byBoYW5kbGUgbW9iaXBvY2tldCBmaWxlcw==</description>
+  <sourcefile>kdegraphics-mobipocket-25.12.2.tar.xz</sourcefile>
+  <sourcedir>kdegraphics-mobipocket-25.12.2</sourcedir>
+  <unpack/>
+  <configure/>
+  <build/>
+  <install/>
+  <localbuild>0</localbuild>
+  <template>kde-apps</template>
+  <dependances/>
+  <patches/>
+  <addons/>
+  <nestings/>
+  <comments/>
+</package>

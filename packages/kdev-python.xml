@@ -17,7 +17,12 @@
       <weight>1</weight>
     </dependance>
   </dependances>
-  <patches/>
+  <patches>
+    <patch>
+      <filename>kdev-python-version.patch</filename>
+      <mode>1</mode>
+    </patch>
+  </patches>
   <addons/>
   <nestings/>
   <comments/>
