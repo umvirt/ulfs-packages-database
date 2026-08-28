@@ -13,6 +13,10 @@
   <template>meson</template>
   <dependances>
     <dependance>
+      <code>python3-gi-docgen</code>
+      <weight>0</weight>
+    </dependance>
+    <dependance>
       <code>curl</code>
       <weight>1</weight>
     </dependance>
